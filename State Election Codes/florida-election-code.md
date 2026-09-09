@@ -1,0 +1,9633 @@
+# Florida — Florida Statutes, Title IX — Electors and Elections (chapters 97-107)
+
+Source: official text scraped from http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0097/0097.html
+Sections: 11
+
+## Florida § 0097
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0097. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0097/0097.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 97
+QUALIFICATION AND REGISTRATION OF ELECTORS
+View Entire Chapter
+CHAPTER 97
+TITLE IX
+ELECTORS AND ELECTIONS
+CHAPTER 97
+QUALIFICATION AND REGISTRATION OF ELECTORS
+PART I
+GENERAL PROVISIONS
+(ss. 97.011-97.0291)
+PART II
+FLORIDA VOTER REGISTRATION ACT
+(ss. 97.032-97.105)
+PART I
+GENERAL PROVISIONS
+97.011
+Short title.
+97.0115
+Preemption.
+97.012
+Secretary of State as chief election officer.
+97.021
+Definitions.
+97.022
+Office of Election Crimes and Security; creation; purpose and duties.
+97.023
+Procedures on complaints of violations.
+97.025
+Election Code; copies thereof.
+97.026
+Forms to be available in alternative formats and via the Internet.
+97.028
+Procedures on complaints of violations of Title III of the Help America Vote Act of 2002.
+97.029
+Civil actions challenging the validity of election laws.
+97.0291
+Prohibition on use of private funds for election-related expenses.
+97.011
+Short title.
+—
+Chapters 97-106 inclusive shall be known and may be cited as “The Florida Election Code.”
+History.
+—
+s. 1, ch. 26870, 1951; s. 1, ch. 65-60; s. 1, ch. 77-175.
+97.0115
+Preemption.
+—
+All matters set forth in chapters 97-105 are preempted to the state, except as otherwise specifically authorized by state or federal law. The conduct of municipal elections shall be governed by s. 100.3605.
+History.
+—
+s. 1, ch. 2010-167.
+97.012
+Secretary of State as chief election officer.
+—
+The Secretary of State is the chief election officer of the state, and it is his or her responsibility to:
+(1)
+Obtain and maintain uniformity in the interpretation and implementation of the election laws. In order to obtain and maintain uniformity in the interpretation and implementation of the election laws, the Department of State may, pursuant to ss. 120.536(1) and 120.54, adopt by rule uniform standards for the proper and equitable interpretation and implementation of the requirements of chapters 97 through 102 and 105 of the Election Code.
+(2)
+Provide uniform standards for the proper and equitable implementation of the registration laws by administrative rule of the Department of State adopted pursuant to ss. 120.536(1) and 120.54.
+(3)
+Actively seek out and collect the data and statistics necessary to knowledgeably scrutinize the effectiveness of election laws.
+(4)
+Provide technical assistance to the supervisors of elections on voter education and election personnel training services.
+(5)
+Provide technical assistance to the supervisors of elections on voting systems.
+(6)
+Provide voter education assistance to the public.
+(7)
+Coordinate the state’s responsibilities under the National Voter Registration Act of 1993.
+(8)
+Provide training to all affected state agencies on the necessary procedures for proper implementation of this chapter.
+(9)
+Ensure that all registration applications and forms prescribed or approved by the department are in compliance with the Voting Rights Act of 1965 and the National Voter Registration Act of 1993.
+(10)
+Coordinate with the United States Department of Defense so that armed forces recruitment offices administer voter registration in a manner consistent with the procedures set forth in this code for voter registration agencies.
+(11)
+Create and administer a statewide voter registration system as required by the Help America Vote Act of 2002. The secretary may delegate voter registration duties and records maintenance activities to voter registration officials. Any responsibilities delegated by the secretary shall be performed in accordance with state and federal law.
+(12)
+Maintain a voter fraud hotline and provide election fraud education to the public.
+(13)
+Designate an office within the department to be responsible for providing information regarding voter registration procedures and vote-by-mail ballot procedures to absent uniformed services voters and overseas voters.
+(14)
+Bring and maintain such actions at law or in equity by mandamus or injunction to enforce the performance of any duties of a county supervisor of elections or any official performing duties with respect to chapters 97 through 102 and 105 or to enforce compliance with a rule of the Department of State adopted to interpret or implement any of those chapters.
+(a)
+Venue for such actions shall be in the Circuit Court of Leon County.
+(b)
+When the secretary files an action under this section and not more than 60 days remain before an election as defined in s. 97.021, or during the time period after the election and before certification of the election pursuant to s. 102.112 or s. 102.121, the court, including an appellate court, shall set an immediate hearing, giving the case priority over other pending cases.
+(c)
+Prior to filing an action to enforce performance of the duties of the supervisor of elections or any official described in this subsection, the secretary or his or her designee first must confer, or must make a good faith attempt to confer, with the supervisor of elections or the official to ensure compliance with chapters 97 through 102 and 105 or the rules of the Department of State adopted under any of those chapters.
+(15)
+Conduct preliminary investigations into any irregularities or fraud involving voter registration, voting, candidate petition, or issue petition activities and report his or her findings to the statewide prosecutor or the state attorney for the judicial circuit in which the alleged violation occurred for prosecution, if warranted. The Department of State may prescribe by rule requirements for filing an elections-fraud complaint and for investigating any such complaint.
+(16)
+Provide written direction and opinions to the supervisors of elections on the performance of their official duties with respect to the Florida Election Code or rules adopted by the Department of State.
+(17)
+Provide mandatory formal signature matching training to supervisors of elections and county canvassing board members. Any person whose duties require verification of signatures must undergo signature matching training. The department shall adopt rules governing signature matching procedures and training.
+History.
+—
+s. 1, ch. 75-98; s. 21, ch. 84-302; s. 2, ch. 89-348; s. 1, ch. 90-315; s. 2, ch. 94-224; s. 1381, ch. 95-147; s. 34, ch. 97-13; s. 1, ch. 98-129; s. 1, ch. 2003-415; s. 1, ch. 2005-277; s. 1, ch. 2005-278; s. 1, ch. 2008-95; s. 1, ch. 2011-40; s. 1, ch. 2016-37; s. 1, ch. 2019-162; s. 1, ch. 2023-120.
+97.021
+Definitions.
+—
+For the purposes of this code, except where the context clearly indicates otherwise, the term:
+(1)
+“Absent elector” means any registered and qualified voter who casts a vote-by-mail ballot.
+(2)
+“Absent uniformed services voter” means:
+(a)
+A member of a uniformed service on active duty who, by reason of such active duty, is absent from the place of residence where the member is otherwise qualified to vote;
+(b)
+A member of the merchant marine who, by reason of service in the merchant marine, is absent from the place of residence where the member is otherwise qualified to vote; or
+(c)
+A spouse or dependent of a member referred to in paragraph (a) or paragraph (b) who, by reason of the active duty or service of the member, is absent from the place of residence where the spouse or dependent is otherwise qualified to vote.
+(3)
+“Address of legal residence” means the legal residential address of the elector and includes all information necessary to differentiate one residence from another, including, but not limited to, a distinguishing apartment, suite, lot, room, or dormitory room number or other identifier.
+(4)
+“Alternative formats” has the meaning ascribed in the Americans with Disabilities Act of 1990, Pub. L. No. 101-336, 42 U.S.C. ss. 12101 et seq., including specifically the technical assistance manuals promulgated thereunder, as amended.
+(5)
+“Automatic tabulating equipment” means an apparatus that automatically examines, counts, and records votes.
+(6)
+“Ballot” or “official ballot” when used in reference to:
+(a)
+“Electronic or electromechanical devices” means a ballot that is voted by the process of electronically designating, including by touchscreen, or marking with a marking device for tabulation by automatic tabulating equipment or data processing equipment.
+(b)
+“Marksense ballots” means that printed sheet of paper, used in conjunction with an electronic or electromechanical vote tabulation voting system, containing the names of candidates, or a statement of proposed constitutional amendments or other questions or propositions submitted to the electorate at any election, on which sheet of paper an elector casts his or her vote.
+(7)
+“Candidate” means any person to whom any one or more of the following applies:
+(a)
+Any person who seeks to qualify for nomination or election by means of the petitioning process.
+(b)
+Any person who seeks to qualify for election as a write-in candidate.
+(c)
+Any person who receives contributions or makes expenditures, or gives his or her consent for any other person to receive contributions or make expenditures, with a view to bringing about his or her nomination or election to, or retention in, public office.
+(d)
+Any person who appoints a treasurer and designates a primary depository.
+(e)
+Any person who files qualification papers and subscribes to a candidate’s oath as required by law.
+However, this definition does not include any candidate for a political party executive committee.
+(8)
+“Department” means the Department of State.
+(9)
+“Division” means the Division of Elections of the Department of State.
+(10)
+“Early voting” means casting a ballot prior to election day at a location designated by the supervisor of elections and depositing the voted ballot in the tabulation system.
+(11)
+“Early voting area” means the area designated by the supervisor of elections at an early voting site at which early voting activities occur, including, but not limited to, lines of voters waiting to be processed, the area where voters check in and are processed, and the area where voters cast their ballots.
+(12)
+“Early voting site” means those locations specified in s. 101.657 and the building in which early voting occurs.
+(13)
+“Election” means any primary election, special primary election, special election, general election, or presidential preference primary election.
+(14)
+“Election board” means the clerk and inspectors appointed to conduct an election.
+(15)
+“Election costs” shall include, but not be limited to, expenditures for all paper supplies such as envelopes, instructions to voters, affidavits, reports, ballot cards, ballot booklets for vote-by-mail voters, postage, notices to voters; advertisements for registration book closings, testing of voting equipment, sample ballots, and polling places; forms used to qualify candidates; polling site rental and equipment delivery and pickup; data processing time and supplies; election records retention; and labor costs, including those costs uniquely associated with vote-by-mail ballot preparation, poll workers, and election night canvass.
+(16)
+“Elector” is synonymous with the word “voter” or “qualified elector or voter,” except where the word is used to describe presidential electors.
+(17)
+“General election” means an election held on the first Tuesday after the first Monday in November in the even-numbered years, for the purpose of filling national, state, county, and district offices and for voting on constitutional amendments not otherwise provided for by law.
+(18)
+“Lists of registered electors” means names and associated information of registered electors maintained by the department in the statewide voter registration system or generated or derived from the statewide voter registration system. Lists may be produced in printed or electronic format.
+(19)
+“Member of the Merchant Marine” means an individual, other than a member of a uniformed service or an individual employed, enrolled, or maintained on the Great Lakes for the inland waterways, who is:
+(a)
+Employed as an officer or crew member of a vessel documented under the laws of the United States, a vessel owned by the United States, or a vessel of foreign-flag registry under charter to or control of the United States; or
+(b)
+Enrolled with the United States for employment or training for employment, or maintained by the United States for emergency relief service, as an officer or crew member of such vessel.
+(20)
+“Minor political party” is any group as specified in s. 103.095 which on January 1 preceding a primary election does not have registered as members 5 percent of the total registered electors of the state.
+(21)
+“Newspaper of general circulation” means a newspaper printed in the language most commonly spoken in the area within which it circulates and which is readily available for purchase by all inhabitants in the area of circulation, but does not include a newspaper intended primarily for members of a particular professional or occupational group, a newspaper the primary function of which is to carry legal notices, or a newspaper that is given away primarily to distribute advertising.
+(22)
+“Nominal value” means having a retail value of $10 or less.
+(23)
+“Nonpartisan office” means an office for which a candidate is prohibited from campaigning or qualifying for election or retention in office based on party affiliation.
+(24)
+“Office that serves persons with disabilities” means any state office that takes applications either in person or over the telephone from persons with disabilities for any program, service, or benefit primarily related to their disabilities.
+(25)
+“Overseas voter” means:
+(a)
+An absent uniformed services voter who, by reason of active duty or service, is absent from the United States on the date of the election involved;
+(b)
+A person who resides outside the United States and is qualified to vote in the last place in which the person was domiciled before leaving the United States; or
+(c)
+A person who resides outside the United States and, but for such residence, would be qualified to vote in the last place in which the person was domiciled before leaving the United States.
+(26)
+“Overvote” means that the elector marks or designates more names than there are persons to be elected to an office or designates more than one answer to a ballot question, and the tabulator records no vote for the office or question.
+(27)
+“Persons with disabilities” means individuals who have a physical or mental impairment that substantially limits one or more major life activities.
+(28)
+“Petition circulator” means an entity or individual who collects signatures for the purpose of qualifying a proposed constitutional amendment for ballot placement. The term does not include a person who collects, delivers, or otherwise physically possesses no more than 25 signed petition forms in addition to his or her own signed petition form or a signed petition form belonging to the person’s spouse, or the parent, child, grandparent, grandchild, or sibling of the person or the person’s spouse.
+(29)
+“Polling place” is the building which contains the polling room where ballots are cast.
+(30)
+“Polling room” means the actual room in which ballots are cast on election day and during early voting.
+(31)
+“Primary election” means an election held preceding the general election for the purpose of nominating a party nominee to be voted for in the general election to fill a national, state, county, or district office.
+(32)
+“Provisional ballot” means a conditional ballot, the validity of which is determined by the canvassing board.
+(33)
+“Public assistance” means assistance provided through the food assistance program under the federal Supplemental Nutrition Assistance Program; the Medicaid program; the Special Supplemental Food Program for Women, Infants, and Children; and the Temporary Cash Assistance Program.
+(34)
+“Public office” means any federal, state, county, municipal, school, or other district office or position which is filled by vote of the electors.
+(35)
+“Qualifying educational institution” means any public or private educational institution receiving state financial assistance which has, as its primary mission, the provision of education or training to students who are at least 18 years of age, provided such institution has more than 200 students enrolled in classes with the institution and provided that the recognized student government organization has requested this designation in writing and has filed the request with the office of the supervisor of elections in the county in which the institution is located.
+(36)
+“Special election” is a special election called for the purpose of voting on a party nominee to fill a vacancy in the national, state, county, or district office.
+(37)
+“Special primary election” is a special nomination election designated by the Governor, called for the purpose of nominating a party nominee to be voted on in a general or special election.
+(38)
+“Supervisor” means the supervisor of elections.
+(39)
+“Tactile input device” means a device that provides information to a voting system by means of a voter touching the device, such as a keyboard, and that complies with the requirements of s. 101.56062(1)(k) and (l).
+(40)
+“Third-party registration organization” means any person, entity, or organization soliciting or collecting voter registration applications. A third-party voter registration organization does not include:
+(a)
+A person who seeks only to register to vote or collect voter registration applications from that person’s spouse, child, or parent; or
+(b)
+A person engaged in registering to vote or collecting voter registration applications as an employee or agent of the division, supervisor of elections, Department of Highway Safety and Motor Vehicles, or a voter registration agency.
+(41)
+“Undervote” means that the elector does not properly designate any choice for an office or ballot question, and the tabulator records no vote for the office or question.
+(42)
+“Uniformed services” means the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard, the commissioned corps of the Public Health Service, and the commissioned corps of the National Oceanic and Atmospheric Administration.
+(43)
+“Voter interface device” means any device that communicates voting instructions and ballot information to a voter and allows the voter to select and vote for candidates and issues. A voter interface device may not be used to tabulate votes. Any vote tabulation must be based upon a subsequent scan of the marked marksense ballot or the voter-verifiable paper output after the voter interface device process has been completed.
+(44)
+“Voter registration agency” means any office that provides public assistance, any office that serves persons with disabilities, any center for independent living, or any public library.
+(45)
+“Voter registration official” means any supervisor of elections or individual authorized by the Secretary of State to accept voter registration applications and execute updates to the statewide voter registration system.
+(46)
+“Voting booth” or “booth” means that booth or enclosure wherein an elector casts his or her ballot for tabulation by an electronic or electromechanical device.
+(47)
+“Voting system” means a method of casting and processing votes that functions wholly or partly by use of electromechanical or electronic apparatus or by use of marksense ballots and includes, but is not limited to, the procedures for casting and processing votes and the programs, operating manuals, supplies, printouts, and other software necessary for the system’s operation.
+History.
+—
+s. 2, ch. 6469, 1913; RGS 300; s. 1, ch. 8582, 1921; CGL 356; s. 1, ch. 13761, 1929; s. 1, ch. 18060, 1937; s. 1, ch. 19663, 1939; s. 1, ch. 26870, 1951; s. 1, ch. 28156, 1953; s. 1, ch. 61-370; s. 2, ch. 65-60; s. 1, ch. 67-32; s. 2, ch. 67-142; s. 2, ch. 67-386; s. 1, ch. 69-137; s. 1, ch. 69-280; s. 1, ch. 69-377; s. 1, ch. 70-269; s. 1, ch. 70-439; s. 1, ch. 71-206; s. 1, ch. 73-157; s. 31, ch. 73-333; s. 23, ch. 77-104; s. 1, ch. 77-175; s. 1, ch. 79-157; s. 24, ch. 79-400; s. 1, ch. 81-105; s. 15, ch. 82-143; s. 22, ch. 84-302; s. 1, ch. 87-184; ss. 5, 12, ch. 87-363; s. 1, ch. 89-338; s. 3, ch. 89-348; s. 2, ch. 90-315; s. 3, ch. 94-224; s. 1382, ch. 95-147; s. 1, ch. 96-57; s. 54, ch. 96-175; s. 1, ch. 96-327; s. 35, ch. 97-13; s. 3, ch. 98-129; ss. 2, 34, ch. 2001-40; s. 4, ch. 2002-281; s. 2, ch. 2003-415; s. 9, ch. 2004-252; s. 2, ch. 2005-277; s. 2, ch. 2005-278; s. 2, ch. 2005-286; s. 1, ch. 2007-30; s. 2, ch. 2010-167; s. 1, ch. 2010-209; s. 2, ch. 2011-40; s. 1, ch. 2016-23; s. 2, ch. 2016-37; s. 2, ch. 2019-64; s. 2, ch. 2019-162; s. 1, ch. 2020-109; s. 3, ch. 2022-183; s. 22, ch. 2023-8; s. 4, ch. 2025-21.
+Note.
+—
+Former s. 102.02.
+97.022
+Office of Election Crimes and Security; creation; purpose and duties.
+—
+(1)
+The Office of Election Crimes and Security is created within the Department of State. The purpose of the office is to aid the Secretary of State in completion of his or her duties under s. 97.012(12) and (15) by:
+(a)
+Receiving and reviewing notices and reports generated by government officials or any other person regarding alleged occurrences of election law violations or election irregularities in this state.
+(b)
+Initiating independent inquiries and conducting preliminary investigations into allegations of election law violations or election irregularities in this state.
+(2)
+The office may review complaints and conduct preliminary investigations into alleged violations of the Florida Election Code or any rule adopted pursuant thereto and any election irregularities.
+(3)
+The secretary shall appoint a director of the office.
+(4)
+The office shall be based in Tallahassee and shall employ nonsworn investigators to conduct any investigations. The positions and resources necessary for the office to accomplish its duties shall be established through and subject to the legislative appropriations process.
+(5)
+The office shall oversee the department’s voter fraud hotline.
+(6)
+This section does not limit the jurisdiction of any other office or agency of the state empowered by law to investigate, act upon, or dispose of alleged election law violations.
+(7)
+By January 15 of each year, the department shall submit a report to the Governor, the President of the Senate, and the Speaker of the House of Representatives detailing information on investigations of alleged election law violations or election irregularities conducted during the prior calendar year. The report must include the total number of complaints received and independent investigations initiated and the number of complaints referred to another agency for further investigation or prosecution, including the total number of those matters sent to a special officer pursuant to s. 102.091. For each alleged violation or irregularity investigated, the report must include:
+(a)
+The source of the alleged violation or irregularity;
+(b)
+The law allegedly violated or the nature of the irregularity reported;
+(c)
+The county in which the alleged violation or irregularity occurred;
+(d)
+Whether the alleged violation or irregularity was referred to another agency for further investigation or prosecution and, if so, to which agency; and
+(e)
+The current status of the investigation or resulting criminal case.
+History.
+—
+s. 3, ch. 2022-73.
+97.023
+Procedures on complaints of violations.
+—
+(1)(a)
+Any person who is aggrieved by a violation of either the National Voter Registration Act of 1993 or a voter registration or removal procedure under the Florida Election Code may file a written complaint with the department, which shall serve as notice to the Secretary of State.
+(b)
+A complaint must state the alleged violation and the person or entity responsible, who must be the department, a voter registration agency, a supervisor, the Department of Highway Safety and Motor Vehicles, or an Armed Forces Recruitment Center. If the department determines that a complaint fails to allege both a violation and a person or entity responsible for the violation, the department shall inform the complainant that he or she has not given sufficient notice and the steps that must be taken in order to give proper notice.
+(c)
+For the purposes of this section, a violation of either the National Voter Registration Act of 1993 or a voter registration or removal procedure under the Florida Election Code is the failure to perform an act required or the performance of an act prohibited by either the National Voter Registration Act of 1993 or a voter registration or removal procedure under the Florida Election Code.
+(d)
+The department has primary jurisdiction over complaints filed under the provisions of this section.
+(2)
+When a complaint is filed with the department, the parties to the complaint must be given the opportunity to resolve the complaint through an informal dispute resolution process to be established by the department. This process must provide for:
+(a)
+A time limitation of 30 days on the process, unless the alleged violation occurred within 120 days before the date of an election, in which case there must be a time limitation of 20 days;
+(b)
+A mediator provided by the department, who may be a department employee unless the department is alleged to be responsible for the violation, in which case the Governor must appoint a mediator who is not a department employee;
+(c)
+Notice to a complainant;
+(d)
+Notice to a respondent of the allegations filed against him or her in the complaint;
+(e)
+An opportunity for the parties to submit written statements, present oral argument either in person or by telephone, and present evidence; and
+(f)
+A written statement by the mediator to the department stating the outcome of the dispute resolution process.
+(3)
+If an alleged violation occurred within 30 days before the date of a state or federal election and the alleged violation will affect the registrant’s right to vote in that election, the complainant may immediately bring an action in the circuit court in the county where the alleged violation occurred. Otherwise, the following are conditions precedent for a complainant to bring an action for declaratory or injunctive relief in the circuit court in the county where the alleged violation occurred:
+(a)
+The complainant gave proper written notice of the alleged violation to the Secretary of State;
+(b)
+The complainant participated in the informal dispute resolution process; and
+(c)
+An agreement is not reached or an alleged violation is not corrected within 90 days after receipt of notice or 20 days after receipt of notice if the alleged violation occurred within 120 days before the date of an election.
+History.
+—
+s. 4, ch. 94-224; s. 1383, ch. 95-147.
+97.025
+Election Code; copies thereof.
+—
+A pamphlet of a reprint of the Election Code, adequately indexed, shall be prepared by the Department of State. The pamphlet shall be made available to each candidate who qualifies with the department. The pamphlet shall be made available to each supervisor, prior to the first day of qualifying, so that each candidate who qualifies with the supervisor and each clerk of elections have access to the pamphlet. The cost of making the pamphlets available shall be paid out of funds appropriated for conducting elections.
+History.
+—
+s. 38, ch. 3879, 1889; RS 192; s. 69, ch. 4328, 1895; GS 253; RGS 297; CGL 353; s. 2, ch. 26870, 1951; s. 17, ch. 65-134; ss. 10, 35, ch. 69-106; s. 5, ch. 77-175; s. 2, ch. 79-365; s. 5, ch. 94-224; s. 3, ch. 2011-40.
+Note.
+—
+Former s. 99.54; s. 98.251.
+97.026
+Forms to be available in alternative formats and via the Internet.
+—
+It is the intent of the Legislature that all forms required to be used in chapters 97-106 shall be made available upon request, in alternative formats. Such forms shall include vote-by-mail ballots as alternative formats for such ballots become available and the Division of Elections is able to certify systems that provide them. Whenever possible, such forms, with the exception of vote-by-mail ballots, shall be made available by the Department of State via the Internet. Sections that contain such forms include, but are not limited to, ss. 97.051, 97.052, 97.053, 97.057, 97.058, 97.0583, 97.071, 97.073, 97.1031, 98.075, 99.021, 100.361, 100.371, 101.045, 101.171, 101.20, 101.6103, 101.62, 101.64, 101.65, 101.657, 105.031, 106.023, and 106.087.
+History.
+—
+s. 5, ch. 2002-281; s. 3, ch. 2005-278; s. 24, ch. 2012-116; s. 3, ch. 2016-37.
+97.028
+Procedures on complaints of violations of Title III of the Help America Vote Act of 2002.
+—
+(1)(a)
+Any person who believes that a violation of Title III of the Help America Vote Act of 2002 has occurred, is occurring, or is about to occur may file a complaint with the department.
+(b)
+The complaint must be in writing and must be signed and sworn to before a notary by the person filing the complaint. Further, the complaint must state the alleged violation and the person or entity responsible for the violation. The department shall prescribe the form for complaints filed under this section. If the department determines that the complaint fails to allege both a violation and a person or entity responsible for the violation, or that the complaint is not properly executed, the department shall inform the complainant in writing that the complaint is legally insufficient.
+(c)
+For purposes of this section, a violation of Title III of the Help America Vote Act of 2002 is the failure to perform an act required or the performance of an act prohibited by Title III of the Help America Vote Act of 2002 by a covered person or entity.
+(d)
+The department shall have sole jurisdiction over complaints filed under the provisions of this section.
+(e)
+This section provides the sole avenue of redress for alleged violations of Title III of the Help America Vote Act of 2002 and does not give rise to any other cause of action.
+(f)
+The department may consolidate complaints filed under this section.
+(g)
+All proceedings under this section are exempt from chapter 120.
+(2)(a)
+When a legally sufficient complaint is filed with the department, the agency head shall designate a hearing officer who shall:
+1.
+Provide the subject of the complaint with a copy of the complaint. The subject of the complaint shall, within 10 days after receipt of the complaint, file with the department a written, sworn response to the complaint.
+2.
+Upon receipt of the response, the hearing officer shall review both sworn filings to determine whether a violation of Title III of the Help America Vote Act of 2002 has occurred, is occurring, or is about to occur. The complaint and the response shall constitute the official hearing record to be considered by the hearing officer. The hearing officer shall provide the complainant with a copy of the response.
+3.
+At the hearing officer’s discretion, the complainant and the respondent may be ordered by the hearing officer to provide additional sworn oral or written statements or additional documents to assist the hearing officer in making his or her determination. Further, other relevant witnesses may also be ordered by the hearing officer to give sworn testimony or to provide relevant documents to assist the hearing officer in making his or her determination. Any such statements or documents received by the hearing officer shall also become part of the official hearing record. For purposes of this section, the hearing officer is authorized to administer oaths and to issue subpoenas.
+4.
+The hearing officer shall advise both the complainant and respondent in writing of their determination. If the hearing officer determines that no violation has occurred, is occurring, or is about to occur, the department shall dismiss the complaint and publish its determination. If the hearing officer determines that a violation of Title III of the Help America Vote Act has occurred, is occurring, or is about to occur, the department shall issue and deliver an order directing the appropriate remedy to persons responsible for effecting such remedy. The issuance of an order does not constitute agency action for which a hearing under s. 120.569 or s. 120.57 may be sought. For purposes of enforcing the order, the department may initiate a proceeding in the name of the state seeking issuance of an injunction, a writ of mandamus, or other equitable remedy against any person who violates any provision of such order.
+5.
+The department shall make a final determination with respect to the complaint within 90 days after the date that the complaint was filed, unless the complainant consents to a longer period for making such a determination.
+(b)
+If the department fails to meet the deadline established in subparagraph (a)5., the complaint shall be forwarded to mediation. Mediation shall occur within 60 days after the department’s failure to make a determination within the timeframe established in subparagraph (a)5. The record created under this section shall be made available for use in the mediation.
+History.
+—
+s. 5, ch. 2003-415.
+97.029
+Civil actions challenging the validity of election laws.
+—
+(1)
+In a civil action challenging the validity of a provision of the Florida Election Code in which a state or county agency or officer is a party in state or federal court, the officer, agent, official, or attorney who represents or is acting on behalf of such agency or officer may not settle such action, consent to any condition, or agree to any order in connection therewith if the settlement, condition, or order nullifies, suspends, or is in conflict with any provision of the Florida Election Code, unless:
+(a)
+At the time settlement negotiations have begun in earnest, written notification is given to the President of the Senate, the Speaker of the House of Representatives, and the Attorney General.
+(b)
+Any proposed settlement, consent decree, or order that is proposed or received and would nullify, suspend, or conflict with any provision of the Florida Election Code is promptly reported in writing to the President of the Senate, the Speaker of the House of Representatives, and the Attorney General.
+(c)
+At least 10 days before the date a settlement or presettlement agreement or order is to be made final, written notification is given to the President of the Senate, the Speaker of the House of Representatives, and the Attorney General.
+(2)
+If any notification required by this section is precluded by federal law, federal regulation, court order, or court rule, the officer, agent, official, or attorney representing such agency or officer, or the Attorney General, shall challenge the constitutionality of such preclusion in the civil suit affected and give prompt notice thereof to the President of the Senate, the Speaker of the House of Representatives, and the Attorney General.
+(3)
+If, after a court has entered an order or judgment that nullifies or suspends, or orders or justifies official action that is in conflict with, a provision of the Florida Election Code, the Legislature amends the general law to remove the invalidity or unenforceability, the officer, agent, official, or attorney who represents or is acting on behalf of the agency or officer bound by such order or judgment must promptly after such amendment of the general law move to dismiss or otherwise terminate any ongoing jurisdiction of such case.
+History.
+—
+s. 1, ch. 2021-11.
+97.0291
+Prohibition on use of private funds for election-related expenses.
+—
+No agency or state or local official responsible for conducting elections, including, but not limited to, a supervisor of elections, may solicit, accept, use, or dispose of any donation in the form of money, grants, property, or personal services from an individual or a nongovernmental entity for the purpose of funding any type of expenses related to election administration, including, but not limited to, voter education, voter outreach, voter registration programs, or the cost of any litigation related to election administration. This section does not prohibit the donation and acceptance of space to be used for a polling room or an early voting site.
+History.
+—
+s. 2, ch. 2021-11; s. 4, ch. 2022-73.
+PART II
+FLORIDA VOTER REGISTRATION ACT
+97.032
+Short title.
+97.041
+Qualifications to register or vote.
+97.051
+Oath upon registering.
+97.052
+Uniform statewide voter registration application.
+97.0525
+Online voter registration.
+97.053
+Acceptance of voter registration applications.
+97.0535
+Special requirements for certain applicants.
+97.055
+Registration books; when closed for an election.
+97.0555
+Late registration.
+97.057
+Voter registration by the Department of Highway Safety and Motor Vehicles.
+97.0575
+Third-party voter registration organizations.
+97.058
+Voter registration agencies.
+97.0583
+Voter registration at qualifying educational institutions.
+97.05831
+Voter registration applications made available to the Fish and Wildlife Conservation Commission.
+97.0585
+Public records exemption; information regarding voters and voter registration; confidentiality.
+97.061
+Special registration for electors requiring assistance.
+97.071
+Voter information card.
+97.073
+Disposition of voter registration applications; cancellation notice.
+97.1031
+Notice of change of residence, change of name, or change of party affiliation.
+97.105
+Permanent single registration system established.
+97.032
+Short title.
+—
+This part may be cited as the “Florida Voter Registration Act.”
+History.
+—
+s. 7, ch. 94-224.
+97.041
+Qualifications to register or vote.
+—
+(1)(a)
+A person may become a registered voter only if that person:
+1.
+Is at least 18 years of age;
+2.
+Is a citizen of the United States;
+3.
+Is a legal resident of the State of Florida;
+4.
+Is a legal resident of the county in which that person seeks to be registered; and
+5.
+Registers pursuant to the Florida Election Code.
+(b)
+A person who is otherwise qualified may preregister on or after that person’s 16th birthday and may vote in any election occurring on or after that person’s 18th birthday.
+(2)
+The following persons, who might be otherwise qualified, are not entitled to register or vote:
+(a)
+A person who has been adjudicated mentally incapacitated with respect to voting in this or any other state and who has not had his or her right to vote restored pursuant to law.
+(b)
+A person who has been convicted of any felony by any court of record and who has not had his or her right to vote restored pursuant to law.
+(3)
+A person who is not registered may not vote.
+History.
+—
+ss. 1, chs. 3850, 3879, 1889; RS 154; s. 1, ch. 4328, 1895; GS 170; RGS 215; s. 1, ch. 8583, 1921; CGL 248; s. 1, ch. 26870, 1951; s. 2, ch. 28156, 1953; s. 1, ch. 63-408; s. 3, ch. 65-60; s. 1, ch. 67-67; ss. 1, 4, ch. 71-108; s. 1, ch. 72-197; s. 2, ch. 73-157; s. 31, ch. 73-333; s. 1, ch. 74-5; s. 1, ch. 77-175; s. 2, ch. 89-338; s. 8, ch. 94-224; s. 12, ch. 2007-30; s. 2, ch. 2008-95.
+Note.
+—
+Former s. 98.01.
+97.051
+Oath upon registering.
+—
+A person registering to vote must subscribe to the following oath: “I do solemnly swear (or affirm) that I will protect and defend the Constitution of the United States and the Constitution of the State of Florida, that I am qualified to register as an elector under the Constitution and laws of the State of Florida, and that all information provided in this application is true.”
+History.
+—
+s. 7, ch. 3879, 1889; RS 161; s. 8, ch. 4328, 1895; GS 178; RGS 222; CGL 257; s. 4, ch. 25383, 1949; s. 1, ch. 26870, 1951; s. 3, ch. 69-280; ss. 2, 4, ch. 71-108; s. 1, ch. 72-63; s. 2, ch. 77-175; s. 1, ch. 81-304; s. 9, ch. 94-224; s. 3, ch. 2005-277; s. 4, ch. 2005-278.
+Note.
+—
+Former s. 98.11.
+97.052
+Uniform statewide voter registration application.
+—
+(1)
+The department shall prescribe by rule a uniform statewide voter registration application for use in this state.
+(a)
+The uniform statewide voter registration application must be accepted for any one or more of the following purposes:
+1.
+Initial registration.
+2.
+Change of address.
+3.
+Change of party affiliation.
+4.
+Change of name.
+5.
+Replacement of a voter information card.
+6.
+Signature update.
+(b)
+The department is responsible for printing the uniform statewide voter registration application and the voter registration application form prescribed by the Election Assistance Commission pursuant to federal law. The applications and forms must be distributed, upon request, to the following:
+1.
+Individuals seeking to register to vote or update a voter registration record.
+2.
+Individuals or groups conducting voter registration programs. A charge of 1 cent per application shall be assessed on requests for 10,000 or more applications.
+3.
+The Department of Highway Safety and Motor Vehicles.
+4.
+Voter registration agencies.
+5.
+Armed forces recruitment offices.
+6.
+Qualifying educational institutions.
+7.
+Supervisors, who must make the applications and forms available in the following manner:
+a.
+By distributing the applications and forms in their offices to any individual or group.
+b.
+By distributing the applications and forms at other locations designated by each supervisor.
+c.
+By mailing the applications and forms to applicants upon the request of the applicant.
+(c)
+The uniform statewide voter registration application may be reproduced by any private individual or group, provided the reproduced application is in the same format as the application prescribed by rule under this section.
+(2)
+The uniform statewide voter registration application must be designed to elicit the following information from the applicant:
+(a)
+Last, first, and middle name, including any suffix.
+(b)
+Date of birth.
+(c)
+Address of legal residence.
+(d)
+Mailing address, if different.
+(e)
+E-mail address and whether the applicant wishes to receive sample ballots by e-mail.
+(f)
+County of legal residence.
+(g)
+Race or ethnicity that best describes the applicant:
+1.
+American Indian or Alaskan Native.
+2.
+Asian or Pacific Islander.
+3.
+Black, not Hispanic.
+4.
+White, not Hispanic.
+5.
+Hispanic.
+(h)
+State or country of birth.
+(i)
+Sex.
+(j)
+Party affiliation.
+(k)
+Whether the applicant needs assistance in voting.
+(l)
+Name and address where last registered.
+(m)
+Last four digits of the applicant’s social security number.
+(n)
+Florida driver license number or the identification number from a Florida identification card issued under s. 322.051.
+(o)
+An indication, if applicable, that the applicant has not been issued a Florida driver license, a Florida identification card, or a social security number.
+(p)
+Telephone number (optional).
+(q)
+Signature of applicant under penalty for false swearing pursuant to s. 104.011, by which the person subscribes to the oath required by s. 3, Art. VI of the State Constitution and s. 97.051, and swears or affirms that the information contained in the registration application is true.
+(r)
+Whether the application is being used for initial registration, to update a voter registration record, or to request a replacement voter information card.
+(s)
+Whether the applicant is a citizen of the United States by asking the question “Are you a citizen of the United States of America?” and providing boxes for the applicant to check to indicate whether the applicant is or is not a citizen of the United States.
+(t)
+Whether the applicant has been convicted of a felony and, if convicted, has had his or her voting rights restored by including the statement “I affirm that I am not a convicted felon or, if I am, my right to vote has been restored.” and providing a box for the applicant to check to affirm the statement.
+(u)
+Whether the applicant has been adjudicated mentally incapacitated with respect to voting or, if so adjudicated, has had his or her right to vote restored by including the statement “I affirm I have not been adjudicated mentally incapacitated with respect to voting, or, if I have, my competency has been restored.” and providing a box for the applicant to check to affirm the statement. The registration application must be in plain language and designed so that persons who have been adjudicated mentally incapacitated are not required to reveal their prior adjudication.
+(3)
+The uniform statewide voter registration application must also contain:
+(a)
+The oath required by s. 3, Art. VI of the State Constitution and s. 97.051.
+(b)
+A statement specifying each eligibility requirement under s. 97.041.
+(c)
+The penalties provided in s. 104.011 for false swearing in connection with voter registration.
+(d)
+A statement that, if an applicant declines to register to vote, the fact that the applicant has declined to register will remain confidential and may be used only for voter registration purposes.
+(e)
+A statement that informs the applicant who chooses to register to vote or update a voter registration record that the office at which the applicant submits a voter registration application or updates a voter registration record will remain confidential and may be used only for voter registration purposes.
+(f)
+A statement informing an applicant who has not been issued a Florida driver license, a Florida identification card, or a social security number that if the application is submitted by mail and the applicant is registering for the first time in this state, the applicant will be required to provide identification prior to voting the first time.
+(g)
+A statement informing the applicant that if the application is being collected by a third-party voter registration organization, the organization might not deliver the application to the division or the supervisor in the county in which the applicant resides in less than 10 days or before registration closes for the next ensuing election, and that the applicant may instead elect to deliver the application in person or by mail or choose to register online. The statement must further inform the applicant how to determine whether the application has been delivered.
+(4)
+A supervisor may produce a voter registration application that has the supervisor’s direct mailing address if the department has reviewed the application and determined that it is substantially the same as the uniform statewide voter registration application.
+(5)
+The voter registration application form prescribed by the Election Assistance Commission pursuant to federal law or the federal postcard application must be accepted as an application for registration in this state if the completed application or postcard application contains the information required by the constitution and laws of this state.
+(6)
+If a voter registration applicant fails to provide any of the required information on the voter registration application form, the supervisor shall notify the applicant of the failure by mail within 5 business days after the supervisor has the information available in the voter registration system. The applicant shall have an opportunity to complete the application form to vote in the next election up until the book closing for that next election.
+History.
+—
+s. 5, ch. 25391, 1949; s. 2, ch. 26870, 1951; s. 1, ch. 59-231; s. 8, ch. 65-134; s. 1, ch. 67-170; s. 8, ch. 69-377; ss. 10, 35, ch. 69-106; s. 2, ch. 72-63; s. 5, ch. 77-175; s. 23, ch. 84-302; s. 6, ch. 89-338; s. 10, ch. 94-224; s. 2, ch. 96-327; s. 26, ch. 97-13; s. 4, ch. 98-129; ss. 1, 7, ch. 2002-189; s. 3, ch. 2003-415; s. 4, ch. 2005-277; s. 5, ch. 2005-278; s. 1, ch. 2013-192; s. 21, ch. 2019-162; s. 3, ch. 2021-11; s. 5, ch. 2022-73; s. 2, ch. 2023-120.
+Note.
+—
+Former s. 97.05; s. 98.111.
+97.0525
+Online voter registration.
+—
+(1)
+An applicant may submit an online voter registration application using the procedures set forth in this section.
+(2)
+The division shall establish and maintain a secure Internet website that safeguards an applicant’s information to ensure data integrity and permits an applicant to:
+(a)
+Submit a voter registration application, including first-time voter registration applications and updates to current voter registration records.
+(b)
+Submit information necessary to establish an applicant’s eligibility to vote, pursuant to s. 97.041, which includes the information required for the uniform statewide voter registration application pursuant to s. 97.052(2).
+(c)
+Swear to the oath required pursuant to s. 97.051.
+(3)(a)
+The online voter registration system shall comply with the information technology security provisions of s. 282.318 and shall use a unique identifier for each applicant to prevent unauthorized persons from altering a voter’s registration information.
+(b)
+The division shall conduct a comprehensive risk assessment of the online voter registration system every 2 years. The comprehensive risk assessment must comply with the risk assessment methodology developed by the Department of Management Services for identifying security risks, determining the magnitude of such risks, and identifying areas that require safeguards. In addition, the comprehensive risk assessment must incorporate all of the following:
+1.
+Load testing and stress testing to ensure that the online voter registration system has sufficient capacity to accommodate foreseeable use, including during periods of high volume of website users in the week immediately preceding the book-closing deadline for an election.
+2.
+Screening of computers and networks used to support the online voter registration system for malware and other vulnerabilities.
+3.
+Evaluation of database infrastructure, including software and operating systems, in order to fortify defenses against cyberattacks.
+4.
+Identification of any anticipated threats to the security and integrity of data collected, maintained, received, or transmitted by the online voter registration system.
+(4)(a)
+The online voter registration system shall compare the Florida driver license number or Florida identification number submitted pursuant to s. 97.052(2)(n) with information maintained by the Department of Highway Safety and Motor Vehicles to confirm that the name and date of birth on the application are consistent with the records of the Department of Highway Safety and Motor Vehicles.
+(b)
+If the applicant’s name and date of birth are consistent with the records of the Department of Highway Safety and Motor Vehicles, the online voter registration system shall transmit, using the statewide voter registration system maintained pursuant to s. 98.035, the applicant’s registration application, along with the digital signature of the applicant on file with the Department of Highway Safety and Motor Vehicles, to the supervisor of elections. The applicant’s digital signature satisfies the signature requirement of s. 97.052(2)(q).
+(c)
+If the applicant’s name and date of birth cannot be verified by the records of the Department of Highway Safety and Motor Vehicles, or if the applicant indicated that he or she has not been issued a Florida driver license or Florida identification card, the online voter registration system shall populate the applicant’s information into a printable voter registration application pursuant to s. 97.052(2) and direct the applicant to print, sign, and date the application and deliver the application to the supervisor of elections for disposition pursuant to s. 97.073.
+(5)
+Upon submission of a completed online voter registration application, the website must generate an immediate electronic confirmation that the supervisor of elections has received the application and provide instructions regarding the ability of a registrant to check the status of the application thereafter.
+(6)
+Except as otherwise provided in this section, the supervisor of elections shall process the application pursuant to s. 97.053.
+(7)
+The online voter registration system must conform to nationally accepted standards for accessibility for individuals with disabilities, including s. 508 of the Rehabilitation Act of 1973, s. 255 of the Telecommunications Act of 1996, and the Web Content Accessibility Guidelines of the World Wide Web Consortium, to ensure equal access for voters with disabilities.
+(8)
+A legal distinction may not be made between online voter registration under this section and voter registration in person, by mail, or by other methods provided by general law.
+History.
+—
+s. 1, ch. 2015-36; s. 15, ch. 2019-118; s. 4, ch. 2021-11.
+97.053
+Acceptance of voter registration applications.
+—
+(1)
+Voter registration applications, changes in registration, and requests for a replacement voter information card must be accepted in the office of any supervisor, the division, a driver license office, a voter registration agency, or an armed forces recruitment office when hand delivered by the applicant or a third party during the hours that office is open or when mailed.
+(2)
+A voter registration application is complete and becomes the official voter registration record of that applicant when all information necessary to establish the applicant’s eligibility pursuant to s. 97.041 is received by a voter registration official and verified pursuant to subsection (6). If the applicant fails to complete his or her voter registration application prior to the date of book closing for an election, then such applicant shall not be eligible to vote in that election.
+(3)
+The registration date for a valid initial voter registration application that has been hand delivered is the date that the application is received by a driver license office, a voter registration agency, an armed forces recruitment office, the division, or the office of any supervisor in the state.
+(4)
+The registration date for a valid initial voter registration application that has been mailed to a driver license office, a voter registration agency, an armed forces recruitment office, the division, or the office of any supervisor in the state and bears a clear postmark is the date of that postmark. If an initial voter registration application that has been mailed does not bear a postmark or if the postmark is unclear, the registration date is the date the application is received by any supervisor or the division, unless it is received within 5 days after the closing of the books for an election, excluding Saturdays, Sundays, and legal holidays, in which case the registration date is the book-closing date.
+(5)(a)
+A voter registration application is complete if it contains the following information necessary to establish the applicant’s eligibility pursuant to s. 97.041, including:
+1.
+The applicant’s name.
+2.
+The applicant’s address of legal residence, including a distinguishing apartment, suite, lot, room, or dormitory room number or other identifier, if appropriate. Failure to include a distinguishing apartment, suite, lot, room, or dormitory room or other identifier on a voter registration application does not impact a voter’s eligibility to register to vote or cast a ballot, and such an omission may not serve as the basis for a challenge to a voter’s eligibility or reason to not count a ballot.
+3.
+The applicant’s date of birth.
+4.
+A mark in the checkbox affirming that the applicant is a citizen of the United States.
+5.a.
+The applicant’s current and valid Florida driver license number or the identification number from a Florida identification card issued under s. 322.051, or
+b.
+If the applicant has not been issued a current and valid Florida driver license or a Florida identification card, the last four digits of the applicant’s social security number.
+In case an applicant has not been issued a current and valid Florida driver license, Florida identification card, or social security number, the applicant shall affirm this fact in the manner prescribed in the uniform statewide voter registration application.
+6.
+A mark in the checkbox affirming that the applicant has not been convicted of a felony or that, if convicted, has had his or her voting rights restored.
+7.
+A mark in the checkbox affirming that the applicant has not been adjudicated mentally incapacitated with respect to voting or that, if so adjudicated, has had his or her right to vote restored.
+8.
+The original signature or a digital signature transmitted by the Department of Highway Safety and Motor Vehicles of the applicant swearing or affirming under the penalty for false swearing pursuant to s. 104.011 that the information contained in the registration application is true and subscribing to the oath required by s. 3, Art. VI of the State Constitution and s. 97.051.
+(b)
+An applicant who fails to designate party affiliation must be registered without party affiliation, except that the party affiliation of an applicant who is updating a voter registration record may not be changed unless the applicant designates and consents in writing to a change in party affiliation. The supervisor must notify the voter by mail that the voter has been registered without party affiliation and that the voter may change party affiliation as provided in s. 97.1031.
+(6)
+A voter registration application, including an application with a change in name, address, or party affiliation, may be accepted as valid only after the department has verified the authenticity or nonexistence of the driver license number, the Florida identification card number, or the last four digits of the social security number provided by the applicant. If a completed voter registration application has been received by the book-closing deadline but the driver license number, the Florida identification card number, or the last four digits of the social security number provided by the applicant cannot be verified, the applicant shall be notified that the number cannot be verified and that the applicant must provide evidence to the supervisor sufficient to verify the authenticity of the applicant’s driver license number, Florida identification card number, or last four digits of the social security number. If the applicant provides the necessary evidence, the supervisor shall place the applicant’s name on the registration rolls as an active voter. If the applicant has not provided the necessary evidence or the number has not otherwise been verified prior to the applicant presenting himself or herself to vote, the applicant shall be provided a provisional ballot. The provisional ballot shall be counted only if the number is verified by the end of the canvassing period or if the applicant presents evidence to the supervisor of elections sufficient to verify the authenticity of the applicant’s driver license number, Florida identification card number, or last four digits of the social security number no later than 5 p.m. of the second day following the election.
+(7)
+All voter registration applications received by a voter registration official shall be entered into the statewide voter registration system within 13 days after receipt. Once entered, the application shall be immediately forwarded to the appropriate supervisor of elections.
+History.
+—
+s. 11, ch. 94-224; s. 27, ch. 97-13; s. 5, ch. 98-129; s. 4, ch. 2003-415; s. 5, ch. 2005-277; s. 6, ch. 2005-278; s. 13, ch. 2007-30; s. 3, ch. 2008-95; s. 2, ch. 2016-23; s. 22, ch. 2019-162; s. 15, ch. 2020-2; s. 5, ch. 2021-11; s. 1, ch. 2024-78.
+97.0535
+Special requirements for certain applicants.
+—
+(1)
+Each applicant who registers by mail and who has never previously voted in the state and who the department has verified has not been issued a current and valid Florida driver license, Florida identification card, or social security number shall be required to provide a copy of a current and valid identification, as provided in subsection (3), or indicate that he or she is exempt from the requirements prior to voting. Such identification or indication may be provided at the time of registering, or at any time prior to voting for the first time in the state. If the voter registration application clearly provides information from which a voter registration official can determine that the applicant meets at least one of the exemptions in subsection (4), the voter registration official shall make the notation on the registration records of the statewide voter registration system and the applicant shall not be required to provide the identification required by this section.
+(2)
+The voter registration official shall, upon accepting the voter registration application submitted pursuant to subsection (1), determine if the applicant provided the required identification at the time of registering. If the required identification was not provided, the supervisor shall notify the applicant that he or she must provide the identification prior to voting the first time in the state.
+(3)(a)
+The following forms of identification shall be considered current and valid if they contain the name and photograph of the applicant and have not expired:
+1.
+United States passport.
+2.
+Debit or credit card.
+3.
+Military identification.
+4.
+Student identification.
+5.
+Retirement center identification.
+6.
+Neighborhood association identification.
+7.
+Public assistance identification.
+8.
+Veteran health identification card issued by the United States Department of Veterans Affairs.
+9.
+A license to carry a concealed weapon or firearm issued pursuant to s. 790.06.
+10.
+Employee identification card issued by any branch, department, agency, or entity of the Federal Government, the state, a county, or a municipality.
+(b)
+The following forms of identification shall be considered current and valid if they contain the name and current residence address of the applicant:
+1.
+Utility bill.
+2.
+Bank statement.
+3.
+Government check.
+4.
+Paycheck.
+5.
+Other government document (excluding voter identification card).
+(4)
+The following persons are exempt from the identification requirements of this section:
+(a)
+Persons 65 years of age or older.
+(b)
+Persons with a temporary or permanent physical disability.
+(c)
+Members of the uniformed service on active duty who, by reason of such active duty, are absent from the county on election day.
+(d)
+Members of the Merchant Marine who, by reason of service in the Merchant Marine, are absent from the county on election day.
+(e)
+The spouse or dependent of a member referred to in paragraph (c) or paragraph (d) who, by reason of the active duty or service of the member, is absent from the county on election day.
+(f)
+Persons currently residing outside the United States who are eligible to vote in Florida.
+History.
+—
+s. 6, ch. 2003-415; s. 7, ch. 2005-278; s. 4, ch. 2008-95; s. 1, ch. 2016-167.
+97.055
+Registration books; when closed for an election.
+—
+(1)(a)
+The registration books must be closed on the 29th day before each election and must remain closed until after that election. If an election is called and there are fewer than 29 days before that election, the registration books must be closed immediately.
+(b)
+Except as provided in paragraph (c), when the registration books are closed for an election, updates to a voter’s name, address, and signature pursuant to ss. 98.077 and 101.045 shall be the only changes permitted for purposes of the upcoming election. New voter registration applications must be accepted but only for the purpose of subsequent elections.
+(c)
+When the registration books are closed for an upcoming election, an update or change to a voter’s party affiliation made pursuant to s. 97.1031 shall be permitted for that upcoming election unless such election is for the purpose of nominating a political party nominee, in which case the update or change shall be permitted only for the purpose of subsequent elections.
+(2)
+In computing the 29-day period for the closing of the registration books, the day of the election is excluded and all other days are included. If the 29th day preceding an election falls on a Sunday or a legal holiday, the registration books must be closed on the next day that is not a Sunday or a legal holiday.
+History.
+—
+s. 2, ch. 25391, 1949; s. 2, ch. 26870, 1951; s. 5, ch. 29934, s. 1, ch. 29761, 1955; s. 3, ch. 65-134; s. 2, ch. 67-530; s. 1, ch. 71-124; ss. 7, 8, ch. 72-63; s. 4, ch. 74-5; s. 1, ch. 77-174; s. 5, ch. 77-175; s. 7, ch. 80-292; s. 5, ch. 81-304; s. 1, ch. 83-25; s. 27, ch. 84-302; s. 11, ch. 85-80; s. 6, ch. 89-338; s. 12, ch. 94-224; s. 6, ch. 2005-277; s. 8, ch. 2005-278; s. 3, ch. 2005-286; s. 5, ch. 2008-95.
+Note.
+—
+Former s. 97.02; s. 98.051.
+97.0555
+Late registration.
+—
+An individual or accompanying family member who has been discharged or separated from the uniformed services or the United States Merchant Marine, has returned from a military deployment or activation, or has separated from employment outside the territorial limits of the United States, after the book-closing date for an election pursuant to s. 97.055 and who is otherwise qualified may register to vote in such election until 5 p.m. on the Friday before that election in the office of the supervisor of elections. Such persons must produce sufficient documentation showing evidence of qualifying for late registration pursuant to this section.
+History.
+—
+s. 47, ch. 2001-40; s. 1, ch. 2002-17; s. 25, ch. 2012-116; s. 1, ch. 2013-57.
+97.057
+Voter registration by the Department of Highway Safety and Motor Vehicles.
+—
+(1)
+The Department of Highway Safety and Motor Vehicles shall provide the opportunity to register to vote or to update a voter registration record to each individual who comes to an office of that department to:
+(a)
+Apply for or renew a driver license;
+(b)
+Apply for or renew an identification card pursuant to chapter 322; or
+(c)
+Change an address on an existing driver license or identification card.
+(2)
+The Department of Highway Safety and Motor Vehicles shall:
+(a)
+Notify each individual, orally or in writing, that:
+1.
+Information gathered for the completion of a driver license or identification card application, renewal, or change of address can be automatically transferred to a voter registration application;
+2.
+If additional information and a signature are provided, the voter registration application will be completed and sent to the proper election authority;
+3.
+Information provided can also be used to update a voter registration record, except that party affiliation will not be changed unless the individual designates a change in party affiliation and separately consents to such change in writing;
+4.
+All declinations will remain confidential and may be used only for voter registration purposes; and
+5.
+The particular driver license office in which the person applies to register to vote or updates a voter registration record will remain confidential and may be used only for voter registration purposes.
+(b)
+Require a driver license examiner to inquire orally or, if the applicant is hearing impaired, inquire in writing whether the applicant wishes to register to vote or update a voter registration record during the completion of a driver license or identification card application, renewal, or change of address.
+1.
+If the applicant chooses to register to vote or to update a voter registration record:
+a.
+All applicable information received by the Department of Highway Safety and Motor Vehicles in the course of filling out the forms necessary under subsection (1) must be transferred to a voter registration application.
+b.
+The additional necessary information must be obtained by the driver license examiner and must not duplicate any information already obtained while completing the forms required under subsection (1).
+c.
+A voter registration application with all of the applicant’s voter registration information required to establish the applicant’s eligibility pursuant to s. 97.041 must be presented to the applicant to review and verify the voter registration information received and provide an electronic signature affirming the accuracy of the information provided.
+d.
+The voter registration application may not be used to change the party affiliation of the applicant unless the applicant designates a change in party affiliation and provides a separate signature consenting to the party affiliation change.
+e.
+After verifying the voter registration information and providing his or her electronic signature, the applicant must be provided with a printed receipt that includes such information and documents any change in party affiliation.
+2.
+If the applicant declines to register to vote, update the applicant’s voter registration record, or change the applicant’s address by either orally declining or by failing to sign the voter registration application, the Department of Highway Safety and Motor Vehicles must note such declination on its records and shall forward the declination to the statewide voter registration system.
+(3)
+For the purpose of this section, the Department of Highway Safety and Motor Vehicles, with the approval of the Department of State, shall prescribe:
+(a)
+A voter registration application that is the same in content, format, and size as the uniform statewide voter registration application prescribed under s. 97.052; and
+(b)
+A form that will inform applicants under subsection (1) of the information contained in paragraph (2)(a).
+(4)
+The Department of Highway Safety and Motor Vehicles must electronically transmit completed voter registration applications within 24 hours after receipt to the statewide voter registration system. Completed paper voter registration applications received by the Department of Highway Safety and Motor Vehicles shall be forwarded within 5 days after receipt to the supervisor of the county where the office that processed or received that application is located.
+(5)
+The Department of Highway Safety and Motor Vehicles must send, with each driver license renewal extension application authorized pursuant to s. 322.18(8), a uniform statewide voter registration application, the voter registration application prescribed under paragraph (3)(a), or a voter registration application developed especially for the purposes of this subsection by the Department of Highway Safety and Motor Vehicles, with the approval of the Department of State, which must meet the requirements of s. 97.052.
+(6)
+A person providing voter registration services for a driver license office may not:
+(a)
+Make any change to an applicant’s party affiliation unless the applicant provides a separate signature consenting to the party affiliation change or discuss or seek to influence an applicant’s political preference or party registration;
+(b)
+Display any political preference or party allegiance;
+(c)
+Make any statement to an applicant or take any action the purpose or effect of which is to discourage the applicant from registering to vote; or
+(d)
+Disclose any applicant’s voter registration information except as needed for the administration of voter registration.
+(7)
+The Department of Highway Safety and Motor Vehicles shall collect data determined necessary by the Department of State for program evaluation and reporting to the Election Assistance Commission pursuant to federal law.
+(8)
+The Department of Highway Safety and Motor Vehicles must ensure that all voter registration services provided by driver license offices are in compliance with the Voting Rights Act of 1965.
+(9)
+The Department of Highway Safety and Motor Vehicles shall retain complete records of voter registration information received, processed, and submitted to the statewide voter registration system by the Department of Highway Safety and Motor Vehicles. These records shall be for the explicit purpose of supporting audit and accounting controls established to ensure accurate and complete electronic transmission of records between the statewide voter registration system and the Department of Highway Safety and Motor Vehicles.
+(10)
+The department shall provide the Department of Highway Safety and Motor Vehicles with an electronic database of street addresses valid for use as the address of legal residence as required in s. 97.053(5). The Department of Highway Safety and Motor Vehicles shall compare the address provided by the applicant against the database of valid street addresses. If the address provided by the applicant does not match a valid street address in the database, the applicant will be asked to verify the address provided. The Department of Highway Safety and Motor Vehicles shall not reject any application for voter registration for which a valid match cannot be made.
+(11)
+The Department of Highway Safety and Motor Vehicles shall enter into an agreement with the department to match information in the statewide voter registration system with information in the database of the Department of Highway Safety and Motor Vehicles to the extent required to verify the accuracy of the driver license number, Florida identification number, or last four digits of the social security number provided on applications for voter registration as required in s. 97.053.
+(12)
+The Department of Highway Safety and Motor Vehicles shall enter into an agreement with the Commissioner of Social Security as required by the Help America Vote Act of 2002 to verify the last four digits of the social security number provided in applications for voter registration as required in s. 97.053.
+(13)
+The Department of Highway Safety and Motor Vehicles must assist the Department of State in regularly identifying changes in residence address on the driver license or identification card of a voter. The Department of State must report each such change to the appropriate supervisor of elections who must change the voter’s registration records in accordance with s. 98.065(4).
+(14)
+The Department of Highway Safety and Motor Vehicles shall ensure that information technology processes and updates do not alter an applicant’s party affiliation without the written consent of the applicant.
+History.
+—
+s. 13, ch. 94-224; s. 2, ch. 2002-189; s. 9, ch. 2005-278; s. 3, ch. 2016-23; s. 6, ch. 2021-11; s. 6, ch. 2022-73; s. 3, ch. 2023-120; s. 2, ch. 2024-78.
+97.0575
+Third-party voter registration organizations.
+—
+(1)
+Before engaging in any voter registration activities, a third-party voter registration organization must register and provide to the division, in an electronic format, the following information:
+(a)
+The names of the officers of the organization and the name and permanent address of the organization.
+(b)
+The name and address of the organization’s registered agent in the state.
+(c)
+The names, permanent addresses, and temporary addresses, if any, of each registration agent registering persons to vote in this state on behalf of the organization. This paragraph does not apply to persons who only solicit applications and do not collect or handle voter registration applications.
+(d)
+Beginning November 6, 2024, the specific general election cycle for which the third-party voter registration organization is registering persons to vote.
+(e)
+An affirmation that each person collecting or handling voter registration applications on behalf of the third-party voter registration organization has not been convicted of a felony violation of the Election Code, a felony violation of an offense specified in s. 825.103, a felony offense specified in s. 98.0751(2)(b) or (c), or a felony offense specified in chapter 817, chapter 831, or chapter 837. A third-party voter registration organization is liable for a fine in the amount of $50,000 for each such person who has been convicted of a felony violation of the Election Code, a felony violation of an offense specified in s. 825.103, a felony offense specified in s. 98.0751(2)(b) or (c), or a felony offense specified in chapter 817, chapter 831, or chapter 837 who is collecting or handling voter registration applications on behalf of the third-party voter registration organization.
+(f)
+An affirmation that each person collecting or handling voter registration applications on behalf of the third-party voter registration organization is a citizen of the United States of America. A third-party voter registration organization is liable for a fine in the amount of $50,000 for each such person who is not a citizen and is collecting or handling voter registration applications on behalf of the third-party voter registration organization.
+(2)
+Beginning November 6, 2024, the registration of a third-party voter registration organization automatically expires at the conclusion of the specific general election cycle for which the third-party voter registration organization is registered.
+(3)
+The division or the supervisor of elections shall make voter registration forms available to third-party voter registration organizations. All such forms must contain information identifying the organization to which the forms are provided. The division shall maintain a database of all third-party voter registration organizations and the voter registration forms assigned to the third-party voter registration organization. Each supervisor of elections shall provide to the division information on voter registration forms assigned to and received from third-party voter registration organizations. The information must be provided in a format and at times as required by the division by rule. The division shall update information on third-party voter registrations daily and make the information publicly available.
+(4)
+A third-party voter registration organization that collects voter registration applications shall provide a receipt to an applicant upon accepting possession of his or her application. The division shall adopt by rule a uniform format for the receipt by October 1, 2023. The format must include, but need not be limited to, the name of the applicant, the date the application is received, the name of the third-party voter registration organization, the name of the registration agent, the applicant’s political party affiliation, and the county in which the applicant resides.
+(5)(a)
+A third-party voter registration organization that collects voter registration applications serves as a fiduciary to the applicant and shall ensure that any voter registration application entrusted to the organization, irrespective of party affiliation, race, ethnicity, or gender, is promptly delivered to the division or the supervisor of elections in the county in which the applicant resides within 10 days after the application is completed by the applicant, but not after registration closes for the next ensuing election. If a voter registration application collected by any third-party voter registration organization is not promptly delivered to the division or supervisor of elections in the county in which the applicant resides, the third-party voter registration organization is liable for the following fines:
+1.
+A fine in the amount of $50 per each day late, up to $2,500, for each application received by the division or the supervisor of elections in the county in which the applicant resides more than 10 days after the applicant delivered the completed voter registration application to the third-party voter registration organization or any person, entity, or agent acting on its behalf. A fine in the amount of $2,500 for each application received if the third-party voter registration organization or person, entity, or agency acting on its behalf acted willfully.
+2.
+A fine in the amount of $100 per each day late, up to $5,000, for each application collected by a third-party voter registration organization or any person, entity, or agent acting on its behalf, before book closing for any given election for federal or state office and received by the division or the supervisor of elections in the county in which the applicant resides after the book-closing deadline for such election. A fine in the amount of $5,000 for each application received if the third-party voter registration organization or any person, entity, or agency acting on its behalf acted willfully.
+3.
+A fine in the amount of $500 for each application collected by a third-party voter registration organization or any person, entity, or agent acting on its behalf, which is not submitted to the division or supervisor of elections in the county in which the applicant resides. A fine in the amount of $5,000 for any application not submitted if the third-party voter registration organization or person, entity, or agency acting on its behalf acted willfully.
+The aggregate fine which may be assessed pursuant to this paragraph against a third-party voter registration organization, including affiliate organizations, for violations committed in a calendar year is $250,000.
+(b)
+A showing by the third-party voter registration organization that the failure to deliver the voter registration application within the required timeframe is based upon force majeure or impossibility of performance shall be an affirmative defense to a violation of this subsection. The secretary may waive the fines described in this subsection upon a showing that the failure to deliver the voter registration application promptly is based upon force majeure or impossibility of performance.
+(6)
+If a person collecting voter registration applications on behalf of a third-party voter registration organization alters the voter registration application of any other person, without the other person’s knowledge and consent, in violation of s. 104.012(4) and is subsequently convicted of such offense, the applicable third-party voter registration organization is liable for a fine in the amount of $5,000 for each application altered.
+(7)
+If a person collecting voter registration applications on behalf of a third-party voter registration organization copies a voter’s application or retains a voter’s personal information, such as the voter’s Florida driver license number, Florida identification card number, social security number, or signature, for any reason other than to provide such application or information to the third-party voter registration organization in compliance with this section, the person commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(8)
+If the Secretary of State reasonably believes that a person has committed a violation of this section, the secretary may refer the matter to the Attorney General for enforcement. The Attorney General may institute a civil action for a violation of this section or to prevent a violation of this section. An action for relief may include a permanent or temporary injunction, a restraining order, or any other appropriate order.
+(9)
+The division shall adopt by rule a form to elicit specific information concerning the facts and circumstances from a person who claims to have been registered to vote by a third-party voter registration organization but who does not appear as an active voter on the voter registration rolls. The division shall also adopt rules to ensure the integrity of the registration process, including controls to ensure that all completed forms are promptly delivered to the division or a supervisor in the county in which the applicant resides.
+(10)
+The date on which an applicant signs a voter registration application is presumed to be the date on which the third-party voter registration organization received or collected the voter registration application.
+(11)
+A third-party voter registration organization may not mail or otherwise provide a voter registration application upon which any information about an applicant has been filled in before it is provided to the applicant. A third-party voter registration organization that violates this section is liable for a fine in the amount of $50 for each such application.
+(12)
+The requirements of this section are retroactive for any third-party voter registration organization registered with the department as of July 1, 2023, and must be complied with within 90 days after the department provides notice to the third-party voter registration organization of the requirements contained in this section. Failure of the third-party voter registration organization to comply with the requirements within 90 days after receipt of the notice shall automatically result in the cancellation of the third-party voter registration organization’s registration.
+History.
+—
+s. 7, ch. 2005-277; s. 2, ch. 2007-30; s. 4, ch. 2011-40; s. 7, ch. 2021-11; s. 5, ch. 2022-4; s. 7, ch. 2022-73; s. 4, ch. 2023-120.
+97.058
+Voter registration agencies.
+—
+(1)
+Each voter registration agency must provide each applicant the opportunity to register to vote or to update a voter registration record, at the time the applicant applies for services or assistance from that agency, for renewal of such services or assistance, or for a change of address required with respect to the services or assistance.
+(2)
+Each voter registration agency, other than a public library, must develop and provide each applicant with a form approved by the department containing all of the following:
+(a)
+The questions:
+1.
+“If you are not registered to vote where you live now, would you like to apply to register to vote today?”
+2.
+“If you are registered to vote where you live now, would you like to update your voter registration record?”
+(b)
+For agencies providing public assistance, the statement, “Applying to register or declining to register to vote will not affect the amount of assistance that you will be provided by this agency.”
+(c)
+Boxes for the applicant to check which indicate that:
+1.
+The applicant would like to register to vote or update a current voter registration;
+2.
+The applicant would like to decline to register to vote; or
+3.
+The applicant is already registered to vote and does not need to update the voter registration,
+together with the statement, “If you do not check any box, you will be considered to have decided not to register to vote or update a voter registration at this time.”
+(d)
+The statement, “If you would like help in filling out the voter registration application, we will help you. The decision whether to seek or accept help is yours. You may fill out the voter registration application in private.”
+(e)
+The statement, “If you believe that someone has interfered with your right to register or to decline to register to vote, your right to privacy in deciding whether to register or in applying to register to vote, or your right to choose your own political party or other political preference, you may file a complaint with the Secretary of State.”
+(f)
+The address and telephone number of the appropriate office in the department where a complaint may be filed.
+(g)
+A statement that all declinations will remain confidential and may be used only for voter registration purposes.
+(h)
+A statement that informs the applicant who chooses to register to vote or update a voter registration record that the office at which the applicant submits a voter registration application or updates a voter registration record will remain confidential and may be used only for voter registration purposes.
+(3)(a)
+A voter registration agency may use the uniform statewide voter registration application or may create and use a voter registration application that meets the requirements of s. 97.052, with the approval of the department.
+(b)
+A voter registration agency must provide to each applicant under subsection (1) the voter registration application that the agency decides to use pursuant to paragraph (a). An applicant who indicates a desire to register to vote or update a voter registration record must be provided the same degree of assistance with regard to the completion of that voter registration application as is provided by the agency with regard to the completion of its own forms, unless the applicant refuses that assistance.
+(4)
+If a voter registration agency provides services to a person with a disability at the person’s home, the agency must also provide voter registration services at the person’s home.
+(5)
+A voter registration agency must establish procedures for providing voter registration services to applicants who apply by telephone.
+(6)
+A voter registration agency must forward all completed and incomplete voter registration applications within 5 days after receipt to the supervisor of the county where the agency that processed or received that application is located.
+(7)
+A voter registration agency must retain declinations for a period of 2 years, during which time the declinations are not considered a record of the client pursuant to the laws governing the agency’s records.
+(8)
+A person providing voter registration services for a voter registration agency may not:
+(a)
+Seek to influence an applicant’s political preference or party registration;
+(b)
+Display any political preference or party allegiance;
+(c)
+Make any statement to an applicant or take any action the purpose or effect of which is to lead the applicant to believe that a decision to register or not to register has any bearing on the availability of services or benefits;
+(d)
+Make any statement to an applicant or take any action the purpose or effect of which is to discourage the applicant from registering to vote; or
+(e)
+Disclose any applicant’s voter registration information except as needed for the administration of voter registrations.
+(9)
+A voter registration agency must collect data determined necessary by the department, as provided by rule, for program evaluation and reporting to the Election Assistance Commission pursuant to federal law.
+(10)
+Each state agency which contracts with a private provider that is also a voter registration agency as defined in s. 97.021 is responsible for contracting for voter registration services with that provider and for ensuring that the private provider complies with the provisions of this section.
+(11)
+Each voter registration agency must ensure that all voter registration services provided by its offices are in compliance with the Voting Rights Act of 1965.
+History.
+—
+s. 14, ch. 94-224; s. 3, ch. 2002-189; s. 10, ch. 2005-278.
+97.0583
+Voter registration at qualifying educational institutions.
+—
+Each qualifying educational institution shall provide each student enrolled in that institution the opportunity to register to vote or to update a voter registration record on each campus at least once a year. Qualifying educational institutions are also encouraged to provide voter registration services at other times and places, such as upon application for financial aid, during admissions, at registration, upon issuance of student identifications, and at new-student orientation.
+History.
+—
+s. 3, ch. 96-327.
+97.05831
+Voter registration applications made available to the Fish and Wildlife Conservation Commission.
+—
+As required in s. 379.352, each supervisor of elections shall supply voter registration applications to the Fish and Wildlife Conservation Commission and its subagents, as needed.
+History.
+—
+s. 1, ch. 2006-95; s. 183, ch. 2008-247.
+97.0585
+Public records exemption; information regarding voters and voter registration; confidentiality.
+—
+(1)
+The following information held by an agency, as defined in s. 119.011, and obtained for the purpose of voter registration is confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution and may be used only for purposes of voter registration:
+(a)
+All declinations to register to vote made pursuant to ss. 97.057 and 97.058.
+(b)
+Information relating to the place where a person registered to vote or where a person updated a voter registration.
+(c)
+The social security number, driver license number, and Florida identification number of a voter registration applicant or voter.
+(d)
+All information concerning preregistered voter registration applicants who are 16 or 17 years of age.
+(2)
+The signature of a voter registration applicant or a voter is exempt from the copying requirements of s. 119.07(1) and s. 24(a), Art. I of the State Constitution.
+(3)
+Information made confidential and exempt under this section may be disclosed to another governmental entity if disclosure is necessary for the receiving entity to perform any required duties directly related to election administration.
+(4)
+This section applies to information held by an agency before, on, or after the effective date of this exemption.
+History.
+—
+ss. 1, 2, ch. 94-345; s. 24, ch. 96-406; ss. 1, 3, ch. 2005-279; s. 1, ch. 2010-42; ss. 1, 2, ch. 2010-115; s. 11, ch. 2013-15; s. 1, ch. 2015-78; s. 1, ch. 2019-55; s. 8, ch. 2021-11; s. 1, ch. 2024-39.
+97.061
+Special registration for electors requiring assistance.
+—
+(1)
+Any person who is eligible to register and who is unable to read or write or who, because of some disability, needs assistance in voting shall upon that person’s request be registered under the procedure prescribed by this section and shall be entitled to receive assistance at the polls under the conditions prescribed by this section.
+(2)
+If a person is qualified to register pursuant to this section, the voter registration official shall note in that person’s registration record that the person needs assistance in voting.
+(3)
+The precinct register generated by the supervisor shall contain a notation that such person is eligible for assistance in voting, and the supervisor may make a notation on the voter information card that such person is eligible for assistance in voting. Such person shall be entitled to receive the assistance of two election officials or some other person of his or her own choice, other than the person’s employer, the agent of the person’s employer, or an officer or agent of the person’s union, without the necessity of executing the “Declaration to Secure Assistance” prescribed in s. 101.051. Such person shall notify the supervisor of any change in his or her condition which makes it unnecessary for him or her to receive assistance in voting.
+History.
+—
+s. 14, ch. 6469, 1913; RGS 318; CGL 375; s. 3, ch. 25388, 1949; s. 6, ch. 25391, 1949; s. 1, ch. 26870, 1951; s. 3, ch. 28156, 1953; s. 1, ch. 59-446; s. 1, ch. 61-358; s. 4, ch. 65-60; s. 3, ch. 77-175; s. 1, ch. 79-366; s. 2, ch. 81-304; s. 1, ch. 84-302; s. 15, ch. 94-224; s. 1384, ch. 95-147; s. 11, ch. 2005-278; s. 26, ch. 2012-116.
+Note.
+—
+Former ss. 97.06 and 102.21.
+97.071
+Voter information card.
+—
+(1)
+A voter information card must be furnished by the supervisor to all registered voters residing in the supervisor’s county. The card must contain:
+(a)
+Voter’s registration number.
+(b)
+Date of registration.
+(c)
+Full name.
+(d)
+Party affiliation.
+(e)
+Date of birth.
+(f)
+Address of legal residence.
+(g)
+Precinct number.
+(h)
+Polling place address and a link to the supervisor’s website to provide the most current polling place locations.
+(i)
+Name of supervisor and contact information of supervisor.
+(j)
+The following statement: “This card is for information purposes only. This card is proof of registration but is not legal verification of eligibility to vote. It is the responsibility of a voter to keep his or her eligibility status current. A voter may confirm his or her eligibility to vote with the Department of State.”
+(k)
+Other information deemed necessary by the supervisor.
+(2)
+A voter may receive a replacement voter information card by providing a signed, written request for a replacement card to a voter registration official. Upon verification of registration, the supervisor shall issue the voter a duplicate card without charge.
+(3)
+In the case of a change of name, address of legal residence, polling place address, or party affiliation, the supervisor shall issue the voter a new voter information card. A temporary change made to a polling location pursuant to ss. 101.71 and 101.74 does not require the issuance of a new voter information card.
+History.
+—
+s. 13, ch. 3879, 1889; RS 167; s. 15, ch. 4328, 1895; GS 191, 192; RGS 235, 236; CGL 288, 289; s. 4, ch. 24203, 1947; s. 11, ch. 25035, 1949; s. 1, ch. 26870, 1951; s. 10, ch. 27991, 1953; s. 6, ch. 65-60; s. 8, ch. 69-377; ss. 10, 35, ch. 69-106; s. 18, ch. 94-224; s. 28, ch. 97-13; s. 7, ch. 98-129; s. 2, ch. 2000-250; s. 4, ch. 2002-189; s. 8, ch. 2005-277; s. 12, ch. 2005-278; s. 4, ch. 2005-286; s. 5, ch. 2011-40; s. 5, ch. 2023-120.
+Note.
+—
+Former ss. 98.31 and 98.32.
+97.073
+Disposition of voter registration applications; cancellation notice.
+—
+(1)
+The supervisor must notify each applicant of the disposition of the applicant’s voter registration application within 5 business days after voter registration information is entered into the statewide voter registration system. The notice must inform the applicant that the application has been approved, is incomplete, has been denied, or is a duplicate of a current registration. A voter information card sent to an applicant constitutes notice of approval of registration. If the application is incomplete, the supervisor must request that the applicant supply the missing information using a voter registration application signed by the applicant. A notice of denial must inform the applicant of the reason the application was denied.
+(2)
+Within 2 weeks after approval of a voter registration application that indicates that the applicant was previously registered in another state, the department must notify the registration official in the prior state that the applicant is now registered in this state.
+History.
+—
+s. 19, ch. 94-224; s. 62, ch. 2001-40; s. 13, ch. 2005-278; s. 7, ch. 2011-40.
+97.1031
+Notice of change of residence, change of name, or change of party affiliation.
+—
+(1)(a)
+When an elector changes his or her residence address, the elector must notify the supervisor of elections. Except as provided in paragraph (b), an address change must be submitted using a voter registration application.
+(b)
+If the address change is within the state and notice is provided to the supervisor of elections of the county where the elector has moved, the elector may do so by:
+1.
+Contacting the supervisor of elections via telephone or electronic means, in which case the elector must provide his or her date of birth and the last four digits of his or her social security number, his or her Florida driver license number, or his or her Florida identification card number, whichever may be verified in the supervisor’s records; or
+2.
+Submitting the change on a voter registration application or other signed written notice.
+(2)
+When an elector seeks to change party affiliation, the elector shall notify his or her supervisor of elections or other voter registration official by submitting a voter registration application. When an elector changes his or her name by marriage or other legal process, the elector shall notify his or her supervisor of elections or other voter registration official by submitting a voter registration application.
+(3)
+The voter registration official shall make the necessary changes in the elector’s records as soon as practical upon receipt of such notice of a change of address of legal residence, name, or party affiliation. The supervisor of elections shall issue the new voter information card.
+History.
+—
+s. 7, ch. 78-403; s. 5, ch. 80-292; s. 21, ch. 94-224; s. 29, ch. 97-13; s. 31, ch. 99-2; s. 3, ch. 2000-250; s. 5, ch. 2002-189; s. 14, ch. 2005-278; s. 5, ch. 2005-286; s. 8, ch. 2011-40; s. 9, ch. 2021-11.
+97.105
+Permanent single registration system established.
+—
+A permanent single registration system for the registration of electors to qualify them to vote in all elections is provided for the several counties and municipalities. This system shall be put into use by all municipalities and shall be in lieu of any other system of municipal registration. Electors shall be registered pursuant to this system by a voter registration official, and electors registered shall not thereafter be required to register or reregister except as provided by law.
+History.
+—
+s. 1, ch. 25391, 1949; s. 2, ch. 26870, 1951; s. 1, ch. 59-237; s. 2, ch. 69-377; s. 1, ch. 73-155; s. 32, ch. 73-333; s. 5, ch. 77-175; s. 23, ch. 94-224; s. 15, ch. 2005-278.
+Note.
+—
+Former s. 97.01; s. 98.041.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0098
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0098. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0098/0098.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 98
+REGISTRATION OFFICE, OFFICERS, AND PROCEDURES
+View Entire Chapter
+CHAPTER 98
+CHAPTER 98
+REGISTRATION OFFICE, OFFICERS, AND PROCEDURES
+98.015
+Supervisor of elections; election, tenure of office, compensation, custody of registration-related documents, office hours, successor, seal; appointment of deputy supervisors; duties.
+98.035
+Statewide voter registration system; implementation, operation, and maintenance.
+98.045
+Administration of voter registration.
+98.065
+Registration list maintenance programs.
+98.0655
+Registration list maintenance forms.
+98.075
+Registration records maintenance activities; ineligibility determinations.
+98.0751
+Restoration of voting rights; termination of ineligibility subsequent to a felony conviction.
+98.0755
+Appeal of determination of ineligibility.
+98.077
+Update of voter signature.
+98.081
+Names removed from the statewide voter registration system; restrictions on reregistering; recordkeeping; restoration of erroneously or illegally removed names.
+98.093
+Duty of officials to furnish information relating to deceased persons, persons adjudicated mentally incapacitated, persons convicted of a felony, and persons who are not United States citizens.
+98.0981
+Reports; voting history; statewide voter registration system information; precinct-level election results; book closing statistics; live turnout data.
+98.212
+Department and supervisors to furnish statistical and other information.
+98.255
+Voter education programs.
+98.461
+Registration application, precinct register; contents.
+98.015
+Supervisor of elections; election, tenure of office, compensation, custody of registration-related documents, office hours, successor, seal; appointment of deputy supervisors; duties.
+—
+(1)
+A supervisor of elections shall be elected in each county at the general election in each year the number of which is a multiple of four for a 4-year term commencing on the first Tuesday after the first Monday in January succeeding his or her election. Each supervisor shall, before performing any of his or her duties, take the oath prescribed in s. 5, Art. II of the State Constitution.
+(2)
+The supervisor’s compensation shall be paid by the board of county commissioners.
+(3)
+The supervisor shall update voter registration information, enter new voter registrations into the statewide voter registration system, and act as the official custodian of documents received by the supervisor related to the registration of electors and changes in voter registration status of electors of the supervisor’s county.
+(4)
+At a minimum, the office of the supervisor must be open Monday through Friday, excluding legal holidays, for a period of not less than 8 hours per day, beginning no later than 9 a.m.
+(5)
+The supervisor shall preserve statements and other information required to be filed with the supervisor’s office pursuant to chapter 106 for a period of 10 years from date of receipt.
+(6)
+The supervisor shall, upon leaving office, deliver to his or her successor immediately all records belonging to the office.
+(7)
+Each supervisor is authorized to obtain for the office an impression seal approved by the department. An impression of the seal with a description thereof shall be filed with the department. The supervisor is empowered to attach an impression of the seal upon official documents and certificates executed over the supervisor’s signature and take oaths and acknowledgments under the supervisor’s seal in matters pertaining to the office. However, said seal need not be affixed to registration certificates.
+(8)
+Each supervisor may select and appoint, subject to removal by the supervisor, as many deputy supervisors as are necessary, whose compensation must be paid by the supervisor and who shall have the same powers and whose acts shall have the same effect as the acts of the supervisor; except that the supervisor shall limit the power to appoint deputy supervisors to designated deputy supervisors. Each deputy supervisor shall, before entering office, take an oath in writing that he or she will faithfully perform the duties of the deputy supervisor’s office, which oath must be acknowledged by the supervisor or a designated deputy supervisor and must be filed in the office of the supervisor.
+(9)
+Each supervisor must make training in the proper implementation of voter registration procedures available to any individual, group, center for independent living, or public library in the supervisor’s county.
+(10)
+Each supervisor shall ensure that all voter registration and list maintenance procedures conducted by such supervisor are in compliance with any applicable requirements prescribed by rule of the department through the statewide voter registration system or prescribed by the Voting Rights Act of 1965, the National Voter Registration Act of 1993, or the Help America Vote Act of 2002.
+(11)
+Each supervisor shall ensure that any voter registration system used by the supervisor for administering his or her duties as a voter registration official complies with the specifications and procedures established by rule of the department and the statewide voter registration system.
+(12)
+Each supervisor shall maintain a list of valid residential street addresses for purposes of verifying the legal addresses of voters residing in the supervisor’s county. To the maximum extent practicable, the list shall include information necessary to differentiate one residence from another, including, but not limited to, a distinguishing apartment, suite, lot, room, or dormitory room number or other identifier. If a voter registration application does not include information necessary to differentiate one residence from another, the supervisor shall make all reasonable efforts to obtain such information in order to maintain the list of valid residential street addresses. The supervisor shall make all reasonable efforts to coordinate with county 911 service providers, property appraisers, the United States Postal Service, or other agencies as necessary to ensure the continued accuracy of such list. The supervisor shall provide the list of valid residential addresses to the statewide voter registration system in the manner and frequency specified by rule of the department.
+History.
+—
+chs. 3700, 3704, 1887; s. 8, ch. 3879, 1889; RS 162; s. 9, ch. 4328, 1895; GS 179, 180; s. 1, ch. 5614, 1907; s. 1, ch. 9271, 1923; RGS 223, 224; CGL 258, 259; ss. 1, 2, ch. 22759, 1945; s. 2, ch. 26870, 1951; s. 10, ch. 65-134; ss. 10, 11, 35, ch. 69-106; s. 33, ch. 69-216; s. 5, ch. 77-175; s. 25, ch. 94-224; s. 1385, ch. 95-147; s. 17, ch. 98-34; s. 2, ch. 98-129; s. 16, ch. 2005-278; s. 4, ch. 2016-23; s. 1, ch. 2021-73; s. 2, ch. 2022-221.
+Note.
+—
+Former ss. 98.13, 98.14, 98.17; s. 98.161.
+98.035
+Statewide voter registration system; implementation, operation, and maintenance.
+—
+(1)
+The Secretary of State, as chief election officer of the state, shall be responsible for implementing, operating, and maintaining, in a uniform and nondiscriminatory manner, a single, uniform, official, centralized, interactive, computerized statewide voter registration system as required by the Help America Vote Act of 2002. The department may adopt rules to administer this section.
+(2)
+The statewide voter registration system must contain the name and registration information of every legally registered voter in the state. All voters shall be assigned a unique identifier. The system shall be the official list of registered voters in the state and shall provide secured access by authorized voter registration officials. The system shall enable voter registration officials to provide, access, and update voter registration information.
+(3)
+The department may not contract with any other entity for the operation of the statewide voter registration system.
+(4)
+The implementation of the statewide voter registration system shall not prevent any supervisor of elections from acquiring, maintaining, or using any hardware or software necessary or desirable to carry out the supervisor’s responsibilities related to the use of voter registration information or the conduct of elections, provided that such hardware or software does not conflict with the operation of the statewide voter registration system.
+(5)
+The department may adopt rules governing the access, use, and operation of the statewide voter registration system to ensure security, uniformity, and integrity of the system.
+History.
+—
+s. 17, ch. 2005-278.
+98.045
+Administration of voter registration.
+—
+(1)
+ELIGIBILITY OF APPLICANT.
+—
+The supervisor must ensure that any eligible applicant for voter registration is registered to vote and that each application for voter registration is processed in accordance with law. The supervisor shall determine whether a voter registration applicant is ineligible based on any of the following:
+(a)
+The failure to complete a voter registration application as specified in s. 97.053.
+(b)
+The applicant is deceased.
+(c)
+The applicant has been convicted of a felony for which his or her voting rights have not been restored.
+(d)
+The applicant has been adjudicated mentally incapacitated with respect to the right to vote and such right has not been restored.
+(e)
+The applicant does not meet the age requirement pursuant to s. 97.041.
+(f)
+The applicant is not a United States citizen.
+(g)
+The applicant is a fictitious person.
+(h)
+The applicant has provided an address of legal residence that is not his or her legal residence.
+(i)
+The applicant has provided a driver license number, Florida identification card number, or the last four digits of a social security number that is not verifiable by the department.
+(2)
+REMOVAL OF REGISTERED VOTERS.
+—
+(a)
+Once a voter is registered, the name of that voter may not be removed from the statewide voter registration system except at the written request of the voter, by reason of the voter’s conviction of a felony or adjudication as mentally incapacitated with respect to voting, by death of the voter, or pursuant to a registration list maintenance activity conducted pursuant to s. 98.065 or s. 98.075.
+(b)
+Information received by a voter registration official from an election official in another state indicating that a registered voter in this state has registered to vote in that other state shall be considered as a written request from the voter to have the voter’s name removed from the statewide voter registration system.
+(3)
+PUBLIC RECORDS ACCESS AND RETENTION.
+—
+Each supervisor shall maintain for at least 2 years, and make available for public inspection and copying, all records concerning implementation of registration list maintenance programs and activities conducted pursuant to ss. 98.065 and 98.075. The records must include lists of the name and address of each person to whom a notice was sent and information as to whether each such person responded to the mailing, but may not include any information that is confidential or exempt from public records requirements under this code.
+(4)
+STATEWIDE ELECTRONIC DATABASE OF VALID RESIDENTIAL STREET ADDRESSES.
+—
+(a)
+The department shall compile and maintain a statewide electronic database of valid residential street addresses from the information provided by the supervisors of elections pursuant to s. 98.015. The department shall evaluate the information provided by the supervisors of elections to identify any duplicate addresses and any address that may overlap county boundaries.
+(b)
+The department shall make the statewide database of valid street addresses available to the Department of Highway Safety and Motor Vehicles as provided in s. 97.057(10). The Department of Highway Safety and Motor Vehicles shall use the database for purposes of validating the legal residential addresses provided in voter registration applications received by the Department of Highway Safety and Motor Vehicles.
+(5)
+FORMS.
+—
+The department may prescribe by rule forms necessary to conduct maintenance of records in the statewide voter registration system.
+History.
+—
+s. 26, ch. 94-224; s. 36, ch. 97-13; s. 2, ch. 2002-17; s. 7, ch. 2003-415; s. 9, ch. 2005-277; s. 18, ch. 2005-278; s. 23, ch. 2019-162.
+98.065
+Registration list maintenance programs.
+—
+(1)
+The supervisor must conduct a general registration list maintenance program to protect the integrity of the electoral process by ensuring the maintenance of accurate and current voter registration records in the statewide voter registration system. The program must be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965, the National Voter Registration Act of 1993, and the Help America Vote Act of 2002. As used in this subsection, the term “nondiscriminatory” applies to and includes persons with disabilities.
+(2)
+A supervisor must incorporate one or more of the following procedures in the supervisor’s annual registration list maintenance program under which the supervisor shall:
+(a)
+Use change-of-address information supplied by the United States Postal Service through its licensees to identify registered voters whose addresses might have changed. Additionally, in odd-numbered years, unless the supervisor is conducting the procedure specified in paragraph (b), the supervisor must identify change-of-address information from address confirmation final notices mailed to all registered voters who have not voted in the preceding two general elections or any intervening election and who have not made a request that their registration records be updated during that time; or
+(b)
+Identify change-of-address information from returned nonforwardable return-if-undeliverable address confirmation requests sent to all registered voters in the county.
+(3)
+A registration list maintenance program must be conducted by each supervisor, at a minimum, once each year, beginning no later than April 1, and must be completed at least 90 days before the date of any federal election. All list maintenance actions associated with each voter must be entered, tracked, recorded, and maintained in the statewide voter registration system.
+(4)(a)
+If the supervisor receives change-of-address information pursuant to the activities conducted in subsection (2), from jury notices signed by the voter and returned to the courts, from the Department of Highway Safety and Motor Vehicles, or from other sources which indicates that a registered voter’s legal residence might have changed to another location within the state, the supervisor must change the registration records to reflect the new address and must send the voter an address change notice as provided in s. 98.0655(2).
+(b)
+If the supervisor of elections receives change-of-address information pursuant to the activities conducted in subsection (2), from jury notices signed by the voter and returned to the courts, or from other sources which indicates that a registered voter’s legal residence might have changed to a location outside the state, the supervisor of elections shall send an address confirmation final notice to the voter as provided in s. 98.0655(3).
+(c)
+If an address confirmation request required by paragraph (2)(b) is returned as undeliverable without indication of an address change, or if any other nonforwardable return-if-undeliverable mail is returned as undeliverable with no indication of an address change, the supervisor must send an address confirmation final notice to the voter.
+(d)
+The supervisor must designate as inactive all voters who have been sent an address confirmation final notice and who have not returned the postage prepaid, preaddressed return form within 30 days or for which the final notice has been returned as undeliverable. Names on the inactive list may not be used to calculate the number of signatures needed on any petition. A voter on the inactive list may be restored to the active list of voters upon the voter updating his or her registration and confirming his or her current address of legal residence, requesting a vote-by-mail ballot and confirming his or her current address of legal residence, or appearing to vote and confirming his or her current address of legal residence. However, if the voter does not update his or her voter registration information, request a vote-by-mail ballot, or vote by the second general election after being placed on the inactive list, the voter’s name shall be removed from the statewide voter registration system and the voter shall be required to reregister to have his or her name restored to the statewide voter registration system.
+(5)
+A notice may not be issued pursuant to this section and a voter’s name may not be removed from the statewide voter registration system later than 90 days prior to the date of a federal election. However, this section does not preclude the correction of registration records based on information submitted by the voter or removal of the name of a voter from the statewide voter registration system at any time upon the voter’s written request, by reason of the voter’s death, or upon a determination of the voter’s ineligibility as provided in s. 98.075(7).
+(6)
+The supervisor shall, at a minimum, conduct an annual review of voter registration records to identify registration records in which a voter is registered at an address that may not be an address of legal residence for the voter. For those registration records with such addresses that the supervisor has reasonable belief are not legal residential addresses, the supervisor shall initiate list maintenance activities pursuant to s. 98.075(6) and (7).
+(7)(a)
+No later than July 31 and January 31 of each year, the supervisor must certify to the department the address list maintenance activities conducted during the first 6 months and the second 6 months of the year, respectively, including the number of address confirmation requests sent, the number of voters designated as inactive, and the number of voters removed from the statewide voter registration system.
+(b)
+If, based on the certification provided pursuant to paragraph (a), the department determines that a supervisor has not conducted the list maintenance activities required by this section, the department shall conduct the appropriate list maintenance activities for that county. Failure to conduct list maintenance activities as required in this section constitutes a violation of s. 104.051.
+History.
+—
+s. 28, ch. 94-224; s. 6, ch. 2002-281; s. 19, ch. 2005-278; s. 6, ch. 2008-95; s. 4, ch. 2016-37; s. 8, ch. 2022-73; s. 23, ch. 2023-8; s. 7, ch. 2023-120.
+98.0655
+Registration list maintenance forms.
+—
+The department shall prescribe registration list maintenance forms to be used by the supervisors which must include:
+(1)
+An address confirmation request that must contain:
+(a)
+The voter’s name and address of legal residence as shown on the voter registration record;
+(b)
+A request that the voter notify the supervisor if either the voter’s name or address of legal residence is incorrect; and
+(c)
+Information about updating voter information through the online voter registration system.
+(2)
+An address change notice that must be sent to the newly recorded address of legal residence by forwardable mail, including a postage prepaid, preaddressed return form with which the voter may verify or correct the voter’s new address information.
+(3)
+An address confirmation final notice that must be sent to the newly recorded address of legal residence, or to all addresses on file for the voter if no indication of new address has been received, by forwardable mail and must contain a postage prepaid, preaddressed return form and a statement that:
+(a)
+If the voter has not changed his or her legal residence or has changed his or her legal residence within the state, the voter should return the form within 30 days after the date on which the notice was sent to the voter.
+(b)
+If the voter has changed his or her legal residence to a location outside the state:
+1.
+The voter shall return the form, which serves as a request to be removed from the registration books; and
+2.
+The voter shall be provided with information on how to register in the new jurisdiction in order to be eligible to vote.
+(c)
+If the return form is not returned, the voter’s name shall be designated as inactive in the statewide voter registration system, and confirmation of the voter’s address of legal residence may be required before the voter is authorized to vote in an election.
+History.
+—
+s. 7, ch. 2008-95; s. 9, ch. 2022-73; s. 8, ch. 2023-120.
+98.075
+Registration records maintenance activities; ineligibility determinations.
+—
+(1)
+MAINTENANCE OF RECORDS.
+—
+The department shall protect the integrity of the electoral process by ensuring the maintenance of accurate and current voter registration records. List maintenance activities must be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965, the National Voter Registration Act of 1993, and the Help America Vote Act of 2002. The department may adopt by rule uniform standards and procedures to interpret and administer this section.
+(2)
+DUPLICATE REGISTRATION.
+—
+(a)
+The department shall identify those voters who are registered more than once or those applicants whose registration applications within the state would result in duplicate registrations. The most recent application shall be deemed an update to the voter registration record.
+(b)1.
+The department may become a member of a nongovernmental entity whose sole purpose is to share and exchange information in order to verify voter registration information. The membership of the nongovernmental entity must be composed solely of election officials of state governments, except that such membership may also include election officials of the District of Columbia. If the department intends to become a member of such a nongovernmental entity, the agreement to join the entity must require that the Secretary of State, or his or her designee, serve as a full member with voting rights on the nongovernmental entity’s board of directors within 12 months after joining the entity.
+2.
+The department may share confidential and exempt information after becoming a member of a nongovernmental entity as provided in subparagraph 1. if:
+a.
+Each member of the nongovernmental entity agrees to maintain the confidentiality of such information as required by the laws of the jurisdiction providing the information; or
+b.
+The bylaws of the nongovernmental entity require member jurisdictions and the entity to maintain the confidentiality of information as required by the laws of the jurisdiction providing the information.
+3.
+The department may only become a member of a nongovernmental entity as provided in subparagraph 1. if the entity is controlled and operated by the participating jurisdictions. The entity may not be operated or controlled by the Federal Government or any other entity acting on behalf of the Federal Government. The department must be able to withdraw at any time from any such membership entered into.
+4.
+If the department becomes a member of a nongovernmental entity as provided in subparagraph 1., the Department of Highway Safety and Motor Vehicles must, pursuant to a written agreement with the department, provide driver license or identification card information to the department for the purpose of sharing and exchanging voter registration information with the nongovernmental entity.
+5.
+If the department becomes a member of a nongovernmental entity as provided in subparagraph 1., the department must submit a report to the Governor, the President of the Senate, and the Speaker of the House of Representatives by December 1 of each year. The report must describe the terms of the nongovernmental entity membership and provide information on the total number of voters removed from the voter registration system as a result of the membership and the reasons for their removal.
+(c)
+Information received by the department from another state or the District of Columbia upon the department becoming a member of a nongovernmental entity as provided in subparagraph (b)1., which is confidential or exempt pursuant to the laws of that state or the District of Columbia, is exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution. The department shall provide such information to the supervisors to conduct registration list maintenance activities.
+(3)
+DECEASED PERSONS.
+—
+(a)1.
+The department shall identify those registered voters who are deceased by comparing information received from:
+a.
+The Department of Health as provided in s. 98.093;
+b.
+The United States Social Security Administration, including, but not limited to, any master death file or index compiled by the United States Social Security Administration; and
+c.
+The Department of Highway Safety and Motor Vehicles.
+2.
+Within 7 days after receipt of such information through the statewide voter registration system, the supervisor shall remove the name of the registered voter.
+(b)
+The supervisor shall remove the name of a deceased registered voter from the statewide voter registration system within 7 days after receipt of a copy of a death certificate issued by a governmental agency authorized to issue death certificates.
+(4)
+ADJUDICATION OF MENTAL INCAPACITY.
+—
+The department shall identify those registered voters who have been adjudicated mentally incapacitated with respect to voting and who have not had their voting rights restored by comparing information received from the clerk of the circuit court as provided in s. 98.093. The department shall review such information and make an initial determination as to whether the information is credible and reliable. If the department determines that the information is credible and reliable, the department must notify the supervisor and provide a copy of the supporting documentation indicating the potential ineligibility of the voter to be registered. Upon receipt of the notice that the department has made a determination of initial credibility and reliability, the supervisor shall adhere to the procedures set forth in subsection (7) before the removal of a registered voter from the statewide voter registration system.
+(5)
+FELONY CONVICTION.
+—
+(a)
+The department shall identify those registered voters who have been convicted of a felony and whose voting rights have not been restored by comparing information received from, but not limited to, a clerk of the circuit court, the Board of Executive Clemency, the Department of Corrections, the Department of Law Enforcement, or a United States Attorney’s Office, as provided in s. 98.093. The department shall review such information and make an initial determination as to whether the information is credible and reliable. If the department determines that the information is credible and reliable, the department must notify the supervisor and provide a copy of the supporting documentation indicating the potential ineligibility of the voter to be registered. Upon receipt of the notice that the department has made a determination of initial credibility and reliability, the supervisor shall adhere to the procedures set forth in subsection (7) before the removal of a registered voter’s name from the statewide voter registration system.
+(b)
+The supervisors shall coordinate with their respective clerks of the court to obtain information pursuant to s. 98.093 to identify registered voters within their respective jurisdictions who have been convicted of a felony during the preceding week and whose voting rights have not been restored. The supervisor shall adhere to the procedures set forth in subsection (7) before the removal of a registered voter’s name from the statewide voter registration system. For purposes of this paragraph, a supervisor’s duties under subsection (7) begin upon his or her determination that the information received from the clerk is credible and reliable.
+(6)
+OTHER BASES FOR INELIGIBILITY.
+—
+Subsections (2)-(5) do not limit or restrict the department or the supervisor in his or her duty to act upon direct receipt of, access to, or knowledge of information from any governmental entity that identifies a registered voter as potentially ineligible. If the department or supervisor receives information from any governmental entity other than those identified in subsections (2)-(5) that a registered voter is ineligible because the voter is deceased, adjudicated a convicted felon without having had his or her voting rights restored, adjudicated mentally incapacitated without having had his or her voting rights restored, does not meet the age requirement pursuant to s. 97.041, is not a United States citizen, is a fictitious person, or has listed an address that is not his or her address of legal residence, the supervisor must adhere to the procedures set forth in subsection (7) before the removal of the name of a registered voter who is determined to be ineligible from the statewide voter registration system.
+(7)
+PROCEDURES FOR REMOVAL.
+—
+(a)
+If the supervisor receives notice or information pursuant to subsections (4)-(6), the supervisor of the county in which the voter is registered must:
+1.
+Notify the registered voter of his or her potential ineligibility by mail within 7 days after receipt of notice or information. The notice must include:
+a.
+A statement of the basis for the registered voter’s potential ineligibility and a copy of any documentation upon which the potential ineligibility is based. Such documentation must include any conviction from another jurisdiction determined to be a similar offense to murder or a felony sexual offense, as those terms are defined in s. 98.0751.
+b.
+A statement that failure to respond within 30 days after receipt of the notice may result in a determination of ineligibility and in removal of the registered voter’s name from the statewide voter registration system.
+c.
+A return form that requires the registered voter to admit or deny the accuracy of the information underlying the potential ineligibility for purposes of a final determination by the supervisor.
+d.
+A statement that, if the voter is denying the accuracy of the information underlying the potential ineligibility, the voter has a right to request a hearing for the purpose of determining eligibility.
+e.
+Instructions for the registered voter to contact the supervisor of elections of the county in which the voter is registered if assistance is needed in resolving the matter.
+f.
+Instructions for seeking restoration of civil rights pursuant to s. 8, Art. IV of the State Constitution and information explaining voting rights restoration pursuant to s. 4, Art. VI of the State Constitution following a felony conviction, if applicable.
+g.
+The following statement: “If you attempt to vote at an early voting site or your normal election day polling place, you will be required to vote a provisional ballot. If you vote by mail, your ballot will be treated as a provisional ballot. In either case, your ballot may not be counted until a final determination of eligibility is made. If you wish for your ballot to be counted, you must contact the supervisor of elections office within 2 days after the election and present evidence that you are eligible to vote.”
+2.
+If the mailed notice is returned as undeliverable, the supervisor must, within 14 days after receiving the returned notice, either publish notice once in a newspaper of general circulation in the county in which the voter was last registered or publish notice on the county’s website as provided in s. 50.0311 or on the supervisor’s website, as deemed appropriate by the supervisor. The notice must contain the following:
+a.
+The voter’s name and address.
+b.
+A statement that the voter is potentially ineligible to be registered to vote.
+c.
+A statement that failure to respond within 30 days after the notice is published may result in a determination of ineligibility by the supervisor and removal of the registered voter’s name from the statewide voter registration system.
+d.
+An instruction for the voter to contact the supervisor no later than 30 days after the date of the published notice to receive information regarding the basis for the potential ineligibility and the procedure to resolve the matter.
+e.
+An instruction to the voter that, if further assistance is needed, the voter should contact the supervisor of elections of the county in which the voter is registered.
+f.
+A statement that, if the voter denies the accuracy of the information underlying the potential ineligibility, the voter has a right to request a hearing for the purpose of determining eligibility.
+g.
+The following statement: “If you attempt to vote at an early voting site or your normal election day polling place, you will be required to vote a provisional ballot. If you vote by mail, your ballot will be treated as a provisional ballot. In either case, your ballot may not be counted until a final determination of eligibility is made. If you wish for your ballot to be counted, you must contact the supervisor of elections office within 2 days after the election and present evidence that you are eligible to vote.”
+3.
+If a registered voter fails to respond to a notice pursuant to subparagraph 1. or subparagraph 2., the supervisor must make a final determination of the voter’s eligibility within 7 days after expiration of the voter’s timeframe to respond. If the supervisor determines that the voter is ineligible, the supervisor must remove the name of the registered voter from the statewide voter registration system within 7 days. The supervisor shall notify the registered voter of the supervisor’s determination and action.
+4.
+If a registered voter responds to the notice pursuant to subparagraph 1. or subparagraph 2. and admits the accuracy of the information underlying the potential ineligibility, the supervisor must, as soon as practicable, make a final determination of ineligibility and remove the voter’s name from the statewide voter registration system. The supervisor shall notify the registered voter of the supervisor’s determination and action.
+5.
+If a registered voter responds to the notice issued pursuant to subparagraph 1. or subparagraph 2. and denies the accuracy of the information underlying the potential ineligibility but does not request a hearing, the supervisor must review the evidence and make a determination of eligibility no later than 30 days after receiving the response from the voter. If the supervisor determines that the registered voter is ineligible, the supervisor must remove the voter’s name from the statewide voter registration system upon such determination and notify the registered voter of the supervisor’s determination and action and that the removed voter has a right to appeal a determination of ineligibility pursuant to s. 98.0755. If such registered voter requests a hearing, the supervisor must send notice to the registered voter to attend a hearing at a time and place specified in the notice. The supervisor shall schedule and issue notice for the hearing within 7 days after receiving the voter’s request for a hearing and shall hold the hearing no later than 30 days after issuing the notice of the hearing. A voter may request an extension upon showing good cause by submitting an affidavit to the supervisor as to why he or she is unable to attend the scheduled hearing. Upon hearing all evidence presented at the hearing, the supervisor shall make a determination of eligibility within 7 days. If the supervisor determines that the registered voter is ineligible, the supervisor must remove the voter’s name from the statewide voter registration system and notify the registered voter of the supervisor’s determination and action and that the removed voter has a right to appeal a determination of ineligibility pursuant to s. 98.0755.
+(b)
+The following apply to this subsection:
+1.
+All determinations of eligibility must be based on a preponderance of the evidence.
+2.
+All proceedings are exempt from chapter 120.
+3.
+Any notice must be sent to the registered voter by certified mail, return receipt requested, or other means that provides a verification of receipt or must be published in a newspaper of general circulation where the voter was last registered, on the county’s website as provided in s. 50.0311, or on the supervisor’s website, whichever is applicable.
+4.
+The supervisor shall remove the name of any registered voter from the statewide voter registration system only after the supervisor makes a final determination that the voter is ineligible to vote.
+5.
+Any voter whose name has been removed from the statewide voter registration system pursuant to a determination of ineligibility may appeal that determination under s. 98.0755.
+6.
+Any voter whose name was removed from the statewide voter registration system on the basis of a determination of ineligibility who subsequently becomes eligible to vote must reregister in order to have his or her name restored to the statewide voter registration system.
+(8)
+CERTIFICATION.
+—
+(a)
+No later than July 31 and January 31 of each year, the supervisor shall certify to the department that the supervisor has conducted the activities required pursuant to this section during the first 6 months and the second 6 months of the year, respectively. The certification must include the number of persons to whom notices were sent pursuant to subsection (7); the number of persons who responded to the notices; the number of notices returned as undeliverable; the number of notices published in the newspaper, on the county’s website, or on the supervisor’s website; the number of hearings conducted; and the number of persons removed from the statewide voter registration system and the reasons for such removals.
+(b)
+If, based on the certification provided pursuant to paragraph (a), the department determines that a supervisor has not satisfied the requirements of this section, the department shall satisfy the appropriate requirements for that county. Failure to satisfy the requirements of this section constitutes a violation of s. 104.051.
+History.
+—
+s. 29, ch. 94-224; s. 1386, ch. 95-147; s. 20, ch. 2005-278; s. 9, ch. 2011-40; s. 1, ch. 2018-32; s. 1, ch. 2018-33; s. 24, ch. 2019-162; s. 10, ch. 2022-73; s. 9, ch. 2023-120.
+98.0751
+Restoration of voting rights; termination of ineligibility subsequent to a felony conviction.
+—
+(1)
+A person who has been disqualified from voting based on a felony conviction for an offense other than murder or a felony sexual offense must have such disqualification terminated and his or her voting rights restored pursuant to s. 4, Art. VI of the State Constitution upon the completion of all terms of his or her sentence, including parole or probation. The voting disqualification does not terminate unless a person’s civil rights are restored pursuant to s. 8, Art. IV of the State Constitution if the disqualification arises from a felony conviction of murder or a felony sexual offense, or if the person has not completed all terms of sentence, as specified in subsection (2).
+(2)
+For purposes of this section, the term:
+(a)
+“Completion of all terms of sentence” means any portion of a sentence that is contained in the four corners of the sentencing document, including, but not limited to:
+1.
+Release from any term of imprisonment ordered by the court as a part of the sentence;
+2.
+Termination from any term of probation or community control ordered by the court as a part of the sentence;
+3.
+Fulfillment of any term ordered by the court as a part of the sentence;
+4.
+Termination from any term of any supervision, which is monitored by the Florida Commission on Offender Review, including, but not limited to, parole; and
+5.a.
+Full payment of restitution ordered to a victim by the court as a part of the sentence. A victim includes, but is not limited to, a person or persons, the estate or estates thereof, an entity, the state, or the Federal Government.
+b.
+Full payment of fines or fees ordered by the court as a part of the sentence or that are ordered by the court as a condition of any form of supervision, including, but not limited to, probation, community control, or parole.
+c.
+The financial obligations required under sub-subparagraph a. or sub-subparagraph b. include only the amount specifically ordered by the court as part of the sentence and do not include any fines, fees, or costs that accrue after the date the obligation is ordered as a part of the sentence.
+d.
+For the limited purpose of addressing a plea for relief pursuant to sub-subparagraph e. and notwithstanding any other statute, rule, or provision of law, a court may not be prohibited from modifying the financial obligations of an original sentence required under sub-subparagraph a. or sub-subparagraph b. Such modification shall not infringe on a defendant’s or a victim’s rights provided in the United States Constitution or the State Constitution.
+e.
+Financial obligations required under sub-subparagraph a. or sub-subparagraph b. are considered completed in the following manner or in any combination thereof:
+(I)
+Actual payment of the obligation in full.
+(II)
+Upon the payee’s approval, either through appearance in open court or through the production of a notarized consent by the payee, the termination by the court of any financial obligation to a payee, including, but not limited to, a victim, or the court.
+(III)
+Completion of all community service hours, if the court, unless otherwise prohibited by law or the State Constitution, converts the financial obligation to community service.
+A term required to be completed in accordance with this paragraph shall be deemed completed if the court modifies the original sentencing order to no longer require completion of such term. The requirement to pay any financial obligation specified in this paragraph is not deemed completed upon conversion to a civil lien.
+(b)
+“Felony sexual offense” means any of the following:
+1.
+Any felony offense that serves as a predicate to registration as a sexual offender in accordance with s. 943.0435;
+2.
+Section 491.0112;
+3.
+Section 784.049(3)(b) or (4);
+4.
+Section 794.08;
+5.
+Section 796.08;
+6.
+Section 800.101;
+7.
+Section 826.04;
+8.
+Section 847.012;
+9.
+Section 872.06(2);
+10.
+Section 944.35(3)(b)2.;
+11.
+Section 951.221(1); or
+12.
+Any similar offense committed in another jurisdiction which would be an offense listed in this paragraph if it had been committed in violation of the laws of this state.
+(c)
+“Murder” means either of the following:
+1.
+A violation of any of the following sections which results in the actual killing of a human being:
+a.
+Section 775.33(4).
+b.
+Section 782.04(1), (2), or (3).
+c.
+Section 782.09.
+2.
+Any similar offense committed in another jurisdiction which would be an offense listed in this paragraph if it had been committed in violation of the laws of this state.
+(3)(a)
+The department shall obtain and review information pursuant to s. 98.075(5) related to a person who registers to vote and make an initial determination on whether such information is credible and reliable regarding whether the person is eligible pursuant to s. 4, Art. VI of the State Constitution and this section. Upon making an initial determination of the credibility and reliability of such information, the department shall forward such information to the supervisor of elections pursuant to s. 98.075.
+(b)
+A local supervisor of elections shall verify and make a final determination pursuant to s. 98.075 regarding whether the person who registers to vote is eligible pursuant to s. 4, Art. VI of the State Constitution and this section.
+(c)
+The supervisor of elections may request additional assistance from the department in making the final determination, if necessary.
+(4)
+For the purpose of determining a voter registrant’s eligibility, the provisions of this section shall be strictly construed. If a provision is susceptible to differing interpretations, it shall be construed in favor of the registrant.
+History.
+—
+s. 25, ch. 2019-162; s. 5, ch. 2021-156; s. 3, ch. 2025-84; s. 57, ch. 2025-156.
+98.0755
+Appeal of determination of ineligibility.
+—
+Appeal of the supervisor’s determination of ineligibility pursuant to s. 98.075(7) may be taken to the circuit court in and for the county where the person was registered. Notice of appeal must be filed within the time and in the manner provided by the Florida Rules of Appellate Procedure and acts as supersedeas. Trial in the circuit court is de novo and governed by the rules of that court. Unless the person can show that his or her name was erroneously or illegally removed from the statewide voter registration system, or that he or she is indigent, the person must bear the costs of the trial in the circuit court. Otherwise, the cost of the appeal must be paid by the supervisor of elections.
+History.
+—
+s. 21, ch. 2005-278.
+98.077
+Update of voter signature.
+—
+(1)
+A registered voter may update his or her signature on file in the statewide voter registration system at any time using a voter registration application submitted to a voter registration official.
+(2)
+The supervisors of elections shall include in any correspondence, other than postcard notifications and notices relating to eligibility, sent to a registered voter information regarding when, where, and how to update the voter’s signature and shall provide the voter information on how to obtain a voter registration application from a voter registration official which can be returned to update the signature.
+(3)
+At least once during each general election year before the presidential preference primary or the primary election, whichever occurs first, the supervisor shall publish in a newspaper of general circulation or other newspaper in the county, on the county’s website as provided in s. 50.0311, or on the supervisor’s website, as deemed appropriate by the supervisor, a notice specifying when, where, or how a voter can update his or her signature that is on file and how a voter can obtain a voter registration application from a voter registration official.
+(4)
+Except as authorized in ss. 101.048 and 101.68:
+(a)
+All signature updates for use in verifying vote-by-mail voter certificates, provisional ballot voter certificates, or petitions must be received by the appropriate supervisor before the voter’s ballot is received by the supervisor or, in the case of provisional ballots, before the voter’s ballot is cast or, in the case of a petition, before the petition is submitted for signature verification.
+(b)
+The signature on file at the time the vote-by-mail ballot is received, at the time the provisional ballot is cast, or at the time a petition is reviewed is the signature that must be used in verifying the signature on the vote-by-mail voter certificates, provisional ballot voter certificates, or petitions, respectively. For signatures requiring secondary or tertiary review, older signatures from previous registration updates may be used.
+History.
+—
+s. 8, ch. 2002-189; s. 10, ch. 2005-277; s. 22, ch. 2005-278; s. 8, ch. 2006-1; s. 5, ch. 2016-37; s. 3, ch. 2019-162; s. 10, ch. 2023-120.
+98.081
+Names removed from the statewide voter registration system; restrictions on reregistering; recordkeeping; restoration of erroneously or illegally removed names.
+—
+(1)
+When the name of any elector is removed from the statewide voter registration system pursuant to s. 98.065 or s. 98.075, the elector’s original registration application shall be retained by the supervisor of elections having custody of the application. As alternatives, registrations removed from the statewide voter registration system may be microfilmed and such microfilms substituted for the original registration applications; or, when voter registration information, including the voter’s signature, is maintained digitally or on electronic, magnetic, or optic media, such stored information may be substituted for the original registration application. Such microfilms or stored information shall be retained by the supervisor of elections having custody. In the event the original registration applications are microfilmed or maintained digitally or on electronic or other media, such originals may be destroyed in accordance with the schedule approved by the Bureau of Archives and Records Management of the Division of Library and Information Services of the department.
+(2)
+When the name of any elector has been erroneously or illegally removed from the statewide voter registration system, the name of the elector shall be restored by a voter registration official upon satisfactory proof, even though the registration period for that election is closed.
+History.
+—
+s. 8, ch. 25391, 1949; s. 2, ch. 26870, 1951; s. 1, ch. 61-86; s. 5, ch. 77-175; s. 1, ch. 78-102; s. 14, ch. 79-365; s. 8, ch. 80-292; s. 45, ch. 81-259; s. 18, ch. 81-304; s. 7, ch. 82-143; s. 3, ch. 90-315; s. 30, ch. 94-224; s. 1387, ch. 95-147; s. 23, ch. 2005-278; s. 6, ch. 2005-286.
+Note.
+—
+Former s. 97.08.
+98.093
+Duty of officials to furnish information relating to deceased persons, persons adjudicated mentally incapacitated, persons convicted of a felony, and persons who are not United States citizens.
+—
+(1)
+DUTIES.
+—
+In order to identify ineligible registered voters and maintain accurate and current voter registration records in the statewide voter registration system pursuant to procedures in s. 98.065 or s. 98.075, it is necessary for the department and supervisors of elections to receive or access certain information from state and federal officials and entities in the format prescribed. To the maximum extent feasible, state and local government agencies shall facilitate provision of information and access to data to the department, including, but not limited to, databases that contain reliable criminal records and records of deceased persons. State and local government agencies that provide such data must do so without charge if the direct cost incurred by those agencies is not significant.
+(2)
+DEPARTMENT OF HEALTH.
+—
+The Department of Health shall furnish weekly to the department a list containing the name, address, date of birth, date of death, social security number, race, and sex of each deceased person 17 years of age or older whose death was reported during the preceding week.
+(3)
+CLERK OF THE CIRCUIT COURT.
+—
+Each clerk of the circuit court shall furnish weekly to the department and to the supervisors in their respective jurisdictions the following information:
+(a)
+Information identifying those persons who have been adjudicated mentally incapacitated with respect to voting during the preceding week and those persons whose mental capacity with respect to voting has been restored during the preceding week. The information must include each person’s name; address; date of birth; race; sex; and, if available, his or her Florida driver license number or Florida identification card number or the last four digits of his or her social security number. The clerk shall provide the information to the department to assist a supervisor in identifying registered voters in his or her county who are adjudicated mentally incapacitated outside of his or her county pursuant to s. 98.075(4).
+(b)
+Information identifying those persons who have responded to jury notices during the preceding week from the clerk of the circuit court and whose response indicated a change of address. The information must include each person’s name; address; date of birth; race; sex; and, if available, the Florida driver license number or Florida identification card number or the last four digits of his or her social security number.
+(c)
+Information on the terms of sentence for felony convictions, including any financial obligations for court costs, fees, and fines, of all persons listed in the clerk’s records whose last known address in the clerk’s records is within this state and who have been convicted of a felony during the preceding week. The information may be provided to the supervisor directly by the clerk of the circuit court or may be provided on the clerk’s behalf through the Comprehensive Case Information System. The clerk shall provide the information to the department to assist a supervisor in identifying registered voters in his or her county who are adjudicated of a felony outside of his or her county. For each felony conviction reported, the information must include:
+1.
+The full name; last known address; date of birth; race; sex; and, if available, the Florida driver license number or Florida identification card number, as applicable; and the last four digits of the social security number of the person convicted.
+2.
+The amounts of all financial obligations, including restitution and court costs, fees, and fines, and, if known, the amount of financial obligations not yet satisfied.
+3.
+The county in which the conviction occurred.
+4.
+The statute number violated, statute table text, date of conviction, and case number.
+(4)
+UNITED STATES ATTORNEYS.
+—
+Upon receipt of information from the United States Attorney listing persons convicted of a felony in federal court, the department shall use such information to identify registered voters or applicants for voter registration who may be potentially ineligible based on information provided in accordance with s. 98.075.
+(5)
+DEPARTMENT OF LAW ENFORCEMENT.
+—
+The Department of Law Enforcement shall identify and report to the department at least weekly those persons who have been convicted of a felony during the preceding week who appear in the voter registration records supplied by the statewide voter registration system.
+(6)
+FLORIDA COMMISSION ON OFFENDER REVIEW.
+—
+The Florida Commission on Offender Review shall furnish at least weekly to the department data, including the identity of those persons granted clemency in the preceding month or any updates to prior records which have occurred in the preceding month. The data must contain the commission’s case number and the person’s name, address, date of birth, race, gender, Florida driver license number, Florida identification card number, or the last four digits of the social security number, if available, and references to record identifiers assigned by the Department of Corrections and the Department of Law Enforcement, a unique identifier of each clemency case, and the effective date of clemency of each person.
+(7)
+DEPARTMENT OF CORRECTIONS.
+—
+The Department of Corrections shall identify and report to the department at least weekly those persons who have been convicted of a felony and committed to its custody or placed on community supervision during the preceding week.
+(8)
+DEPARTMENT OF HIGHWAY SAFETY AND MOTOR VEHICLES.
+—
+The Department of Highway Safety and Motor Vehicles shall furnish weekly to the department the following information:
+(a)
+Information identifying those persons whose names have been removed from the Florida driver license or Florida identification card database during the preceding week because they have been licensed or been issued an identification card in another state. The information must contain the person’s name, last known Florida address, date of birth, sex, last four digits of his or her social security number, and Florida driver license number or Florida identification card number and, if available, the address and the state in which the person is now licensed.
+(b)
+Information identifying those persons who during the preceding week presented evidence of non-United States citizenship upon being issued a new or renewed Florida driver license or Florida identification card. The information must contain the person’s name; address; date of birth; last four digits of the social security number, if applicable; Florida driver license number or Florida identification card number, as available; and alien registration number or other legal status identifier.
+(c)
+Information identifying those persons for which it has received official information during the preceding week that the person is deceased. The information must contain the name, address, date of birth, last four digits of the social security number, Florida driver license number or Florida identification card number, and date of death of each such person.
+(9)
+CONSTRUCTION.
+—
+This section does not limit or restrict the supervisor in his or her duty to act upon direct receipt of, access to, or knowledge of official information from these and other governmental entities that identify a registered voter as potentially ineligible and to initiate removal of the name of the registered voter who is determined to be ineligible from the statewide voter registration system pursuant to s. 98.075(7).
+History.
+—
+s. 3, ch. 14730, 1931; CGL 1936 Supp. 302(1); s. 10, ch. 24203, 1947; s. 11, ch. 25035, 1949; s. 2, ch. 26870, 1951; s. 1, ch. 29917; s. 9, ch. 29934, 1955; s. 33, ch. 73-333; s. 27, ch. 77-147; s. 5, ch. 77-175; s. 32, ch. 94-224; s. 1388, ch. 95-147; s. 7, ch. 99-8; s. 24, ch. 2005-278; s. 10, ch. 2011-40; s. 4, ch. 2012-5; s. 6, ch. 2014-191; s. 11, ch. 2022-73; s. 11, ch. 2023-120.
+Note.
+—
+Former s. 98.41; s. 98.301.
+98.0981
+Reports; voting history; statewide voter registration system information; precinct-level election results; book closing statistics; live turnout data.
+—
+(1)
+VOTING HISTORY AND STATEWIDE VOTER REGISTRATION SYSTEM INFORMATION.
+—
+Each supervisor shall submit the reports required by this subsection to the department no later than 10 business days after the Elections Canvassing Commission certifies the results of an election.
+(a)
+Reconciliation.
+—
+For each presidential preference primary election, special primary election, special election, primary election, and general election, the supervisor shall reconcile the aggregate total of ballots cast in each precinct to the aggregate number of voters with voter history pursuant to paragraph (b) and the precinct-level election results pursuant to subsection (3) and submit a reconciliation report. The report must be submitted to the department in an electronic format pursuant to file format and specifications set forth by rule. The report must include a written explanation if the reconciliation results in a discrepancy between the voter history and the election results.
+(b)
+Voting history.
+—
+For each presidential preference primary, special election, special primary election, primary election, or general election, as applicable, supervisors of elections shall transmit completely updated voting history information for each qualified voter to the department. Such information must be provided in a uniform electronic format pursuant to file specifications adopted by the department by rule. The voting history information must include:
+1.
+The unique identifier assigned to each qualified voter within the statewide voter registration system.
+2.
+Each qualified voter’s unique precinct identifier, as designated by the county within the statewide voter registration system, at the time of voting. For purposes of this subparagraph, the term “unique precinct identifier” means an alphanumeric code representing the precinct name or number and containing no more than the maximum characters as specified by rule.
+3.
+Specifics as to each qualified voter’s voting history, including whether the qualified voter voted a regular ballot during the early voting period, voted during the early voting period using a provisional ballot that was subsequently counted, voted a regular ballot at a precinct location, voted at a precinct location using a provisional ballot that was subsequently counted, voted by vote-by-mail ballot, attempted to vote by a timely received vote-by-mail ballot that was not counted, attempted to vote by a vote-by-mail ballot that was received untimely, attempted to vote by provisional ballot that was not counted, or did not vote.
+(c)
+Precinct boundaries.
+—
+For each presidential preference primary election, special primary election, special election, primary election, and general election, the supervisor shall submit to the department the geographical information system map of precinct boundaries created and maintained pursuant to s. 101.001 for the applicable election.
+(2)
+LEGISLATIVE REPORT.
+—
+(a)
+Specifications.
+—
+The department shall prepare an election summary compiled for a presidential preference primary election, special primary election, special election, primary election, or general election, as applicable, in an electronic format which contains the following information:
+1.
+The voting history information as transmitted under paragraph (1)(b) and the precinct boundaries as transmitted under paragraph (1)(c).
+2.
+All information provided by each qualified voter on his or her voter registration application pursuant to s. 97.052(2), except that which is confidential or exempt from public records requirements.
+3.
+Each qualified voter’s date of registration.
+4.
+Each qualified voter’s state representative district, state senatorial district, congressional district, county commission district, and school board district at the time of voting, assigned by the supervisor of elections.
+(b)
+Submission.
+—
+Within 60 days after the Elections Canvassing Commission certifies a presidential preference primary, special election, primary election, or general election, the department shall submit to the President of the Senate, the Speaker of the House of Representatives, the Senate Minority Leader, and the House Minority Leader an election summary report in electronic format that includes all information set forth in paragraph (a).
+(3)
+PRECINCT-LEVEL ELECTION RESULTS.
+—
+(a)1.
+Within 10 business days after the Elections Canvassing Commission certifies a presidential preference primary election, special election, special primary election, primary election, or general election, as applicable, the supervisors of elections shall collect and submit to the department precinct-level election results for the election in a uniform electronic format specified by paragraph (c). The results must specifically include for each precinct the total of all ballots cast for each candidate or nominee to fill a national, state, county, or district office or proposed constitutional amendment, with subtotals for each candidate and ballot type. When one or more ballot types, also known as counting groups, in a race or an issue have fewer than 30 voters voting on the ballot, the ballot type must be reported as zero except for the total votes counting group for that precinct. Ballot types or counting groups include election day, early voting, vote-by-mail, provisional voting, and total votes. For purposes of this paragraph, the term “all ballots cast” means ballots cast by voters who cast a ballot, whether at a precinct location; by vote-by-mail ballot, including overseas vote-by-mail ballots; during the early voting period; or by provisional ballot.
+2.
+Upon request from the department, a supervisor must research and address, as appropriate, any questions or issues identified by the department pertaining to the precinct-level election results. If the information as originally submitted is changed or corrected, the supervisor must provide an amended precinct-level election results file no later than 10 business days after the request from the department.
+(b)
+The department shall make such information available online no later than 60 days after the Elections Canvassing Commission certifies the presidential preference primary election, special primary election, special election, primary election, or general election, as applicable. The website containing the information must include the file layout and codes. The information must be searchable and sortable by county, precinct, and candidate; must be downloadable in a tab-delimited format; and must be available for download county-by-county.
+(c)
+The files containing the precinct-level election results must be created in accordance with the applicable file specification as set forth by rule. The rule must, at a minimum, provide that the data records include the following columns: County Name, Election Number, Election Date, Unique Precinct Identifier, Precinct Polling Location, Total Registered Voters, Total Registered Republicans, Total Registered Democrats, Total Registered All Other Parties, Contest Name, Candidate/Retention/Issue Name, Candidate Florida Voter Registration System ID Number, Division of Elections Unique Candidate Identifying Number, Candidate Party, District, Undervote Total, Overvote Total, Write-in Total, and Vote Total. For purposes of this paragraph, the term “unique precinct identifier” means an alphanumeric code representing the precinct name or number and containing no more than the maximum characters as specified by rule.
+(4)
+PRECINCT-LEVEL BOOK CLOSING STATISTICS.
+—
+No later than 10 days after the date of book closing for an election as defined in s. 97.021 to fill a national, state, county, or district office, or to vote on a proposed constitutional amendment, the department shall compile and make available the following precinct-level statistical data for each county:
+(a)
+Unique precinct identifier. For purposes of this subsection, the term “unique precinct identifier” means an alphanumeric code representing the precinct name or number and containing no more than the maximum characters as specified by rule.
+(b)
+Total number of active registered voters by party for each precinct.
+(5)
+LIVE TURNOUT DATA.
+—
+On election day, each supervisor of elections shall make live voter turnout data, updated at least once per hour, available on his or her website. Each supervisor shall transmit the live voter turnout data to the division, which must create and maintain a real-time statewide turnout dashboard that is available for viewing by the public on the division’s website as the data becomes available.
+(6)
+REPORTS PUBLICLY AVAILABLE.
+—
+The department shall also make publicly available the reports and results required in subsections (1)-(4).
+(7)
+RULEMAKING.
+—
+The department shall adopt rules and prescribe forms to carry out the purposes of this section.
+History.
+—
+s. 25, ch. 2005-278; s. 8, ch. 2008-95; s. 3, ch. 2010-167; s. 11, ch. 2011-40; s. 6, ch. 2016-37; s. 4, ch. 2019-162; s. 10, ch. 2021-11; s. 12, ch. 2023-120.
+98.212
+Department and supervisors to furnish statistical and other information.
+—
+(1)(a)
+Upon written request, the department and any supervisor of the respective counties shall, as promptly as possible, furnish to recognized public or private universities and senior colleges within the state, to state or county governmental agencies, and to recognized political party committees statistical information for the purpose of analyzing election returns and results.
+(b)
+The department and any supervisor may require reimbursement for any part or all of the actual expenses of supplying any information requested under paragraph (a). For the purposes of this subsection, the department and supervisors may use the services of any research and statistical personnel that may be supplied.
+(c)
+Lists of names submitted to the department and any supervisor of the respective counties for indication of registration or nonregistration or of party affiliation shall be processed at any time at cost, except that in no case shall the charge exceed 10 cents for each name on which the information is furnished.
+(2)
+The supervisors shall provide information as requested by the department for program evaluation and reporting to the Election Assistance Commission pursuant to federal law.
+History.
+—
+s. 2, ch. 57-810; s. 5, ch. 77-175; s. 26, ch. 79-400; s. 34, ch. 94-224; s. 40, ch. 97-13; s. 11, ch. 2003-415; s. 26, ch. 2005-278.
+98.255
+Voter education programs.
+—
+(1)
+The Department of State shall adopt rules prescribing minimum standards for nonpartisan voter education. The standards shall, at a minimum, address:
+(a)
+Voter registration;
+(b)
+Balloting procedures, by mail and polling place;
+(c)
+Voter rights and responsibilities;
+(d)
+Distribution of sample ballots; and
+(e)
+Public service announcements.
+(2)
+Each county supervisor shall implement the minimum voter education standards, and shall conduct additional nonpartisan education efforts as necessary to ensure that voters have a working knowledge of the voting process.
+(3)
+By December 15 of each general election year, each supervisor of elections shall report to the Department of State a detailed description of the voter education programs implemented and any other information that may be useful in evaluating the effectiveness of voter education efforts. The department shall reexamine the rules adopted pursuant to subsection (1) and use the findings in these reports as a basis for modifying the rules to incorporate successful voter education programs and techniques, as necessary.
+History.
+—
+s. 9, ch. 80-292; s. 1, ch. 83-16; s. 530, ch. 95-147; s. 59, ch. 2001-40; s. 35, ch. 2010-102; s. 7, ch. 2016-37.
+98.461
+Registration application, precinct register; contents.
+—
+(1)
+A registration application, approved by the Department of State, containing the information required in s. 97.052 shall be retained by the supervisor of elections of the county of the applicant’s registration. However, the registration application may be microfilmed and such microfilm substituted for the original registration application; or, when voter registration information, including the voter’s signature, is maintained digitally or on electronic, magnetic, or optic media, such stored information may be substituted for the original registration application. Such microfilms or stored information shall be retained in the custody of the supervisor of elections of the county of the applicant’s registration. In the event the original registration applications are microfilmed or maintained digitally or on electronic or other media, such originals may be destroyed in accordance with the schedule approved by the Bureau of Archives and Records Management of the Division of Library and Information Services of the Department of State.
+(2)
+A computer printout or electronic database shall be used at the polls as a precinct register. The precinct register shall contain the date of the election, the precinct number, and the following information concerning each registered elector: last name, first name, middle name or initial, and suffix; party affiliation; residence address; registration number; date of birth; sex, if provided; race, if provided; whether the voter needs assistance in voting; and such other additional information as to readily identify the elector. The precinct register shall also contain a space for the elector’s signature and a space for the initials of the witnessing clerk or inspector or an electronic device may be provided for this purpose.
+History.
+—
+s. 1, ch. 77-267; s. 1, ch. 86-200; s. 6, ch. 90-315; s. 36, ch. 94-224; s. 30, ch. 97-13; s. 9, ch. 98-129; s. 12, ch. 2003-415; s. 27, ch. 2005-278.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0099
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0099. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0099/0099.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 99
+CANDIDATES
+View Entire Chapter
+CHAPTER 99
+CHAPTER 99
+CANDIDATES
+99.012
+Restrictions on individuals qualifying for public office.
+99.021
+Form of candidate oath.
+99.0215
+Name of candidate.
+99.061
+Method of qualifying for nomination or election to federal, state, county, or district office.
+99.063
+Candidates for Governor and Lieutenant Governor.
+99.081
+United States Senators elected in general election.
+99.091
+Representatives to Congress.
+99.092
+Qualifying fee of candidate; notification of Department of State.
+99.093
+Municipal candidates; election assessment.
+99.095
+Petition process in lieu of a qualifying fee and party assessment.
+99.0955
+Candidates with no party affiliation; name on general election ballot.
+99.096
+Minor political party candidates; names on ballot.
+99.09651
+Signature requirements for ballot position in year of apportionment.
+99.097
+Verification of signatures on petitions.
+99.103
+Department of State to remit part of filing fees and party assessments of candidates to state executive committee.
+99.121
+Department of State to certify nominations to supervisors of elections.
+99.012
+Restrictions on individuals qualifying for public office.
+—
+(1)
+As used in this section:
+(a)
+“Officer” means a person, whether elected or appointed, who has the authority to exercise the sovereign power of the state pertaining to an office recognized under the State Constitution or laws of the state. With respect to a municipality, the term “officer” means a person, whether elected or appointed, who has the authority to exercise municipal power as provided by the State Constitution, state laws, or municipal charter.
+(b)
+“Qualify” means to fulfill the requirements set forth in s. 99.061(7)(a) or s. 105.031(5)(a).
+(c)
+“Subordinate officer” means a person who has been delegated the authority to exercise the sovereign power of the state by an officer. With respect to a municipality, subordinate officer means a person who has been delegated the authority to exercise municipal power by an officer.
+(2)
+No person may qualify as a candidate for more than one public office, whether federal, state, district, county, or municipal, if the terms or any part thereof run concurrently with each other.
+(3)(a)
+No officer may qualify as a candidate for another state, district, county, or municipal public office if the terms or any part thereof run concurrently with each other without resigning from the office he or she presently holds.
+(b)
+The resignation is irrevocable.
+(c)
+The written resignation must be submitted at least 10 days prior to the first day of qualifying for the office he or she intends to seek.
+(d)
+The resignation must be effective no later than the earlier of the following dates:
+1.
+The date the officer would take office, if elected; or
+2.
+The date the officer’s successor is required to take office.
+(e)1.
+An elected district, county, or municipal officer must submit his or her resignation to the officer before whom he or she qualified for the office he or she holds, with a copy to the Governor and the Department of State.
+2.
+An appointed district, county, or municipal officer must submit his or her resignation to the officer or authority which appointed him or her to the office he or she holds, with a copy to the Governor and the Department of State.
+3.
+All other officers must submit their resignations to the Governor with a copy to the Department of State.
+(f)
+The office is deemed vacant upon the effective date of the resignation submitted by the official in his or her letter of resignation.
+(g)
+Any officer who submits his or her resignation, effective immediately or effective on a date prior to the date of his or her qualifying for office, may then qualify for office as a nonofficeholder, and the provisions of this subsection do not apply.
+(4)(a)
+Any officer who qualifies for federal public office must resign from the office he or she presently holds if the terms, or any part thereof, run concurrently with each other.
+(b)
+The resignation is irrevocable.
+(c)
+The resignation must be submitted at least 10 days before the first day of qualifying for the office he or she intends to seek.
+(d)
+The written resignation must be effective no later than the earlier of the following dates:
+1.
+The date the officer would take office, if elected; or
+2.
+The date the officer’s successor is required to take office.
+(e)1.
+An elected district, county, or municipal officer shall submit his or her resignation to the officer before whom he or she qualified for the office he or she holds, with a copy to the Governor and the Department of State.
+2.
+An appointed district, county, or municipal officer shall submit his or her resignation to the officer or authority which appointed him or her to the office he or she holds, with a copy to the Governor and the Department of State.
+3.
+All other officers shall submit their resignations to the Governor with a copy to the Department of State.
+(f)1.
+The failure of an officer who qualifies for federal public office to submit a resignation pursuant to this subsection constitutes an automatic irrevocable resignation, effective immediately, from the office he or she presently holds.
+2.
+The Department of State shall send a notice of the automatic resignation to the Governor, and in the case of a district, county, or municipal officer, a copy to:
+a.
+The officer before whom he or she qualified if the officer held an elective office; or
+b.
+The officer or authority who appointed him or her if the officer held an appointive office.
+(g)
+The office is deemed vacant upon the effective date of the resignation submitted by the official in his or her letter of resignation.
+(5)
+A person who is a subordinate officer, deputy sheriff, or police officer must resign effective upon qualifying pursuant to this chapter if the person is seeking to qualify for a public office that is currently held by an officer who has authority to appoint, employ, promote, or otherwise supervise that person and who has qualified as a candidate for reelection to that office.
+(6)
+If an order of a court that has become final determines that a person did not comply with this section, the person shall not be qualified as a candidate for election and his or her name may not appear on the ballot.
+(7)
+This section does not apply to:
+(a)
+Political party offices.
+(b)
+Persons serving without salary as members of an appointive board or authority.
+(c)
+Persons seeking the office of President or Vice President of the United States.
+(8)
+Subsections (3) and (4) do not apply to persons holding any federal office. Subsection (4) does not apply to an elected officer if the term of the office that he or she presently holds is scheduled to expire and be filled by election in the same primary and general election period as the federal office he or she is seeking.
+History.
+—
+s. 1, ch. 63-269; s. 2, ch. 65-378; s. 1, ch. 70-80; s. 10, ch. 71-373; s. 1, ch. 74-76; s. 3, ch. 75-196; s. 1, ch. 79-391; s. 47, ch. 81-259; s. 1, ch. 83-15; s. 28, ch. 84-302; s. 31, ch. 91-107; s. 534, ch. 95-147; s. 1, ch. 99-146; s. 1, ch. 2000-274; s. 14, ch. 2007-30; s. 14, ch. 2008-4; s. 9, ch. 2008-95; s. 12, ch. 2011-40; s. 1, ch. 2018-126; s. 11, ch. 2021-11; s. 13, ch. 2023-120.
+99.021
+Form of candidate oath.
+—
+(1)(a)1.
+Each candidate, whether a party candidate, a candidate with no party affiliation, or a write-in candidate, in order to qualify for nomination or election to any office other than a judicial office as defined in chapter 105 or a federal office, shall take and subscribe to an oath or affirmation in writing. A copy of the oath or affirmation shall be made available to the candidate by the officer before whom such candidate seeks to qualify and shall be substantially in the following form:
+State of Florida
+County of
+Before me, an officer authorized to administer oaths, personally appeared
+(please print name as you wish it to appear on the ballot)
+, to me well known, who, being sworn, says that he or she is a candidate for the office of
+; that he or she is a qualified elector of
+County, Florida; that he or she is qualified under the Constitution and the laws of Florida to hold the office to which he or she desires to be nominated or elected; that he or she has qualified for no other public office in the state, the term of which office or any part thereof runs concurrent with that of the office he or she seeks; that he or she has resigned from any office from which he or she is required to resign pursuant to s. 99.012, Florida Statutes; and that he or she will support the Constitution of the United States and the Constitution of the State of Florida.
+(Signature of candidate)
+(Address of legal residence)
+Sworn to and subscribed before me this
+day of
+,
+(year)
+, at
+County, Florida.
+(Signature and title of officer administering oath)
+2.
+Each candidate for federal office, whether a party candidate, a candidate with no party affiliation, or a write-in candidate, in order to qualify for nomination or election to office shall take and subscribe to an oath or affirmation in writing. A copy of the oath or affirmation shall be made available to the candidate by the officer before whom such candidate seeks to qualify and shall be substantially in the following form:
+State of Florida
+County of
+Before me, an officer authorized to administer oaths, personally appeared
+(please print name as you wish it to appear on the ballot)
+, to me well known, who, being sworn, says that he or she is a candidate for the office of
+; that he or she is qualified under the Constitution and laws of the United States to hold the office to which he or she desires to be nominated or elected; that he or she has qualified for no other public office in the state, the term of which office or any part thereof runs concurrent with that of the office he or she seeks; and that he or she will support the Constitution of the United States.
+(Signature of candidate)
+(Address)
+Sworn to and subscribed before me this
+day of
+,
+(year)
+, at
+County, Florida.
+(Signature and title of officer administering oath)
+(b)
+In addition, any person seeking to qualify for nomination as a candidate of any political party shall, at the time of subscribing to the oath or affirmation, state in writing:
+1.
+The party of which the person is a member.
+2.
+That the person has been a registered member of the political party for which he or she is seeking nomination as a candidate for 365 days before the beginning of qualifying preceding the general election for which the person seeks to qualify.
+3.
+That the person has paid the assessment levied against him or her, if any, as a candidate for said office by the executive committee of the party of which he or she is a member.
+(c)
+In addition, any person seeking to qualify for office as a candidate with no party affiliation shall, at the time of subscribing to the oath or affirmation, state in writing that he or she is registered without any party affiliation and that he or she has not been a registered member of any political party for 365 days before the beginning of qualifying preceding the general election for which the person seeks to qualify.
+(d)
+In addition, each candidate, whether a party candidate, a candidate with no party affiliation, or a write-in candidate, shall, at the time of subscribing to the oath or affirmation, state in writing whether he or she owes any outstanding fines, fees, or penalties that cumulatively exceed $250 for any violations of s. 8, Art. II of the State Constitution; the Code of Ethics for Public Officers and Employees under part III of chapter 112; any local ethics ordinance governing standards of conduct and disclosure requirements; or chapter 106. If the candidate owes any outstanding fines, fees, or penalties exceeding the threshold amount specified in this paragraph, he or she must also specify the amount owed and each entity that levied such fine, fee, or penalty. For purposes of this paragraph, any such fines, fees, or penalties that have been paid in full at the time of subscribing to the oath or affirmation are not deemed to be outstanding.
+(e)
+The officer before whom such person qualifies shall certify the name of such person to the supervisor of elections in each county affected by such candidacy so that the name of such person may be printed on the ballot. Each person seeking election as a write-in candidate shall subscribe to the oath prescribed in this section in order to be entitled to have write-in ballots cast for him or her counted.
+(2)
+The provisions of subsection (1) relating to the oath required of candidates, and the form of oath prescribed, shall apply with equal force and effect to, and shall be the oath required of, a candidate for election to a political party executive committee office, as provided by law. The requirements set forth in this section shall also apply to any person filling a vacancy on a political party executive committee.
+(3)
+This section does not apply to a person who seeks to qualify for election pursuant to ss. 103.021 and 103.101.
+History.
+—
+ss. 22, 23, ch. 6469, 1913; RGS 326, 327; CGL 383, 384; s. 3, ch. 19663, 1939; s. 3, ch. 26870, 1951; s. 10, ch. 28156, 1953; s. 1, ch. 57-742; s. 1, ch. 61-128; s. 2, ch. 63-269; s. 1, ch. 63-66; s. 1, ch. 65-376; s. 1, ch. 67-149; s. 2, ch. 70-269; s. 19, ch. 71-355; s. 6, ch. 77-175; s. 3, ch. 79-365; s. 27, ch. 79-400; s. 2, ch. 81-105; s. 3, ch. 86-134; s. 535, ch. 95-147; s. 7, ch. 99-6; s. 8, ch. 99-318; s. 15, ch. 2007-30; s. 10, ch. 2008-95; s. 13, ch. 2011-40; s. 12, ch. 2021-11; s. 1, ch. 2023-46; s. 15, ch. 2023-120.
+Note.
+—
+Former ss. 102.29, 102.30.
+99.0215
+Name of candidate.
+—
+(1)
+Each candidate shall designate in the oath or affirmation specified in s. 99.021 the name that he or she wishes to have printed on the ballot, or, in the case of a write-in candidate, the name that he or she wishes to have voters write in on the ballot when voting for him or her. Such designation must include the candidate’s legal given name or names, a shortened form of the candidate’s legal given name or names, an initial or initials of the candidate’s legal given name or names, or a bona fide nickname customarily related to the candidate and by which the candidate is commonly known, immediately followed by the candidate’s legal surname. If applicable, a candidate may place one of the following designations after the legal surname: “Sr.,” “Jr.,” or a numerical designation such as “II.”
+(2)
+If a candidate wishes to designate a nickname, the candidate must file an affidavit that must be verified under oath or affirmation pursuant to s. 92.525(1)(a), attesting that the nickname complies with the requirements of this section. The affidavit must be filed simultaneously with the oath or affirmation specified in s. 99.021. Any nickname designated by a candidate may not be used to mislead voters. A candidate may not designate a nickname that implies the candidate is some other person, that constitutes a political slogan or otherwise associates the candidate with a cause or an issue, or that is obscene or profane. For purposes of this subsection, the term “political slogan” means any word or words expressing or connoting a position, an opinion, or a belief that the candidate may espouse, including, but not limited to, any word or words conveying any meaning other than that of the general identity of the candidate.
+(3)
+Unless a candidate has the same name as, or a name similar to, one or more candidates for the same office, an educational or professional title or degree may not be added to his or her name designation.
+History.
+—
+s. 16, ch. 2023-120.
+99.061
+Method of qualifying for nomination or election to federal, state, county, or district office.
+—
+(1)
+The provisions of any special act to the contrary notwithstanding, each person seeking to qualify for nomination or election to a federal, state, or multicounty district office, other than election to a judicial office as defined in chapter 105 or the office of school board member, shall file his or her qualification papers with, and pay the qualifying fee, which shall consist of the filing fee and election assessment, and party assessment, if any has been levied, to, the Department of State, or qualify by the petition process pursuant to s. 99.095 with the Department of State, at any time after noon of the 1st day for qualifying, which shall be as follows: the 120th day prior to the primary election, but not later than noon of the 116th day prior to the date of the primary election, for persons seeking to qualify for nomination or election to federal office or to the office of the state attorney or the public defender; and noon of the 71st day prior to the primary election, but not later than noon of the 67th day prior to the date of the primary election, for persons seeking to qualify for nomination or election to a state or multicounty district office, other than the office of the state attorney or the public defender.
+(2)
+The provisions of any special act to the contrary notwithstanding, each person seeking to qualify for nomination or election to a county office, or district office not covered by subsection (1), shall file his or her qualification papers with, and pay the qualifying fee, which shall consist of the filing fee and election assessment, and party assessment, if any has been levied, to, the supervisor of elections of the county, or shall qualify by the petition process pursuant to s. 99.095 with the supervisor of elections, at any time after noon of the 1st day for qualifying, which shall be the 71st day prior to the primary election, but not later than noon of the 67th day prior to the date of the primary election. Within 30 days after the closing of qualifying time, the supervisor of elections shall remit to the secretary of the state executive committee of the political party to which the candidate belongs the amount of the filing fee, two-thirds of which shall be used to promote the candidacy of candidates for county offices and the candidacy of members of the Legislature.
+(3)
+Notwithstanding the provisions of any special act to the contrary, each person seeking to qualify for election to a special district office shall qualify between noon of the 71st day prior to the primary election and noon of the 67th day prior to the date of the primary election. Candidates for single-county special districts shall qualify with the supervisor of elections in the county in which the district is located. If the district is a multicounty district, candidates shall qualify with the Department of State. All special district candidates shall qualify by paying a filing fee of $25 or qualify by the petition process pursuant to s. 99.095. Notwithstanding s. 106.021, a candidate who does not collect contributions and whose only expense is the filing fee or signature verification fee is not required to appoint a campaign treasurer or designate a primary campaign depository.
+(4)(a)
+Each person seeking to qualify for election to office as a write-in candidate shall file his or her qualification papers with the respective qualifying officer at any time after noon of the 1st day for qualifying, but not later than noon of the last day of the qualifying period for the office sought.
+(b)
+Any person who is seeking election as a write-in candidate shall not be required to pay a filing fee, election assessment, or party assessment. A write-in candidate is not entitled to have his or her name printed on any ballot; however, space for the write-in candidate’s name to be written in must be provided on the general election ballot. A person may not qualify as a write-in candidate if the person has also otherwise qualified for nomination or election to such office.
+(5)
+At the time of qualifying for office, each candidate for a constitutional office, or for another elective office subject to an annual filing requirement pursuant to s. 112.3144, shall file a full and public disclosure of financial interests pursuant to s. 8, Art. II of the State Constitution, which must be verified under oath or affirmation pursuant to s. 92.525(1)(a), and a candidate for any other office, including local elective office, shall file a statement of financial interests pursuant to s. 112.3145. A candidate who is subject to an annual filing requirement under s. 112.3144 may file a verification or receipt of electronic filing pursuant to s. 112.3144(4). A candidate who is subject to an annual filing requirement under s. 112.3145 may file a verification or receipt of electronic filing pursuant to s. 112.3145(2)(c) unless the candidate is required to file a full and public disclosure of financial interests pursuant to s. 8, Art. II of the State Constitution or this subsection.
+(6)
+The Department of State shall certify to the supervisor of elections, within 7 days after the closing date for qualifying, the names of all duly qualified candidates for nomination or election who have qualified with the Department of State.
+(7)(a)
+In order for a candidate to be qualified, the following items must be received by the filing officer by the end of the qualifying period:
+1.
+A properly executed check drawn upon the candidate’s campaign account payable to the person or entity as prescribed by the filing officer in an amount not less than the fee required by s. 99.092, unless the candidate obtained the required number of signatures on petitions pursuant to s. 99.095. The filing fee for a special district candidate is not required to be drawn upon the candidate’s campaign account. If a candidate’s check is returned by the bank for any reason, the filing officer shall immediately notify the candidate and the candidate shall have until the end of qualifying to pay the fee with a cashier’s check purchased from funds of the campaign account. Failure to pay the fee as provided in this subparagraph shall disqualify the candidate.
+2.
+The candidate’s oath required by s. 99.021, which must contain the name of the candidate as it is to appear on the ballot; the office sought, including the district or group number if applicable; and the signature of the candidate, which must be verified under oath or affirmation pursuant to s. 92.525(1)(a).
+3.
+If the office sought is partisan, the written statement of political party affiliation required by s. 99.021(1)(b); or if the candidate is running without party affiliation for a partisan office, the written statement required by s. 99.021(1)(c).
+4.
+The completed form for the appointment of campaign treasurer and designation of campaign depository, as required by s. 106.021.
+5.
+The full and public disclosure or statement of financial interests required by subsection (5). A public officer who has filed the full and public disclosure or statement of financial interests with the Commission on Ethics before qualifying for office may file a copy of that disclosure or a verification or receipt of electronic filing as provided in subsection (5) at the time of qualifying.
+(b)
+If the filing officer receives qualifying papers during the qualifying period prescribed in this section which do not include all items as required by paragraph (a) prior to the last day of qualifying, the filing officer shall make a reasonable effort to notify the candidate of the missing or incomplete items and shall inform the candidate that all required items must be received by the close of qualifying. A candidate’s name as it is to appear on the ballot may not be changed after the end of qualifying.
+(c)
+The filing officer performs a ministerial function in reviewing qualifying papers. In determining whether a candidate is qualified, the filing officer shall review the qualifying papers to determine whether all items required by paragraph (a) have been properly filed and whether each item is complete on its face, including whether items that must be verified have been properly verified pursuant to s. 92.525(1)(a). The filing officer may not determine whether the contents of the qualifying papers are accurate.
+(8)
+Notwithstanding the qualifying period prescribed in this section, a qualifying office may accept and hold qualifying papers submitted not earlier than 14 days prior to the beginning of the qualifying period, to be processed and filed during the qualifying period.
+(9)
+Notwithstanding the qualifying period prescribed by this section, in each year in which the Legislature apportions the state, the qualifying period for persons seeking to qualify for nomination or election to federal office shall be between noon of the 71st day prior to the primary election, but not later than noon of the 67th day prior to the primary election.
+(10)
+The Department of State may prescribe by rule requirements for filing papers to qualify as a candidate under this section.
+(11)
+The decision of the filing officer concerning whether a candidate is qualified is exempt from the provisions of chapter 120.
+History.
+—
+ss. 25, 26, ch. 6469, 1913; RGS 329, 330; CGL 386, 387; ss. 4, 5, ch. 13761, 1929; s. 1, ch. 16990, 1935; CGL 1936 Supp. 386; ss. 1, chs. 19007, 19008, 19009, 1939; CGL 1940 Supp. 4769(3); s. 1, ch. 20619, 1941; s. 1, ch. 21851, 1943; s. 1, ch. 23006, 1945; s. 1, ch. 24163, 1947; s. 3, ch. 26870, 1951; s. 11, ch. 28156, 1953; s. 4, ch. 29936, 1955; s. 10, ch. 57-1; s. 1, ch. 59-84; s. 1, ch. 61-373 and s. 4, ch. 61-530; s. 1, ch. 63-502; s. 7, ch. 65-378; s. 2, ch. 67-531; ss. 10, 35, ch. 69-106; s. 5, ch. 69-281; s. 1, ch. 69-300; s. 1, ch. 70-42; s. 1, ch. 70-93; s. 1, ch. 70-439; s. 6, ch. 77-175; s. 1, ch. 78-188; s. 3, ch. 81-105; s. 2, ch. 83-15; s. 2, ch. 83-25; s. 1, ch. 83-251; s. 29, ch. 84-302; s. 1, ch. 86-7; s. 6, ch. 89-338; s. 8, ch. 90-315; s. 32, ch. 91-107; s. 536, ch. 95-147; s. 1, ch. 95-156; s. 9, ch. 99-318; s. 9, ch. 99-326; s. 3, ch. 2001-75; s. 11, ch. 2005-277; s. 51, ch. 2005-278; s. 7, ch. 2005-286; s. 16, ch. 2007-30; s. 14, ch. 2011-40; s. 13, ch. 2021-11; s. 1, ch. 2023-49.
+Note.
+—
+Former ss. 102.32, 102.33, 102.351, 102.36, 102.66, 102.69.
+99.063
+Candidates for Governor and Lieutenant Governor.
+—
+(1)
+No later than 5 p.m. of the 9th day following the primary election, each candidate for Governor shall designate a Lieutenant Governor as a running mate. Such designation must be made in writing to the Department of State.
+(2)
+No later than 5 p.m. of the 9th day following the primary election, each designated candidate for Lieutenant Governor shall file with the Department of State:
+(a)
+The candidate’s oath required by s. 99.021, which must contain the name of the candidate as it is to appear on the ballot; the office sought; and the signature of the candidate, which must be verified under oath or affirmation pursuant to s. 92.525(1)(a).
+(b)
+If the office sought is partisan, the written statement of political party affiliation required by s. 99.021(1)(b); or if the office sought is without party affiliation, the written statement required by s. 99.021(1)(c).
+(c)
+The full and public disclosure of financial interests pursuant to s. 8, Art. II of the State Constitution. A public officer who has filed the full and public disclosure with the Commission on Ethics prior to qualifying for office may file a copy of that disclosure at the time of qualifying.
+(3)
+A designated candidate for Lieutenant Governor is not required to pay a separate qualifying fee or obtain signatures on petitions. Ballot position obtained by the candidate for Governor entitles the designated candidate for Lieutenant Governor, upon receipt by the Department of State of the qualifying papers required by subsection (2), to have his or her name placed on the ballot for the joint candidacy.
+(4)
+In order to have the name of the candidate for Lieutenant Governor printed on the primary election ballot, a candidate for Governor participating in the primary must designate the candidate for Lieutenant Governor, and the designated candidate must qualify no later than the end of the qualifying period specified in s. 99.061.
+(5)
+Failure of the Lieutenant Governor candidate to be designated and qualified by the time specified in subsection (2) shall result in forfeiture of ballot position for the candidate for Governor for the general election.
+History.
+—
+s. 1, ch. 99-140; s. 45, ch. 2001-40; s. 12, ch. 2005-277; s. 8, ch. 2005-286; s. 15, ch. 2011-40; s. 5, ch. 2019-162; s. 14, ch. 2021-11.
+99.081
+United States Senators elected in general election.
+—
+United States Senators from Florida shall be elected at the general election held preceding the expiration of the present term of office, and such election shall conform as nearly as practicable to the methods provided for the election of state officers.
+History.
+—
+s. 3, ch. 26870, 1951; s. 6, ch. 77-175; s. 7, ch. 89-338.
+Note.
+—
+Former s. 106.01.
+99.091
+Representatives to Congress.
+—
+(1)
+A Representative to Congress shall be elected in and for each congressional district at each general election.
+(2)
+When Florida is entitled to additional representatives according to the last census, representatives shall be elected from the state at large and at large thereafter until the state is redistricted by the Legislature.
+History.
+—
+ss. 2, 3, ch. 3879, 1889; RS 157; s. 4, ch. 4328, 1895; s. 3, ch. 4537, 1897; GS 174; RGS 218; CGL 253; s. 2, ch. 25383, 1949; s. 3, ch. 26870, 1951; s. 6, ch. 77-175.
+Note.
+—
+Former s. 98.07.
+99.092
+Qualifying fee of candidate; notification of Department of State.
+—
+(1)
+Each person seeking to qualify for nomination or election to any office, except a person seeking to qualify by the petition process pursuant to s. 99.095 and except a person seeking to qualify as a write-in candidate, shall pay a qualifying fee, which shall consist of a filing fee and election assessment, to the officer with whom the person qualifies, and any party assessment levied, and shall attach the original or signed duplicate of the receipt for his or her party assessment or pay the same, in accordance with the provisions of s. 103.121, at the time of filing his or her other qualifying papers. The amount of the filing fee is 3 percent of the annual salary of the office. The amount of the election assessment is 1 percent of the annual salary of the office sought. The election assessment shall be transferred to the Elections Commission Trust Fund. The amount of the party assessment is 2 percent of the annual salary. The annual salary of the office for purposes of computing the filing fee, election assessment, and party assessment shall be computed by multiplying 12 times the monthly salary, excluding any special qualification pay, authorized for such office as of July 1 immediately preceding the first day of qualifying. No qualifying fee shall be returned to the candidate unless the candidate withdraws his or her candidacy before the last date to qualify. If a candidate dies prior to an election and has not withdrawn his or her candidacy before the last date to qualify, the candidate’s qualifying fee shall be returned to his or her designated beneficiary, and, if the filing fee or any portion thereof has been transferred to the political party of the candidate, the Secretary of State shall direct the party to return that portion to the designated beneficiary of the candidate.
+(2)
+The supervisor of elections shall, immediately after the last day for qualifying, submit to the Department of State a list containing the names, party affiliations, and addresses of all candidates and the offices for which they qualified.
+History.
+—
+s. 24, ch. 6469, 1913; RGS 328; CGL 385; s. 3, ch. 26870, 1951; s. 12, ch. 29934, 1955; s. 4, ch. 65-378; s. 1, ch. 67-531; ss. 10, 35, ch. 69-106; s. 6, ch. 69-281; s. 1, ch. 74-119; s. 1, ch. 75-123; s. 1, ch. 75-247; s. 6, ch. 77-175; s. 28, ch. 79-400; s. 4, ch. 81-105; s. 1, ch. 83-242; s. 8, ch. 89-338; s. 1, ch. 91-107; s. 537, ch. 95-147; s. 11, ch. 97-13; s. 2, ch. 99-140; s. 10, ch. 99-318; s. 13, ch. 2005-277; s. 2, ch. 2010-16; s. 16, ch. 2011-40.
+Note.
+—
+Former ss. 102.31, 99.031.
+99.093
+Municipal candidates; election assessment.
+—
+(1)
+Each person seeking to qualify for nomination or election to a municipal office shall pay, at the time of qualifying for office, an election assessment. The election assessment shall be an amount equal to 1 percent of the annual salary of the office sought. Within 30 days after the close of qualifying, the qualifying officer shall forward all assessments collected pursuant to this section to the Florida Elections Commission for deposit in the Elections Commission Trust Fund.
+(2)
+Any person seeking to qualify for nomination or election to a municipal office who is unable to pay the election assessment without imposing an undue burden on personal resources or on resources otherwise available to him or her shall, upon written certification of such inability given under oath to the qualifying officer, be exempt from paying the election assessment.
+History.
+—
+s. 9, ch. 89-338; s. 2, ch. 91-107; s. 538, ch. 95-147; s. 12, ch. 97-13; s. 3, ch. 2010-16; s. 17, ch. 2011-40.
+99.095
+Petition process in lieu of a qualifying fee and party assessment.
+—
+(1)
+A person who seeks to qualify as a candidate for any office and who meets the petition requirements of this section is not required to pay the qualifying fee or party assessment required by this chapter.
+(2)(a)
+Except as provided in paragraph (b), a candidate must obtain the number of signatures of voters in the geographical area represented by the office sought equal to at least 1 percent of the total number of registered voters of that geographical area, as shown by the compilation by the department for the immediately preceding general election. Signatures may not be obtained until the candidate has filed the appointment of campaign treasurer and designation of campaign depository pursuant to s. 106.021 and are valid only for the qualifying period immediately following such filings.
+(b)
+A candidate for a special district office shall obtain 25 signatures of voters in the geographical area represented by the office sought.
+(c)
+The format of the petition shall be prescribed by the division and shall be used by candidates to reproduce petitions for circulation. If the candidate is running for an office that requires a group or district designation, the petition must indicate that designation and, if it does not, the signatures are not valid. A separate petition is required for each candidate.
+(d)
+In a year of apportionment, any candidate for county or district office seeking ballot position by the petition process may obtain the required number of signatures from any registered voter in the respective county, regardless of district boundaries. The candidate shall obtain at least the number of signatures equal to 1 percent of the total number of registered voters, as shown by a compilation by the department for the immediately preceding general election, divided by the total number of districts of the office involved.
+(3)
+Each petition must be submitted before noon of the 28th day preceding the first day of the qualifying period for the office sought to the supervisor of elections of the county in which such petition was circulated. Each supervisor shall check the signatures on the petitions to verify their status as voters in the county, district, or other geographical area represented by the office sought. No later than the 7th day before the first day of the qualifying period, the supervisor shall certify the number of valid signatures.
+(4)(a)
+Certifications for candidates for federal, state, multicounty district, or multicounty special district office shall be submitted to the division no later than the 7th day before the first day of the qualifying period for the office sought. The division shall determine whether the required number of signatures has been obtained and shall notify the candidate.
+(b)
+For candidates for county, district, or special district office not covered by paragraph (a), the supervisor shall determine whether the required number of signatures has been obtained and shall notify the candidate.
+(5)
+If the required number of signatures has been obtained, the candidate is eligible to qualify pursuant to s. 99.061.
+History.
+—
+s. 2, ch. 74-119; s. 6, ch. 77-175; s. 29, ch. 79-400; s. 10, ch. 89-338; s. 9, ch. 90-315; s. 539, ch. 95-147; s. 3, ch. 99-140; s. 1, ch. 99-318; s. 14, ch. 2005-277; s. 9, ch. 2005-286; s. 17, ch. 2007-30; s. 11, ch. 2008-95; s. 18, ch. 2011-40.
+99.0955
+Candidates with no party affiliation; name on general election ballot.
+—
+(1)
+Each person seeking to qualify for election as a candidate with no party affiliation shall file his or her qualifying papers and pay the qualifying fee or qualify by the petition process pursuant to s. 99.095 with the officer and during the times and under the circumstances prescribed in s. 99.061. Upon qualifying, the candidate is entitled to have his or her name placed on the general election ballot.
+(2)
+The qualifying fee for candidates with no party affiliation shall consist of a filing fee and an election assessment as prescribed in s. 99.092. Filing fees paid to the Department of State shall be deposited into the General Revenue Fund of the state. Filing fees paid to the supervisor of elections shall be deposited into the general revenue fund of the county.
+History.
+—
+s. 6, ch. 70-269; s. 1, ch. 70-439; s. 3, ch. 74-119; s. 7, ch. 77-175; s. 2, ch. 78-188; s. 11, ch. 89-338; s. 10, ch. 90-315; s. 540, ch. 95-147; s. 13, ch. 95-280; s. 4, ch. 99-140; s. 2, ch. 99-318; s. 15, ch. 2005-277.
+Note.
+—
+Former s. 99.152.
+99.096
+Minor political party candidates; names on ballot.
+—
+Each person seeking to qualify for election as a candidate of a minor political party shall file his or her qualifying papers with, and pay the qualifying fee and, if one has been levied, the party assessment, or qualify by the petition process pursuant to s. 99.095, with the officer and at the times and under the circumstances provided in s. 99.061.
+History.
+—
+s. 5, ch. 70-269; s. 1, ch. 70-439; s. 4, ch. 74-119; s. 8, ch. 77-175; s. 3, ch. 78-188; s. 12, ch. 89-338; s. 1, ch. 90-229; s. 11, ch. 90-315; s. 541, ch. 95-147; s. 3, ch. 99-318; s. 16, ch. 2005-277; s. 18, ch. 2007-30.
+Note.
+—
+Former s. 101.261.
+99.09651
+Signature requirements for ballot position in year of apportionment.
+—
+(1)
+In a year of apportionment, any candidate for representative to Congress, state Senate, or state House of Representatives seeking ballot position by the petition process prescribed in s. 99.095 shall obtain at least the number of signatures equal to one-third of 1 percent of the ideal population for the district of the office being sought.
+(2)
+For the purposes of this section, “ideal population” means the total population of the state based upon the most recent decennial census divided by the number of districts for representative to Congress, state Senate, or state House of Representatives. For the purposes of this section, ideal population shall be calculated as of July 1 of the year prior to apportionment. The ideal population for a state Senate district and a state representative district shall be calculated by dividing the total population of the state by 40 for a state Senate district and by dividing by 120 for a state representative district.
+(3)
+Signatures may be obtained from any registered voter in Florida regardless of party affiliation or district boundaries.
+(4)
+Petitions shall state the name of the office the candidate is seeking, but shall not include a district number.
+(5)
+Except as otherwise provided in this section, all requirements and procedures relating to the petition process shall conform to the requirements and procedures in nonapportionment years.
+History.
+—
+s. 3, ch. 91-107; s. 4, ch. 99-318; s. 17, ch. 2005-277.
+99.097
+Verification of signatures on petitions.
+—
+(1)(a)
+As determined by each supervisor, based upon local conditions, the checking of names on petitions may be based on the most inexpensive and administratively feasible of either of the following methods of verification:
+1.
+A check of each petition; or
+2.
+A check of a random sample, as provided by the Department of State, of the petitions. The sample must be such that a determination can be made as to whether or not the required number of signatures has been obtained with a reliability of at least 99.5 percent.
+(b)
+Rules and guidelines for petition verification shall be adopted by the Department of State. Rules and guidelines for a random sample method of verification may include a requirement that petitions bear an additional number of names and signatures, not to exceed 15 percent of the names and signatures otherwise required. If the petitions do not meet such criteria or if the petitions are prescribed by s. 100.371, the use of the random sample method of verification is not available to supervisors.
+(2)
+When a petitioner submits petitions which contain at least 15 percent more than the required number of signatures, the petitioner may require that the supervisor of elections use the random sampling verification method in certifying the petition.
+(3)(a)
+If all other requirements for the petition are met, a signature on a petition shall be verified and counted as valid for a registered voter if, after comparing the signature on the petition and the signature of the registered voter in the voter registration system, the supervisor is able to determine that the petition signer is the same as the registered voter, even if the name on the petition is not in substantially the same form as in the voter registration system.
+(b)
+In any situation in which this code requires the form of the petition to be prescribed by the division, no signature shall be counted toward the number of signatures required unless it is on a petition form prescribed by the division.
+(c)
+If a voter signs a petition and lists an address other than the legal residence where the voter is registered, the supervisor shall treat the signature as if the voter had listed the address where the voter is registered.
+(4)(a)
+The supervisor must be paid in advance the sum of 10 cents for each signature checked or the actual cost of checking such signature, whichever is less, by the candidate or, in the case of a petition to have a local issue placed on the ballot, by the person or organization submitting the petition. In the case of a petition to place a statewide issue on the ballot, the person or organization submitting the petition must pay the supervisor in advance the cost posted by the supervisor pursuant to s. 100.371(14).
+(b)
+However, if a candidate, a person, or an organization seeking to have an issue placed upon the ballot cannot pay such charges without imposing an undue burden on personal resources or upon the resources otherwise available to such candidate, person, or organization, such candidate, person, or organization, upon written certification of such inability given under oath to the supervisor, is entitled to have the signatures verified at no charge.
+(c)
+In the event a candidate, person, or organization submitting a petition to have an issue placed upon the ballot is entitled to have the signatures verified at no charge, the supervisor of elections of each county in which the signatures are verified at no charge shall submit the total number of such signatures checked in the county to the Chief Financial Officer no later than December 1 of the general election year, and the Chief Financial Officer shall cause such supervisor of elections to be reimbursed from the General Revenue Fund in an amount equal to 10 cents or the actual cost for each name checked, whichever is applicable as set forth in paragraph (a). In no event may such reimbursement of costs be deemed or applied as extra compensation for the supervisor.
+(d)
+Except as provided in s. 100.371(14)(d), petitions must be retained by the supervisors for a period of 1 year following the election for which the petitions were circulated.
+(5)
+The results of a verification pursuant to subparagraph (1)(a)2. may be contested in the circuit court by the candidate; an announced opponent; a representative of a designated political committee; or a person, party, or other organization submitting the petition. The contestant must file a complaint, together with the fees prescribed in chapter 28, with the clerk of the circuit court in the county in which the petition is certified or in Leon County if the petition covers more than one county within 10 days after midnight of the date the petition is certified; and the complaint must set forth the grounds on which the contestant intends to establish his or her right to require a complete check of the petition pursuant to subparagraph (1)(a)1. In the event the court orders a complete check of the petition and the result is not changed as to the success or lack of success of the petitioner in obtaining the requisite number of valid signatures, then such candidate, unless the candidate has filed the oath stating that he or she is unable to pay such charges; announced opponent; representative of a designated political committee; or party, person, or organization submitting the petition, unless such person or organization has filed the oath stating inability to pay such charges, shall pay to the supervisor of elections of each affected county for the complete check an amount calculated at the rate of 10 cents for each additional signature checked or the actual cost of checking such additional signatures, as applicable.
+(6)(a)
+If any person is paid to solicit signatures on a petition, an undue burden oath may not subsequently be filed in lieu of paying the fee to have signatures verified for that petition.
+(b)
+If an undue burden oath has been filed and payment is subsequently made to any person to solicit signatures on a petition, the undue burden oath is no longer valid and a fee for all signatures previously submitted to the supervisor of elections and any that are submitted thereafter shall be paid by the candidate, person, or organization that submitted the undue burden oath. If contributions as defined in s. 106.011 are received, any monetary contributions must first be used to reimburse the supervisor of elections for any signature verification fees that were not paid because of the filing of an undue burden oath.
+History.
+—
+s. 2, ch. 76-233; s. 10, ch. 77-175; s. 2, ch. 80-20; s. 1, ch. 82-141; s. 13, ch. 89-338; s. 2, ch. 90-229; s. 12, ch. 90-315; s. 542, ch. 95-147; s. 21, ch. 97-13; s. 7, ch. 99-318; s. 109, ch. 2003-261; s. 19, ch. 2011-40; s. 17, ch. 2023-120; s. 5, ch. 2025-21.
+99.103
+Department of State to remit part of filing fees and party assessments of candidates to state executive committee.
+—
+(1)
+If more than three-fourths of the full authorized membership of the state executive committee of any party was elected at the last previous election for such members and if such party is declared by the Department of State to have recorded on the registration books of the counties, as of the first Tuesday after the first Monday in January prior to the primary election in general election years, 5 percent of the total registration of such counties when added together, such committee shall receive, for the purpose of meeting its expenses, all filing fees collected by the Department of State from its candidates less an amount equal to 15 percent of the filing fees, which amount the Department of State shall deposit in the General Revenue Fund of the state.
+(2)
+Not later than 20 days after the close of qualifying in even-numbered years, the Department of State shall remit 95 percent of all filing fees, less the amount deposited in general revenue pursuant to subsection (1), or party assessments that may have been collected by the department to the respective state executive committees of the parties complying with subsection (1). Party assessments collected by the Department of State shall be remitted to the appropriate state executive committee, irrespective of other requirements of this section, provided such committee is duly organized under the provisions of chapter 103. The remainder of filing fees or party assessments collected by the Department of State shall be remitted to the appropriate state executive committees not later than the date of the primary election.
+History.
+—
+s. 1, ch. 29935, 1955; s. 24, ch. 57-1; s. 1, ch. 57-62; s. 4, ch. 57-166; s. 1, ch. 69-295; ss. 10, 35, ch. 69-106; s. 11, ch. 77-175; s. 2, ch. 83-251; s. 4, ch. 91-107; s. 14, ch. 97-13; s. 10, ch. 2005-286.
+99.121
+Department of State to certify nominations to supervisors of elections.
+—
+The Department of State shall certify to the supervisor of elections of each county affected by a candidacy for office the names of persons nominated to such office. The names of such persons shall be printed by the supervisor of elections upon the ballot in their proper place as provided by law.
+History.
+—
+s. 30, ch. 4328, 1895; s. 10, ch. 4537, 1897; GS 215, 3824; s. 54, ch. 6469, 1913; RGS 259, 358, 5885; CGL 315, 415, 8148; s. 11, ch. 26329, 1949; s. 3, ch. 26870, 1951; s. 5, ch. 57-166; ss. 10, 35, ch. 69-106; s. 11, ch. 77-175.
+Note.
+—
+Former ss. 99.13, 102.51.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0100
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0100. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0100/0100.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 100
+GENERAL, PRIMARY, SPECIAL, BOND, AND REFERENDUM ELECTIONS
+View Entire Chapter
+CHAPTER 100
+CHAPTER 100
+GENERAL, PRIMARY, SPECIAL, BOND, AND REFERENDUM ELECTIONS
+100.011
+Opening and closing of polls, all elections; expenses.
+100.021
+Notice of general election.
+100.025
+Citizens residing overseas; notice of elections.
+100.031
+General election.
+100.032
+Election preparation report; general election.
+100.041
+Officers chosen at general election.
+100.051
+Candidate’s name on general election ballot.
+100.061
+Primary election.
+100.081
+Nomination of county commissioners at primary election.
+100.101
+Special elections and special primary elections.
+100.102
+Cost of special elections and special primary elections to be incurred by the state.
+100.111
+Filling vacancy.
+100.141
+Notice of special election to fill any vacancy in office.
+100.151
+Special elections called by local governing bodies, notice.
+100.161
+Filling vacancy of United States Senators.
+100.181
+Determination of person elected.
+100.191
+General election laws applicable to special elections; returns.
+100.201
+Referendum required before issuing bonds.
+100.211
+Power to call bond referendum; notice required.
+100.221
+General election laws to govern bond referenda.
+100.241
+Freeholder voting; election; penalties for ineligible persons who vote as freeholders.
+100.261
+Holding bond referenda with other elections.
+100.271
+Inspectors, clerk, duties; return and canvass of referendum recorded.
+100.281
+Approval to issue bonds.
+100.291
+Record results of election prima facie evidence.
+100.301
+Refunding bonds excluded.
+100.311
+Local law governs bond election held by municipalities.
+100.321
+Test suit.
+100.331
+Referendum for defeated bond issue.
+100.341
+Bond referendum ballot.
+100.342
+Notice of special election or referendum.
+100.351
+Referendum election; certificate of results to Department of State.
+100.3605
+Conduct of municipal elections.
+100.361
+Municipal recall.
+100.371
+Initiatives; procedure for placement on ballot.
+100.011
+Opening and closing of polls, all elections; expenses.
+—
+(1)
+The polls shall be open at the voting places at 7:00 a.m., on the day of the election, and shall be kept open until 7:00 p.m., of the same day, and the time shall be regulated by the customary time in standard use in the county seat of the locality. The inspectors shall make public proclamation of the opening and closing of the polls. During the election and canvass of the votes, the ballot box shall not be concealed. Any elector who is in line at the time of the official closing of the polls shall be allowed to cast a vote in the election.
+(2)
+The time of opening and closing of the polls shall be observed in all elections held in this state, including municipal and school elections.
+(3)
+The expenses of holding all elections for county and state offices necessarily incurred shall be paid out of the treasury of the county or state, as the case may be, in the same manner and by the same officers as in general elections.
+(4)(a)
+The provisions of any special law to the contrary notwithstanding, the expenses of holding a special district or community development district election, or the district’s proportionate share of regular election costs, as the case may be, shall be paid out of the district’s treasury and in the same manner as in general elections. This subsection applies to any district, whether created by or pursuant to special or general law, which is a special district as defined in s. 200.001(8)(c) or a community development district as defined in s. 190.003(6).
+(b)
+The provisions of any special law to the contrary notwithstanding, the supervisor of elections may impose an interest penalty on any amount due and owing to him or her from a special district or community development district if payment is not made within 30 days from receipt of the bill or within 10 working days of the required time authorized by interlocal agreement. The rate of such interest shall be the rate established pursuant to s. 55.03.
+(c)
+The provisions of any special law to the contrary notwithstanding, all independent and dependent special district elections, with the exception of community development district elections, shall be conducted in accordance with the requirements of ss. 189.04 and 189.041.
+History.
+—
+s. 23, ch. 3879, 1889; RS 177; s. 27, ch. 4328, 1895; GS 209; s. 8, ch. 6469, 1913; RGS 253, 306; CGL 309, 362; ss. 1, 2, ch. 20409, 1941; ss. 1, 2, ch. 22739, 1945; s. 4, ch. 25384, 1949; s. 4, ch. 26870, 1951; s. 12, ch. 77-175; s. 6, ch. 87-363; s. 53, ch. 89-169; s. 543, ch. 95-147; s. 4, ch. 96-327; s. 18, ch. 2005-277; s. 56, ch. 2014-22.
+Note.
+—
+Former ss. 99.07, 102.08.
+100.021
+Notice of general election.
+—
+The Department of State shall, in any year in which a general election is held, make out a notice stating what offices and vacancies are to be filled at the general election in the state, and in each county and district thereof. During the 30 days before the beginning of qualifying, the department shall have the notice published two times in a newspaper of general circulation in each county; and, in counties in which there is no newspaper of general circulation, it shall send to the sheriff a notice of the offices and vacancies to be filled at such general election by the qualified voters of the sheriff’s county or any district thereof, and the sheriff shall have at least five copies of the notice posted in conspicuous places in the county. Notice may be provided alternatively by publishing notice on the division’s website, on the county’s website as provided in s. 50.0311, or on the supervisor’s website, as deemed appropriate by the supervisor.
+History.
+—
+s. 5, ch. 3879, 1889; RS 159; s. 6, ch. 4328, 1895; s. 4, ch. 4537, 1897; GS 176; RGS 220; CGL 255; s. 1, ch. 25383, 1949; s. 4, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 12, ch. 77-175; s. 3, ch. 83-251; s. 544, ch. 95-147; s. 18, ch. 2023-120.
+Note.
+—
+Former s. 98.06.
+100.025
+Citizens residing overseas; notice of elections.
+—
+A citizen of this state who is residing overseas may notify the supervisor of elections in the county where he or she is registered of his or her overseas address; and, thereafter, the supervisor shall notify such citizen at least 90 days prior to regular primary and general elections and when possible prior to any special election so that such citizen may follow the procedures for voting by mail provided by law.
+History.
+—
+s. 1, ch. 67-454; s. 8, ch. 69-280; s. 3, ch. 77-175; s. 16, ch. 81-304; s. 4, ch. 89-338; s. 16, ch. 94-224; s. 1389, ch. 95-147; s. 8, ch. 2016-37.
+Note.
+—
+Former s. 97.0631.
+100.031
+General election.
+—
+A general election shall be held in each county on the first Tuesday after the first Monday in November of each even-numbered year to choose a successor to each elective federal, state, county, and district officer whose term will expire before the next general election and, except as provided in the State Constitution, to fill each vacancy in elective office for the unexpired portion of the term.
+History.
+—
+s. 2, ch. 3879, 1889; RS 155; s. 2, ch. 4328, 1895; s. 1, ch. 4537, 1897; GS 171; RGS 216; CGL 251; s. 4, ch. 26870, 1951; s. 12, ch. 77-175.
+Note.
+—
+Former s. 98.04.
+100.032
+Election preparation report; general election.
+—
+Each supervisor of elections must post a report on his or her official website at least 3 months before a general election which outlines preparations for the upcoming general election. The report must include, at a minimum, the following elements: the anticipated staffing levels during the early voting period, on election day and after election day; and the anticipated amount of automatic tabulating equipment at each early voting site and polling place.
+History.
+—
+s. 2, ch. 2013-57.
+100.041
+Officers chosen at general election.
+—
+(1)
+State senators shall be elected for terms of 4 years, those from odd-numbered districts in each year the number of which is a multiple of 4 and those from even-numbered districts in each even-numbered year the number of which is not a multiple of 4. Members of the House of Representatives shall be elected for terms of 2 years in each even-numbered year. In each county, a clerk of the circuit court, sheriff, superintendent of schools, property appraiser, and tax collector shall be chosen by the qualified electors at the general election in each year the number of which is a multiple of 4. The Governor and the administrative officers of the executive branch of the state shall be elected for terms of 4 years in each even-numbered year the number of which is not a multiple of 4. The terms of state offices other than the terms of members of the Legislature shall begin on the first Tuesday after the first Monday in January after said election. The term of office of each member of the Legislature shall begin upon election.
+(2)(a)
+Except as provided in s. 124.011 relating to single member districts after decennial redistricting, each county commissioner from an odd-numbered district shall be elected at the general election in each year the number of which is a multiple of 4, for a 4-year term commencing on the second Tuesday following such election, and each county commissioner from an even-numbered district shall be elected at the general election in each even-numbered year the number of which is not a multiple of 4, for a 4-year term commencing on the second Tuesday following such election. A county commissioner is “elected” for purposes of this paragraph on the date that the county canvassing board certifies the results of the election pursuant to s. 102.151.
+(b)
+Notwithstanding paragraph (a), the governing board of a charter county may provide by ordinance, to be approved by referendum, that the terms of its members shall commence on a date later than the second Tuesday following general elections, but in any case the date of commencement shall be uniform for all members and shall be no later than the first Tuesday after the first Monday in January following each member’s election.
+(3)(a)
+School board members shall be elected at a general election for terms of 4 years. The term of office of a school board member and of a superintendent of schools shall begin on the second Tuesday following the general election in which such member or superintendent is elected.
+(b)
+In each school district which has five school board members, the terms shall be arranged so that three members are elected at one general election and two members elected at the next ensuing general election.
+(4)
+The term of office of each county and each district officer not otherwise provided by law shall commence on the first Tuesday after the first Monday in January following his or her election.
+History.
+—
+s. 3, ch. 3879, 1889; RS 156; s. 3, ch. 4328, 1895; s. 2, ch. 4537, 1897; GS 172; s. 10, ch. 7838, 1919; RGS 217; CGL 252; s. 4, ch. 26870, 1951; s. 15, ch. 28156, 1953; s. 1, ch. 59-140; s. 1, ch. 63-479; s. 1, ch. 67-98; s. 1, ch. 67-510; s. 11, ch. 69-216; s. 1, ch. 69-300; (4) former s. 14, Art. XVIII of the State Constitution of 1885, as amended; converted to statutory law by s. 10, Art. XII of the State Constitution as revised in 1968; s. 1, ch. 73-47; s. 18, ch. 73-334; s. 1, ch. 77-102; s. 12, ch. 77-175; s. 1, ch. 78-321; s. 21, ch. 79-164; s. 14, ch. 85-226; s. 1, ch. 88-85; s. 14, ch. 89-338; s. 545, ch. 95-147; s. 11, ch. 98-129; s. 20, ch. 2007-30; s. 12, ch. 2022-73.
+Note.
+—
+Former s. 98.05.
+100.051
+Candidate’s name on general election ballot.
+—
+The supervisor of elections of each county shall print on ballots to be used in the county at the next general election the names of candidates who have been nominated by a political party and the candidates who have otherwise obtained a position on the general election ballot in compliance with the requirements of this code.
+History.
+—
+s. 53, ch. 6469, 1913; RGS 357; CGL 414; s. 4, ch. 26870, 1951; s. 3, ch. 70-269; s. 1, ch. 70-439; s. 12, ch. 77-175; s. 21, ch. 2007-30.
+Note.
+—
+Former s. 102.50.
+100.061
+Primary election.
+—
+In each year in which a general election is held, a primary election for nomination of candidates of political parties shall be held on the Tuesday 11 weeks prior to the general election. The candidate receiving the highest number of votes cast in each contest in the primary election shall be declared nominated for such office. If two or more candidates receive an equal and highest number of votes for the same office, such candidates shall draw lots to determine which candidate is nominated.
+History.
+—
+s. 5, ch. 6469, 1913; RGS 303; CGL 359; s. 2, ch. 13761, 1929; s. 1, ch. 17897, 1937; s. 7, ch. 26329, 1949; s. 4, ch. 26870, 1951; s. 1, ch. 57-166; s. 1, ch. 59-4; s. 1, ch. 69-1745; s. 4, ch. 83-251; s. 11, ch. 2005-286; s. 22, ch. 2007-30; s. 20, ch. 2011-40; s. 3, ch. 2013-57; s. 6, ch. 2019-162.
+Note.
+—
+Former s. 102.05.
+100.081
+Nomination of county commissioners at primary election.
+—
+The primary election shall provide for the nomination of county commissioners by the qualified electors of such county at the time and place set for voting on other county officers.
+History.
+—
+s. 63, ch. 6469, 1913; s. 10, ch. 6874, 1915; RGS 362; CGL 419; s. 18, ch. 13761, 1929; CGL 1936 Supp. 424(2); s. 4, ch. 26870, 1951; s. 11, ch. 69-216; s. 12, ch. 77-175; s. 12, ch. 2005-286.
+Note.
+—
+Former s. 102.55.
+100.101
+Special elections and special primary elections.
+—
+A special election or special primary election shall be held in the following cases:
+(1)
+If no person has been elected at a general election to fill an office which was required to be filled by election at such general election.
+(2)
+If a vacancy occurs in the office of state senator or member of the state house of representatives.
+(3)
+If it is necessary to elect presidential electors, by reason of the offices of President and Vice President both having become vacant.
+(4)
+If a vacancy occurs in the office of member from Florida of the House of Representatives of Congress.
+History.
+—
+s. 4, ch. 3879, 1889; RS 158; s. 5, ch. 4328, 1895; GS 175; RGS 219; CGL 254; s. 4, ch. 26870, 1951; s. 12, ch. 77-175; s. 3, ch. 83-15; s. 19, ch. 2005-277; s. 21, ch. 2011-40.
+Note.
+—
+Former s. 98.08.
+100.102
+Cost of special elections and special primary elections to be incurred by the state.
+—
+Whenever any special election or special primary election is held as required in s. 100.101, each county incurring expenses resulting from such special election or special primary election shall be reimbursed by the state. Reimbursement shall be based upon actual expenses as filed by the supervisor of elections with the county governing body. The Department of State shall verify the expenses of each special election and each special primary election and authorize payment for reimbursement to each county affected.
+History.
+—
+s. 2, ch. 74-120; s. 12, ch. 77-175.
+100.111
+Filling vacancy.
+—
+(1)(a)
+If any vacancy occurs in any office which is required to be filled pursuant to s. 1(f), Art. IV of the State Constitution and the remainder of the term of such office is 28 months or longer, then at the next general election a person shall be elected to fill the unexpired portion of such term, commencing on the first Tuesday after the first Monday following such general election.
+(b)
+If such a vacancy occurs prior to the first day set by law for qualifying for election to office at such general election, any person seeking nomination or election to the unexpired portion of the term shall qualify within the time prescribed by law for qualifying for other offices to be filled by election at such general election.
+(c)
+If such a vacancy occurs prior to the primary election but on or after the first day set by law for qualifying, the Secretary of State shall set dates for qualifying for the unexpired portion of the term of such office. Any person seeking nomination or election to the unexpired portion of the term shall qualify within the time set by the Secretary of State. If time does not permit party nominations to be made in conjunction with the primary election, the Governor may call a special primary election to select party nominees for the unexpired portion of such term.
+(2)
+Whenever there is a vacancy for which a special election is required pursuant to s. 100.101, the Governor, after consultation with the Secretary of State, shall fix the dates of a special primary election and a special election. Nominees of political parties shall be chosen under the primary laws of this state in the special primary election to become candidates in the special election. Prior to setting the special election dates, the Governor shall consider any upcoming elections in the jurisdiction where the special election will be held. The dates fixed by the Governor shall be specific days certain and shall not be established by the happening of a condition or stated in the alternative. The dates fixed shall provide a minimum of 2 weeks between each election. In the event a vacancy occurs in the office of state senator or member of the House of Representatives when the Legislature is in regular legislative session, the minimum times prescribed by this subsection may be waived upon concurrence of the Governor, the Speaker of the House of Representatives, and the President of the Senate. If a vacancy occurs in the office of state senator and no session of the Legislature is scheduled to be held prior to the next general election, the Governor may fix the dates for the special primary election and for the special election to coincide with the dates of the primary election and general election. If a vacancy in office occurs in any district in the state Senate or House of Representatives or in any congressional district, and no session of the Legislature, or session of Congress if the vacancy is in a congressional district, is scheduled to be held during the unexpired portion of the term, the Governor is not required to call a special election to fill such vacancy.
+(a)
+The dates for candidates to qualify in such special election or special primary election shall be fixed by the Department of State, and candidates shall qualify not later than noon of the last day so fixed. The dates fixed for qualifying shall allow a minimum of 14 days between the last day of qualifying and the special primary election.
+(b)
+The filing of campaign expense statements by candidates in such special elections or special primaries and by committees making contributions or expenditures to influence the results of such special primaries or special elections shall be not later than such dates as shall be fixed by the Department of State, and in fixing such dates the Department of State shall take into consideration and be governed by the practical time limitations.
+(c)
+The dates for a candidate to qualify by the petition process pursuant to s. 99.095 in such special primary or special election shall be fixed by the Department of State. In fixing such dates the Department of State shall take into consideration and be governed by the practical time limitations. Any candidate seeking to qualify by the petition process in a special primary election shall obtain 25 percent of the signatures required by s. 99.095.
+(d)
+The qualifying fees and party assessments of such candidates as may qualify shall be the same as collected for the same office at the last previous primary for that office. The party assessment shall be paid to the appropriate executive committee of the political party to which the candidate belongs.
+(e)
+Each county canvassing board shall make as speedy a return of the result of such special primary elections and special elections as time will permit, and the Elections Canvassing Commission likewise shall make as speedy a canvass and declaration of the nominees as time will permit.
+(3)(a)
+In the event that death, resignation, withdrawal, or removal should cause a party to have a vacancy in nomination which leaves no candidate for an office from such party, the filing officer before whom the candidate qualified shall notify the chair of the state and county political party executive committee of such party and:
+1.
+If the vacancy in nomination is for a statewide office, the state party chair shall, within 5 days, call a meeting of his or her executive board to consider designation of a nominee to fill the vacancy.
+2.
+If the vacancy in nomination is for the office of United States Representative, state senator, state representative, state attorney, or public defender, the state party chair shall, within 5 days, call a meeting of the state executive committee members residing in the affected county or counties to consider designation of a nominee to fill the vacancy.
+3.
+If the vacancy in nomination is for a county office, the state party chair shall notify the appropriate county chair and, within 5 days, the appropriate county chair shall call a meeting of his or her executive committee to consider designation of a nominee to fill the vacancy.
+The name of any person so designated shall be submitted to the filing officer before whom the candidate qualified within 7 days after notice to the chair in order that the person designated may have his or her name on the ballot of the ensuing general election. If the name of the new nominee is submitted after the certification of results of the preceding primary election, however, the ballots shall not be changed and the former party nominee’s name will appear on the ballot. Any ballots cast for the former party nominee will be counted for the person designated by the political party to replace the former party nominee. If there is no opposition to the party nominee, the person designated by the political party to replace the former party nominee will be elected to office at the general election.
+(b)
+When, under the circumstances set forth in the preceding paragraph, vacancies in nomination are required to be filled by committee nominations, such vacancies shall be filled by party rule. In any instance in which a nominee is selected by a committee to fill a vacancy in nomination, such nominee shall pay the same filing fee and take the same oath as the nominee would have taken had he or she regularly qualified for election to such office.
+(c)
+Any person who, at the close of qualifying as prescribed in ss. 99.061 and 105.031, was qualified for nomination or election to or retention in a public office to be filled at the ensuing general election or who attempted to qualify and failed to qualify is prohibited from qualifying as a candidate to fill a vacancy in nomination for any other office to be filled at that general election, even if such person has withdrawn or been eliminated as a candidate for the original office sought. However, this paragraph does not apply to a candidate for the office of Lieutenant Governor who applies to fill a vacancy in nomination for the office of Governor on the same ticket or to a person who has withdrawn or been eliminated as a candidate and who is subsequently designated as a candidate for Lieutenant Governor under s. 99.063.
+(4)
+A vacancy in nomination is not created if an order of a court that has become final determines that a nominee did not properly qualify or did not meet the necessary qualifications to hold the office for which he or she sought to qualify.
+(5)
+In the event of unforeseeable circumstances not contemplated in these general election laws concerning the calling and holding of special primary elections and special elections resulting from court order or other unpredictable circumstances, the Department of State shall have the authority to provide for the conduct of orderly elections.
+History.
+—
+s. 4, ch. 26870, 1951; s. 16, ch. 28156, 1953; s. 1, ch. 29938, 1955; s. 1, ch. 57-91; s. 1, ch. 59-139; s. 2, ch. 65-240; ss. 10, 35, ch. 69-106; s. 1, ch. 73-191; s. 1, ch. 74-120; s. 12, ch. 77-175; s. 30, ch. 79-400; s. 4, ch. 83-15; s. 1, ch. 83-149; s. 15, ch. 89-338; s. 3, ch. 90-229; s. 13, ch. 90-315; s. 546, ch. 95-147; s. 1, ch. 95-197; s. 5, ch. 99-140; s. 12, ch. 99-318; s. 20, ch. 2005-277; s. 13, ch. 2005-286; s. 23, ch. 2007-30; s. 22, ch. 2011-40; s. 15, ch. 2021-11.
+100.141
+Notice of special election to fill any vacancy in office.
+—
+(1)
+Whenever a special election is required to fill any vacancy in office, the Governor, after consultation with the Secretary of State, shall issue an order declaring on what day the election shall be held and deliver the order to the Department of State.
+(2)
+The Department of State shall prepare a notice stating what offices are to be filled in the special election, the dates set for the special primary election and the special election, the dates fixed for qualifying for office, the dates fixed for qualifying by the petition process pursuant to s. 99.095, and the dates fixed for filing campaign expense statements.
+(3)
+The department shall deliver a copy of such notice to the supervisor of elections of each county in which the special election is to be held. The supervisor shall have the notice published two times in a newspaper of general circulation in the county at least 10 days before the first day set for qualifying for office or, for at least 10 days before the first day set for qualifying for office, publish notice on the county’s website as provided in s. 50.0311 or on the supervisor’s website.
+History.
+—
+s. 6, ch. 3879, 1889; RS 160; s. 7, ch. 4328, 1895; GS 177; RGS 221; CGL 256; s. 3, ch. 25383, 1949; s. 1, ch. 26329, 1949; s. 4, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 12, ch. 77-175; s. 14, ch. 90-315; s. 13, ch. 99-318; s. 21, ch. 2005-277; s. 14, ch. 2005-286; s. 19, ch. 2023-120.
+Note.
+—
+Former s. 98.10.
+100.151
+Special elections called by local governing bodies, notice.
+—
+County commissioners or the governing authority of a municipality shall not call any special election until notice is given to the supervisor of elections and his or her consent obtained as to a date when the registration books can be available.
+History.
+—
+s. 4, ch. 26870, 1951; s. 2, ch. 65-60; s. 16, ch. 89-338; s. 547, ch. 95-147.
+100.161
+Filling vacancy of United States Senators.
+—
+Should a vacancy happen in the representation of this state in the Senate of the United States, the Governor shall issue a writ of election to fill such vacancy at the next general election; and the Governor may make a temporary appointment until the vacancy is filled by election.
+History.
+—
+s. 4, ch. 26870, 1951; s. 17, ch. 28156, 1953; s. 12, ch. 77-175.
+100.181
+Determination of person elected.
+—
+The person receiving the highest number of votes cast in a general or special election for an office shall be elected to the office. In case two or more persons receive an equal and highest number of votes for the same office, such persons shall draw lots to determine who shall be elected to the office.
+History.
+—
+s. 7, ch. 20872, 1941; s. 4, ch. 26329, 1949; s. 4, ch. 26870, 1951; s. 24, ch. 77-104; s. 12, ch. 77-175.
+Note.
+—
+Former s. 98.49.
+100.191
+General election laws applicable to special elections; returns.
+—
+All laws that are applicable to general elections are applicable to special elections or special primary elections to fill a vacancy in office or nomination. The Elections Canvassing Commission shall immediately, upon receipt of returns from the county in which a special election is held, proceed to canvass the returns and determine and declare the result thereof.
+History.
+—
+s. 6, ch. 20872, 1941; s. 4, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 12, ch. 77-175; s. 24, ch. 2007-30.
+Note.
+—
+Former s. 98.48.
+100.201
+Referendum required before issuing bonds.
+—
+Whenever any county, district, or municipality is by law given power to issue bonds which are required to be approved by referendum, such bonds shall be issued only after the same have been approved by the majority of votes cast by those persons eligible to vote in such referendum. The election costs of such referendum shall be paid in whole or in part, as the case may be, out of the county, district, or municipal treasury.
+History.
+—
+s. 1, ch. 14715, 1931; CGL 1936 Supp. 457(1); s. 4, ch. 26870, 1951; s. 3, ch. 69-377; s. 12, ch. 77-175; s. 7, ch. 87-363.
+Note.
+—
+Former s. 103.01.
+100.211
+Power to call bond referendum; notice required.
+—
+The board of county commissioners or the governing authority of any district or municipality may call a bond referendum under this code. In the event any referendum is called to decide whether a majority of the electors participating are in favor of the issuance of bonds in the county, district, or municipality, the board of county commissioners, or the governing authority of the municipality or district, shall by resolution order the bond referendum to be held in the county, district, or municipality and shall give notice of the election in the manner prescribed by s. 100.342.
+History.
+—
+s. 2, ch. 14715, 1931; CGL 1936 Supp. 457(2); s. 4, ch. 26870, 1951; s. 4, ch. 69-377; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.02.
+100.221
+General election laws to govern bond referenda.
+—
+The laws governing the holding of general elections are applicable to bond referenda, except as provided in ss. 100.201-100.351. A county, district, or municipality is not required to offer early voting for a bond referendum that is not held in conjunction with a county or state election. The places for voting in a bond referendum shall be the same as the places for voting in general elections when a bond referendum is held in the county or district; however, when a bond referendum is held in a municipality, the polling places shall be the same as in other municipal elections.
+History.
+—
+s. 8, ch. 14715, 1931; CGL 1936 Supp. 457(8); s. 4, ch. 26870, 1951; s. 12, ch. 77-175; s. 12, ch. 2008-95.
+Note.
+—
+Former s. 103.08.
+100.241
+Freeholder voting; election; penalties for ineligible persons who vote as freeholders.
+—
+(1)
+In any election or referendum in which only electors who are freeholders are qualified to vote, the regular registration books covering the precincts located within the geographical area in which the election or referendum is to be held shall be used.
+(2)
+Qualification and registration of electors participating in a freeholder election or referendum subject to this section shall be the same as prescribed for voting in other elections under this code, and, in addition, each such elector shall submit a written declaration, verified pursuant to s. 92.525, affirming that the elector is a freeholder who is a qualified elector residing in the county, district, or municipality in which the election or referendum is to be held.
+(3)
+Each registered elector who submits the written declaration giving a legal description, address, or location of property in the elector’s name which is not wholly exempt from taxation is entitled to vote in the election or referendum and is considered a freeholder.
+(4)
+The actual costs of conducting a freeholder election or referendum subject to this section shall be paid by the county, district, or municipality requiring the election or referendum.
+(5)
+A person may not vote in any county, district, or other election or referendum which is limited to a vote of the electors who are freeholders, unless the person is a freeholder and a qualified elector. A person who violates this subsection commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 1, ch. 9294, 1923; CGL 250; ss. 4, 6, 14, ch. 14715, 1931; CGL 1936 Supp. 457(4), (6), (14); s. 7, ch. 22858, 1945; s. 4, ch. 26870, 1951; s. 1, ch. 61-332; s. 5, ch. 65-240; s. 5, ch. 69-377; s. 12, ch. 77-175; s. 2, ch. 91-224; s. 548, ch. 95-147; s. 1, ch. 2012-156.
+Note.
+—
+Former ss. 98.03, 103.04, 103.06, 103.14.
+100.261
+Holding bond referenda with other elections.
+—
+Whenever any bond referendum is called, it shall be lawful for any county, district, or municipality to hold such bond referendum on the day of any state, county, or municipal primary or general election, or on the day of any election of such county, district, or municipality for any purpose other than the purpose of voting on such bonds. If such bond referendum is held concurrently with a regularly scheduled election, the county, district, or municipality must pay only its pro rata share of election costs directly related to the bond referendum. However, this section does not prohibit the holding of a special or separate bond referendum, except that if the bond issue amount is greater than $500 million, the bond referendum must be held at a general election.
+History.
+—
+s. 1, ch. 22545, 1945; s. 4, ch. 26870, 1951; s. 19, ch. 28156, 1953; s. 12, ch. 77-175; s. 8, ch. 87-363; s. 1, ch. 2024-145.
+Note.
+—
+Former s. 103.21.
+100.271
+Inspectors, clerk, duties; return and canvass of referendum recorded.
+—
+In any bond referendum, unless the referendum is held in connection with a regular or special state, county, or municipal election, at least two inspectors and one clerk shall be appointed and qualified, as in cases of general elections, and they shall canvass the vote cast and make due returns of same without delay. Any bond referendum held in a municipality shall be returned to and canvassed by the governing authority which called the referendum, but in any county or district the returns shall be made to the board of county commissioners. The board of county commissioners or, in the case of a municipality, the governing authority thereof, shall canvass the returns and declare the result and have same recorded in the minutes of the board of county commissioners, or, in the case of a district, the certificate of declaration of result shall be recorded in the minutes of the governing authority of such district, or, in the case of a municipality, the result shall be recorded in the minutes of the governing authority of the municipality. If any bond referendum is held in conjunction with any other election, however, the officials responsible for the canvass of such election shall also canvass the returns of the referendum and certify the same to the proper governing body.
+History.
+—
+s. 10, ch. 14715, 1931; CGL 1936 Supp. 457(10); s. 4, ch. 26870, 1951; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.10.
+100.281
+Approval to issue bonds.
+—
+Should a majority of the votes cast in a bond referendum be in favor of the issuance of bonds, then the issuance of said bonds is deemed authorized in accordance with s. 12, Art. VII of the State Constitution. In the event less than a majority of those voting on the issue voted in favor of the issuance of the proposed bonds, then the issuance of those specified bonds shall be deemed to have failed of approval and it is unlawful to issue or attempt to issue said bonds.
+History.
+—
+s. 12, ch. 14715, 1931; CGL 1936 Supp. 457(12); s. 4, ch. 26870, 1951; s. 15, ch. 69-216; s. 7, ch. 69-377; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.12.
+100.291
+Record results of election prima facie evidence.
+—
+Whenever any bond referendum is called and held, and the minutes have been recorded as provided in s. 100.271 and also a separate finding as to the total number of votes cast in the referendum, both in favor and against the approval of bonds, then a duly certified copy of the finding shall be admissible as prima facie evidence in all state courts of the truth, including the regularity, of the call, conduct, and holding of the referendum at the time and place specified.
+History.
+—
+s. 17, ch. 14715, 1931; CGL 1936 Supp. 457(15); s. 4, ch. 26870, 1951; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.17.
+100.301
+Refunding bonds excluded.
+—
+Sections 100.201-100.351 shall not apply to refunding bonds, and wherever the word “bond” or “bonds” is used in these sections it shall be construed to exclude refunding bonds; but if the statute, ordinance, or resolution under which refunding bonds are authorized or are to be issued requires a referendum to determine whether such refunding bonds shall be issued, the referendum may be held as provided by ss. 100.201-100.351.
+History.
+—
+s. 21
+1
+/
+2
+, ch. 14715, 1931; CGL 1936 Supp. 457(19); s. 4, ch. 26870, 1951; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.20.
+100.311
+Local law governs bond election held by municipalities.
+—
+No section of this code controlling or regulating bond referenda shall be deemed to repeal or modify any provision contained in any local law relating to bond referenda held by any municipality, but ss. 100.201-100.351 shall be deemed additional and supplementary to any such local law.
+History.
+—
+s. 21, ch. 14715, 1931; CGL 1936 Supp. 457(18); s. 4, ch. 26870, 1951; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.19.
+100.321
+Test suit.
+—
+Any taxpayer of the county, district, or municipality wherein bonds are declared to have been authorized, shall have the right to test the legality of the referendum and of the declaration of the result thereof, by an action in the circuit court of the county in which the referendum was held. The action shall be brought against the county commissioners in the case of a county or district referendum, or against the governing authority of the municipality in the case of a municipal referendum. In case any such referendum or the declaration of results thereof shall be adjudged to be illegal and void in any such suit, the judgment shall have the effect of nullifying the referendum. No suit shall be brought to test the validity of any bond referendum unless the suit shall be instituted within 60 days after the declaration of the results of the referendum. In the event proceedings shall be filed in any court to validate the bonds, which have been voted for, then any such taxpayer shall be bound to intervene in such validation suit and contest the validity of the holding of the referendum or the declaration of the results thereof, in which event the exclusive jurisdiction to determine the legality of such referendum or the declaration of the results thereof shall be vested in the court hearing and determining said validation proceedings. If said bonds in the validation proceedings shall be held valid on final hearing or an intervention by the taxpayer shall be interposed and held not to have been sustained, then the judgment in said validation proceedings shall be final and conclusive as to the legality and validity of the referendum and of the declaration of the results thereof, and no separate suit to test the same shall be thereafter permissible.
+History.
+—
+s. 18, ch. 14715, 1931; CGL 1936 Supp. 457(16); s. 4, ch. 26870, 1951; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.18.
+100.331
+Referendum for defeated bond issue.
+—
+If any bond referendum is called and held for approving the issuance of bonds for a particular purpose and such referendum does not result in the approval of the bonds, then no other referendum for the approval of bonds for the same purpose shall be called for at least 6 months.
+History.
+—
+s. 13, ch. 14715, 1931; CGL 1936 Supp. 457 (13); s. 4, ch. 26870, 1951; s. 12, ch. 77-175.
+Note.
+—
+Former s. 103.13.
+100.341
+Bond referendum ballot.
+—
+The ballots used in bond referenda shall include a printed description of the issuance of bonds to be voted on as prescribed by the authority calling the referendum. A separate statement of each issue of bonds to be approved, giving the amount of the bonds and interest rate thereon, together with other details necessary to inform the electors, shall be printed on the ballots in connection with the question “For Bonds” and “Against Bonds.”
+History.
+—
+s. 11, ch. 14715, 1931; CGL 1936 Supp. 457(11); s. 4, ch. 26870, 1951; s. 12, ch. 77-175; s. 4, ch. 2001-40.
+Note.
+—
+Former s. 103.11.
+100.342
+Notice of special election or referendum.
+—
+In any special election or referendum not otherwise provided for, there must be at least 30 days’ notice of the election or referendum by publication in a newspaper of general circulation in the county, district, or municipality, or publication on the county’s website as provided in s. 50.0311, the municipality’s website, or the supervisor’s website, as applicable. The publication must be made at least twice, once in the fifth week and once in the third week before the week in which the election or referendum is to be held. If the applicable website becomes unavailable or there is no newspaper of general circulation in the county, district, or municipality, the notice must be posted in no less than five places within the territorial limits of the county, district, or municipality.
+History.
+—
+s. 1, ch. 59-335; s. 2, ch. 65-60; s. 12, ch. 77-175; s. 20, ch. 2023-120.
+100.351
+Referendum election; certificate of results to Department of State.
+—
+Whenever an election is held under a referendum provision of an act of the Legislature, the election officials of the governmental unit in which the election is held shall certify the results thereof to the Department of State, which shall enter such results upon the official record of the act requiring such election on file in the office of the Department of State.
+History.
+—
+s. 1, ch. 25438, 1949; s. 4, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 12, ch. 77-175.
+Note.
+—
+Former s. 99.59.
+100.3605
+Conduct of municipal elections.
+—
+(1)
+The Florida Election Code, chapters 97-106, shall govern the conduct of a municipality’s election in the absence of an applicable special act, charter, or ordinance provision. No charter or ordinance provision shall be adopted which conflicts with or exempts a municipality from any provision in the Florida Election Code that expressly applies to municipalities.
+(2)
+The governing body of a municipality may, by ordinance, change the dates for qualifying and for the election of members of the governing body of the municipality and provide for the orderly transition of office resulting from such date changes.
+History.
+—
+s. 2, ch. 95-178.
+100.361
+Municipal recall.
+—
+(1)
+APPLICATION; DEFINITION.
+—
+Any member of the governing body of a municipality or charter county, hereinafter referred to in this section as “municipality,” may be removed from office by the electors of the municipality. When the official represents a district and is elected only by electors residing in that district, only electors from that district are eligible to sign the petition to recall that official and are entitled to vote in the recall election. When the official represents a district and is elected at-large by the electors of the municipality, all electors of the municipality are eligible to sign the petition to recall that official and are entitled to vote in the recall election. Where used in this section, the term “district” shall be construed to mean the area or region of a municipality from which a member of the governing body is elected by the electors from such area or region. Members may be removed from office pursuant to the procedures provided in this section. This method of removing members of the governing body of a municipality is in addition to any other method provided by state law.
+(2)
+RECALL PETITION.
+—
+(a)
+Petition content.
+—
+A petition shall contain the name of the person sought to be recalled and a statement of grounds for recall. The statement of grounds may not exceed 200 words, and the stated grounds are limited solely to those specified in paragraph (d). If more than one member of the governing body is sought to be recalled, whether such member is elected by the electors of a district or by the electors of the municipality at-large, a separate recall petition shall be prepared for each member sought to be recalled. Upon request, the content of a petition should be, but is not required to be, provided by the proponent in alternative formats.
+(b)
+Requisite signatures.
+—
+1.
+In a municipality or district of fewer than 500 electors, the petition shall be signed by at least 50 electors or by 10 percent of the total number of registered electors of the municipality or district as of the preceding municipal election, whichever is greater.
+2.
+In a municipality or district of 500 or more but fewer than 2,000 registered electors, the petition shall be signed by at least 100 electors or by 10 percent of the total number of registered electors of the municipality or district as of the preceding municipal election, whichever is greater.
+3.
+In a municipality or district of 2,000 or more but fewer than 5,000 registered electors, the petition shall be signed by at least 250 electors or by 10 percent of the total number of registered electors of the municipality or district as of the preceding municipal election, whichever is greater.
+4.
+In a municipality or district of 5,000 or more but fewer than 10,000 registered electors, the petition shall be signed by at least 500 electors or by 10 percent of the total number of registered electors of the municipality or district as of the preceding municipal election, whichever is greater.
+5.
+In a municipality or district of 10,000 or more but fewer than 25,000 registered electors, the petition shall be signed by at least 1,000 electors or by 10 percent of the total number of registered electors of the municipality or district as of the preceding municipal election, whichever is greater.
+6.
+In a municipality or district of 25,000 or more registered electors, the petition shall be signed by at least 1,000 electors or by 5 percent of the total number of registered electors of the municipality or district as of the preceding municipal election, whichever is greater.
+All signatures shall be obtained, as provided in paragraph (e), within a period of 30 days, and all signed and dated petition forms shall be filed at the same time, no later than 30 days after the date on which the first signature is obtained on the petition.
+(c)
+Recall committee.
+—
+Electors of the municipality or district making charges contained in the statement of grounds for recall, as well as those signing the recall petition, shall be designated as the recall committee. A specific person shall be designated in the petition as chair of the committee, and this person shall act for the committee. The recall committee and the officer being recalled are subject to the provisions of chapter 106.
+(d)
+Grounds for recall.
+—
+The grounds for removal of elected municipal officials shall, for the purposes of this act, be limited to the following and must be contained in the petition:
+1.
+Malfeasance;
+2.
+Misfeasance;
+3.
+Neglect of duty;
+4.
+Drunkenness;
+5.
+Incompetence;
+6.
+Permanent inability to perform official duties; and
+7.
+Conviction of a felony involving moral turpitude.
+(e)
+Signature process.
+—
+Only electors of the municipality or district are eligible to sign the petition. Each elector signing a petition shall sign and date his or her name in ink or indelible pencil. Each petition shall contain appropriate lines for each elector’s original signature, printed name, street address, city, county, voter registration number or date of birth, and date signed. The form shall also contain lines for an oath, to be executed by a witness who is to verify the fact that the witness saw each person sign the counterpart of the petition, that each signature appearing thereon is the genuine signature of the person it purports to be, and that the petition was signed in the presence of the witness on the date indicated.
+(f)
+Filing of signed petitions.
+—
+All signed petition forms shall be filed at the same time, no later than 30 days after the date on which the first signature is obtained on the petition. The person designated as chair of the committee shall file the signed petition forms with the auditor or clerk of the municipality or charter county, or his or her equivalent, hereinafter referred to as “clerk.” The petition may not be amended after it is filed with the clerk.
+(g)
+Verification of signatures.
+—
+1.
+Immediately after the filing of the petition forms, the clerk shall submit such forms to the county supervisor of elections. No more than 30 days after the date on which all petition forms are submitted to the supervisor by the clerk, the supervisor shall promptly verify the signatures in accordance with s. 99.097, and determine whether the requisite number of valid signatures has been obtained for the petition. The committee seeking verification of the signatures shall pay in advance to the supervisor the sum of 10 cents for each signature checked or the actual cost of checking such signatures, whichever is less.
+2.
+Upon filing with the clerk, the petition and all subsequent papers or forms required or permitted to be filed with the clerk in connection with this section must, upon request, be made available in alternative formats by the clerk.
+3.
+If the supervisor determines that the petition does not contain the requisite number of verified and valid signatures, the clerk shall, upon receipt of such written determination, so certify to the governing body of the municipality or charter county and file the petition without taking further action, and the matter shall be at an end. No additional names may be added to the petition, and the petition shall not be used in any other proceeding.
+4.
+If the supervisor determines that the petition has the requisite number of verified and valid signatures, then the procedures outlined in subsection (3) must be followed.
+(3)
+RECALL PETITION AND DEFENSE.
+—
+(a)
+Notice.
+—
+Upon receipt of a written determination that the requisite number of signatures has been obtained, the clerk shall at once serve upon the person sought to be recalled a certified copy of the petition. Within 5 days after service, the person sought to be recalled may file with the clerk a defensive statement of not more than 200 words.
+(b)
+Content and preparation.
+—
+Within 5 days after the date of receipt of the defensive statement or after the last date a defensive statement could have been filed, the clerk shall prepare a document entitled “Recall Petition and Defense.” The “Recall Petition and Defense” shall consist of the recall petition, including copies of the originally signed petitions and counterparts. The “Recall Petition and Defense” must contain lines which conform to the provisions of paragraph (2)(e), and the defensive statement or, if no defensive statement has been filed, a statement to that effect. The clerk shall make copies of the “Recall Petition and Defense” which are sufficient to carry the signatures of 30 percent of the registered electors. Immediately after preparing and making sufficient copies of the “Recall Petition and Defense,” the clerk shall deliver the copies to the person designated as chair of the committee and take his or her receipt therefor.
+(c)
+Requisite signatures.
+—
+Upon receipt of the “Recall Petition and Defense,” the committee may circulate them to obtain the signatures of 15 percent of the electors. All signatures shall be obtained and all signed petition forms filed with the clerk no later than 60 days after delivery of the “Recall Petition and Defense” to the chair of the committee.
+(d)
+Signed petitions; request for striking name.
+—
+The clerk shall assemble all signed petitions, check to see that each petition is properly verified by the oath of a witness, and submit such petitions to the county supervisor of elections. Any elector who signs a recall petition has the right to demand in writing that his or her name be stricken from the petition. A written demand signed by the elector shall be filed with the clerk, and, upon receipt of the demand, the clerk shall strike the name of the elector from the petition and place his or her initials to the side of the signature stricken. However, a signature may not be stricken after the clerk has delivered the “Recall Petition and Defense” to the supervisor for verification of the signatures.
+(e)
+Verification of signatures.
+—
+Within 30 days after receipt of the signed “Recall Petition and Defense,” the supervisor shall determine the number of valid signatures, purge the names withdrawn, and certify whether 15 percent of the qualified electors of the municipality have signed the petitions. The supervisor shall be paid by the persons or committee seeking verification the sum of 10 cents for each name checked.
+(f)
+Reporting.
+—
+If the supervisor determines that the requisite number of signatures has not been obtained, the clerk shall, upon receipt of such written determination, certify such determination to the governing body and retain the petitions. The proceedings shall be terminated, and the petitions shall not again be used. If the supervisor determines that at least 15 percent of the qualified electors signed the petition, the clerk shall, immediately upon receipt of such written determination, serve notice of that determination upon the person sought to be recalled and deliver to the governing body a certificate as to the percentage of qualified electors who signed.
+(4)
+RECALL ELECTION.
+—
+If the person designated in the petition files with the clerk, within 5 days after the last-mentioned notice, his or her written resignation, the clerk shall at once notify the governing body of that fact, and the resignation shall be irrevocable. The governing body shall then proceed to fill the vacancy according to the provisions of the appropriate law. In the absence of a resignation, the chief judge of the judicial circuit in which the municipality is located shall fix a day for holding a recall election for the removal of those not resigning. Any such election shall be held not less than 30 days or more than 60 days after the expiration of the 5-day period last-mentioned and at the same time as any other general or special election held within the period; but if no such election is to be held within that period, the judge shall call a special recall election to be held within the period aforesaid.
+(5)
+BALLOTS.
+—
+The ballots at the recall election shall conform to the following: With respect to each person whose removal is sought, the question shall be submitted: “Shall
+be removed from the office of
+by recall?” Immediately following each question there shall be printed on the ballots the two propositions in the order here set forth:
+“
+(name of person)
+should be removed from office.”
+“
+(name of person)
+should not be removed from office.”
+(6)
+FILLING OF VACANCIES; SPECIAL ELECTIONS.
+—
+(a)
+If an election is held for the recall of members elected only at-large, candidates to succeed them for the unexpired terms shall be voted upon at the same election and shall be elected in the same manner as provided by the appropriate law for the election of candidates at general elections. Candidates shall not be elected to succeed any particular member. If only one member is removed, the candidate receiving the highest number of votes shall be declared elected to fill the vacancy. If more than one member is removed, candidates equal in number to the number of members removed shall be declared elected to fill the vacancies; and, among the successful candidates, those receiving the greatest number of votes shall be declared elected for the longest terms. Cases of ties, and all other matters not herein specially provided for, shall be determined by the rules governing elections generally.
+(b)
+If an election is held for the recall of members elected only from districts, candidates to succeed them for the unexpired terms shall be voted upon at a special election called by the chief judge of the judicial circuit in which the districts are located not less than 30 days or more than 60 days after the expiration of the recall election. The qualifying period, for purposes of this section, shall be established by the chief judge of the judicial circuit after consultation with the clerk. Any candidate seeking election to fill the unexpired term of a recalled district municipal official shall reside in the district represented by the recalled official and qualify for office in the manner required by law. Each candidate receiving the highest number of votes for each office in the special district recall election shall be declared elected to fill the unexpired term of the recalled official. Candidates seeking election to fill a vacancy created by the removal of a municipal official shall be subject to the provisions of chapter 106.
+(c)
+When an election is held for the recall of members of the governing body composed of both members elected at-large and from districts, candidates to succeed them for the unexpired terms shall be voted upon at a special election as provided in paragraph (b).
+(d)
+However, in any recall election held pursuant to paragraph (b) or paragraph (c), if only one member is voted to be removed from office, the vacancy created by the recall shall be filled by the governing body according to the provisions of the appropriate law for filling vacancies.
+(7)
+EFFECT OF RESIGNATIONS.
+—
+If the member of the governing body being recalled resigns from office prior to the recall election, the remaining members shall fill the vacancy created according to the appropriate law for filling vacancies. If all of the members of the governing body are sought to be recalled and all of the members resign prior to the recall election, the recall election shall be canceled, and a special election shall be called to fill the unexpired terms of the resigning members. If all of the members of the governing body are sought to be recalled and any of the members resign prior to the recall election, the proceedings for the recall of members not resigning and the election of successors to fill the unexpired terms shall continue and have the same effect as though there had been no resignation.
+(8)
+WHEN PETITION MAY BE FILED.
+—
+No petition to recall any member of the governing body of a municipality shall be filed until the member has served one-fourth of his or her term of office. No person removed by a recall, or resigning after a petition has been filed against him or her, shall be eligible to be appointed to the governing body within a period of 2 years after the date of such recall or resignation.
+(9)
+RETENTION OF PETITION.
+—
+The clerk shall preserve in his or her office all papers comprising or connected with a petition for recall for a period of 2 years after they were filed.
+(10)
+OFFENSES RELATING TO PETITIONS.
+—
+No person shall impersonate another, purposely write his or her name or residence falsely in the signing of any petition for recall or forge any name thereto, or sign any paper with knowledge that he or she is not a qualified elector of the municipality. No person shall employ or pay another to accept employment or payment for circulating or witnessing a recall petition. Any person violating any of the provisions of this section commits a misdemeanor of the second degree and shall, upon conviction, be punished as provided by law.
+(11)
+INTENT.
+—
+It is the intent of the Legislature that the recall procedures provided in this act shall be uniform statewide. Therefore, all municipal charter and special law provisions which are contrary to the provisions of this act are hereby repealed to the extent of this conflict.
+(12)
+PROVISIONS APPLICABLE.
+—
+The provisions of this act shall apply to cities and charter counties whether or not they have adopted recall provisions.
+History.
+—
+ss. 1, 2, ch. 74-130; s. 1, ch. 77-174; s. 12, ch. 77-175; s. 1, ch. 77-279; s. 1, ch. 81-312; s. 20, ch. 83-217; s. 17, ch. 89-338; s. 15, ch. 90-315; s. 549, ch. 95-147; s. 14, ch. 95-280; s. 1, ch. 2000-249; s. 5, ch. 2001-40; s. 8, ch. 2002-281; s. 13, ch. 2008-95.
+1
+100.371
+Initiatives; procedure for placement on ballot.
+—
+(1)(a)
+Constitutional amendments proposed by initiative shall be placed on the ballot for the general election, provided the initiative petition has been filed with the Secretary of State no later than February 1 of the year the general election is held. A petition shall be deemed to be filed with the Secretary of State upon the date the secretary determines that valid and verified petition forms have been signed by the constitutionally required number and distribution of voters under this code.
+(b)
+A sponsor of an initiative petition must obtain, at least every third election cycle, a letter pursuant to s. 15.21(1)(c). Failure to obtain such letter results in expiration of the initiative petition’s signatures and disbanding of the sponsor’s political committee.
+(c)
+Initiative petition signatures expire and the sponsor’s political committee is disbanded if a constitutional amendment proposed by initiative submitted to the Secretary of State before February 1, 2022, fails to obtain a letter pursuant to s. 15.21(1)(c) on or before February 1, 2026. This paragraph does not preclude such a sponsor from refiling the proposed amendment as a new petition.
+(2)
+The sponsor of an initiative amendment may not sponsor more than one amendment and must, before circulating any petition forms, register as a political committee pursuant to s. 106.03 and submit the ballot title, ballot summary, article and section of the State Constitution being amended, and full text of the proposed amendment to the Secretary of State. The proposed amendment and all forms filed in connection with this section must, upon request, be made available in alternative formats. Upon receipt, the Secretary of State shall assign the initiative petition a petition number and submit a copy of the proposed amendment to the Financial Impact Estimating Conference for review, analysis, and estimation of the financial impact of the proposed amendment. After the review by the Financial Impact Estimating Conference, the division shall publish the forms with the information provided for in subsection (3) and on which signatures for the initiative petition will be affixed.
+(3)(a)
+Beginning July 1, 2025, the petition form must prominently display all of the following:
+1.
+The petition number.
+2.
+The ballot title.
+3.
+The ballot summary.
+4.
+A notice that the form becomes a public record upon receipt by the supervisor.
+5.
+A notice that it is a misdemeanor of the first degree to knowingly sign the petition more than once.
+6.
+A notice that the form will not be validated if all of the requested information is not completed.
+7.
+For a proposed amendment submitted to the Secretary of State after the effective date of this act, the financial impact statement.
+(b)
+The petition form must also include all of the following:
+1.
+The full text of the proposed amendment.
+2.
+The name and address of the sponsor.
+3.
+The date received by the Secretary of State.
+4.
+A bar code or serial number associated with the initiative petition.
+(c)
+The petition form must solicit and require all of the following information:
+1.
+The full name of the voter.
+2.
+The voter’s address and county of legal residence.
+3.
+The voter’s Florida voter registration number or date of birth.
+4.
+The voter’s Florida driver license number or the voter’s Florida identification card number issued pursuant to s. 322.051, or the last four digits of the voter’s social security number.
+5.
+An attestation that the voter is a registered Florida voter and is petitioning the Secretary of State to place the proposed amendment on the ballot.
+6.
+The voter’s signature and the date on which the voter signed the form.
+(d)
+A petition form distributed by a petition circulator must also include all of the following:
+1.
+The Petition Circulator’s Affidavit with the circulator’s name, permanent address, and petition circulator number or barcode.
+2.
+The following statement, which must be signed and dated by the circulator:
+By my signature below, as petition circulator, I verify that the petition was completed and signed by the voter in my presence. Under penalty of perjury, I declare that I have read the foregoing Petition Circulator’s Affidavit, and that the facts stated in it are true, and that if I was paid to circulate or collect this petition, payment was not on a per signature basis.
+(e)
+A petition form distributed by a person other than a petition circulator must also include, in lieu of the Petition Circulator’s Affidavit, the following notice:
+This form is for PERSONAL USE only. Unless registered as a petition circulator, it is a third degree felony to collect, deliver, or otherwise physically possess more than 25 signed petition forms in addition to your own or those of immediate family members.
+(f)
+The petition form must be in a type not less than 10 points, except for the full text of the proposed amendment, which may be in a type not less than 6 points if 10-point type would cause the length of the petition form to exceed one page front and back.
+(4)(a)
+Beginning July 1, 2025, unless registered as a petition circulator with the Secretary of State and issued a petition circulator number, a person may not collect, deliver, or otherwise physically possess more than 25 signed petition forms in addition to his or her own signed petition form or a signed petition form belonging to an immediate family member. This paragraph may not be construed to prohibit a person from distributing petition forms designated for personal use as described in paragraph (3)(e). For the purposes of this subsection, the term “immediate family” means a person’s spouse, or the parent, child, grandparent, grandchild, or sibling of the person or the person’s spouse.
+(b)
+A person may not collect signatures or initiative petitions if he or she:
+1.
+Has been convicted of a felony violation and has not had his or her right to vote restored.
+2.
+Is not a citizen of the United States.
+3.
+Is not a resident of this state.
+(c)
+An application for registration must be submitted in the format required by the Secretary of State and must include the following:
+1.
+The information required to be on the petition form under s. 101.161, including the ballot summary and title as received by the Secretary of State.
+2.
+The applicant’s name, permanent address, temporary address, if applicable, date of birth, Florida driver license or Florida identification card number, and the last four digits of his or her social security number.
+3.
+An address in this state at which the applicant will accept service of process related to disputes concerning the petition process.
+4.
+A statement that the applicant consents to the jurisdiction of the courts of this state in resolving disputes concerning the petition process.
+5.
+Any information required by the Secretary of State to verify the applicant’s identity or address.
+6.
+Whether the applicant has been convicted of a felony violation and has not had his or her right to vote restored, by including the statement, “I affirm that I am not a convicted felon, or, if I am, my right to vote has been restored,” and providing a box for the applicant to check to affirm the statement.
+7.
+Whether the applicant is a citizen of the United States, by asking the question, “Are you a citizen of the United States of America?” and providing boxes for the applicant to check whether the applicant is or is not a citizen of the United States.
+8.
+Whether the applicant is a Florida resident by asking the question, “Are you a resident of the State of Florida?” and providing boxes for the applicant to check whether the applicant is or is not a resident of the State of Florida.
+9.
+The signature of the applicant under penalty of perjury for false swearing pursuant to s. 104.011, by which the applicant swears or affirms that the information contained in the application is true.
+(d)
+A citizen may challenge a petition circulator’s registration under this section by filing a petition in circuit court. If the court finds that the respondent is not a registered petition circulator, the court may enjoin the respondent from collecting signatures or initiative petitions until he or she is lawfully registered.
+(e)
+The division may revoke a petition circulator’s registration upon the written request of the sponsor of the initiative petition or if the circulator violates this section.
+(f)
+A person may not register to collect signatures or initiative petitions until he or she has completed the training concerning the requirements for petition circulators. The training must be developed by the division and must be in an electronic format available on the division’s public website. The training must, at a minimum, include the following:
+1.
+An overview of the petition-gathering process.
+2.
+An overview of the petition circulator registration requirements.
+3.
+An explanation that the sponsor of an initiative amendment serves as a fiduciary to each voter who signs a petition.
+4.
+An explanation that the Florida Election Code prohibits compensation or provision of any benefit based on the number of petition forms gathered or the time within which a number of petition forms are gathered.
+5.
+The specific criminal penalties to which a petition circulator may be subject for violating the Florida Election Code.
+(g)
+The sponsor of the initiative amendment is liable for a fine in the amount of $50,000 for each person the sponsor knowingly allows to collect petition forms on behalf of the sponsor in violation of this subsection.
+(5)
+A sponsor may not compensate a petition circulator based on the number of petition forms gathered or the time within which a number of petition forms are gathered. This prohibition includes, but is not limited to, paying a specified amount per petition form gathered, basing an hourly rate on the number of petition forms gathered over a specified period of time, or providing any other benefit or form of compensation based on the number of petition forms gathered.
+(6)
+The division shall make electronic portable document format petition forms available to registered petition circulators. All such forms must contain information identifying the petition circulator to whom the forms are provided. The division shall maintain a database of all registered petition circulators and the petition forms assigned to each. Each supervisor of elections shall provide to the division information on petition forms received from petition circulators. The information must be provided in a format and at times as required by the division by rule. The division must update information on petition forms daily and make the information publicly available.
+(7)(a)
+A sponsor that collects petition forms or uses a petition circulator to collect petition forms serves as a fiduciary to the voter signing the petition form and shall ensure that any petition form entrusted to the sponsor or petition circulator is promptly delivered to the supervisor of elections in the county in which the voter resides within 10 days after the voter signs the form. If a petition form collected by the sponsor or any petition circulator is not promptly delivered to the supervisor of elections, the sponsor is liable for the following fines:
+1.
+A fine in the amount of $50 per each day late for each petition form received by the supervisor of elections in the county in which the voter resides more than 10 days after the voter signed the petition form. A fine in the amount of $2,500 for each petition form received if the sponsor or petition circulator acted willfully.
+2.
+A fine in the amount of $100 per each day late, up to a maximum of $5,000, for each petition form collected by a sponsor or a petition circulator, signed by a voter on or before February 1 of the year the general election is held and received by the supervisor of elections in the county in which the voter resides after the deadline for such election. A fine in the amount of $5,000 for each such petition form received if the sponsor or petition circulator acted willfully.
+3.
+A fine in the amount of $500 for each petition form collected by a petition circulator which is not submitted to the supervisor of elections in the county in which the voter resides. A fine in the amount of $5,000 for any petition form not so submitted if the sponsor or petition circulator acting on its behalf acted willfully.
+(b)
+A showing by the sponsor that the failure to deliver the petition form within the required timeframe is based upon force majeure or impossibility of performance is an affirmative defense to a violation of this subsection. The fines described in this subsection may be waived upon a showing that the failure to deliver the petition form promptly is based upon force majeure or impossibility of performance.
+(8)
+If a person collecting petition forms on behalf of a sponsor of an initiative petition signs another person’s name or a fictitious name to any petition, or fills in missing information on a signed petition, to secure a ballot position in violation of s. 104.185(2), the sponsor of the initiative petition is liable for a fine in the amount of $5,000 for each such petition.
+(9)
+If a person collecting petition forms on behalf of a sponsor of an initiative petition copies or retains a voter’s personal information, such as the voter’s Florida driver license number, Florida identification card number, social security number, or signature, for any reason other than to provide such information to the sponsor of the initiative petition, the person commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(10)
+A sponsor of an initiative petition or a person collecting petition forms on behalf of a sponsor of an initiative petition may not mail or otherwise provide a petition form upon which any information about a voter has been filled in before it is provided to the voter. The sponsor of an initiative petition is liable for a fine in the amount of $50 for each petition form that is a violation of this subsection.
+(11)
+If the Secretary of State reasonably believes that a person or entity has committed a violation of this section, the secretary may refer the matter to the Attorney General for enforcement. The Attorney General may institute a civil action for a violation of this section or to prevent a violation of this section. An action for relief may include a permanent or temporary injunction, a restraining order, or any other appropriate order. If the sponsor of an initiative petition discovers a violation of this section and reports the violation as soon as practicable to the secretary, the sponsor may not be fined for such violation.
+(12)
+The division shall adopt by rule a complaint form for a voter who claims to have had his or her signature misrepresented, forged, or not delivered to the supervisor. The division shall also adopt rules to ensure the integrity of the petition form gathering process, including rules requiring sponsors to account for all petition forms used by their agents. Such rules may require a sponsor or petition circulator to provide identification information on each petition form as determined by the department as needed to assist in the accounting of petition forms.
+(13)
+The date on which a voter signs a petition form is presumed to be the date on which the petition circulator received or collected the petition form.
+(14)(a)
+An initiative petition form circulated for signature may not be bundled with or attached to any other petition. Each signature shall be dated when made and shall be valid until the next February 1 occurring in an even-numbered year for the purpose of the amendment appearing on the ballot for the general election occurring in that same year, provided all other requirements of law are met. The sponsor shall submit signed and dated forms to the supervisor of elections for the county of residence listed by the person signing the form for verification of the number of valid signatures obtained.
+(b)
+The supervisor shall record the date each submitted petition is received. If a signature on a petition is from a registered voter in another county, the supervisor must notify the petition sponsor and the division of the misfiled petition. The supervisor shall promptly verify the signatures within 60 days after receipt of the petition forms and payment and processing of a fee for the actual cost of signature verification incurred by the supervisor. However, for petition forms submitted less than 60 days before February 1 of an even-numbered year, the supervisor shall promptly verify the signatures within 30 days after receipt of the form and payment of the fee for signature verification.
+(c)
+Beginning July 1, 2025, the supervisor shall promptly record, in the manner prescribed by the Secretary of State, the date each form is received by the supervisor, and the date the signature on the form is verified as valid. The supervisor may verify that the signature on a form is valid only if:
+1.
+The form contains the original signature of the purported voter.
+2.
+The purported voter has accurately recorded on the form the date on which he or she signed the form.
+3.
+The form sets forth the purported voter’s:
+a.
+Full name;
+b.
+Address and county of residence;
+c.
+Voter registration number or date of birth; and
+d.
+Florida driver license or Florida identification card number issued pursuant to s. 322.051 or the last four digits of the voter’s social security number.
+4.
+The purported voter is, at the time he or she signs the form and at the time the form is verified, a duly qualified and registered voter in the state.
+5.
+The signature was obtained legally, including that if a petition circulator was used, the circulator was validly registered under subsection (4) when the signature was obtained.
+(d)1.
+On the last day of each month, or on the last day of each week from December 1 of an odd-numbered year through February 1 of the following year, each supervisor shall electronically transmit all received petition forms to the division. The digital images of the scanned petition forms must be of high enough quality that division personnel are able to accurately discern elements contained in such forms. Forms must be identified as valid or as invalid.
+2.
+Each supervisor shall retain all petition forms, identifying forms verified as valid from those deemed invalid, until all petition forms have been processed following the February 1 deadline. As soon as practicable following the processing of the last timely submitted petition form, but not later than March 15 following the February 1 deadline, the supervisor shall deliver the physical forms to the division. The division shall retain all petition forms for 1 year following the election for which the petition was circulated.
+(e)
+Beginning October 1, 2025, when the signature on the petition form is verified as valid, the supervisor shall, as soon as practicable, notify the voter by mail at the mailing address on file in the Florida Voter Registration System.
+1.
+Such notice must be sent by forwardable mail with a postage prepaid preaddressed form, which may be returned to the Office of Election Crimes and Security. The notice must include contact information for the Office of Election Crimes and Security, including the telephone number, fax number, mailing address, and e-mail address. The notice must include all of the following statements or information in substantially the following form:
+NOTICE
+A petition to place a proposed constitutional amendment on the ballot for the next general election, bearing your name and signature, has been received and verified by the Supervisor of Elections Office in
+(insert county)
+.
+The petition is for
+(insert the petition serial number and ballot title)
+and was signed on
+(insert the date the voter signed the petition)
+.
+Check this box ☐, sign, and return this notice to the Office of Election Crimes and Security if you believe your signature has been misrepresented or forged on a petition. The petition form in question will be invalidated and will not be counted toward the number of signatures required to place this proposed constitutional amendment on the ballot.
+A notice being returned must be received by the Office of Election Crimes and Security on or before February 1
+(insert the year in which the general election is held)
+.
+(Insert the voter’s Florida voter registration number, and if applicable, the petition circulator’s number)
+.
+By signing below, I swear or affirm that my signature was misrepresented or forged on the petition form indicated in this notice.
+(Voter’s Signature)
+(Date)
+This notice becomes a public record upon receipt by the Office of Election Crimes and Security. It is a second degree misdemeanor, punishable as provided in s. 775.082, Florida Statutes, or s. 772.083, Florida Statutes, for a person to knowingly make a false official statement pursuant to s. 837.06, Florida Statutes.
+2.
+Upon receiving a completed notice, the Office of Election Crimes and Security shall transmit a copy of such notices to the division. The division shall deem the voter’s petition form invalid.
+(f)
+Each supervisor shall post the actual cost of signature verification for petition forms received more than 60 days before February 1 of an even-numbered year and for petition forms received less than 60 days before February 1 of an even-numbered year on his or her website, and may increase such cost as necessary, annually on March 1. These costs include operating and personnel costs associated with comparing signatures, printing and all postage costs related to the verification notice required by paragraph (e), and transmitting petition forms to the division. The division shall also publish each county’s current cost on its website. The division and each supervisor shall biennially review available technology aimed at reducing verification costs.
+(g)
+On the last day of each month, or on the last day of each week from December 1 of an odd-numbered year through February 1 of the following year, each supervisor shall post on his or her website the total number of signatures submitted, the total number of invalid signatures, the total number of signatures processed, and the aggregate number of verified valid signatures and the distribution of such signatures by congressional district for each proposed amendment proposed by initiative, along with the following information specific to the reporting period: the total number of signed petition forms received, the total number of signatures verified, the distribution of verified valid signatures by congressional district, and the total number of verified petition forms forwarded to the Secretary of State. For any reporting period in which the percentage of petition forms deemed invalid by the supervisor exceeds a total of 25 percent of the petition forms received by the supervisor for that reporting period, the supervisor shall notify the Office of Election Crimes and Security. The Office of Election Crimes and Security shall conduct a preliminary investigation into the activities of the sponsor, one or more petition circulators, or a person collecting petition forms on behalf of a sponsor, to determine whether the invalidated petitions are a result of fraud or any other violation of this section. As authorized by ss. 97.012(15) and 97.022(1), the Office of Elections Crimes and Security may, if warranted, report findings to the statewide prosecutor or the state attorney for the judicial circuit in which the alleged violation occurred for prosecution.
+(h)
+A signed petition form submitted by an ineligible or unregistered petition circulator must be invalidated and may not be counted toward the number of necessary signatures for placement on the ballot.
+(15)
+The Secretary of State shall determine from the signatures verified by the supervisors of elections the total number of verified valid signatures, less any signatures that were invalidated pursuant to subsection (14), and the distribution of such signatures by congressional districts, and the division shall post such information on its website at the same intervals specified in paragraph (14)(g). Upon a determination that the requisite number and distribution of valid signatures have been obtained, the secretary shall issue a certificate of ballot position for that proposed amendment and shall assign a designating number pursuant to s. 101.161. The secretary must rescind the certificate of ballot position if an advisory opinion issued by the Supreme Court pursuant to s. 16.061(1) deems the initiative petition invalid.
+(16)(a)
+Upon receipt of a proposed revision or amendment from the Secretary of State, the coordinator of the Office of Economic and Demographic Research shall contact the person identified as the sponsor to request an official list of all persons authorized to speak on behalf of the named sponsor and, if there is one, the sponsoring organization at meetings held by the Financial Impact Estimating Conference. All other persons must be deemed interested parties or proponents or opponents of the initiative. The Financial Impact Estimating Conference shall provide an opportunity for any representative of the sponsor, interested parties, and proponents or opponents of the initiative to submit information and may solicit information or analysis from any other entities or agencies, including the Office of Economic and Demographic Research.
+(b)
+Within 75 days after receipt of a proposed revision or amendment to the State Constitution by initiative petition from the Secretary of State, the Financial Impact Estimating Conference shall complete an analysis and financial impact statement to be placed on the ballot of the estimated increase or decrease in any revenues or costs to state or local governments and the overall impact to the state budget resulting from the proposed initiative. The 75-day time limit is tolled when the Legislature is in session. The Financial Impact Estimating Conference shall submit the financial impact statement to the Secretary of State. If the Financial Impact Estimating Conference does not complete an analysis and financial impact statement for an initiative petition before the 75-day time limit, including any tolling period, expires, the ballot must include the statement required by s. 101.161(1)(e).
+(c)
+The Financial Impact Estimating Conference may be convened only by the President of the Senate and the Speaker of the House of Representatives, jointly. All meetings of the Financial Impact Estimating Conference shall be open to the public. The President of the Senate and the Speaker of the House of Representatives, jointly, shall be the sole judge for the interpretation, implementation, and enforcement of this subsection.
+1.
+The Financial Impact Estimating Conference is established to review, analyze, and estimate the financial impact of amendments to or revisions of the State Constitution proposed by initiative. The Financial Impact Estimating Conference shall be composed of four principals: one person from the professional staff of the Executive Office of the Governor or from a state agency, designated by the Governor; the coordinator of the Office of Economic and Demographic Research, or his or her designee; one person from the professional staff of the Senate, designated by the President of the Senate; and one person from the professional staff of the House of Representatives, designated by the Speaker of the House of Representatives. Each principal shall have appropriate fiscal expertise in the subject matter of the initiative. A Financial Impact Estimating Conference may be appointed for each initiative.
+2.
+Principals of the Financial Impact Estimating Conference shall reach a consensus or majority concurrence on a clear and unambiguous financial impact statement, no more than 150 words in length, and immediately submit the statement to the Attorney General. Nothing in this subsection prohibits the Financial Impact Estimating Conference from setting forth a range of potential impacts in the financial impact statement.
+(d)
+The financial impact statement must be separately contained on the petition form and the ballot and be set forth after the ballot summary as required in s. 101.161(1).
+1.
+If the financial impact statement projects a net negative impact on the state budget, the ballot must include the statement required by s. 101.161(1)(b).
+2.
+If the financial impact statement projects a net positive impact on the state budget, the ballot must include the statement required by s. 101.161(1)(c).
+3.
+If the financial impact statement estimates an indeterminate financial impact or if the members of the Financial Impact Estimating Conference are unable to agree on the statement required by this subsection, the ballot must include the statement required by s. 101.161(1)(d).
+4.
+If the financial impact statement was not produced or if the Financial Impact Estimating Conference did not meet to produce the financial statement, the ballot must include the statement required by s. 101.161(1)(e).
+(e)
+Any financial impact statement that the Supreme Court finds not to be in accordance with this subsection shall be remanded solely to the Financial Impact Estimating Conference for redrafting. The Financial Impact Estimating Conference shall prepare and adopt a revised financial impact statement no later than 5 p.m. on the 15th day after the date of the court’s opinion. The sponsor of the initiative must refile the petition with the revised financial impact statement with the Secretary of State as a new petition.
+(f)
+In addition to the financial impact statement required by this subsection, the Financial Impact Estimating Conference shall draft an initiative financial information statement. The initiative financial information statement should describe in greater detail than the financial impact statement any projected increase or decrease in revenues or costs that the state or local governments would likely experience if the ballot measure were approved. If appropriate, the initiative financial information statement may include both estimated dollar amounts and a description placing the estimated dollar amounts into context. The initiative financial information statement must include both a summary of not more than 500 words and additional detailed information that includes the assumptions that were made to develop the financial impacts, workpapers, and any other information deemed relevant by the Financial Impact Estimating Conference.
+(g)
+The Department of State shall have printed, and shall furnish to each supervisor of elections, a copy of the summary from the initiative financial information statements. The supervisors shall have the summary from the initiative financial information statements available at each polling place and at the main office of the supervisor of elections upon request.
+(h)
+The Secretary of State and the Office of Economic and Demographic Research shall make available on the Internet each initiative financial information statement in its entirety. In addition, each supervisor of elections whose office has a website shall post the summary from each initiative financial information statement on the website. Each supervisor shall include a copy of each summary from the initiative financial information statements and the Internet addresses for the information statements on the Secretary of State’s and the Office of Economic and Demographic Research’s websites in the publication or mailing required by s. 101.20.
+(17)
+The Department of State may adopt rules in accordance with s. 120.54 to implement this section.
+(18)
+No provision of this code shall be deemed to prohibit a private person exercising lawful control over privately owned property, including property held open to the public for the purposes of a commercial enterprise, from excluding from such property persons seeking to engage in activity supporting or opposing initiative amendments.
+History.
+—
+s. 15, ch. 79-365; s. 12, ch. 83-251; s. 30, ch. 84-302; s. 22, ch. 97-13; s. 9, ch. 2002-281; s. 3, ch. 2002-390; s. 3, ch. 2004-33; s. 28, ch. 2005-278; s. 4, ch. 2006-119; s. 25, ch. 2007-30; s. 1, ch. 2007-231; s. 14, ch. 2008-95; s. 23, ch. 2011-40; s. 3, ch. 2019-64; s. 3, ch. 2020-15; s. 13, ch. 2022-73; s. 6, ch. 2025-21.
+1
+Note.
+—
+Section 20, ch. 2025-21, provides:
+“(1) To ensure uniformity and integrity in the initiative process, a signed petition form may not be verified between July 1, 2025, and September 30, 2025.
+“(2) A petition form gathered after July 1, 2025, must be delivered as provided in this act to the appropriate entity. The processing hold described in subsection (1) does not toll any timeframe requirements that petition circulators are required to meet and may not be used as a defense to any fine imposed for the late submission of any petition forms to the appropriate entity.”
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0101
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0101. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0101/0101.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 101
+VOTING METHODS AND PROCEDURE
+View Entire Chapter
+CHAPTER 101
+CHAPTER 101
+VOTING METHODS AND PROCEDURE
+101.001
+Precincts and polling places; boundaries.
+101.002
+Use of system by municipalities.
+101.015
+Standards for voting systems.
+101.017
+Bureau of Voting Systems Certification.
+101.019
+Ranked-choice voting prohibited.
+101.021
+Elector to vote the primary ballot of the political party in which he or she is registered.
+101.031
+Instructions for electors.
+101.041
+Secret voting.
+101.043
+Identification required at polls.
+101.045
+Electors must be registered in precinct; provisions for change of residence or name.
+101.048
+Provisional ballots.
+101.049
+Provisional ballots; special circumstances.
+101.051
+Electors seeking assistance in casting ballots; oath to be executed; forms to be furnished.
+101.111
+Voter challenges.
+101.131
+Watchers at polls.
+101.151
+Specifications for ballots.
+101.161
+Referenda; ballots.
+101.171
+Copy of constitutional amendment to be available at voting locations.
+101.20
+Publication of ballot form; sample ballots.
+101.21
+Official ballots; number; printing; payment.
+101.23
+Election inspector to keep list of those voting.
+101.24
+Ballot boxes and ballots.
+101.2512
+Candidates’ names on general election ballots.
+101.2515
+Translation of ballot language.
+101.252
+Candidates entitled to have names printed on certain ballots; exception.
+101.254
+When nominated names to appear in groups or districts.
+101.292
+Definitions; ss. 101.292-101.295.
+101.293
+Competitive sealed bids and proposals required.
+101.294
+Purchase and sale of voting equipment.
+101.295
+Penalties for violation.
+101.34
+Custody of voting system.
+101.341
+Prohibited activities by voting system custodians and deputy custodians.
+101.43
+Substitute ballot.
+101.49
+Procedure of election officers where signatures differ.
+101.51
+Electors to occupy booth alone.
+101.545
+Retention and destruction of certain election materials.
+101.5601
+Short title.
+101.5602
+Purpose.
+101.5603
+Definitions relating to Electronic Voting Systems Act.
+101.5604
+Adoption of system; procurement of equipment; commercial tabulations.
+101.56042
+Punch card type systems prohibited.
+101.5605
+Examination and approval of equipment.
+101.5606
+Requirements for approval of systems.
+101.56062
+Standards for accessible voting systems.
+101.56063
+Accessibility of voting systems and polling places; intent; eligibility for federal funding.
+101.56064
+Application for federal funds under ch. 2002-281.
+101.56065
+Voting system defects; disclosure; investigations; penalties.
+101.5607
+Department of State to maintain voting system information; prepare software.
+101.56075
+Voting methods.
+101.5608
+Voting by electronic or electromechanical method; procedures.
+101.5610
+Inspection of ballot by election board.
+101.5611
+Instructions to electors.
+101.5612
+Testing of tabulating equipment.
+101.5613
+Examination of equipment during voting.
+101.5614
+Canvass of returns.
+101.572
+Public inspection of ballots.
+101.58
+Supervising and observing registration and election processes.
+101.591
+Voting system audit.
+101.5911
+Rulemaking authority for voting system audit procedures.
+101.595
+Analysis and reports of voting problems.
+101.6101
+Short title.
+101.6102
+Mail ballot elections; limitations.
+101.6103
+Mail ballot election procedure.
+101.6104
+Challenge of votes.
+101.6105
+Vote-by-mail voting.
+101.6106
+Application of other election laws.
+101.6107
+Department of State to adopt rules.
+101.62
+Request for vote-by-mail ballots.
+101.64
+Delivery of vote-by-mail ballots; envelopes; form.
+101.65
+Instructions to absent electors.
+101.655
+Supervised voting by absent electors in certain facilities.
+101.657
+Early voting.
+101.661
+Voting vote-by-mail ballots.
+101.662
+Accessibility of vote-by-mail ballots.
+101.663
+Electors; change of residence to another state.
+101.665
+Administration of oaths; military personnel, federal employees, and other absentee registrants.
+101.67
+Safekeeping of mailed ballots; deadline for receiving vote-by-mail ballots.
+101.68
+Canvassing of vote-by-mail ballot.
+101.69
+Voting in person; return of vote-by-mail ballot.
+101.6921
+Delivery of special vote-by-mail ballot to certain first-time voters.
+101.6923
+Special vote-by-mail ballot instructions for certain first-time voters.
+101.6925
+Canvassing special vote-by-mail ballots.
+101.694
+Mailing of ballots upon receipt of federal postcard application.
+101.6951
+State write-in vote-by-mail ballot.
+101.6952
+Vote-by-mail ballots for absent uniformed services and overseas voters.
+101.697
+Electronic transmission of election materials.
+101.698
+Absentee voting in emergency situations.
+101.71
+Polling place.
+101.715
+Accessibility of polling places for people having a disability.
+101.731
+Short title.
+101.732
+Definitions relating to Elections Emergency Act.
+101.733
+Election emergency; purpose; elections emergency contingency plan.
+101.74
+Temporary change of polling place in case of emergency.
+101.75
+Municipal elections; change of dates for cause.
+101.001
+Precincts and polling places; boundaries.
+—
+(1)
+The board of county commissioners in each county, upon recommendation and approval of the supervisor, shall alter or create precincts for voting in the county. Each precinct shall be numbered and, as nearly as practicable, composed of contiguous and compact areas. The supervisor shall designate a polling place at a suitable location within each precinct. The precinct shall not be changed thereafter except with the consent of the supervisor and a majority of the members of the board of county commissioners. The board of county commissioners and the supervisor may have precinct boundaries conform to municipal boundaries in accordance with the provisions of s. 101.002, but, in any event, the registration books shall be maintained in such a manner that there may be determined therefrom the total number of electors in each municipality.
+(2)
+When in any election there are fewer than 25 registered electors of the only political party having candidates on the ballot at any precinct, such precinct may be combined with other adjoining precincts upon the recommendation of the supervisor and the approval of the county commissioners. Notice of the combination of precincts shall be given in the same manner as provided in s. 101.71(2).
+(3)(a)
+Each supervisor of elections shall maintain a geographical information system map clearly delineating all major observable features such as roads, streams, and railway lines and showing the current geographical boundaries of each precinct, representative district, and senatorial district, and other type of district in the county subject to the elections process in this code. A supervisor may coordinate with other governmental entities to comply with this subsection.
+(b)
+The supervisor of elections shall notify the Secretary of State in writing within 10 days after any reorganization of precincts and shall furnish a copy of the geographical information system compatible map showing the geographical boundaries and designation of each new precinct.
+(c)
+Any precinct established or altered under this section must consist of areas bounded on all sides only by census block boundaries from the most recent United States Census. If the census block boundaries split or conflict with a municipal or other political subdivision boundary, the boundary listed below may be used as a precinct boundary:
+1.
+Governmental unit boundaries reported in the most recent Boundary and Annexation Survey published by the United States Census Bureau; or
+2.
+Boundaries of counties, incorporated municipalities, or other political subdivisions that meet criteria established by the United States Census Bureau for block boundaries.
+(4)(a)
+Within 10 days after there is any change in the division, name, number, or boundaries of the precincts, or the location of the polling places, the supervisor of elections shall make in writing an accurate description of any new or altered precincts, setting forth the boundary lines and shall identify the location of each new or altered polling place. A copy of the document describing such changes must be posted at the supervisor’s office.
+(b)
+Any changes in the county precinct data shall be provided to the department within 10 days after a change.
+(c)
+Precinct data shall include all precincts for which precinct-level election results and voting history results are reported.
+History.
+—
+s. 10, ch. 3879, 1889; RS 164; s. 11, ch. 4328, 1895; GS 184; RGS 228; CGL 281; s. 2, ch. 24203, 1947; s. 6, ch. 25383, 1949; s. 2, ch. 26329, 1949; s. 2, ch. 26870, 1951; s. 4, ch. 29934, 1955; s. 3, ch. 57-166; s. 1, ch. 59-281; s. 1, ch. 67-169; s. 1, ch. 72-25; s. 3, ch. 73-155; s. 1, ch. 76-60; s. 1, ch. 76-121; s. 1, ch. 76-233; s. 4, ch. 77-175; s. 1, ch. 80-189; s. 11, ch. 80-292; s. 4, ch. 81-304; s. 26, ch. 84-302; s. 24, ch. 94-224; s. 1390, ch. 95-147; s. 54, ch. 97-13; s. 29, ch. 2005-278; s. 24, ch. 2011-40; s. 21, ch. 2023-120.
+Note.
+—
+Former s. 98.23; s. 98.031.
+101.002
+Use of system by municipalities.
+—
+(1)
+The board of county commissioners, with the concurrence of the supervisor of elections, may arrange the boundaries of the precincts in each municipality within the county to conform to the boundaries of the municipality, subject to the concurrence of the governing body of the municipality. All binders, files, and other equipment or materials necessary for the permanent registration system shall be furnished by the board of county commissioners.
+(2)
+The supervisor of elections shall deliver the records required for a municipal election to the municipal elections boards or other appropriate elections officials before the election and collect them after the election. The municipality shall reimburse the county for the actual costs incurred.
+(3)
+Any person who is a duly registered elector pursuant to this code and who resides within the boundaries of a municipality is qualified to participate in all municipal elections, the provisions of special acts or local charters notwithstanding. Electors who are not registered under the permanent registration system shall not be permitted to vote.
+History.
+—
+s. 4, ch. 25391, 1949; s. 2, ch. 26870, 1951; s. 10, ch. 27991, 1953; s. 2, ch. 29761, 1955; s. 1, ch. 57-136; s. 1, ch. 63-268; s. 6, ch. 65-134; s. 2, ch. 73-155; s. 5, ch. 77-175; s. 31, ch. 94-224.
+Note.
+—
+Former s. 97.04; s. 98.091.
+101.015
+Standards for voting systems.
+—
+(1)
+The Department of State shall adopt rules which establish minimum standards for hardware and software for electronic and electromechanical voting systems. Such rules shall contain standards for:
+(a)
+Functional requirements;
+(b)
+Performance levels;
+(c)
+Physical and design characteristics;
+(d)
+Documentation requirements; and
+(e)
+Evaluation criteria.
+(2)
+Each odd-numbered year the Department of State shall review the rules governing standards and certification of voting systems to determine the adequacy and effectiveness of such rules in assuring that elections are fair and impartial.
+(3)
+The Department of State shall adopt rules to achieve and maintain the maximum degree of correctness, impartiality, and efficiency of the procedures of voting, including write-in voting, and of counting, tabulating, and recording votes by voting systems used in this state.
+(4)(a)
+The Department of State shall adopt rules establishing minimum security standards for voting systems. The standards, at a minimum, must address the following:
+1.
+Chain of custody of ballots, including a detailed description of procedures to create a complete written record of the chain of custody of ballots and paper outputs beginning with their receipt from a printer or manufacturer until such time as they are destroyed.
+2.
+Transport of ballots, including a description of the method and equipment used and a detailed list of the names of all individuals involved in such transport.
+3.
+Ballot security, including a requirement that all ballots be kept in a locked room in the supervisor’s office, a facility controlled by the supervisor or county canvassing board, or a public place in which the county canvassing board is canvassing votes until needed for canvassing and returned thereafter.
+(b)1.
+Each supervisor shall establish written procedures to assure accuracy and security in his or her county, including procedures related to early voting pursuant to s. 101.657. Such procedures shall be reviewed in each odd-numbered year by the department.
+2.
+Each supervisor shall submit any revisions to the security procedures to the department at least 45 days before early voting commences pursuant to s. 101.657 in an election in which they are to take effect.
+(5)(a)
+The Department of State shall adopt rules which establish standards for provisional approval of hardware and software for innovative use of electronic and electromechanical voting systems. Such rules shall contain standards for:
+1.
+Functional requirements;
+2.
+Performance levels;
+3.
+Physical and design characteristics;
+4.
+Documentation requirements;
+5.
+Evaluation criteria;
+6.
+Audit capabilities; and
+7.
+Consideration of prior use of a system.
+(b)
+A voting system shall be provisionally approved for a total of no more than 2 years, and the Department of State has the authority to revoke such approval. Provisional approval of a system shall not be granted by the Department of State to supersede certification requirements of this section.
+(c)1.
+No provisionally approved system may be used in any election, including any municipal election, without the authorization of the Department of State.
+2.
+An application for use of a provisionally approved system shall be submitted at least 120 days prior to the intended use by the supervisor of elections or municipal elections official. Such application shall request authorization for use of the system in a specific election. Each application shall state the election, the number of precincts, and the number of anticipated voters for which the system is requested for use.
+3.
+The Department of State shall authorize or deny authorization of the use of the provisionally approved system for the specific election and shall notify the supervisor of elections or municipal elections official in writing of the authorization or denial of authorization, along with the reasons therefor, within 45 days after receipt of the application.
+(d)
+A contract for the use of a provisionally approved system for a specific election may be entered into with the approval of the Department of State. No contract for title to a provisionally approved system may be entered into.
+(e)
+The use of any provisionally approved system shall be valid for all purposes.
+(6)
+All electronic and electromechanical voting systems purchased on or after January 1, 1990, must meet the minimum standards established under subsection (1). All electronic and electromechanical voting systems in use on or after July 1, 1993, must meet the minimum standards established under subsection (1) or subsection (5).
+(7)
+The Division of Elections shall review the voting systems certification standards and ensure that new technologies are available for selection by boards of county commissioners which meet the requirements for voting systems and meet user standards. The Division of Elections shall continuously review the voting systems certification standards to ensure that new technologies are appropriately certified for all elections in a timely manner. The division shall also develop methods to determine the will of the public with respect to voting systems.
+History.
+—
+s. 4, ch. 89-348; s. 16, ch. 90-315; s. 551, ch. 95-147; s. 6, ch. 2001-40; s. 10, ch. 2004-252; s. 7, ch. 2019-162.
+101.017
+Bureau of Voting Systems Certification.
+—
+There is created a Bureau of Voting Systems Certification within the Division of Elections of the Department of State which shall provide technical support to the supervisors of elections and which is responsible for voting system standards and certification. The positions necessary for the bureau to accomplish its duties shall be established through the budgetary process.
+History.
+—
+s. 16, ch. 89-348; s. 20, ch. 90-315.
+Note.
+—
+Former s. 102.1691.
+101.019
+Ranked-choice voting prohibited.
+—
+(1)
+A ranked-choice voting method that allows voters to rank candidates for an office in order of preference and has ballots cast to be tabulated in multiple rounds following the elimination of a candidate until a single candidate attains a majority may not be used in determining the election or nomination of any candidate to any local, state, or federal elective office in this state.
+(2)
+Any existing or future ordinance enacted or adopted by a county, a municipality, or any other local governmental entity which is in conflict with this section is void.
+History.
+—
+s. 14, ch. 2022-73; s. 24, ch. 2023-8.
+101.021
+Elector to vote the primary ballot of the political party in which he or she is registered.
+—
+In a primary election a qualified elector is entitled to vote the official primary election ballot of the political party designated in the elector’s registration, and no other. It is unlawful for any elector to vote in a primary for any candidate running for nomination from a party other than that in which such elector is registered.
+History.
+—
+s. 41, ch. 6469, 1913; RGS 345; CGL 402; s. 5, ch. 26870, 1951; s. 21, ch. 28156, 1953; s. 13, ch. 77-175; s. 552, ch. 95-147.
+Note.
+—
+Former s. 102.40.
+101.031
+Instructions for electors.
+—
+(1)
+The Department of State, or in case of municipal elections the governing body of the municipality, shall print, in large type on cards, instructions for the electors to use in voting. It shall provide not less than two cards for each voting precinct for each election and furnish such cards to each supervisor upon requisition. Each supervisor of elections shall send a sufficient number of these cards to the precincts prior to an election. The election inspectors shall display the cards in the polling places as information for electors. The cards shall contain information about how to vote and such other information as the Department of State may deem necessary. The cards must also include the list of rights and responsibilities afforded to Florida voters, as described in subsection (2).
+(2)
+The supervisor of elections in each county shall have posted at each polling place in the county the Voter’s Bill of Rights and Responsibilities in the following form:
+VOTER’S BILL OF RIGHTS
+Each registered voter in this state has the right to:
+1. Vote and have his or her vote accurately counted.
+2. Cast a vote if he or she is in line at the official closing of the polls in that county.
+3. Ask for and receive assistance in voting.
+4. Receive up to two replacement ballots if he or she makes a mistake prior to the ballot being cast.
+5. An explanation if his or her registration or identity is in question.
+6. If his or her registration or identity is in question, cast a provisional ballot.
+7. Written instructions to use when voting, and, upon request, oral instructions in voting from elections officers.
+8. Vote free from coercion or intimidation by elections officers or any other person.
+9. Vote on a voting system that is in working condition and that will allow votes to be accurately cast.
+VOTER RESPONSIBILITIES
+Each registered voter in this state should:
+1. Familiarize himself or herself with the candidates and issues.
+2. Maintain with the office of the supervisor of elections a current address.
+3. Know the location of his or her polling place and its hours of operation.
+4. Bring proper identification to the polling station.
+5. Familiarize himself or herself with the operation of the voting equipment in his or her precinct.
+6. Treat precinct workers with courtesy.
+7. Respect the privacy of other voters.
+8. Report any problems or violations of election laws to the supervisor of elections.
+9. Ask questions, if needed.
+10. Make sure that his or her completed ballot is correct before leaving the polling station.
+NOTE TO VOTER: Failure to perform any of these responsibilities does not prohibit a voter from voting.
+(3)
+Nothing in this section shall give rise to a legal cause of action.
+(4)
+In case any elector, after entering the voting booth, shall ask for further instructions concerning the manner of voting, two election officers who are not both members of the same political party, if present, or, if not, two election officers who are members of the same political party, shall give such instructions to such elector, but no officer or person assisting an elector shall in any manner request, suggest, or seek to persuade or induce any elector to vote for or against any particular ticket, candidate, amendment, question, or proposition. After giving the elector instructions and before the elector has voted, the officers or persons assisting the elector shall retire, and such elector shall vote in secret.
+History.
+—
+s. 40, ch. 4328, 1895; s. 12, ch. 4537, 1897; GS 225; RGS 270; CGL 326; s. 1, ch. 25106, 1949; s. 5, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 25, ch. 77-104; s. 13, ch. 77-175; s. 31, ch. 79-400; s. 60, ch. 2001-40; s. 5, ch. 2002-17; s. 22, ch. 2005-277.
+Note.
+—
+Former s. 99.24.
+101.041
+Secret voting.
+—
+In all elections held on any subject which may be submitted to a vote, and for all or any state, county, district, or municipal officers, the voting shall be by secret, official ballot as provided by this code, and no vote shall be received or counted in any election, except as prescribed by this code.
+History.
+—
+s. 24, ch. 3879, 1889; RS 178; s. 28, ch. 4328, 1895; GS 210; RGS 254; CGL 310; s. 3, ch. 17898, 1937; s. 5, ch. 26870, 1951; s. 13, ch. 77-175; s. 15, ch. 2008-95.
+Note.
+—
+Former s. 99.08.
+101.043
+Identification required at polls.
+—
+(1)(a)
+The precinct register, as prescribed in s. 98.461, shall be used at the polls for the purpose of identifying the elector at the polls before allowing him or her to vote. The clerk or inspector shall require each elector, upon entering the polling place, to present one of the following current and valid picture identifications:
+1.
+Florida driver license.
+2.
+Florida identification card issued by the Department of Highway Safety and Motor Vehicles.
+3.
+United States passport.
+4.
+Debit or credit card.
+5.
+Military identification.
+6.
+Student identification.
+7.
+Retirement center identification.
+8.
+Neighborhood association identification.
+9.
+Public assistance identification.
+10.
+Veteran health identification card issued by the United States Department of Veterans Affairs.
+11.
+A license to carry a concealed weapon or firearm issued pursuant to s. 790.06.
+12.
+Employee identification card issued by any branch, department, agency, or entity of the Federal Government, the state, a county, or a municipality.
+(b)
+If the picture identification does not contain the signature of the elector, an additional identification that provides the elector’s signature shall be required. The address appearing on the identification presented by the elector may not be used as the basis to challenge an elector’s legal residence. The elector shall sign his or her name in the space provided on the precinct register or on an electronic device provided for recording the elector’s signature. The clerk or inspector shall compare the signature with that on the identification provided by the elector and enter his or her initials in the space provided on the precinct register or on an electronic device provided for that purpose and allow the elector to vote if the clerk or inspector is satisfied as to the identity of the elector.
+(2)
+If the elector fails to furnish the required identification, the elector shall be allowed to vote a provisional ballot. The canvassing board shall determine the validity of the ballot pursuant to s. 101.048(2).
+History.
+—
+s. 1, ch. 77-267; s. 533, ch. 95-147; s. 10, ch. 98-129; s. 3, ch. 2001-40; s. 13, ch. 2003-415; s. 23, ch. 2005-277; s. 30, ch. 2005-278; s. 26, ch. 2007-30; s. 25, ch. 2011-40; s. 2, ch. 2016-167; s. 15, ch. 2022-73.
+Note.
+—
+Former s. 98.471.
+101.045
+Electors must be registered in precinct; provisions for change of residence or name.
+—
+(1)
+A person is not permitted to vote in any election precinct or district other than the one in which the person has his or her legal residence and in which the person is registered. However, a person temporarily residing outside the county shall be registered in the precinct in which the main office of the supervisor, as designated by the supervisor, is located when the person has no permanent address in the county and it is the person’s intention to remain a resident of Florida and of the county in which he or she is registered to vote. Such persons who are registered in the precinct in which the main office of the supervisor, as designated by the supervisor, is located and who are residing outside the county with no permanent address in the county shall not be registered electors of a municipality and therefore shall not be permitted to vote in any municipal election.
+(2)(a)
+An elector who moves from the precinct in which the elector is registered may vote in the precinct to which he or she has moved his or her legal residence, if the change of residence is within the same county or the precinct to which the elector has moved his or her legal residence is within a county that uses an electronic database as a precinct register at the polling place, and the elector completes an affirmation in substantially the following form:
+Change of Legal Residence
+of Registered Voter
+Under penalties for false swearing, I,
+(Name of voter)
+, swear (or affirm) that the former address of my legal residence was
+(Address of legal residence)
+in the municipality of
+, in
+County, Florida, and I was registered to vote in the
+precinct of
+County, Florida; that I have not voted in the precinct of my former registration in this election; that I now reside at
+(Address of legal residence)
+in the Municipality of
+, in
+County, Florida, and am therefore eligible to vote in the
+precinct of
+County, Florida; and I further swear (or affirm) that I am otherwise legally registered and entitled to vote.
+(Signature of voter whose address of legal residence has changed)
+(b)
+Except for an active uniformed services voter or a member of his or her family and except for an elector who has moved his or her legal residence to a precinct within a county that uses an electronic database as a precinct register at the polling place, an elector whose change of address is from outside the county may not change his or her legal residence at the polling place and must vote a provisional ballot.
+(c)
+An elector whose name changes because of marriage or other legal process may be permitted to vote, provided such elector completes an affirmation in substantially the following form:
+Change of Name
+of Registered Voter
+Under penalties for false swearing, I,
+(New name of voter)
+, swear (or affirm) that my name has been changed because of marriage or other legal process. My former name and address of legal residence appear on the registration records of precinct
+as follows:
+Name
+Address
+Municipality
+County
+Florida, Zip
+My present name and address of legal residence are as follows:
+Name
+Address
+Municipality
+County
+Florida, Zip
+and I further swear (or affirm) that I am otherwise legally registered and entitled to vote.
+(Signature of voter whose name has changed)
+(d)
+Instead of the affirmation contained in paragraph (a) or paragraph (c), an elector may complete a voter registration application that indicates the change of name or change of address of legal residence.
+(e)
+Such affirmation or application, when completed and presented at the precinct in which such elector is entitled to vote, and upon verification of the elector’s registration, shall entitle such elector to vote as provided in this subsection. If the elector’s eligibility to vote cannot be determined, he or she shall be entitled to vote a provisional ballot, subject to the requirements and procedures in s. 101.048. Upon receipt of an affirmation or application certifying a change in address of legal residence or name, the supervisor shall as soon as practicable make the necessary changes in the statewide voter registration system to indicate the change in address of legal residence or name of such elector.
+History.
+—
+s. 13, ch. 3879, 1889; RS 167; s. 15, ch. 4328, 1895; GS 192; RGS 236; CGL 289; s. 4, ch. 24203, 1947; s. 11, ch. 25035, 1949; s. 1, ch. 26870, 1951; s. 4, ch. 28156, 1953; s. 7, ch. 65-60; s. 1, ch. 71-307; s. 3, ch. 77-175; s. 6, ch. 78-403; s. 4, ch. 80-292; s. 5, ch. 89-338; s. 20, ch. 94-224; s. 1391, ch. 95-147; s. 36, ch. 2001-40; s. 31, ch. 2005-278; s. 16, ch. 2008-95; s. 26, ch. 2011-40; s. 4, ch. 2013-57.
+Note.
+—
+Former s. 98.32; s. 97.091.
+101.048
+Provisional ballots.
+—
+(1)
+At all elections, a voter claiming to be properly registered in the state and eligible to vote at the precinct in the election but whose eligibility cannot be determined, a person whom an election official asserts is not eligible, including, but not limited to, a person to whom notice has been sent pursuant to s. 98.075(7), but for whom a final determination of eligibility has not been made, and other persons specified in the code shall be entitled to vote a provisional ballot. Once voted, the provisional ballot must be placed in a secrecy envelope and thereafter sealed in a provisional ballot envelope. The provisional ballot must be deposited in a ballot box. All provisional ballots must remain sealed in their envelopes for return to the supervisor of elections. The department shall prescribe the form of the provisional ballot envelope. A person casting a provisional ballot has the right to present written evidence supporting his or her eligibility to vote to the supervisor of elections by not later than 5 p.m. on the second day following the election.
+(2)(a)
+The county canvassing board shall examine each Provisional Ballot Voter’s Certificate and Affirmation to determine if the person voting that ballot was entitled to vote at the precinct where the person cast a vote in the election and that the person had not already cast a ballot in the election. In determining whether a person casting a provisional ballot is entitled to vote, the county canvassing board shall review the information provided in the Voter’s Certificate and Affirmation, written evidence provided by the person pursuant to subsection (1), information provided in any cure affidavit and accompanying supporting documentation pursuant to subsection (6), any other evidence presented by the supervisor, and, in the case of a challenge, any evidence presented by the challenger. A ballot of a person casting a provisional ballot shall be canvassed pursuant to paragraph (b) unless the canvassing board determines by a preponderance of the evidence that the person was not entitled to vote.
+(b)
+If it is determined that the person was registered and entitled to vote at the precinct where the person cast a vote in the election, the canvassing board must compare the signature on the Provisional Ballot Voter’s Certificate and Affirmation or the provisional ballot cure affidavit with the signature on the voter’s registration or precinct register. A provisional ballot may be counted only if:
+1.
+The signature on the voter’s certificate or the cure affidavit matches the elector’s signature in the registration books or the precinct register; however, in the case of a cure affidavit, the supporting identification listed in subsection (6) must also confirm the identity of the elector; or
+2.
+The cure affidavit contains a signature that does not match the elector’s signature in the registration books or the precinct register, but the elector has submitted a current and valid Tier 1 form of identification confirming his or her identity pursuant to subsection (6).
+For purposes of this paragraph, any canvassing board finding that signatures do not match must be by majority vote and beyond a reasonable doubt.
+(c)
+Any provisional ballot not counted must remain in the envelope containing the Provisional Ballot Voter’s Certificate and Affirmation and the envelope shall be marked “Rejected as Illegal.”
+(d)
+If a provisional ballot is validated following the submission of a cure affidavit, the supervisor must make a copy of the affidavit, affix it to a voter registration application, and immediately process it as a valid request for a signature update pursuant to s. 98.077.
+(3)
+The Provisional Ballot Voter’s Certificate and Affirmation shall be in substantially the following form:
+STATE OF FLORIDA
+COUNTY OF
+I do solemnly swear (or affirm) that my name is
+; that my date of birth is
+; that I am registered and qualified to vote in
+County, Florida; that I am registered in the
+Party; that I am a qualified voter of the county; and that I have not voted in this election. I understand that if I commit any fraud in connection with voting, vote a fraudulent ballot, or vote more than once in an election, I can be convicted of a felony of the third degree and fined up to $5,000 and/or imprisoned for up to 5 years. Further, by providing my information below, I authorize the use of e-mail, text message, and telephone call for the limited purpose of signature and ballot validation.
+(Printed Name of Voter)
+(Signature of Voter)
+(Current Residence Address)
+(Current Mailing Address)
+(City, State, Zip Code)
+(Driver License Number or Last Four Digits of Social Security Number)
+(E-Mail Address)
+(Home Telephone Number)
+(Mobile Telephone Number)
+Sworn to and subscribed before me this
+day of
+,
+(year)
+.
+(Election Official)
+Precinct #
+Ballot Style/Party Issued:
+(4)
+Notwithstanding the requirements of subsections (1), (2), and (3), the supervisor of elections may, and for persons with disabilities shall, provide the appropriate provisional ballot to the voter by electronic means that meet the requirements of s. 101.56062, as provided for by the certified voting system. Each person casting a provisional ballot by electronic means shall, prior to casting his or her ballot, complete the Provisional Ballot Voter’s Certificate and Affirmation as provided in subsection (3).
+(5)
+Each person casting a provisional ballot shall be given written instructions regarding the person’s right to provide the supervisor with written evidence of his or her eligibility to vote and regarding the free access system established pursuant to subsection (7). The instructions must contain the supervisor’s contact information along with information on how to access the system and the information the voter will need to provide to obtain information on his or her particular ballot. The instructions shall also include the following statement: “If this is a primary election, you should contact the supervisor of elections’ office immediately to confirm that you are registered and can vote in the general election.”
+(6)(a)
+As soon as practicable, the supervisor shall, on behalf of the county canvassing board, attempt to notify an elector who has submitted a provisional ballot that does not include the elector’s signature or contains a signature that does not match the elector’s signature in the registration books or precinct register by:
+1.
+Notifying the elector of the signature deficiency by e-mail and directing the elector to the cure affidavit and instructions on the supervisor’s website;
+2.
+Notifying the elector of the signature deficiency by text message and directing the elector to the cure affidavit and instructions on the supervisor’s website; or
+3.
+Notifying the elector of the signature deficiency by telephone and directing the elector to the cure affidavit and instructions on the supervisor’s website.
+In addition to the notification required under subparagraph 1., subparagraph 2., or subparagraph 3., the supervisor must notify the elector of the signature deficiency by first-class mail and direct the elector to the cure affidavit and instructions on the supervisor’s website. Beginning the day before the election, the supervisor is not required to provide notice of the signature deficiency by first-class mail, but shall continue to provide notice as required in subparagraph 1., subparagraph 2., or subparagraph 3.
+(b)
+Until 5 p.m. on the 2nd day after an election, the supervisor shall allow an elector who has submitted a provisional ballot with a signature deficiency to complete and submit a cure affidavit.
+(c)
+The elector must complete a cure affidavit in substantially the following form:
+PROVISIONAL BALLOT CURE AFFIDAVIT
+I,
+, am a qualified voter in this election and a registered voter of
+County, Florida. I do solemnly swear or affirm that I voted a provisional ballot and that I have not and will not vote more than one ballot in this election. I understand that if I commit or attempt any fraud in connection with voting, vote a fraudulent ballot, or vote more than once in an election, I may be convicted of a felony of the third degree, fined up to $5,000, and imprisoned for up to 5 years. I understand that my failure to sign this affidavit will invalidate my ballot.
+(Voter’s Signature)
+(Address)
+(d)
+Instructions must accompany the cure affidavit in substantially the following form:
+READ THESE INSTRUCTIONS CAREFULLY BEFORE COMPLETING THE AFFIDAVIT. FAILURE TO FOLLOW THESE INSTRUCTIONS MAY CAUSE YOUR BALLOT NOT TO COUNT.
+1. In order to cure the missing signature or the signature discrepancy on your Provisional Ballot Voter’s Certificate and Affirmation, your affidavit should be completed and returned as soon as possible so that it can reach the supervisor of elections of the county in which your precinct is located no later than 5 p.m. on the 2nd day after the election.
+2. You must sign your name on the line above (Voter’s Signature).
+3. You must make a copy of one of the following forms of identification:
+a. Tier 1 identification.
+—
+Current and valid identification that includes your name and photograph: Florida driver license; Florida identification card issued by the Department of Highway Safety and Motor Vehicles; United States passport; debit or credit card; military identification; student identification; retirement center identification; neighborhood association identification; public assistance identification; veteran health identification card issued by the United States Department of Veterans Affairs; Florida license to carry a concealed weapon or firearm; or employee identification card issued by any branch, department, agency, or entity of the Federal Government, the state, a county, or a municipality; or
+b. Tier 2 identification.
+—
+ONLY IF YOU DO NOT HAVE A TIER 1 FORM OF IDENTIFICATION, identification that shows your name and current residence address: current utility bill; bank statement; government check; paycheck; or government document (excluding voter information card).
+4. Place the envelope bearing the affidavit into a mailing envelope addressed to the supervisor. Insert a copy of your identification in the mailing envelope. Mail (if time permits), deliver, or have delivered the completed affidavit along with the copy of your identification to your county supervisor of elections. Be sure there is sufficient postage if mailed and that the supervisor’s address is correct. Remember, your information MUST reach your county supervisor of elections no later than 5 p.m. on the 2nd day following the election or your ballot will not count.
+5. Alternatively, you may fax or e-mail your completed affidavit and a copy of your identification to the supervisor of elections. If e-mailing, please provide these documents as attachments.
+6. Submitting a provisional ballot affidavit does not establish your eligibility to vote in this election or guarantee that your ballot will be counted. The county canvassing board determines your eligibility to vote through information provided on the Provisional Ballot Voter’s Certificate and Affirmation, written evidence provided by you, including information in your cure affidavit along with any supporting identification, and any other evidence presented by the supervisor of elections or a challenger. You may still be required to present additional written evidence to support your eligibility to vote.
+(e)
+The department and each supervisor shall include the affidavit and instructions on their respective websites. The supervisor shall include his or her office mailing address, e-mail address, and fax number on the page containing the affidavit instructions, and the department’s instruction page shall include the office mailing addresses, e-mail addresses, and fax numbers of all supervisors or provide a conspicuous link to such addresses.
+(f)
+The supervisor shall attach each affidavit received to the appropriate provisional ballot envelope containing the Provisional Ballot Voter’s Certificate and Affirmation.
+(7)(a)
+Each supervisor shall establish a free access system that allows each person who casts a provisional ballot to determine whether his or her provisional ballot was counted in the final canvass of votes and, if not, the reasons why. Information regarding provisional ballots shall be available no later than 30 days following the election. The system established must restrict information regarding an individual ballot to the person who cast the ballot.
+(b)
+Unless processed as a signature update pursuant to subsection (2), the supervisor shall mail a voter registration application to the elector to be completed indicating the elector’s current signature if the signature on the voter’s certificate or cure affidavit did not match the elector’s signature in the registration books or precinct register.
+History.
+—
+s. 35, ch. 2001-40; s. 6, ch. 2002-17; s. 15, ch. 2003-415; s. 24, ch. 2005-277; s. 32, ch. 2005-278; s. 27, ch. 2007-30; s. 8, ch. 2019-162; s. 22, ch. 2023-120.
+101.049
+Provisional ballots; special circumstances.
+—
+(1)
+Any person who votes in an election after the regular poll-closing time pursuant to a court or other order extending the statutory polling hours must vote a provisional ballot. Once voted, the provisional ballot shall be placed in a secrecy envelope and thereafter sealed in a provisional ballot envelope. The election official witnessing the voter’s subscription and affirmation on the Provisional Ballot Voter’s Certificate shall indicate whether or not the voter met all requirements to vote a regular ballot at the polls. All such provisional ballots shall remain sealed in their envelopes and be transmitted to the supervisor of elections.
+(2)
+Separate and apart from all other ballots, the county canvassing board shall count all late-voted provisional ballots that the canvassing board determines to be valid.
+(3)
+The supervisor shall ensure that late-voted provisional ballots are not commingled with other ballots during the canvassing process or at any other time they are statutorily required to be in the supervisor’s possession.
+(4)
+This section shall not apply to voters in line at the poll-closing time provided in s. 100.011 who cast their ballots subsequent to that time.
+(5)
+As an alternative, provisional ballots cast pursuant to this section may, and for persons with disabilities shall, be cast in accordance with the provisions of s. 101.048(4).
+History.
+—
+s. 16, ch. 2003-415; s. 3, ch. 2004-5; s. 25, ch. 2005-277.
+101.051
+Electors seeking assistance in casting ballots; oath to be executed; forms to be furnished.
+—
+(1)
+Any elector applying to vote in any election who requires assistance to vote by reason of blindness, disability, or inability to read or write may request the assistance of two election officials or some other person of the elector’s own choice, other than the elector’s employer, an agent of the employer, or an officer or agent of his or her union, to assist the elector in casting his or her vote. Any such elector, before retiring to the voting booth, may have one of such persons read over to him or her, without suggestion or interference, the titles of the offices to be filled and the candidates therefor and the issues on the ballot. After the elector requests the aid of the two election officials or the person of the elector’s choice, they shall retire to the voting booth for the purpose of casting the elector’s vote according to the elector’s choice.
+(2)
+It is unlawful for any person to be in the voting booth with any elector except as provided in subsection (1). A person at a polling place, a secure ballot intake station location, or an early voting site, or within 150 feet of a secure ballot intake station location or the entrance of a polling place or an early voting site, may not solicit any elector in an effort to provide assistance to vote pursuant to subsection (1). Any person who violates this subsection commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(3)
+Any elector applying to cast a vote-by-mail ballot in the office of the supervisor, in any election, who requires assistance to vote by reason of blindness, disability, or inability to read or write may request the assistance of some person of his or her own choice, other than the elector’s employer, an agent of the employer, or an officer or agent of his or her union, in casting his or her vote-by-mail ballot.
+(4)
+If an elector needs assistance in voting pursuant to the provisions of this section, the clerk or one of the inspectors shall require the elector requesting assistance in voting to take the following oath:
+DECLARATION TO SECURE ASSISTANCE
+State of Florida
+County of
+Date
+Precinct
+I,
+(Print name)
+, swear or affirm that I am a registered elector and request assistance from
+(Print names)
+in voting at the
+(name of election)
+held on
+(date of election)
+.
+(Signature of voter)
+Sworn and subscribed to before me this
+day of
+,
+(year)
+.
+(Signature of Official Administering Oath)
+(5)
+If an elector needing assistance requests that a person other than an election official provide him or her with assistance in voting, the clerk or one of the inspectors shall require the person providing assistance to take the following oath:
+DECLARATION TO PROVIDE ASSISTANCE
+State of Florida
+County of
+Date
+Precinct
+I,
+(Print name)
+, have been requested by
+(print name of elector needing assistance)
+to provide him or her with assistance to vote. I swear or affirm that I am not the employer, an agent of the employer, or an officer or agent of the union of the voter and that I have not solicited this voter at the polling place, secure ballot intake station location, or early voting site or within 150 feet of such locations in an effort to provide assistance.
+(Signature of assistor)
+Sworn and subscribed to before me this
+day of
+,
+(year)
+.
+(Signature of Official Administering Oath)
+(6)
+The supervisor of elections shall deliver a sufficient number of these forms to each precinct, along with other election paraphernalia.
+History.
+—
+s. 3, ch. 22018, 1943; s. 5, ch. 26870, 1951; s. 2, ch. 59-446; s. 2, ch. 65-60; s. 1, ch. 65-380; s. 13, ch. 77-175; s. 2, ch. 79-366; s. 31, ch. 84-302; s. 12, ch. 85-226; s. 553, ch. 95-147; s. 8, ch. 99-6; s. 10, ch. 2002-281; s. 26, ch. 2005-277; s. 9, ch. 2006-1; s. 9, ch. 2016-37; s. 16, ch. 2021-11; s. 16, ch. 2022-73.
+Note.
+—
+Former s. 100.36.
+101.111
+Voter challenges.
+—
+(1)(a)
+Any registered elector or poll watcher of a county may challenge the right of a person to vote in that county. The challenge must be in writing and contain the following oath, which shall be delivered to the clerk or inspector:
+OATH OF PERSON ENTERING CHALLENGE
+State of Florida
+County of
+I do solemnly swear or affirm that my name is
+; that I am a member of the
+Party; that I am a registered voter or pollwatcher; that my residence address is
+, in the municipality of
+; and that I have reason to believe that
+is attempting to vote illegally and the reasons for my belief are set forth herein to wit:
+(Signature of person challenging voter)
+Sworn and subscribed to before me this
+day of
+,
+(year)
+.
+(Clerk of election)
+(b)1.
+The clerk or inspector shall immediately deliver to the challenged person a copy of the oath of the person entering the challenge, and the challenged voter shall be allowed to cast a provisional ballot in accordance with s. 101.048, except as provided in subparagraph 2.
+2.
+If the basis for the challenge is that the person’s legal residence is not in that precinct, the person shall first be given the opportunity to execute a change of legal residence in order to be able to vote a regular ballot in accordance with s. 101.045(2). If the change of legal residence is such that the person is then properly registered for that precinct, the person shall be allowed to vote a regular ballot. If the change of legal residence places the person in another precinct, the person shall be directed to the proper precinct to vote. If such person insists that he or she is currently in the proper precinct, the person shall be allowed to vote a provisional ballot in accordance with s. 101.048.
+(c)
+Alternatively, a challenge in accordance with this section may be filed in advance with the supervisor of elections no sooner than 30 days before an election. The supervisor shall promptly provide the election board in the challenged voter’s precinct with a copy of the oath of the person entering the challenge. The challenged voter shall be allowed to cast a provisional ballot in accordance with s. 101.048, subject to the provisions of subparagraph (b)2.
+(2)
+Any elector or poll watcher filing a frivolous challenge of any person’s right to vote commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083; however, electors or poll watchers shall not be subject to liability for any action taken in good faith and in furtherance of any activity or duty permitted of such electors or poll watchers by law. Each instance where any elector or poll watcher files a frivolous challenge of any person’s right to vote constitutes a separate offense.
+History.
+—
+s. 43, ch. 4328, 1895; GS 227; s. 43, ch. 6469, 1913; RGS 272, 347; CGL 328, 404; s. 5, ch. 26870, 1951; s. 10, ch. 27991, 1953; s. 23, ch. 28156, 1953; s. 4, ch. 65-380; s. 13, ch. 77-175; s. 554, ch. 95-147; s. 9, ch. 99-6; s. 17, ch. 2003-415; s. 27, ch. 2005-277; s. 10, ch. 2006-1; s. 17, ch. 2008-95; s. 4, ch. 2010-167.
+Note.
+—
+Former ss. 99.26, 102.42.
+101.131
+Watchers at polls.
+—
+(1)
+Each political party and each candidate may have one watcher in each polling room or early voting area at any one time during the election. A political committee formed for the specific purpose of expressly advocating the passage or defeat of an issue on the ballot may have one watcher for each polling room or early voting area at any one time during the election. No watcher shall be permitted to come closer to the officials’ table or the voting booths than is reasonably necessary to properly perform his or her functions, but each shall be allowed within the polling room or early voting area to watch and observe the conduct of electors and officials. The poll watchers shall furnish their own materials and necessities and shall not obstruct the orderly conduct of any election. The poll watchers shall pose any questions regarding polling place procedures directly to the clerk for resolution. They may not interact with voters. Each poll watcher shall be a qualified and registered elector of the county in which he or she serves.
+(2)
+Each party, each political committee, and each candidate requesting to have poll watchers shall designate, in writing to the supervisors of elections, on a form prescribed by the division, before noon of the second Tuesday preceding the election poll watchers for each polling room on election day. Designations of poll watchers for early voting areas shall be submitted in writing to the supervisor of elections, on a form prescribed by the division, before noon at least 14 days before early voting begins. The poll watchers for polling rooms shall be approved by the supervisor of elections on or before the Tuesday before the election. Poll watchers for early voting areas shall be approved by the supervisor of elections no later than 7 days before early voting begins. The supervisor shall furnish to each election board a list of the poll watchers designated and approved for such polling rooms or early voting areas. Designation of poll watchers shall be made by the chair of the county executive committee of a political party, the chair of a political committee, or the candidate requesting to have poll watchers.
+(3)
+No candidate or sheriff, deputy sheriff, police officer, or other law enforcement officer may be designated as a poll watcher.
+(4)
+All poll watchers shall be allowed to enter and watch polls in all polling rooms and early voting areas within the county in which they have been designated if the number of poll watchers at any particular polling place does not exceed the number provided in this section.
+(5)
+The supervisor of elections shall provide to each designated poll watcher an identification badge which identifies the poll watcher by name. Each poll watcher must wear his or her identification badge while performing his or her duties.
+History.
+—
+s. 3-D, ch. 22018, 1943; s. 5, ch. 26870, 1951; s. 18, ch. 29934, 1955; s. 6, ch. 65-380; s. 13, ch. 77-175; s. 3, ch. 87-184; s. 14, ch. 87-363; s. 18, ch. 89-338; s. 555, ch. 95-147; s. 61, ch. 2001-40; s. 28, ch. 2005-277; s. 27, ch. 2011-40; s. 17, ch. 2021-11.
+Note.
+—
+Former s. 100.45.
+101.151
+Specifications for ballots.
+—
+(1)(a)
+Marksense ballots shall be printed on paper of such thickness that the printing cannot be distinguished from the back and shall meet the specifications of the voting system that will be used to tabulate the ballots.
+(b)
+Polling places and early voting sites may employ a ballot-on-demand production system to print individual marksense ballots, including provisional ballots, for eligible electors. Ballot-on-demand technology may be used to produce marksense vote-by-mail and election-day ballots.
+(2)(a)
+The ballot must include the following office titles above the names of the candidates for the respective offices in the following order:
+1.
+The office titles of President and Vice President above the names of the candidates for President and Vice President of the United States nominated by the political party that received the highest vote for Governor in the last general election of the Governor in this state, followed by the names of other candidates for President and Vice President of the United States who have been properly nominated.
+2.
+The office titles of United States Senator and Representative in Congress.
+3.
+The office titles of Governor and Lieutenant Governor; Attorney General; Chief Financial Officer; Commissioner of Agriculture; State Attorney, with the applicable judicial circuit; and Public Defender, with the applicable judicial circuit.
+4.
+The office titles of State Senator and State Representative, with the applicable district for the office printed beneath.
+5.
+The office titles of Clerk of the Circuit Court or, when the Clerk of the Circuit Court also serves as the County Comptroller, Clerk of the Circuit Court and Comptroller, when authorized by law; Clerk of the County Court, when authorized by law; Sheriff; Property Appraiser; Tax Collector; District Superintendent of Schools; and Supervisor of Elections.
+6.
+The office titles of Board of County Commissioners, with the applicable district printed beneath each office, and such other county and district offices as are involved in the election, in the order fixed by the Department of State, followed, in the year of their election, by “Party Offices,” and thereunder the offices of state and county party executive committee members.
+(b)
+In a general election, in addition to the names printed on the ballot, a blank space shall be provided under each office for which a write-in candidate has qualified. With respect to write-in candidates, if two or more candidates are seeking election to one office, only one blank space shall be provided.
+(c)
+When more than one candidate is nominated for office, the candidates for such office shall qualify and run in a group or district, and the group or district number shall be printed beneath the name of the office. Each nominee of a political party chosen in a primary shall appear on the general election ballot in the same numbered group or district as on the primary election ballot.
+(d)
+If in any election all the offices as set forth in paragraph (a) are not involved, those offices not to be filled shall be omitted and the remaining offices shall be arranged on the ballot in the order named.
+(3)(a)
+The names of the candidates of the party that received the highest number of votes for Governor in the last election in which a Governor was elected shall be placed first for each office on the general election ballot, together with an appropriate abbreviation of the party name; the names of the candidates of the party that received the second highest vote for Governor shall be placed second for each office, together with an appropriate abbreviation of the party name.
+(b)
+Minor political party candidates shall have their names appear on the general election ballot following the names of recognized political parties, in the same order as they were qualified, followed by the names of candidates with no party affiliation, in the order as they were qualified.
+(4)(a)
+The names of candidates for each office shall be arranged alphabetically as to surnames on a primary election ballot.
+(b)
+When two or more candidates running for the same office on an election ballot have the same or a similar surname, the word “incumbent” must appear next to the incumbent’s name.
+(5)
+The primary election ballot shall be arranged so that the offices of Governor and Lieutenant Governor are joined in a single voting space to allow each elector to cast a single vote for the joint candidacies for Governor and Lieutenant Governor, if applicable.
+(6)
+The general election ballot shall be arranged so that the offices of President and Vice President are joined in a single voting space to allow each elector to cast a single vote for the joint candidacies for President and Vice President and so that the offices of Governor and Lieutenant Governor are joined in a single voting space to allow each elector to cast a single vote for the joint candidacies for Governor and Lieutenant Governor.
+(7)
+Except for justices or judges seeking retention, the names of unopposed candidates shall not appear on the general election ballot. Each unopposed candidate shall be deemed to have voted for himself or herself.
+(8)
+In counties subject to multi-language ballot requirements, the supervisor may petition the United States Department of Justice for authorization for the supervisor to print and deliver single-language ballots for each minority language required.
+(9)(a)
+The Department of State shall adopt rules prescribing a uniform primary and general election ballot for each certified voting system. The rules shall incorporate the requirements set forth in this section and shall prescribe additional matters and forms that include, without limitation:
+1.
+The ballot title followed by clear and unambiguous ballot instructions and directions limited to a single location on the ballot, either:
+a.
+Centered across the top of the ballot; or
+b.
+In the leftmost column, with no individual races in that column unless it is the only column on the ballot;
+2.
+Individual race layout; and
+3.
+Overall ballot layout.
+(b)
+The rules must graphically depict a sample uniform primary and general election ballot form for each certified voting system.
+History.
+—
+s. 35, ch. 4328, 1895; GS 219; s. 1, ch. 5612, 1907; RGS 264; CGL 320; s. 5, ch. 17898, 1937; ss. 2, 3, ch. 25187, 1949; s. 5, ch. 26870, 1951; s. 3, ch. 29937, 1955; s. 1, ch. 57-235; s. 2, ch. 59-334; s. 1, ch. 65-52; s. 2, ch. 65-60; s. 8, ch. 65-380; s. 4, ch. 67-386; ss. 10, 35, ch. 69-106; s. 8, ch. 69-281; s. 1, ch. 69-380; s. 37, ch. 73-333; s. 1, ch. 77-102; s. 13, ch. 77-175; s. 33, ch. 79-400; s. 6, ch. 81-105; s. 11, ch. 81-304; s. 9, ch. 82-143; s. 20, ch. 89-338; s. 556, ch. 95-147; s. 14, ch. 99-318; s. 11, ch. 99-326; s. 14, ch. 99-355; s. 7, ch. 2001-40; s. 7, ch. 2002-17; s. 29, ch. 2005-277; s. 5, ch. 2007-30; s. 28, ch. 2011-40; s. 5, ch. 2013-57; s. 6, ch. 2013-109; s. 10, ch. 2016-37; s. 9, ch. 2019-162; s. 17, ch. 2022-73; s. 23, ch. 2023-120.
+Note.
+—
+Former ss. 99.18, 99.171.
+101.161
+Referenda; ballots.
+—
+(1)
+Whenever a constitutional amendment or other public measure is submitted to the vote of the people, a ballot summary of such amendment or other public measure shall be printed in clear and unambiguous language on the ballot after the list of candidates, followed by the word “yes” and also by the word “no,” and shall be styled in such a manner that a “yes” vote will indicate approval of the proposal and a “no” vote will indicate rejection. The ballot summary of the amendment or other public measure and the ballot title to appear on the ballot shall be embodied in the constitutional revision commission proposal, constitutional convention proposal, taxation and budget reform commission proposal, or enabling resolution or ordinance. The ballot summary of the amendment or other public measure shall be an explanatory statement, not exceeding 75 words in length, of the chief purpose of the measure. In addition, for every constitutional amendment proposed by initiative, the ballot shall include, following the ballot summary, in the following order:
+(a)
+A separate financial impact statement concerning the measure prepared by the Financial Impact Estimating Conference in accordance with s. 100.371(16).
+(b)
+If the financial impact statement projects a net negative impact on the state budget, the following statement in bold print:
+THIS PROPOSED CONSTITUTIONAL AMENDMENT IS ESTIMATED TO HAVE A NET NEGATIVE IMPACT ON THE STATE BUDGET. THIS IMPACT MAY RESULT IN HIGHER TAXES OR A LOSS OF GOVERNMENT SERVICES IN ORDER TO MAINTAIN A BALANCED STATE BUDGET AS REQUIRED BY THE CONSTITUTION.
+(c)1.
+If the financial impact statement projects a net positive impact on the state budget resulting in whole or in part from additional tax revenue, the following statement in bold print:
+THIS PROPOSED CONSTITUTIONAL AMENDMENT IS ESTIMATED TO HAVE A NET POSITIVE IMPACT ON THE STATE BUDGET. THIS IMPACT MAY RESULT IN GENERATING ADDITIONAL REVENUE OR AN INCREASE IN GOVERNMENT SERVICES.
+2.
+If the financial impact statement projects a net positive impact on the state budget for reasons other than those specified in subparagraph 1., the following statement in bold print:
+THIS PROPOSED CONSTITUTIONAL AMENDMENT IS ESTIMATED TO HAVE A NET POSITIVE IMPACT ON THE STATE BUDGET. THIS IMPACT MAY RESULT IN LOWER TAXES OR AN INCREASE IN GOVERNMENT SERVICES.
+(d)
+If the financial impact statement is indeterminate or the members of the Financial Impact Estimating Conference are unable to agree on the financial impact statement, the following statement in bold print:
+THE FINANCIAL IMPACT OF THIS AMENDMENT CANNOT BE DETERMINED DUE TO AMBIGUITIES AND UNCERTAINTIES SURROUNDING THE AMENDMENT’S IMPACT.
+(e)
+If the financial impact statement was not produced or if the Financial Impact Estimating Conference did not meet to produce the financial impact statement, the following statement in bold print:
+THE FINANCIAL IMPACT OF THIS AMENDMENT, IF ANY, HAS NOT BEEN DETERMINED AT THIS TIME.
+The ballot title shall consist of a caption, not exceeding 15 words in length, by which the measure is commonly referred to or spoken of. This subsection does not apply to constitutional amendments or revisions proposed by joint resolution.
+(2)
+The ballot summary and ballot title of a constitutional amendment proposed by initiative shall be prepared by the sponsor and approved by the Secretary of State in accordance with rules adopted pursuant to s. 120.54. The Department of State shall give each proposed constitutional amendment a designating number for convenient reference. This number designation shall appear on the ballot. Designating numbers shall be assigned in the order of filing or certification and in accordance with rules adopted by the Department of State. The Department of State shall furnish the designating number, the ballot title, and, unless otherwise specified in a joint resolution, the ballot summary of each amendment to the supervisor of elections of each county in which such amendment is to be voted on.
+(3)(a)
+Each joint resolution that proposes a constitutional amendment or revision shall include one or more ballot statements set forth in order of priority. Each ballot statement shall consist of a ballot title, by which the measure is commonly referred to or spoken of, not exceeding 15 words in length, and a ballot summary that describes the chief purpose of the amendment or revision in clear and unambiguous language. If a joint resolution that proposes a constitutional amendment or revision contains only one ballot statement, the ballot summary may not exceed 75 words in length. If a joint resolution that proposes a constitutional amendment or revision contains more than one ballot statement, the first ballot summary, in order of priority, may not exceed 75 words in length.
+(b)
+The Department of State shall furnish a designating number pursuant to subsection (2) and the appropriate ballot statement to the supervisor of elections of each county. The ballot statement shall be printed on the ballot after the list of candidates, followed by the word “yes” and also by the word “no,” and shall be styled in such a manner that a “yes” vote will indicate approval of the amendment or revision and a “no” vote will indicate rejection.
+(c)1.
+Any action for a judicial determination that one or more ballot statements embodied in a joint resolution are defective must be commenced by filing a complaint or petition with the appropriate court within 30 days after the joint resolution is filed with the Secretary of State. The complaint or petition shall assert all grounds for challenge to each ballot statement. Any ground not asserted within 30 days after the joint resolution is filed with the Secretary of State is waived.
+2.
+The court, including any appellate court, shall accord an action described in subparagraph 1. priority over other pending cases and render a decision as expeditiously as possible. If the court finds that all ballot statements embodied in a joint resolution are defective and further appeals are declined, abandoned, or exhausted, unless otherwise provided in the joint resolution, the Attorney General shall, within 10 days, prepare and submit to the Department of State a revised ballot title or ballot summary that corrects the deficiencies identified by the court, and the Department of State shall furnish a designating number and the revised ballot title or ballot summary to the supervisor of elections of each county for placement on the ballot. The revised ballot summary may exceed 75 words in length. The court shall retain jurisdiction over challenges to a revised ballot title or ballot summary prepared by the Attorney General, and any challenge to a revised ballot title or ballot summary must be filed within 10 days after a revised ballot title or ballot summary is submitted to the Department of State.
+(4)(a)
+For any general election in which the Secretary of State, for any circuit, or the supervisor of elections, for any county, has certified the ballot position for an initiative to change the method of selection of judges, the ballot for any circuit must contain the statement in paragraph (b) or paragraph (c) and the ballot for any county must contain the statement in paragraph (d) or paragraph (e).
+(b)
+In any circuit where the initiative is to change the selection of circuit court judges to selection by merit selection and retention, the ballot shall state: “Shall the method of selecting circuit court judges in the
+(number of the circuit)
+judicial circuit be changed from election by a vote of the people to selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”
+(c)
+In any circuit where the initiative is to change the selection of circuit court judges to election by the voters, the ballot shall state: “Shall the method of selecting circuit court judges in the
+(number of the circuit)
+judicial circuit be changed from selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people to election by a vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”
+(d)
+In any county where the initiative is to change the selection of county court judges to merit selection and retention, the ballot shall state: “Shall the method of selecting county court judges in
+(name of county)
+be changed from election by a vote of the people to selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”
+(e)
+In any county where the initiative is to change the selection of county court judges to election by the voters, the ballot shall state: “Shall the method of selecting county court judges in
+(name of the county)
+be changed from selection by the judicial nominating commission and appointment by the Governor with subsequent terms determined by a retention vote of the people to election by a vote of the people?” This statement must be followed by the word “yes” and also by the word “no.”
+History.
+—
+s. 34, ch. 4328, 1895; GS 218; RGS 262; CGL 318; ss. 1-11, ch. 16180, 1933; s. 1, ch. 16877, 1935; s. 4, ch. 17898, 1937; s. 1, ch. 22626, 1945; s. 5, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 1, ch. 73-7; s. 13, ch. 77-175; s. 16, ch. 79-365; s. 2, ch. 80-305; s. 32, ch. 84-302; s. 11, ch. 90-203; s. 10, ch. 99-355; s. 1, ch. 2000-361; s. 4, ch. 2001-75; s. 5, ch. 2002-390; s. 5, ch. 2004-33; s. 11, ch. 2005-2; s. 33, ch. 2005-278; s. 29, ch. 2011-40; s. 6, ch. 2013-57; s. 16, ch. 2020-2; s. 4, ch. 2020-15; s. 8, ch. 2025-21.
+Note.
+—
+Former s. 99.16.
+101.171
+Copy of constitutional amendment to be available at voting locations.
+—
+Whenever any amendment to the State Constitution is to be voted upon at any election, the Department of State shall have printed and shall furnish to each supervisor of elections a sufficient number of copies of the amendment either in poster or booklet form, and the supervisor shall provide a copy in a designated area of each polling location as determined by the supervisor.
+History.
+—
+s. 1, ch. 5405, 1905; RGS 263; CGL 319; s. 5, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 13, ch. 77-175; s. 30, ch. 2005-277; s. 5, ch. 2020-15.
+Note.
+—
+Former s. 99.17.
+101.20
+Publication of ballot form; sample ballots.
+—
+(1)
+Two sample ballots shall be furnished to each polling place by the officer whose duty it is to provide official ballots. The sample ballots shall be in the form of the official ballot as it will appear at that polling place on election day. Sample ballots shall be open to inspection by all electors in any election, and a sufficient number of reduced-size ballots may be furnished to election officials so that one may be given to any elector desiring same.
+(2)(a)
+Upon completion of the list of qualified candidates, a sample ballot shall be published by the supervisor in a newspaper of general circulation in the county, before the day of election.
+(b)
+In lieu of the publication required under paragraph (a), a supervisor may send a sample ballot to each registered elector by e-mail at least 7 days before an election if an e-mail address has been provided and the elector has opted to receive a sample ballot by electronic delivery. If an e-mail address has not been provided, or if the elector has not opted for electronic delivery, a sample ballot may be mailed to each registered elector or to each household in which there is a registered elector at least 7 days before an election.
+History.
+—
+s. 5, ch. 26870, 1951; s. 8, ch. 57-166; s. 9, ch. 65-380; s. 1, ch. 75-174; s. 16, ch. 77-175; s. 2, ch. 2013-192; s. 12, ch. 2019-162.
+101.21
+Official ballots; number; printing; payment.
+—
+Where applicable, the supervisor of elections shall determine the actual number of ballots to be printed. The printing and delivery of ballots and cards of instruction shall, in a municipal election, be paid for by the municipality, and in all other elections by the county.
+History.
+—
+ss. 29, 37, ch. 4328, 1895; s. 11, ch. 4537, 1897; GS 211, 222; RGS 255, 267; CGL 311, 323; s. 7, ch. 17898, 1937; s. 2, ch. 24088, 1947; s. 7, ch. 25384, 1949; s. 5, ch. 26870, 1951; s. 10, ch. 65-380; s. 1, ch. 69-281; s. 20, ch. 71-355; s. 16, ch. 77-175; s. 34, ch. 79-400; s. 1, ch. 80-292; s. 48, ch. 81-259; s. 8, ch. 2001-40.
+Note.
+—
+Former ss. 99.09, 99.21.
+101.23
+Election inspector to keep list of those voting.
+—
+When any person has been admitted to vote, the person’s name shall be checked by the clerk or one of the inspectors at the place indicated upon the registration books or voter history form provided by the supervisor. One of the inspectors shall, at the same time, keep a poll list containing names of electors who have voted or a list of registered electors, on which those electors who have voted are indicated. Such lists shall be available for inspection during regular voting hours by poll watchers designated and appointed pursuant to s. 101.131, except that the election inspector may regulate access to the lists so as to ensure that such inspection does not unreasonably interfere with the orderly operation of the polling place.
+History.
+—
+s. 58, ch. 4328, 1895; GS 236; RGS 281; CGL 337; s. 5, ch. 26870, 1951; s. 24, ch. 28156, 1953; s. 11, ch. 65-380; s. 16, ch. 77-175; s. 559, ch. 95-147; s. 18, ch. 2008-95.
+Note.
+—
+Former s. 99.37.
+101.24
+Ballot boxes and ballots.
+—
+The supervisor of elections shall prepare for each polling place one ballot box of sufficient size to contain all the ballots of the particular precinct, and the ballot box shall be plainly marked with the name of the precinct for which it is intended. An additional ballot box, if necessary, may be supplied to any precinct. Before each election, the supervisor shall place in the ballot box or ballot transfer container as many ballots as are required in s. 101.21. After securely sealing the ballot box or ballot transfer container, the supervisor shall send the ballot box or ballot transfer container to the clerk or inspector of election of the precinct in which it is to be used. The clerk or inspector shall be placed under oath or affirmation to perform his or her duties faithfully and without favor or prejudice to any political party.
+History.
+—
+s. 26, ch. 3879, 1889; RS 180; s. 7, ch. 4328, 1895; s. 7, ch. 4537, 1897; GS 203; RGS 247; CGL 303; s. 1, ch. 17898, 1937; s. 1, ch. 24088, 1947; s. 11, ch. 25035, 1949; s. 1, ch. 25384, 1949; s. 5, ch. 26870, 1951; s. 12, ch. 65-380; s. 16, ch. 77-175; s. 2, ch. 86-200; s. 560, ch. 95-147; s. 9, ch. 2001-40.
+Note.
+—
+Former s. 99.02.
+101.2512
+Candidates’ names on general election ballots.
+—
+(1)
+The supervisor of elections shall print on the general election ballot the names of candidates nominated by primary election or special primary election or the names of candidates selected by the appropriate executive committee of any political party pursuant to the requirements of this code.
+(2)
+In addition to the names printed on the ballot as provided in subsection (1), the supervisor of elections shall print on the general election ballot the names of each nonpartisan candidate, minor party candidate, or candidate with no party affiliation who has obtained a position on the general election ballot in compliance with the requirements of this code.
+History.
+—
+s. 8, ch. 2002-17.
+101.2515
+Translation of ballot language.
+—
+Upon the request of a supervisor of elections made no later than 60 days prior to the date of a general election, the Department of State shall provide a written translation of a statewide ballot issue in the language of any language minority group specified in the provisions of s. 203 of the Voting Rights Act of 1965, as amended, as applicable to this state.
+History.
+—
+s. 1, ch. 94-300.
+101.252
+Candidates entitled to have names printed on certain ballots; exception.
+—
+(1)
+Any candidate for nomination who has qualified as prescribed by law is entitled to have his or her name printed on the official primary election ballot. However, when there is only one candidate of any political party qualified for an office, the name of the candidate shall not be printed on the primary election ballot, and such candidate shall be declared nominated for the office.
+(2)
+Any candidate for party executive committee member who has qualified as prescribed by law is entitled to have his or her name printed on the primary election ballot. However, when there is only one candidate of any political party qualified for such an office, the name of the candidate shall not be printed on the primary election ballot, and such candidate shall be declared elected to the state or county executive committee.
+History.
+—
+s. 27, ch. 6469, 1913; RGS 331; CGL 388; s. 3, ch. 26870, 1951; s. 1, ch. 63-99; s. 5, ch. 65-378; s. 16, ch. 77-175; s. 21, ch. 89-338; s. 561, ch. 95-147; s. 15, ch. 2005-286.
+Note.
+—
+Former ss. 102.34, 99.041.
+101.254
+When nominated names to appear in groups or districts.
+—
+When an office requires the nomination of more than one candidate, as many groups or districts shall be numerically designated as there are vacancies to be filled by nomination. Each candidate shall indicate on his or her qualifying papers the group or district in which the candidate desires his or her name to appear on the ballot. In addition, any candidate qualifying by the petition method must indicate on his or her petition prior to circulating such petition, which group or district for which the candidate is attempting to qualify.
+History.
+—
+s. 52, ch. 6469, 1913; s. 8, ch. 6874, 1915; RGS 356; CGL 413; s. 3, ch. 26870, 1951; s. 6, ch. 65-378; s. 16, ch. 77-175; s. 23, ch. 89-338; s. 563, ch. 95-147.
+Note.
+—
+Former ss. 102.49, 99.051.
+101.292
+Definitions; ss. 101.292-101.295.
+—
+As used in ss. 101.292-101.295, the following terms shall have the following meanings:
+(1)
+“Governing body” means the board of county commissioners of a county or any other governing body empowered by general or special act or local ordinance to purchase or sell voting equipment.
+(2)
+“Purchase” means a contract for the purchase, lease, rental, or other acquisition of voting equipment.
+(3)
+“Voting equipment” means electronic or electromechanical voting systems, voting devices, and automatic tabulating equipment as defined in s. 101.5603, as well as materials, parts, or other equipment necessary for the operation and maintenance of such systems and devices, the individual or combined retail value of which is in excess of the threshold amount for CATEGORY TWO purchases provided in s. 287.017.
+History.
+—
+s. 2, ch. 72-303; s. 17, ch. 73-156; s. 16, ch. 77-175; s. 4, ch. 84-302; s. 5, ch. 89-348; s. 32, ch. 90-268; s. 10, ch. 2001-40; s. 25, ch. 2023-8.
+101.293
+Competitive sealed bids and proposals required.
+—
+(1)
+Any purchase of voting equipment, the individual or combined retail value of which is in excess of the threshold amount for CATEGORY TWO purchases provided in s. 287.017, by a governing body shall be by means of competitive sealed bids or competitive sealed proposals from at least two bidders, except under the following conditions:
+(a)
+If a majority of the governing body agrees by vote that an emergency situation exists in regard to the purchase of such equipment to the extent that the potential benefits derived from competitive sealed bids or competitive sealed proposals are outweighed by the detrimental effects of a delay in the acquisition of such equipment; or
+(b)
+If a majority of the governing body finds that there is but a single source from which suitable equipment may be obtained.
+If such conditions are found to exist, the chair of the governing body shall certify to the Division of Elections the situation and conditions requiring an exception to the competitive sealed bidding and competitive sealed proposal requirements of this section. Such certification shall be maintained on file by the division.
+(2)
+The Division of Elections of the Department of State shall establish bidding procedures for carrying out the provisions and the intent of ss. 101.292-101.295, and each governing body shall follow the procedures so established.
+History.
+—
+s. 2, ch. 72-303; s. 18, ch. 73-156; s. 38, ch. 73-333; s. 16, ch. 77-175; s. 5, ch. 84-302; s. 6, ch. 89-348; s. 1, ch. 90-268; s. 566, ch. 95-147.
+101.294
+Purchase and sale of voting equipment.
+—
+(1)
+The Division of Elections of the Department of State shall adopt uniform rules for the purchase, use, and sale of voting equipment in the state. No governing body shall purchase or cause to be purchased any voting equipment unless such equipment has been certified for use in this state by the Department of State.
+(2)
+Any governing body contemplating the purchase or sale of voting equipment shall notify the Division of Elections of such considerations. The division shall attempt to coordinate the sale of excess or outmoded equipment by one county with purchases of necessary equipment by other counties.
+(3)
+The division shall inform the governing bodies of the various counties of the state of the availability of new or used voting equipment and of sources available for obtaining such equipment.
+(4)
+A vendor of voting equipment may not provide an uncertified voting system, voting system component, or voting system upgrade to a local governing body or supervisor of elections in this state.
+(5)
+Before or in conjunction with providing a voting system, voting system component, or voting system upgrade, the vendor shall provide the local governing body or supervisor of elections with a sworn certification that the voting system, voting system component, or voting system upgrade being provided has been certified by the Division of Elections.
+History.
+—
+s. 2, ch. 72-303; s. 19, ch. 73-156; s. 17, ch. 77-175; s. 6, ch. 84-302; s. 31, ch. 2005-277.
+101.295
+Penalties for violation.
+—
+(1)
+Any member of a governing body which purchases or sells voting equipment in violation of the provisions of ss. 101.292-101.295, which member knowingly votes to purchase or sell voting equipment in violation of the provisions of ss. 101.292-101.295, is guilty of a misdemeanor of the first degree, punishable as provided by s. 775.082 or s. 775.083, and shall be subject to suspension from office on the grounds of malfeasance.
+(2)
+Any vendor, chief executive officer, or vendor representative of voting equipment who provides a voting system, voting system component, or voting system upgrade in violation of this chapter commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 2, ch. 72-303; s. 18, ch. 77-175; s. 32, ch. 2005-277.
+101.34
+Custody of voting system.
+—
+The supervisor of elections shall be the custodian of the voting system in the county, and he or she shall appoint deputies necessary to prepare and supervise the voting system prior to and during elections. The compensation for such deputies shall be paid by the supervisor of elections.
+History.
+—
+s. 3-A, ch. 22018, 1943; s. 4, ch. 24089, 1947; s. 5, ch. 26870, 1951; s. 16, ch. 65-380; s. 18, ch. 77-175; s. 3, ch. 80-20; s. 567, ch. 95-147; s. 11, ch. 2001-40.
+Note.
+—
+Former s. 100.42.
+101.341
+Prohibited activities by voting system custodians and deputy custodians.
+—
+(1)
+No voting system custodian or deputy custodian or other employee of the supervisor of elections, which employee’s duties are primarily involved with the preparation, maintenance, or repair of voting equipment, may accept employment or any form of consideration from any person or business entity involved in the purchase, repair, or sale of voting equipment unless such employment has the prior written approval of the supervisor of elections of the county by which such person is employed.
+(2)
+Any person violating the provisions of this section is guilty of a misdemeanor of the first degree, punishable as provided by s. 775.082 or s. 775.083. Such person shall also be subject to immediate discharge from his or her position.
+History.
+—
+s. 3, ch. 72-303; s. 4, ch. 80-20; s. 568, ch. 95-147; s. 12, ch. 2001-40.
+101.43
+Substitute ballot.
+—
+When the required official ballots for a precinct are not delivered in time to be used on election day, or after delivery, are lost, destroyed or stolen, the clerk or other officials whose duty it is to provide ballots for use at such election, in lieu of the official ballots, shall have substitute ballots prepared, conforming as nearly as possible to the official ballots, and the board of election shall substitute these ballots to be used in the same manner as the official ballots would have been used at the election.
+History.
+—
+s. 15, ch. 13893, 1929; CGL 1936 Supp. 337(15); s. 5, ch. 26870, 1951; s. 13, ch. 2001-40.
+Note.
+—
+Former s. 100.15.
+101.49
+Procedure of election officers where signatures differ.
+—
+(1)
+Whenever any clerk or inspector, upon a just comparison of the signatures, doubts that the signature on the identification presented by the elector is the same as the signature the elector affixed on the precinct register or early voting certificate, the clerk or inspector shall deliver to the person an affidavit which shall be in substantially the following form:
+STATE OF FLORIDA,
+COUNTY OF
+I do solemnly swear (or affirm) that my name is
+; that I am
+years old; that I was born in the State of
+; that I am registered to vote; that I am a qualified voter of the county and state aforesaid and have not voted in this election.
+(Signature of voter)
+Sworn to and subscribed before me this
+day of
+, A. D.
+(year)
+.
+(Clerk or inspector of election)
+Precinct No.
+County of
+(2)
+The person shall fill out, in his or her own handwriting or with assistance from a member of the election board, the form and make an affidavit to the facts stated in the filled-in form; such affidavit shall then be sworn to and subscribed before one of the inspectors or clerks of the election who is authorized to administer the oath. Whenever the affidavit is made and filed with the clerk or inspector, the person shall then be admitted to cast his or her vote, but if the person fails or refuses to make out or file such affidavit and asserts his or her eligibility, then he or she shall be entitled to vote a provisional ballot.
+History.
+—
+s. 2, ch. 18407, 1937; CGL 1940 Supp. 337(28-d); s. 2, ch. 22018, 1943; s. 5, ch. 26870, 1951; s. 18, ch. 77-175; s. 573, ch. 95-147; s. 11, ch. 99-6; s. 14, ch. 2001-40; s. 33, ch. 2005-277.
+Note.
+—
+Former s. 100.35.
+101.51
+Electors to occupy booth alone.
+—
+(1)
+When the elector presents himself or herself to vote, an election official shall permit the elector to enter the booth or compartment to cast his or her vote, allowing only one elector at a time to pass through to vote. An elector, while casting his or her ballot, may not occupy a booth or compartment already occupied or speak with anyone, except as provided by s. 101.051.
+(2)
+After casting his or her vote, the elector shall at once leave the polling room by the exit opening and shall not be permitted to reenter on any pretext whatever.
+History.
+—
+ss. 44, 45, ch. 4328, 1895; GS 228, 229; RGS 273, 274; CGL 329, 330; s. 20, ch. 13893, 1929; 1936 Supp. 337(20); s. 5, ch. 26870, 1951; s. 25, ch. 65-380; s. 18, ch. 77-175; s. 574, ch. 95-147; s. 11, ch. 2002-281; s. 34, ch. 2005-277; s. 19, ch. 2008-95.
+Note.
+—
+Former ss. 99.27, 99.28, 100.20.
+101.545
+Retention and destruction of certain election materials.
+—
+All ballots, forms, and other election materials shall be retained in the custody of the supervisor of elections for a minimum of 22 months after an election and in accordance with the schedule approved by the Division of Library and Information Services of the Department of State. All unused ballots, forms, and other election materials may, with the approval of the Department of State, be destroyed by the supervisor after the election for which such ballots, forms, or other election materials were to be used.
+History.
+—
+s. 20, ch. 77-175; s. 15, ch. 2001-60; s. 18, ch. 2021-11.
+101.5601
+Short title.
+—
+Sections 101.5601-101.5614 may be cited as the “Electronic Voting Systems Act.”
+History.
+—
+s. 1, ch. 73-156; s. 9, ch. 2002-17.
+101.5602
+Purpose.
+—
+The purpose of this act is to authorize the use of electronic and electromechanical voting systems in which votes are registered electronically or are tabulated on automatic tabulating equipment or data processing equipment.
+History.
+—
+s. 2, ch. 73-156; s. 21, ch. 77-175; s. 7, ch. 84-302.
+101.5603
+Definitions relating to Electronic Voting Systems Act.
+—
+As used in this act, the term:
+(1)
+“Automatic tabulating equipment” includes apparatus necessary to automatically examine, count, and record votes.
+(2)
+“Ballot” means the card, tape, or other vehicle upon which the elector’s choices are recorded.
+(3)
+“Ballot information” means the material containing the names of offices and candidates and the questions to be voted on.
+(4)
+“Electronic or electromechanical voting system” means a system of casting votes by use of voting devices or marking devices and counting ballots by employing automatic tabulating equipment or data processing equipment, and the term includes touchscreen systems.
+(5)
+“Marking device” means any approved device for marking a ballot with ink or other substance which will enable the ballot to be tabulated by means of automatic tabulating equipment.
+(6)
+“Secrecy envelope” means an opaque device, used for enclosing a marked ballot, which conceals the voter’s choices.
+(7)
+“Software” means the programs and routines used to employ and control the capabilities of data processing hardware, including, without limitation, operating systems, compilers, assemblers, utilities, library routines, maintenance routines, applications, and computer networking programs.
+(8)
+“Voting device” means an apparatus by which votes are registered electronically.
+History.
+—
+s. 3, ch. 73-156; s. 21, ch. 77-175; s. 8, ch. 84-302; s. 8, ch. 89-348; s. 15, ch. 2001-40.
+101.5604
+Adoption of system; procurement of equipment; commercial tabulations.
+—
+The board of county commissioners of any county, at any regular meeting or a special meeting called for the purpose, may, upon consultation with the supervisor of elections, adopt, purchase or otherwise procure, and provide for the use of any electronic or electromechanical voting system approved by the Department of State in all or a portion of the election precincts of that county. Thereafter the electronic or electromechanical voting system may be used for voting at all elections for public and party offices and on all measures and for receiving, registering, and counting the votes thereof in such election precincts as the governing body directs. A county must use an electronic or electromechanical precinct-count tabulation voting system.
+History.
+—
+s. 4, ch. 73-156; s. 21, ch. 77-175; s. 16, ch. 2001-40.
+101.56042
+Punch card type systems prohibited.
+—
+Effective September 2, 2002, a voting system that uses an apparatus or device for the piercing of ballots by the voter may not be used in this state.
+History.
+—
+s. 17, ch. 2001-40.
+101.5605
+Examination and approval of equipment.
+—
+(1)
+The Department of State shall publicly examine all makes of electronic or electromechanical voting systems submitted to it and determine whether the systems comply with the requirements of s. 101.5606.
+(2)(a)
+Any person owning or interested in an electronic or electromechanical voting system may submit it to the Department of State for examination. The vote counting segment shall be certified after a satisfactory evaluation testing has been performed according to the standards adopted under s. 101.015(1). This testing shall include, but is not limited to, testing of all software required for the voting system’s operation; the ballot reader; the rote processor, especially in its logic and memory components; the digital printer; the fail-safe operations; the counting center environmental requirements; and the equipment reliability estimate. For the purpose of assisting in examining the system, the department shall employ or contract for services of at least one individual who is expert in one or more fields of data processing, mechanical engineering, and public administration and shall require from the individual a written report of his or her examination.
+(b)
+The person submitting a system for approval or the board of county commissioners of any county seeking approval of a given system shall reimburse the Department of State in an amount equal to the actual costs incurred by the department in examining the system. Such reimbursement shall be made whether or not the system is approved by the department.
+(c)
+Neither the Secretary of State nor any examiner shall have any pecuniary interest in any voting equipment.
+(d)
+The Department of State shall approve or disapprove any voting system submitted to it within 120 days after the date of its initial submission.
+(3)(a)
+Before the Department of State approves the electronic or electromechanical voting system, the person who submitted it for examination shall provide the department with the name, mailing address, and telephone number of a registered agent, which agent must have and continuously maintain an office in this state. Any change in the name, address, or telephone number of the registered agent shall promptly be made known to the department.
+(b)
+Before entering into a contract for the sale or lease of a voting system approved under this section to any county, the person entering into such contract shall provide the department with the name, mailing address, and telephone number of a registered agent, which agent must have and continuously maintain an office in this state. Any change in the name, address, or telephone number of the registered agent shall promptly be made known to the department.
+(c)
+The department’s proof of delivery or attempted delivery to the last mailing address of the registered agent on file with the department at the time of delivery or attempted delivery is valid for all notice purposes.
+(d)
+Within 30 days after completing the examination and upon approval of any electronic or electromechanical voting system, the Department of State shall make and maintain a report on the system, together with a written or printed description and drawings and photographs clearly identifying the system and the operation thereof. As soon as practicable after such filing, the department shall send a notice of certification and, upon request, a copy of the report to the governing bodies of the respective counties of the state. Any voting system that does not receive the approval of the department may not be adopted for or used at any election.
+(e)
+After a voting system has been approved by the Department of State, any change or improvement in the system is required to be approved by the department prior to the adoption of such change or improvement by any county. If any such change or improvement does not comply with the requirements of this act, the department shall suspend all sales of the equipment or system in the state until the equipment or system complies with the requirements of this act.
+(4)
+The Department of State may at any time reexamine any system, or any part thereof, which has previously been approved for the purpose of updating the certification of the system.
+History.
+—
+s. 5, ch. 73-156; s. 21, ch. 77-175; s. 9, ch. 84-302; s. 12, ch. 85-80; s. 9, ch. 89-348; s. 577, ch. 95-147; s. 31, ch. 2011-40; s. 7, ch. 2013-57; s. 19, ch. 2021-11.
+101.5606
+Requirements for approval of systems.
+—
+No electronic or electromechanical voting system shall be approved by the Department of State unless it is so constructed that:
+(1)
+It permits and requires voting in secrecy.
+(2)
+It permits each elector to vote at any election for all persons and offices for whom and for which the elector is lawfully entitled to vote, and no others; to vote for as many persons for an office as the elector is entitled to vote for; and to vote for or against any question upon which the elector is entitled to vote.
+(3)
+It immediately rejects a ballot where the number of votes for an office or measure exceeds the number which the voter is entitled to cast or where the tabulating equipment reads the ballot as a ballot with no votes cast.
+(4)
+For systems using marksense ballots, it accepts a rejected ballot pursuant to subsection (3) if a voter chooses to cast the ballot, but records no vote for any office that has been overvoted or undervoted.
+(5)
+It is capable of correctly counting votes.
+(6)
+It permits each voter at a primary election to vote only for the candidates seeking nomination by the political party in which such voter is registered, for any candidate for nonpartisan office, and for any question upon which the voter is entitled to vote.
+(7)
+At presidential elections it permits each elector, by one operation, to vote for all presidential electors of a party or for all presidential electors of candidates for President and Vice President with no party affiliation.
+(8)
+It provides a method for write-in voting.
+(9)
+It is capable of accumulating a count of the specific number of ballots tallied for a precinct, accumulating total votes by candidate for each office, and accumulating total votes for and against each question and issue of the ballots tallied for a precinct.
+(10)
+It is capable of tallying votes from ballots of different political parties from the same precinct, in the case of a primary election.
+(11)
+It is capable of automatically producing precinct totals in printed form.
+(12)
+If it is of a type which registers votes electronically, it will permit each voter to change his or her vote for any candidate or upon any question appearing on the official ballot up to the time that the voter takes the final step to register his or her vote and to have the vote computed.
+(13)
+It is capable of providing records from which the operation of the voting system may be audited.
+(14)
+It uses a precinct-count tabulation system.
+(15)
+It does not use an apparatus or device for the piercing of ballots by the voter.
+History.
+—
+s. 6, ch. 73-156; s. 21, ch. 77-175; s. 10, ch. 84-302; s. 10, ch. 89-348; s. 578, ch. 95-147; s. 17, ch. 99-318; s. 18, ch. 2001-40; s. 10, ch. 2002-17; s. 35, ch. 2005-277; s. 32, ch. 2011-40.
+101.56062
+Standards for accessible voting systems.
+—
+(1)
+Notwithstanding anything in this chapter to the contrary, each voting system certified by the Department of State for use in local, state, and federal elections must include the capability to install accessible voter interface devices in the system configuration which will allow the system to meet the following minimum standards:
+(a)
+The voting system must provide a tactile input or audio input device, or both.
+(b)
+The voting system must provide a method by which voters can confirm any tactile or audio input by having the capability of audio output using synthetic or recorded human speech that is reasonably phonetically accurate.
+(c)
+Any operable controls on the input device which are needed for voters who are visually impaired must be discernible tactilely without actuating the keys.
+(d)
+Audio and visual access approaches must be able to work both separately and simultaneously.
+(e)
+If a nonaudio access approach is provided, the system may not require color perception. The system must use black text or graphics, or both, on white background or white text or graphics, or both, on black background, unless the office of the Secretary of State approves other high-contrast color combinations that do not require color perception.
+(f)
+Any voting system that requires any visual perception must offer the election official who programs the system, prior to its being sent to the polling place, the capability to set the font size, as it appears to the voter, from a minimum of 14 points to a maximum of 24 points.
+(g)
+The voting system must provide audio information, including any audio output using synthetic or recorded human speech or any auditory feedback tones that are important for the use of the audio approach, through at least one mode, by handset or headset, in enhanced auditory fashion (increased amplification), and must provide incremental volume control with output amplification up to a level of at least 97 dB SPL.
+(h)
+For transmitted voice signals to the voter, the voting system must provide a gain adjustable up to a minimum of 20 dB with at least one intermediate step of 12 dB of gain.
+(i)
+For the safety of others, if the voting system has the possibility of exceeding 120 dB SPL, then a mechanism must be included to reset the volume automatically to the voting system’s default volume level after every use, for example when the handset is replaced, but not before. Also, universal precautions in the use and sharing of headsets should be followed.
+(j)
+If sound cues and audible information such as “beeps” are used, there must be simultaneous corresponding visual cues and information.
+(k)
+Controls and operable mechanisms must be operable with one hand, including operability with a closed fist, and operable without tight grasping, pinching, or twisting of the wrist.
+(l)
+The force required to operate or activate the controls must be no greater than 5 pounds of force.
+(m)
+Voting booths must have voting controls at a minimum height of 36 inches above the finished floor with a minimum knee clearance of 27 inches high, 30 inches wide, and 19 inches deep, or the accessible voter interface devices must be designed so as to allow their use on top of a table to meet these requirements. Tabletop installations must include adequate privacy.
+(n)
+Any audio ballot must provide the voter with the following functionalities:
+1.
+After the initial instructions that the system requires election officials to provide to each voter, the voter should be able to independently operate the voter interface through the final step of casting a ballot without assistance.
+2.
+The voter must be able to determine the races that he or she is allowed to vote in and to determine which candidates are available in each race.
+3.
+The voter must be able to determine how many candidates may be selected in each race.
+4.
+The voter must be able to have confidence that the physical or vocal inputs given to the system have selected the candidates that he or she intended to select.
+5.
+The voter must be able to review the candidate selections that he or she has made.
+6.
+Prior to the act of casting the ballot, the voter must be able to change any selections previously made and confirm a new selection.
+7.
+The system must communicate to the voter the fact that the voter has failed to vote in a race or has failed to vote the number of allowable candidates in any race and require the voter to confirm his or her intent to undervote before casting the ballot.
+8.
+The system must prevent the voter from overvoting any race.
+9.
+The voter must be able to input a candidate’s name in each race that allows a write-in candidate.
+10.
+The voter must be able to review his or her write-in input to the interface, edit that input, and confirm that the edits meet the voter’s intent.
+11.
+There must be a clear, identifiable action that the voter takes to “cast” the ballot. The system must make clear to the voter how to take this action so that the voter has minimal risk of taking the action accidentally but, when the voter intends to cast the ballot, the action can be easily performed.
+12.
+Once the ballot is cast, the system must confirm to the voter that the action has occurred and that the voter’s process of voting is complete.
+13.
+Once the ballot is cast, the system must preclude the voter from modifying the ballot cast or voting or casting another ballot.
+The functionalities required in this paragraph for certification may be satisfied by either the voting device or by the entire voting system.
+(2)
+Such voting system must include at least one accessible voter interface device installed in each polling place which meets the requirements of this section, except for paragraph (1)(d).
+History.
+—
+s. 12, ch. 2002-281; s. 34, ch. 2005-278; s. 1, ch. 2006-111; s. 27, ch. 2012-116.
+101.56063
+Accessibility of voting systems and polling places; intent; eligibility for federal funding.
+—
+It is the intent of the Legislature that this state be eligible for any funds that are available from the Federal Government to assist states in providing or improving accessibility of voting systems and polling places for persons having a disability. Accordingly, all state laws, rules, standards, and codes governing voting systems and polling place accessibility must be maintained to ensure the state’s eligibility to receive federal funds. It is the intent of the Legislature that all state requirements meet or exceed the minimum federal requirements for voting systems and polling place accessibility. This section shall take effect upon this act becoming a law.
+History.
+—
+s. 13, ch. 2002-281.
+101.56064
+Application for federal funds under ch. 2002-281.
+—
+The state may apply for all available federal funds to be used to pay for the costs associated with this act.
+History.
+—
+s. 21, ch. 2002-281.
+101.56065
+Voting system defects; disclosure; investigations; penalties.
+—
+(1)
+For purposes of this section, the term:
+(a)
+“Defect” means:
+1.
+Any failure, fault, or flaw in an electronic or electromechanical voting system approved pursuant to s. 101.5605 which results in nonconformance with the standards in a manner that affects the timeliness or accuracy of the casting or counting of ballots; or
+2.
+Any failure or inability of the voting system manufacturer or vendor to make available or provide approved replacements of hardware or software to the counties that have purchased the approved voting system, the unavailability of which results in the system’s nonconformance with the standards in a manner that affects the timeliness or accuracy of the casting or counting of ballots.
+(b)
+“Standards” refers to the requirements in ss. 101.5606 and 101.56062 under which a voting system was approved for use in the state.
+(c)
+“Vendor” means a person who submits or previously submitted a voting system that was approved by the Department of State in accordance with s. 101.5605, or a person who enters into a contract for the sale or lease of a voting system to any county, or that previously entered into such a contract that has not expired.
+(2)(a)
+On January 1 of every odd-numbered year, each vendor shall file a written disclosure with the department identifying any known defect in the voting system or the fact that there is no known defect, the effect of any defect on the operation and use of the approved voting system, and any known corrective measures to cure a defect, including, but not limited to, advisories and bulletins issued to system users.
+(b)
+Implementation of corrective measures approved by the department which enable a system to conform to the standards and ensure the timeliness and accuracy of the casting and counting of ballots constitutes a cure of a defect.
+(c)
+If a vendor becomes aware of the existence of a defect, he or she must file a new disclosure with the department as provided in paragraph (a) within 30 days after the date the vendor determined or reasonably should have determined that the defect existed.
+(d)
+If a vendor discloses to the department that a defect exists, the department may suspend all sales or leases of the voting system in the state and may suspend the use of the system in any election in the state. The department shall provide written notice of any such suspension to each affected vendor and supervisor of elections. If the department determines that the defect no longer exists, the department shall lift the suspension and provide written notice to each affected vendor and supervisor of elections.
+(e)
+If a vendor fails to file a required disclosure for a voting system previously approved by the department, that system may not be sold, leased, or used for elections in the state until it has been submitted for examination and approval and adopted for use pursuant to s. 101.5605. The department shall provide written notice to all supervisors of elections that the system is no longer approved.
+(3)(a)
+If the department has reasonable cause to believe a voting system approved pursuant to s. 101.5605 contains a defect either before, during, or after an election which has not been disclosed pursuant to subsection (2), the department may investigate whether the voting system has a defect.
+(b)
+The department may initiate an investigation pursuant to paragraph (a) on its own initiative or upon the written request of the supervisor of elections of a county that purchased or leased a voting system that contains the alleged defect.
+(c)
+Upon initiating an investigation, the department shall provide written notice to the vendor and all of the supervisors of elections.
+(4)(a)
+If the department determines by a preponderance of the evidence that a defect exists in the voting system, or that a vendor failed to timely disclose a defect pursuant to subsection (2), the department shall provide written notice to the affected vendor and supervisors of elections.
+(b)
+A vendor entitled to receive notice pursuant to paragraph (a) shall, within 10 days, file a written response to the department which:
+1.
+Denies that the alleged defect exists or existed as alleged by the department or that the vendor failed to timely disclose a defect, and sets forth the reasons for such denial; or
+2.
+Admits that the defect exists or existed as alleged by the department or that the vendor failed to timely disclose a defect.
+(c)
+If the defect has been cured, the vendor shall provide an explanation of how the defect was cured.
+(d)
+If the defect has not been cured, the vendor shall inform the department whether the defect can be cured and shall provide the department with a plan for curing the defect. If the defect can be cured, the department shall establish a timeframe within which to cure the defect.
+(5)
+If after receiving a response from the vendor, the department determines that a defect does not exist or has been cured within the timeframe established by the department, the department shall take no further action.
+(6)
+If the department determines that: a vendor failed to timely disclose a defect; or that a defect exists and a vendor has not filed a written response or has failed to cure within the timeframe established by the department, or if the defect cannot be cured, the department shall impose a civil penalty of $25,000 for the defect plus an amount equal to the actual costs incurred by the department in conducting the investigation.
+(7)
+If the department finds that a defect existed:
+(a)
+The department may suspend all sales and leases of the voting system and may suspend its use in any county in the state. The department shall provide written notice of the suspension to each affected vendor and supervisor of elections.
+(b)
+If the department determines that a defect no longer exists in a voting system that has been suspended from use pursuant to paragraph (a), the department shall lift the suspension and authorize the sale, lease, and use of the voting system in any election in the state. The department shall provide written notice that the suspension has been lifted to each affected vendor and supervisor of elections.
+(c)
+If the defect cannot be cured, the department may disapprove the voting system for use in elections in the state. The department shall provide written notice to all supervisors of elections that the system is no longer approved. After approval of a system has been withdrawn pursuant to this paragraph, the system may not be sold, leased, or used in elections in the state until it has been submitted for examination and approval and adopted for use pursuant to s. 101.5605.
+(d)
+Any vendor against whom a civil penalty was imposed under this section may not submit a voting system for approval by the Department of State in accordance with s. 101.5605 or enter into a contract for sale or lease of a voting system in the state until the civil penalties have been paid and the department provides written confirmation to the supervisors of elections of the payment.
+(8)
+The department shall prepare a written report of any investigation conducted pursuant to this section.
+(9)
+The authority of the department under this section is in addition to, and not exclusive of, any other authority provided by law.
+(10)
+All proceedings under this section are exempt from chapter 120.
+History.
+—
+s. 8, ch. 2013-57; s. 5, ch. 2016-10.
+101.5607
+Department of State to maintain voting system information; prepare software.
+—
+(1)(a)
+Copies of the program codes and the user and operator manuals and copies of all software and any other information, specifications, or documentation required by the Department of State relating to an approved electronic or electromechanical voting system and its equipment must be filed with the Department of State by the supervisor of elections at the time of purchase or implementation. Any such information or materials that are not on file with and approved by the Department of State, including any updated or modified materials, may not be used in an election.
+(b)
+Within 24 hours after the completion of any logic and accuracy test conducted pursuant to s. 101.5612, the supervisor of elections shall send by certified mail to the Department of State a copy of the tabulation program which was used in the logic and accuracy testing.
+(c)
+The Department of State may, at any time, review the voting system of any county to ensure compliance with the Electronic Voting Systems Act.
+(d)
+Section 119.071(1)(f) applies to all software on file with the Department of State.
+(2)(a)
+The Department of State may develop software for use with an electronic or electromechanical voting system. The standards and examination procedures developed for software apply to all software developed by the Department of State.
+(b)
+Software prepared by the Department of State is a public record pursuant to chapter 119 and shall be provided at the actual cost of duplication.
+History.
+—
+s. 7, ch. 73-156; s. 21, ch. 77-175; s. 4, ch. 82-143; s. 11, ch. 84-302; s. 11, ch. 89-348; s. 25, ch. 90-344; s. 21, ch. 95-398; s. 19, ch. 2001-40; s. 32, ch. 2004-335; s. 41, ch. 2005-251.
+101.56075
+Voting methods.
+—
+For the purpose of designating ballot selections, all voting must be by marksense ballot, using a marking device or a voter interface device that produces a voter-verifiable paper output and meets the voter accessibility requirements for individuals with disabilities under s. 301 of the federal Help America Vote Act of 2002 and s. 101.56062.
+History.
+—
+s. 6, ch. 2007-30; s. 5, ch. 2010-167; s. 33, ch. 2011-40; s. 9, ch. 2013-57; s. 13, ch. 2019-162.
+101.5608
+Voting by electronic or electromechanical method; procedures.
+—
+(1)
+Each elector desiring to vote shall be identified to the clerk or inspector of the election as a duly qualified elector of such election and shall sign his or her name on the precinct register or other form or device provided by the supervisor. The inspector shall compare the signature with the signature on the identification provided by the elector. If the inspector is reasonably sure that the person is entitled to vote, the inspector shall provide the person with a ballot.
+(2)
+When an electronic or electromechanical voting system utilizes a ballot card or marksense ballot, the following procedures shall be followed:
+(a)
+After receiving a ballot from an inspector, the elector shall, without leaving the polling place, retire to a booth or compartment and mark the ballot. After marking his or her ballot, the elector shall place the ballot in a secrecy envelope so that the ballot will be deposited in the tabulator without exposing the voter’s choices.
+(b)
+Any voter who spoils his or her ballot or makes an error may return the ballot to the election official and secure another ballot, except that in no case shall a voter be furnished more than three ballots. If the vote tabulation device has rejected a ballot, the ballot shall be considered spoiled and a new ballot shall be provided to the voter unless the voter chooses to cast the rejected ballot. The election official, without examining the original ballot, shall state the possible reasons for the rejection and shall provide instruction to the voter pursuant to s. 101.5611. A spoiled ballot shall be preserved, without examination, in an envelope provided for that purpose. The stub shall be removed from the ballot and placed in an envelope.
+(c)
+The supervisor of elections shall prepare for each polling place at least one ballot box to contain the ballots of a particular precinct, and each ballot box shall be plainly marked with the name of the precinct for which it is intended.
+(3)
+The Department of State shall promulgate rules regarding voting procedures to be used when an electronic or electromechanical voting system is of a type which does not utilize a ballot card or marksense ballot.
+(4)
+In any election in which a write-in candidate has qualified for office, the supervisor of elections shall provide for write-in voting pursuant to rules adopted by the Division of Elections.
+History.
+—
+s. 8, ch. 73-156; s. 21, ch. 77-175; s. 13, ch. 81-105; s. 5, ch. 82-143; s. 12, ch. 84-302; s. 579, ch. 95-147; s. 20, ch. 2001-40; s. 11, ch. 2002-17; s. 36, ch. 2005-277; s. 35, ch. 2005-278; s. 20, ch. 2008-95.
+101.5610
+Inspection of ballot by election board.
+—
+The election board of each precinct shall cause the voting devices to be put in order, set, adjusted, and made ready for voting when delivered to the polling places. Before the opening of the polls, the election board shall compare the ballots or the ballot information used in the voting devices with the sample ballots furnished and see that the names, numbers, and letters thereon agree and shall certify thereto on forms provided by the supervisor of elections.
+History.
+—
+s. 10, ch. 73-156; s. 14, ch. 84-302; s. 4, ch. 86-200.
+101.5611
+Instructions to electors.
+—
+(1)
+The supervisor of elections shall provide instruction at each polling place regarding the manner of voting with the system. In instructing voters, no precinct official may favor any political party, candidate, or issue. Such instruction shall show the arrangement of candidates and questions to be voted on. Additionally, the supervisor of elections shall provide instruction on the proper method of casting a ballot for the specific voting system utilized in that jurisdiction. Such instruction shall be provided at a place which voters must pass to reach the official voting booth.
+(2)
+The supervisor of elections shall have posted at each polling place a notice that reads: “A person who commits or attempts to commit any fraud in connection with voting, votes a fraudulent ballot, or votes more than once in an election can be convicted of a felony of the third degree and fined up to $5,000 and/or imprisoned for up to 5 years.”
+History.
+—
+s. 11, ch. 73-156; s. 21, ch. 77-175; s. 581, ch. 95-147; s. 12, ch. 98-129; s. 12, ch. 2002-17.
+101.5612
+Testing of tabulating equipment.
+—
+(1)
+All electronic or electromechanical voting systems shall be thoroughly tested at the conclusion of maintenance and programming. Tests shall be sufficient to determine that the voting system is properly programmed, the election is correctly defined on the voting system, and all of the voting system input, output, and communication devices are working properly.
+(2)
+On any day not more than 25 days before the commencement of early voting as provided in s. 101.657, the supervisor of elections shall have the automatic tabulating equipment publicly tested to ascertain that the equipment will correctly count the votes cast for all offices and on all measures. If the ballots to be used at the polling place on election day are not available at the time of the testing, the supervisor may conduct an additional test not more than 10 days before election day. Public notice of the time and place of the test shall be given at least 48 hours prior thereto by publication on the county website as provided in s. 50.0311, on the supervisor of elections’ website, or once in one or more newspapers of general circulation in the county. If the applicable website becomes unavailable or if there is no newspaper of general circulation in the county, the notice must be posted in at least four conspicuous places in the county. The supervisor or the municipal elections official may, at the time of qualifying, give written notice of the time and location of the public preelection test to each candidate qualifying with that office and obtain a signed receipt that the notice has been given. The Department of State shall give written notice to each statewide candidate at the time of qualifying, or immediately at the end of qualifying, that the voting equipment will be tested and advise each candidate to contact the county supervisor of elections as to the time and location of the public preelection test. The supervisor or the municipal elections official shall, at least 30 days before the commencement of early voting as provided in s. 101.657, send written notice by certified mail to the county party chair of each political party and to all candidates for other than statewide office whose names appear on the ballot in the county and who did not receive written notification from the supervisor or municipal elections official at the time of qualifying, stating the time and location of the public preelection test of the automatic tabulating equipment. The canvassing board shall convene, and each member of the canvassing board shall certify to the accuracy of the test. For the test, the canvassing board may designate one member to represent it. The test shall be open to representatives of the political parties, the press, and the public. Each political party may designate one person with expertise in the computer field who shall be allowed in the central counting room when all tests are being conducted and when the official votes are being counted. The designee may not interfere with the normal operation of the canvassing board.
+(3)
+For electronic or electromechanical voting systems configured to tabulate vote-by-mail ballots at a central or regional site, the public testing shall be conducted by processing a preaudited group of ballots so produced as to record a predetermined number of valid votes for each candidate and on each measure and to include one or more ballots for each office which have activated voting positions in excess of the number allowed by law in order to test the ability of the automatic tabulating equipment to reject such votes. If any error is detected, the cause therefor shall be corrected and an errorless count shall be made before the automatic tabulating equipment is approved. The test shall be repeated and errorless results achieved immediately before the start of the official count of the ballots and again after the completion of the official count. The programs and ballots used for testing shall be sealed and retained under the custody of the county canvassing board.
+(4)(a)1.
+For electronic or electromechanical voting systems configured to include electronic or electromechanical tabulation devices which are distributed to the precincts, all or a sample of the devices to be used in the election shall be publicly tested. If a sample is to be tested, the sample shall consist of a random selection of at least 5 percent or 10 of the devices for an optical scan system, whichever is greater. For touchscreen systems used for voters having a disability, a sample of at least 2 percent of the devices must be tested. The test shall be conducted by processing a group of ballots, causing the device to output results for the ballots processed, and comparing the output of results to the results expected for the ballots processed. The group of ballots shall be produced so as to record a predetermined number of valid votes for each candidate and on each measure and to include for each office one or more ballots which have activated voting positions in excess of the number allowed by law in order to test the ability of the tabulating device to reject such votes.
+2.
+If any tested tabulating device is found to have an error in tabulation, it shall be deemed unsatisfactory. For each device deemed unsatisfactory, the canvassing board shall take steps to determine the cause of the error, shall attempt to identify and test other devices that could reasonably be expected to have the same error, and shall test a number of additional devices sufficient to determine that all devices are satisfactory. Upon deeming any device unsatisfactory, the canvassing board may require all devices to be tested or may declare that all devices are unsatisfactory.
+3.
+If the operation or output of any tested tabulation device, such as spelling or the order of candidates on a report, is in error, such problem shall be reported to the canvassing board. The canvassing board shall then determine if the reported problem warrants its deeming the device unsatisfactory.
+(b)
+At the completion of testing under this subsection, the canvassing board or its representative, the representatives of the political parties, and the candidates or their representatives who attended the test shall witness the resetting of each device that passed to a preelection state of readiness and the sealing of each device that passed in such a manner as to secure its state of readiness until the opening of the polls.
+(c)
+The canvassing board or its representative shall execute a written statement setting forth the tabulation devices tested, the results of the testing, the protective counter numbers, if applicable, of each tabulation device, the number of the seal securing each tabulation device at the conclusion of testing, any problems reported to the board as a result of the testing, and whether each device tested is satisfactory or unsatisfactory.
+(d)
+Any tabulating device deemed unsatisfactory shall be recoded, repaired, or replaced and shall be made available for retesting. Such device must be determined by the canvassing board or its representative to be satisfactory before it may be used in any election. The canvassing board or its representative shall announce at the close of the first testing the date, place, and time that any unsatisfactory device will be retested or may, at the option of the board, notify by telephone each person who was present at the first testing as to the date, place, and time that the retesting will occur.
+(e)
+Records must be kept of all preelection testing of electronic or electromechanical tabulation devices used in any election. Such records are to be present and available for inspection and reference during public preelection testing by any person in attendance during such testing. The need of the canvassing board for access to such records during the testing shall take precedence over the need of other attendees to access such records so that the work of the canvassing board will not be delayed or hindered. Records of testing must include, for each device, the name of each person who tested the device and the date, place, time, and results of each test. Records of testing shall be retained as part of the official records of the election in which any device was used.
+(5)
+Any tests involving marksense ballots pursuant to this section shall employ test ballots created by the supervisor of elections using actual ballots that have been printed for the election. If ballot-on-demand ballots will be used in the election, the supervisor shall also create test ballots using the ballot-on-demand technology that will be used to produce ballots in the election, using the same paper stock as will be used for ballots in the election.
+History.
+—
+s. 12, ch. 73-156; s. 21, ch. 77-175; s. 39, ch. 79-400; s. 2, ch. 81-29; s. 24, ch. 83-217; s. 15, ch. 84-302; s. 582, ch. 95-147; s. 21, ch. 2001-40; s. 13, ch. 2002-17; s. 11, ch. 2004-252; s. 37, ch. 2005-277; s. 7, ch. 2007-30; s. 6, ch. 2010-167; s. 34, ch. 2011-40; s. 11, ch. 2016-37; s. 2, ch. 2020-109; s. 24, ch. 2023-120.
+101.5613
+Examination of equipment during voting.
+—
+A member of the election board or, for purposes of early voting pursuant to s. 101.657, a representative of the supervisor of elections shall occasionally examine the face of the voting device and the ballot information to determine that the device and the ballot information have not been damaged or tampered with.
+History.
+—
+s. 13, ch. 73-156; s. 21, ch. 77-175; s. 16, ch. 84-302; s. 12, ch. 2004-252.
+101.5614
+Canvass of returns.
+—
+(1)
+As soon as the polls are closed, the election board shall secure the voting devices against further voting. The election board shall thereafter, in the presence of members of the public desiring to witness the proceedings, verify the number of voted ballots, unused ballots, provisional ballots, and spoiled ballots to ascertain whether such number corresponds with the number of ballots issued by the supervisor. If there is a difference, this fact shall be reported in writing to the county canvassing board with the reasons therefor if known. The total number of voted ballots shall be entered on the forms provided. The proceedings of the election board at the precinct after the polls have closed shall be open to the public; however, no person except a member of the election board shall touch any ballot or ballot container or interfere with or obstruct the orderly count of the ballots.
+(2)
+The results of ballots tabulated at precinct locations may be transmitted to the main computer system for the purpose of compilation of complete returns. The security guidelines for transmission of returns shall conform to rules adopted by the Department of State pursuant to s. 101.015.
+(3)
+For each ballot or ballot image on which write-in votes have been cast, the canvassing board shall compare the write-in votes with the votes cast on the ballot; if the total number of votes for any office exceeds the number allowed by law, such votes shall not be counted. All valid votes shall be tallied by the canvassing board.
+(4)(a)
+If any vote-by-mail ballot is physically damaged so that it cannot properly be counted by the voting system’s automatic tabulating equipment, a true duplicate copy shall be made of the damaged ballot in an open and accessible room in the presence of witnesses and substituted for the damaged ballot. Likewise, a duplicate ballot shall be made of a vote-by-mail ballot containing an overvoted race if there is a clear indication on the ballot that the voter has made a definite choice in the overvoted race or ballot measure. A duplicate shall include all valid votes as determined by the canvassing board based on rules adopted by the division pursuant to s. 102.166(4). A duplicate may be made of a ballot containing an undervoted race or ballot measure if there is a clear indication on the ballot that the voter has made a definite choice in the undervoted race or ballot measure. A duplicate may not include a vote if the voter’s intent in such race or on such measure is not clear. Upon request, a physically present candidate, a political party official, a political committee official, or an authorized designee thereof, must be allowed to observe the duplication of ballots upon signing an affidavit affirming his or her acknowledgment that disclosure of election results discerned from observing the ballot duplication process while the election is ongoing is a felony, as provided under subsection (8). The observer must be allowed to observe the duplication of ballots in such a way that the observer is able to see the markings on each ballot and the duplication taking place. All duplicate ballots must be clearly labeled “duplicate,” bear a serial number which shall be recorded on the defective ballot, and be counted in lieu of the defective ballot. The duplication of ballots must happen in the presence of at least one canvassing board member. After a ballot has been duplicated, the defective ballot shall be placed in an envelope provided for that purpose, and the duplicate ballot shall be tallied with the other ballots for that precinct. If any observer makes a reasonable objection to a duplicate of a ballot, the ballot must be presented to the canvassing board for a determination of the validity of the duplicate. The canvassing board must document the serial number of the ballot in the canvassing board’s minutes. The canvassing board must decide whether the duplication is valid. If the duplicate ballot is determined to be valid, the duplicate ballot must be counted. If the duplicate ballot is determined to be invalid, the duplicate ballot must be rejected and a proper duplicate ballot must be made and counted in lieu of the original.
+(b)
+A true duplicate copy shall be made of each federal write-in absentee ballot in the presence of witnesses and substituted for the federal write-in absentee ballot. The duplicate ballot must include all valid votes as determined by the canvassing board based on rules adopted by the division pursuant to s. 102.166(4). All duplicate ballots shall be clearly labeled “duplicate,” bear a serial number that shall be recorded on the federal write-in absentee ballot, and be counted in lieu of the federal write-in absentee ballot. After a ballot has been duplicated, the federal write-in absentee ballot shall be placed in an envelope provided for that purpose, and the duplicate ballot shall be tallied with other ballots for that precinct.
+(5)
+If there is no clear indication on the ballot that the voter has made a definite choice for an office or ballot measure, the elector’s ballot shall not be counted for that office or measure, but the ballot shall not be invalidated as to those names or measures which are properly marked.
+(6)
+Vote-by-mail ballots may be counted by the voting system’s automatic tabulating equipment if they have been marked in a manner which will enable them to be properly counted by such equipment.
+(7)
+The return printed by the voting system’s automatic tabulating equipment, to which has been added the return of write-in, vote-by-mail, and manually counted votes and votes from provisional ballots, shall constitute the official return of the election upon certification by the canvassing board. Upon completion of the count, the returns shall be open to the public. A copy of the returns may be posted at the central counting place or at the office of the supervisor of elections in lieu of the posting of returns at individual precincts.
+(8)
+Any supervisor of elections, deputy supervisor of elections, canvassing board member, election board member, election employee, or other person authorized to observe, review, or inspect ballot materials or observe canvassing who releases any information about votes cast for or against any candidate or ballot measure or any results of any election before the closing of the polls in that county on election day commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 14, ch. 73-156; s. 1, ch. 77-174; s. 21, ch. 77-175; s. 14, ch. 81-105; s. 17, ch. 84-302; s. 1, ch. 85-17; s. 5, ch. 86-200; s. 17, ch. 90-315; s. 1, ch. 94-208; ss. 22, 37, ch. 2001-40; ss. 14, 15, ch. 2002-17; s. 38, ch. 2005-277; s. 35, ch. 2011-40; s. 2, ch. 2011-162; s. 12, ch. 2016-37; s. 2, ch. 2018-112; s. 14, ch. 2019-162; s. 3, ch. 2020-109; s. 20, ch. 2021-11; s. 18, ch. 2022-73.
+101.572
+Public inspection of ballots.
+—
+(1)
+The official ballots and ballot cards received from election boards and removed from vote-by-mail ballot mailing envelopes and voter certificates on such mailing envelopes shall be open for public inspection or examination while in the custody of the supervisor of elections or the county canvassing board at any reasonable time, under reasonable conditions; however, no persons other than the supervisor of elections or his or her employees or the county canvassing board shall handle any official ballot or ballot card. If the ballots are being examined prior to the end of the contest period in s. 102.168, the supervisor of elections shall make a reasonable effort to notify all candidates whose names appear on such ballots or ballot cards by telephone or otherwise of the time and place of the inspection or examination. All such candidates, or their representatives, shall be allowed to be present during the inspection or examination.
+(2)
+A candidate, a political party official, or a political committee official, or an authorized designee thereof, shall be granted reasonable access upon request to review or inspect ballot materials before canvassing or tabulation, including voter certificates on vote-by-mail envelopes, cure affidavits, corresponding comparison signatures, duplicate ballots, and corresponding originals. Before the supervisor begins comparing signatures on vote-by-mail voter certificates, the supervisor must publish notice of the access to be provided under this section, which may be access to the documents or images thereof, and the method of requesting such access. During such review, no person granted access for review may make any copy of a signature.
+History.
+—
+s. 2, ch. 86-199; s. 583, ch. 95-147; s. 39, ch. 2005-277; s. 13, ch. 2016-37; s. 21, ch. 2021-11.
+101.58
+Supervising and observing registration and election processes.
+—
+(1)
+The Department of State may, at any time it deems fit; upon the petition of 5 percent of the registered electors; or upon the petition of any candidate, county executive committee chair, state committeeman or committeewoman, or state executive committee chair, appoint one or more deputies whose duties shall be to observe and examine the registration and election processes and the condition, custody, and operation of voting systems and equipment in any county or municipality. The deputy shall have access to all registration books and records as well as any other records or procedures relating to the voting process. The deputy may supervise preparation of the voting equipment and procedures for election, and it shall be unlawful for any person to obstruct the deputy in the performance of his or her duty. The deputy shall file with the Department of State a report of his or her findings and observations of the registration and election processes in the county or municipality, and a copy of the report shall also be filed with the clerk of the circuit court of said county. The compensation of such deputies shall be fixed by the Department of State; and costs incurred under this section shall be paid from the annual operating appropriation made to the Department of State.
+(2)
+Upon the written direction of the Secretary of State, any employee of the Department of State having expertise in the matter of concern to the Secretary of State shall have full access to all premises, records, equipment, and staff of the supervisor of elections.
+History.
+—
+s. 13, ch. 18405, 1937; CGL 1940 Supp. 337(28-b); s. 5, ch. 26870, 1951; s. 1, ch. 63-256; ss. 10, 35, ch. 69-106; s. 1, ch. 73-305; s. 21, ch. 77-175; s. 26, ch. 89-338; s. 584, ch. 95-147; s. 23, ch. 2001-40; s. 40, ch. 2005-277.
+Note.
+—
+Former s. 100.31.
+101.591
+Voting system audit.
+—
+(1)
+Immediately following the certification of each election, the county canvassing board or the local board responsible for certifying the election shall conduct a manual audit or an automated, independent audit of the voting systems used in randomly selected precincts.
+(2)(a)
+A manual audit shall consist of a public manual tally of the votes cast in one randomly selected race that appears on the ballot. The tally sheet shall include election-day, vote-by-mail, early voting, provisional, and overseas ballots, in at least 1 percent but no more than 2 percent of the precincts chosen at random by the county canvassing board or the local board responsible for certifying the election. If 1 percent of the precincts is less than one entire precinct, the audit shall be conducted using at least one precinct chosen at random by the county canvassing board or the local board responsible for certifying the election. Such precincts shall be selected at a publicly noticed canvassing board meeting.
+(b)
+An automated audit shall consist of a public automated tally of the votes cast across every race that appears on the ballot. The tally sheet shall include election day, vote-by-mail, early voting, provisional, and overseas ballots in at least 20 percent of the precincts chosen at random by the county canvassing board or the local board responsible for certifying the election. Such precincts shall be selected at a publicly noticed canvassing board meeting.
+(c)
+The division shall adopt rules for approval of an independent audit system which provide that the system, at a minimum, must be:
+1.
+Completely independent of the primary voting system.
+2.
+Fast enough to produce final audit results within the timeframe prescribed in subsection (4).
+3.
+Capable of demonstrating that the ballots of record have been accurately adjudicated by the audit system.
+(3)
+The canvassing board shall post a notice of the audit, including the date, time, and place, in four conspicuous places in the county and on the home page of the county supervisor of elections website.
+(4)
+The audit must be completed and the results made public no later than 11:59 p.m. on the 7th day following certification of the election by the county canvassing board or the local board responsible for certifying the election.
+(5)
+By December 15 of each general election year, the county canvassing board or the board responsible for certifying the election shall provide a report with the results of the audit to the Department of State in a standard format as prescribed by the department. The report must be consolidated into one report with the overvote and undervote report required under s. 101.595(1). The report shall contain, but is not limited to, the following items:
+(a)
+The overall accuracy of audit.
+(b)
+A description of any problems or discrepancies encountered.
+(c)
+The likely cause of such problems or discrepancies.
+(d)
+Recommended corrective action with respect to avoiding or mitigating such circumstances in future elections.
+(6)
+If a manual recount is undertaken pursuant to s. 102.166, the canvassing board is not required to perform the audit provided for in this section.
+History.
+—
+s. 14, ch. 89-348; s. 41, ch. 97-13; s. 8, ch. 2007-30; s. 36, ch. 2011-40; s. 10, ch. 2013-57; s. 14, ch. 2016-37; s. 22, ch. 2021-11.
+101.5911
+Rulemaking authority for voting system audit procedures.
+—
+Effective upon this act becoming a law, the Department of State shall adopt rules to implement the provisions of s. 101.591, as amended by s. 8, chapter 2007-30, Laws of Florida, which prescribe detailed audit procedures for each voting system, which shall be uniform to the extent practicable, along with the standard form for audit reports.
+History.
+—
+s. 9, ch. 2007-30.
+101.595
+Analysis and reports of voting problems.
+—
+(1)
+No later than December 15 of each general election year, the supervisor of elections in each county shall report to the Department of State the total number of overvotes and undervotes in the “President and Vice President” or “Governor and Lieutenant Governor” race that appears first on the ballot or, if neither appears, the first race appearing on the ballot pursuant to s. 101.151(2), along with the likely reasons for such overvotes and undervotes and other information as may be useful in evaluating the performance of the voting system and identifying problems with ballot design and instructions which may have contributed to voter confusion. This report must be consolidated into one report with the audit report required under s. 101.591(5).
+(2)
+The Department of State, upon receipt of such information, shall prepare a public report on the performance of each type of voting system. The report must contain, but is not limited to, the following information:
+(a)
+An identification of problems with the ballot design or instructions which may have contributed to voter confusion;
+(b)
+An identification of voting system design problems; and
+(c)
+Recommendations for correcting any problems identified.
+(3)
+The Department of State shall submit the report to the Governor, the President of the Senate, and the Speaker of the House of Representatives by February 15 of each year following a general election.
+History.
+—
+s. 24, ch. 2001-40; s. 16, ch. 2002-17; s. 41, ch. 2005-277; s. 23, ch. 2021-11.
+101.6101
+Short title.
+—
+Sections 101.6101-101.6107 may be cited as the “Mail Ballot Election Act.”
+History.
+—
+s. 1, ch. 87-364.
+101.6102
+Mail ballot elections; limitations.
+—
+(1)(a)
+An election may be conducted by mail ballot if:
+1.
+The election is a referendum election at which all or a portion of the qualified electors of one of the following subdivisions of government are the only electors eligible to vote:
+a.
+Counties;
+b.
+Cities;
+c.
+School districts covering no more than one county; or
+d.
+Special districts;
+2.
+The governing body responsible for calling the election and the supervisor of elections responsible for the conduct of the election authorize the use of mail ballots for the election; and
+3.
+The Secretary of State approves a written plan for the conduct of the election, which shall include a written timetable for the conduct of the election, submitted by the supervisor of elections.
+(b)
+In addition, an annexation referendum which includes only qualified electors of one county may also be voted on by mail ballot election.
+(2)
+The following elections may not be conducted by mail ballot:
+(a)
+An election at which any candidate is nominated, elected, retained, or recalled; or
+(b)
+An election held on the same date as another election, other than a mail ballot election, in which the qualified electors of that political subdivision are eligible to cast ballots.
+(3)
+The supervisor of elections shall be responsible for the conduct of any election held under ss. 101.6101-101.6107.
+(4)
+The costs of a mail ballot election shall be borne by the jurisdiction initiating the calling of the election, unless otherwise provided by law.
+(5)
+Nothing in this section shall be construed to prohibit the use of a mail ballot election in a municipal annexation referendum requiring separate vote of the registered electors of the annexing municipality and of the area proposed to be annexed. If a mail ballot election is authorized for a municipal annexation referendum, the provisions of ss. 101.6101-101.6107 shall control over any conflicting provisions of s. 171.0413.
+History.
+—
+s. 1, ch. 87-364; s. 1, ch. 89-52; s. 27, ch. 89-338; s. 18, ch. 90-315; s. 2, ch. 2025-31.
+101.6103
+Mail ballot election procedure.
+—
+(1)
+Except as otherwise provided in subsection (7), the supervisor of elections shall mail all official ballots with a secrecy envelope, a return mailing envelope, and instructions sufficient to describe the voting process to each elector entitled to vote in the election within the timeframes specified in s. 101.62(3). All such ballots must be mailed by first-class mail. Ballots must be addressed to each elector at the address appearing in the registration records and placed in an envelope which is prominently marked “Do Not Forward.”
+(2)
+Upon receipt of the ballot the elector shall mark the ballot, place it in the secrecy envelope, sign the return mailing envelope supplied with the ballot, and comply with the instructions provided with the ballot. The elector shall mail, deliver, or have delivered the marked ballot so that it reaches the supervisor of elections no later than 7 p.m. on the day of the election. The ballot must be returned in the return mailing envelope.
+(3)
+The return mailing envelope shall contain a statement in substantially the following form:
+VOTER’S CERTIFICATE
+I,
+(Print Name)
+, do solemnly swear (or affirm) that I am a qualified voter in this election and that I have not and will not vote more than one ballot in this election.
+I understand that failure to sign this certificate and give my residence address will invalidate my ballot.
+(Signature)
+(Residence Address)
+(4)
+If the ballot is destroyed, spoiled, lost, or not received by the elector, the elector may obtain a replacement ballot from the supervisor of elections as provided in this subsection. An elector seeking a replacement ballot shall sign a sworn statement that the ballot was destroyed, spoiled, lost, or not received and present such statement to the supervisor of elections prior to 7 p.m. on the day of the election. The supervisor of elections shall keep a record of each replacement ballot provided under this subsection.
+(5)
+A ballot shall be counted only if:
+(a)
+It is returned in the return mailing envelope;
+(b)
+The elector’s signature has been verified as provided in this subsection; and
+(c)
+It is received by the supervisor of elections not later than 7 p.m. on the day of the election.
+The supervisor of elections shall verify the signature of each elector on the return mailing envelope with the signature on the elector’s registration records. Such verification may commence at any time prior to the canvass of votes. The supervisor of elections shall safely keep the ballot unopened in his or her office until the county canvassing board canvasses the vote. If the supervisor of elections determines that an elector to whom a replacement ballot has been issued under subsection (4) has voted more than once, the canvassing board shall determine which ballot, if any, is to be counted.
+(6)
+The canvassing board may begin the canvassing of mail ballots as provided by s. 101.68(2)(a). The criminal penalty specified in that paragraph for the release of results before 7 p.m. on election day is also applicable to canvassing conducted under this act.
+(7)
+With respect to absent electors overseas entitled to vote in the election, the supervisor of elections shall mail an official ballot with a secrecy envelope, a return mailing envelope, and instructions sufficient to describe the voting process to each such elector on a date sufficient to allow such elector time to vote in the election and to have his or her marked ballot reach the supervisor by 7 p.m. on the day of the election.
+(8)
+A ballot that otherwise satisfies the requirements of subsection (5) shall be counted even if the elector dies after mailing the ballot but before election day, as long as, prior to the death of the voter, the ballot was:
+(a)
+Postmarked by the United States Postal Service;
+(b)
+Date-stamped with a verifiable tracking number by common carrier; or
+(c)
+Already in the possession of the supervisor of elections.
+History.
+—
+s. 1, ch. 87-364; s. 585, ch. 95-147; s. 42, ch. 2005-277; s. 29, ch. 2007-30; s. 19, ch. 2022-73; s. 25, ch. 2023-120.
+101.6104
+Challenge of votes.
+—
+If any elector present for the canvass of votes believes that any ballot is illegal due to any defect apparent on the voter’s certificate, the elector may, at any time before the ballot is removed from the envelope, file with the canvassing board a protest against the canvass of such ballot, specifying the reason he or she believes the ballot to be illegal. No challenge based upon any defect on the voter’s certificate shall be accepted after the ballot has been removed from the return mailing envelope.
+History.
+—
+s. 1, ch. 87-364; s. 586, ch. 95-147.
+101.6105
+Vote-by-mail voting.
+—
+The provisions of the election code relating to vote-by-mail voting and vote-by-mail ballots shall apply to elections under ss. 101.6101-101.6107 only insofar as they do not conflict with the provisions of ss. 101.6101-101.6107.
+History.
+—
+s. 1, ch. 87-364; s. 15, ch. 2016-37.
+101.6106
+Application of other election laws.
+—
+All laws that are applicable to general elections are applicable to mail ballot elections to the extent applicable.
+History.
+—
+s. 1. ch. 87-364.
+101.6107
+Department of State to adopt rules.
+—
+The Department of State shall adopt rules governing the procedures and forms necessary to implement ss. 101.6101-101.6107.
+History.
+—
+s. 1, ch. 87-364.
+101.62
+Request for vote-by-mail ballots.
+—
+(1)
+REQUEST.
+—
+(a)
+The supervisor shall accept a request for a vote-by-mail ballot only from a voter or, if directly instructed by the voter, a member of the voter’s immediate family or the voter’s legal guardian. A request may be made in person, in writing, by telephone, or through the supervisor’s website. The department shall prescribe by rule by October 1, 2023, a uniform statewide application to make a written request for a vote-by-mail ballot which includes fields for all information required in this subsection. One request is deemed sufficient to receive a vote-by-mail ballot for all elections through the end of the calendar year of the next regularly scheduled general election, unless the voter or the voter’s designee indicates at the time the request is made the elections within such period for which the voter desires to receive a vote-by-mail ballot. The supervisor must cancel a request for a vote-by-mail ballot when any first-class mail or nonforwardable mail sent by the supervisor to the voter is returned as undeliverable. If the voter requests a vote-by-mail ballot thereafter, the voter must provide or confirm his or her current residential address.
+(b)
+The supervisor may accept a request for a vote-by-mail ballot to be mailed to a voter’s address on file in the Florida Voter Registration System from the voter, or, if directly instructed by the voter, a member of the voter’s immediate family or the voter’s legal guardian. If an in-person or a telephonic request is made, the voter must provide the voter’s Florida driver license number, the voter’s Florida identification card number, or the last four digits of the voter’s social security number, whichever may be verified in the supervisor’s records. If the ballot is requested to be mailed to an address other than the voter’s address on file in the Florida Voter Registration System, the request must be made in writing. A written request must be signed by the voter and include the voter’s Florida driver license number, the voter’s Florida identification card number, or the last four digits of the voter’s social security number. However, an absent uniformed services voter or an overseas voter seeking a vote-by-mail ballot is not required to submit a signed, written request for a vote-by-mail ballot that is being mailed to an address other than the voter’s address on file in the Florida Voter Registration System. The person making the request must disclose:
+1.
+The name of the voter for whom the ballot is requested.
+2.
+The voter’s address.
+3.
+The voter’s date of birth.
+4.
+The voter’s Florida driver license number, the voter’s Florida identification card number, or the last four digits of the voter’s social security number, whichever may be verified in the supervisor’s records. If the voter’s registration record does not already include the voter’s Florida driver license number or Florida identification card number or the last four digits of the voter’s social security number, the number provided must be recorded in the voter’s registration record.
+5.
+The requester’s name.
+6.
+The requester’s address.
+7.
+The requester’s driver license number, the requester’s identification card number, or the last four digits of the requester’s social security number, if available.
+8.
+The requester’s relationship to the voter.
+9.
+The requester’s signature (written requests only).
+(c)
+Upon receiving a request for a vote-by-mail ballot from an absent voter, the supervisor of elections shall notify the voter of the free access system that has been designated by the department for determining the status of his or her vote-by-mail ballot.
+(d)
+For purposes of this section, the term “immediate family” refers to the following, as applicable:
+1.
+The voter’s spouse, parent, child, grandparent, grandchild, or sibling, or the parent, child, grandparent, grandchild, or sibling of the voter’s spouse.
+2.
+The designee’s spouse, parent, child, grandparent, grandchild, or sibling, or the parent, child, grandparent, grandchild, or sibling of the designee’s spouse.
+(2)
+ACCESS TO VOTE-BY-MAIL REQUEST INFORMATION.
+—
+For each request for a vote-by-mail ballot received, the supervisor shall record the following information: the date the request was made; the identity of the voter’s designee making the request, if any; the Florida driver license number, Florida identification card number, or last four digits of the social security number of the voter provided with a written request; the date the vote-by-mail ballot was delivered to the voter or the voter’s designee or the date the vote-by-mail ballot was delivered to the post office or other carrier; the address to which the ballot was mailed or the identity of the voter’s designee to whom the ballot was delivered; the date the ballot was received by the supervisor; the absence of the voter’s signature on the voter’s certificate, if applicable; whether the voter’s certificate contains a signature that does not match the voter’s signature in the registration books or precinct register; and such other information he or she may deem necessary. This information must be provided in electronic format as provided by division rule. The information must be updated and made available no later than 8 a.m. of each day, including weekends, beginning 60 days before the primary until 15 days after the general election and shall be contemporaneously provided to the division. This information is confidential and exempt from s. 119.07(1) and shall be made available to or reproduced only for the voter requesting the ballot, a canvassing board, an election official, a political party or official thereof, a candidate who has filed qualification papers and is opposed in an upcoming election, and registered political committees for political purposes only.
+(3)
+DELIVERY OF VOTE-BY-MAIL BALLOTS.
+—
+(a)
+No later than 45 days before each presidential preference primary election, primary election, and general election, the supervisor of elections shall send a vote-by-mail ballot as provided in subparagraph (d)2. to each absent uniformed services voter and to each overseas voter who has requested a vote-by-mail ballot.
+(b)
+The supervisor shall mail a vote-by-mail ballot to each absent qualified voter, other than those listed in paragraph (a), who has requested such a ballot, between the 40th and 33rd days before the presidential preference primary election, primary election, and general election.
+(c)
+Except as otherwise provided in paragraph (a) or paragraph (b), the supervisor shall mail vote-by-mail ballots within 2 business days after receiving a request for such a ballot, but no later than the 10th day before election day. The deadline to submit a request for a ballot to be mailed is 5 p.m. local time on the 12th day before an upcoming election.
+(d)
+Upon a request for a vote-by-mail ballot, the supervisor shall provide a vote-by-mail ballot to each voter by whom a request for that ballot has been made, by one of the following means:
+1.
+By nonforwardable, return-if-undeliverable mail to the voter’s current mailing address on file with the supervisor or any other address the voter specifies in the request. The envelopes must be prominently marked “Do Not Forward.”
+2.
+By forwardable mail, e-mail, or facsimile machine transmission to absent uniformed services voters and overseas voters. The absent uniformed services voter or overseas voter may designate in the vote-by-mail ballot request the preferred method of transmission. If the voter does not designate the method of transmission, the vote-by-mail ballot must be mailed.
+3.
+By personal delivery to the voter after vote-by-mail ballots have been mailed and up to 7 p.m. on election day upon presentation of the identification required in s. 101.043.
+4.
+By delivery to the voter’s designee after vote-by-mail ballots have been mailed and up to 7 p.m. on election day. Any voter may designate in writing a person to pick up the ballot for the voter; however, the person designated may not pick up more than two vote-by-mail ballots per election, other than the designee’s own ballot, except that additional ballots may be picked up for members of the designee’s immediate family. The designee shall provide to the supervisor the written authorization by the voter and a picture identification of the designee and must complete an affidavit. The designee shall state in the affidavit that the designee is authorized by the voter to pick up that ballot and shall indicate if the voter is a member of the designee’s immediate family and, if so, the relationship. The department shall prescribe the form of the affidavit. If the supervisor is satisfied that the designee is authorized to pick up the ballot and that the signature of the voter on the written authorization matches the signature of the voter on file, the supervisor must give the ballot to that designee for delivery to the voter.
+5.
+Except as provided in s. 101.655, the supervisor may not deliver a vote-by-mail ballot to a voter or a voter’s designee pursuant to subparagraph 3. or subparagraph 4., respectively, during the mandatory early voting period and up to 7 p.m. on election day, unless there is an emergency, to the extent that the voter will be unable to go to a designated early voting site in his or her county or to his or her assigned polling place on election day. If a vote-by-mail ballot is delivered, the voter or his or her designee must execute an affidavit affirming to the facts which allow for delivery of the vote-by-mail ballot. The department shall adopt a rule providing for the form of the affidavit.
+(4)
+SPECIAL CIRCUMSTANCES.
+—
+If the department is unable to certify candidates for an election in time to comply with paragraph (3)(a), the Department of State is authorized to prescribe rules for a ballot to be sent to absent uniformed services voters and overseas voters.
+(5)
+MATERIALS.
+—
+Only the materials necessary to vote by mail may be mailed or delivered with any vote-by-mail ballot.
+(6)
+PROHIBITION.
+—
+Except as expressly authorized for voters having a disability under s. 101.662, for overseas voters under s. 101.697, or for local referenda under ss. 101.6102 and 101.6103, a county, municipality, or state agency may not send a vote-by-mail ballot to a voter unless the voter has requested a vote-by-mail ballot in the manner authorized under this section.
+History.
+—
+s. 2, ch. 7380, 1917; RGS 369; CGL 430; s. 1, ch. 25385, 1949; s. 5, ch. 26870, 1951; s. 32, ch. 28156, 1953; s. 21, ch. 29934, 1955; s. 2, ch. 59-213; s. 32, ch. 65-380; s. 1, ch. 67-33; s. 2, ch. 69-136; s. 4, ch. 69-280; s. 2, ch. 70-93; ss. 1, 2, ch. 71-149; s. 5, ch. 73-157; s. 39, ch. 73-333; s. 2, ch. 75-174; s. 21, ch. 77-175; s. 40, ch. 79-400; s. 2, ch. 83-16; s. 6, ch. 83-251; s. 1, ch. 85-226; s. 4, ch. 86-199; s. 4, ch. 87-363; s. 2, ch. 87-538; s. 28, ch. 89-338; s. 20, ch. 90-360; s. 587, ch. 95-147; s. 3, ch. 96-57; s. 25, ch. 96-406; s. 13, ch. 98-129; s. 32, ch. 99-2; s. 6, ch. 99-140; s. 52, ch. 2001-40; s. 5, ch. 2001-75; s. 18, ch. 2003-415; s. 6, ch. 2004-33; s. 43, ch. 2005-277; s. 37, ch. 2005-278; s. 16, ch. 2005-286; s. 30, ch. 2007-30; s. 7, ch. 2010-167; s. 37, ch. 2011-40; s. 17, ch. 2013-37; s. 11, ch. 2013-57; s. 16, ch. 2016-37; s. 15, ch. 2019-162; s. 24, ch. 2021-11; s. 26, ch. 2023-120.
+Note.
+—
+Former s. 101.02.
+101.64
+Delivery of vote-by-mail ballots; envelopes; form.
+—
+(1)(a)
+The supervisor shall enclose with each vote-by-mail ballot two envelopes: a secrecy envelope, into which the absent elector shall enclose his or her marked ballot; and a mailing envelope, into which the absent elector shall then place the secrecy envelope, which shall be addressed to the supervisor and also bear on the back side a certificate in substantially the following form:
+Note: Please Read Instructions Carefully Before
+Marking Ballot and Completing Voter’s Certificate.
+VOTER’S CERTIFICATE
+I,
+, do solemnly swear or affirm that I am a qualified and registered voter of
+County, Florida, and that I have not and will not vote more than one ballot in this election. I understand that if I commit or attempt to commit any fraud in connection with voting, vote a fraudulent ballot, or vote more than once in an election, I can be convicted of a felony of the third degree and fined up to $5,000 and/or imprisoned for up to 5 years. I also understand that failure to sign this certificate will invalidate my ballot.
+(Date)
+(Voter’s Signature)
+(E-Mail Address)
+(Home Telephone Number)
+(Mobile Telephone Number)
+(b)
+Each return mailing envelope must bear the absent elector’s name and any encoded mark used by the supervisor’s office.
+(c)
+A mailing envelope or secrecy envelope may not bear any indication of the political affiliation of an absent elector.
+(2)
+The certificate shall be arranged on the back of the mailing envelope so that the line for the signature of the absent elector is across the seal of the envelope; however, no statement shall appear on the envelope which indicates that a signature of the voter must cross the seal of the envelope. The absent elector shall execute the certificate on the envelope.
+(3)
+In lieu of the voter’s certificate provided in this section, the supervisor of elections shall provide each person voting absentee under the Uniformed and Overseas Citizens Absentee Voting Act with the standard oath prescribed by the presidential designee.
+(4)
+The supervisor shall mark, code, indicate on, or otherwise track the precinct of the absent elector for each vote-by-mail ballot.
+(5)
+The secrecy envelope must include, in bold font, substantially the following message:
+IN ORDER FOR YOUR VOTE-BY-MAIL BALLOT TO COUNT, YOUR SUPERVISOR OF ELECTIONS MUST RECEIVE YOUR BALLOT BY 7 P.M. ON ELECTION DAY. IF YOU WAIT TO MAIL YOUR BALLOT, YOUR VOTE MIGHT NOT COUNT. TO PREVENT THIS FROM OCCURRING, PLEASE MAIL OR TURN IN YOUR BALLOT AS SOON AS POSSIBLE.
+History.
+—
+s. 4, ch. 7380, 1917; RGS 371; CGL 432; s. 1, ch. 25385, 1949; s. 5, ch. 26870, 1951; s. 34, ch. 28156, 1953; s. 22, ch. 29934, 1955; s. 1, ch. 61-369; s. 33, ch. 65-380; s. 3, ch. 69-136; s. 5, ch. 69-280; s. 21, ch. 71-355; s. 1, ch. 73-105; s. 6, ch. 73-157; s. 39, ch. 73-333; s. 3, ch. 75-174; s. 23, ch. 77-175; s. 4, ch. 79-365; s. 1, ch. 81-106; s. 9, ch. 81-304; s. 10, ch. 82-143; s. 2, ch. 85-226; s. 1, ch. 86-33; s. 19, ch. 90-315; s. 588, ch. 95-147; s. 4, ch. 96-57; s. 14, ch. 98-129; s. 53, ch. 2001-40; s. 19, ch. 2003-415; s. 1, ch. 2004-232; s. 44, ch. 2005-277; s. 38, ch. 2005-278; s. 17, ch. 2016-37; s. 16, ch. 2019-162; s. 26, ch. 2021-11.
+Note.
+—
+Former s. 101.04.
+101.65
+Instructions to absent electors.
+—
+The supervisor shall enclose with each vote-by-mail ballot separate printed instructions in substantially the following form; however, where the instructions appear in capitalized text, the text of the printed instructions must be in bold font:
+READ THESE INSTRUCTIONS CAREFULLY
+BEFORE MARKING BALLOT.
+1. VERY IMPORTANT. In order to ensure that your vote-by-mail ballot will be counted, it should be completed and returned as soon as possible so that it can reach the supervisor of elections of the county in which your precinct is located no later than 7 p.m. on the day of the election. However, if you are an overseas voter casting a ballot in a presidential preference primary or general election, your vote-by-mail ballot must be postmarked or dated no later than the date of the election and received by the supervisor of elections of the county in which you are registered to vote no later than 10 days after the date of the election. Note that the later you return your ballot, the less time you will have to cure any signature deficiencies, which is authorized until 5 p.m. on the 2nd day after the election.
+2. Mark your ballot in secret as instructed on the ballot. You must mark your own ballot unless you are unable to do so because of blindness, disability, or inability to read or write.
+3. Mark only the number of candidates or issue choices for a race as indicated on the ballot. If you are allowed to “Vote for One” candidate and you vote for more than one candidate, your vote in that race will not be counted.
+4. Place your marked ballot in the enclosed secrecy envelope.
+5. Insert the secrecy envelope into the enclosed mailing envelope which is addressed to the supervisor.
+6. Seal the mailing envelope and completely fill out the Voter’s Certificate on the back of the mailing envelope.
+7. VERY IMPORTANT. In order for your vote-by-mail ballot to be counted, you must sign your name on the line above (Voter’s Signature). A vote-by-mail ballot will be considered illegal and not be counted if the signature on the voter’s certificate does not match the signature on record. The signature on file at the time the supervisor of elections in the county in which your precinct is located receives your vote-by-mail ballot is the signature that will be used to verify your signature on the voter’s certificate. If you need to update your signature for this election, send your signature update on a voter registration application to your supervisor of elections so that it is received before your vote-by-mail ballot is received.
+8. VERY IMPORTANT. If you are an overseas voter, you must include the date you signed the Voter’s Certificate on the line above (Date) or your ballot may not be counted.
+9. Mail, deliver, or have delivered the completed mailing envelope. Be sure there is sufficient postage if mailed. THE COMPLETED MAILING ENVELOPE CAN BE DELIVERED TO THE OFFICE OF THE SUPERVISOR OF ELECTIONS OF THE COUNTY IN WHICH YOUR PRECINCT IS LOCATED OR DROPPED OFF AT AN AUTHORIZED SECURE BALLOT INTAKE STATION, AVAILABLE AT EACH EARLY VOTING LOCATION.
+10. FELONY NOTICE. It is a felony under Florida law to accept any gift, payment, or gratuity in exchange for your vote for a candidate. It is also a felony under Florida law to vote in an election using a false identity or false address, or under any other circumstances making your ballot false or fraudulent.
+History.
+—
+s. 5, ch. 7380, 1917; RGS 372; CGL 433; s. 1, ch. 25385, 1949; s. 5, ch. 26870, 1951; s. 35, ch. 28156, 1953; s. 23, ch. 29934, 1955; s. 34, ch. 65-380; s. 4, ch. 71-149; s. 9, ch. 72-63; s. 2, ch. 73-105; s. 7, ch. 73-157; ss. 3, 4, ch. 75-174; s. 23, ch. 77-175; s. 2, ch. 81-106; s. 10, ch. 81-304; s. 11, ch. 82-143; s. 7, ch. 83-251; s. 3, ch. 85-226; s. 2, ch. 86-33; s. 589, ch. 95-147; s. 5, ch. 96-57; s. 16, ch. 98-129; s. 33, ch. 99-2; s. 54, ch. 2001-40; s. 20, ch. 2003-415; s. 2, ch. 2004-232; s. 38, ch. 2011-40; s. 12, ch. 2013-57; s. 18, ch. 2016-37; s. 17, ch. 2019-162; s. 20, ch. 2022-73.
+Note.
+—
+Former s. 101.05.
+101.655
+Supervised voting by absent electors in certain facilities.
+—
+(1)
+The supervisor of elections of a county shall provide supervised voting for absent electors residing in any assisted living facility, as defined in s. 429.02, or nursing home facility, as defined in s. 400.021, within that county at the request of any administrator of such a facility. Such request for supervised voting in the facility shall be made by submitting a written request to the supervisor of elections no later than 28 days prior to the election for which that request is submitted. The request shall specify the name and address of the facility and the name of the electors who wish to vote by mail in that election. If the request contains the names of fewer than five voters, the supervisor of elections is not required to provide supervised voting.
+(2)
+The supervisor of elections may, in the absence of a request from the administrator of a facility, provide for supervised voting in the facility for those persons who have requested vote-by-mail ballots. The supervisor of elections shall notify the administrator of the facility that supervised voting will occur.
+(3)
+The supervisor of elections shall, in cooperation with the administrator of the facility, select a date and time when the supervised voting will occur.
+(4)
+The supervisor of elections shall designate supervised voting teams to provide the services prescribed by this section. Each supervised voting team shall include at least two persons. Each supervised voting team must include representatives of more than one political party; however, in any primary election to nominate party nominees in which only one party has candidates appearing on the ballot, all supervised voting team members may be of that party. No candidate may provide supervised voting services.
+(5)
+The supervised voting team shall deliver the ballots to the respective absent electors, and each member of the team shall jointly supervise the voting of the ballots. If any elector requests assistance in voting, the oath prescribed in s. 101.051 shall be completed and the elector may receive the assistance of two members of the supervised voting team or some other person of the elector’s choice to assist the elector in casting the elector’s ballot.
+(6)
+Before providing assistance, the supervised voting team shall disclose to the elector that the ballot may be retained to vote at a later time and that the elector has the right to seek assistance in voting from some other person of the elector’s choice without the presence of the supervised voting team.
+(7)
+If any elector declines to vote a ballot or is unable to vote a ballot, the supervised voting team shall mark the ballot “refused to vote” or “unable to vote.”
+(8)
+After the ballots have been voted or marked in accordance with the provisions of this section, the supervised voting team shall deliver the ballots to the supervisor of elections, who shall retain them pursuant to s. 101.67.
+History.
+—
+s. 6, ch. 96-57; s. 5, ch. 2006-197; s. 19, ch. 2016-37; s. 21, ch. 2022-73.
+101.657
+Early voting.
+—
+(1)(a)
+As a convenience to the voter, the supervisor of elections shall allow an elector to vote early in the main or branch office of the supervisor. The supervisor shall mark, code, indicate on, or otherwise track the voter’s precinct for each early voted ballot. In order for a branch office to be used for early voting, it shall be a permanent facility of the supervisor and shall have been designated and used as such for at least 1 year prior to the election. The supervisor may also designate any city hall, permanent public library facility, fairground, civic center, courthouse, county commission building, stadium, convention center, government-owned senior center, or government-owned community center as an early voting site; however, if so designated, the sites must be geographically located so as to provide all voters in the county an equal opportunity to cast a ballot, insofar as is practicable, and must provide sufficient nonpermitted parking to accommodate the anticipated amount of voters. In addition, a supervisor may designate one early voting site per election in an area of the county that does not have any of the eligible early voting locations. Such additional early voting site must be geographically located so as to provide all voters in that area with an equal opportunity to cast a ballot, insofar as is practicable, and must provide sufficient nonpermitted parking to accommodate the anticipated amount of voters. Each county shall, at a minimum, operate the same total number of early voting sites for a general election which the county operated for the 2012 general election. The results or tabulation of votes cast during early voting may not be made before the close of the polls on election day. Results shall be reported by precinct.
+(b)
+The supervisor shall designate each early voting site by no later than the 30th day prior to an election and shall designate an early voting area, as defined in s. 97.021, at each early voting site. The supervisor shall provide to the division no later than the 30th day before an election the address of each early voting site and the hours that early voting will occur at each site.
+(c)
+All early voting sites in a county shall allow any person in line at the closing of an early voting site to vote.
+(d)
+Early voting shall begin on the 10th day before an election that contains state or federal races and end on the 3rd day before the election, and shall be provided for no less than 8 hours and no more than 12 hours per day at each site during the applicable period. In addition, early voting may be offered at the discretion of the supervisor of elections on the 15th, 14th, 13th, 12th, 11th, or 2nd day before an election that contains state or federal races for at least 8 hours per day, but not more than 12 hours per day. The supervisor of elections may provide early voting for elections that are not held in conjunction with a state or federal election. However, the supervisor has the discretion to determine the hours of operation of early voting sites in those elections.
+(e)
+Notwithstanding the requirements of s. 100.3605, municipalities may provide early voting in municipal elections that are not held in conjunction with county or state elections. If a municipality provides early voting, it may designate as many sites as necessary and shall conduct its activities in accordance with the provisions of paragraphs (a)-(c). The supervisor is not required to conduct early voting if it is provided pursuant to this subsection.
+(f)
+Notwithstanding the requirements of s. 189.04, special districts may provide early voting in any district election not held in conjunction with county or state elections. If a special district provides early voting, it may designate as many sites as necessary and shall conduct its activities in accordance with the provisions of paragraphs (a)-(c). The supervisor is not required to conduct early voting if it is provided pursuant to this subsection.
+(2)
+During any early voting period, each supervisor shall make available the total number of voters casting a ballot at each early voting location and the total number of vote-by-mail ballots received under s. 101.69(2) during the previous day. Each supervisor shall prepare an electronic data file listing the individual voters who cast a ballot during the early voting period. This information shall be provided in electronic format as provided by rule adopted by the division. The information shall be updated and made available no later than noon of each day and shall be contemporaneously provided to the division.
+(3)
+The ballot of each elector voting early shall be counted even if the elector dies on or before election day.
+(4)(a)
+The elector must provide identification and must complete an Early Voting Voter Certificate in substantially the following form:
+EARLY VOTING VOTER CERTIFICATE
+I,
+, am a qualified elector in this election and registered voter of
+County, Florida. I do solemnly swear or affirm that I am the person so listed on the voter registration rolls of
+County and that I reside at the listed address. I understand that if I commit or attempt to commit fraud in connection with voting, vote a fraudulent ballot, or vote more than once in an election I could be convicted of a felony of the third degree and both fined up to $5,000 and imprisoned for up to 5 years. I understand that my failure to sign this certificate invalidates my ballot.
+(Voter’s Signature)
+(Address)
+(City/State)
+(b)
+Any elector may challenge an elector seeking to vote early under the provisions of s. 101.111. Any challenged voter must vote a provisional ballot. The canvassing board shall review the ballot and decide the validity of the ballot by majority vote.
+(c)
+The canvass of returns for ballots cast under this subsection shall be substantially the same as votes cast by electors in precincts, as provided in s. 101.5614.
+History.
+—
+s. 17, ch. 98-129; s. 2, ch. 2000-249; s. 55, ch. 2001-40; s. 21, ch. 2003-415; s. 7, ch. 2004-232; s. 13, ch. 2004-252; s. 45, ch. 2005-277; s. 39, ch. 2005-278; s. 39, ch. 2011-40; s. 13, ch. 2013-57; s. 57, ch. 2014-22; ss. 10, 18, ch. 2019-162; s. 17, ch. 2020-2.
+101.661
+Voting vote-by-mail ballots.
+—
+All electors must personally mark or designate their choices on the vote-by-mail ballot, except:
+(1)
+Electors who require assistance to vote because of blindness, disability, or inability to read or write, who may have some person of the elector’s choice, other than the elector’s employer, an agent of the employer, or an officer or agent of the elector’s union, mark the elector’s choices or assist the elector in marking his or her choices on the ballot.
+(2)
+As otherwise provided in s. 101.051 or s. 101.655.
+History.
+—
+s. 18, ch. 98-129; s. 20, ch. 2016-37.
+101.662
+Accessibility of vote-by-mail ballots.
+—
+It is the intent of the Legislature that voting by vote-by-mail ballot be by methods that are fully accessible to all voters, including voters having a disability. The Department of State shall work with the supervisors of elections and the disability community to develop and implement procedures and technologies, as possible, which will include procedures for providing vote-by-mail ballots, upon request, in alternative formats that will allow all voters to cast a secret, independent, and verifiable vote-by-mail ballot without the assistance of another person.
+History.
+—
+s. 14, ch. 2002-281; s. 21, ch. 2016-37.
+101.663
+Electors; change of residence to another state.
+—
+An elector registered in this state who moves his or her permanent residence to another state after the registration books in that state have closed is permitted to vote by mail in the county of his or her former residence for the offices of President and Vice President of the United States.
+History.
+—
+s. 1, ch. 69-136; s. 11, ch. 69-280; s. 4, ch. 73-157; s. 31, ch. 73-333; s. 3, ch. 77-175; s. 1, ch. 79-365; s. 22, ch. 94-224; s. 1392, ch. 95-147; s. 46, ch. 2005-277; s. 40, ch. 2005-278; s. 22, ch. 2016-37.
+Note.
+—
+Former s. 97.102.
+101.665
+Administration of oaths; military personnel, federal employees, and other absentee registrants.
+—
+For the purposes of this code, oaths may be administered and attested by any commissioned officer in the active service of the Armed Forces, any member of the Merchant Marine of the United States designated for this purpose by the Secretary of Commerce, any civilian official empowered by state or federal law to administer oaths, any supervisor of elections, deputy supervisor of elections, or employee of the supervisor of elections when designated by the supervisor of elections, or any civilian employee designated by the head of any department or agency of the United States, except when this code requires an oath to be administered and attested by another official specifically named.
+History.
+—
+s. 6, ch. 29904, 1955; s. 42, ch. 65-380; s. 4, ch. 72-63; s. 3, ch. 77-175; s. 17, ch. 94-224; s. 19, ch. 98-129.
+Note.
+—
+Former s. 101.695; s. 97.065.
+101.67
+Safekeeping of mailed ballots; deadline for receiving vote-by-mail ballots.
+—
+(1)(a)
+The supervisor of elections shall safely keep in his or her office any envelopes received containing marked ballots of absent electors, and he or she shall, before the canvassing of the election returns, deliver the envelopes to the county canvassing board along with his or her file or list kept regarding said ballots.
+(b)
+To the extent practicable, the supervisor of elections shall segregate any vote-by-mail ballots received from a person to whom notice has been sent pursuant to s. 98.075(7), but for whom a final determination of eligibility has not been made, and shall treat them as provisional ballots for individual review by the county canvassing board. The supervisor shall attempt to contact each voter whose ballot has been set aside under this paragraph in the same manner as if the voter had voted a provisional ballot under s. 101.048.
+(2)
+Except as provided in s. 101.6952(5), all marked absent electors’ ballots to be counted must be received by the supervisor by 7 p.m. the day of the election. All ballots received thereafter shall be marked with the time and date of receipt and filed in the supervisor’s office.
+History.
+—
+s. 2, ch. 11824, 1927; CGL 436; s. 1, ch. 25385, 1949; s. 5, ch. 26870, 1951; s. 24, ch. 29934, 1955; s. 24, ch. 57-1; s. 35, ch. 65-380; s. 5, ch. 71-149; s. 23, ch. 77-175; s. 590, ch. 95-147; s. 14, ch. 2013-57; s. 23, ch. 2016-37; s. 27, ch. 2023-120.
+Note.
+—
+Former s. 101.07.
+101.68
+Canvassing of vote-by-mail ballot.
+—
+(1)(a)
+The supervisor of the county where the absent elector resides shall receive the voted ballot, at which time the supervisor shall compare the signature of the elector on the voter’s certificate with the signature of the elector in the registration books or the precinct register to determine whether the elector is duly registered in the county and must record on the elector’s registration record that the elector has voted. During the signature comparison process, the supervisor may not use any knowledge of the political affiliation of the elector whose signature is subject to verification.
+(b)
+An elector who dies after casting a vote-by-mail ballot but on or before election day shall remain listed in the registration books until the results have been certified for the election in which the ballot was cast. The supervisor shall safely keep the ballot unopened in his or her office until the county canvassing board canvasses the vote pursuant to subsection (2).
+(c)
+If two or more vote-by-mail ballots for the same election are returned in one mailing envelope, the ballots may not be counted.
+(d)
+Except as provided in subsection (4), after a vote-by-mail ballot is received by the supervisor, the ballot is deemed to have been cast, and changes or additions may not be made to the voter’s certificate.
+(2)(a)
+The county canvassing board may begin the canvassing of vote-by-mail ballots upon the completion of the public testing of automatic tabulating equipment pursuant to s. 101.5612(2), but must begin such canvassing by no later than noon on the day following the election. However, notwithstanding any such authorization to begin canvassing or otherwise processing vote-by-mail ballots early, no result shall be released until after the closing of the polls in that county on election day. Any supervisor, deputy supervisor, canvassing board member, election board member, or election employee who releases the results of a canvassing or processing of vote-by-mail ballots prior to the closing of the polls in that county on election day commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(b)
+To ensure that all vote-by-mail ballots to be counted by the canvassing board are accounted for, the canvassing board shall compare the number of ballots in its possession with the number of requests for ballots received to be counted according to the supervisor’s file or list.
+(c)1.
+The canvassing board must, if the supervisor has not already done so, compare the signature of the elector on the voter’s certificate or on the vote-by-mail ballot cure affidavit as provided in subsection (4) with the signature of the elector in the registration books or the precinct register to see that the elector is duly registered in the county and to determine the legality of that vote-by-mail ballot. A vote-by-mail ballot may only be counted if:
+a.
+The signature on the voter’s certificate or the cure affidavit matches the elector’s signature in the registration books or precinct register; however, in the case of a cure affidavit, the supporting identification listed in subsection (4) must also confirm the identity of the elector; or
+b.
+The cure affidavit contains a signature that does not match the elector’s signature in the registration books or precinct register, but the elector has submitted a current and valid Tier 1 identification pursuant to subsection (4) which confirms the identity of the elector.
+For purposes of this subparagraph, any canvassing board finding that an elector’s signatures do not match must be by majority vote and beyond a reasonable doubt.
+2.
+The ballot of an elector who casts a vote-by-mail ballot shall be counted even if the elector dies on or before election day, as long as, before the death of the voter, the ballot was postmarked by the United States Postal Service, date-stamped with a verifiable tracking number by a common carrier, or already in the possession of the supervisor.
+3.
+A vote-by-mail ballot is not considered illegal if the signature of the elector does not cross the seal of the mailing envelope.
+4.
+If any elector or candidate present believes that a vote-by-mail ballot is illegal due to a defect apparent on the voter’s certificate or the cure affidavit, he or she may, at any time before the ballot is removed from the envelope, file with the canvassing board a protest against the canvass of that ballot, specifying the precinct, the voter’s certificate or the cure affidavit, and the reason he or she believes the ballot to be illegal. A challenge based upon a defect in the voter’s certificate or cure affidavit may not be accepted after the ballot has been removed from the mailing envelope.
+5.
+If the canvassing board determines that a ballot is illegal, a member of the board must, without opening the envelope, mark across the face of the envelope: “rejected as illegal.” The cure affidavit, if applicable, the envelope, and the ballot therein shall be preserved in the manner that official ballots are preserved.
+(d)
+The canvassing board shall record the ballot upon the proper record, unless the ballot has been previously recorded by the supervisor. The mailing envelopes shall be opened and the secrecy envelopes shall be mixed so as to make it impossible to determine which secrecy envelope came out of which signed mailing envelope; however, in any county in which an electronic or electromechanical voting system is used, the ballots may be sorted by ballot styles and the mailing envelopes may be opened and the secrecy envelopes mixed separately for each ballot style. The votes on vote-by-mail ballots shall be included in the total vote of the county.
+(3)
+The supervisor or the chair of the county canvassing board shall, after the board convenes, have custody of the vote-by-mail ballots until a final proclamation is made as to the total vote received by each candidate.
+(4)(a)
+As soon as practicable, the supervisor shall, on behalf of the county canvassing board, attempt to notify an elector who has returned a vote-by-mail ballot that does not include the elector’s signature or contains a signature that does not match the elector’s signature in the registration books or precinct register by:
+1.
+Notifying the elector of the signature deficiency by e-mail and directing the elector to the cure affidavit and instructions on the supervisor’s website;
+2.
+Notifying the elector of the signature deficiency by text message and directing the elector to the cure affidavit and instructions on the supervisor’s website; or
+3.
+Notifying the elector of the signature deficiency by telephone and directing the elector to the cure affidavit and instructions on the supervisor’s website.
+In addition to the notification required under subparagraph 1., subparagraph 2., or subparagraph 3., the supervisor must notify the elector of the signature deficiency by first-class mail and direct the elector to the cure affidavit and instructions on the supervisor’s website. Beginning the day before the election, the supervisor is not required to provide notice of the signature deficiency by first-class mail, but shall continue to provide notice as required under subparagraph 1., subparagraph 2., or subparagraph 3.
+(b)
+The supervisor shall allow such an elector to complete and submit an affidavit in order to cure the vote-by-mail ballot until 5 p.m. on the 2nd day after the election.
+(c)
+The elector must complete a cure affidavit in substantially the following form:
+VOTE-BY-MAIL BALLOT CURE AFFIDAVIT
+I,
+, am a qualified voter in this election and registered voter of
+County, Florida. I do solemnly swear or affirm that I requested and returned the vote-by-mail ballot and that I have not and will not vote more than one ballot in this election. I understand that if I commit or attempt any fraud in connection with voting, vote a fraudulent ballot, or vote more than once in an election, I may be convicted of a felony of the third degree and fined up to $5,000 and imprisoned for up to 5 years. I understand that my failure to sign this affidavit means that my vote-by-mail ballot will be invalidated.
+(Voter’s Signature)
+(Address)
+(d)
+Instructions must accompany the cure affidavit in substantially the following form:
+READ THESE INSTRUCTIONS CAREFULLY BEFORE COMPLETING THE AFFIDAVIT. FAILURE TO FOLLOW THESE INSTRUCTIONS MAY CAUSE YOUR BALLOT NOT TO COUNT.
+1. In order to ensure that your vote-by-mail ballot will be counted, your affidavit should be completed and returned as soon as possible so that it can reach the supervisor of elections of the county in which your precinct is located no later than 5 p.m. on the 2nd day after the election.
+2. You must sign your name on the line above (Voter’s Signature).
+3. You must make a copy of one of the following forms of identification:
+a. Tier 1 identification.
+—
+Current and valid identification that includes your name and photograph: Florida driver license; Florida identification card issued by the Department of Highway Safety and Motor Vehicles; United States passport; debit or credit card; military identification; student identification; retirement center identification; neighborhood association identification; public assistance identification; veteran health identification card issued by the United States Department of Veterans Affairs; a Florida license to carry a concealed weapon or firearm; or an employee identification card issued by any branch, department, agency, or entity of the Federal Government, the state, a county, or a municipality; or
+b. Tier 2 identification.
+—
+ONLY IF YOU DO NOT HAVE A TIER 1 FORM OF IDENTIFICATION, identification that shows your name and current residence address: current utility bill, bank statement, government check, paycheck, or government document (excluding voter information card).
+4. Place the envelope bearing the affidavit into a mailing envelope addressed to the supervisor. Insert a copy of your identification in the mailing envelope. Mail (if time permits), deliver, or have delivered the completed affidavit along with the copy of your identification to your county supervisor of elections. Be sure there is sufficient postage if mailed and that the supervisor’s address is correct. Remember, your information MUST reach your county supervisor of elections no later than 5 p.m. on the 2nd day after the election, or your ballot will not count.
+5. Alternatively, you may fax or e-mail your completed affidavit and a copy of your identification to the supervisor of elections. If e-mailing, please provide these documents as attachments.
+(e)
+The department and each supervisor shall include the affidavit and instructions on their respective websites. The supervisor must include his or her office’s mailing address, e-mail address, and fax number on the page containing the affidavit instructions, and the department’s instruction page must include the office mailing addresses, e-mail addresses, and fax numbers of all supervisors of elections or provide a conspicuous link to such addresses.
+(f)
+The supervisor shall attach each affidavit received to the appropriate vote-by-mail ballot mailing envelope.
+(g)
+If a vote-by-mail ballot is validated following the submission of a cure affidavit, the supervisor shall make a copy of the affidavit, affix it to a voter registration application, and immediately process it as a valid request for a signature update pursuant to s. 98.077.
+(h)
+After all election results on the ballot have been certified, the supervisor shall, on behalf of the county canvassing board, notify each elector whose ballot has been rejected as illegal and provide the specific reason the ballot was rejected. In addition, unless processed as a signature update pursuant to paragraph (g), the supervisor shall mail a voter registration application to the elector to be completed indicating the elector’s current signature if the signature on the voter’s certificate or cure affidavit did not match the elector’s signature in the registration books or precinct register.
+History.
+—
+s. 5, ch. 26870, 1951; s. 37, ch. 28156, 1953; s. 36, ch. 65-380; s. 6, ch. 69-280; s. 3, ch. 75-174; s. 23, ch. 77-175; s. 41, ch. 79-400; s. 3, ch. 86-33; s. 591, ch. 95-147; s. 7, ch. 96-57; s. 20, ch. 98-129; s. 56, ch. 2001-40; s. 17, ch. 2002-17; s. 3, ch. 2004-232; s. 47, ch. 2005-277; s. 31, ch. 2007-30; s. 40, ch. 2011-40; s. 15, ch. 2013-57; s. 24, ch. 2016-37; s. 3, ch. 2016-167; s. 1, ch. 2017-45; s. 19, ch. 2019-162; s. 27, ch. 2021-11; s. 28, ch. 2023-120.
+101.69
+Voting in person; return of vote-by-mail ballot.
+—
+(1)
+The provisions of this code shall not be construed to prohibit any elector from voting in person at the elector’s precinct on the day of an election or at an early voting site, notwithstanding that the elector has requested a vote-by-mail ballot for that election. An elector who has returned a voted vote-by-mail ballot to the supervisor, however, is deemed to have cast his or her ballot and is not entitled to vote another ballot or to have a provisional ballot counted by the county canvassing board. An elector who has received a vote-by-mail ballot and has not returned the voted ballot to the supervisor, but desires to vote in person, shall return the ballot, whether voted or not, to the election board in the elector’s precinct or to an early voting site. The returned ballot shall be marked “canceled” by the board and placed with other canceled ballots. However, if the elector does not return the ballot and the election official:
+(a)
+Confirms that the supervisor has received the elector’s vote-by-mail ballot, the elector shall not be allowed to vote in person. If the elector maintains that he or she has not returned the vote-by-mail ballot or remains eligible to vote, the elector shall be provided a provisional ballot as provided in s. 101.048.
+(b)
+Confirms that the supervisor has not received the elector’s vote-by-mail ballot, the elector shall be allowed to vote in person as provided in this code. The elector’s vote-by-mail ballot, if subsequently received, shall not be counted and shall remain in the mailing envelope, and the envelope shall be marked “Rejected as Illegal.”
+(c)
+Cannot determine whether the supervisor has received the elector’s vote-by-mail ballot, the elector may vote a provisional ballot as provided in s. 101.048.
+(2)(a)
+The supervisor shall allow an elector who has received a vote-by-mail ballot to physically return a voted vote-by-mail ballot to the supervisor by placing the return mail envelope containing his or her marked ballot in a secure ballot intake station. Secure ballot intake stations shall be placed at the main office of the supervisor, at each permanent branch office of the supervisor which meets the criteria set forth in s. 101.657(1)(a) for branch offices used for early voting and which is open for at least the minimum number of hours prescribed by s. 98.015(4), and at each early voting site. Secure ballot intake stations may also be placed at any other site that would otherwise qualify as an early voting site under s. 101.657(1). Secure ballot intake stations must be geographically located so as to provide all voters in the county with an equal opportunity to cast a ballot, insofar as is practicable. Except for secure ballot intake stations at an office of the supervisor, a secure ballot intake station may only be used during the county’s early voting hours of operation and must be monitored in person by an employee of the supervisor’s office. A secure ballot intake station at an office of the supervisor must be continuously monitored in person by an employee of the supervisor’s office when the secure ballot intake station is accessible for deposit of ballots.
+(b)
+A supervisor shall designate each secure ballot intake station location at least 30 days before an election. The supervisor shall provide the address of each secure ballot intake station location to the division at least 30 days before an election. After a secure ballot intake station location has been designated, it may not be moved or changed except as approved by the division to correct a violation of this subsection.
+(c)1.
+On each day of early voting, all secure ballot intake stations must be emptied at the end of early voting hours and all ballots retrieved from the secure ballot intake stations must be returned to the supervisor’s office.
+2.
+For secure ballot intake stations located at an office of the supervisor, all ballots must be retrieved before the secure ballot intake station is no longer monitored by an employee of the supervisor.
+3.
+Employees of the supervisor must comply with procedures for the chain of custody of ballots as required by s. 101.015(4).
+(3)
+If any secure ballot intake station is left accessible for ballot receipt other than as authorized by this section, the supervisor is subject to a civil penalty of $25,000. The division is authorized to enforce this provision.
+History.
+—
+s. 1, ch. 22014, 1943; s. 1, ch. 25385, 1949; s. 5, ch. 26870, 1951; s. 37, ch. 65-380; s. 23, ch. 77-175; s. 592, ch. 95-147; s. 8, ch. 96-57; s. 38, ch. 2001-40; s. 18, ch. 2002-17; s. 48, ch. 2005-277; s. 25, ch. 2016-37; s. 20, ch. 2019-162; s. 28, ch. 2021-11; s. 22, ch. 2022-73; s. 26, ch. 2023-8.
+Note.
+—
+Former s. 101.11.
+101.6921
+Delivery of special vote-by-mail ballot to certain first-time voters.
+—
+(1)
+The provisions of this section apply to voters who are subject to the provisions of s. 97.0535 and who have not provided the identification or certification required by s. 97.0535 by the time the vote-by-mail ballot is mailed.
+(2)
+The supervisor shall enclose with each vote-by-mail ballot three envelopes: a secrecy envelope, into which the absent elector will enclose his or her marked ballot; an envelope containing the Voter’s Certificate, into which the absent elector shall place the secrecy envelope; and a mailing envelope, which shall be addressed to the supervisor and into which the absent elector will place the envelope containing the Voter’s Certificate and a copy of the required identification.
+(3)
+The Voter’s Certificate shall be in substantially the following form:
+Note: Please Read Instructions Carefully Before Marking Ballot and Completing Voter’s Certificate.
+VOTER’S CERTIFICATE
+I,
+, do solemnly swear or affirm that I am a qualified and registered voter of
+County, Florida, and that I have not and will not vote more than one ballot in this election. I understand that if I commit or attempt to commit any fraud in connection with voting, vote a fraudulent ballot, or vote more than once in an election, I can be convicted of a felony of the third degree and fined up to $5,000 and/or imprisoned for up to 5 years. I also understand that failure to sign this certificate will invalidate my ballot. I understand that unless I meet one of the exemptions below, I must provide a copy of a current and valid identification as provided in the instruction sheet to the supervisor of elections in order for my ballot to count.
+I further certify that I am exempt from the requirements to furnish a copy of a current and valid identification with my ballot because of one or more of the following (check all that apply):
+☐ I am 65 years of age or older.
+☐ I have a permanent or temporary physical disability.
+☐ I am a member of a uniformed service on active duty who, by reason of such active duty, will be absent from the county on election day.
+☐ I am a member of the Merchant Marine who, by reason of service in the Merchant Marine, will be absent from the county on election day.
+☐ I am the spouse or dependent of a member of the uniformed service or Merchant Marine who, by reason of the active duty or service of the member, will be absent from the county on election day.
+☐ I am currently residing outside the United States.
+(Date)
+(Voter’s Signature)
+(4)
+The certificate shall be arranged on the back of the envelope so that the line for the signature of the absent elector is across the seal of the envelope.
+History.
+—
+s. 22, ch. 2003-415; s. 4, ch. 2004-232; s. 41, ch. 2005-278; s. 26, ch. 2016-37.
+101.6923
+Special vote-by-mail ballot instructions for certain first-time voters.
+—
+(1)
+This section applies to voters who are subject to s. 97.0535 and who have not provided the identification or information required by s. 97.0535 by the time the vote-by-mail ballot is mailed.
+(2)
+A voter covered by this section must be provided with printed instructions with his or her vote-by-mail ballot in substantially the following form:
+READ THESE INSTRUCTIONS CAREFULLY BEFORE MARKING YOUR BALLOT. FAILURE TO FOLLOW THESE INSTRUCTIONS MAY CAUSE YOUR BALLOT NOT TO COUNT.
+1. In order to ensure that your vote-by-mail ballot will be counted, it should be completed and returned as soon as possible so that it can reach the supervisor of elections of the county in which your precinct is located no later than 7 p.m. on the date of the election. However, if you are an overseas voter casting a ballot in a presidential preference primary or general election, your vote-by-mail ballot must be postmarked or dated no later than the date of the election and received by the supervisor of elections of the county in which you are registered to vote no later than 10 days after the date of the election. Note that the later you return your ballot, the less time you will have to cure signature deficiencies, which is authorized until 5 p.m. local time on the 2nd day after the election.
+2. Mark your ballot in secret as instructed on the ballot. You must mark your own ballot unless you are unable to do so because of blindness, disability, or inability to read or write.
+3. Mark only the number of candidates or issue choices for a race as indicated on the ballot. If you are allowed to “Vote for One” candidate and you vote for more than one, your vote in that race will not be counted.
+4. Place your marked ballot in the enclosed secrecy envelope and seal the envelope.
+5. Insert the secrecy envelope into the enclosed envelope bearing the Voter’s Certificate. Seal the envelope and completely fill out the Voter’s Certificate on the back of the envelope.
+a. You must sign your name on the line above (Voter’s Signature).
+b. If you are an overseas voter, you must include the date you signed the Voter’s Certificate on the line above (Date) or your ballot may not be counted.
+c. A vote-by-mail ballot will be considered illegal and will not be counted if the signature on the Voter’s Certificate does not match the signature on record. The signature on file at the start of the canvass of the vote-by-mail ballots is the signature that will be used to verify your signature on the Voter’s Certificate. If you need to update your signature for this election, send your signature update on a voter registration application to your supervisor of elections so that it is received before your vote-by-mail ballot is received.
+6. Unless you meet one of the exemptions in Item 7., you must make a copy of one of the following forms of identification:
+a. Identification which must include your name and photograph: United States passport; debit or credit card; military identification; student identification; retirement center identification; neighborhood association identification; public assistance identification; veteran health identification card issued by the United States Department of Veterans Affairs; a Florida license to carry a concealed weapon or firearm; or an employee identification card issued by any branch, department, agency, or entity of the Federal Government, the state, a county, or a municipality; or
+b. Identification which shows your name and current residence address: current utility bill, bank statement, government check, paycheck, or government document (excluding voter information card).
+7. The identification requirements of Item 6. do not apply if you meet one of the following requirements:
+a. You are 65 years of age or older.
+b. You have a temporary or permanent physical disability.
+c. You are a member of a uniformed service on active duty who, by reason of such active duty, will be absent from the county on election day.
+d. You are a member of the Merchant Marine who, by reason of service in the Merchant Marine, will be absent from the county on election day.
+e. You are the spouse or dependent of a member referred to in paragraph c. or paragraph d. who, by reason of the active duty or service of the member, will be absent from the county on election day.
+f. You are currently residing outside the United States.
+8. Place the envelope bearing the Voter’s Certificate into the mailing envelope addressed to the supervisor. Insert a copy of your identification in the mailing envelope. DO NOT PUT YOUR IDENTIFICATION INSIDE THE SECRECY ENVELOPE WITH THE BALLOT OR INSIDE THE ENVELOPE WHICH BEARS THE VOTER’S CERTIFICATE OR YOUR BALLOT WILL NOT COUNT.
+9. Mail, deliver, or have delivered the completed mailing envelope. Be sure there is sufficient postage if mailed.
+10. FELONY NOTICE. It is a felony under Florida law to accept any gift, payment, or gratuity in exchange for your vote for a candidate. It is also a felony under Florida law to vote in an election using a false identity or false address, or under any other circumstances making your ballot false or fraudulent.
+History.
+—
+s. 23, ch. 2003-415; s. 5, ch. 2004-232; s. 49, ch. 2005-277; s. 42, ch. 2005-278; s. 22, ch. 2008-95; s. 41, ch. 2011-40; s. 16, ch. 2013-57; s. 27, ch. 2016-37; s. 4, ch. 2016-167; s. 34, ch. 2019-162; s. 29, ch. 2023-120.
+101.6925
+Canvassing special vote-by-mail ballots.
+—
+(1)
+The supervisor of the county where the voter resides shall receive the voted special vote-by-mail ballot, at which time the mailing envelope must be opened to determine if the voter has enclosed the identification required or has indicated on the Voter’s Certificate that he or she is exempt from the identification requirements.
+(2)
+If the identification is enclosed or the voter has indicated that he or she is exempt from the identification requirements, the supervisor shall make the note on the registration records of the voter and proceed to canvass the vote-by-mail ballot as provided in s. 101.68.
+(3)
+If the identification is not enclosed in the mailing envelope and the voter has not indicated that he or she is exempt from the identification requirements, the supervisor must check the voter registration records to determine if the voter’s identification was previously received or the voter had previously notified the supervisor that he or she was exempt. The envelope with the Voter’s Certificate may not be opened unless the identification has been received or the voter has indicated that he or she is exempt. The ballot must be treated as a provisional ballot and may not be canvassed unless the supervisor has received the required identification or written indication of exemption by 5 p.m. local time on the 2nd day following the election.
+History.
+—
+s. 24, ch. 2003-415; s. 28, ch. 2016-37; s. 30, ch. 2023-120.
+101.694
+Mailing of ballots upon receipt of federal postcard application.
+—
+(1)
+Upon receipt of a federal postcard application for a vote-by-mail ballot executed by a person whose registration is in order or whose application is sufficient to register or update the registration of that person, the supervisor shall send the ballot in accordance with s. 101.62(3).
+(2)
+Upon receipt of a federal postcard application for a vote-by-mail ballot executed by a person whose registration is not in order and whose application is insufficient to register or update the registration of that person, the supervisor shall follow the procedure set forth in s. 97.073.
+(3)
+Vote-by-mail envelopes printed for voters entitled to vote by mail under the Uniformed and Overseas Citizens Absentee Voting Act shall meet the specifications as determined by the Federal Voting Assistance Program of the United States Department of Defense and the United States Postal Service.
+(4)
+Cognizance shall be taken of the fact that vote-by-mail ballots and other materials such as instructions and envelopes are to be carried via air mail, and, to the maximum extent possible, such ballots and materials shall be reduced in size and weight of paper. The same ballot shall be used, however, as is used by other vote-by-mail voters.
+History.
+—
+s. 5, ch. 29904, 1955; ss. 4, 5, ch. 59-217; s. 41, ch. 65-380; s. 12, ch. 69-280; s. 23, ch. 77-175; s. 20, ch. 81-304; s. 37, ch. 94-224; s. 9, ch. 96-57; s. 25, ch. 2003-415; s. 50, ch. 2005-277; s. 8, ch. 2010-167; s. 29, ch. 2016-37; s. 31, ch. 2023-120.
+101.6951
+State write-in vote-by-mail ballot.
+—
+(1)
+An overseas voter may request, not earlier than 180 days before a general election, a state write-in vote-by-mail ballot from the supervisor of elections in the county of registration. In order to receive a state write-in ballot, the voter shall state that due to military or other contingencies that preclude normal mail delivery, the voter cannot vote a vote-by-mail ballot during the normal vote-by-mail voting period. State write-in vote-by-mail ballots shall be made available to voters 90 to 180 days prior to a general election. The Department of State shall prescribe by rule the form of the state write-in vote-by-mail ballot.
+(2)
+In completing the ballot, the overseas voter may designate his or her choice by writing in the name of the candidate or by writing in the name of a political party, in which case the ballot must be counted for the candidate of that political party, if there is such a party candidate on the ballot.
+(3)
+Any abbreviation, misspelling, or other minor variation in the form of the name of a candidate or a political party must be disregarded in determining the validity of the ballot if there is a clear indication on the ballot that the voter has made a definite choice.
+(4)
+The state write-in vote-by-mail ballot shall contain all offices, federal, state, and local, for which the voter would otherwise be entitled to vote.
+History.
+—
+s. 48, ch. 2001-40; s. 30, ch. 2016-37.
+101.6952
+Vote-by-mail ballots for absent uniformed services and overseas voters.
+—
+(1)
+If an absent uniformed services voter’s or an overseas voter’s request for an official vote-by-mail ballot pursuant to s. 101.62 includes an e-mail address, the supervisor of elections shall:
+(a)
+Record the voter’s e-mail address in the vote-by-mail ballot record;
+(b)
+Confirm by e-mail that the vote-by-mail ballot request was received and include in that e-mail the estimated date the vote-by-mail ballot will be sent to the voter; and
+(c)
+Notify the voter by e-mail when the voted vote-by-mail ballot is received by the supervisor of elections.
+(2)(a)
+An absent uniformed services voter or an overseas voter who makes timely application for but does not receive an official vote-by-mail ballot may use the federal write-in absentee ballot to vote in any federal, state, or local election.
+(b)1.
+In an election for federal office, an elector may designate a candidate by writing the name of a candidate on the ballot. Except for a primary or special primary election, the elector may alternatively designate a candidate by writing the name of a political party on the ballot. A written designation of the political party shall be counted as a vote for the candidate of that party if there is such a party candidate in the race.
+2.
+In a state or local election, an elector may vote in the section of the federal write-in absentee ballot designated for nonfederal races by writing on the ballot the title of each office and by writing on the ballot the name of the candidate for whom the elector is voting. Except for a primary, special primary, or nonpartisan election, the elector may alternatively designate a candidate by writing the name of a political party on the ballot. A written designation of the political party shall be counted as a vote for the candidate of that party if there is such a party candidate in the race. In addition, the elector may vote on any ballot measure presented in such election by identifying the ballot measure on which he or she desires to vote and specifying his or her vote on the measure. For purposes of this section, a vote cast in a judicial merit retention election shall be treated in the same manner as a ballot measure in which the only allowable responses are “Yes” or “No.”
+(c)
+In the case of a joint candidacy, such as for the offices of President/Vice President or Governor/Lieutenant Governor, a valid vote for one or both qualified candidates on the same ticket shall constitute a vote for the joint candidacy.
+(d)
+For purposes of this subsection and except when the context clearly indicates otherwise, such as when a candidate in the election is affiliated with a political party whose name includes the word “Independent,” “Independence,” or a similar term, a voter designation of “No Party Affiliation” or “Independent,” or any minor variation, misspelling, or abbreviation thereof, shall be considered a designation for the candidate, other than a write-in candidate, who qualified to run in the race with no party affiliation. If more than one candidate qualifies to run as a candidate with no party affiliation, the designation may not count for any candidate unless there is a valid, additional designation of the candidate’s name.
+(e)
+Any abbreviation, misspelling, or other minor variation in the form of the name of an office, the name of a candidate, the ballot measure, or the name of a political party must be disregarded in determining the validity of the ballot.
+(3)(a)
+An absent uniformed services voter or an overseas voter who submits a federal write-in absentee ballot and later receives an official vote-by-mail ballot may submit the official vote-by-mail ballot. An elector who submits a federal write-in absentee ballot and later receives and submits an official vote-by-mail ballot should make every reasonable effort to inform the appropriate supervisor of elections that the elector has submitted more than one ballot.
+(b)
+A federal write-in absentee ballot may not be canvassed until 7 p.m. on the day of the election. A federal write-in absentee ballot from an overseas voter in a presidential preference primary or general election may not be canvassed until the conclusion of the 10-day period specified in subsection (5). Each federal write-in absentee ballot received by 7 p.m. on the day of the election shall be canvassed pursuant to ss. 101.5614(4) and 101.68, unless the elector’s official vote-by-mail ballot is received by 7 p.m. on election day. Each federal write-in absentee ballot from an overseas voter in a presidential preference primary or general election received by 10 days after the date of the election shall be canvassed pursuant to ss. 101.5614(4) and 101.68, unless the overseas voter’s official vote-by-mail ballot is received by 10 days after the date of the election. If the elector’s official vote-by-mail ballot is received by 7 p.m. on election day, or, for an overseas voter in a presidential preference primary or general election, no later than 10 days after the date of the election, the federal write-in absentee ballot is invalid and the official vote-by-mail ballot shall be canvassed. The time shall be regulated by the customary time in standard use in the county seat of the locality.
+(4)
+For vote-by-mail ballots received from absent uniformed services voters or overseas voters, there is a presumption that the envelope was mailed on the date stated on the outside of the return envelope, regardless of the absence of a postmark on the mailed envelope or the existence of a postmark date that is later than the date of the election.
+(5)
+A vote-by-mail ballot from an overseas voter in any presidential preference primary or general election which is postmarked or dated no later than the date of the election and is received by the supervisor of elections of the county in which the overseas voter is registered no later than 10 days after the date of the election shall be counted as long as the vote-by-mail ballot is otherwise proper.
+History.
+—
+s. 49, ch. 2001-40; s. 6, ch. 2004-232; s. 9, ch. 2010-167; s. 1, ch. 2011-162; s. 17, ch. 2013-57; s. 1, ch. 2015-40; s. 31, ch. 2016-37; s. 9, ch. 2018-112.
+101.697
+Electronic transmission of election materials.
+—
+The Department of State shall determine whether secure electronic means can be established for receiving ballots from overseas voters. If such security can be established, the department shall adopt rules to authorize a supervisor of elections to accept from an overseas voter a request for a vote-by-mail ballot or a voted vote-by-mail ballot by secure facsimile machine transmission or other secure electronic means. The rules must provide that in order to accept a voted ballot, the verification of the voter must be established, the security of the transmission must be established, and each ballot received must be recorded.
+History.
+—
+s. 50, ch. 2001-40; s. 51, ch. 2005-277; s. 32, ch. 2016-37.
+101.698
+Absentee voting in emergency situations.
+—
+If a national or local emergency or other situation arises which makes substantial compliance with the provisions of state or federal law relating to the methods of voting for overseas voters impossible or unreasonable, such as an armed conflict involving United States Armed Forces or mobilization of those forces, including state National Guard and reserve components, the Elections Canvassing Commission may adopt by emergency rules such special procedures or requirements necessary to facilitate absentee voting by those persons directly affected who are otherwise eligible to vote in the election.
+History.
+—
+s. 51, ch. 2001-40.
+101.71
+Polling place.
+—
+(1)
+There shall be in each precinct in each county one polling place which shall be accessible to the public on election day and is managed by a board of inspectors and clerk of election. Only one elector shall be allowed to enter any voting booth at a time; no one except inspectors shall be allowed to speak to the elector while casting his or her vote; and no inspector shall speak to or interfere with the elector concerning his or her voting, except to perform the duties as such inspector. Notwithstanding any other provision of this chapter, this section shall be applicable where the computer method of voting is in use, and adequate provision shall be made for the privacy of the elector while casting his or her vote.
+(2)
+Notwithstanding subsection (1), whenever the supervisor of elections of any county determines that the accommodations for holding any election at a polling place designated for any precinct in the county are unavailable, are inadequate for the expeditious and efficient housing and handling of voting and voting paraphernalia, or do not comply with the requirements of s. 101.715, the supervisor shall, not less than 30 days before the holding of an election, provide for the voting place for such precinct to be moved to another site that is accessible to the public on election day in said precinct or, if such is not available, to another site that is accessible to the public on election day in a contiguous precinct. If such action of the supervisor results in the voting place for two or more precincts being located for the purposes of an election in one building, the supervisor of elections shall provide adequate supplies, equipment, and personnel are available to accommodate the voters for the precincts that are collocated. When any supervisor moves any polling place pursuant to this subsection, the supervisor shall, not more than 30 days or fewer than 7 days before the holding of an election, give notice of the change of the polling place for the precinct involved, with clear description of the voting place to which changed, by publication on the county’s website as provided in s. 50.0311, on the supervisor’s website, or at least once in a newspaper of general circulation in the county. A notice of the change of the polling place involved shall be mailed at least 14 days before an election to each registered elector or to each household in which there is a registered elector.
+(3)
+In cases of emergency and when time does not permit compliance with subsection (2), the supervisor of elections shall designate a new polling place which shall be accessible to the public on election day and shall cause a notice to be posted at the old polling place advising the electors of the location of the new polling place.
+(4)
+Each polling place shall be conspicuously identified by a sign, on or near the premises of the polling place, designating the polling place by precinct number. Such sign shall be large enough to be clearly visible to occupants of passing vehicular traffic on roadways contiguous to the polling place, with letters no smaller than 3 inches high, and shall be displayed at all times while the polls are open on any election day.
+(5)
+Public, tax-supported buildings must be made available for use as polling places, or early voting locations that meet the requirements specified in s. 101.657, upon the request of the supervisor of elections.
+History.
+—
+s. 22, ch. 3879, 1889; RS 176; s. 26, ch. 4328, 1895; s. 1, ch. 4699, 1899; GS 208; RGS 252; CGL 308; s. 5, ch. 26870, 1951; s. 1, ch. 57-385; s. 3, ch. 67-530; s. 4, ch. 69-281; s. 23, ch. 77-175; s. 4, ch. 78-188; s. 2, ch. 80-189; s. 12, ch. 80-292; s. 1, ch. 85-38; s. 593, ch. 95-147; s. 25, ch. 2001-40; s. 15, ch. 2002-281; s. 10, ch. 2010-167; s. 32, ch. 2023-120.
+Note.
+—
+Former s. 99.06.
+101.715
+Accessibility of polling places for people having a disability.
+—
+(1)
+All polling places must be accessible and usable by people with disabilities, as provided in this section.
+(2)
+Only those polling places complying with the Florida Americans With Disabilities Accessibility Implementation Act, ss. 553.501-553.513, for all portions of the polling place or the structure in which it is located that voters traverse going to and from the polling place and during the voting process, regardless of the age or function of the building, shall be used for federal, state, and local elections.
+(3)
+The selection of a polling site must ensure accessibility with respect to the following accessible elements, spaces, scope, and technical requirements: accessible route, space allowance and reach ranges, protruding objects, ground and floor surfaces, parking and passenger loading zones, curb ramps, ramps, stairs, elevators, platform lifts, doors, entrances, path of egress, controls and operating mechanisms, signage, and all other minimum requirements.
+(4)
+Standards required at each polling place, regardless of the age of the building or function of the building, include:
+(a)
+For polling places that provide parking spaces for voters, one or more signed accessible parking spaces for disabled persons.
+(b)
+Signage identifying an accessible path of travel to the polling place if it differs from the primary route or entrance.
+(c)
+An unobstructed path of travel to the polling place.
+(d)
+Level, firm, stable, and slip-resistant surfaces.
+(e)
+An unobstructed area for voting.
+(f)
+Sufficient lighting along the accessible path of travel and within the polling place.
+(5)
+The Department of State may adopt rules in accordance with s. 120.54 which are necessary to administer this section.
+History.
+—
+s. 1, ch. 76-50; s. 16, ch. 2002-281.
+101.731
+Short title.
+—
+Sections 101.731-101.74 may be cited as the “Elections Emergency Act.”
+History.
+—
+s. 1, ch. 92-16.
+101.732
+Definitions relating to Elections Emergency Act.
+—
+As used in ss. 101.731-101.74:
+(1)
+“Department” means the Department of State.
+(2)
+“Division” means the Division of Elections of the Department of State.
+(3)
+“Emergency” means any occurrence, or threat thereof, whether accidental, natural, or caused by human beings, in war or in peace, that results or may result in substantial injury or harm to the population or substantial damage to or loss of property to the extent it will prohibit an election officer’s ability to conduct a safe and orderly election.
+History.
+—
+s. 2, ch. 92-16; s. 595, ch. 95-147.
+101.733
+Election emergency; purpose; elections emergency contingency plan.
+—
+Because of the existing and continuing possibility of an emergency or common disaster occurring before or during a regularly scheduled or special election, and in order to ensure maximum citizen participation in the electoral process and provide a safe and orderly procedure for persons seeking to exercise their right to vote, generally to minimize to whatever degree possible a person’s exposure to danger during declared states of emergency, and to protect the integrity of the electoral process, it is hereby found and declared to be necessary to designate a procedure for the emergency suspension or delay and rescheduling of elections.
+(1)
+The Governor may, upon issuance of an executive order declaring a state of emergency or impending emergency, suspend or delay any election. The Governor may take such action independently or at the request of the Secretary of State, a supervisor of elections from a county affected by the emergency circumstances, or a municipal clerk from a municipality affected by the emergency circumstances.
+(2)
+The Governor, upon consultation with the Secretary of State, shall reschedule any election suspended or delayed due to an emergency. The election shall be held within 10 days after the date of the suspended or delayed election or as soon thereafter as is practicable. Notice of the election must be published on the affected county’s website as provided in s. 50.0311, on the affected supervisor’s website, or at least once in a newspaper of general circulation in the affected area and, where practicable, broadcast as a public service announcement on radio and television stations at least 1 week before the date the election is to be held.
+(3)
+The Division of Elections of the Department of State shall adopt, by rule, an elections emergency contingency plan, which shall contain goals and policies that give specific direction to state and local elections officials when an election has been suspended or delayed due to an emergency. The contingency plan shall be statewide in scope and shall address, but not be limited to, the following concerns:
+(a)
+Providing a procedure for state and local elections officials to follow when an election has been suspended or delayed to ensure notice of the suspension or delay to the proper authorities, the electorate, the communications media, poll workers, and the custodians of polling places.
+(b)
+Providing a procedure for the orderly conduct of a rescheduled election, whether municipal, county, district, or statewide in scope; coordinating those efforts with the appropriate elections official, and the members of the governing body holding such election, if appropriate; and working with the appropriate emergency management officials in determining the safety of existing polling places or designating additional polling places.
+(c)
+Providing a procedure for the release and certification of election returns to the department for elections suspended or delayed and subsequently rescheduled under the provisions of ss. 101.731-101.74.
+History.
+—
+s. 3, ch. 92-16; s. 33, ch. 2023-120.
+101.74
+Temporary change of polling place in case of emergency.
+—
+In case of an emergency existing in any precinct at the time of the holding of any election, the supervisor of elections may establish, at any safe and convenient point outside such precinct, an additional polling place for the electors of that precinct, in which place the qualified electors may vote. The registration books of the affected precinct shall be applicable to, and shall be used at, the polling place so established.
+History.
+—
+s. 39, ch. 3879, 1889; RS 193; s. 70, ch. 4328, 1895; GS 254; RGS 298; CGL 354; s. 5, ch. 26870, 1951; s. 44, ch. 65-380; s. 23, ch. 77-175; s. 2, ch. 83-334; s. 4, ch. 92-16.
+Note.
+—
+Former s. 99.55.
+101.75
+Municipal elections; change of dates for cause.
+—
+(1)
+In any municipality, when the date of the municipal election falls on the same date as any statewide or county election and the voting devices of the voting system used in the county are not available for both elections, the municipality may provide that the municipal election may be held within 30 days prior to or subsequent to the statewide or county election.
+(2)
+The date of the municipal election shall be set by the municipality by ordinance.
+(3)
+Notwithstanding any provision of local law or municipal charter, the governing body of a municipality may, by ordinance, move the date of any municipal election to a date concurrent with any statewide or countywide election. The dates for qualifying for the election moved by the passage of such ordinance shall be specifically provided for in the ordinance. The term of office for any elected municipal official shall commence as provided by the relevant municipal charter or ordinance.
+History.
+—
+ss. 1, 2, ch. 59-493; s. 1, ch. 76-68; s. 24, ch. 77-175; s. 5, ch. 92-16; s. 26, ch. 2001-40; s. 4, ch. 2007-30; s. 23, ch. 2008-95; s. 42, ch. 2011-40.
+Note.
+—
+Former s. 104.451.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0102
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0102. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0102/0102.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 102
+CONDUCTING ELECTIONS AND ASCERTAINING THE RESULTS
+View Entire Chapter
+CHAPTER 102
+CHAPTER 102
+CONDUCTING ELECTIONS AND ASCERTAINING THE RESULTS
+102.012
+Inspectors and clerks to conduct elections.
+102.014
+Poll worker recruitment and training.
+102.021
+Compensation of inspectors, clerks, and deputy sheriffs.
+102.031
+Maintenance of good order at polls; authorities; persons allowed in polling rooms and early voting areas; unlawful solicitation of voters.
+102.071
+Tabulation of votes and proclamation of results.
+102.072
+Vote-by-mail count reporting.
+102.091
+Duty of sheriff to watch for violations; appointment of special officers.
+102.101
+Sheriff and other officers not allowed in polling place.
+102.111
+Elections Canvassing Commission.
+102.112
+Deadline for submission of county returns to the Department of State.
+102.121
+Elections Canvassing Commission to issue certificates.
+102.131
+Returns before canvassing commission.
+102.141
+County canvassing board; duties.
+102.151
+County canvassing board to issue certificates; supervisor to give notice to Department of State.
+102.155
+Certificate of election.
+102.166
+Manual recounts of overvotes and undervotes.
+102.168
+Contest of election.
+102.1682
+Judgment of ouster; revocation of commission; judgment setting aside referendum.
+102.1685
+Venue.
+102.169
+Quo warranto not abridged.
+102.171
+Contest of election to Legislature.
+102.012
+Inspectors and clerks to conduct elections.
+—
+(1)(a)
+The supervisor of elections of each county, at least 20 days prior to the holding of any election, shall appoint an election board comprised of poll workers who serve as clerks or inspectors for each precinct in the county. The clerk shall be in charge of, and responsible for, seeing that the election board carries out its duties and responsibilities. Each inspector and each clerk shall take and subscribe to an oath or affirmation, which shall be written or printed, to the effect that he or she will perform the duties of inspector or clerk of election, respectively, according to law and will endeavor to prevent all fraud, deceit, or abuse in conducting the election. The oath may be taken before an officer authorized to administer oaths or before any of the persons who are to act as inspectors, one of them to swear the others, and one of the others sworn thus, in turn, to administer the oath to the one who has not been sworn. The oaths shall be returned with the poll list and the returns of the election to the supervisor. In all questions that may arise before the members of an election board, the decision of a majority of them shall decide the question. The supervisor of elections of each county shall be responsible for the attendance and diligent performance of his or her duties by each clerk and inspector.
+(b)
+If two or more precincts share the same building and voting place, the supervisor of elections may appoint one election board for the collocated precincts. The supervisor shall provide that a sufficient number of poll workers are appointed to adequately handle the processing of the voters in the collocated precincts.
+(2)
+Each member of the election board shall be able to read and write the English language and shall be a registered qualified elector of the county in which the member is appointed or a person who has preregistered to vote, pursuant to s. 97.041(1)(b), in the county in which the member is appointed. No election board shall be composed solely of members of one political party; however, in any primary in which only one party has candidates appearing on the ballot, all clerks and inspectors may be of that party. Any person whose name appears as an opposed candidate for any office shall not be eligible to serve on an election board.
+(3)
+The supervisor shall furnish inspectors of election for each precinct with the list of registered voters for that precinct. The supervisor shall also furnish to the inspectors of election at the polling place at each precinct in the supervisor’s county a sufficient number of forms and blanks for use on election day.
+(4)
+The election board of each precinct shall attend the polling place by 6 a.m. of the day of the election and shall arrange the furniture, stationery, and voting equipment. The election board shall conduct the voting, beginning and closing at the time set forth in s. 100.011.
+History.
+—
+s. 20, ch. 3879, 1889; RS 174; s. 24, ch. 4328, 1895; s. 8, ch. 4537, 1897; GS 205; RGS 249; s. 1, ch. 8587, 1921; CGL 305; s. 2, ch. 17898, 1937; s. 2, ch. 25384, 1949; s. 6, ch. 26870, 1951; s. 38, ch. 28156, 1953; s. 25, ch. 29934, 1955; s. 10, ch. 57-166; s. 1, ch. 63-53; s. 1, ch. 65-416; s. 1, ch. 67-168; s. 1, ch. 67-385; s. 1, ch. 73-151; s. 25, ch. 77-175; s. 43, ch. 79-400; s. 1, ch. 80-264; s. 50, ch. 81-259; s. 19, ch. 84-302; s. 1, ch. 89-46; s. 596, ch. 95-147; s. 22, ch. 98-129; s. 3, ch. 2000-249; ss. 27, 65, ch. 2001-40; s. 52, ch. 2005-277; s. 43, ch. 2005-278; s. 11, ch. 2010-167; s. 4, ch. 2011-4.
+Note.
+—
+Former s. 99.03.
+102.014
+Poll worker recruitment and training.
+—
+(1)
+The supervisor of elections shall conduct training for inspectors, clerks, and deputy sheriffs prior to each primary, general, and special election for the purpose of instructing such persons in their duties and responsibilities as election officials. The Division of Elections shall develop a statewide uniform training curriculum for poll workers, and each supervisor shall use such curriculum in training poll workers. A certificate may be issued by the supervisor of elections to each person completing such training. No person shall serve as an inspector, clerk, or deputy sheriff for an election unless such person has completed the training as required. A clerk may not work at the polls unless he or she demonstrates a working knowledge of the laws and procedures relating to voter registration, voting system operation, balloting and polling place procedures, and problem-solving and conflict-resolution skills.
+(2)
+A person who has attended previous training conducted within 2 years before the election may be appointed by the supervisor to fill a vacancy on an election board. If no person with prior training is available to fill such vacancy, the supervisor of elections may fill such vacancy in accordance with the provisions of subsection (3) from among persons who have not received the training required by this section.
+(3)
+In the case of absence or refusal to act on the part of any inspector or clerk, the supervisor shall appoint a replacement who meets the qualifications prescribed in s. 102.012(2). The inspector or clerk so appointed shall be a member of the same political party as the clerk or inspector whom he or she replaces.
+(4)
+Each supervisor of elections shall be responsible for training inspectors and clerks, subject to the following minimum requirements:
+(a)
+No clerk shall be entitled to work at the polls unless he or she has had a minimum of 3 hours of training prior to each election.
+(b)
+No inspector shall work at the polls unless he or she has had a minimum of 2 hours of training prior to each election.
+(5)
+The Department of State shall create a uniform polling place procedures manual and adopt the manual by rule. Each supervisor of elections shall ensure that the manual is available in hard copy or electronic form in every polling place. The manual shall guide inspectors, clerks, and deputy sheriffs in the proper implementation of election procedures and laws. The manual shall be indexed by subject, and written in plain, clear, unambiguous language. The manual shall provide specific examples of common problems encountered at the polls and detail specific procedures for resolving those problems. The manual shall include, without limitation:
+(a)
+Regulations governing solicitation by individuals and groups at the polling place;
+(b)
+Procedures to be followed with respect to voters whose names are not on the precinct register;
+(c)
+Proper operation of the voting system;
+(d)
+Ballot handling procedures;
+(e)
+Procedures governing spoiled ballots;
+(f)
+Procedures to be followed after the polls close;
+(g)
+Rights of voters at the polls;
+(h)
+Procedures for handling emergency situations;
+(i)
+Procedures for dealing with irate voters;
+(j)
+The handling and processing of provisional ballots; and
+(k)
+Security procedures.
+The Department of State shall revise the manual as necessary to address new procedures in law or problems encountered by voters and poll workers at the precincts.
+(6)
+Supervisors of elections shall work with the business and local community to develop public-private programs to ensure the recruitment of skilled inspectors and clerks.
+(7)
+The Department of State shall develop a mandatory, statewide, and uniform program for training poll workers on issues of etiquette and sensitivity with respect to voters having a disability. The program must be conducted locally by each supervisor of elections, and each poll worker must complete the program before working during the current election cycle. The supervisor of elections shall contract with a recognized disability-related organization, such as a center for independent living, family network on disabilities, deaf service bureau, or other such organization, to develop and assist with training the trainers in the disability sensitivity programs. The program must include actual demonstrations of obstacles confronted by disabled persons during the voting process, including obtaining access to the polling place, traveling through the polling area, and using the voting system.
+History.
+—
+s. 64, ch. 2001-40; s. 19, ch. 2002-17; s. 18, ch. 2002-281; s. 53, ch. 2005-277; s. 17, ch. 2005-286; s. 24, ch. 2008-95.
+102.021
+Compensation of inspectors, clerks, and deputy sheriffs.
+—
+(1)
+Each inspector and each clerk of any election and each deputy sheriff serving at a precinct shall be paid for his or her services by the supervisor of elections, and each inspector who delivers the returns to the county seat shall receive such sums as the supervisor of elections shall determine.
+(2)
+Inspectors and clerks of election and deputy sheriffs serving at the precincts may receive compensation and travel expenses, as provided in s. 112.061, for attending the poll worker training required by s. 102.014.
+History.
+—
+s. 24, ch. 4328, 1895; s. 8, ch. 4537, 1897; GS 206; RGS 250; CGL 306; ss. 1, 2, ch. 20448, 1941; s. 3, ch. 25384, 1949; s. 6, ch. 26870, 1951; s. 5, ch. 63-400; s. 1, ch. 65-129; s. 25, ch. 77-175; s. 5, ch. 80-20; s. 597, ch. 95-147; s. 4, ch. 2000-249; s. 66, ch. 2001-40.
+Note.
+—
+Former s. 99.04.
+102.031
+Maintenance of good order at polls; authorities; persons allowed in polling rooms and early voting areas; unlawful solicitation of voters.
+—
+(1)
+Each election board shall possess full authority to maintain order at the polls and enforce obedience to its lawful commands during an election and the canvass of the votes.
+(2)
+The sheriff shall deputize a deputy sheriff for each polling place and each early voting site who shall be present during the time the polls or early voting sites are open and until the election is completed, who shall be subject to all lawful commands of the clerk or inspectors, and who shall maintain good order. The deputy may summon assistance from among bystanders to aid him or her when necessary to maintain peace and order at the polls or early voting sites.
+(3)(a)
+No person may enter any polling room or polling place where the polling place is also a polling room, or any early voting area during voting hours except the following:
+1.
+Official poll watchers;
+2.
+Inspectors;
+3.
+Election clerks;
+4.
+The supervisor of elections or his or her deputy;
+5.
+Persons there to vote, persons in the care of a voter, or persons caring for such voter;
+6.
+Law enforcement officers or emergency service personnel there with permission of the clerk or a majority of the inspectors; or
+7.
+A person, whether or not a registered voter, who is assisting with or participating in a simulated election for minors, as approved by the supervisor of elections.
+(b)
+The restriction in this subsection does not apply where the polling room is in an area commonly traversed by the public in order to gain access to businesses or homes or in an area traditionally utilized as a public area for discussion.
+(4)(a)
+No person, political committee, or other group or organization may solicit voters inside the polling place or within 150 feet of a secure ballot intake station or the entrance to any polling place, a polling room where the polling place is also a polling room, an early voting site, or an office of the supervisor where vote-by-mail ballots are requested and printed on demand for the convenience of electors who appear in person to request them. Before the opening of a secure ballot intake station location, a polling place, or an early voting site, the clerk or supervisor shall designate the no-solicitation zone and mark the boundaries.
+(b)
+For the purpose of this subsection, the terms “solicit” or “solicitation” shall include, but not be limited to, seeking or attempting to seek any vote, fact, opinion, or contribution; distributing or attempting to distribute any political or campaign material, leaflet, or handout; conducting a poll except as specified in this paragraph; seeking or attempting to seek a signature on any petition; selling or attempting to sell any item; and engaging in any activity with the intent to influence or effect of influencing a voter. The terms “solicit” or “solicitation” may not be construed to prohibit an employee of, or a volunteer with, the supervisor from providing nonpartisan assistance to voters within the no-solicitation zone such as, but not limited to, giving items to voters, or to prohibit exit polling.
+(c)
+Each supervisor of elections shall inform the clerk of the area within which soliciting is unlawful, based on the particular characteristics of that polling place. The supervisor or the clerk may take any reasonable action necessary to ensure order at the polling places, including, but not limited to, having disruptive and unruly persons removed by law enforcement officers from the polling room or place or from the 150-foot zone surrounding the polling place.
+(d)
+Except as provided in paragraph (a), the supervisor may not designate a no-solicitation zone or otherwise restrict access to any person, political committee, candidate, or other group or organization for the purposes of soliciting voters. This paragraph applies to any public or private property used as a polling place or early voting site.
+(e)
+The owner, operator, or lessee of the property on which a polling place or an early voting site is located, or an agent or employee thereof, may not prohibit the solicitation of voters by a candidate or a candidate’s designee outside of the no-solicitation zone during polling hours.
+(5)
+No photography is permitted in the polling room or early voting area, except an elector may photograph his or her own ballot.
+History.
+—
+s. 58, ch. 4328, 1895; GS 237; RGS 282; CGL 338; s. 6, ch. 26870, 1951; s. 1, ch. 59-212; s. 25, ch. 77-175; s. 2, ch. 85-205; s. 4, ch. 87-184; s. 15, ch. 87-363; s. 29, ch. 89-338; s. 2, ch. 92-134; s. 598, ch. 95-147; s. 5, ch. 2000-249; s. 54, ch. 2005-277; s. 25, ch. 2008-95; s. 18, ch. 2013-37; s. 18, ch. 2013-57; s. 33, ch. 2016-37; s. 1, ch. 2017-3; ss. 11, 35, ch. 2019-162; s. 29, ch. 2021-11; s. 23, ch. 2022-73.
+Note.
+—
+Former s. 99.38.
+102.071
+Tabulation of votes and proclamation of results.
+—
+The election board shall post at the polls, for the benefit of the public, the results of the voting for each office or other item on the ballot as the count is completed. Upon completion of all counts in all races, a certificate of the results shall be drawn up by the inspectors and clerk at each precinct upon a form provided by the supervisor of elections which shall contain the name of each person voted for, for each office, and the number of votes cast for each person for such office; and, if any question is submitted, the certificate shall also contain the number of votes cast for and against the question. The certificate shall be signed by the inspectors and clerk and shall be delivered without delay by one of the inspectors, securely sealed, to the supervisor for immediate publication. All the ballot boxes, ballots, ballot stubs, memoranda, and papers of all kinds used in the election shall also be transmitted, after being sealed by the inspectors, to the supervisor’s office. Registration books and the poll lists shall not be placed in the ballot boxes but shall be returned to the supervisor.
+History.
+—
+s. 30, ch. 3879, 1889; RS 184; s. 61, ch. 4328, 1895; s. 2, ch. 4699, 1899; GS 242; RGS 286; CGL 342; s. 9, ch. 25384, 1949; s. 6, ch. 26329, 1949; s. 6, ch. 26870, 1951; s. 39, ch. 28156, 1953; s. 19, ch. 73-334; s. 25, ch. 77-175; s. 45, ch. 79-400; s. 55, ch. 2005-277.
+Note.
+—
+Former s. 99.43.
+102.072
+Vote-by-mail count reporting.
+—
+Beginning at 7 p.m. on election day, the supervisor must, at least once every hour while actively counting, post on his or her website the number of vote-by-mail ballots that have been received and the number of vote-by-mail ballots that remain uncounted.
+History.
+—
+s. 30, ch. 2021-11; s. 6, ch. 2022-4.
+102.091
+Duty of sheriff to watch for violations; appointment of special officers.
+—
+(1)
+The sheriff shall exercise strict vigilance in the detection of any violations of the election laws and in apprehending the violators.
+(2)
+The Governor, in consultation with the executive director of the Department of Law Enforcement, shall appoint special officers to investigate alleged violations of the election laws to see that violators of the election laws are apprehended and punished. A special officer must be a sworn special agent employed by the Department of Law Enforcement. At least one special officer must be designated in each operational region of the Department of Law Enforcement to serve as a dedicated investigator of alleged violations of the election laws. Appointment as a special officer does not preclude a sworn special agent from conducting other investigations of alleged violations of law, provided that such other investigations do not hinder or interfere with the individual’s ability to investigate alleged violations of the election laws.
+History.
+—
+s. 6, ch. 26870, 1951; s. 3, ch. 65-129; s. 24, ch. 2022-73.
+102.101
+Sheriff and other officers not allowed in polling place.
+—
+A sheriff, a deputy sheriff, a police officer, a special officer appointed pursuant to s. 102.091, or any other officer of the law is not allowed within a polling place without permission from the clerk or a majority of the inspectors, except to cast his or her ballot. Upon the failure of any such officer to comply with this section, the clerk or the inspectors must make an affidavit against the officer for his or her arrest.
+History.
+—
+s. 58, ch. 4328, 1895; GS 239; RGS 284; CGL 340; s. 6, ch. 26870, 1951; s. 4, ch. 65-129; s. 25, ch. 77-175; s. 599, ch. 95-147; s. 25, ch. 2022-73.
+Note.
+—
+Former s. 99.41.
+102.111
+Elections Canvassing Commission.
+—
+(1)
+The Elections Canvassing Commission shall consist of the Governor and two members of the Cabinet selected by the Governor, all of whom shall serve ex officio. If a member of the commission is unable to serve for any reason, the Governor shall appoint a remaining member of the Cabinet. If there is a further vacancy, the remaining members of the commission shall agree on another elected official to fill the vacancy.
+(2)
+The Elections Canvassing Commission shall meet at 8 a.m. on the 9th day after a primary election and at 8 a.m. on the 14th day after a general election to certify the returns of the election for each federal, state, and multicounty office and for each constitutional amendment. If a member of a county canvassing board that was constituted pursuant to s. 102.141 determines, within 5 days after the certification by the Elections Canvassing Commission, that a typographical error occurred in the official returns of the county, the correction of which could result in a change in the outcome of an election, the county canvassing board must certify corrected returns to the Department of State within 24 hours, and the Elections Canvassing Commission must correct and recertify the election returns as soon as practicable.
+(3)
+The Division of Elections shall provide the staff services required by the Elections Canvassing Commission.
+History.
+—
+s. 35, ch. 3879, 1889; RS 189; s. 66, ch. 4328, 1895; GS 248; RGS 292; CGL 348; s. 6, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 30, ch. 71-377; s. 2, ch. 77-122; s. 25, ch. 77-175; s. 6, ch. 82-143; s. 39, ch. 2001-40; s. 56, ch. 2005-277; s. 12, ch. 2010-167; s. 34, ch. 2023-120; s. 9, ch. 2025-21.
+Note.
+—
+Former s. 99.49.
+102.112
+Deadline for submission of county returns to the Department of State.
+—
+(1)
+The county canvassing board or a majority thereof shall file the county returns for the election of a federal or state officer with the Department of State immediately after certification of the election results. The returns must contain a certification by the canvassing board that the board has compared the number of persons who voted with the number of ballots counted and that the certification includes all valid votes cast in the election.
+(2)
+Returns must be filed no later than noon on the 8th day following a primary election and no later than noon on the 13th day following the general election. However, the Department of State may correct typographical errors, including the transposition of numbers, in any returns submitted to the Department of State pursuant to s. 102.111(2).
+(3)
+If the returns are not received by the department by the time specified, such returns shall be ignored and the results on file at that time shall be certified by the department.
+(4)
+If the returns are not received by the department due to an emergency, as defined in s. 101.732, the Elections Canvassing Commission shall determine the deadline by which the returns must be received.
+History.
+—
+s. 30, ch. 89-338; s. 7, ch. 99-140; s. 40, ch. 2001-40; s. 57, ch. 2005-277; s. 32, ch. 2007-30; s. 26, ch. 2008-95; s. 13, ch. 2010-167; s. 35, ch. 2023-120.
+102.121
+Elections Canvassing Commission to issue certificates.
+—
+The Elections Canvassing Commission shall make and sign separate certificates of the result of the election for federal officers, state officers, and constitutional amendments, which certificates must be written and contain the total number of votes cast for and against each person for each office and the total number of votes cast for and against each constitutional amendment. The certificates, the one including the result of the election for presidential electors and representatives to Congress, and the other including the result of the election for state officers, shall be recorded in the Department of State in a book to be kept for that purpose.
+History.
+—
+s. 35, ch. 3879, 1889; RS 189; s. 66, ch. 4328, 1895; GS 250; RGS 294; CGL 350; s. 6, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 25, ch. 77-175; s. 10, ch. 2025-21.
+Note.
+—
+Former s. 99.51.
+102.131
+Returns before canvassing commission.
+—
+If any returns shall appear to be irregular or false so that the Elections Canvassing Commission is unable to determine the true vote for any office, nomination, constitutional amendment, or other measure presented to the electors, the commission shall so certify and shall not include the returns in its determination, canvass, and declaration. The Elections Canvassing Commission in determining the true vote shall not have authority to look beyond the county returns. The Department of State shall file in its office all the returns, together with other documents and papers received by it or the commission. The commission shall canvass the returns for presidential electors and representatives to Congress separately from their canvass of returns for state officers.
+History.
+—
+s. 35, ch. 3879, 1889; RS 189; s. 66, ch. 4328, 1895; GS 249; RGS 293; CGL 349; s. 6, ch. 26870, 1951; s. 5, ch. 65-129; ss. 10, 35, ch. 69-106; s. 25, ch. 77-175; s. 46, ch. 79-400.
+Note.
+—
+Former s. 99.50.
+102.141
+County canvassing board; duties.
+—
+(1)
+The county canvassing board shall be composed of the supervisor of elections; a county court judge, who shall act as chair; and the chair of the board of county commissioners. The names of the canvassing board members must be published on the supervisor’s website upon completion of the logic and accuracy test. At least two alternate canvassing board members must be appointed pursuant to paragraph (e). In the event any member of the county canvassing board is unable to serve, is a candidate who has opposition in the election being canvassed, or is an active participant in the campaign or candidacy of any candidate who has opposition in the election being canvassed, such member shall be replaced as follows:
+(a)
+If a county court judge is unable to serve or if all are disqualified, the chief judge of the judicial circuit in which the county is located must appoint as a substitute member a qualified elector of the county who is not a candidate with opposition in the election being canvassed and who is not an active participant in the campaign or candidacy of any candidate with opposition in the election being canvassed. In such event, the members of the county canvassing board shall meet and elect a chair.
+(b)
+If the supervisor of elections is unable to serve or is disqualified, the chair of the board of county commissioners must appoint as a substitute member a member of the board of county commissioners who is not a candidate with opposition in the election being canvassed and who is not an active participant in the campaign or candidacy of any candidate with opposition in the election being canvassed. The supervisor, however, shall act in an advisory capacity to the canvassing board.
+(c)
+If the chair of the board of county commissioners is unable to serve or is disqualified, the board of county commissioners must appoint as a substitute member one of its members who is not a candidate with opposition in the election being canvassed and who is not an active participant in the campaign or candidacy of any candidate with opposition in the election being canvassed.
+(d)
+If a substitute member or alternate member cannot be appointed as provided elsewhere in this subsection, or in the event of a vacancy in such office, the chief judge of the judicial circuit in which the county is located must appoint as a substitute member or alternate member a qualified elector of the county who is not a candidate with opposition in the election being canvassed and who is not an active participant in the campaign or candidacy of any candidate with opposition in the election being canvassed.
+(e)1.
+The chief judge of the judicial circuit in which the county is located shall appoint a county court judge as an alternate member of the county canvassing board or, if each county court judge is unable to serve or is disqualified, shall appoint an alternate member who is qualified to serve as a substitute member under paragraph (a). Any alternate may serve in any seat.
+2.
+The chair of the board of county commissioners shall appoint a member of the board of county commissioners as an alternate member of the county canvassing board or, if each member of the board of county commissioners is unable to serve or is disqualified, shall appoint an alternate member who is qualified to serve as a substitute member under paragraph (d).
+3.
+If a member of the county canvassing board is unable to participate in a meeting of the board, the chair of the county canvassing board or his or her designee must designate which alternate member will serve as a member of the board in the place of the member who is unable to participate at that meeting.
+4.
+If not serving as one of the three members of the county canvassing board, an alternate member may be present, observe, and communicate with the three members constituting the county canvassing board, but may not vote in the board’s decisions or determinations.
+(2)(a)
+The county canvassing board shall meet in a building accessible to the public in the county where the election occurred at a time and place to be designated by the supervisor to publicly canvass the absent electors’ ballots as provided for in s. 101.68 and provisional ballots as provided by ss. 101.048, 101.049, and 101.6925. During each meeting of the county canvassing board, each political party and each candidate may have one watcher able to view directly or on a display screen ballots being examined for signature matching and other processes. Provisional ballots cast pursuant to s. 101.049 shall be canvassed in a manner that votes for candidates and issues on those ballots can be segregated from other votes. As soon as the absent electors’ ballots and the provisional ballots are canvassed, the board shall proceed to publicly canvass the vote given each candidate, nominee, constitutional amendment, or other measure submitted to the electorate of the county, as shown by the returns then on file in the office of the supervisor.
+(b)
+Public notice of the canvassing board members, alternates, time, and place at which the county canvassing board shall meet to canvass the absent electors’ ballots and provisional ballots must be given at least 48 hours prior thereto by publication on the county’s website as provided in s. 50.0311, on the supervisor’s website, or in one or more newspapers of general circulation in the county. If the applicable website becomes unavailable or there is no newspaper of general circulation in the county, the notice must be posted in at least four conspicuous places in the county. The time given in the notice as to the convening of the meeting of the county canvassing board must be specific and may not be a time period during which the board may meet.
+(c)
+If the county canvassing board suspends or recesses a meeting publicly noticed pursuant to paragraph (b) for a period lasting more than 60 minutes, the board must post on the supervisor’s website the anticipated time at which the board expects to reconvene. If the county canvassing board does not reconvene at the specified time, the board must provide at least 2 hours’ notice, which must be posted on the supervisor’s website, before reconvening.
+(d)
+During any meeting of the county canvassing board, a physical notice must be placed in a conspicuous area near the public entrance to the building in which the meeting is taking place. The physical notice must include the names of the individuals officially serving as the county canvassing board, the names of any alternate members, the time of the meeting, and a brief statement as to the anticipated activities of the county canvassing board.
+(3)
+The canvass, except the canvass of absent electors’ returns and the canvass of provisional ballots, shall be made from the returns and certificates of the inspectors as signed and filed by them with the supervisor, and the county canvassing board shall not change the number of votes cast for a candidate, nominee, constitutional amendment, or other measure submitted to the electorate of the county, respectively, in any polling place, as shown by the returns. All returns shall be made to the board on or before 2 a.m. of the day following any primary, general, or other election. If the returns from any precinct are missing, if there are any omissions on the returns from any precinct, or if there is an obvious error on any such returns, the canvassing board shall order a retabulation of the returns from such precinct. Before canvassing such returns, the canvassing board shall examine the tabulation of the ballots cast in such precinct and determine whether the returns correctly reflect the votes cast. If there is a discrepancy between the returns and the tabulation of the ballots cast, the tabulation of the ballots cast shall be presumed correct and such votes shall be canvassed accordingly.
+(4)(a)
+The supervisor of elections shall upload into the county’s election management system by 7 p.m. on the day before the election the results of all early voting and vote-by-mail ballots that have been canvassed and tabulated by the end of the early voting period. Pursuant to ss. 101.5614(8), 101.657, and 101.68(2), the tabulation of votes cast or the results of such uploads may not be made public before the close of the polls on election day.
+(b)
+The canvassing board shall report all early voting and all tabulated vote-by-mail results to the Department of State within 30 minutes after the polls close. Thereafter, the canvassing board shall report, with the exception of provisional ballot results, updated precinct election results to the department at least every 45 minutes until all results are completely reported. The supervisor of elections shall notify the department immediately of any circumstances that do not permit periodic updates as required. Results shall be submitted in a format prescribed by the department.
+(5)
+The canvassing board shall submit on forms or in formats provided by the division unofficial returns to the Department of State for each federal, statewide, state, or multicounty office or ballot measure no later than noon on the third day after any primary election and no later than noon on the fourth day after any general or other election. Such returns shall include the canvass of all ballots as required by subsection (2).
+(6)
+If the county canvassing board determines that the unofficial returns may contain a counting error in which the vote tabulation system failed to count votes that were properly marked in accordance with the instructions on the ballot, the county canvassing board shall:
+(a)
+Correct the error and retabulate the affected ballots with the vote tabulation system; or
+(b)
+Request that the Department of State verify the tabulation software. When the Department of State verifies such software, the department shall compare the software used to tabulate the votes with the software filed with the department pursuant to s. 101.5607 and check the election parameters.
+(7)
+If the unofficial returns reflect that a candidate for any office was defeated or eliminated by one-half of a percent or less of the votes cast for such office, that a candidate for retention to a judicial office was retained or not retained by one-half of a percent or less of the votes cast on the question of retention, or that a measure appearing on the ballot was approved or rejected by one-half of a percent or less of the votes cast on such measure, a recount shall be ordered of the votes cast with respect to such office or measure. The Secretary of State is responsible for ordering recounts in federal, state, and multicounty races. The county canvassing board or the local board responsible for certifying the election is responsible for ordering recounts in all other races. A recount need not be ordered with respect to the returns for any office, however, if the candidate or candidates defeated or eliminated from contention for such office by one-half of a percent or less of the votes cast for such office request in writing that a recount not be made.
+(a)
+Each canvassing board responsible for conducting a recount shall put each marksense ballot through automatic tabulating equipment and determine whether the returns correctly reflect the votes cast. If any marksense ballot is physically damaged so that it cannot be properly counted by the automatic tabulating equipment during the recount, a true duplicate shall be made of the damaged ballot pursuant to the procedures in s. 101.5614(4). Immediately before the start of the recount, a test of the tabulating equipment shall be conducted as provided in s. 101.5612. If the test indicates no error, the recount tabulation of the ballots cast shall be presumed correct and such votes shall be canvassed accordingly. If an error is detected, the cause therefor shall be ascertained and corrected and the recount repeated, as necessary. The canvassing board shall immediately report the error, along with the cause of the error and the corrective measures being taken, to the Department of State. No later than 11 days after the election, the canvassing board shall file a separate incident report with the Department of State, detailing the resolution of the matter and identifying any measures that will avoid a future recurrence of the error. If the automatic tabulating equipment used in a recount is not part of the voting system and the ballots have already been processed through such equipment, the canvassing board is not required to put each ballot through any automatic tabulating equipment again.
+(b)
+Each canvassing board responsible for conducting a recount where touchscreen ballots were used shall examine the counters on the precinct tabulators to ensure that the total of the returns on the precinct tabulators equals the overall election return. If there is a discrepancy between the overall election return and the counters of the precinct tabulators, the counters of the precinct tabulators shall be presumed correct and such votes shall be canvassed accordingly.
+(c)
+The canvassing board shall submit on forms or in formats provided by the division a second set of unofficial returns to the Department of State for each federal, statewide, state, or multicounty office or ballot measure. The returns shall be filed no later than 3 p.m. on the 5th day after any primary election and no later than 3 p.m. on the 9th day after any general election in which a recount was ordered by the Secretary of State. If the canvassing board is unable to complete the recount prescribed in this subsection by the deadline, the second set of unofficial returns submitted by the canvassing board shall be identical to the initial unofficial returns and the submission shall also include a detailed explanation of why it was unable to timely complete the recount. However, the canvassing board shall complete the recount prescribed in this subsection, along with any manual recount prescribed in s. 102.166, and certify election returns in accordance with the requirements of this chapter.
+(d)
+The Department of State shall adopt detailed rules prescribing additional recount procedures for each certified voting system, which shall be uniform to the extent practicable.
+(8)
+The canvassing board may employ such clerical help to assist with the work of the board as it deems necessary, with at least one member of the board present at all times, until the canvass of the returns is completed. The clerical help shall be paid from the same fund as inspectors and other necessary election officials.
+(9)
+Each member, substitute member, and alternate member of the county canvassing board and all clerical help must wear identification badges during any period in which the county canvassing board is canvassing votes or engaging in other official duties. The identification badges should be worn in a conspicuous and unobstructed area, and include the name of the individual and his or her official position.
+(10)(a)
+The supervisor shall file a report with the Division of Elections on the conduct of the election no later than 20 business days after the Elections Canvassing Commission certifies the election. The report must, at a minimum, describe all of the following:
+1.
+All equipment or software malfunctions at the precinct level, at a counting location, or within computer and telecommunications networks supporting a county location, and the steps that were taken to address the malfunctions.
+2.
+All election definition errors that were discovered after the logic and accuracy test, and the steps that were taken to address the errors.
+3.
+All ballot printing errors, vote-by-mail ballot mailing errors, or ballot supply problems, and the steps that were taken to address the errors or problems.
+4.
+All staffing shortages or procedural violations by employees or precinct workers which were addressed by the supervisor of elections or the county canvassing board during the conduct of the election, and the steps that were taken to correct such issues.
+5.
+All instances where needs for staffing or equipment were insufficient to meet the needs of the voters.
+6.
+Any additional information regarding material issues or problems associated with the conduct of the election.
+(b)
+If a supervisor discovers new or additional information on any of the items required to be included in the report pursuant to paragraph (a) after the report is filed, the supervisor must notify the division that new information has been discovered no later than the next business day after the discovery, and the supervisor must file an amended report signed by the supervisor of elections on the conduct of the election within 10 days after the discovery.
+(c)
+Such reports must be maintained on file in the Division of Elections and must be available for public inspection.
+(d)
+The division shall review the conduct of election reports to determine what problems may be likely to occur in other elections and disseminate such information, along with possible solutions and training, to the supervisors of elections.
+(e)
+The department shall submit the analysis of these reports for the general election as part of the consolidated reports required under ss. 101.591 and 101.595 to the Governor, the President of the Senate, and the Speaker of the House of Representatives by February 15 of each year following a general election.
+(11)
+The supervisor shall file with the department a copy of or an export file from the results database of the county’s voting system and other statistical information as may be required by the department, the Legislature, or the Election Assistance Commission. The department shall adopt rules establishing the required content and acceptable formats for the filings and time for filings.
+History.
+—
+s. 46, ch. 6469, 1913; RGS 350; CGL 407; s. 11, ch. 13761, 1929; s. 6, ch. 26870, 1951; s. 1, ch. 57-104; s. 6, ch. 65-129; s. 19, ch. 73-334; s. 26, ch. 77-175; s. 47, ch. 79-400; s. 18, ch. 84-302; s. 4, ch. 86-33; s. 600, ch. 95-147; s. 41, ch. 2001-40; s. 20, ch. 2002-17; s. 26, ch. 2003-415; s. 58, ch. 2005-277; s. 33, ch. 2007-30; s. 14, ch. 2010-167; s. 43, ch. 2011-40; s. 19, ch. 2013-57; s. 34, ch. 2016-37; s. 10, ch. 2018-112; s. 36, ch. 2019-162; s. 4, ch. 2020-109; s. 31, ch. 2021-11; s. 36, ch. 2023-120.
+Note.
+—
+Former s. 102.45.
+102.151
+County canvassing board to issue certificates; supervisor to give notice to Department of State.
+—
+The county canvassing board shall make and sign duplicate certificates containing the total number of votes cast for each person nominated or elected, the names of persons for whom such votes were cast, and the number of votes cast for each candidate or nominee. One of such certificates which relates to offices for which the candidates or nominees have been voted for in more than one county shall be immediately transmitted to the Department of State, and the second copy filed in the supervisor’s office. The supervisor shall transmit to the Department of State, immediately after the county canvassing board has canvassed the returns of the election, a list containing the names of all county and district officers nominated or elected, the office for which each was nominated or elected, and the mailing address of each.
+History.
+—
+s. 47, ch. 6469, 1913; RGS 351; CGL 408; s. 12, ch. 13761, 1929; s. 5, ch. 25388, 1949; s. 6, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 27, ch. 77-175; s. 31, ch. 89-338.
+Note.
+—
+Former s. 102.46.
+102.155
+Certificate of election.
+—
+The supervisor shall give to any person the election of whom is certified by the county canvassing board a certificate of the person’s election. The Department of State shall give to any person the election of whom is certified by the state canvassing board a certificate of the person’s election. The certificate of election which is issued to any person shall be prima facie evidence of the election of such person.
+History.
+—
+s. 32, ch. 3879, 1889; RS 186; s. 63, ch. 4328, 1895; GS 245; RGS 289; CGL 345; s. 2, ch. 26870, 1951; s. 5, ch. 77-175; s. 1393, ch. 95-147.
+Note.
+—
+Former s. 99.46.
+102.166
+Manual recounts of overvotes and undervotes.
+—
+(1)
+If the second set of unofficial returns pursuant to s. 102.141 indicates that a candidate for any office was defeated or eliminated by one-quarter of a percent or less of the votes cast for such office, that a candidate for retention to a judicial office was retained or not retained by one-quarter of a percent or less of the votes cast on the question of retention, or that a measure appearing on the ballot was approved or rejected by one-quarter of a percent or less of the votes cast on such measure, a manual recount of the overvotes and undervotes cast in the entire geographic jurisdiction of such office or ballot measure shall be ordered unless:
+(a)
+The candidate or candidates defeated or eliminated from contention by one-quarter of 1 percent or fewer of the votes cast for such office request in writing that a recount not be made; or
+(b)
+The number of overvotes and undervotes is fewer than the number of votes needed to change the outcome of the election.
+The Secretary of State is responsible for ordering a manual recount for federal, state, and multicounty races. The county canvassing board or local board responsible for certifying the election is responsible for ordering a manual recount for all other races. A manual recount consists of a recount of marksense ballots or of digital images of those ballots by a person.
+(2)
+Any hardware or software used to identify and sort overvotes and undervotes for a given race or ballot measure must be certified by the Department of State. Any such hardware or software must be capable of simultaneously identifying and sorting overvotes and undervotes in multiple races while simultaneously counting votes. Overvotes and undervotes must be identified and sorted while recounting ballots pursuant to s. 102.141. Overvotes and undervotes may be identified and sorted physically or digitally.
+(3)
+Any manual recount shall be open to the public.
+(4)(a)
+A vote for a candidate or ballot measure shall be counted if there is a clear indication on the ballot that the voter has made a definite choice.
+(b)
+The Department of State shall adopt specific rules for the federal write-in absentee ballot and for each certified voting system prescribing what constitutes a “clear indication on the ballot that the voter has made a definite choice.” The rules shall be consistent, to the extent practicable, and may not:
+1.
+Authorize the use of any electronic or electromechanical reading device to review a hybrid voting system ballot that is produced using a voter interface device and that contains both machine-readable fields and machine-printed text of the contest titles and voter selections, unless the printed text is illegible;
+2.
+Exclusively provide that the voter must properly mark or designate his or her choice on the ballot; or
+3.
+Contain a catch-all provision that fails to identify specific standards, such as “any other mark or indication clearly indicating that the voter has made a definite choice.”
+(c)
+The rule for the federal write-in absentee ballot must address, at a minimum, the following issues:
+1.
+The appropriate lines or spaces for designating a candidate choice and, for state and local races, the office or ballot measure to be voted, including the proximity of each to the other and the effect of intervening blank lines.
+2.
+The sufficiency of designating a candidate’s first or last name when no other candidate in the race has the same or a similar name.
+3.
+The sufficiency of designating a candidate’s first or last name when an opposing candidate has the same or a similar name, notwithstanding generational suffixes and titles such as “Jr.,” “Sr.,” or “III.” The rule should contemplate the sufficiency of additional first names and first initials, middle names and middle initials, generational suffixes and titles, nicknames, and, in general elections, the name or abbreviation of a political party.
+4.
+Candidate designations containing both a qualified candidate’s name and a political party, including those in which the party designated is the candidate’s party, is not the candidate’s party, has an opposing candidate in the race, or does not have an opposing candidate in the race.
+5.
+Situations where the abbreviation or name of a candidate is the same as the abbreviation or name of a political party to which the candidate does not belong, including those in which the party designated has another candidate in the race or does not have a candidate in the race.
+6.
+The use of marks, symbols, or language, such as arrows, quotation marks, or the word “same” or “ditto,” to indicate that the same political party designation applies to all listed offices or the elector’s approval or disapproval of all listed ballot measures.
+7.
+Situations in which an elector designates the name of a qualified candidate for an incorrect office.
+8.
+Situations in which an elector designates an otherwise correct office name that includes an incorrect district number.
+(5)
+Procedures for a manual recount are as follows:
+(a)
+The county canvassing board shall appoint as many counting teams of at least two electors as is necessary to manually recount the ballots. A counting team must have, when possible, members of at least two political parties. A candidate involved in the race shall not be a member of the counting team.
+(b)
+Each duplicate ballot prepared pursuant to s. 101.5614(4) or s. 102.141(7) shall be compared with the original ballot to ensure the correctness of the duplicate.
+(c)
+If a counting team is unable to determine whether the ballot contains a clear indication that the voter has made a definite choice, the ballot shall be presented to the county canvassing board for a determination.
+(d)
+The Department of State shall adopt detailed rules prescribing additional recount procedures for each certified voting system which shall be uniform to the extent practicable. The rules shall address, at a minimum, the following areas:
+1.
+Security of ballots during the recount process;
+2.
+Time and place of recounts;
+3.
+Public observance of recounts;
+4.
+Objections to ballot determinations;
+5.
+Record of recount proceedings;
+6.
+Procedures relating to candidate and petitioner representatives; and
+7.
+Procedures relating to the certification and the use of automatic tabulating equipment that is not part of a voting system.
+(6)
+Nothing in this section precludes a county canvassing board or local board involved in the recount from comparing a digital image of a ballot to the corresponding physical paper ballot during a manual recount.
+History.
+—
+s. 9, ch. 18405, 1937; CGL 1940; Supp. 337(23-b); s. 7, ch. 22858, 1945; s. 5, ch. 26870, 1951; s. 30, ch. 28156, 1953; s. 24, ch. 57-1; s. 29, ch. 65-380; s. 27, ch. 77-175; s. 48, ch. 79-400; s. 15, ch. 89-348; s. 601, ch. 95-147; s. 1, ch. 99-339; s. 42, ch. 2001-40; s. 21, ch. 2002-17; s. 59, ch. 2005-277; s. 34, ch. 2007-30; s. 15, ch. 2010-167; s. 3, ch. 2011-162; s. 2, ch. 2015-40; s. 11, ch. 2018-112; s. 37, ch. 2019-162; s. 5, ch. 2020-109.
+Note.
+—
+Former s. 100.25; s. 101.57.
+102.168
+Contest of election.
+—
+(1)
+Except as provided in s. 102.171, the certification of election or nomination of any person to office, or of the adoption of a constitutional amendment or the result on any question submitted by referendum, may be contested in the circuit court by any unsuccessful candidate for such office or nomination thereto or by any voter qualified to vote in the election related to such candidacy or constitutional amendment, or by any taxpayer, respectively.
+(2)
+Such contestant shall file a complaint, together with the fees prescribed in chapter 28, with the clerk of the circuit court within 10 days after midnight of the date the last board responsible for certifying the results officially certifies the results of the election being contested.
+(3)
+The complaint must set forth the grounds on which the contestant intends to establish his or her right to such office; or set aside the result of the election on a referendum or constitutional amendment. The grounds for contesting an election or a constitutional amendment under this section are:
+(a)
+Misconduct, fraud, or corruption on the part of any election official or any member of the canvassing board sufficient to change or place in doubt the result of the election.
+(b)
+Ineligibility of the successful candidate for the nomination or office in dispute or of the proposed constitutional amendment for placement on the ballot.
+(c)
+Receipt of a number of illegal votes or rejection of a number of legal votes sufficient to change or place in doubt the result of the election.
+(d)
+Proof that any voter, election official, or canvassing board member was given or offered a bribe or reward in money, property, or any other thing of value for the purpose of procuring the successful candidate’s nomination or election or determining the result on any question by referendum or constitutional amendment.
+(4)
+The canvassing board responsible for canvassing the election is an indispensable party defendant in county and local elections. The Elections Canvassing Commission is an indispensable party defendant in federal, state, and multicounty elections; in elections for constitutional amendments; and in elections for justice of the Supreme Court, judge of a district court of appeal, and judge of a circuit court. The successful candidate is an indispensable party to any action brought to contest the election or nomination of a candidate. The sponsor of a constitutional amendment proposed by initiative petition, identified pursuant to s. 100.371, is an indispensable party to any action brought to contest such election.
+(5)
+A statement of the grounds of contest may not be rejected, nor the proceedings dismissed, by the court for any want of form if the grounds of contest provided in the statement are sufficient to clearly inform the defendant of the particular proceeding or cause for which the nomination or election is contested.
+(6)
+A copy of the complaint shall be served upon the defendant and any other person named therein in the same manner as in other civil cases under the laws of this state. Within 10 days after the complaint has been served, the defendant must file an answer admitting or denying the allegations on which the contestant relies or stating that the defendant has no knowledge or information concerning the allegations, which shall be deemed a denial of the allegations, and must state any other defenses, in law or fact, on which the defendant relies. If an answer is not filed within the time prescribed, the defendant may not be granted a hearing in court to assert any claim or objection that is required by this subsection to be stated in an answer.
+(7)
+Any candidate, qualified elector, or taxpayer presenting such a contest to a circuit judge is entitled to an immediate hearing. However, the court in its discretion may limit the time to be consumed in taking testimony, with a view therein to the circumstances of the matter and to the proximity of any succeeding election.
+(8)
+In any contest that requires a review of the canvassing board’s decision on the legality of a provisional or vote-by-mail ballot pursuant to s. 101.048 or s. 101.68 based upon a comparison of the signature of the elector in the registration records with the signature on the provisional or vote-by-mail voter’s certificate or the provisional or vote-by-mail cure affidavit, the circuit court may not review or consider any evidence other than the signature of the elector in the registration records, the signature on the respective voter’s certificate or cure affidavit, and any supporting identification that the elector submitted with the cure affidavit. The court’s review of such issue shall be to determine only if the canvassing board abused its discretion in making its decision.
+History.
+—
+ss. 7, 8, Art. 10, ch. 38, 1845; RS 199; GS 283; RGS 379; CGL 444; s. 3, ch. 26870, 1951; s. 16, ch. 65-378; s. 28, ch. 77-175; s. 49, ch. 79-400; s. 602, ch. 95-147; s. 3, ch. 99-339; s. 44, ch. 2001-40; s. 60, ch. 2005-277; s. 44, ch. 2011-40; s. 35, ch. 2016-37; s. 38, ch. 2019-162; s. 11, ch. 2025-21.
+Note.
+—
+Former s. 104.06; s. 99.192; s. 102.161.
+102.1682
+Judgment of ouster; revocation of commission; judgment setting aside referendum.
+—
+(1)
+If the contestant is found to be entitled to the office, if on the findings a judgment to that effect is entered, and if the adverse party has been commissioned or has entered upon the duties thereof or is holding the office, then a judgment of ouster shall be entered against such party. Upon presentation of a certified copy of the judgment of ouster to the Governor, the Governor shall revoke such commission and commission the person found in the judgment to be entitled to the office.
+(2)
+If a judgment is entered setting aside a referendum, the election shall be void.
+History.
+—
+s. 9, Art. 10, ch. 38, 1845; RS 201; GS 285; RGS 381; CGL 446; s. 3, ch. 26870, 1951; s. 18, ch. 65-378; s. 29, ch. 77-175.
+Note.
+—
+Former s. 104.08; s. 99.211; s. 102.163.
+102.1685
+Venue.
+—
+The venue for contesting a nomination or election or the results of a referendum shall be in the county in which the contestant qualified or in the county in which the question was submitted for referendum or, if the election or referendum covered more than one county, then in Leon County.
+History.
+—
+s. 3, ch. 26870, 1951; s. 17, ch. 65-378; s. 30, ch. 77-175.
+Note.
+—
+Former s. 99.202; s. 102.162.
+102.169
+Quo warranto not abridged.
+—
+Nothing in this code shall be construed to abrogate or abridge any remedy that may now exist by quo warranto, but in such case the proceeding prescribed in s. 102.168 shall be an alternative or cumulative remedy.
+History.
+—
+RS 203; GS 287; RGS 383; CGL 448; s. 3, ch. 26870, 1951; s. 19, ch. 65-378; s. 31, ch. 77-175.
+Note.
+—
+Former s. 104.10; s. 99.221; s. 102.164.
+102.171
+Contest of election to Legislature.
+—
+The jurisdiction to hear any contest of the election of a member to either house of the Legislature is vested in the applicable house, as each house, pursuant to s. 2, Art. III of the State Constitution, is the sole judge of the qualifications, elections, and returns of its members. Therefore, the certification of election of any person to the office of member of either house of the Legislature may only be contested in the applicable house by an unsuccessful candidate for such office, in accordance with the rules of that house. This section does not apply to any contest of the nomination of any person for the office of member of either house of the Legislature at any primary or special primary election in which only those qualified electors who are registered members of the political party holding such primary election may vote, as provided for in s. 5(b), Art. VI of the State Constitution. This section does apply to any contest of a primary or special primary election for the office of member of either house of the Legislature in which all qualified electors may vote, as provided for in s. 5(b), Art. VI of the State Constitution, and the recipient of the most votes is deemed to be elected according to applicable law.
+History.
+—
+s. 4, ch. 99-339.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0103
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0103. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0103/0103.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 103
+PRESIDENTIAL ELECTORS; POLITICAL PARTIES; EXECUTIVE COMMITTEES AND MEMBERS
+View Entire Chapter
+CHAPTER 103
+CHAPTER 103
+PRESIDENTIAL ELECTORS; POLITICAL PARTIES; EXECUTIVE COMMITTEES
+AND MEMBERS
+103.011
+Electors of President and Vice President.
+103.021
+Nomination for presidential electors.
+103.022
+Write-in candidates for President and Vice President.
+103.051
+Congress sets meeting dates of electors.
+103.061
+Meeting of electors and filling of vacancies.
+103.062
+Plurality of votes to fill vacancy; proceeding in case of tie.
+103.071
+Compensation of electors.
+103.081
+Use of party name; political advertising.
+103.091
+Political parties.
+103.092
+Affiliated party committees.
+103.095
+Minor political parties.
+103.101
+Presidential preference primary.
+103.121
+Powers and duties of executive committees.
+103.131
+Political party offices deemed vacant in certain cases.
+103.141
+Removal of county executive committee member for violation of oath.
+103.011
+Electors of President and Vice President.
+—
+Electors of President and Vice President, known as presidential electors, shall be elected on the first Tuesday after the first Monday in November of each year the number of which is a multiple of 4. Votes cast for the actual candidates for President and Vice President shall be counted as votes cast for the presidential electors supporting such candidates. The Department of State shall certify as elected the presidential electors of the candidates for President and Vice President who receive the highest number of votes.
+History.
+—
+ss. 2, 3, ch. 3879, 1889; RS 157; s. 4, ch. 4328, 1895; s. 3, ch. 4537, 1897; GS 174; RGS 218; CGL 253; s. 2, ch. 25383, 1949; s. 7, ch. 26870, 1951; ss. 10, 35, ch. 69-106; s. 32, ch. 77-175.
+Note.
+—
+Former s. 98.07.
+103.021
+Nomination for presidential electors.
+—
+Candidates for presidential electors shall be nominated in the following manner:
+(1)(a)
+The Governor shall nominate the presidential electors of each political party. The state executive committee of each political party shall by resolution recommend candidates for presidential electors and deliver a certified copy thereof to the Governor no later than noon on August 24 of each presidential election year. The Governor shall nominate only the electors recommended by the state executive committee of the respective political party.
+(b)
+The state executive committee of each political party shall submit the Florida voter registration number and contact information of each presidential elector. Each such presidential elector must be a qualified registered voter of this state and member of the party he or she represents who has taken a written oath that he or she will vote for the candidates of the party that he or she is nominated to represent.
+(c)
+The Governor shall certify to the Department of State no later than 5 p.m. on August 24, in each presidential election year, the names of a number of electors for each political party equal to the number of senators and representatives which this state has in Congress.
+(2)
+The names of the presidential electors may not be printed on the general election ballot, but the names of the actual candidates for President and Vice President for whom the presidential electors will vote if elected must be printed on the ballot in the order in which the party of which the candidate is a nominee polled the highest number of votes for Governor in the last general election.
+(3)
+Candidates for President and Vice President with no party affiliation may have their names printed on the general election ballots if a petition is signed by 1 percent of the registered voters of this state, as shown by the compilation by the Department of State for the last preceding general election. A separate petition from each county for which signatures are solicited shall be submitted to the supervisor of elections of the respective county no later than noon on July 15 of each presidential election year. The supervisor shall check the names and, on or before the date of the primary election, shall certify the number shown as registered voters of the county. The supervisor shall be paid by the person requesting the certification the cost of checking the petitions as prescribed in s. 99.097. The supervisor shall then forward the certificate to the Department of State which shall determine whether or not the percentage factor required in this section has been met. When the percentage factor required in this section has been met, the Department of State shall order the names of the candidates for whom the petition was circulated to be included on the ballot and shall allow the required number of persons to be certified as presidential electors in the same manner as party candidates.
+(4)(a)
+A minor political party that is affiliated with a national party holding a national convention to nominate candidates for President and Vice President of the United States may have the names of its candidates for President and Vice President of the United States printed on the general election ballot by filing with the Department of State a certificate naming the candidates for President and Vice President and listing the required number of persons to serve as presidential electors. Notification to the Department of State under this subsection must be made no later than 5 p.m. on August 24 of the year in which the general election is held. When the Department of State has been so notified, it shall order the names of the candidates nominated by the minor political party to be included on the ballot and shall allow the required number of persons to be certified as presidential electors in the same manner as other party candidates. As used in this section, the term “national party” means a political party that is registered with and recognized as a qualified national committee of a political party by the Federal Election Commission.
+(b)
+A minor political party that is not affiliated with a national party holding a national convention to nominate candidates for President and Vice President of the United States may have the names of its candidates for President and Vice President printed on the general election ballot if a petition is signed by 1 percent of the registered voters of this state, as shown by the compilation by the Department of State for the preceding general election. A separate petition from each county for which signatures are solicited must be submitted to the supervisors of elections of the respective county no later than noon on July 15 of each presidential election year. The supervisor shall check the names and, on or before the date of the primary election, shall certify the number shown as registered voters of the county. The supervisor shall be paid by the person requesting the certification the cost of checking the petitions as prescribed in s. 99.097. The supervisor shall then forward the certificate to the Department of State, which shall determine whether or not the percentage factor required in this section has been met. When the percentage factor required in this section has been met, the Department of State shall order the names of the candidates for whom the petition was circulated to be included on the ballot and shall allow the required number of persons to be certified as presidential electors in the same manner as other party candidates.
+(5)
+When for any reason a person nominated or elected as a presidential elector is unable to serve because of death, incapacity, or otherwise, the Governor may appoint a person to fill such vacancy who possesses the qualifications required for the elector to have been nominated in the first instance. Such person shall file with the Governor a written oath that he or she will support the same candidates for President and Vice President that the person who is unable to serve was committed to support.
+(6)
+A presidential elector’s refusal or failure to vote for the candidates for President and Vice President of the party the presidential elector was nominated to represent constitutes his or her resignation of the position. The vote he or she cast may not be recorded, and his or her position as a presidential elector must be filled as provided in subsection (5).
+History.
+—
+s. 1, ch. 25143, 1949; s. 7, ch. 26870, 1951; s. 1, ch. 61-364; s. 1, ch. 67-353; ss. 10, 35, ch. 69-106; ss. 7, 8, ch. 70-269; s. 1, ch. 70-439; s. 32, ch. 77-175; s. 8, ch. 83-251; s. 13, ch. 85-80; s. 603, ch. 95-147; s. 5, ch. 99-318; s. 61, ch. 2005-277; s. 18, ch. 2005-286; s. 45, ch. 2011-40; s. 37, ch. 2023-120.
+Note.
+—
+Former s. 102.011.
+103.022
+Write-in candidates for President and Vice President.
+—
+(1)
+Persons seeking to qualify for election as write-in candidates for President and Vice President of the United States may have a blank space provided on the general election ballot for their names to be written in by filing an oath with the Department of State at any time after the 57th day, but before noon of the 49th day, before the date of the primary election in the year in which a presidential election is held.
+(2)
+The Department of State shall prescribe the form to be used in administering the oath.
+(3)
+The write-in candidates shall file with the department a certificate naming the required number of persons to serve as electors. The write-in candidates shall submit the Florida voter registration number and contact information for each presidential elector. Each presidential elector must be a qualified registered voter of this state. Such write-in candidates are not entitled to have their names on the ballot.
+History.
+—
+s. 15, ch. 81-105; s. 9, ch. 83-251; s. 19, ch. 2005-286; s. 38, ch. 2023-120.
+103.051
+Congress sets meeting dates of electors.
+—
+The presidential electors shall, on the day that is directed by Congress and at the time fixed by the Governor, meet at Tallahassee and perform the duties required of them by the Constitution and laws of the United States.
+History.
+—
+s. 6, ch. 71, 1847; RS 204; GS 288; RGS 384; CGL 449; s. 7, ch. 26870, 1951; s. 32, ch. 77-175; s. 62, ch. 2005-277.
+Note.
+—
+Former s. 105.01.
+103.061
+Meeting of electors and filling of vacancies.
+—
+Each presidential elector shall, on the day fixed by Congress to elect a President and Vice President and at the time fixed by the Governor, give notice to the Governor that the elector is in Tallahassee and ready to perform the duties of presidential elector. The Governor shall forthwith deliver to the presidential electors present a certificate of the names of all the electors; and if, on examination thereof, it should be found that one or more electors are absent, the electors present shall elect by ballot, in the presence of the Governor, a person or persons to fill such vacancy or vacancies as may have occurred through the nonattendance of one or more of the electors.
+History.
+—
+s. 8, ch. 71, 1847; RS 206; GS 290; RGS 386; CGL 451; s. 7, ch. 26870, 1951; s. 32, ch. 77-175; s. 1, ch. 85-19; s. 604, ch. 95-147; s. 63, ch. 2005-277.
+Note.
+—
+Former s. 105.03.
+103.062
+Plurality of votes to fill vacancy; proceeding in case of tie.
+—
+If any more than the number of persons required to fill the vacancy as provided by s. 103.061 receive the highest and an equal number of votes, then the election of those receiving such highest and equal number of votes shall be determined by lot drawn by the Governor in the presence of the presidential electors attending; otherwise, those, to the number required, receiving the highest number of votes, shall be considered elected to fill the vacancy.
+History.
+—
+s. 7, ch. 26870, 1951; s. 2, ch. 67-353; s. 32, ch. 77-175.
+Note.
+—
+Former s. 103.031.
+103.071
+Compensation of electors.
+—
+Each presidential elector attending as such in Tallahassee shall be reimbursed for his or her travel expenses, as provided in s. 112.061, from the elector’s place of residence to Tallahassee and return. Such expenses shall be paid upon approval of the Governor. The amounts necessary to meet the requirements of this section shall be included in the legislative budget request of the Governor. If the amounts appropriated for this purpose are insufficient, the Executive Office of the Governor may release the necessary amounts from the deficiency appropriation.
+History.
+—
+s. 12, ch. 71, 1847; RS 210; GS 294; RGS 390; CGL 455; ss. 7, chs. 26869, 26870, 1951; s. 1, ch. 61-32; s. 6, ch. 63-400; ss. 2, 3, ch. 67-371; ss. 31, 35, ch. 69-106; s. 86, ch. 79-190; s. 605, ch. 95-147.
+Note.
+—
+Former s. 105.07.
+103.081
+Use of party name; political advertising.
+—
+(1)
+No person shall use the name, abbreviation, or symbol of any political party, the name, abbreviation, or symbol of which is filed with the Department of State, in political advertising in newspapers, other publications, handbills, radio or television, or any other form of advertising in connection with any political activities in support of a candidate of any other party, unless such person shall first obtain the written permission of the chair of the state executive committee of the party the name, abbreviation, or symbol of which is to be used.
+(2)
+No person or group of persons shall use the name, abbreviation, or symbol of any political party, the name, abbreviation, or symbol of which is filed with the Department of State, in connection with any club, group, association, or organization of any kind unless approval and permission have been given in writing by the state executive committee of such party. This subsection shall not apply to county executive committees of such parties and organizations which are chartered by the national executive committee of the party the name, abbreviation, or symbol of which is to be used, or to organizations using the name of any political party which organizations have been in existence and organized on a statewide basis for a period of 10 years.
+(3)
+A political party may file with the Department of State names of groups or committees associated with the political party. Such filed names may not be used without first obtaining the written permission of the chair of the state executive committee of the party.
+(4)
+Notwithstanding any other provision of law to the contrary, an affiliated party committee shall be entitled to use the name, abbreviation, or symbol of the political party of its leader as defined in s. 103.092.
+History.
+—
+s. 6, ch. 6469, 1913; RGS 304; CGL 360; s. 7, ch. 26870, 1951; s. 26, ch. 29934, 1955; s. 1, ch. 57-202; s. 1, ch. 61-424; s. 3, ch. 67-353; ss. 10, 35, ch. 69-106; s. 32, ch. 77-175; s. 606, ch. 95-147; s. 35, ch. 2007-30; ss. 1, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.
+Note.
+—
+Former s. 102.06.
+103.091
+Political parties.
+—
+(1)
+Each political party of the state shall be represented by a state executive committee. County executive committees and other committees may be established in accordance with the rules of the state executive committee. A political party may provide for the selection of its national committee and its state and county executive committees in such manner as it deems proper. Unless otherwise provided by party rule, the county executive committee of each political party shall consist of at least two members, a man and a woman, from each precinct, who shall be called the precinct committeeman and committeewoman. For counties divided into 40 or more precincts, the state executive committee may adopt a district unit of representation for such county executive committees. Upon adoption of a district unit of representation, the state executive committee shall request the supervisor of elections of that county, with approval of the board of county commissioners, to provide for election districts as nearly equal in number of registered voters as possible. Each county committeeman or committeewoman shall be a resident of the precinct from which he or she is elected. Each state committeeman or committeewoman must be a member in good standing of the county executive committee for the county in which the state committeeman or committeewoman is a registered voter.
+(2)
+The state executive committee of a political party may by resolution provide a method of election of national committeemen and national committeewomen and of nomination of presidential electors, if such party is entitled to a place on the ballot as otherwise provided for presidential electors, and may provide also for the election of delegates and alternates to national conventions.
+(3)
+The state executive committee of each political party shall file with the Department of State the names and addresses of its chair, vice chair, secretary, treasurer, and members and shall file a copy of its constitution, bylaws, and rules and regulations with the Department of State. Each county executive committee shall file with the state executive committee and with the supervisor of elections the names and addresses of its officers and members.
+(4)
+Any political party other than a minor political party may by rule provide for the membership of its state or county executive committee to be elected for 4-year terms at the primary election in each year a presidential election is held. The terms commence on the first day of the month following each presidential general election; but the names of candidates for political party offices may not be placed on the ballot at any other election. The results of such election are determined by a plurality of the votes cast. In such event, electors seeking to qualify for such office shall do so with the Department of State or supervisor of elections not earlier than noon of the 71st day, or later than noon of the 67th day, preceding the primary election. A qualifying office may accept and hold qualifying papers submitted not earlier than 14 days before the beginning of the qualifying period, to be processed and filed during the qualifying period. The outgoing chair of each county executive committee shall, within 30 days after the committee members take office, hold an organizational meeting of all newly elected members for the purpose of electing officers. The chair of each state executive committee shall, within 60 days after the committee members take office, hold an organizational meeting of all newly elected members for the purpose of electing officers.
+(5)
+In the event no county committeeman or committeewoman is elected, or a vacancy occurs from any other cause in any county executive committee, the county chair shall call a meeting of the county executive committee by due notice to all members, and the vacancy shall be filled by a majority vote of those present at a meeting at which a quorum is present. Such vacancy shall be filled by a qualified member of the political party residing in the district where the vacancy occurred and for the unexpired portion of the term.
+(6)(a)
+In addition to the members provided for in subsection (1), each county executive committee shall include all members of the Legislature who are residents of the county and members of their respective political party and who shall be known as at-large committeemen and committeewomen.
+(b)
+Each state executive committee shall include, as at-large committeemen and committeewomen, all members of the United States Congress representing the State of Florida who are members of the political party, all statewide elected officials who are members of the party, 10 Florida registered voters who are members of the party as appointed by the Governor if the Governor is a member of the party, and the President of the Senate or the Minority Leader in the Senate, and the Speaker of the House of Representatives or the Minority Leader in the House of Representatives, whichever is a member of the political party, and 20 members of the Legislature who are members of the political party. Ten of the legislators shall be appointed with the concurrence of the state chair of the respective party, as follows: five to be appointed by the President of the Senate; five by the Minority Leader in the Senate; five by the Speaker of the House of Representatives; and five by the Minority Leader in the House.
+(c)
+When a political party allows any member of the state executive committee to have more than one vote per person, other than by proxy, in a matter coming before the state executive committee, the 20 members of the Legislature appointed under paragraph (b) shall not be appointed to the state executive committee and the following elected officials who are members of that political party shall be appointed and shall have the following votes:
+1.
+Governor: a number equal to 15 percent of votes cast by state executive committeemen and committeewomen;
+2.
+Lieutenant Governor: a number equal to 5 percent of the votes cast by state executive committeemen and committeewomen;
+3.
+Each member of the United States Senate representing the state: a number equal to 10 percent of the votes cast by state executive committeemen and committeewomen;
+4.
+Attorney General: a number equal to 5 percent of the votes cast by state executive committeemen and committeewomen;
+5.
+Chief Financial Officer: a number equal to 5 percent of the votes cast by state executive committeemen and committeewomen;
+6.
+Commissioner of Agriculture: a number equal to 5 percent of the votes cast by state executive committeemen and committeewomen;
+7.
+President of the Senate: a number equal to 10 percent of the votes cast by state executive committeemen and committeewomen;
+8.
+Minority leader of the Senate: a number equal to 10 percent of the votes cast by state executive committeemen and committeewomen;
+9.
+Speaker of the House of Representatives: a number equal to 10 percent of the votes cast by state executive committeemen and committeewomen;
+10.
+Minority leader of the House of Representatives: a number equal to 10 percent of the votes cast by state executive committeemen and committeewomen; and
+11.
+Each member of the United States House of Representatives representing the state: a number equal to 1 percent of the votes cast by state executive committeemen and committeewomen.
+(d)1.
+The governing body of each state executive committee as defined by party rule shall include as at-large committeemen and committeewomen all statewide elected officials who are members of such political party; up to four members of the United States Congress representing the state who are members of such political party and who shall be appointed by the state chair on the basis of geographic representation; the permanent presiding officer selected by the members of each house of the Legislature who are members of such political party; and the minority leader selected by the members of each house of the Legislature who are members of such political party.
+2.
+All members of the governing body shall have one vote per person.
+(7)
+Members of the state executive committee or governing body may vote by proxy.
+(8)
+The conducting of official business in connection with one’s public office constitutes good and sufficient reason for failure to attend county or state executive committee meetings or a meeting of the governing body.
+History.
+—
+ss. 1, 2, 2A, ch. 22039, 1943; ss. 1, 2, 3, ch. 22678, 1945; s. 7, ch. 26870, 1951; s. 32, ch. 77-175; s. 1, ch. 78-1; s. 22, ch. 79-164; s. 3, ch. 81-312; s. 12, ch. 82-143; s. 3, ch. 83-242; s. 33, ch. 84-302; s. 17, ch. 87-363; s. 607, ch. 95-147; s. 2, ch. 95-197; s. 110, ch. 2003-261; s. 20, ch. 2005-286; s. 36, ch. 2007-30; s. 39, ch. 2023-120.
+Note.
+—
+Former s. 102.71.
+103.092
+Affiliated party committees.
+—
+(1)
+For purposes of this section, the term “leader” means the President of the Senate, the Speaker of the House of Representatives, or the minority leader of either house of the Legislature, until a person is designated by a political party conference of members of either house to succeed to any such position, at which time the designee becomes the leader for purposes of this section.
+(2)
+The leader of each political party conference of the House of Representatives and the Senate may establish a separate, affiliated party committee to support the election of candidates of the leader’s political party. The affiliated party committee is subject to the same provisions of chapter 106 as a political party.
+(3)
+Each affiliated party committee shall:
+(a)
+Adopt bylaws to include, at a minimum, the designation of a treasurer.
+(b)
+Conduct campaigns for candidates who are members of the leader’s political party.
+(c)
+Establish an account.
+(d)
+Raise and expend funds. Such funds may not be expended or committed to be expended except when authorized by the leader of the affiliated party committee.
+History.
+—
+ss. 2, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.
+103.095
+Minor political parties.
+—
+(1)
+Any group of citizens organized for the general purposes of electing to office qualified persons and determining public issues under the democratic processes of the United States may become a minor political party of this state by filing with the department a certificate showing the name of the organization, the names and addresses of its current officers, including the members of its executive committee, accompanied by a completed uniform statewide voter registration application as specified in s. 97.052 for each of its current officers and members of its executive committee which reflect their affiliation with the proposed minor political party, and a copy of its constitution, bylaws, and rules and regulations.
+(2)
+Each elector registered to vote in the minor political party in which he or she has so designated has a fundamental right to fully and meaningfully participate in the business and affairs of the minor political party without any monetary encumbrance. The constitution, bylaws, rules, regulations, or other equivalent documents must reflect this fundamental right and must provide for and contain reasonable provisions that, at a minimum, prescribe procedures to: prescribe its membership; conduct its meetings according to generally accepted parliamentary practices; timely notify its members as to the time, date, and place of all of its meetings; timely publish notice on its public and functioning website as to the time, date, and place of all of its meetings; elect its officers; remove its officers; make party nominations when required by law; conduct campaigns for party nominees; raise and expend party funds; select delegates to its national convention, if applicable; select presidential electors, if applicable; and alter or amend all of its governing documents.
+(3)
+The members of the executive committee must elect a chair, vice chair, secretary, and treasurer, all of whom shall be members of the minor political party, and no member may hold more than one office, except that one person may hold the offices of secretary and treasurer.
+(4)
+Upon approval of the minor political party’s filing, the department shall process the voter registration applications submitted by the minor political party’s officers and members of its executive committee. It shall be the duty of the minor political party to notify the department of any changes in the filing certificate within 5 days after such changes.
+(5)
+The Division of Elections shall adopt rules to prescribe the manner in which political parties, including minor political parties, may have their filings with the Department of State canceled. Such rules shall, at a minimum, provide for:
+(a)
+Notice, which must contain the facts and conduct that warrant the intended action, including, but not limited to, the failure to have any voters registered in the party, the failure to notify the department of replacement officers, the failure to file campaign finance reports, the failure to adopt and file with the department all governing documents containing the provisions specified in subsection (2), and limited activity.
+(b)
+Adequate opportunity to respond.
+(c)
+Appeal of the decision to the Florida Elections Commission. Such appeals are exempt from the confidentiality provisions of s. 106.25.
+(6)
+The requirements of this section are retroactive for any minor political party registered with the department on July 1, 2011, and must be complied with within 180 days after the department provides notice to the minor political party of the requirements contained in this section. Failure of the minor political party to comply with the requirements within 180 days after receipt of the notice shall automatically result in the cancellation of the minor political party’s registration.
+History.
+—
+s. 46, ch. 2011-40.
+103.101
+Presidential preference primary.
+—
+(1)
+Each political party other than a minor political party shall, at the presidential preference primary, elect one person to be the party’s candidate for nomination for President of the United States or select delegates to the party’s national nominating convention, as provided by party rule. The presidential preference primary shall be held on the third Tuesday in March of each presidential election year. Any party rule directing the vote of delegates at a national nominating convention shall reasonably reflect the results of the presidential preference primary, if one is held.
+(2)
+By November 30 of the year preceding the presidential preference primary, each political party shall submit to the Secretary of State a list of its presidential candidates to be placed on the presidential preference primary ballot or candidates entitled to have delegates appear on the presidential preference primary ballot. The Secretary of State shall prepare and publish a list of the names of the presidential candidates submitted not later than on the first Tuesday after the first Monday in December of the year preceding the presidential preference primary. The Department of State shall immediately notify each presidential candidate listed by the Secretary of State. Such notification shall be in writing, by registered mail, with return receipt requested.
+(3)
+A candidate’s name shall be printed on the presidential preference primary ballot unless the candidate submits to the Department of State, prior to the second Tuesday after the first Monday in December of the year preceding the presidential preference primary, an affidavit stating that he or she is not now, and does not presently intend to become, a candidate for President at the upcoming nominating convention. If a candidate withdraws pursuant to this subsection, the Department of State shall notify the state executive committee that the candidate’s name will not be placed on the ballot. The Department of State shall, no later than the third Tuesday after the first Monday in December of the year preceding the presidential preference primary, certify to each supervisor of elections the name of each candidate for political party nomination to be printed on the ballot.
+(4)
+The names of candidates for political party nominations for President of the United States shall be printed on official ballots for the presidential preference primary election and shall be marked, counted, canvassed, returned, and proclaimed in the same manner and under the same conditions, so far as they are applicable, as in other state elections. If party rule requires the delegates’ names to be printed on the official presidential preference primary ballot, the name of the presidential candidates for that political party may not be printed separately, but the ballot may reflect the presidential candidate to whom the delegate is pledged. If, however, a political party has only one presidential candidate, neither the name of the candidate nor the names of the candidate’s delegates shall be printed on the ballot.
+(5)
+The state executive committee of each party, by rule adopted at least 60 days prior to the presidential preference primary election, shall determine the number, and establish procedures to be followed in the selection, of delegates and delegate alternates from among each candidate’s supporters. A copy of any rule adopted by the executive committee shall be filed with the Department of State within 7 days after its adoption and shall become a public record. The Department of State shall review the procedures and shall notify the state executive committee of each political party of any ballot limitations.
+(6)
+All names of candidates or delegates shall be listed as directed by the Department of State.
+History.
+—
+s. 3, ch. 6469, 1913; RGS 301; CGL 357; ss. 1, 2, 3, ch. 22058, 1943; s. 1, ch. 22729, 1945; s. 1, ch. 25235, 1949; s. 7, ch. 26870, 1951; s. 1, ch. 29947, 1955; s. 4, ch. 67-353; ss. 10, 35, ch. 69-106; s. 2, ch. 71-236; s. 2, ch. 75-246; s. 1, ch. 77-174; s. 32, ch. 77-175; s. 14, ch. 82-143; s. 1, ch. 84-92; s. 1, ch. 86-97; s. 32, ch. 89-338; s. 15, ch. 91-45; s. 608, ch. 95-147; s. 28, ch. 2001-40; s. 3, ch. 2007-30; s. 27, ch. 2008-95; s. 47, ch. 2011-40; s. 28, ch. 2012-116; s. 20, ch. 2013-57; s. 1, ch. 2015-5.
+Note.
+—
+Former ss. 102.03, 102.72.
+103.121
+Powers and duties of executive committees.
+—
+(1)(a)
+Each state and county executive committee of a political party shall have the power and duty:
+1.
+To adopt a constitution by two-thirds vote of the full committee.
+2.
+To adopt such bylaws as it may deem necessary by majority vote of the full committee.
+3.
+To conduct its meetings according to generally accepted parliamentary practice.
+4.
+To make party nomination when required by law.
+5.
+To conduct campaigns for party nominees.
+6.
+To raise and expend party funds. Such funds may not be expended or committed to be expended except after written authorization by the chair of the state or county executive committee.
+(b)
+The county executive committee shall receive payment of assessments upon candidates to be voted for in a single county except state senators, state representatives, and representatives to the Congress of the United States; an affiliated party committee controlled by a leader of the Senate as defined in s. 103.092 shall receive payment of assessments upon candidates for the office of state senator, and an affiliated party committee controlled by a leader of the House of Representatives as defined in s. 103.092 shall receive payment of assessments upon candidates for the office of state representative; and the state executive committees shall receive all other assessments authorized. All party assessments shall be 2 percent of the annual salary of the office sought by the respective candidate. All such committee assessments shall be remitted to the state executive committee of the appropriate party and distributed in accordance with subsection (5), except that assessments for candidates for the office of state senator or state representative shall be remitted to the appropriate affiliated party committee.
+(2)
+The chair and treasurer of an executive committee of any political party shall be accountable for the funds of such committee and jointly liable for their proper expenditure for authorized purposes only. The funds of each such state executive committee shall be publicly audited at the end of each calendar year and a copy of such audit furnished to the Department of State for its examination prior to April 1 of the ensuing year. When filed with the Department of State, copies of such audit shall be public documents. The treasurer of each county executive committee shall maintain adequate records evidencing receipt and disbursement of all party funds received by him or her, and such records shall be publicly audited at the end of each calendar year and a copy of such audit filed with the supervisor of elections and the state executive committee prior to April 1 of the ensuing year.
+(3)
+Any chair or treasurer of a state or county executive committee of any political party who knowingly misappropriates, or makes an unlawful expenditure of, or a false or improper accounting for, the funds of such committee is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(4)
+The central committee or other equivalent governing body of each state executive committee shall adopt a rule which governs the time and manner in which the respective county executive committees of such party may endorse, certify, screen, or otherwise recommend one or more candidates for such party’s nomination for election. Upon adoption, such rule shall provide the exclusive method by which a county committee may so endorse, certify, screen, or otherwise recommend. No later than the date on which qualifying for public office begins pursuant to s. 99.061, the chair of each county executive committee shall notify in writing the supervisor of elections of his or her county whether the county executive committee has endorsed or intends to endorse, certify, screen, or otherwise recommend candidates for nomination pursuant to party rule. A copy of such notification shall be provided to the Secretary of State and to the chair of the appropriate state executive committee.
+(5)
+The state chair of each state executive committee shall return the 2-percent committee assessment for county candidates to the appropriate county executive committees only upon receipt of a written statement that such county executive committee chooses not to endorse, certify, screen, or otherwise recommend one or more candidates for such party’s nomination for election and upon the state chair’s determination that the county executive committee is in compliance with all Florida statutes and all state party rules, bylaws, constitutions, and requirements.
+History.
+—
+ss. 20, 21, 23, 28, ch. 6469, 1913; RGS 324, 325, 327, 332; CGL 381, 382, 384, 389; s. 1, ch. 25389, 1949; s. 9, ch. 26329, 1949; s. 7, ch. 26870, 1951; s. 41, ch. 28156, 1953; s. 2, ch. 29935, 1955; s. 1, ch. 57-743; s. 1, ch. 61-157; s. 1, ch. 63-97; ss. 6, 7, 8, ch. 67-353; ss. 10, 35, ch. 69-106; s. 26, ch. 77-104; s. 32, ch. 77-175; s. 50, ch. 79-400; s. 1, ch. 82-160; s. 25, ch. 83-217; s. 2, ch. 83-242; s. 1, ch. 89-256; s. 609, ch. 95-147; s. 64, ch. 2005-277; ss. 3, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.
+Note.
+—
+Former ss. 102.27, 102.28, 102.30, 102.35.
+103.131
+Political party offices deemed vacant in certain cases.
+—
+Every political party office shall be deemed vacant in the following cases:
+(1)
+By the death of the incumbent.
+(2)
+By his or her resignation.
+(3)
+By his or her removal.
+(4)
+By his or her ceasing to be an inhabitant of the state, district, or precinct for which he or she shall have been elected or appointed.
+(5)
+By his or her refusal to accept the office.
+(6)
+The conviction of the incumbent of any felony.
+(7)
+The decision of a competent tribunal declaring void his or her election or appointment, and his or her removal by said tribunal.
+(8)
+By his or her failure to attend, without good and sufficient reason, three consecutive meetings, regular or called, of the committee of which he or she is a member.
+History.
+—
+s. 1, ch. 59-68; s. 1, ch. 61-122; s. 9, ch. 67-353; s. 610, ch. 95-147.
+103.141
+Removal of county executive committee member for violation of oath.
+—
+If the county executive committee by at least a two-thirds majority vote of the members of the committee, attending a meeting held after due notice has been given and at which meeting a quorum is present, determines an incumbent county executive committee member is guilty of an offense involving a violation of the member’s oath of office, the member shall be removed from office and the office shall be deemed vacant. However, if the county committee wrongfully removes a county committee member and the committee member wrongfully removed files suit in the circuit court alleging his or her removal was wrongful and wins the suit, the committee member shall be restored to office and the county committee shall pay the costs incurred by the wrongfully removed committee member in bringing the suit, including reasonable attorney’s fees.
+History.
+—
+s. 10, ch. 67-353; s. 611, ch. 95-147; s. 37, ch. 2007-30; s. 48, ch. 2011-40.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0104
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0104. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0104/0104.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 104
+ELECTION CODE: VIOLATIONS; PENALTIES
+View Entire Chapter
+CHAPTER 104
+CHAPTER 104
+ELECTION CODE: VIOLATIONS; PENALTIES
+104.011
+False swearing; submission of false voter registration information; prosecution prohibited.
+104.012
+Consideration for registration; interference with registration; soliciting registrations for compensation; alteration of registration application.
+104.013
+Unauthorized use, possession, or destruction of voter information card.
+104.031
+False declaration to secure assistance in preparing ballot.
+104.041
+Fraud in connection with casting vote.
+104.045
+Vote selling.
+104.047
+Vote-by-mail ballots and voting; violations.
+104.051
+Violations; neglect of duty; corrupt practices.
+104.0515
+Voting rights; deprivation of, or interference with, prohibited; penalty.
+104.061
+Corruptly influencing voting.
+104.0615
+Voter intimidation or suppression prohibited; criminal penalties.
+104.0616
+Vote-by-mail ballots and voting; violations.
+104.071
+Remuneration by candidate for services, support, etc.; penalty.
+104.081
+Threats of employers to control votes of employees.
+104.091
+Aiding, abetting, advising, or conspiring in violation of the code.
+104.101
+Failure to assist officers at polls.
+104.11
+Neglect of duty by sheriff or other officer.
+104.13
+Intermingling ballots.
+104.15
+Unqualified electors willfully voting.
+104.155
+Unqualified noncitizen electors willfully voting; prohibited defenses; aiding or soliciting noncitizen electors in voting prohibited.
+104.16
+Voting fraudulent ballot.
+104.17
+Voting in person after casting vote-by-mail ballot.
+104.18
+Casting more than one ballot at any election.
+104.185
+Petitions; knowingly signing more than once; signing another person’s name or a fictitious name.
+104.186
+Initiative petitions; violations.
+104.187
+Initiative petitions; registration.
+104.188
+Petition forms gathered from immediate family; violations.
+104.19
+Using stickers or rubber stamps or carrying certain items in voting booth; penalty.
+104.20
+Ballot not to be seen, and other offenses.
+104.21
+Changing electors’ ballots.
+104.22
+Stealing and destroying records, etc., of election.
+104.23
+Disclosing how elector votes.
+104.24
+Penalty for assuming name.
+104.26
+Penalty for destroying ballot or booth, etc.
+104.271
+False or malicious charges against, or false statements about, opposing candidates; penalty.
+104.2715
+False representations of military service; penalty.
+104.29
+Inspectors refusing to allow watchers while ballots are counted.
+104.30
+Voting system; unlawful possession; tampering.
+104.31
+Political activities of state, county, and municipal officers and employees.
+104.32
+Supervisor of elections; delivery of books to successor.
+104.39
+Witnesses as to violations.
+104.41
+Violations not otherwise provided for.
+104.42
+Fraudulent registration and illegal voting; investigation.
+104.43
+Grand juries; special investigation.
+104.011
+False swearing; submission of false voter registration information; prosecution prohibited.
+—
+(1)
+A person who willfully swears or affirms falsely to any oath or affirmation, or willfully procures another person to swear or affirm falsely to an oath or affirmation, in connection with or arising out of voting or elections commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(2)
+A person who willfully submits any false voter registration information commits a felony of the third degree, punishable as provided in s. 775.082 or s. 775.083.
+(3)
+A person may not be charged or convicted for a violation of this section for affirming that he or she has not been convicted of a felony or that, if convicted, he or she has had voting rights restored, if such violation is alleged to have occurred on or after January 8, 2019, but before July 1, 2019.
+History.
+—
+s. 15, ch. 14715, 1931; CGL 1936 Supp. 8202(6); s. 8, ch. 26870, 1951; s. 19, ch. 71-136; s. 33, ch. 77-175; s. 38, ch. 94-224; s. 31, ch. 97-13; s. 26, ch. 2019-162.
+104.012
+Consideration for registration; interference with registration; soliciting registrations for compensation; alteration of registration application.
+—
+(1)
+Any person who gives anything of value that is redeemable in cash to any person in consideration for his or her becoming a registered voter commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. This section shall not be interpreted, however, to exclude such services as transportation to the place of registration or baby-sitting in connection with the absence of an elector from home for registering.
+(2)
+A person who by bribery, menace, threat, or other corruption, directly or indirectly, influences, deceives, or deters or attempts to influence, deceive, or deter any person in the free exercise of that person’s right to register to vote at any time, upon the first conviction, commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084, and, upon any subsequent conviction, commits a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(3)
+A person may not solicit or pay another person to solicit voter registrations for compensation that is based upon the number of registrations obtained. A person who violates the provisions of this subsection commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(4)
+A person who alters the voter registration application of any other person, without the other person’s knowledge and consent, commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 1, ch. 63-198; s. 20, ch. 71-136; s. 33, ch. 77-175; s. 39, ch. 94-224; s. 1394, ch. 95-147; s. 32, ch. 97-13; s. 23, ch. 98-129.
+104.013
+Unauthorized use, possession, or destruction of voter information card.
+—
+(1)
+It is unlawful for any person knowingly to have in his or her possession any blank, forged, stolen, fictitious, counterfeit, or unlawfully issued voter information card unless possession by such person has been duly authorized by the supervisor.
+(2)
+It is unlawful for any person to barter, trade, sell, or give away a voter information card unless said person has been duly authorized to issue a voter information card.
+(3)
+It is unlawful for any person willfully to destroy or deface the information card of a duly registered voter.
+(4)
+Any person who violates any of the provisions of this section commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 1, ch. 76-49; s. 1, ch. 77-174; s. 34, ch. 77-175; s. 3, ch. 91-224; s. 40, ch. 94-224; s. 1395, ch. 95-147; s. 24, ch. 98-129; s. 44, ch. 2005-278.
+104.031
+False declaration to secure assistance in preparing ballot.
+—
+Any person who makes a false declaration for assistance in voting, or in the preparation of his or her ballot, in any election is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 49, ch. 4328, 1895; GS 3829; RGS 5892; CGL 8156; s. 8, ch. 26870, 1951; s. 22, ch. 71-136; s. 35, ch. 77-175; s. 4, ch. 91-224; s. 613, ch. 95-147.
+Note.
+—
+Former s. 99.31.
+104.041
+Fraud in connection with casting vote.
+—
+Any person perpetrating or attempting to perpetrate or aid in the perpetration of any fraud in connection with any vote cast, to be cast, or attempted to be cast, is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 4, ch. 22014, 1943; s. 1, ch. 25385, 1949; s. 8, ch. 26870, 1951; s. 23, ch. 71-136; s. 35, ch. 77-175.
+Note.
+—
+Former s. 101.14.
+104.045
+Vote selling.
+—
+Any person who:
+(1)
+Corruptly offers to vote for or against, or to refrain from voting for or against, any candidate in any election in return for pecuniary or other benefit; or
+(2)
+Accepts a pecuniary or other benefit in exchange for a promise to vote for or against, or to refrain from voting for or against, any candidate in any election,
+is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 1, ch. 81-107; s. 25, ch. 98-129.
+104.047
+Vote-by-mail ballots and voting; violations.
+—
+(1)
+Except as provided in s. 101.62 or s. 101.655, any person who requests a vote-by-mail ballot on behalf of an elector is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(2)
+Any person who marks or designates a choice on the ballot of another person, except as provided in s. 101.051, s. 101.655, or s. 101.661, is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 26, ch. 98-129; s. 34, ch. 99-2; s. 57, ch. 2001-40; s. 54, ch. 2005-278; s. 36, ch. 2016-37.
+104.051
+Violations; neglect of duty; corrupt practices.
+—
+(1)
+Any official who willfully violates any of the provisions of this election code shall be excluded from the polls. Any election official who is excluded shall be replaced as provided in this code.
+(2)
+Any official who willfully refuses or willfully neglects to perform his or her duties as prescribed by this election code is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(3)
+Any official who performs his or her duty as prescribed by this election code fraudulently or corruptly is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(4)
+Any supervisor, deputy supervisor, or election employee who attempts to influence or interfere with any elector voting a ballot commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(5)
+Any supervisor who willfully violates any provision of the Florida Election Code is, upon a finding of such violation by a court of competent jurisdiction, prohibited from receiving the special qualification salary pursuant to s. 145.09(3) for a period of 24 months, dating from the time of the violation.
+History.
+—
+s. 30, ch. 4328, 1895; s. 10, ch. 4537, 1897; s. 16, ch. 14715, 1931; s. 4, ch. 18407, 1937; GS 215, 3824; RGS 259, 5885; CGL 315, 8148; 1936 Supp. 8151(1); 1940 Supp. 7476(8); ss. 3-E, 4, 7, 8, ch. 22018, 1943; s. 8, ch. 26870, 1951; s. 42, ch. 28156, 1953; s. 24, ch. 71-136; s. 35, ch. 77-175; s. 21, ch. 90-315; s. 614, ch. 95-147; s. 27, ch. 98-129; s. 39, ch. 2019-162.
+104.0515
+Voting rights; deprivation of, or interference with, prohibited; penalty.
+—
+(1)
+All citizens of this state who are otherwise qualified by law to vote at any election by the people in this state or in any district, county, city, town, municipality, school district, or other subdivision of this state shall be entitled and allowed to vote at all such elections without distinction according to race, color, or previous condition of servitude, notwithstanding any law, ordinance, regulation, custom, or usage to the contrary.
+(2)
+No person acting under color of law shall:
+(a)
+In determining whether any individual is qualified under law to vote in any election, apply any standard, practice, or procedure different from the standards, practices, or procedures applied under law to other individuals within the same political subdivision who have been found to be qualified to vote; or
+(b)
+Deny the right of any individual to vote in any election because of an error or omission on any record or paper relating to any application, registration, or other act requisite to voting, if such error or omission is not material in determining whether such individual is qualified under law to vote in such election. This paragraph shall apply to vote-by-mail ballots only if there is a pattern or history of discrimination on the basis of race, color, or previous condition of servitude in regard to vote-by-mail ballots.
+(3)
+No person, whether acting under color of law or otherwise, shall intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other person for the purpose of interfering with the right of such other person to vote or not to vote as that person may choose, or for the purpose of causing such other person to vote for, or not vote for, any candidate for any office at any general, special, or primary election held solely or in part for the purpose of selecting or electing any such candidate.
+(4)
+No voting qualification or prerequisite to voting, and no standard, practice, or procedure, shall be imposed or applied by any political subdivision of this state to deny or abridge the right of any citizen to vote on account of race or color.
+(5)
+Any person who violates the provisions of this section is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 1, ch. 82-59; s. 26, ch. 83-217; s. 5, ch. 91-224; s. 615, ch. 95-147; s. 28, ch. 98-129; s. 37, ch. 2016-37.
+104.061
+Corruptly influencing voting.
+—
+(1)
+Whoever by bribery, menace, threat, or other corruption whatsoever, either directly or indirectly, attempts to influence, deceive, or deter any elector in voting or interferes with him or her in the free exercise of the elector’s right to vote at any election commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084 for the first conviction, and a felony of the second degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084, for any subsequent conviction.
+(2)
+No person shall directly or indirectly give or promise anything of value to another intending thereby to buy that person’s or another’s vote or to corruptly influence that person or another in casting his or her vote. Any person who violates this subsection is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. However, this subsection shall not apply to the serving of food to be consumed at a political rally or meeting or to any item of nominal value which is used as a political advertisement, including a campaign message designed to be worn by a person.
+History.
+—
+ss. 1, 3, ch. 6470, 1913; RGS 5918; CGL 8182; s. 1, ch. 19617, 1939; s. 1, ch. 20934, 1941; s. 7, ch. 22858, 1945; s. 8, ch. 26870, 1951; s. 1, ch. 65-379; s. 25, ch. 71-136; s. 35, ch. 77-175; s. 51, ch. 79-400; s. 21, ch. 81-304; s. 22, ch. 90-315; s. 616, ch. 95-147; s. 29, ch. 98-129.
+104.0615
+Voter intimidation or suppression prohibited; criminal penalties.
+—
+(1)
+This section may be cited as the “Voter Protection Act.”
+(2)
+A person may not directly or indirectly use or threaten to use force, violence, or intimidation or any tactic of coercion or intimidation to induce or compel an individual to:
+(a)
+Vote or refrain from voting;
+(b)
+Vote or refrain from voting for any particular individual or ballot measure;
+(c)
+Refrain from registering to vote; or
+(d)
+Refrain from acting as a legally authorized election official or poll watcher.
+(3)
+A person may not knowingly use false information to:
+(a)
+Challenge an individual’s right to vote;
+(b)
+Induce or attempt to induce an individual to refrain from voting or registering to vote; or
+(c)
+Induce or attempt to induce an individual to refrain from acting as a legally authorized election official or poll watcher.
+(4)
+A person may not knowingly destroy, mutilate, or deface a voter registration form or election ballot or obstruct or delay the delivery of a voter registration form or election ballot.
+(5)
+A person who violates subsection (2), subsection (3), or subsection (4) commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 76, ch. 2005-277.
+104.0616
+Vote-by-mail ballots and voting; violations.
+—
+(1)
+For purposes of this section, the term “immediate family” means a person’s spouse or the parent, child, grandparent, grandchild, or sibling of the person or the person’s spouse.
+(2)
+Any person who distributes, orders, requests, collects, delivers, or otherwise physically possesses more than two vote-by-mail ballots per election in addition to his or her own ballot or a ballot belonging to an immediate family member, except as provided in ss. 101.6105-101.694, including supervised voting at assisted living facilities and nursing home facilities as authorized under s. 101.655, commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 53, ch. 2005-278; s. 21, ch. 2013-57; s. 8, ch. 2014-17; s. 38, ch. 2016-37; s. 32, ch. 2021-11; s. 26, ch. 2022-73.
+104.071
+Remuneration by candidate for services, support, etc.; penalty.
+—
+(1)
+It is unlawful for any person supporting a candidate, or for any candidate, in order to aid or promote the nomination or election of such candidate in any election, directly or indirectly to:
+(a)
+Promise to appoint another person, promise to secure or aid in securing appointment, nomination or election of another person to any public or private position, or to any position of honor, trust, or emolument, except one who has publicly announced or defined what his or her choice or purpose in relation to any election in which he or she may be called to take part, if elected.
+(b)
+Give, or promise to give, pay, or loan, any money or other thing of value to the owner, editor, publisher, or agent, of any communication media, as well as newspapers, to advocate or oppose, through such media, any candidate for nomination in any election or any candidate for election, and no such owner, editor, or agent shall give, solicit, or accept such payment or reward. It shall likewise be unlawful for any owner, editor, publisher, or agent of any poll-taking or poll-publishing concern to advocate or oppose through such poll any candidate for nomination in any election or any candidate for election in return for the giving or promising to give, pay, or loan any money or other thing of value to said owner, editor, publisher, or agent of any poll-taking or poll-publishing concern.
+(c)
+Give, pay, expend, or contribute any money or thing of value for the furtherance of the candidacy of any other candidate.
+(d)
+Furnish, give, or deliver to another person any money or other thing of value for any purpose prohibited by the election laws.
+This subsection shall not prohibit a candidate from furnishing complimentary tickets to the candidate’s campaign fund raiser to other candidates.
+(2)
+A candidate may give his or her own personal or business funds to another candidate, so long as the contribution is not given in exchange for a promise or expectation that the recipient will directly or indirectly do anything to aid or promote the candidacy of the contributor which the recipient would not have otherwise done.
+(3)
+Any person who violates any provision of this section is guilty of a felony of the third degree, punishable as provided in s. 775.082 or s. 775.083, and from and after conviction shall be disqualified to hold office.
+History.
+—
+s. 8, ch. 26870, 1951; s. 2, ch. 65-379; s. 26, ch. 71-136; s. 35, ch. 77-175; s. 52, ch. 79-400; s. 33, ch. 89-338; s. 617, ch. 95-147.
+104.081
+Threats of employers to control votes of employees.
+—
+It is unlawful for any person having one or more persons in his or her service as employees to discharge or threaten to discharge any employee in his or her service for voting or not voting in any election, state, county, or municipal, for any candidate or measure submitted to a vote of the people. Any person who violates the provisions of this section is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 8, ch. 26870, 1951; s. 27, ch. 71-136; s. 35, ch. 77-175; s. 618, ch. 95-147; s. 30, ch. 98-129.
+104.091
+Aiding, abetting, advising, or conspiring in violation of the code.
+—
+(1)
+Any person who knowingly aids, abets, or advises the violation of this code shall be punished in like manner as the principal offender.
+(2)
+Any person who agrees, conspires, combines, or confederates with another person to commit a violation of this code shall be punished as if he or she had committed the violation.
+(3)
+Any person who knows of a felony violation of this code and gives any aid to the offender who has violated this code, with intent that the offender avoid or escape detection, arrest, trial, or punishment, shall be punished as if he or she had committed the violation. This subsection does not prohibit a member of The Florida Bar from giving legal advice to a client.
+History.
+—
+s. 8, ch. 26870, 1951; s. 1, ch. 67-164; s. 28, ch. 71-136; s. 35, ch. 77-175; s. 1, ch. 2002-214.
+104.101
+Failure to assist officers at polls.
+—
+Any person summoned by the sheriff or deputy sheriff who fails or refuses to assist him or her in maintaining the peace at the polls is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 27, ch. 3879, 1889; RS 181; s. 58, ch. 4328, 1895; GS 3834; RGS 5896; CGL 8160; s. 8, ch. 26870, 1951; s. 29, ch. 71-136; s. 35, ch. 77-175; s. 619, ch. 95-147.
+Note.
+—
+Former s. 99.40.
+104.11
+Neglect of duty by sheriff or other officer.
+—
+Any sheriff, deputy sheriff, or other officer who willfully neglects or willfully refuses to perform his or her duties relating to elections is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 8, ch. 26870, 1951; s. 30, ch. 71-136; s. 35, ch. 77-175; s. 620, ch. 95-147.
+104.13
+Intermingling ballots.
+—
+Whoever willfully places any ballot in the ballot box except as properly voted by electors, or willfully intermingles any other ballots which have not been duly received during the election with the ballots which are voted by the electors, is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 8, ch. 26870, 1951; s. 3, ch. 65-379; s. 32, ch. 71-136; s. 35, ch. 77-175.
+104.15
+Unqualified electors willfully voting.
+—
+Whoever, knowing he or she is not a qualified elector, willfully votes at any election is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 8, ch. 26870, 1951; s. 5, ch. 65-379; s. 34, ch. 71-136; s. 35, ch. 77-175; s. 621, ch. 95-147.
+104.155
+Unqualified noncitizen electors willfully voting; prohibited defenses; aiding or soliciting noncitizen electors in voting prohibited.
+—
+(1)
+Any person who is not a qualified elector because he or she is not a citizen of the United States and who willfully votes in any election is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. A person’s ignorance of his or her citizenship status or a person’s bona fide belief of his or her citizenship status cannot be raised as a defense in a prosecution for a violation of this subsection.
+(2)
+Any person who aids or solicits another to violate subsection (1) with knowledge that such person is not a citizen of the United States is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 1, ch. 2025-1.
+104.16
+Voting fraudulent ballot.
+—
+(1)
+Any elector who knowingly votes or attempts to vote a fraudulent ballot, or any person who knowingly solicits, or attempts, to vote a fraudulent ballot, is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(2)
+Subsection (1) does not apply to an elector to whom notice has been sent pursuant to s. 98.075(7) and who votes a provisional ballot or vote-by-mail ballot before a final determination of eligibility is made.
+History.
+—
+s. 36, ch. 4328, 1895; GS 221; s. 42, ch. 6469, 1913; RGS 266, 346, 5911; CGL 322, 403; 8175; s. 6, ch. 17898, 1937; s. 3, ch. 17901, 1937; s. 6, ch. 25187, 1949; s. 4, ch. 25386, 1949; s. 8, ch. 26870, 1951; s. 6, ch. 65-379; s. 35, ch. 71-136; s. 35, ch. 77-175; s. 40, ch. 2023-120.
+Note.
+—
+Former ss. 99.20, 102.41.
+104.17
+Voting in person after casting vote-by-mail ballot.
+—
+Any person who willfully votes or attempts to vote both in person and by vote-by-mail ballot at any election is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 1, ch. 22014, 1943; s. 1, ch. 25385, 1949; s. 8, ch. 26870, 1951; s. 7, ch. 65-379; s. 36, ch. 71-136; s. 35, ch. 77-175; s. 39, ch. 2016-37.
+Note.
+—
+Former s. 101.11.
+104.18
+Casting more than one ballot at any election.
+—
+(1)
+Except as provided in s. 101.6952, whoever willfully votes more than one ballot at any election commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. In any prosecution under this section, the prosecution may proceed in any jurisdiction in which one of the ballots was willfully cast, and it is not necessary to prove which of the ballots was cast first.
+(2)
+For purposes of this section, the term “votes more than one ballot at any election” means an occurrence of any of the following:
+(a)
+Voting more than once in the same election within a county located within this state.
+(b)
+Voting more than once in the same election by voting in two or more counties located in this state.
+(c)
+Voting more than once in the same election by voting in this state and in one or more other states or territories of the United States.
+History.
+—
+s. 8, ch. 26870, 1951; s. 8, ch. 65-379; s. 37, ch. 71-136; s. 35, ch. 77-175; s. 4, ch. 2011-162; s. 41, ch. 2023-120.
+104.185
+Petitions; knowingly signing more than once; signing another person’s name or a fictitious name.
+—
+(1)
+A person who knowingly signs a petition or petitions for a candidate, a minor political party, or an issue more than one time commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(2)
+A person who signs another person’s name or a fictitious name to any petition, or who fills in missing information on a signed petition, to secure ballot position for a candidate, a minor political party, or an issue commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 1, ch. 77-178; s. 6, ch. 91-224; s. 23, ch. 97-13; s. 27, ch. 2022-73; s. 12, ch. 2025-21.
+104.186
+Initiative petitions; violations.
+—
+A person who compensates a petition circulator as defined in s. 97.021 based on the number of petition forms gathered, as prohibited by s. 100.371(5), commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. This section does not prohibit employment relationships that do not base payment on the number of signatures collected.
+History.
+—
+s. 4, ch. 2019-64; s. 28, ch. 2022-73; s. 13, ch. 2025-21.
+104.187
+Initiative petitions; registration.
+—
+A person who violates s. 100.371(4)(a) commits a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 5, ch. 2019-64; s. 14, ch. 2025-21.
+104.188
+Petition forms gathered from immediate family; violations.
+—
+(1)
+For the purposes of this section, the term “immediate family” means a person’s spouse or the parent, child, grandparent, grandchild, or sibling of the person or the person’s spouse.
+(2)
+A person who collects, delivers, or otherwise physically possesses more than 25 signed petition forms in addition to his or her own signed petition form or a signed petition form belonging to an immediate family member, and who is not registered as a petition circulator pursuant to s. 100.371(4)(a), commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(3)
+This section may not be construed to prohibit a person from distributing petition forms designed for personal use as described in s. 100.371(3)(e).
+History.
+—
+s. 15, ch. 2025-21.
+104.19
+Using stickers or rubber stamps or carrying certain items in voting booth; penalty.
+—
+(1)(a)
+It is unlawful for any person casting a ballot at any election to use stickers or rubber stamps or to carry into a voting booth any mechanical device, paper, or memorandum which might be used to affect adversely the normal election process.
+(b)
+In casting a write-in ballot, the elector shall cast the same in his or her own handwriting or in the handwriting of an authorized person aiding him or her.
+(2)
+Any person who violates the provisions of this section is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 7, ch. 25187, 1949; s. 8, ch. 26870, 1951; s. 1, ch. 70-136; s. 39, ch. 71-136; s. 35, ch. 77-175; s. 16, ch. 81-105; s. 622, ch. 95-147.
+Note.
+—
+Former s. 99.201.
+104.20
+Ballot not to be seen, and other offenses.
+—
+Any elector who, except as provided by law, allows his or her ballot to be seen by any person; takes or removes, or attempts to take or remove, any ballot from the polling place before the close of the polls; places any mark on his or her ballot by which it may be identified; endeavors to induce any elector to show how he or she voted; aids or attempts to aid any elector unlawfully; or prints or procures to be printed, or has in his or her possession, any copies of any ballot prepared to be voted is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 55, ch. 4328, 1895; s. 2, ch. 4536, 1897; GS 3835; RGS 5897; CGL 8161; s. 8, ch. 26870, 1951; s. 40, ch. 71-136; s. 35, ch. 77-175; s. 623, ch. 95-147; s. 19, ch. 2002-281.
+Note.
+—
+Former s. 99.34.
+104.21
+Changing electors’ ballots.
+—
+Whoever fraudulently changes or attempts to change the vote or ballot of any elector, by which actions such elector is prevented from voting such ballot or from voting such ballot as the elector intended, is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 8, ch. 26870, 1951; s. 10, ch. 65-379; s. 41, ch. 71-136; s. 35, ch. 77-175; s. 624, ch. 95-147.
+104.22
+Stealing and destroying records, etc., of election.
+—
+Any person who is guilty of stealing, willfully and wrongfully breaking, destroying, mutilating, defacing, or unlawfully moving or securing and detaining the whole or any part of any ballot box or any record tally sheet or copy thereof, returns, or any other paper or document provided for, or who fraudulently makes any entry or alteration therein except as provided by law, or who permits any other person so to do, is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 8, ch. 26870, 1951; s. 11, ch. 65-379; s. 42, ch. 71-136; s. 35, ch. 77-175.
+104.23
+Disclosing how elector votes.
+—
+Any election official or person assisting any elector who willfully discloses how any elector voted, except upon trial in court, is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 8, ch. 26870, 1951; s. 12, ch. 65-379; s. 43, ch. 71-136; s. 35, ch. 77-175.
+104.24
+Penalty for assuming name.
+—
+A person may not, in connection with any part of the election process, fraudulently call himself or herself, or fraudulently pass by, any other name than the name by which the person is registered or fraudulently use the name of another in voting. Any person who violates this section is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 57, ch. 6469, 1913; RGS 360, 5913; CGL 417, 8177; s. 4, ch. 22014, 1943; s. 1, ch. 25385, 1949; s. 8, ch. 26870, 1951; s. 13, ch. 65-379; s. 44, ch. 71-136; s. 35, ch. 77-175; s. 625, ch. 95-147; s. 31, ch. 98-129.
+Note.
+—
+Former ss. 101.14, 102.53.
+104.26
+Penalty for destroying ballot or booth, etc.
+—
+Any person who wrongfully, during or before an election, removes, tears down, destroys, or defaces any ballot, booth, compartment, or other convenience provided for the purpose of enabling the elector to prepare his or her ballot, or any card for the instruction of the voter, is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 8, ch. 26870, 1951; s. 46, ch. 71-136; s. 35, ch. 77-175; s. 626, ch. 95-147.
+104.271
+False or malicious charges against, or false statements about, opposing candidates; penalty.
+—
+(1)
+Any candidate who, in a primary election or other election, willfully charges an opposing candidate participating in such election with a violation of any provision of this code, which charge is known by the candidate making such charge to be false or malicious, is guilty of a felony of the third degree, punishable as provided in s. 775.082 or s. 775.083 and, in addition, after conviction shall be disqualified to hold office.
+(2)
+Any candidate who, in a primary election or other election, with actual malice makes or causes to be made any statement about an opposing candidate which is false is guilty of a violation of this code. An aggrieved candidate may file a complaint with the Florida Elections Commission pursuant to s. 106.25. The commission shall adopt rules to provide an expedited hearing of complaints filed under this subsection. Notwithstanding any other provision of law, the commission shall assess a civil penalty of up to $5,000 against any candidate found in violation of this subsection, which shall be deposited to the account of the General Revenue Fund of the state.
+History.
+—
+s. 44, ch. 28156, 1953; s. 48, ch. 71-136; s. 27, ch. 77-104; s. 35, ch. 77-175; s. 1, ch. 85-210; s. 627, ch. 95-147; s. 44, ch. 97-13.
+104.2715
+False representations of military service; penalty.
+—
+(1)
+A candidate who, in a primary or other election, falsely represents, directly or indirectly, that he or she served or is currently serving in the military, whether active duty, reserve, or National Guard, commits a violation of the Florida Election Code.
+(2)
+Any person may file a complaint with the Florida Elections Commission pursuant to s. 106.25 alleging a violation of subsection (1).
+(3)
+The commission shall adopt rules to provide an expedited hearing of complaints filed under subsection (2), or, in cases referred to the Division of Administrative Hearings pursuant to s. 106.25(5), the director shall assign an administrative law judge to provide an expedited hearing.
+(4)
+Notwithstanding any other law, the commission or administrative law judge shall assess a civil penalty of up to $5,000 against any candidate who is found to have violated subsection (1), which shall be deposited into the General Revenue Fund.
+History.
+—
+s. 1, ch. 2011-148.
+104.29
+Inspectors refusing to allow watchers while ballots are counted.
+—
+The inspectors or other election officials at the polling place shall, after the polls close, allow as many as three persons near to them to see whether the ballots are being reconciled correctly. Any official who denies this privilege or interferes therewith commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 8, ch. 26870, 1951; s. 51, ch. 71-136; s. 35, ch. 77-175; s. 53, ch. 79-400; s. 50, ch. 2011-40.
+104.30
+Voting system; unlawful possession; tampering.
+—
+(1)
+Any unauthorized person who unlawfully has possession of any voting system, components, or key thereof is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(2)
+Any person who tampers or attempts to tamper with or destroy any voting system or equipment with the intention of interfering with the election process or the results thereof is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 26, ch. 13893, 1929; CGL 1936 Supp. 8202(1); s. 8, ch. 26870, 1951; s. 17, ch. 65-379; s. 52, ch. 71-136; s. 35, ch. 77-175; s. 29, ch. 2001-40.
+Note.
+—
+Former s. 100.28.
+104.31
+Political activities of state, county, and municipal officers and employees.
+—
+(1)
+No officer or employee of the state, or of any county or municipality thereof, except as hereinafter exempted from provisions hereof, shall:
+(a)
+Use his or her official authority or influence for the purpose of interfering with an election or a nomination of office or coercing or influencing another person’s vote or affecting the result thereof.
+(b)
+Directly or indirectly coerce or attempt to coerce, command, or advise any other officer or employee to pay, lend, or contribute any part of his or her salary, or any money, or anything else of value to any party, committee, organization, agency, or person for political purposes. Nothing in this paragraph or in any county or municipal charter or ordinance shall prohibit an employee from suggesting to another employee in a noncoercive manner that he or she may voluntarily contribute to a fund which is administered by a party, committee, organization, agency, person, labor union or other employee organization for political purposes.
+(c)
+Directly or indirectly coerce or attempt to coerce, command, and advise any such officer or employee as to where he or she might purchase commodities or to interfere in any other way with the personal right of said officer or employee.
+The provisions of this section shall not be construed so as to prevent any person from becoming a candidate for and actively campaigning for any elective office in this state. All such persons shall retain the right to vote as they may choose and to express their opinions on all political subjects and candidates. The provisions of paragraph (a) shall not be construed so as to limit the political activity in a general, special, primary, bond, referendum, or other election of any kind or nature, of elected officials or candidates for public office in the state or of any county or municipality thereof; and the provisions of paragraph (a) shall not be construed so as to limit the political activity in general or special elections of the officials appointed as the heads or directors of state administrative agencies, boards, commissions, or committees or of the members of state boards, commissions, or committees, whether they be salaried, nonsalaried, or reimbursed for expense. In the event of a dual capacity of any member of a state board, commission, or committee, any restrictive provisions applicable to either capacity shall apply. The provisions of paragraph (a) shall not be construed so as to limit the political activity in a general, special, primary, bond, referendum, or other election of any kind or nature of the Governor, the elected members of the Governor’s Cabinet, or the members of the Legislature. The provisions of paragraphs (b) and (c) shall apply to all officers and employees of the state or of any county or municipality thereof, whether elected, appointed, or otherwise employed, or whether the activity shall be in connection with a primary, general, special, bond, referendum, or other election of any kind or nature.
+(2)
+An employee of the state or any political subdivision may not participate in any political campaign for an elective office while on duty.
+(3)
+Any person violating the provisions of this section is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(4)
+Nothing contained in this section or in any county or municipal charter shall be deemed to prohibit any public employee from expressing his or her opinions on any candidate or issue or from participating in any political campaign during the employee’s off-duty hours, so long as such activities are not in conflict with the provisions of subsection (1) or s. 110.233.
+History.
+—
+s. 8, ch. 26870, 1951; s. 7, ch. 29615, 1955; s. 5, ch. 29936, 1955; s. 1, ch. 59-208; s. 18, ch. 65-379; s. 53, ch. 71-136; ss. 1, 2, ch. 74-13; s. 1, ch. 75-261; s. 30, ch. 79-190; s. 1, ch. 80-207; s. 628, ch. 95-147; s. 1, ch. 2006-275.
+104.32
+Supervisor of elections; delivery of books to successor.
+—
+Any supervisor of elections who willfully fails or refuses promptly to comply with the demand of his or her successor for the delivery of registration books, papers, and blanks connected with his or her office is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 8, ch. 3879, 1889; RS 2779; s. 9, ch. 4328, 1895; GS 3820; RGS 5881; CGL 8144; s. 8, ch. 26870, 1951; s. 2, ch. 65-60; s. 54, ch. 71-136; s. 35, ch. 77-175; s. 629, ch. 95-147.
+Note.
+—
+Former s. 98.21.
+104.39
+Witnesses as to violations.
+—
+Any person who violates any provision of this code shall be a competent witness against any other person so violating and may be compelled to attend and testify as any other person. The testimony given shall not be used in any prosecution or criminal proceeding against the person so testifying, except in a prosecution for perjury.
+History.
+—
+s. 8, ch. 26870, 1951; s. 35, ch. 77-175.
+104.41
+Violations not otherwise provided for.
+—
+Any violation of this code not otherwise provided for is a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 8, ch. 26870, 1951; s. 61, ch. 71-136; s. 35, ch. 77-175.
+104.42
+Fraudulent registration and illegal voting; investigation.
+—
+(1)
+The supervisor of elections is authorized to investigate fraudulent registrations and illegal voting and to report his or her findings to the local state attorney and the Office of Election Crimes and Security.
+(2)
+The board of county commissioners in any county may appropriate funds to the supervisor of elections for the purpose of investigating fraudulent registrations and illegal voting.
+History.
+—
+ss. 12, 14, ch. 17899, 1937; CGL 1940 Supp. 369(4); s. 8, ch. 26870, 1951; s. 35, ch. 77-175; s. 32, ch. 98-129; s. 42, ch. 2023-120.
+Note.
+—
+Former s. 100.40.
+104.43
+Grand juries; special investigation.
+—
+The grand jury in any circuit shall, upon the request of any candidate or qualified voter, make a special investigation when it convenes during a campaign preceding any election day to determine whether there is any violation of the provisions of this code, and shall return indictments when sufficient ground is found.
+History.
+—
+s. 8, ch. 26870, 1951; s. 35, ch. 77-175.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0105
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0105. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0105/0105.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 105
+NONPARTISAN ELECTIONS
+View Entire Chapter
+CHAPTER 105
+CHAPTER 105
+NONPARTISAN ELECTIONS
+105.011
+Definitions.
+105.031
+Qualification; filing fee; candidate’s oath; items required to be filed.
+105.035
+Petition process of qualifying for certain judicial offices and the office of school board member.
+105.036
+Initiative for method of selection for circuit or county court judges; procedures for placement on ballot.
+105.041
+Form of ballot.
+105.051
+Determination of election or retention to office.
+105.061
+Electors qualified to vote.
+105.071
+Candidates for judicial office; limitations on political activity.
+105.08
+Campaign contribution and expense; reporting.
+105.09
+Political activity in behalf of a candidate for judicial office limited.
+105.10
+Applicability of election code.
+105.101
+Effect of revision of county court judge selection method.
+105.102
+Effect of revision of circuit court judge selection method.
+105.011
+Definitions.
+—
+(1)
+As used in this chapter, the term “judicial office” includes the office of:
+(a)
+Justice of the Supreme Court.
+(b)
+Judge of a district court of appeal.
+(c)
+Judge of a circuit court.
+(d)
+County court judge.
+(2)
+A judicial office is a nonpartisan office, and a candidate for election or retention thereto is prohibited from campaigning or qualifying for such an office based on party affiliation.
+History.
+—
+s. 1, ch. 71-49; s. 1, ch. 72-310; s. 36, ch. 77-175.
+105.031
+Qualification; filing fee; candidate’s oath; items required to be filed.
+—
+(1)
+TIME OF QUALIFYING.
+—
+Except for candidates for judicial office, nonpartisan candidates for multicounty office shall qualify with the Division of Elections of the Department of State and nonpartisan candidates for countywide or less than countywide office shall qualify with the supervisor of elections. Candidates for judicial office other than the office of county court judge shall qualify with the Division of Elections of the Department of State, and candidates for the office of county court judge shall qualify with the supervisor of elections of the county. Candidates for judicial office shall qualify no earlier than noon of the 120th day, and no later than noon of the 116th day, before the primary election. Candidates for the office of school board member shall qualify no earlier than noon of the 71st day, and no later than noon of the 67th day, before the primary election. Filing shall be on forms provided for that purpose by the Division of Elections and furnished by the appropriate qualifying officer. Any person other than a write-in candidate who qualifies within the time prescribed in this subsection shall be entitled to have his or her name printed on the ballot.
+(2)
+FILING IN GROUPS OR DISTRICTS.
+—
+Candidates shall qualify in groups or districts where multiple offices are to be filled.
+(3)
+QUALIFYING FEE.
+—
+Each candidate qualifying for election to a judicial office or the office of school board member, except write-in judicial or school board candidates, shall, during the time for qualifying, pay to the officer with whom he or she qualifies a qualifying fee, which shall consist of a filing fee and an election assessment, or qualify by the petition process. The amount of the filing fee is 3 percent of the annual salary of the office sought. The amount of the election assessment is 1 percent of the annual salary of the office sought. The Department of State shall transfer all filing fees to the Department of Legal Affairs for deposit in the Elections Commission Trust Fund. The supervisor of elections shall forward all filing fees to the Elections Commission Trust Fund. The election assessment shall be deposited into the Elections Commission Trust Fund. The annual salary of the office for purposes of computing the qualifying fee shall be computed by multiplying 12 times the monthly salary authorized for such office as of July 1 immediately preceding the first day of qualifying. This subsection does not apply to candidates qualifying for retention to judicial office.
+(4)
+CANDIDATE’S OATH.
+—
+(a)
+All candidates for the office of school board member shall subscribe to the oath as prescribed in s. 99.021.
+(b)
+All candidates for judicial office shall subscribe to an oath or affirmation in writing to be filed with the appropriate qualifying officer upon qualifying. A printed copy of the oath or affirmation shall be furnished to the candidate by the qualifying officer and shall be in substantially the following form:
+State of Florida
+County of
+Before me, an officer authorized to administer oaths, personally appeared
+(please print name as you wish it to appear on the ballot)
+, to me well known, who, being sworn, says he or she: is a candidate for the judicial office of
+; that his or her legal residence is
+County, Florida; that he or she is a qualified elector of the state and of the territorial jurisdiction of the court to which he or she seeks election; that he or she is qualified under the constitution and laws of Florida to hold the judicial office to which he or she desires to be elected or in which he or she desires to be retained; that he or she has qualified for no other public office in the state, the term of which office or any part thereof runs concurrent to the office he or she seeks; that he or she has resigned from any office which he or she is required to resign pursuant to s. 99.012, Florida Statutes; and that he or she will support the Constitution of the United States and the Constitution of the State of Florida.
+(Signature of candidate)
+(Address of legal residence)
+Sworn to and subscribed before me this
+day of
+,
+(year)
+, at
+County, Florida.
+(Signature and title of officer administering oath)
+(c)
+In addition, each candidate for judicial office shall, at the time of subscribing to the oath or affirmation, state in writing whether he or she owes any outstanding fines, fees, or penalties that cumulatively exceed $250 for any violations of s. 8, Art. II of the State Constitution, the Code of Ethics for Public Officers and Employees under part III of chapter 112, any local ethics ordinance governing standards of conduct and disclosure requirements, or chapter 106. If the candidate owes any outstanding fines, fees, or penalties exceeding the threshold amount specified in this paragraph, he or she must also specify the amount owed and each entity that levied such fine, fee, or penalty. For purposes of this paragraph, any such fines, fees, or penalties that have been paid in full at the time of subscribing to the oath or affirmation are not deemed to be outstanding.
+(5)
+ITEMS REQUIRED TO BE FILED.
+—
+(a)
+In order for a candidate for judicial office or the office of school board member to be qualified, the following items must be received by the filing officer by the end of the qualifying period:
+1.
+Except for candidates for retention to judicial office, a properly executed check drawn upon the candidate’s campaign account in an amount not less than the fee required by subsection (3) or, in lieu thereof, the copy of the notice of obtaining ballot position pursuant to s. 105.035. If a candidate’s check is returned by the bank for any reason, the filing officer shall immediately notify the candidate and the candidate shall, the end of qualifying notwithstanding, have 48 hours from the time such notification is received, excluding Saturdays, Sundays, and legal holidays, to pay the fee with a cashier’s check purchased from funds of the campaign account. Failure to pay the fee as provided in this subparagraph shall disqualify the candidate.
+2.
+The candidate’s oath required by subsection (4), which must contain the name of the candidate as it is to appear on the ballot; the office sought, including the district or group number if applicable; and the signature of the candidate, duly acknowledged.
+3.
+The loyalty oath required by s. 876.05, signed by the candidate and duly acknowledged.
+4.
+The completed form for the appointment of campaign treasurer and designation of campaign depository, as required by s. 106.021. In addition, each candidate for judicial office, including an incumbent judge, shall file a statement with the qualifying officer, within 10 days after filing the appointment of campaign treasurer and designation of campaign depository, stating that the candidate has read and understands the requirements of the Florida Code of Judicial Conduct. Such statement shall be in substantially the following form:
+Statement of Candidate for Judicial Office
+I,
+(name of candidate)
+, a judicial candidate, have received, read, and understand the requirements of the Florida Code of Judicial Conduct.
+(Signature of candidate)
+(Date)
+5.
+The full and public disclosure of financial interests required by s. 8, Art. II of the State Constitution or the statement of financial interests required by s. 112.3145, whichever is applicable. A public officer who has filed the full and public disclosure or statement of financial interests with the Commission on Ethics or the supervisor of elections prior to qualifying for office may file a copy of that disclosure at the time of qualifying.
+(b)
+If the filing officer receives qualifying papers that do not include all items as required by paragraph (a) prior to the last day of qualifying, the filing officer shall make a reasonable effort to notify the candidate of the missing or incomplete items and shall inform the candidate that all required items must be received by the close of qualifying. A candidate’s name as it is to appear on the ballot may not be changed after the end of qualifying.
+(6)
+Notwithstanding the qualifying period prescribed in this section, a filing officer may accept and hold qualifying papers submitted not earlier than 14 days prior to the beginning of the qualifying period, to be processed and filed during the qualifying period.
+History.
+—
+s. 3, ch. 71-49; s. 36, ch. 77-175; s. 1, ch. 78-260; s. 5, ch. 79-365; s. 54, ch. 79-400; s. 17, ch. 81-105; s. 10, ch. 83-251; s. 1, ch. 89-152; s. 34, ch. 89-338; s. 5, ch. 91-107; s. 630, ch. 95-147; s. 2, ch. 95-156; s. 13, ch. 97-13; s. 13, ch. 99-6; s. 2, ch. 99-326; s. 2, ch. 99-355; s. 23, ch. 2002-17; s. 65, ch. 2005-277; s. 21, ch. 2005-286; s. 40, ch. 2007-30; s. 4, ch. 2010-16; s. 51, ch. 2011-40; s. 2, ch. 2023-46; s. 43, ch. 2023-120.
+105.035
+Petition process of qualifying for certain judicial offices and the office of school board member.
+—
+(1)
+A person seeking to qualify for election to the office of circuit judge or county court judge or the office of school board member may qualify for election to such office by means of the petitioning process prescribed in this section. A person qualifying by this petition process is not required to pay the qualifying fee required by this chapter.
+(2)
+The petition format shall be prescribed by the Division of Elections and shall be used by the candidate to reproduce petitions for circulation. If the candidate is running for an office that will be grouped on the ballot with two or more similar offices to be filled at the same election, the candidate’s petition must indicate, prior to the obtaining of registered electors’ signatures, for which group or district office the candidate is running.
+(3)
+Each candidate for election to a judicial office or the office of school board member shall obtain the signature of a number of qualified electors equal to at least 1 percent of the total number of registered electors of the district, circuit, county, or other geographic entity represented by the office sought as shown by the compilation by the Department of State for the last preceding general election. A separate petition shall be circulated for each candidate availing himself or herself of the provisions of this section. Signatures may not be obtained until the candidate has filed the appointment of campaign treasurer and designation of campaign depository pursuant to s. 106.021.
+(4)(a)
+Each candidate seeking to qualify for election to the office of circuit judge or the office of school board member from a multicounty school district pursuant to this section shall file a separate petition from each county from which signatures are sought. Each petition shall be submitted, prior to noon of the 28th day preceding the first day of the qualifying period for the office sought, to the supervisor of elections of the county for which such petition was circulated. Each supervisor of elections to whom a petition is submitted shall check the signatures on the petition to verify their status as electors of that county and of the geographic area represented by the office sought. No later than the 7th day before the first date for qualifying, the supervisor shall certify the number shown as registered electors and submit such certification to the Division of Elections. The division shall determine whether the required number of signatures has been obtained for the name of the candidate to be placed on the ballot and shall notify the candidate. If the required number of signatures has been obtained, the candidate shall, during the time prescribed for qualifying for office, submit a copy of such notice and file his or her qualifying papers and oath prescribed in s. 105.031 with the Division of Elections. Upon receipt of the copy of such notice and qualifying papers, the division shall certify the name of the candidate to the appropriate supervisor or supervisors of elections as having qualified for the office sought.
+(b)
+Each candidate seeking to qualify for election to the office of county court judge or the office of school board member from a single county school district pursuant to this section shall submit his or her petition, prior to noon of the 28th day preceding the first day of the qualifying period for the office sought, to the supervisor of elections of the county for which such petition was circulated. The supervisor shall check the signatures on the petition to verify their status as electors of the county and of the geographic area represented by the office sought. No later than the 7th day before the first date for qualifying, the supervisor shall determine whether the required number of signatures has been obtained for the name of the candidate to be placed on the ballot and shall notify the candidate. If the required number of signatures has been obtained, the candidate shall, during the time prescribed for qualifying for office, submit a copy of such notice and file his or her qualifying papers and oath prescribed in s. 105.031 with the qualifying officer. Upon receipt of the copy of such notice and qualifying papers, such candidate shall be entitled to have his or her name printed on the ballot.
+History.
+—
+s. 37, ch. 77-175; s. 2, ch. 89-152; s. 35, ch. 89-338; s. 23, ch. 90-315; s. 631, ch. 95-147; s. 6, ch. 99-318; s. 3, ch. 99-326; s. 66, ch. 2005-277.
+105.036
+Initiative for method of selection for circuit or county court judges; procedures for placement on ballot.
+—
+(1)
+A local option for merit selection and retention or the election of circuit or county court judges may be placed on the ballot for the general election occurring in excess of 90 days from the certification of ballot position by the Secretary of State for circuit court judges or the county supervisor of elections for county court judges. The ballot shall provide for a vote on the method for selection of judges not currently used for filling judicial offices in the county or circuit.
+(2)
+Certification of ballot position for the method of selection of circuit court judges shall be issued when the Secretary of State has received a verification certificate from each supervisor of elections in a circuit indicating that the requisite number of valid signatures of electors in the circuit has been submitted and verified by the supervisor or supervisors of that circuit. Certification of ballot position for the method of selection of county court judges shall be issued when the supervisor of elections in a county indicates that the requisite number of signatures of electors in the county has been submitted to and verified by the supervisor. Each signature shall be dated when made and shall be valid for a period of 2 years following such date, provided all requirements of law are complied with.
+(3)
+The sponsor of an initiative for merit selection and retention or election of circuit or county court judges must register as a political committee pursuant to s. 106.03.
+(4)
+The Secretary of State shall adopt rules pursuant to ss. 120.536(1) and 120.54 prescribing the style and requirements of the circuit court and county court forms for collection of signatures.
+(5)
+No later than 5 p.m. 151 days prior to the general election at which the proposed judicial selection initiative is to be voted on, the sponsor shall submit signed and dated forms to the appropriate supervisor of elections for verification as to the number of registered electors whose valid signatures appear thereon. The supervisor shall promptly verify the signatures upon payment of the fee or filing of the undue burden oath required by s. 99.097. Verification must be completed at least 91 days prior to the general election. Upon completion of verification, the supervisor shall execute a certificate indicating the total number of signatures checked and the number of signatures verified as valid and as being of registered electors of the applicable county or circuit. This certificate must be immediately transmitted to the Secretary of State for petitions related to the method of selection of circuit court judges. The supervisor must retain the signature forms for at least 1 year following the election in which the issue appeared on the ballot or until the committee that circulated the petition is no longer seeking to obtain ballot position as determined by the Division of Elections for circuit court petitions or by the supervisor of elections for county court petitions.
+(6)
+Upon a determination by the Secretary of State for circuit court petitions or by the supervisor of elections for county court petitions that the requisite number of valid signatures has been obtained, a certification of ballot position must be issued for the proposed method of selection of judges. A request to exercise a local option to change the method for selection of circuit or county court judges is deemed filed with the Secretary of State for circuit court judges or the supervisor of elections for county court judges upon the date of the receipt of a certificate or certificates indicating the petition has been signed by the constitutionally required number of electors.
+(7)
+Within 10 days after each general election for which an initiative to change the method of selection of circuit or county court judges was placed on the ballot in any circuit or county in the state, the Secretary of State must notify the Chief Justice of the Supreme Court of Florida of the changed method for selection of judges for any circuit or county where the initiative passed.
+(8)
+The Department of State shall have the authority to promulgate rules in accordance with ss. 120.536(1) and 120.54 to carry out the provisions of this section.
+History.
+—
+s. 9, ch. 99-355; s. 25, ch. 2019-3.
+105.041
+Form of ballot.
+—
+(1)
+BALLOTS.
+—
+The names of candidates for nonpartisan office which appear on the ballot at the primary election shall be grouped together on a separate portion of the ballot or on a separate ballot. The names of candidates for election to nonpartisan office which appear on the ballot at the general election and the names of justices and judges seeking retention to office shall be grouped together on a separate portion of the general election ballot.
+(2)
+LISTING OF CANDIDATES.
+—
+The order of nonpartisan offices appearing on the ballot shall be determined by the Department of State. The names of candidates for election to each nonpartisan office shall be listed in alphabetical order. With respect to retention of justices and judges, the question “Shall Justice (or Judge) (name of justice or judge) of the (name of the court) be retained in office?” shall appear on the ballot in alphabetical order and thereafter the words “Yes” and “No.”
+(3)
+REFERENCE TO PARTY AFFILIATION PROHIBITED.
+—
+No reference to political party affiliation shall appear on any ballot with respect to any nonpartisan office or candidate.
+(4)
+WRITE-IN CANDIDATES.
+—
+Space shall be made available on the general election ballot for an elector to write in the name of a write-in candidate for judge of a circuit court or county court or member of a school board if a candidate has qualified as a write-in candidate for such office pursuant to s. 105.031. This subsection shall not apply to the offices of justices and judges seeking retention.
+History.
+—
+s. 4, ch. 71-49; s. 38, ch. 77-175; s. 55, ch. 79-400; s. 1, ch. 80-305; s. 18, ch. 81-105; s. 4, ch. 99-326; s. 3, ch. 99-355; s. 2, ch. 2000-361; s. 22, ch. 2005-286; s. 34, ch. 2008-95.
+105.051
+Determination of election or retention to office.
+—
+(1)
+ELECTION.
+—
+In circuits and counties holding elections:
+(a)
+The name of an unopposed candidate for the office of circuit judge, county court judge, or member of a school board shall not appear on any ballot, and such candidate shall be deemed to have voted for himself or herself at the general election.
+(b)
+If two or more candidates, neither of whom is a write-in candidate, qualify for such an office, the names of those candidates shall be placed on the ballot at the primary election. If any candidate for such office receives a majority of the votes cast for such office in the primary election, the name of the candidate who receives such majority shall not appear on any other ballot unless a write-in candidate has qualified for such office. An unopposed candidate shall be deemed to have voted for himself or herself at the general election. If no candidate for such office receives a majority of the votes cast for such office in the primary election, the names of the two candidates receiving the highest number of votes for such office shall be placed on the general election ballot. If more than two candidates receive an equal and highest number of votes, the name of each candidate receiving an equal and highest number of votes shall be placed on the general election ballot. In any contest in which there is a tie for second place and the candidate placing first did not receive a majority of the votes cast for such office, the name of the candidate placing first and the name of each candidate tying for second shall be placed on the general election ballot.
+(c)
+The candidate who receives the highest number of votes cast for the office in the general election shall be elected to such office. If the vote at the general election results in a tie, the outcome shall be determined by lot.
+(2)
+RETENTION.
+—
+With respect to any justice or judge who qualifies to run for retention in office, the question prescribed in s. 105.041(2) shall be placed on the ballot at the general election. If a majority of the qualified electors voting on such question within the territorial jurisdiction of the court vote for retention, the justice or judge shall be retained for a term of 6 years commencing on the first Tuesday after the first Monday in January following the general election. If less than a majority of the qualified electors voting on such question within the territorial jurisdiction of the court vote for retention, a vacancy shall exist in such office upon the expiration of the term being served by the justice or judge.
+History.
+—
+s. 5, ch. 71-49; s. 38, ch. 77-175; s. 19, ch. 81-105; s. 632, ch. 95-147; s. 5, ch. 99-326; s. 4, ch. 99-355; s. 23, ch. 2005-286.
+105.061
+Electors qualified to vote.
+—
+(1)
+Each qualified elector of the territorial jurisdiction of a court shall be eligible to vote for a candidate for each judicial office of such court or, in the case of a justice or a judge seeking retention, for or against retention of such justice or judge.
+(2)
+The election of members of a school board shall be by vote of the qualified electors as prescribed in chapter 1001.
+History.
+—
+s. 6, ch. 71-49; s. 38, ch. 77-175; s. 6, ch. 99-326; s. 5, ch. 99-355; s. 887, ch. 2002-387.
+105.071
+Candidates for judicial office; limitations on political activity.
+—
+A candidate for judicial office shall not:
+(1)
+Participate in any partisan political party activities, except that such candidate may register to vote as a member of any political party and may vote in any party primary for candidates for nomination of the party in which she or he is registered to vote.
+(2)
+Campaign as a member of any political party.
+(3)
+Publicly represent or advertise herself or himself as a member of any political party.
+(4)
+Endorse any candidate.
+(5)
+Make political speeches other than in the candidate’s own behalf.
+(6)
+Make contributions to political party funds.
+(7)
+Accept contributions from any political party.
+(8)
+Solicit contributions for any political party.
+(9)
+Accept or retain a place on any political party committee.
+(10)
+Make any contribution to any person, group, or organization for its endorsement to judicial office.
+(11)
+Agree to pay all or any part of any advertisement sponsored by any person, group, or organization wherein the candidate may be endorsed for judicial office by any such person, group, or organization.
+A candidate for judicial office or retention therein who violates the provisions of this section is liable for a civil fine of up to $1,000 to be determined by the Florida Elections Commission.
+History.
+—
+s. 7, ch. 71-49; s. 2, ch. 72-310; s. 38, ch. 77-175; s. 633, ch. 95-147; s. 7, ch. 99-326.
+105.08
+Campaign contribution and expense; reporting.
+—
+(1)
+A candidate for judicial office or the office of school board member may accept contributions and may incur only such expenses as are authorized by law. Each such candidate shall keep an accurate record of his or her contributions and expenses, and shall file reports pursuant to chapter 106.
+(2)
+Notwithstanding any other provision of this chapter or chapter 106, a candidate for retention as a justice or a judge who has not received any contribution or made any expenditure may file a sworn statement at the time of qualifying that he or she does not anticipate receiving contributions or making expenditures in connection with the candidacy for retention to office. Such candidate shall file a final report pursuant to s. 106.141, within 90 days following the general election for which the candidate’s name appeared on the ballot for retention. Any such candidate for retention to judicial office who, after filing a statement pursuant to this subsection, receives any contribution or makes any expenditure in connection with the candidacy for retention shall immediately file a statement to that effect with the qualifying officer and shall begin filing reports as an opposed candidate pursuant to s. 106.07.
+History.
+—
+s. 8, ch. 71-49; s. 38, ch. 77-175; s. 3, ch. 89-152; s. 634, ch. 95-147; s. 8, ch. 99-326; s. 6, ch. 99-355.
+105.09
+Political activity in behalf of a candidate for judicial office limited.
+—
+(1)
+No political party or partisan political organization shall endorse, support, or assist any candidate in a campaign for election to judicial office.
+(2)
+Any person who knowingly, in an individual capacity or as an officer of an organization, violates the provisions of this section is guilty of a misdemeanor of the second degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 9, ch. 71-49; s. 38, ch. 77-175; s. 635, ch. 95-147.
+105.10
+Applicability of election code.
+—
+If any provision of this chapter is in conflict with any other provision of this code, the provision of this chapter shall prevail.
+History.
+—
+s. 10, ch. 71-49; s. 38, ch. 77-175.
+105.101
+Effect of revision of county court judge selection method.
+—
+No county court judge elected prior to or at the election that approves any revision to the selection of county court judges shall be affected in his or her term of office. Any county judge wishing to apply for a subsequent term will be elected or retained pursuant to the method of election or selection and retention of county court judges in effect in the county for the election preceding the end of the judge’s term of office.
+History.
+—
+s. 11, ch. 99-355.
+105.102
+Effect of revision of circuit court judge selection method.
+—
+No circuit court judge elected prior to or at the election that approves any revision to the selection of circuit court judge shall be affected in his or her term of office. Any circuit court judge wishing to apply for a subsequent term will be elected or retained pursuant to the method of election or selection and retention of circuit court judges in effect in the circuit for the election preceding the end of the judge’s term of office.
+History.
+—
+s. 12, ch. 99-355.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0106
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0106. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0106/0106.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 106
+CAMPAIGN FINANCING
+View Entire Chapter
+CHAPTER 106
+CHAPTER 106
+CAMPAIGN FINANCING
+106.011
+Definitions.
+106.021
+Campaign treasurers; deputies; primary and secondary depositories.
+106.022
+Appointment of a registered agent; duties.
+106.023
+Statement of candidate.
+106.025
+Campaign fund raisers.
+106.03
+Registration of political committees and electioneering communications organizations.
+106.05
+Deposit of contributions; statement of campaign treasurer.
+106.055
+Valuation of in-kind contributions.
+106.06
+Treasurer to keep records; inspections.
+106.07
+Reports; certification and filing.
+106.0701
+Solicitation of contributions on behalf of s. 527 or s. 501(c)(4) organizations; reporting requirements; civil penalty; exemption.
+106.0702
+Reporting; political party executive committee candidates.
+106.0703
+Electioneering communications organizations; reporting requirements; certification and filing; penalties.
+106.0705
+Electronic filing of campaign treasurer’s reports.
+106.0706
+Electronic filing of campaign finance reports; public records exemption.
+106.071
+Independent expenditures; electioneering communications; reports; disclaimers.
+106.072
+Social media deplatforming of political candidates.
+106.075
+Elected officials; report of loans made in year preceding election; limitation on contributions to pay loans.
+106.08
+Contributions; limitations on.
+106.087
+Independent expenditures; contribution limits; restrictions on political parties and political committees.
+106.088
+Independent expenditures; contribution limits; restrictions on affiliated party committees.
+106.09
+Cash contributions and contribution by cashier’s checks.
+106.11
+Expenses of and expenditures by candidates and political committees.
+106.113
+Expenditures by local governments.
+106.12
+Petty cash funds allowed.
+106.125
+Credit cards; conditions on use.
+106.14
+Utilities; deposits; prior authorization.
+106.1405
+Use of campaign funds.
+106.141
+Disposition of surplus funds by candidates.
+106.143
+Political advertisements circulated prior to election; requirements.
+106.1435
+Usage and removal of political campaign advertisements.
+106.1436
+Voter guide; disclaimers; violations.
+106.1437
+Miscellaneous advertisements.
+106.1439
+Electioneering communications; disclaimers.
+106.145
+Use of artificial intelligence.
+106.147
+Text message and telephone solicitation; disclosure requirements; prohibitions; exemptions; penalties.
+106.1475
+Text message and telephone solicitation; registered agent requirements; penalty.
+106.15
+Certain acts prohibited.
+106.151
+Use of public funds prohibited.
+106.16
+Limitation on certain rates and charges.
+106.161
+Air time available at the lowest unit rate.
+106.165
+Use of closed captioning and descriptive narrative in all television broadcasts.
+106.17
+Polls and surveys relating to candidacies.
+106.18
+When a candidate’s name to be omitted from ballot.
+106.19
+Violations by candidates, persons connected with campaigns, and political committees.
+106.191
+Signatures gathered for initiative petition; effect of ch. 97-13.
+106.21
+Certificates of election not to be issued upon conviction.
+106.22
+Duties of the Division of Elections.
+106.23
+Powers of the Division of Elections.
+106.24
+Florida Elections Commission; membership; powers; duties.
+106.25
+Reports of alleged violations to Florida Elections Commission; disposition of findings.
+106.26
+Powers of commission; rights and responsibilities of parties; findings by commission.
+106.265
+Civil penalties.
+106.27
+Determinations by commission; legal disposition.
+106.28
+Limitation of actions.
+106.29
+Reports by political parties and affiliated party committees; restrictions on contributions and expenditures; penalties.
+106.295
+Leadership fund.
+106.30
+Short title.
+106.31
+Legislative intent.
+106.32
+Election Campaign Financing Trust Fund.
+106.33
+Election campaign financing; eligibility.
+106.34
+Expenditure limits.
+106.35
+Distribution of funds.
+106.353
+Candidates voluntarily abiding by election campaign financing limits but not requesting public funds; irrevocable statement required; penalty.
+106.355
+Nonparticipating candidate exceeding limits.
+106.36
+Penalties; fines.
+106.011
+Definitions.
+—
+As used in this chapter, the following terms have the following meanings unless the context clearly indicates otherwise:
+(1)
+“Campaign fund raiser” means an affair held to raise funds to be used in a campaign for public office.
+(2)
+“Campaign treasurer” means an individual appointed by a candidate or political committee as provided in this chapter.
+(3)
+“Candidate” means a person to whom any of the following applies:
+(a)
+A person who seeks to qualify for nomination or election by means of the petitioning process.
+(b)
+A person who seeks to qualify for election as a write-in candidate.
+(c)
+A person who receives contributions or makes expenditures, or consents for any other person to receive contributions or make expenditures, with a view to bring about his or her nomination or election to, or retention in, public office.
+(d)
+A person who appoints a treasurer and designates a primary depository.
+(e)
+A person who files qualification papers and subscribes to a candidate’s oath as required by law.
+However, this definition does not include any candidate for a political party executive committee. Expenditures related to potential candidate polls as provided in s. 106.17 are not contributions or expenditures for purposes of this subsection.
+(4)
+“Communications media” means broadcasting stations, newspapers, magazines, outdoor advertising facilities, printers, direct mail, advertising agencies, the Internet, and telephone companies; but with respect to telephones, an expenditure is deemed to be an expenditure for the use of communications media only if made for the costs of telephones, paid telephonists, or automatic telephone equipment to be used by a candidate or a political committee to communicate with potential voters but excluding the costs of telephones incurred by a volunteer for use of telephones by such volunteer; however, with respect to the Internet, an expenditure is deemed an expenditure for use of communications media only if made for the cost of creating or disseminating a message on a computer information system accessible by more than one person but excluding internal communications of a campaign or of any group.
+(5)
+“Contribution” means:
+(a)
+A gift, subscription, conveyance, deposit, loan, payment, or distribution of money or anything of value, including contributions in kind having an attributable monetary value in any form, made for the purpose of influencing the results of an election or making an electioneering communication.
+(b)
+A transfer of funds between political committees, between electioneering communications organizations, or between any combination of these groups.
+(c)
+The payment, by a person other than a candidate or political committee, of compensation for the personal services of another person which are rendered to a candidate or political committee without charge to the candidate or committee for such services.
+(d)
+The transfer of funds by a campaign treasurer or deputy campaign treasurer between a primary depository and a separate interest-bearing account or certificate of deposit, and the term includes interest earned on such account or certificate.
+Notwithstanding the foregoing meanings of “contribution,” the term may not be construed to include services, including, but not limited to, legal and accounting services, provided without compensation by individuals volunteering a portion or all of their time on behalf of a candidate or political committee or editorial endorsements.
+(6)
+“Division” means the Division of Elections of the Department of State.
+(7)
+“Election” means a primary election, special primary election, general election, special election, or municipal election held in this state for the purpose of nominating or electing candidates to public office, choosing delegates to the national nominating conventions of political parties, selecting a member of a political party executive committee, or submitting an issue to the electors for their approval or rejection.
+(8)(a)
+“Electioneering communication” means a text message or communication that is publicly distributed by a television station, radio station, cable television system, satellite system, newspaper, magazine, direct mail, or telephone which:
+1.
+Refers to or depicts a clearly identified candidate for office without expressly advocating the election or defeat of a candidate but that is susceptible of no reasonable interpretation other than an appeal to vote for or against a specific candidate;
+2.
+Is made within 30 days before a primary or special primary election or 60 days before any other election for the office sought by the candidate; and
+3.
+Is targeted to the relevant electorate in the geographic area the candidate would represent if elected.
+(b)
+The term “electioneering communication” does not include:
+1.
+A communication disseminated through a means of communication other than a television station, radio station, cable television system, satellite system, newspaper, magazine, direct mail, telephone, or statement or depiction by an organization, in existence before the time during which a candidate named or depicted qualifies for that election, made in that organization’s newsletter, which newsletter is distributed only to members of that organization.
+2.
+A communication in a news story, commentary, or editorial distributed through the facilities of a radio station, television station, cable television system, or satellite system, unless the facilities are owned or controlled by a political party, political committee, or candidate. A news story distributed through the facilities owned or controlled by a political party, political committee, or candidate may nevertheless be exempt if it represents a bona fide news account communicated through a licensed broadcasting facility and the communication is part of a general pattern of campaign-related news accounts that give reasonably equal coverage to all opposing candidates in the area.
+3.
+A communication that constitutes a public debate or forum that includes at least two opposing candidates for an office or one advocate and one opponent of an issue, or that solely promotes such a debate or forum and is made by or on behalf of the person sponsoring the debate or forum, provided that:
+a.
+The staging organization is either:
+(I)
+A charitable organization that does not make other electioneering communications and does not otherwise support or oppose any political candidate or political party; or
+(II)
+A newspaper, radio station, television station, or other recognized news medium; and
+b.
+The staging organization does not structure the debate to promote or advance one candidate or issue position over another.
+(c)
+For purposes of this chapter, an expenditure made for, or in furtherance of, an electioneering communication is not considered a contribution to or on behalf of any candidate.
+(d)
+For purposes of this chapter, an electioneering communication does not constitute an independent expenditure and is not subject to the limitations applicable to independent expenditures.
+(9)
+“Electioneering communications organization” means any group, other than a political party, affiliated party committee, or political committee, whose election-related activities are limited to making expenditures for electioneering communications or accepting contributions for the purpose of making electioneering communications and whose activities would not otherwise require the group to register as a political party or political committee under this chapter.
+(10)(a)
+“Expenditure” means a purchase, payment, distribution, loan, advance, transfer of funds by a campaign treasurer or deputy campaign treasurer between a primary depository and a separate interest-bearing account or certificate of deposit, or gift of money or anything of value made for the purpose of influencing the results of an election or making an electioneering communication. However, “expenditure” does not include a purchase, payment, distribution, loan, advance, or gift of money or anything of value made for the purpose of influencing the results of an election when made by an organization, in existence before the time during which a candidate qualifies or an issue is placed on the ballot for that election, for the purpose of printing or distributing such organization’s newsletter, containing a statement by such organization in support of or opposition to a candidate or issue, which newsletter is distributed only to members of such organization.
+(b)
+As used in this chapter, an “expenditure” for an electioneering communication is made when the earliest of the following occurs:
+1.
+A person enters into a contract for applicable goods or services;
+2.
+A person makes payment, in whole or in part, for the production or public dissemination of applicable goods or services; or
+3.
+The electioneering communication is publicly disseminated.
+(11)
+“Filing officer” means the person before whom a candidate qualifies or the agency or officer with whom a political committee or an electioneering communications organization registers.
+(12)(a)
+“Independent expenditure” means an expenditure by a person for the purpose of expressly advocating the election or defeat of a candidate or the approval or rejection of an issue, which expenditure is not controlled by, coordinated with, or made upon consultation with, any candidate, political committee, or agent of such candidate or committee. An expenditure for such purpose by a person having a contract with the candidate, political committee, or agent of such candidate or committee in a given election period is not an independent expenditure.
+(b)
+An expenditure for the purpose of expressly advocating the election or defeat of a candidate which is made by the national, state, or county executive committee of a political party, including any subordinate committee of the political party, an affiliated party committee, a political committee, or any other person is not considered an independent expenditure if the committee or person:
+1.
+Communicates with the candidate, the candidate’s campaign, or an agent of the candidate acting on behalf of the candidate, including a pollster, media consultant, advertising agency, vendor, advisor, or staff member, concerning the preparation of, use of, or payment for, the specific expenditure or advertising campaign at issue;
+2.
+Makes a payment in cooperation, consultation, or concert with, at the request or suggestion of, or pursuant to a general or particular understanding with the candidate, the candidate’s campaign, a political committee supporting the candidate, or an agent of the candidate relating to the specific expenditure or advertising campaign at issue;
+3.
+Makes a payment for the dissemination, distribution, or republication, in whole or in part, of a broadcast or a written, graphic, or other form of campaign material prepared by the candidate, the candidate’s campaign, or an agent of the candidate, including a pollster, media consultant, advertising agency, vendor, advisor, or staff member;
+4.
+Makes a payment based on information about the candidate’s plans, projects, or needs communicated to a member of the committee or person by the candidate or an agent of the candidate, provided the committee or person uses the information in any way, in whole or in part, either directly or indirectly, to design, prepare, or pay for the specific expenditure or advertising campaign at issue;
+5.
+After the last day of the qualifying period prescribed for the candidate, consults about the candidate’s plans, projects, or needs in connection with the candidate’s pursuit of election to office and the information is used in any way to plan, create, design, or prepare an independent expenditure or advertising campaign, with:
+a.
+An officer, director, employee, or agent of a national, state, or county executive committee of a political party or an affiliated party committee that has made or intends to make expenditures in connection with or contributions to the candidate; or
+b.
+A person whose professional services have been retained by a national, state, or county executive committee of a political party or an affiliated party committee that has made or intends to make expenditures in connection with or contributions to the candidate;
+6.
+After the last day of the qualifying period prescribed for the candidate, retains the professional services of a person also providing those services to the candidate in connection with the candidate’s pursuit of election to office; or
+7.
+Arranges, coordinates, or directs the expenditure, in any way, with the candidate or an agent of the candidate.
+(13)
+“Issue” means a proposition that is required by the State Constitution, by law or resolution of the Legislature, or by the charter, ordinance, or resolution of a political subdivision of this state to be submitted to the electors for their approval or rejection at an election, or a proposition for which a petition is circulated in order to have such proposition placed on the ballot at an election.
+(14)
+“Person” means an individual or a corporation, association, firm, partnership, joint venture, joint stock company, club, organization, estate, trust, business trust, syndicate, or other combination of individuals having collective capacity. The term includes a political party, affiliated party committee, or political committee.
+(15)
+“Political advertisement” means a paid expression in a communications medium prescribed in subsection (4), whether radio, television, newspaper, magazine, periodical, campaign literature, direct mail, or display or by means other than the spoken word in direct conversation, which expressly advocates the election or defeat of a candidate or the approval or rejection of an issue. However, political advertisement does not include:
+(a)
+A statement by an organization, in existence before the time during which a candidate qualifies or an issue is placed on the ballot for that election, in support of or opposition to a candidate or issue, in that organization’s newsletter, which newsletter is distributed only to the members of that organization.
+(b)
+Editorial endorsements by a newspaper, a radio or television station, or any other recognized news medium.
+(16)(a)
+“Political committee” means:
+1.
+A combination of two or more individuals, or a person other than an individual, that, in an aggregate amount in excess of $500 during a single calendar year:
+a.
+Accepts contributions for the purpose of making contributions to any candidate, political committee, affiliated party committee, or political party;
+b.
+Accepts contributions for the purpose of expressly advocating the election or defeat of a candidate or the passage or defeat of an issue;
+c.
+Makes expenditures that expressly advocate the election or defeat of a candidate or the passage or defeat of an issue; or
+d.
+Makes contributions to a common fund, other than a joint checking account between spouses, from which contributions are made to any candidate, political committee, affiliated party committee, or political party;
+2.
+The sponsor of a proposed constitutional amendment by initiative who intends to seek the signatures of registered electors.
+(b)
+Notwithstanding paragraph (a), the following entities are not considered political committees for purposes of this chapter:
+1.
+National political parties, the state and county executive committees of political parties, and affiliated party committees regulated by chapter 103.
+2.
+Corporations regulated by chapter 607 or chapter 617 or other business entities formed for purposes other than to support or oppose issues or candidates, if their political activities are limited to contributions to candidates, political parties, affiliated party committees, or political committees or expenditures in support of or opposition to an issue from corporate or business funds and if no contributions are received by such corporations or business entities.
+3.
+Electioneering communications organizations as defined in subsection (9).
+(17)
+“Public office” means a state, county, municipal, or school or other district office or position that is filled by vote of the electors.
+(18)
+“Unopposed candidate” means a candidate for nomination or election to an office who, after the last day on which a person, including a write-in candidate, may qualify, is without opposition in the election at which the office is to be filled or who is without such opposition after such date as a result of a primary election or of withdrawal by other candidates seeking the same office. A candidate is not an unopposed candidate if there is a vacancy to be filled under s. 100.111(3), if there is a legal proceeding pending regarding the right to a ballot position for the office sought by the candidate, or if the candidate is seeking retention as a justice or judge.
+History.
+—
+s. 1, ch. 73-128; s. 1, ch. 74-200; s. 1, ch. 77-174; s. 39, ch. 77-175; s. 2, ch. 79-157; ss. 6, 17, ch. 79-365; s. 1, ch. 79-378; s. 22, ch. 81-304; s. 34, ch. 84-302; s. 4, ch. 85-226; s. 2, ch. 89-256; s. 1, ch. 89-537; s. 24, ch. 90-315; s. 9, ch. 91-107; s. 636, ch. 95-147; s. 2, ch. 97-13; s. 7, ch. 99-355; s. 1, ch. 2002-197; s. 2, ch. 2004-252; s. 1, ch. 2006-300; s. 19, ch. 2010-167; ss. 4, 30, ch. 2011-6; s. 52, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 5, ch. 2012-5; s. 3, ch. 2013-37; s. 9, ch. 2014-17; s. 1, ch. 2021-49.
+106.021
+Campaign treasurers; deputies; primary and secondary depositories.
+—
+(1)(a)
+Each candidate for nomination or election to office and each political committee shall appoint a campaign treasurer. Each person who seeks to qualify for nomination or election to, or retention in, office shall appoint a campaign treasurer and designate a primary campaign depository before qualifying for office. Any person who seeks to qualify for election or nomination to any office by means of the petitioning process shall appoint a treasurer and designate a primary depository on or before the date he or she obtains the petitions. At the same time a candidate designates a campaign depository and appoints a treasurer, the candidate shall also designate the office for which he or she is a candidate. If the candidate is running for an office that will be grouped on the ballot with two or more similar offices to be filled at the same election, the candidate must indicate for which group or district office he or she is running. This subsection does not prohibit a candidate, at a later date, from changing the designation of the office for which he or she is a candidate. However, if a candidate changes the designated office for which he or she is a candidate, the candidate must notify all contributors in writing of the intent to seek a different office and offer to return pro rata, upon their request, those contributions given in support of the original office sought. This notification shall be given within 15 days after the filing of the change of designation and shall include a standard form developed by the Division of Elections for requesting the return of contributions. The notice requirement does not apply to any change in a numerical designation resulting solely from redistricting. If, within 30 days after being notified by the candidate of the intent to seek a different office, the contributor notifies the candidate in writing that the contributor wishes his or her contribution to be returned, the candidate shall return the contribution, on a pro rata basis, calculated as of the date the change of designation is filed. Up to a maximum of the contribution limits specified in s. 106.08, a candidate who runs for an office other than the office originally designated may use any contribution that a donor does not request be returned within the 30-day period for the newly designated office, provided the candidate disposes of any amount exceeding the contribution limit pursuant to the options in s. 106.11(5)(b) and (c) or s. 106.141(4)(a)1., 2., or 4.; notwithstanding, the full amount of the contribution for the original office shall count toward the contribution limits specified in s. 106.08 for the newly designated office. A person may not accept any contribution or make any expenditure with a view to bringing about his or her nomination, election, or retention in public office, or authorize another to accept such contributions or make such expenditure on the person’s behalf, unless such person has appointed a campaign treasurer and designated a primary campaign depository. A candidate for an office voted upon statewide may appoint not more than 15 deputy campaign treasurers, and any other candidate or political committee may appoint not more than 3 deputy campaign treasurers. The names and addresses of the campaign treasurer and deputy campaign treasurers so appointed shall be filed with the officer before whom such candidate is required to qualify or with whom such political committee is required to register pursuant to s. 106.03.
+(b)
+Except as provided in paragraph (d), each candidate and each political committee shall also designate one primary campaign depository for the purpose of depositing all contributions received, and disbursing all expenditures made, by the candidate or political committee. The candidate or political committee may also designate one secondary depository in each county in which an election is held in which the candidate or committee participates. Secondary depositories shall be for the sole purpose of depositing contributions and forwarding the deposits to the primary campaign depository. Any bank, savings and loan association, or credit union authorized to transact business in this state may be designated as a campaign depository. The candidate or political committee shall file the name and address of each primary and secondary depository so designated at the same time that, and with the same officer with whom, the candidate or committee files the name of his, her, or its campaign treasurer pursuant to paragraph (a). In addition, the campaign treasurer or a deputy campaign treasurer may deposit any funds which are in the primary campaign depository and which are not then currently needed for the disbursement of expenditures into a separate interest-bearing account in any bank, savings and loan association, or credit union authorized to transact business in this state. The separate interest-bearing account shall be designated “
+(name of candidate or committee)
+separate interest-bearing campaign account.” In lieu thereof, the campaign treasurer or deputy campaign treasurer may purchase a certificate of deposit with such unneeded funds in such bank, savings and loan association, or credit union. The separate interest-bearing account or certificate of deposit shall be separate from any personal or other account or certificate of deposit. Any withdrawal of the principal or earned interest or any part thereof shall only be made from the separate interest-bearing account or certificate of deposit for the purpose of transferring funds to the primary account and shall be reported as a contribution.
+(c)
+Any campaign treasurer or deputy treasurer appointed pursuant to this section shall, before such appointment may become effective, have accepted appointment to such position in writing and filed such acceptance with the officer before whom the candidate is required to qualify or with the officer with whom the political committee is required to file reports. An individual may be appointed and serve as campaign treasurer of a candidate and a political committee or two or more candidates and political committees. A candidate may appoint herself or himself as campaign treasurer.
+(d)
+Any political committee which deposits all contributions received in a national depository from which the political committee receives funds to contribute to state and local candidates shall not be required to designate a campaign depository in the state.
+(2)
+A candidate or political committee may remove his, her, or its campaign treasurer or any deputy treasurer. In case of the death, resignation, or removal of a campaign treasurer before compliance with all obligations of a campaign treasurer under this chapter, the candidate or political committee shall appoint a successor and certify the name and address of the successor in the manner provided in the case of an original appointment. No resignation shall be effective until it has been submitted to the candidate or committee in writing and a copy thereof has been filed with the officer before whom the candidate is required to qualify or the officer with whom the political committee is required to file reports. No treasurer or deputy treasurer shall be deemed removed by a candidate or political committee until written notice of such removal has been given to such treasurer or deputy treasurer and has been filed with the officer before whom such candidate is required to qualify or with the officer with whom such committee is required to file reports.
+(3)
+No contribution or expenditure, including contributions or expenditures of a candidate or of the candidate’s family, shall be directly or indirectly made or received in furtherance of the candidacy of any person for nomination or election to political office in the state or on behalf of any political committee except through the duly appointed campaign treasurer of the candidate or political committee, subject to the following exceptions:
+(a)
+Independent expenditures;
+(b)
+Reimbursements to a candidate or any other individual for expenses incurred in connection with the campaign or activities of the political committee by a check drawn upon the campaign account and reported pursuant to s. 106.07(4). The full name of each person to whom the candidate or other individual made payment for which reimbursement was made by check drawn upon the campaign account shall be reported pursuant to s. 106.07(4), together with the purpose of such payment;
+(c)
+Expenditures made indirectly through a treasurer for goods or services, such as communications media placement or procurement services, campaign signs, insurance, or other expenditures that include multiple integral components as part of the expenditure and reported pursuant to s. 106.07(4)(a)13.; or
+(d)
+Expenditures made directly by any affiliated party committee or political party regulated by chapter 103 for obtaining time, space, or services in or by any communications medium for the purpose of jointly endorsing three or more candidates, and any such expenditure may not be considered a contribution or expenditure to or on behalf of any such candidates for the purposes of this chapter.
+(4)
+A deputy campaign treasurer may exercise any of the powers and duties of a campaign treasurer as set forth in this chapter when specifically authorized to do so by the campaign treasurer and the candidate, in the case of a candidate, or the campaign treasurer and chair of the political committee, in the case of a political committee.
+(5)
+For purposes of appointing a campaign treasurer and designating a campaign depository, candidates for the offices of Governor and Lieutenant Governor on the same ticket shall be considered a single candidate.
+History.
+—
+s. 2, ch. 73-128; s. 2, ch. 74-200; s. 1, ch. 75-139; s. 39, ch. 77-175; s. 2, ch. 79-378; s. 56, ch. 79-400; s. 23, ch. 81-304; s. 35, ch. 84-302; s. 3, ch. 89-256; s. 25, ch. 90-315; s. 10, ch. 91-107; s. 637, ch. 95-147; s. 9, ch. 97-13; s. 28, ch. 2002-17; s. 14, ch. 2004-252; s. 41, ch. 2007-30; s. 28, ch. 2008-95; ss. 5, 30, ch. 2011-6; s. 53, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 4, ch. 2013-37; ss. 2, 6, ch. 2024-116.
+106.022
+Appointment of a registered agent; duties.
+—
+(1)
+Each political committee or electioneering communications organization shall have and continuously maintain in this state a registered office and a registered agent and must file with the filing officer a statement of appointment for the registered office and registered agent. The statement of appointment must:
+(a)
+Provide the name of the registered agent and the street address and phone number for the registered office;
+(b)
+Identify the entity for whom the registered agent serves;
+(c)
+Designate the address the registered agent wishes to use to receive mail;
+(d)
+Include the entity’s undertaking to inform the filing officer of any change in such designated address;
+(e)
+Provide for the registered agent’s acceptance of the appointment, which must confirm that the registered agent is familiar with and accepts the obligations of the position as set forth in this section; and
+(f)
+Contain the signature of the registered agent and the entity engaging the registered agent.
+(2)
+An entity may change its appointment of registered agent and registered office under this section by executing a written statement of change and filing it with the filing officer. The statement must satisfy all of the requirements of subsection (1).
+(3)
+A registered agent may resign his or her appointment as registered agent by executing a written statement of resignation and filing it with the filing officer. An entity without a registered agent may not make expenditures or accept contributions until it files a written statement of change as required in subsection (2).
+History.
+—
+s. 67, ch. 2005-277; s. 2, ch. 2006-300; s. 20, ch. 2010-167; ss. 6, 30, ch. 2011-6; s. 54, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 5, ch. 2013-37.
+106.023
+Statement of candidate.
+—
+(1)
+Each candidate must file a statement with the qualifying officer within 10 days after filing the appointment of campaign treasurer and designation of campaign depository, stating that the candidate has read and understands the requirements of this chapter. Such statement shall be provided by the filing officer and shall be in substantially the following form:
+STATEMENT OF CANDIDATE
+I,
+, candidate for the office of
+, have been provided access to read and understand the requirements of Chapter 106, Florida Statutes.
+(Signature of candidate)
+(Date)
+Willful failure to file this form is a violation of ss. 106.19(1)(c) and 106.25(3), F.S.
+(2)
+The execution and filing of the statement of candidate does not in and of itself create a presumption that any violation of this chapter or chapter 104 is a willful violation.
+History.
+—
+s. 26, ch. 90-315; s. 638, ch. 95-147; s. 15, ch. 2004-252; s. 15, ch. 2008-4; s. 55, ch. 2011-40.
+106.025
+Campaign fund raisers.
+—
+(1)(a)
+No campaign fund raiser may be held unless the person for whom such funds are to be so used is a candidate for public office.
+(b)
+All money and contributions received with respect to such a campaign fund raiser shall be deemed to be campaign contributions, and shall be accounted for, and subject to the same restrictions, as other campaign contributions. All expenditures made with respect to such a campaign fund raiser which are made or reimbursed by a check drawn on the campaign depository of the candidate for whom the funds are to be used and shall be deemed to be campaign expenditures to be accounted for, and subject to the same restrictions, as other campaign expenditures.
+(c)
+Any tickets or advertising for a campaign fund raiser must comply with the requirements of s. 106.143.
+(d)
+Any person or candidate who holds a campaign fund raiser, or consents to a campaign fund raiser being held, in violation of the provisions of this subsection is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(2)
+This section shall not apply to any campaign fund raiser held on behalf of a political party by the state or county executive committee or an affiliated party committee of such party, provided that the proceeds of such campaign fund raiser are reported pursuant to s. 106.29.
+History.
+—
+s. 40, ch. 77-175; s. 51, ch. 81-259; s. 24, ch. 81-304; s. 27, ch. 83-217; s. 4, ch. 89-256; ss. 7, 30, ch. 2011-6; s. 56, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 6, ch. 2013-37.
+106.03
+Registration of political committees and electioneering communications organizations.
+—
+(1)(a)
+Each political committee that receives contributions or makes expenditures during a calendar year in an aggregate amount exceeding $500 or that seeks the signatures of registered electors in support of an initiative shall file a statement of organization as provided in subsection (3) within 10 days after its organization. If a political committee is organized within 10 days of any election, it shall immediately file the statement of organization required by this section.
+(b)1.
+Each group shall file a statement of organization as an electioneering communications organization within 24 hours after the date on which it makes expenditures for an electioneering communication in excess of $5,000, if such expenditures are made within the timeframes specified in s. 106.011(8)(a)2. If the group makes expenditures for an electioneering communication in excess of $5,000 before the timeframes specified in s. 106.011(8)(a)2., it shall file the statement of organization within 24 hours after the 30th day before a primary or special primary election, or within 24 hours after the 60th day before any other election, whichever is applicable.
+2.a.
+In a statewide, legislative, or multicounty election, an electioneering communications organization shall file a statement of organization with the Division of Elections.
+b.
+In a countywide election or any election held on less than a countywide basis, except as described in sub-subparagraph c., an electioneering communications organization shall file a statement of organization with the supervisor of elections of the county in which the election is being held.
+c.
+In a municipal election, an electioneering communications organization shall file a statement of organization with the officer before whom municipal candidates qualify.
+d.
+Any electioneering communications organization that would be required to file a statement of organization in two or more locations need only file a statement of organization with the Division of Elections.
+(2)
+The statement of organization shall include:
+(a)
+The name, mailing address, and street address of the committee or electioneering communications organization;
+(b)
+The names, street addresses, and relationships of affiliated or connected organizations, including any affiliated sponsors;
+(c)
+The area, scope, or jurisdiction of the committee or electioneering communications organization;
+(d)
+The name, mailing address, street address, and position of the custodian of books and accounts;
+(e)
+The name, mailing address, street address, and position of other principal officers, including the treasurer and deputy treasurer, if any;
+(f)
+The name, address, office sought, and party affiliation of:
+1.
+Each candidate whom the committee is supporting;
+2.
+Any other individual, if any, whom the committee is supporting for nomination for election, or election, to any public office whatever;
+(g)
+Any issue or issues the committee is supporting or opposing;
+(h)
+If the committee is supporting the entire ticket of any party, a statement to that effect and the name of the party;
+(i)
+A statement of whether the committee is a continuing one;
+(j)
+Plans for the disposition of residual funds which will be made in the event of dissolution;
+(k)
+A listing of all banks, safe-deposit boxes, or other depositories used for committee or electioneering communications organization funds;
+(l)
+A statement of the reports required to be filed by the committee or the electioneering communications organization with federal officials, if any, and the names, addresses, and positions of such officials; and
+(m)
+A statement of whether the electioneering communications organization was formed as a newly created organization during the current calendar quarter or was formed from an organization existing prior to the current calendar quarter. For purposes of this subsection, calendar quarters end the last day of March, June, September, and December.
+(3)(a)
+A political committee which is organized to support or oppose statewide, legislative, or multicounty candidates or issues to be voted upon on a statewide or multicounty basis shall file a statement of organization with the Division of Elections.
+(b)
+Except as provided in paragraph (c), a political committee which is organized to support or oppose candidates or issues to be voted on in a countywide election or candidates or issues in any election held on less than a countywide basis shall file a statement of organization with the supervisor of elections of the county in which such election is being held.
+(c)
+A political committee which is organized to support or oppose only candidates for municipal office or issues to be voted on in a municipal election shall file a statement of organization with the officer before whom municipal candidates qualify.
+(d)
+Any political committee which would be required under this subsection to file a statement of organization in two or more locations need file only with the Division of Elections.
+(4)
+Any change in information previously submitted in a statement of organization shall be reported to the agency or officer with whom such committee or electioneering communications organization is required to register within 10 days following the change.
+(5)
+Any committee which, after having filed one or more statements of organization, disbands or determines it will no longer receive contributions or make expenditures during the calendar year in an aggregate amount exceeding $500 shall so notify the agency or officer with whom such committee is required to file the statement of organization.
+(6)
+If the filing officer finds that a political committee has filed its statement of organization consistent with the requirements of subsection (2), it shall notify the committee in writing that it has been registered as a political committee. If the filing officer finds that a political committee’s statement of organization does not meet the requirements of subsection (2), it shall notify the committee of such finding and shall state in writing the reasons for rejection of the statement of organization.
+(7)
+The Division of Elections shall adopt rules to prescribe the manner in which committees and electioneering communications organizations may be dissolved and have their registration canceled. Such rules shall, at a minimum, provide for:
+(a)
+Payment of fines prior to registration cancellation or dissolution.
+(b)
+Notice which shall contain the facts and conduct which warrant the intended action, including but not limited to failure to file reports and limited activity.
+(c)
+Adequate opportunity to respond.
+(d)
+Appeal of the decision to the Florida Elections Commission. Such appeals shall be exempt from the confidentiality provisions of s. 106.25.
+History.
+—
+s. 3, ch. 73-128; s. 3, ch. 74-200; s. 1, ch. 77-174; s. 41, ch. 77-175; s. 18, ch. 79-365; s. 25, ch. 81-304; s. 1, ch. 82-143; s. 36, ch. 84-302; s. 5, ch. 89-256; s. 27, ch. 90-315; s. 3, ch. 2006-300; s. 21, ch. 2010-167; ss. 8, 30, ch. 2011-6; s. 57, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 7, ch. 2013-37; s. 44, ch. 2023-120.
+106.05
+Deposit of contributions; statement of campaign treasurer.
+—
+All funds received by the campaign treasurer of any candidate or political committee shall, prior to the end of the 5th business day following the receipt thereof, Saturdays, Sundays, and legal holidays excluded, be deposited in a campaign depository designated pursuant to s. 106.021, in an account that contains the name of the candidate or committee. Except for contributions to political committees made by payroll deduction, all deposits shall be accompanied by a bank deposit slip containing the name of each contributor and the amount contributed by each. If a contribution is deposited in a secondary campaign depository, the depository shall forward the full amount of the deposit, along with a copy of the deposit slip accompanying the deposit, to the primary campaign depository prior to the end of the 1st business day following the deposit.
+History.
+—
+s. 5, ch. 73-128; s. 1, ch. 76-88; s. 1, ch. 77-174; s. 43, ch. 77-175; s. 7, ch. 89-256; s. 29, ch. 90-315; s. 8, ch. 2013-37.
+106.055
+Valuation of in-kind contributions.
+—
+Any person who makes an in-kind contribution shall, at the time of making such contribution, place a value on such contribution, which valuation shall be the fair market value of such contribution. Travel conveyed upon private aircraft shall be valued at the actual cost of per person commercial air travel for the same or a substantially similar route.
+History.
+—
+s. 44, ch. 77-175; s. 43, ch. 2007-30.
+106.06
+Treasurer to keep records; inspections.
+—
+(1)
+The campaign treasurer of each candidate and the campaign treasurer of each political committee shall keep detailed accounts, current within not more than 2 days after the date of receiving a contribution or making an expenditure, of all contributions received and all expenditures made by or on behalf of the candidate or political committee that are required to be set forth in a statement filed under this chapter. The campaign treasurer shall also keep detailed accounts of all deposits made in any separate interest-bearing account or certificate of deposit and of all withdrawals made therefrom to the primary depository and of all interest earned thereon.
+(2)
+Accounts, including separate interest-bearing accounts and certificates of deposit, kept by the campaign treasurer of a candidate or political committee may be inspected under reasonable circumstances before, during, or after the election to which the accounts refer by any authorized representative of the Division of Elections or the Florida Elections Commission. The right of inspection may be enforced by appropriate writ issued by any court of competent jurisdiction. The campaign treasurer of a political committee supporting a candidate may be joined with the campaign treasurer of the candidate as respondent in such a proceeding.
+(3)
+Accounts kept by a campaign treasurer of a candidate shall be preserved by the campaign treasurer for a number of years equal to the term of office of the office to which the candidate seeks election. Accounts kept by a campaign treasurer of a political committee shall be preserved by such treasurer for at least 2 years after the date of the election to which the accounts refer.
+History.
+—
+s. 6, ch. 73-128; s. 45, ch. 77-175; s. 3, ch. 79-378; s. 8, ch. 89-256; s. 30, ch. 90-315.
+106.07
+Reports; certification and filing.
+—
+(1)
+Each campaign treasurer designated by a candidate or political committee pursuant to s. 106.021 shall file regular reports of all contributions received, and all expenditures made, by or on behalf of such candidate or political committee. Except for the third calendar quarter immediately preceding a general election, reports must be filed on the 10th day following the end of each calendar quarter from the time the campaign treasurer is appointed, except that, if the 10th day following the end of a calendar quarter occurs on a Saturday, Sunday, or legal holiday, the report must be filed on the next following day that is not a Saturday, Sunday, or legal holiday. Quarterly reports must include all contributions received and expenditures made during the calendar quarter which have not otherwise been reported pursuant to this section.
+(a)
+A statewide candidate or a political committee required to file reports with the division must file reports:
+1.
+On the 60th day immediately preceding the primary election, and each week thereafter, with the last weekly report being filed on the 4th day immediately preceding the general election.
+2.
+On the 10th day immediately preceding the general election, and each day thereafter, with the last daily report being filed the 5th day immediately preceding the general election.
+(b)
+Any other candidate or a political committee required to file reports with a filing officer other than the division must file reports on the 60th day immediately preceding the primary election, and biweekly on each Friday thereafter through and including the 4th day immediately preceding the general election, with additional reports due on the 25th and 11th days before the primary election and the general election.
+(c)
+Following the last day of qualifying for office, any unopposed candidate need only file a report within 90 days after the date such candidate became unopposed. Such report shall contain all previously unreported contributions and expenditures as required by this section and shall reflect disposition of funds as required by s. 106.141.
+(d)1.
+When a special election is called to fill a vacancy in office, all political committees making contributions or expenditures to influence the results of such special election or the preceding special primary election shall file campaign treasurers’ reports with the filing officer on the dates set by the Department of State pursuant to s. 100.111.
+2.
+When an election is called for an issue to appear on the ballot at a time when no candidates are scheduled to appear on the ballot, all political committees making contributions or expenditures in support of or in opposition to such issue shall file reports on the 18th and 4th days before such election.
+(e)
+The filing officer shall provide each candidate with a schedule designating the beginning and end of reporting periods as well as the corresponding designated due dates.
+(f)
+A county, a municipality, or any other local governmental entity is expressly preempted from enacting or adopting a reporting schedule that differs from the requirements established in this subsection.
+(2)(a)1.
+All reports required of a candidate by this section shall be filed with the officer before whom the candidate is required by law to qualify. All candidates who file with the Department of State shall file their reports pursuant to s. 106.0705. Except as provided in s. 106.0705, reports shall be filed not later than 5 p.m. of the day designated; however, any report postmarked by the United States Postal Service no later than midnight of the day designated is deemed to have been filed in a timely manner. Any report received by the filing officer within 5 days after the designated due date that was delivered by the United States Postal Service is deemed timely filed unless it has a postmark that indicates that the report was mailed after the designated due date. A certificate of mailing obtained from and dated by the United States Postal Service at the time of mailing, or a receipt from an established courier company, which bears a date on or before the date on which the report is due, suffices as proof of mailing in a timely manner. Reports other than daily reports must contain information on all previously unreported contributions received and expenditures made as of the preceding Friday, except that the report filed on the Friday immediately preceding the election must contain information on all previously unreported contributions received and expenditures made as of the day preceding that designated due date; daily reports must contain information on all previously unreported contributions received as of the preceding day. All such reports are open to public inspection.
+2.
+This subsection does not prohibit the governing body of a political subdivision, by ordinance or resolution, from imposing upon its own officers and candidates electronic filing requirements not in conflict with s. 106.0705. Expenditure of public funds for such purpose is deemed to be for a valid public purpose.
+(b)1.
+Any report that is deemed to be incomplete by the officer with whom the candidate qualifies must be accepted on a conditional basis. The campaign treasurer shall be notified by certified mail or by another method using a common carrier that provides a proof of delivery of the notice as to why the report is incomplete and within 7 days after receipt of such notice must file an addendum to the report providing all information necessary to complete the report in compliance with this section. Failure to file a complete report after such notice constitutes a violation of this chapter.
+2.
+Notice is deemed complete upon proof of delivery of a written notice to the mailing or street address of the campaign treasurer or registered agent of record with the filing officer.
+(3)
+Reports required of a political committee shall be filed with the agency or officer before whom such committee registers pursuant to s. 106.03(3) and shall be subject to the same filing conditions as established for candidates’ reports. Incomplete reports by political committees shall be treated in the manner provided for incomplete reports by candidates in subsection (2).
+(4)(a)
+Except for daily reports, to which only the contributions provisions below apply, and except as provided in paragraph (b), each report required by this section must contain:
+1.
+The full name, address, and occupation, if any, of each person who has made one or more contributions to or for such committee or candidate within the reporting period, together with the amount and date of such contributions. For corporations, the report must provide as clear a description as practicable of the principal type of business conducted by the corporation. However, if the contribution is $100 or less or is from a relative, as defined in s. 112.312, provided that the relationship is reported, the occupation of the contributor or the principal type of business need not be listed.
+2.
+The name and address of each political committee from which the reporting committee or the candidate received, or to which the reporting committee or candidate made, any transfer of funds, together with the amounts and dates of all transfers.
+3.
+Each loan for campaign purposes to or from any person or political committee within the reporting period, together with the full names, addresses, and occupations, and principal places of business, if any, of the lender and endorsers, if any, and the date and amount of such loans.
+4.
+A statement of each contribution, rebate, refund, or other receipt not otherwise listed under subparagraphs 1. through 3.
+5.
+The total sums of all loans, in-kind contributions, and other receipts by or for such committee or candidate during the reporting period. The reporting forms shall be designed to elicit separate totals for in-kind contributions, loans, and other receipts.
+6.
+The full name and address of each person to whom expenditures have been made by or on behalf of the committee or candidate within the reporting period; the amount, date, and purpose of each such expenditure; and the name and address of, and office sought by, each candidate on whose behalf such expenditure was made. However, expenditures made from the petty cash fund provided by s. 106.12 need not be reported individually.
+7.
+The full name and address of each person to whom an expenditure for personal services, salary, or reimbursement for authorized expenses as provided in s. 106.021(3) has been made and which is not otherwise reported, including the amount, date, and purpose of such expenditure. However, expenditures made from the petty cash fund provided for in s. 106.12 need not be reported individually. Receipts for reimbursement for authorized expenditures shall be retained by the treasurer along with the records for the campaign account.
+8.
+The total amount withdrawn and the total amount spent for petty cash purposes pursuant to this chapter during the reporting period.
+9.
+The total sum of expenditures made by such committee or candidate during the reporting period.
+10.
+The amount and nature of debts and obligations owed by or to the committee or candidate, which relate to the conduct of any political campaign.
+11.
+Transaction information for each credit card purchase. Receipts for each credit card purchase shall be retained by the treasurer with the records for the campaign account.
+12.
+The amount and nature of any separate interest-bearing accounts or certificates of deposit and identification of the financial institution in which such accounts or certificates of deposit are located.
+13.
+The primary purposes of an expenditure made indirectly through a campaign treasurer pursuant to s. 106.021(3) for goods and services such as communications media placement or procurement services, campaign signs, insurance, and other expenditures that include multiple components as part of the expenditure. The primary purpose of an expenditure shall be that purpose, including integral and directly related components, that comprises 80 percent of such expenditure.
+(b)
+Multiple uniform contributions from the same person, aggregating no more than $250 per calendar year, collected by an organization that is the affiliated sponsor of a political committee, may be reported by the political committee in an aggregate amount listing the number of contributors together with the amount contributed by each and the total amount contributed during the reporting period. The identity of each person making such uniform contribution must be reported to the filing officer as provided in subparagraph (a)1. by July 1 of each calendar year, or, in a general election year, no later than the 60th day immediately preceding the primary election.
+(c)
+The filing officer shall make available to any candidate or committee a reporting form which the candidate or committee may use to indicate contributions received by the candidate or committee but returned to the contributor before deposit.
+(5)
+The candidate and his or her campaign treasurer, in the case of a candidate, or the political committee chair and campaign treasurer of the committee, in the case of a political committee, shall certify as to the correctness of each report; and each person so certifying shall bear the responsibility for the accuracy and veracity of each report. Any campaign treasurer, candidate, or political committee chair who willfully certifies the correctness of any report while knowing that such report is incorrect, false, or incomplete commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(6)
+The records maintained by the campaign depository with respect to any campaign account regulated by this chapter are subject to inspection by an agent of the Division of Elections or the Florida Elections Commission at any time during normal banking hours, and such depository shall furnish certified copies of any of such records to the Division of Elections or Florida Elections Commission upon request.
+(7)
+Notwithstanding any other provisions of this chapter, in any reporting period during which a candidate or political committee has not received funds, made any contributions, or expended any reportable funds, the filing of the required report for that period is waived. However, the next report filed must specify that the report covers the entire period between the last submitted report and the report being filed, and any candidate or political committee not reporting by virtue of this subsection on dates prescribed elsewhere in this chapter shall notify the filing officer in writing on the prescribed reporting date that no report is being filed on that date.
+(8)(a)
+Any candidate or political committee failing to file a report on the designated due date is subject to a fine as provided in paragraph (b) for each late day, and, in the case of a candidate, such fine shall be paid only from personal funds of the candidate. The fine shall be assessed by the filing officer and the moneys collected shall be deposited:
+1.
+In the General Revenue Fund, in the case of a candidate for state office or a political committee that registers with the Division of Elections; or
+2.
+In the general revenue fund of the political subdivision, in the case of a candidate for an office of a political subdivision or a political committee that registers with an officer of a political subdivision.
+No separate fine shall be assessed for failure to file a copy of any report required by this section.
+(b)
+Upon determining that a report is late, the filing officer shall immediately notify the candidate or chair of the political committee as to the failure to file a report by the designated due date and that a fine is being assessed for each late day. The fine is $50 per day for the first 3 days late and, thereafter, $500 per day for each late day, not to exceed 25 percent of the total receipts or expenditures, whichever is greater, for the period covered by the late report. However, for the reports immediately preceding each special primary election, special election, primary election, and general election, the fine is $500 per day for each late day, not to exceed 25 percent of the total receipts or expenditures, whichever is greater, for the period covered by the late report. For reports required under s. 106.141(8), the fine is $50 per day for each late day, not to exceed 25 percent of the total receipts or expenditures, whichever is greater, for the period covered by the late report. Upon receipt of the report, the filing officer shall determine the amount of the fine which is due and shall notify the candidate or chair or registered agent of the political committee. The filing officer shall determine the amount of the fine due based upon the earliest of the following:
+1.
+When the report is actually received by such officer.
+2.
+When the report is postmarked.
+3.
+When the certificate of mailing is dated.
+4.
+When the receipt from an established courier company is dated.
+5.
+When the electronic receipt issued pursuant to s. 106.0705 or other electronic filing system authorized in this section is dated.
+Such fine shall be paid to the filing officer within 20 days after receipt of the notice of payment due, unless appeal is made to the Florida Elections Commission pursuant to paragraph (c). Notice is deemed complete upon proof of delivery of written notice to the mailing or street address on record with the filing officer. In the case of a candidate, such fine is not an allowable campaign expenditure and shall be paid only from personal funds of the candidate. An officer or member of a political committee is not personally liable for such fine.
+(c)
+Any candidate or chair of a political committee may appeal or dispute the fine, based upon, but not limited to, unusual circumstances surrounding the failure to file on the designated due date, and may request and shall be entitled to a hearing before the Florida Elections Commission, which shall have the authority to waive the fine in whole or in part. The Florida Elections Commission must consider the mitigating and aggravating circumstances contained in s. 106.265(3) when determining the amount of a fine, if any, to be waived. Any such request shall be made within 20 days after receipt of the notice of payment due. In such case, the candidate or chair of the political committee shall, within the 20-day period, notify the filing officer in writing of his or her intention to bring the matter before the commission.
+(d)
+The appropriate filing officer shall notify the Florida Elections Commission of the repeated late filing by a candidate or political committee, the failure of a candidate or political committee to file a report after notice, or the failure to pay the fine imposed. The commission shall investigate only those alleged late filing violations specifically identified by the filing officer and as set forth in the notification. Any other alleged violations must be separately stated and reported by the division to the commission under s. 106.25(2).
+History.
+—
+s. 7, ch. 73-128; ss. 5, 15, 17, ch. 74-200; ss. 1, 2, ch. 75-8; s. 2, ch. 75-139; s. 1, ch. 77-174; s. 46, ch. 77-175; s. 23, ch. 79-164; ss. 7, 8, ch. 79-365; s. 4, ch. 79-378; s. 58, ch. 79-400; s. 52, ch. 81-259; s. 27, ch. 81-304; s. 2, ch. 82-143; s. 11, ch. 83-251; s. 37, ch. 84-302; s. 6, ch. 85-226; s. 1, ch. 86-134; s. 13, ch. 87-224; s. 9, ch. 89-256; s. 31, ch. 90-315; s. 2, ch. 90-338; s. 18, ch. 90-502; s. 7, ch. 91-107; s. 2, ch. 95-140; s. 640, ch. 95-147; s. 15, ch. 95-280; s. 7, ch. 97-13; s. 6, ch. 2001-75; s. 29, ch. 2002-17; s. 2, ch. 2002-197; s. 8, ch. 2003-1; ss. 17, 18, ch. 2004-252; s. 24, ch. 2005-286; ss. 5, 10, ch. 2006-300; s. 29, ch. 2008-95; s. 59, ch. 2011-40; s. 6, ch. 2012-5; s. 9, ch. 2013-37; s. 2, ch. 2020-4; s. 45, ch. 2023-120.
+106.0701
+Solicitation of contributions on behalf of s. 527 or s. 501(c)(4) organizations; reporting requirements; civil penalty; exemption.
+—
+(1)
+The Governor, Lieutenant Governor, members of the Cabinet, state legislators, or candidates for such offices who directly or indirectly solicit, cause to be solicited, or accept any contribution on behalf of an organization that is exempt from taxation under s. 527 or s. 501(c)(4) of the Internal Revenue Code, which such individuals, in whole or in part, establish, maintain, or control, shall file a statement with the division within 5 days after commencing such activity on behalf of the organization. The statement shall contain the following information:
+(a)
+The name of the person acting on behalf of the organization.
+(b)
+The name and type of the organization.
+(c)
+A description of the relationship between the person and the organization.
+(2)
+Failure to timely file the statement shall subject the person to a civil penalty of $50 per day for each late day, payable from the personal funds of the violator.
+(3)
+Upon filing a statement with the division, an individual subject to the requirements of subsection (1) shall promptly create a public website that contains a mission statement and the names of persons associated with the organization. The address of the website shall be reported to the division within 5 business days after the website is created.
+(4)
+All contributions received shall be disclosed on the website within 5 business days after deposit, together with the name, address, and occupation of the donor. All expenditures by the organization shall be individually disclosed on the website within 5 business days after being made.
+(5)
+The filing requirements of subsection (1) do not apply to an individual acting on behalf of his or her own campaign, a political party, or an affiliated party committee of which the individual is a member.
+History.
+—
+s. 6, ch. 2006-300; ss. 10, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.
+106.0702
+Reporting; political party executive committee candidates.
+—
+(1)
+An individual seeking a publicly elected position on a political party executive committee who receives a contribution or makes an expenditure shall file a report of all contributions received and all expenditures made. The report shall be filed on the 4th day immediately preceding the primary election.
+(2)(a)
+The report shall be filed with the supervisor of elections of the appropriate county. Reports shall be filed no later than 5 p.m. of the day designated; however, any report postmarked by the United States Postal Service by the day designated shall be deemed to have been filed in a timely manner. Any report received by the filing officer within 5 days after the designated due date shall be deemed timely filed unless it has a postmark that indicates that the report was mailed after the designated due date. A certificate of mailing obtained from and dated by the United States Postal Service at the time of mailing, or a receipt from an established courier company, which bears a date on or before the date on which the report is due is proof of mailing in a timely manner. The report filed must contain information of all contributions received and expenditures made as of the day preceding the designated due date. All such reports must be open to public inspection.
+(b)
+A reporting individual may submit the report required under this section through an electronic filing system, if used by the supervisor for other candidates, in order to satisfy the filing requirement. Such reports shall be completed and filed through the electronic filing system not later than midnight on the 4th day immediately preceding the primary election.
+(3)(a)
+A report that is deemed to be incomplete by the supervisor shall be accepted on a conditional basis. The supervisor shall send a notice to the reporting individual by certified mail or by another method using a common carrier that provides proof of delivery as to why the report is incomplete. Within 7 days after receipt of such notice, the reporting individual must file an addendum to the report providing all information necessary to complete the report in compliance with this section. Failure to file a complete report after such notice constitutes a violation of this chapter.
+(b)
+Notice is deemed complete upon proof of delivery of a written notice to the mailing or street address that is on record with the supervisor.
+(4)(a)
+Each report required by this section must contain:
+1.
+The full name, address, and occupation of each person who has made one or more contributions to or for the reporting individual within the reporting period, together with the amount and date of such contributions. For corporations, the report must provide as clear a description as practicable of the principal type of business conducted by the corporations. However, if the contribution is $100 or less or is from a relative, as defined in s. 112.312, provided that the relationship is reported, the occupation of the contributor or the principal type of business need not be listed.
+2.
+The name and address of each political committee from which the reporting individual has received, or to which the reporting individual has made, any transfer of funds within the reporting period, together with the amounts and dates of all transfers.
+3.
+Each loan for campaign purposes from any person or political committee within the reporting period, together with the full name, address, and occupation, and principal place of business, if any, of the lender and endorser, if any, and the date and amount of such loans.
+4.
+A statement of each contribution, rebate, refund, or other receipt not otherwise listed under subparagraphs 1.-3.
+5.
+The total sums of all loans, in-kind contributions, and other receipts by or for such reporting individual during the reporting period. The reporting forms shall be designed to elicit separate totals for in-kind contributions, loans, and other receipts.
+6.
+The full name and address of each person to whom expenditures have been made by or on behalf of the reporting individual within the reporting period; the amount, date, and purpose of each such expenditure; and the name and address of, and office sought by, each reporting individual on whose behalf such expenditure was made.
+7.
+The amount and nature of debts and obligations owed by or to the reporting individual which relate to the conduct of any political campaign.
+8.
+Transaction information for each credit card purchase. Receipts for each credit card purchase shall be retained by the reporting individual.
+9.
+The amount and nature of any separate interest-bearing accounts or certificates of deposit and identification of the financial institution in which such accounts or certificates of deposit are located.
+(b)
+The supervisor shall make available to any reporting individual a reporting form that the reporting individual may use to indicate contributions received by the reporting individual but returned to the contributor before deposit.
+(5)
+The reporting individual shall certify as to the correctness of the report and shall bear the responsibility for the accuracy and veracity of each report. Any reporting individual who willfully certifies the correctness of the report while knowing that such report is incorrect, false, or incomplete commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(6)
+Notwithstanding any other provisions of this chapter, the filing of the required report is waived if the reporting individual has not received contributions or expended any reportable funds.
+(7)(a)
+A reporting individual who fails to file a report on the designated due date is subject to a fine, and such fine shall be paid only from personal funds of the reporting individual. The fine shall be $50 per day for the first 3 days late and, thereafter, $500 per day for each late day, not to exceed 25 percent of the total receipts or expenditures, whichever is greater. The fine shall be assessed by the supervisor, and the moneys collected shall be deposited into the general revenue fund of the political subdivision.
+(b)
+The supervisor shall determine the amount of the fine due based upon the earliest of the following:
+1.
+When the report is actually received by the supervisor;
+2.
+When the report is postmarked;
+3.
+When the certificate of mailing is dated;
+4.
+When the receipt from an established courier company is dated; or
+5.
+When the report is completed and filed through the electronic filing system, if applicable.
+Such fine shall be paid to the supervisor within 20 days after receipt of the notice of payment due unless appeal is made to the Florida Elections Commission pursuant to paragraph (c). Notice is deemed complete upon proof of delivery of written notice to the mailing or street address on record with the supervisor. Such fine may not be an allowable campaign expenditure and shall be paid only from personal funds of the reporting individual.
+(c)
+A reporting individual may appeal or dispute the fine, based upon, but not limited to, unusual circumstances surrounding the failure to file on the designated due date, and may request and is entitled to a hearing before the Florida Elections Commission, which has the authority to waive the fine in whole or in part. The Florida Elections Commission must consider the mitigating and aggravating circumstances contained in s. 106.265(3) when determining the amount of a fine, if any, to be waived. Any such request shall be made within 20 days after receipt of the notice of payment due. In such case, the reporting individual must, within 20 days after receipt of the notice, notify the supervisor in writing of his or her intention to bring the matter before the commission.
+(d)
+The appropriate supervisor shall notify the Florida Elections Commission of the late filing by a reporting individual, the failure of a reporting individual to file a report after notice, or the failure to pay the fine imposed. The commission shall investigate only those alleged late filing violations specifically identified by the supervisor and as set forth in the notification. Any other alleged violations must be separately stated and reported by the division to the commission under s. 106.25(2).
+History.
+—
+s. 10, ch. 2013-37; s. 46, ch. 2023-120.
+106.0703
+Electioneering communications organizations; reporting requirements; certification and filing; penalties.
+—
+(1)(a)
+Each electioneering communications organization shall file regular reports of all contributions received and all expenditures made by or on behalf of the organization. Except for the third calendar quarter immediately preceding a general election, reports must be filed on the 10th day following the end of each calendar quarter from the time the organization is registered. However, if the 10th day following the end of a calendar quarter occurs on a Saturday, Sunday, or legal holiday, the report must be filed on the next following day that is not a Saturday, Sunday, or legal holiday. Quarterly reports must include all contributions received and expenditures made during the calendar quarter that have not otherwise been reported pursuant to this section.
+(b)
+For an electioneering communications organization required to file reports with the division, reports must be filed:
+1.
+On the 60th day immediately preceding the primary election, and each week thereafter, with the last weekly report being filed on the 4th day immediately preceding the general election.
+2.
+On the 10th day immediately preceding the general election, and every day thereafter excluding the 4th day immediately preceding the general election, with the last daily report being filed the day before the general election.
+(c)
+For an electioneering communications organization required to file reports with a filing officer other than the division, reports must be filed on the 60th day immediately preceding the primary election, and biweekly on each Friday thereafter through and including the 4th day immediately preceding the general election, with additional reports due on the 25th and 11th days before the primary election and the general election.
+(d)
+When a special election is called to fill a vacancy in office, all electioneering communications organizations making contributions or expenditures to influence the results of the special election shall file reports with the filing officer on the dates set by the Department of State pursuant to s. 100.111.
+(e)
+In addition to the reports required by paragraph (a), an electioneering communications organization that is registered with the Department of State and that makes a contribution or expenditure to influence the results of a county or municipal election that is not being held at the same time as a state or federal election must file reports with the county or municipal filing officer on the same dates as county or municipal candidates or committees for that election. The electioneering communications organization must also include the expenditure in the next report filed with the Division of Elections pursuant to this section following the county or municipal election.
+(f)
+The filing officer shall make available to each electioneering communications organization a schedule designating the beginning and end of reporting periods as well as the corresponding designated due dates.
+(2)(a)
+Except as provided in s. 106.0705, the reports required of an electioneering communications organization shall be filed with the filing officer not later than 5 p.m. of the day designated. However, any report postmarked by the United States Postal Service no later than midnight of the day designated is deemed to have been filed in a timely manner. Any report received by the filing officer within 5 days after the designated due date that was delivered by the United States Postal Service is deemed timely filed unless it has a postmark that indicates that the report was mailed after the designated due date. A certificate of mailing obtained from and dated by the United States Postal Service at the time of mailing, or a receipt from an established courier company, which bears a date on or before the date on which the report is due, suffices as proof of mailing in a timely manner. Reports other than daily reports must contain information on all previously unreported contributions received and expenditures made as of the preceding Friday, except that the report filed on the Friday immediately preceding the election must contain information on all previously unreported contributions received and expenditures made as of the day preceding the designated due date; daily reports must contain information on all previously unreported contributions received as of the preceding day. All such reports are open to public inspection.
+(b)1.
+Any report that is deemed to be incomplete by the officer with whom the electioneering communications organization files shall be accepted on a conditional basis. The treasurer of the electioneering communications organization shall be notified, by certified mail or other common carrier that can establish proof of delivery for the notice, as to why the report is incomplete. Within 7 days after receipt of such notice, the treasurer must file an addendum to the report providing all information necessary to complete the report in compliance with this section. Failure to file a complete report after such notice constitutes a violation of this chapter.
+2.
+Notice is deemed sufficient upon proof of delivery of written notice to the mailing or street address of the treasurer or registered agent of the electioneering communication organization on record with the filing officer.
+(3)(a)
+Except for daily reports, to which only the contribution provisions below apply, each report required by this section must contain:
+1.
+The full name, address, and occupation, if any, of each person who has made one or more contributions to or for such electioneering communications organization within the reporting period, together with the amount and date of such contributions. For corporations, the report must provide as clear a description as practicable of the principal type of business conducted by the corporation. However, if the contribution is $100 or less, the occupation of the contributor or the principal type of business need not be listed.
+2.
+The name and address of each political committee from which or to which the reporting electioneering communications organization made any transfer of funds, together with the amounts and dates of all transfers.
+3.
+Each loan for electioneering communication purposes to or from any person or political committee within the reporting period, together with the full names, addresses, and occupations and principal places of business, if any, of the lender and endorsers, if any, and the date and amount of such loans.
+4.
+A statement of each contribution, rebate, refund, or other receipt not otherwise listed under subparagraphs 1.-3.
+5.
+The total sums of all loans, in-kind contributions, and other receipts by or for such electioneering communications organization during the reporting period. The reporting forms shall be designed to elicit separate totals for in-kind contributions, loans, and other receipts.
+6.
+The full name and address of each person to whom expenditures have been made by or on behalf of the electioneering communications organization within the reporting period and the amount, date, and purpose of each expenditure.
+7.
+The full name and address of each person to whom an expenditure for personal services, salary, or reimbursement for expenses has been made and that is not otherwise reported, including the amount, date, and purpose of the expenditure.
+8.
+The total sum of expenditures made by the electioneering communications organization during the reporting period.
+9.
+The amount and nature of debts and obligations owed by or to the electioneering communications organization that relate to the conduct of any electioneering communication.
+10.
+Transaction information for each credit card purchase. Receipts for each credit card purchase shall be retained by the electioneering communications organization.
+11.
+The amount and nature of any separate interest-bearing accounts or certificates of deposit and identification of the financial institution in which such accounts or certificates of deposit are located.
+12.
+The primary purposes of an expenditure made indirectly through an electioneering communications organization for goods and services, such as communications media placement or procurement services and other expenditures that include multiple components as part of the expenditure. The primary purpose of an expenditure shall be that purpose, including integral and directly related components, that comprises 80 percent of such expenditure.
+(b)
+The filing officer shall make available to any electioneering communications organization a reporting form which the electioneering communications organization may use to indicate contributions received by the electioneering communications organization but returned to the contributor before deposit.
+(4)
+The treasurer of the electioneering communications organization shall certify as to the correctness of each report, and each person so certifying shall bear the responsibility for the accuracy and veracity of each report. Any treasurer who willfully certifies the correctness of any report while knowing that such report is incorrect, false, or incomplete commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(5)
+The electioneering communications organization depository shall provide statements reflecting deposits and expenditures from the account to the treasurer, who shall retain the records pursuant to s. 106.06. The records maintained by the depository with respect to the account shall be subject to inspection by an agent of the Division of Elections or the Florida Elections Commission at any time during normal banking hours, and such depository shall furnish certified copies of any such records to the Division of Elections or the Florida Elections Commission upon request.
+(6)
+Notwithstanding any other provisions of this chapter, in any reporting period during which an electioneering communications organization has not received funds, made any contributions, or expended any reportable funds, the treasurer shall file a written report with the filing officer by the prescribed reporting date that no reportable contributions or expenditures were made during the reporting period.
+(7)(a)
+Any electioneering communications organization failing to file a report on the designated due date shall be subject to a fine as provided in paragraph (b) for each late day. The fine shall be assessed by the filing officer, and the moneys collected shall be deposited:
+1.
+In the General Revenue Fund, in the case of an electioneering communications organization that registers with the Division of Elections; or
+2.
+In the general revenue fund of the political subdivision, in the case of an electioneering communications organization that registers with an officer of a political subdivision.
+No separate fine shall be assessed for failure to file a copy of any report required by this section.
+(b)
+Upon determining that a report is late, the filing officer shall immediately notify the electioneering communications organization as to the failure to file a report by the designated due date and that a fine is being assessed for each late day. The fine shall be $50 per day for the first 3 days late and, thereafter, $500 per day for each late day, not to exceed 25 percent of the total receipts or expenditures, whichever is greater, for the period covered by the late report. However, for the reports immediately preceding each primary and general election, the fine shall be $500 per day for each late day, not to exceed 25 percent of the total receipts or expenditures, whichever is greater, for the period covered by the late report. Upon receipt of the report, the filing officer shall determine the amount of the fine which is due and shall notify the electioneering communications organization. The filing officer shall determine the amount of the fine due based upon the earliest of the following:
+1.
+When the report is actually received by such officer.
+2.
+When the report is postmarked.
+3.
+When the certificate of mailing is dated.
+4.
+When the receipt from an established courier company is dated.
+5.
+When the electronic receipt issued pursuant to s. 106.0705 or other electronic filing system authorized in this section is dated.
+Such fine shall be paid to the filing officer within 20 days after receipt of the notice of payment due, unless appeal is made to the Florida Elections Commission pursuant to paragraph (c). Notice is deemed sufficient upon proof of delivery of written notice to the mailing or street address on record with the filing officer. An officer or member of an electioneering communications organization shall not be personally liable for such fine.
+(c)
+The treasurer of an electioneering communications organization may appeal or dispute the fine, based upon, but not limited to, unusual circumstances surrounding the failure to file on the designated due date, and may request and shall be entitled to a hearing before the Florida Elections Commission, which shall have the authority to waive the fine in whole or in part. The Florida Elections Commission must consider the mitigating and aggravating circumstances contained in s. 106.265(3) when determining the amount of a fine, if any, to be waived. Any such request shall be made within 20 days after receipt of the notice of payment due. In such case, the treasurer of the electioneering communications organization shall, within the 20-day period, notify the filing officer in writing of his or her intention to bring the matter before the commission.
+(d)
+The appropriate filing officer shall notify the Florida Elections Commission of the repeated late filing by an electioneering communications organization, the failure of an electioneering communications organization to file a report after notice, or the failure to pay the fine imposed. The commission shall investigate only those alleged late filing violations specifically identified by the filing officer and as set forth in the notification. Any other alleged violations must be stated separately and reported by the division to the commission under s. 106.25(2).
+(8)
+Electioneering communications organizations shall not use credit cards.
+History.
+—
+s. 7, ch. 2006-300; s. 23, ch. 2010-167; ss. 11, 30, ch. 2011-6; s. 60, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 7, ch. 2012-5; s. 11, ch. 2013-37; s. 10, ch. 2014-17; s. 47, ch. 2023-120.
+106.0705
+Electronic filing of campaign treasurer’s reports.
+—
+(1)
+As used in this section, “electronic filing system” means an Internet system for recording and reporting campaign finance activity by reporting period.
+(2)(a)
+Each individual who is required to file reports with the division pursuant to s. 106.07 or s. 106.141 must file such reports by means of the division’s electronic filing system.
+(b)
+Each political committee, electioneering communications organization, affiliated party committee, or state executive committee that is required to file reports with the division under s. 106.07, s. 106.0703, or s. 106.29, as applicable, must file such reports with the division by means of the division’s electronic filing system.
+(c)
+Each person or organization that is required to file reports with the division under s. 106.071 must file such reports by means of the division’s electronic filing system.
+(3)
+Reports filed pursuant to this section shall be completed and filed through the electronic filing system not later than midnight of the day designated. Reports not filed by midnight of the day designated are late filed and are subject to the penalties under s. 106.07(8), s. 106.0703(7), or s. 106.29(3), as applicable.
+(4)
+Each report filed pursuant to this section is considered to be under oath by the candidate and treasurer, the chair and treasurer, the treasurer under s. 106.0703, or the leader and treasurer under s. 103.092, whichever is applicable, and such persons are subject to the provisions of s. 106.07(5), s. 106.0703(4), or s. 106.29(2), as applicable. Persons given a secure sign-on to the electronic filing system are responsible for protecting such from disclosure and are responsible for all filings using such credentials, unless they have notified the division that their credentials have been compromised.
+(5)
+The electronic filing system developed by the division must:
+(a)
+Be based on access by means of the Internet.
+(b)
+Be accessible by anyone with Internet access using standard web-browsing software.
+(c)
+Provide for direct entry of campaign finance information as well as upload of such information from campaign finance software certified by the division.
+(d)
+Provide a method that prevents unauthorized access to electronic filing system functions.
+(6)
+The division shall adopt rules to administer this section and provide for the reports required to be filed pursuant to this section. Such rules shall, at a minimum, provide:
+(a)
+Alternate filing procedures in case the division’s electronic filing system is not operable.
+(b)
+For the issuance of an electronic receipt to the person submitting the report indicating and verifying that the report has been filed.
+History.
+—
+s. 19, ch. 2004-252; s. 45, ch. 2005-278; s. 8, ch. 2006-300; s. 24, ch. 2010-167; ss. 12, 30, ch. 2011-6; s. 61, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 12, ch. 2013-37.
+106.0706
+Electronic filing of campaign finance reports; public records exemption.
+—
+(1)
+All user identifications and passwords held by the Department of State pursuant to s. 106.0705 are confidential and exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.
+(2)(a)
+Information entered in the electronic filing system for purposes of generating a report pursuant to s. 106.0705 is exempt from s. 119.07(1) and s. 24(a), Art. I of the State Constitution.
+(b)
+Information entered in the electronic filing system is no longer exempt once the report is generated and filed with the Division of Elections.
+History.
+—
+s. 1, ch. 2004-253; s. 16, ch. 2008-4; s. 1, ch. 2009-149.
+106.071
+Independent expenditures; electioneering communications; reports; disclaimers.
+—
+(1)
+Each person who makes an independent expenditure with respect to any candidate or issue, and each individual who makes an expenditure for an electioneering communication which is not otherwise reported pursuant to this chapter, which expenditure, in the aggregate, is in the amount of $5,000 or more, shall file periodic reports of such expenditures in the same manner, at the same time, subject to the same penalties, and with the same officer as a political committee supporting or opposing such candidate or issue. The report shall contain the full name and address of the person making the expenditure; the full name and address of each person to whom and for whom each such expenditure has been made; the amount, date, and purpose of each such expenditure; a description of the services or goods obtained by each such expenditure; the issue to which the expenditure relates; and the name and address of, and office sought by, each candidate on whose behalf such expenditure was made.
+(2)
+Any political advertisement, other than a text message or a telephone call, paid for by an independent expenditure must prominently state “Paid political advertisement paid for by
+(Name and address of person paying for advertisement)
+independently of any
+(candidate or committee)
+.”
+(3)
+Subsection (2) does not apply to novelty items having a retail value of $10 or less which support, but do not oppose, a candidate or issue.
+(4)
+Any person who fails to include the disclaimer prescribed in subsection (2) in any political advertisement that is required to contain such disclaimer commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 47, ch. 77-175; s. 10, ch. 89-256; s. 4, ch. 2004-252; s. 25, ch. 2010-167; ss. 13, 30, ch. 2011-6; HJR 7105, 2011 Regular Session; s. 2, ch. 2021-49.
+106.072
+Social media deplatforming of political candidates.
+—
+(1)
+As used in this section, the term:
+(a)
+“Candidate” has the same meaning as in s. 106.011(3)(e).
+(b)
+“Deplatform” has the same meaning as in s. 501.2041.
+(c)
+“Social media platform” has the same meaning as in s. 501.2041.
+(d)
+“User” has the same meaning as in s. 501.2041.
+(2)
+A social media platform may not willfully deplatform a candidate for office who is known by the social media platform to be a candidate, beginning on the date of qualification and ending on the date of the election or the date the candidate ceases to be a candidate. A social media platform must provide each user a method by which the user may be identified as a qualified candidate and which provides sufficient information to allow the social media platform to confirm the user’s qualification by reviewing the website of the Division of Elections or the website of the local supervisor of elections.
+(3)
+Upon a finding of a violation of subsection (2) by the Florida Elections Commission, in addition to the remedies provided in ss. 106.265 and 106.27, the social media platform may be fined $250,000 per day for a candidate for statewide office and $25,000 per day for a candidate for other offices.
+(4)
+A social media platform that willfully provides free advertising for a candidate must inform the candidate of such in-kind contribution. Posts, content, material, and comments by candidates which are shown on the platform in the same or similar way as other users’ posts, content, material, and comments are not considered free advertising.
+(5)
+This section may only be enforced to the extent not inconsistent with federal law and 47 U.S.C. s. 230(e)(3), and notwithstanding any other provision of state law.
+History.
+—
+s. 2, ch. 2021-32; s. 2, ch. 2022-267.
+106.075
+Elected officials; report of loans made in year preceding election; limitation on contributions to pay loans.
+—
+(1)
+A person who is elected to office must report all loans, exceeding $500 in value, made to him or her and used for campaign purposes, and made in the 12 months preceding his or her election to office, to the filing officer. The report must be made, in the manner prescribed by the Department of State, within 10 days after being elected to office.
+(2)
+Any person who makes a contribution to an individual to pay all or part of a loan incurred, in the 12 months preceding the election, to be used for the individual’s campaign, may not contribute more than the amount which is allowed in s. 106.08(1).
+History.
+—
+s. 11, ch. 89-256; s. 32, ch. 90-315; s. 12, ch. 91-107; s. 641, ch. 95-147; s. 34, ch. 2013-37.
+106.08
+Contributions; limitations on.
+—
+(1)(a)
+Except for political parties or affiliated party committees, no person or political committee may, in any election, make contributions in excess of the following amounts:
+1.
+To a candidate for statewide office or for retention as a justice of the Supreme Court, $3,000. Candidates for the offices of Governor and Lieutenant Governor on the same ticket are considered a single candidate for the purpose of this subparagraph.
+2.
+To a political committee that is the sponsor of or is in opposition to a constitutional amendment proposed by initiative, $3,000. This limitation applies only to persons who are not residents of the state and to political committees that have not registered an office under this chapter using a street address located within the state. However, the limitation on contributions to such political committees no longer applies once the Secretary of State has issued a certificate of ballot position and a designating number for the proposed amendment that the political committee is sponsoring or opposing.
+3.
+To a candidate for retention as a judge of a district court of appeal; a candidate for legislative office; a candidate for multicounty office; a candidate for countywide office or in any election conducted on less than a countywide basis; or a candidate for county court judge or circuit judge, $1,000.
+(b)
+The contribution limits provided in this subsection do not apply to contributions made by a state or county executive committee of a political party or affiliated party committee regulated by chapter 103 or to amounts contributed by a candidate to his or her own campaign.
+(c)
+The contribution limits of this subsection apply to each election. For purposes of this subsection, the primary election and general election are separate elections so long as the candidate is not an unopposed candidate as defined in s. 106.011. However, for the purpose of contribution limits with respect to candidates for retention as a justice or judge, there is only one election, which is the general election.
+(2)(a)
+A candidate may not accept contributions from a county executive committee of a political party whose contributions in the aggregate exceed $50,000, or from the national or state executive committees of a political party, including any subordinate committee of such political party or affiliated party committees, whose contributions in the aggregate exceed $50,000.
+(b)
+A candidate for statewide office may not accept contributions from national, state, or county executive committees of a political party, including any subordinate committee of the political party, or affiliated party committees, which contributions in the aggregate exceed $250,000. Polling services, research services, costs for campaign staff, professional consulting services, telephone calls, and text messages are not contributions to be counted toward the contribution limits of paragraph (a) or this paragraph. Any item not expressly identified in this paragraph as nonallocable is a contribution in an amount equal to the fair market value of the item and must be counted as allocable toward the contribution limits of paragraph (a) or this paragraph. Nonallocable, in-kind contributions must be reported by the candidate under s. 106.07 and by the political party or affiliated party committee under s. 106.29.
+(3)(a)
+Any contribution received by a candidate with opposition in an election or by the campaign treasurer or a deputy campaign treasurer of such a candidate on the day of that election or less than 5 days before the day of that election must be returned by him or her to the person or committee contributing it and may not be used or expended by or on behalf of the candidate.
+(b)
+Any contribution received by a candidate or by the campaign treasurer or a deputy campaign treasurer of a candidate after the date at which the candidate withdraws his or her candidacy, or after the date the candidate is defeated, becomes unopposed, or is elected to office must be returned to the person or committee contributing it and may not be used or expended by or on behalf of the candidate.
+(4)
+Any contribution received by the chair, campaign treasurer, or deputy campaign treasurer of a political committee supporting or opposing a candidate with opposition in an election or supporting or opposing an issue on the ballot in an election on the day of that election or less than 5 days before the day of that election may not be obligated or expended by the committee until after the date of the election.
+(5)(a)
+A person may not make any contribution through or in the name of another, directly or indirectly, in any election.
+(b)
+Candidates, political committees, affiliated party committees, and political parties may not solicit contributions from any religious, charitable, civic, or other causes or organizations established primarily for the public good.
+(c)
+Candidates, political committees, affiliated party committees, and political parties may not make contributions, in exchange for political support, to any religious, charitable, civic, or other cause or organization established primarily for the public good. It is not a violation of this paragraph for:
+1.
+A candidate, political committee, affiliated party committee, or political party executive committee to make gifts of money in lieu of flowers in memory of a deceased person;
+2.
+A candidate to continue membership in, or make regular donations from personal or business funds to, religious, political party, affiliated party committee, civic, or charitable groups of which the candidate is a member or to which the candidate has been a regular donor for more than 6 months; or
+3.
+A candidate to purchase, with campaign funds, tickets, admission to events, or advertisements from religious, civic, political party, affiliated party committee, or charitable groups.
+(6)(a)
+A political party or affiliated party committee may not accept any contribution that has been specifically designated for the partial or exclusive use of a particular candidate. Any contribution so designated must be returned to the contributor and may not be used or expended by or on behalf of the candidate. Funds contributed to an affiliated party committee may not be designated for the partial or exclusive use of a leader as defined in s. 103.092.
+(b)1.
+A political party or affiliated party committee may not accept any in-kind contribution that fails to provide a direct benefit to the political party or affiliated party committee. A “direct benefit” includes, but is not limited to, fundraising or furthering the objectives of the political party or affiliated party committee.
+2.a.
+An in-kind contribution to a state political party may be accepted only by the chairperson of the state political party or by the chairperson’s designee or designees whose names are on file with the division in a form acceptable to the division before the date of the written notice required in sub-subparagraph b. An in-kind contribution to a county political party may be accepted only by the chairperson of the county political party or by the county chairperson’s designee or designees whose names are on file with the supervisor of elections of the respective county before the date of the written notice required in sub-subparagraph b. An in-kind contribution to an affiliated party committee may be accepted only by the leader of the affiliated party committee as defined in s. 103.092 or by the leader’s designee or designees whose names are on file with the division in a form acceptable to the division before the date of the written notice required in sub-subparagraph b.
+b.
+A person making an in-kind contribution to a state or county political party or affiliated party committee must provide prior written notice of the contribution to a person described in sub-subparagraph a. The prior written notice must be signed and dated and may be provided by an electronic or facsimile message. However, prior written notice is not required for an in-kind contribution that consists of food and beverage in an aggregate amount not exceeding $1,500 which is consumed at a single sitting or event if such in-kind contribution is accepted in advance by a person specified in sub-subparagraph a.
+c.
+A person described in sub-subparagraph a. may accept an in-kind contribution requiring prior written notice only in a writing that is dated before the in-kind contribution is made. Failure to obtain the required written acceptance of an in-kind contribution to a state or county political party or affiliated party committee constitutes a refusal of the contribution.
+d.
+A copy of each prior written acceptance required under sub-subparagraph c. must be filed at the time the regular reports of contributions and expenditures required under s. 106.29 are filed by the state executive committee, county executive committee, and affiliated party committee. A state executive committee and an affiliated party committee must file with the division. A county executive committee must file with the county’s supervisor of elections.
+e.
+An in-kind contribution may not be given to a state or county political party or affiliated party committee unless the in-kind contribution is made as provided in this subparagraph.
+(7)(a)
+Any person who knowingly and willfully makes or accepts no more than one contribution in violation of subsection (1) or subsection (5), or any person who knowingly and willfully fails or refuses to return any contribution as required in subsection (3), commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083. If any corporation, partnership, or other business entity or any political party, affiliated party committee, political committee, or electioneering communications organization is convicted of knowingly and willfully violating any provision punishable under this paragraph, it shall be fined not less than $1,000 and not more than $10,000. If it is a domestic entity, it may be ordered dissolved by a court of competent jurisdiction; if it is a foreign or nonresident business entity, its right to do business in this state may be forfeited. Any officer, partner, agent, attorney, or other representative of a corporation, partnership, or other business entity, or of a political party, affiliated party committee, political committee, electioneering communications organization, or organization exempt from taxation under s. 527 or s. 501(c)(4) of the Internal Revenue Code, who aids, abets, advises, or participates in a violation of any provision punishable under this paragraph commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(b)
+Any person who knowingly and willfully makes or accepts two or more contributions in violation of subsection (1) or subsection (5) commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084. If any corporation, partnership, or other business entity or any political party, affiliated party committee, political committee, or electioneering communications organization is convicted of knowingly and willfully violating any provision punishable under this paragraph, it shall be fined not less than $10,000 and not more than $50,000. If it is a domestic entity, it may be ordered dissolved by a court of competent jurisdiction; if it is a foreign or nonresident business entity, its right to do business in this state may be forfeited. Any officer, partner, agent, attorney, or other representative of a corporation, partnership, or other business entity, or of a political committee, political party, affiliated party committee, or electioneering communications organization, or organization exempt from taxation under s. 527 or s. 501(c)(4) of the Internal Revenue Code, who aids, abets, advises, or participates in a violation of any provision punishable under this paragraph commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(8)
+Except when otherwise provided in subsection (7), any person who knowingly and willfully violates any provision of this section shall, in addition to any other penalty prescribed by this chapter, pay to the state a sum equal to twice the amount contributed in violation of this chapter. Each campaign treasurer shall pay all amounts contributed in violation of this section to the state for deposit in the General Revenue Fund.
+(9)
+This section does not apply to the transfer of funds between a primary campaign depository and a savings account or certificate of deposit or to any interest earned on such account or certificate.
+(10)
+Contributions to a political committee may be received by an affiliated organization and transferred to the bank account of the political committee via check written from the affiliated organization if such contributions are specifically identified as intended to be contributed to the political committee. All contributions received in this manner shall be reported pursuant to s. 106.07 by the political committee as having been made by the original contributor.
+(11)(a)
+A county, a municipality, or any other local governmental entity is expressly preempted from enacting or adopting:
+1.
+Contribution limits that differ from the limitations established in subsection (1);
+2.
+Any limitation or restriction involving contributions to a political committee or an electioneering communications organization; or
+3.
+Any limitation or restriction on expenditures for an electioneering communication or an independent expenditure.
+(b)
+Any existing or future limitation or restriction enacted or adopted by a county, a municipality, or any other local governmental entity which is in conflict with this subsection is void.
+(12)(a)1.
+For purposes of this subsection, the term “foreign national” means:
+a.
+A foreign government;
+b.
+A foreign political party;
+c.
+A foreign corporation, partnership, association, organization, or other combination of persons organized under the laws of or having its principal place of business in a foreign country;
+d.
+A person with foreign citizenship; or
+e.
+A person who is not a citizen or national of the United States and is not lawfully admitted to the United States for permanent residence.
+2.
+The term does not include:
+a.
+A person who is a dual citizen or dual national of the United States and a foreign country.
+b.
+A domestic subsidiary of a foreign corporation, partnership, association, organization, or other combination of persons organized under the laws of or having its principal place of business in a foreign country if:
+(I)
+The donations and disbursements used toward a contribution or an expenditure are derived entirely from funds generated by the subsidiary’s operations in the United States; and
+(II)
+All decisions concerning donations and disbursements used toward a contribution or an expenditure are made by individuals who either hold United States citizenship or are permanent residents of the United States. For purposes of this sub-sub-subparagraph, decisions concerning donations and disbursements do not include decisions regarding the subsidiary’s overall budget for contributions or expenditures in connection with an election.
+(b)
+A foreign national may not make or offer to make, directly or indirectly, a contribution or expenditure in connection with any election held in the state.
+History.
+—
+s. 8, ch. 73-128; s. 6, ch. 74-200; s. 1, ch. 77-174; s. 48, ch. 77-175; s. 1, ch. 78-403; s. 9, ch. 79-365; s. 5, ch. 79-378; s. 7, ch. 85-226; s. 4, ch. 86-134; s. 12, ch. 89-256; ss. 33, 46, ch. 90-315; s. 9, ch. 90-338; s. 11, ch. 91-107; s. 642, ch. 95-147; s. 3, ch. 97-13; s. 8, ch. 99-355; s. 27, ch. 2002-17; s. 3, ch. 2002-197; s. 1, ch. 2002-281; s. 68, ch. 2005-277; s. 46, ch. 2005-278; s. 25, ch. 2005-286; s. 1, ch. 2005-360; s. 9, ch. 2006-300; s. 44, ch. 2007-30; s. 26, ch. 2010-167; ss. 14, 30, ch. 2011-6; s. 62, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 8, ch. 2012-5; s. 13, ch. 2013-37; s. 1, ch. 2021-16; s. 1, ch. 2022-56; s. 27, ch. 2023-8; s. 48, ch. 2023-120.
+106.087
+Independent expenditures; contribution limits; restrictions on political parties and political committees.
+—
+(1)(a)
+As a condition of receiving a rebate of filing fees and party assessment funds pursuant to s. 99.061(2), s. 99.092(1), s. 99.103, or s. 103.121(1)(b), the chair or treasurer of a state or county executive committee shall take and subscribe to an oath or affirmation in writing. During the qualifying period for state candidates and prior to distribution of such funds, a printed copy of the oath or affirmation shall be filed with the Secretary of State and shall be substantially in the following form:
+State of Florida
+County of
+Before me, an officer authorized to administer oaths, personally appeared
+(name)
+, to me well known, who, being sworn, says that he or she is the
+(title)
+of the
+(name of party)
+(state or specified county)
+executive committee; that the executive committee has not made, either directly or indirectly, an independent expenditure in support of or opposition to a candidate or elected public official in the prior 6 months; that the executive committee will not make, either directly or indirectly, an independent expenditure in support of or opposition to a candidate or elected public official, through and including the upcoming general election; and that the executive committee will not violate the contribution limits applicable to candidates under s. 106.08(2), Florida Statutes.
+(Signature of committee officer)
+(Address)
+Sworn to and subscribed before me this
+day of
+,
+(year)
+, at
+County, Florida.
+(Signature and title of officer administering oath)
+(b)
+Any executive committee found to have violated the provisions of the oath or affirmation in this section prior to receiving funds shall be ineligible to receive the rebate for that general election year.
+(c)
+Any executive committee found to have violated the provisions of the oath or affirmation in this section after receiving funds shall be ineligible to receive the rebate from candidates qualifying for the following general election cycle.
+(d)
+Any funds not distributed to the state or county executive committee pursuant to this section shall be deposited into the General Revenue Fund of the state.
+(2)(a)
+Any political committee that accepts the use of public funds, equipment, personnel, or other resources to collect dues from its members agrees not to make independent expenditures in support of or opposition to a candidate or elected public official. However, expenditures may be made for the sole purpose of jointly endorsing three or more candidates.
+(b)
+Any political committee that violates this subsection is liable for a civil fine of up to $5,000 to be determined by the Florida Elections Commission or the entire amount of the expenditures, whichever is greater.
+History.
+—
+s. 5, ch. 97-13; s. 14, ch. 99-6; s. 19, ch. 2013-37.
+106.088
+Independent expenditures; contribution limits; restrictions on affiliated party committees.
+—
+(1)
+As a condition of receiving a rebate of party assessments under s. 103.121(1)(b), the leader or treasurer of an affiliated party committee as defined in s. 103.092 shall take and subscribe to an oath or affirmation in writing. During the qualifying period for state candidates and prior to distribution of such funds, a printed copy of the oath or affirmation shall be filed with the Secretary of State and shall be substantially in the following form:
+State of Florida
+County of
+Before me, an officer authorized to administer oaths, personally appeared
+(name)
+, to me well known, who, being sworn, says that he or she is the
+(title)
+of the
+(name of party)
+(name of chamber)
+affiliated party committee; that the affiliated party committee has not made, either directly or indirectly, an independent expenditure in support of or opposition to a candidate or elected public official in the prior 6 months; that the affiliated party committee will not make, either directly or indirectly, an independent expenditure in support of or opposition to a candidate or elected public official, through and including the upcoming general election; and that the affiliated party committee will not violate the contribution limits applicable to candidates under s. 106.08(2), Florida Statutes.
+(Signature of committee officer)
+(Address)
+Sworn to and subscribed before me this
+day of
+,
+(year)
+, at
+County, Florida.
+(Signature and title of officer administering oath)
+(2)(a)
+Any affiliated party committee found to have violated the provisions of the oath or affirmation prior to receiving funds shall be ineligible to receive the rebate for that general election year.
+(b)
+Any affiliated party committee found to have violated the provisions of the oath or affirmation after receiving funds shall be ineligible to receive the rebate from candidates qualifying for the following general election cycle.
+(3)
+Any funds not distributed to the affiliated party committee pursuant to this section shall be deposited into the General Revenue Fund of the state.
+History.
+—
+ss. 15, 30, ch. 2011-6; HJR 7105, 2011 Regular Session.
+106.09
+Cash contributions and contribution by cashier’s checks.
+—
+(1)(a)
+A person may not make an aggregate cash contribution or contribution by means of a cashier’s check to the same candidate or committee in excess of $50 per election.
+(b)
+A person may not accept an aggregate cash contribution or contribution by means of a cashier’s check from the same contributor in excess of $50 per election.
+(2)(a)
+Any person who makes or accepts a contribution in violation of subsection (1) commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(b)
+Any person who knowingly and willfully makes or accepts a contribution in excess of $5,000 in violation of subsection (1) commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+History.
+—
+s. 9, ch. 73-128; s. 48, ch. 77-175; s. 2, ch. 2002-281; s. 45, ch. 2007-30; s. 63, ch. 2011-40.
+106.11
+Expenses of and expenditures by candidates and political committees.
+—
+Each candidate and each political committee which designates a primary campaign depository pursuant to s. 106.021(1) shall make expenditures from funds on deposit in such primary campaign depository only in the following manner, with the exception of expenditures made from petty cash funds provided by s. 106.12:
+(1)(a)
+The campaign treasurer or deputy campaign treasurer of a candidate or political committee shall make expenditures from funds on deposit in the primary campaign depository only by means of a bank check drawn upon the campaign account of the candidate or political committee. The campaign account shall be separate from any personal or other account and shall be used only for the purpose of depositing contributions and making expenditures for the candidate or political committee.
+(b)
+The checks for such account shall contain, as a minimum, the following information:
+1.
+The name of the campaign account of the candidate or political committee.
+2.
+The account number and the name of the bank.
+3.
+The exact amount of the expenditure.
+4.
+The signature of the campaign treasurer or deputy treasurer.
+5.
+The exact purpose for which the expenditure is authorized.
+6.
+The name of the payee.
+(2)(a)
+For purposes of this section, debit cards are considered bank checks, if:
+1.
+Debit cards are obtained from the same bank that has been designated as the candidate’s or political committee’s primary campaign depository.
+2.
+Debit cards are issued in the name of the treasurer, deputy treasurer, or authorized user and contain the name of the campaign account of the candidate or political committee.
+3.
+No more than three debit cards are requested and issued.
+4.
+The person using the debit card does not receive cash as part of, or independent of, any transaction for goods or services.
+5.
+All receipts for debit card transactions contain:
+a.
+The last four digits of the debit card number.
+b.
+The exact amount of the expenditure.
+c.
+The name of the payee.
+d.
+The signature of the campaign treasurer, deputy treasurer, or authorized user.
+e.
+The exact purpose for which the expenditure is authorized.
+Any information required by this subparagraph but not included on the debit card transaction receipt may be handwritten on, or attached to, the receipt by the authorized user before submission to the treasurer.
+(b)
+Debit cards are not subject to the requirements of paragraph (1)(b).
+(3)
+The campaign treasurer, deputy treasurer, or authorized user who signs the check shall be responsible for the completeness and accuracy of the information on such check and for insuring that such expenditure is an authorized expenditure.
+(4)
+No candidate, campaign manager, treasurer, deputy treasurer, or political committee or any officer or agent thereof, or any person acting on behalf of any of the foregoing, shall authorize any expenses, nor shall any campaign treasurer or deputy treasurer sign a check drawn on the primary campaign account for any purpose, unless there are sufficient funds on deposit in the primary depository account of the candidate or political committee to pay the full amount of the authorized expense, to honor all other checks drawn on such account, which checks are outstanding, and to meet all expenses previously authorized but not yet paid. However, an expense may be incurred for the purchase of goods or services if there are sufficient funds on deposit in the primary depository account to pay the full amount of the incurred expense, to honor all checks drawn on such account, which checks are outstanding, and to meet all other expenses previously authorized but not yet paid, provided that payment for such goods or services is made upon final delivery and acceptance of the goods or services; and an expenditure from petty cash pursuant to the provisions of s. 106.12 may be authorized, if there is a sufficient amount of money in the petty cash fund to pay for such expenditure. Payment for credit card purchases shall be made pursuant to s. 106.125. Any expense incurred or authorized in excess of such funds on deposit shall, in addition to other penalties provided by law, constitute a violation of this chapter. As used in this subsection, the term “sufficient funds on deposit in the primary depository account of the candidate or political committee” means that the funds at issue have been delivered for deposit to the financial institution at which such account is maintained. The term shall not be construed to mean that such funds are available for withdrawal in accordance with the deposit rules or the funds availability policies of such financial institution.
+(5)
+A candidate who withdraws his or her candidacy, becomes an unopposed candidate, or is eliminated as a candidate or elected to office may expend funds from the campaign account to:
+(a)
+Purchase “thank you” advertising for up to 75 days after he or she withdraws, becomes unopposed, or is eliminated or elected.
+(b)
+Pay for items which were obligated before he or she withdrew, became unopposed, or was eliminated or elected.
+(c)
+Pay for expenditures necessary to close down the campaign office and to prepare final campaign reports.
+(d)
+Dispose of surplus funds as provided in s. 106.141.
+(6)
+A candidate who makes a loan to his or her campaign and reports the loan as required by s. 106.07 may be reimbursed for the loan at any time the campaign account has sufficient funds to repay the loan and satisfy its other obligations.
+History.
+—
+s. 11, ch. 73-128; s. 8, ch. 74-200; s. 48, ch. 77-175; s. 2, ch. 78-403; s. 10, ch. 79-365; s. 8, ch. 85-226; s. 13, ch. 89-256; s. 14, ch. 91-107; s. 643, ch. 95-147; s. 25, ch. 2002-17; s. 4, ch. 2002-197; s. 64, ch. 2011-40; s. 14, ch. 2013-37.
+106.113
+Expenditures by local governments.
+—
+(1)
+As used in this section, the term:
+(a)
+“Local government” means:
+1.
+A county, municipality, school district, or other political subdivision in this state; and
+2.
+Any department, agency, board, bureau, district, commission, authority, or similar body of a county, municipality, school district, or other political subdivision of this state.
+(b)
+“Public funds” means all moneys under the jurisdiction or control of the local government.
+(2)
+A local government or a person acting on behalf of local government may not expend or authorize the expenditure of, and a person or group may not accept, public funds for a political advertisement or any other communication sent to electors concerning an issue, referendum, or amendment, including any state question, that is subject to a vote of the electors. This subsection applies to a communication initiated by a local government or a person acting on behalf of a local government, irrespective of whether the communication is limited to factual information or advocates for the passage or defeat of an issue, referendum, or amendment. This subsection does not preclude a local government or a person acting on behalf of a local government from reporting on official actions of the local government’s governing body in an accurate, fair, and impartial manner; posting factual information on a government website or in printed materials; hosting and providing information at a public forum; providing factual information in response to an inquiry; or providing information as otherwise authorized or required by law.
+(3)
+With the exception of the prohibitions specified in subsection (2), this section does not preclude an elected official of the local government from expressing an opinion on any issue at any time.
+History.
+—
+s. 1, ch. 2009-125; s. 2, ch. 2022-56.
+106.12
+Petty cash funds allowed.
+—
+(1)
+Each campaign treasurer designated pursuant to s. 106.021(1) for a candidate or political committee is authorized to withdraw from the primary campaign account, until the close of the last day for qualifying for office, the amount of $500 per calendar quarter reporting period for the purpose of providing a petty cash fund for the candidate or political committee.
+(2)
+Following the close of the last day for qualifying and until the last election in a given election period in which the political committee participates, the campaign treasurer of each political committee is authorized to withdraw the following amount each week from the primary depository campaign account for the purpose of providing a petty cash fund for the political committee, and, following the close of the last day for qualifying and until the election at which such candidate is eliminated or elected to office, or the time at which the candidate becomes unopposed, the campaign treasurer of each candidate is authorized to withdraw the following amount each week from the primary depository campaign account for the purpose of providing a petty cash fund for the candidate:
+(a)
+For all candidates for nomination or election on a statewide basis, $500 per week.
+(b)
+For all other candidates and all political committees, $100 per week.
+(3)
+The petty cash fund so provided may be spent only in amounts less than $100 and only for office supplies, transportation expenses, and other necessities. Petty cash may not be used for the purchase of time, space, or services from communications media as defined in s. 106.011.
+History.
+—
+s. 12, ch. 73-128; s. 48, ch. 77-175; s. 9, ch. 85-226; s. 5, ch. 2002-197; s. 20, ch. 2013-37.
+106.125
+Credit cards; conditions on use.
+—
+Any candidate for statewide office or any political committee created to support or oppose any candidate for statewide office or to support or oppose any statewide issue may obtain, and use in making travel-related campaign expenditures, credit cards. The obtention and use of credit cards by any such candidate or political committee shall be subject to the following conditions:
+(1)
+Credit cards may be obtained only from the same bank which has been designated as the candidate’s or political committee’s primary campaign depository.
+(2)
+Credit cards shall be in the name of the candidate or political committee and shall reflect that the account is a campaign account.
+(3)
+Before a credit card may be used, a copy of the agreement or contract between the candidate and the bank, or the political committee and the bank, and a list of all persons who have been authorized to use the card shall be filed with the Secretary of State.
+(4)
+All credit cards issued to candidates or political committees shall expire no later than midnight of the last day of the month of the general election.
+(5)
+Each statement rendered by the issuer of a credit card shall be paid upon receipt.
+(6)
+Campaign travel-related expenditures shall include transportation, lodging, meals, and other expenses incurred in connection with traveling for campaign purposes.
+This section shall not be deemed to preclude the use of advance payments by a check drawn on the primary depository account for travel-related expenses. The treasurer shall require an accounting of actual expenses and reconcile any overpayment or underpayment to the original payee.
+History.
+—
+s. 11, ch. 79-365; s. 2, ch. 86-134.
+106.14
+Utilities; deposits; prior authorization.
+—
+(1)
+Utility companies providing utilities services to a candidate or political committee shall charge a deposit sufficient to meet all anticipated charges during a billing period.
+(2)
+Authorization and payment for utilities used during the billing period must be made by the candidate or political committee when the bill is received from a utility company.
+History.
+—
+s. 14, ch. 73-128; s. 48, ch. 77-175; s. 5, ch. 78-403; s. 59, ch. 79-400; s. 2, ch. 85-63; s. 14, ch. 89-256.
+106.1405
+Use of campaign funds.
+—
+A candidate or the spouse of a candidate may not use funds on deposit in a campaign account of such candidate to defray normal living expenses for the candidate or the candidate’s family, other than expenses actually incurred for transportation, meals, and lodging by the candidate or a family member during travel in the course of the campaign.
+History.
+—
+s. 49, ch. 77-175; s. 53, ch. 81-259; s. 644, ch. 95-147; s. 10, ch. 97-13.
+106.141
+Disposition of surplus funds by candidates.
+—
+(1)
+Except as provided in subsection (6), each candidate who withdraws his or her candidacy, becomes an unopposed candidate, or is eliminated as a candidate or elected to office shall, within 90 days, dispose of the funds on deposit in his or her campaign account and file a report reflecting the disposition of all remaining funds. Such candidate may not accept any contributions, nor may any person accept contributions on behalf of such candidate, after the candidate withdraws his or her candidacy, becomes unopposed, or is eliminated or elected. However, if a candidate receives a refund check after all surplus funds have been disposed of, the check may be endorsed by the candidate and the refund disposed of under this section. An amended report must be filed showing the refund and subsequent disposition.
+(2)
+Any candidate required to dispose of funds pursuant to this section may, before such disposition, be reimbursed by the campaign, in full or in part, for any reported contributions by the candidate to the campaign.
+(3)
+The campaign treasurer of a candidate who withdraws his or her candidacy, becomes unopposed, or is eliminated as a candidate or elected to office and who has funds on deposit in a separate interest-bearing account or certificate of deposit shall, within 7 days after the date of becoming unopposed or the date of such withdrawal, elimination, or election, transfer such funds and the accumulated interest earned thereon to the campaign account of the candidate for disposal under this section. However, if the funds are in an account in which penalties will apply for withdrawal within the 7-day period, the campaign treasurer shall transfer such funds and the accumulated interest earned thereon as soon as the funds can be withdrawn without penalty, or within 90 days after the candidate becomes unopposed, withdraws his or her candidacy, or is eliminated or elected, whichever comes first.
+(4)(a)
+Except as provided in paragraph (b), any candidate required to dispose of funds pursuant to this section shall, at the option of the candidate, dispose of such funds by any of the following means, or any combination thereof:
+1.
+Return pro rata to each contributor the funds that have not been spent or obligated.
+2.
+Donate the funds that have not been spent or obligated to a charitable organization or organizations that meet the qualifications of s. 501(c)(3) of the Internal Revenue Code, except that the candidate may not be employed by the charitable organization to which he or she donates the funds.
+3.
+Give not more than $25,000 of the funds that have not been spent or obligated to the affiliated party committee or political party of which such candidate is a member.
+4.
+Give the funds that have not been spent or obligated:
+a.
+To the state, to be deposited in either the
+1
+Election Campaign Financing Trust Fund or the General Revenue Fund, as designated by the candidate; or
+b.
+To a political subdivision, to be deposited in the general fund thereof.
+(b)
+Any candidate required to dispose of funds pursuant to this section who has received contributions pursuant to the Florida Election Campaign Financing Act shall, after all monetary commitments pursuant to s. 106.11(5)(b) and (c) have been met, return all surplus campaign funds to the General Revenue Fund.
+(5)
+A candidate elected to office or a candidate who will be elected to office by virtue of his or her being unopposed may, in addition to the disposition methods provided in subsection (4), transfer from the campaign account to an office account any amount of the funds on deposit in such campaign account up to:
+(a)
+Fifty thousand dollars, for a candidate for statewide office. The Governor and Lieutenant Governor shall be considered separate candidates for the purpose of this section.
+(b)
+Ten thousand dollars, for a candidate for multicounty office.
+(c)
+Ten thousand dollars multiplied by the number of years in the term of office for which elected, for a candidate for legislative office.
+(d)
+Five thousand dollars multiplied by the number of years in the term of office for which elected, for a candidate for county office or for a candidate in any election conducted on less than a countywide basis.
+(e)
+Six thousand dollars, for a candidate for retention as a justice of the Supreme Court.
+(f)
+Three thousand dollars, for a candidate for retention as a judge of a district court of appeal.
+(g)
+Three thousand dollars, for a candidate for county court judge or circuit judge.
+The office account established pursuant to this subsection shall be separate from any personal or other account. Any funds so transferred by a candidate shall be used only for legitimate expenses in connection with the candidate’s public office. Such expenses may include travel expenses incurred by the officer or a staff member; personal taxes payable on office account funds by the candidate or elected public official; professional services provided by a certified public accountant or attorney for preparation of the elected public official’s financial disclosure filing pursuant to s. 112.3144 or s. 112.3145; costs to prepare, print, produce, and mail holiday cards or newsletters about the elected public official’s public business to constituents if such correspondence does not constitute a political advertisement, independent expenditure, or electioneering communication as provided in s. 106.011; fees or dues to religious, civic, or charitable organizations of which the elected public official is a member; items of modest value such as flowers, greeting cards, or personal notes given as a substitute for, or in association with, an elected public official’s personal attendance at a constituent’s special event or family occasion, such as the birth of a child, graduation, wedding, or funeral; personal expenses incurred by the elected public official in connection with attending a constituent meeting or event where public policy is discussed, if such meetings or events are limited to no more than once a week; or expenses incurred in the operation of the elected public official’s office, including the employment of additional staff. The funds may be deposited in a savings account; however, all deposits, withdrawals, and interest earned thereon shall be reported at the appropriate reporting period. If a candidate is reelected to office or elected to another office and has funds remaining in his or her office account, he or she may transfer surplus campaign funds to the office account. At no time may the funds in the office account exceed the limitation imposed by this subsection. Upon leaving public office, any person who has funds in an office account pursuant to this subsection remaining on deposit shall use such funds to pay for professional services provided by a certified public accountant or attorney for preparation of the elected public official’s final financial disclosure filing pursuant to s. 112.3144 or s. 112.3145, or give such funds to a charitable organization that meets the requirements of s. 501(c)(3) of the Internal Revenue Code or, in the case of a state officer, to the state to be deposited in the General Revenue Fund or, in the case of an officer of a political subdivision, to the political subdivision to be deposited in the general fund thereof.
+(6)(a)
+For purposes of this subsection, the term “same office” with respect to legislative office means an office in the same legislative body, irrespective of district number or designation or geographic boundary.
+(b)
+A candidate elected to state office or a candidate who will be elected to state office by virtue of his or her being unopposed after candidate qualifying ends, may retain up to $20,000 in his or her campaign account, or in an interest-bearing account or certificate of deposit, for use in his or her next campaign for the same office, in addition to the disposition methods provided in subsections (4) and (5). All requirements applicable to candidate campaign accounts under this chapter, including disclosure requirements applicable to candidate campaign accounts, limitations on expenditures, and limitations on contributions, apply to any retained funds.
+(c)
+If a candidate who has retained funds under this subsection does not qualify as a candidate for reelection to the same office, all retained funds shall be disposed of as otherwise required by this section or s. 106.11(5) within 90 days after the last day of candidate qualifying for that office. Requirements in this section applicable to the disposal of surplus funds, including reporting requirements, are applicable to the disposal of retained funds.
+(7)
+Before disposing of funds pursuant to subsection (4), transferring funds into an office account pursuant to subsection (5), or retaining funds for reelection pursuant to subsection (6), any candidate who filed an oath stating that he or she was unable to pay the fee for verification of petition signatures without imposing an undue burden on his or her personal resources or on resources otherwise available to him or her shall reimburse the state or local governmental entity, whichever is applicable, for such waived fee. If there are insufficient funds in the account to pay the full amount of the fee, the remaining funds shall be disbursed in the above manner until no funds remain. All funds disbursed pursuant to this subsection shall be remitted to the qualifying officer. Any reimbursement for petition verification costs which are reimbursable by the state shall be forwarded by the qualifying officer to the state for deposit in the General Revenue Fund.
+(8)(a)
+Any candidate required to dispose of campaign funds pursuant to this section shall do so within the time required by this section and, on or before the date by which such disposition is to have been made, shall file with the officer with whom reports are required to be filed pursuant to s. 106.07 a form prescribed by the Division of Elections listing:
+1.
+The name and address of each person or unit of government to whom any of the funds were distributed and the amounts thereof;
+2.
+The name and address of each person to whom an expenditure was made, together with the amount thereof and purpose therefor;
+3.
+The amount of such funds transferred to an office account by the candidate, together with the name and address of the bank, savings and loan association, or credit union in which the office account is located; and
+4.
+The amount of such funds retained pursuant to subsection (6), together with the name and address of the bank, savings and loan association, or credit union in which the retained funds are located.
+Such report shall be signed by the candidate and the campaign treasurer and certified as true and correct pursuant to s. 106.07.
+(b)
+The filing officer shall notify each candidate at least 14 days before the date the report is due.
+(c)
+Any candidate failing to file a report on the designated due date shall be subject to a fine as provided in s. 106.07 for submitting late termination reports.
+(9)
+Any candidate elected to office who transfers surplus campaign funds into an office account pursuant to subsection (5) shall file a report on the 10th day following the end of each calendar quarter until the account is closed. Such reports shall contain the name and address of each person to whom any disbursement of funds was made, together with the amount thereof and the purpose therefor, and the name and address of any person from whom the elected candidate received any refund or reimbursement and the amount thereof. Such reports shall be on forms prescribed by the Division of Elections, signed by the elected candidate, certified as true and correct, and filed with the officer with whom campaign reports were filed pursuant to s. 106.07(2).
+(10)
+Any candidate, or any person on behalf of a candidate, who accepts contributions after such candidate has withdrawn his or her candidacy, after the candidate has become an unopposed candidate, or after the candidate has been eliminated as a candidate or elected to office commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(11)
+Any candidate who is required by the provisions of this section to dispose of funds in his or her campaign account and who fails to dispose of the funds in the manner provided in this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 50, ch. 77-175; s. 6, ch. 79-378; s. 60, ch. 79-400; s. 2, ch. 80-292; s. 54, ch. 81-259; s. 28, ch. 81-304; s. 1, ch. 82-404; s. 38, ch. 84-302; s. 10, ch. 85-226; s. 2, ch. 86-7; s. 2, ch. 86-276; s. 11, ch. 87-363; s. 15, ch. 89-256; s. 34, ch. 90-315; s. 15, ch. 91-107; s. 645, ch. 95-147; ss. 15, 16, 53, ch. 97-13; s. 6, ch. 2002-197; s. 20, ch. 2004-252; s. 70, ch. 2005-277; ss. 16, 30, ch. 2011-6; s. 65, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 15, ch. 2013-37; s. 2, ch. 2021-16; ss. 3, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.143
+Political advertisements circulated prior to election; requirements.
+—
+(1)(a)
+Any political advertisement that is paid for by a candidate, except a write-in candidate, and that is published, displayed, or circulated before, or on the day of, any election must prominently state:
+1.
+“Political advertisement paid for and approved by
+(name of candidate)
+,
+(party affiliation)
+, for
+(office sought)
+”; or
+2.
+“Paid by
+(name of candidate)
+,
+(party affiliation)
+, for
+(office sought)
+.”
+(b)
+Any political advertisement that is paid for by a write-in candidate and that is published, displayed, or circulated before, or on the day of, any election must prominently state:
+1.
+“Political advertisement paid for and approved by
+(name of candidate)
+, write-in candidate, for
+(office sought)
+”; or
+2.
+“Paid by
+(name of candidate)
+, write-in candidate, for
+(office sought)
+.”
+(c)
+Any other political advertisement published, displayed, or circulated before, or on the day of, any election must prominently:
+1.
+Be marked “paid political advertisement” or with the abbreviation “pd. pol. adv.”
+2.
+State the name and address of the persons paying for the advertisement.
+3.
+State whether the advertisement and the cost of production is paid for or provided in kind by or at the expense of the entity publishing, displaying, broadcasting, or circulating the political advertisement.
+(d)
+Any political advertisement made pursuant to s. 106.021(3)(d) must prominently state the name and address of the political committee or political party paying for the advertisement.
+(2)
+Political advertisements made as in-kind contributions from a political party must prominently state: “Paid political advertisement paid for in-kind by
+(name of political party)
+. Approved by
+(name of person, party affiliation, and office sought in the political advertisement)
+.”
+(3)
+Any political advertisement of a candidate running for partisan office shall express the name of the political party of which the candidate is seeking nomination or is the nominee. If the candidate for partisan office is running as a candidate with no party affiliation, any political advertisement of the candidate must state that the candidate has no party affiliation. A political advertisement of a candidate running for nonpartisan office may not state the candidate’s political party affiliation. This section does not prohibit a political advertisement from stating the candidate’s partisan-related experience. A candidate for nonpartisan office is prohibited from campaigning based on party affiliation.
+(4)
+It is unlawful for any candidate or person on behalf of a candidate to represent that any person or organization supports such candidate, unless the person or organization so represented has given specific approval in writing to the candidate to make such representation. However, this subsection does not apply to:
+(a)
+Editorial endorsement by any newspaper, radio or television station, or other recognized news medium.
+(b)
+Publication by a party committee advocating the candidacy of its nominees.
+(5)(a)
+Any political advertisement not paid for by a candidate, including those paid for by a political party or affiliated party committee, other than an independent expenditure, offered on behalf of a candidate must be approved in advance by the candidate. Such political advertisement must expressly state that the content of the advertisement was approved by the candidate, unless the political advertisement is published, displayed, or circulated in compliance with subparagraph (1)(a)2., and must state who paid for the advertisement. The candidate shall provide a written statement of authorization to the newspaper, radio station, television station, or other medium for each such advertisement submitted for publication, display, broadcast, or other distribution.
+(b)
+Any person who makes an independent expenditure for a political advertisement shall provide a written statement that no candidate has approved the advertisement to the newspaper, radio station, television station, or other medium for each such advertisement submitted for publication, display, broadcast, or other distribution. The advertisement must also contain a statement that no candidate has approved the advertisement.
+(6)
+No political advertisement of a candidate who is not an incumbent of the office for which the candidate is running shall use the word “re-elect.” Additionally, such advertisement must include the word “for” between the candidate’s name and the office for which the candidate is running, in order that incumbency is not implied. This subsection does not apply to bumper stickers or items designed to be worn by a person.
+(7)
+Political advertisements paid for by a political party or an affiliated party committee may use names and abbreviations as registered under s. 103.081 in the disclaimer.
+(8)
+This section does not apply to novelty items having a retail value of $10 or less which support, but do not oppose, a candidate or issue.
+(9)
+Any political advertisement which is published, displayed, or produced in a language other than English may provide the information required by this section in the language used in the advertisement.
+(10)
+This section does not apply to any campaign message or political advertisement used by a candidate and the candidate’s supporters or by a political committee if the message or advertisement is:
+(a)
+Designed to be worn by a person.
+(b)
+Placed as a paid link on an Internet website, provided the message or advertisement is no more than 200 characters in length and the link directs the user to another Internet website that complies with subsection (1).
+(c)
+Placed as a graphic or picture link where compliance with the requirements of this section is not reasonably practical due to the size of the graphic or picture link and the link directs the user to another Internet website that complies with subsection (1).
+(d)
+Placed at no cost on an Internet website for which there is no cost to post content for public users.
+(e)
+Placed or distributed on an unpaid profile or account which is available to the public without charge or on a social networking Internet website, as long as the source of the message or advertisement is patently clear from the content or format of the message or advertisement. A candidate or political committee may prominently display a statement indicating that the website or account is an official website or account of the candidate or political committee and is approved by the candidate or political committee. A website or account may not be marked as official without prior approval by the candidate or political committee.
+(f)
+Connected with or included in any software application or accompanying function, provided that the user signs up, opts in, downloads, or otherwise accesses the application from or through a website that complies with subsection (1).
+(g)
+Sent by a third-party user from or through a campaign or committee’s website, provided the website complies with subsection (1).
+(h)
+Contained in or distributed through any other technology-related item, service, or device for which compliance with subsection (1) is not reasonably practical due to the size or nature of such item, service, or device as available, or the means of displaying the message or advertisement makes compliance with subsection (1) impracticable.
+(11)
+Any person who willfully violates any provision of this section is subject to the civil penalties prescribed in s. 106.265.
+History.
+—
+s. 8, ch. 26870, 1951; s. 1, ch. 61-145; s. 21, ch. 65-379; s. 57, ch. 71-136; s. 30, ch. 73-128; s. 52, ch. 77-175; s. 30, ch. 81-304; s. 16, ch. 89-256; s. 35, ch. 90-315; s. 16, ch. 91-107; s. 646, ch. 95-147; s. 17, ch. 97-13; s. 18, ch. 99-318; s. 5, ch. 2004-252; s. 46, ch. 2007-30; s. 18, ch. 2010-167; ss. 17, 30, ch. 2011-6; s. 66, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 9, ch. 2012-5; s. 3, ch. 2021-49.
+Note.
+—
+Former s. 104.37.
+106.1435
+Usage and removal of political campaign advertisements.
+—
+(1)
+Each candidate, whether for a federal, state, county, or district office, shall make a good faith effort to remove all of his or her political campaign advertisements within 30 days after:
+(a)
+Withdrawal of his or her candidacy;
+(b)
+Having been eliminated as a candidate; or
+(c)
+Being elected to office.
+However, a candidate is not expected to remove those political campaign advertisements which are in the form of signs used by an outdoor advertising business as provided in chapter 479. The provisions herein do not apply to political campaign advertisements placed on motor vehicles or to campaign messages designed to be worn by persons.
+(2)
+If political campaign advertisements are not removed within the specified period, the political subdivision or governmental entity has the authority to remove such advertisements and may charge the candidate the actual cost for such removal. Funds collected for removing such advertisements shall be deposited to the general revenue of the political subdivision.
+(3)
+Pursuant to chapter 479, no political campaign advertisements shall be erected, posted, painted, tacked, nailed, or otherwise displayed, placed, or located on or above any state or county road right-of-way.
+(4)
+The officer before whom a candidate qualifies for office shall notify the candidate, in writing, of the provisions in this section.
+(5)
+This provision does not preclude municipalities from imposing additional or more stringent requirements on the usage and removal of political campaign advertisements.
+History.
+—
+s. 1, ch. 84-221; s. 20, ch. 84-302; s. 14, ch. 87-224; s. 647, ch. 95-147.
+106.1436
+Voter guide; disclaimers; violations.
+—
+(1)
+As used in this section, the term “voter guide” means direct mail that is either an electioneering communication or a political advertisement sent for the purpose of advocating for or endorsing particular issues or candidates by recommending specific electoral choices to the voter or by indicating issue or candidate selections on an unofficial ballot. The term does not apply to direct mail or publications made by governmental entities or government officials in their official capacity.
+(2)
+A person may not, directly or indirectly, represent that a voter guide is an official publication of a political party unless such person is given written permission pursuant to s. 103.081.
+(3)
+A voter guide circulated before, or on the day of, an election must, in bold font with a font size of at least 12 points, prominently:
+(a)
+Display the following disclaimer at the top of the first page of the voter guide:
+1.
+If the voter guide is an electioneering communication, the disclaimer required under s. 106.1439; or
+2.
+If the voter guide is a political advertisement, the disclaimer required under s. 106.143.
+(b)
+Be marked “Voter Guide” with such text appearing immediately below the disclaimer required in paragraph (a).
+(4)(a)
+In addition to any other penalties provided by law, a person who fails to comply with this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or by a fine of not less than $25 for each individual voter guide distributed.
+(b)
+Any fine imposed pursuant to paragraph (a) may not exceed $2,500 in the aggregate in any calendar month.
+History.
+—
+s. 49, ch. 2023-120.
+106.1437
+Miscellaneous advertisements.
+—
+Any advertisement, other than a political advertisement, independent expenditure, or electioneering communication, on billboards, bumper stickers, radio, or television, or in a newspaper, a magazine, or a periodical, intended to influence public policy or the vote of a public official, shall clearly designate the sponsor of such advertisement by including a clearly readable statement of sponsorship. If the advertisement is broadcast on television, the advertisement shall also contain a verbal statement of sponsorship. This section does not apply to an editorial endorsement. For purposes of this chapter, an expenditure made for, or in furtherance of, a miscellaneous advertisement is not considered to be a contribution to or on behalf of a candidate, and does not constitute an independent expenditure. Such expenditures are not subject to the limitations applicable to independent expenditures.
+History.
+—
+s. 36, ch. 90-315; s. 6, ch. 2004-252; s. 27, ch. 2010-167; ss. 18, 30, ch. 2011-6; s. 67, ch. 2011-40; HJR 7105, 2011 Regular Session.
+106.1439
+Electioneering communications; disclaimers.
+—
+(1)
+Any electioneering communication, other than a text message or a telephone call, must prominently state: “Paid electioneering communication paid for by
+(Name and address of person paying for the communication)
+.”
+(2)
+Any person who fails to include the disclaimer prescribed in this section in any electioneering communication that is required to contain such disclaimer commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 7, ch. 2004-252; s. 28, ch. 2010-167; ss. 19, 30, ch. 2011-6; HJR 7105, 2011 Regular Session; s. 4, ch. 2021-49.
+106.145
+Use of artificial intelligence.
+—
+(1)
+As used in this section, the term “generative artificial intelligence” means a machine-based system that can, for a given set of human-defined objectives, emulate the structure and characteristics of input data in order to generate derived synthetic content including images, videos, audio, text, and other digital content.
+(2)
+If a political advertisement, an electioneering communication, or other miscellaneous advertisement of a political nature contains images, video, audio, graphics, or other digital content created in whole or in part with the use of generative artificial intelligence, if the generated content appears to depict a real person performing an action that did not actually occur, and if the generated content was created with intent to injure a candidate or to deceive regarding a ballot issue, the political advertisement, electioneering communication, or other miscellaneous advertisement must prominently state the following disclaimer: “Created in whole or in part with the use of generative artificial intelligence (AI).” The disclaimer required in this section is in addition to any other disclaimer required under this chapter.
+(3)
+The disclaimer must:
+(a)
+For a printed communication, be stated in bold font with a font size of at least 12 points.
+(b)
+For a television or video communication, be clearly readable throughout the communication and occupy at least 4 percent of the vertical picture height.
+(c)
+For an Internet public communication that includes text or graphic components, be viewable without the user taking any action and be large enough to be clearly readable.
+(d)
+For any audio component of a communication, be at least 3 seconds in length and spoken in a clearly audible and intelligible manner at either the beginning or the end of the audio component of the communication.
+(e)
+For a graphic communication, be large enough to be clearly readable but no less than 4 percent of the vertical height of the communication.
+(4)(a)
+In addition to any civil penalties provided by law, a person identified pursuant to another disclaimer required under this chapter as paying for, sponsoring, or approving a political advertisement, an electioneering communication, or an other miscellaneous advertisement of a political nature which is required to contain the disclaimer prescribed in this section and who fails to include the required disclaimer commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(b)
+Any person may file a complaint with the Florida Elections Commission pursuant to s. 106.25 alleging a violation of this section. The commission shall adopt rules to provide an expedited hearing of complaints filed under this section, or, in cases referred to the Division of Administrative Hearings pursuant to s. 106.25(5), the director shall assign an administrative law judge to provide an expedited hearing.
+History.
+—
+s. 1, ch. 2024-126.
+106.147
+Text message and telephone solicitation; disclosure requirements; prohibitions; exemptions; penalties.
+—
+(1)(a)
+Any text message or telephone call supporting or opposing a candidate, an elected public official, or a ballot measure, and any electioneering text message or telephone call, must include the phrase “Paid for by,” followed by the name of the persons or organizations sponsoring the message or call or, in the case of a text message, a working hyperlink or a uniform resource locator (URL) to a website containing the required disclosure.
+(b)
+A candidate’s text message or telephone call must include the phrase “Paid for by,” followed by the name of the candidate, then followed by the word “For,” and the name of the elective office sought.
+(c)
+A website that is hyperlinked, or identified by URL, in a text message must remain online and available to the public for at least 30 days after the date of the election in which the candidate or ballot measure that the advertisement supported or opposed was voted on.
+(d)1.
+If an exchange consists of a sequence of multiple text messages sent on the same day, the sponsorship disclaimer is only required to be included with the first text message.
+2.
+A person or an organization is deemed to be in compliance with this subsection if the sponsorship disclaimer required by this subsection is included in the text message in the form in which the person or organization intended it to be sent, regardless of the form the carrier relayed it to the recipient.
+3.
+If a person or an organization includes a working hyperlink or URL in the text message as part of the required disclaimer, the person or organization is deemed to be in compliance with this subsection even if the recipient’s device is incapable of accessing the referenced website.
+(e)
+This subsection does not apply to any:
+1.
+Telephone call:
+a.
+In which both the individual making the call is not being paid and the individuals participating in the call know each other before the call; or
+b.
+That is a part of a series of like telephone calls consisting of fewer than 1,000 completed calls averaging more than 2 minutes in duration which are conducted for the purpose of polling respondents regarding a candidate or an elected public official.
+2.
+Text message:
+a.
+In which both the individual sending the text message is not being paid and the text is individually sent without the assistance of mass distribution technology, including a text messaging platform; or
+b.
+That requires the recipient to sign up or opt in to receive it.
+(2)
+A text message or a telephone call may not state or imply that the caller:
+(a)
+Represents any person or organization unless the person or organization so represented has given specific approval in writing to make such representation; or
+(b)
+Represents a nonexistent person or organization.
+(3)
+Any text message or telephone call, not conducted by independent expenditure, which expressly advocates for or against a candidate or ballot measure requires prior written authorization by the candidate or sponsor of the ballot measure that the text message or telephone call supports. A copy of such written authorization must be placed on file with the qualifying officer by the candidate or sponsor of the ballot measure before the time the text messages or telephone calls commence.
+(4)(a)
+Any person who willfully violates this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(b)
+For purposes of paragraph (a), the term “person” includes any individual or organization making an independent expenditure; any candidate; any officer of any political committee, affiliated party committee, or political party executive committee; any officer, partner, attorney, or other representative of a corporation, partnership, or other business entity; and any agent or other person acting on behalf of any candidate, political committee, affiliated party committee, political party executive committee, or corporation, partnership, or other business entity.
+History.
+—
+s. 18, ch. 97-13; s. 31, ch. 2008-95; s. 29, ch. 2010-167; ss. 20, 30, ch. 2011-6; HJR 7105, 2011 Regular Session; s. 21, ch. 2013-37; s. 5, ch. 2021-49.
+106.1475
+Text message and telephone solicitation; registered agent requirements; penalty.
+—
+(1)
+Any person or organization that conducts business in this state consisting of sending text messages or placing telephone calls that are subject to the disclaimer requirements in s. 106.147 must, prior to conducting such business, have and continuously maintain, for at least 180 days following the cessation of such business activities in the state, a registered agent for the purpose of any service of process, notice, or demand required or authorized by law and must file with the division a notice of such registered agent. Such registered agent must be an individual who is a resident of this state, a domestic corporation, or a foreign corporation authorized to do business in this state. However, this subsection does not apply to any person or organization already lawfully registered to conduct business in this state.
+(2)
+For purposes of this section, conducting business in this state as specified in subsection (1) includes both sending text messages or placing telephone calls from a location in this state and sending text messages or placing telephone calls from a location outside this state to individuals located in this state.
+(3)(a)
+The division shall create and maintain forms for the notice required by subsection (1), which, at a minimum, must elicit all of the following information:
+1.
+The name, address, and telephone number of the registered agent.
+2.
+The name, address, and telephone number of the person or organization conducting business in this state as specified in subsection (1).
+(b)
+The person or organization conducting business in this state as specified in subsection (1) must immediately notify the division of any changes in the information required in paragraph (a).
+(4)
+Any person or organization that violates this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 19, ch. 97-13; s. 6, ch. 2021-49.
+106.15
+Certain acts prohibited.
+—
+(1)
+No person shall pay money or give anything of value for the privilege of speaking at a political meeting in the furtherance of his or her candidacy, nor shall anyone speaking for such a person pay money or give anything of value for such privilege.
+(2)
+No candidate, in the furtherance of his or her candidacy for nomination or election to public office in any election, shall use any state-owned aircraft or motor vehicle, as provided in chapter 287, solely for the purpose of furthering his or her candidacy. However, in the event a candidate uses any state-owned aircraft or motor vehicle to conduct official state business and while on such trip performs any function in the furtherance of his or her candidacy for nomination or election to public office in any election, the candidate shall prorate the expenses incurred and reimburse the appropriate agency for any trip not exclusively for state business and shall pay either a prorated share of all fixed and variable expenses related to the ownership, operation, and use of such aircraft or one-half of the total fixed and variable expenses related to the ownership, operation, and use of such aircraft, whichever is greater. The reimbursement shall be made from the campaign account of the candidate.
+(3)
+A candidate may not, in the furtherance of his or her candidacy for nomination or election to public office in any election, use the services of any state, county, municipal, or district officer or employee during working hours.
+(4)
+No person shall make and no person shall solicit or knowingly accept any political contribution in a building owned by a governmental entity. For purposes of this subsection, “accept” means to receive a contribution by personal hand delivery from a contributor or the contributor’s agent. This subsection shall not apply when a government-owned building or any portion thereof is rented for the specific purpose of holding a campaign fund raiser.
+(5)
+Any person violating the provisions of this section commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+History.
+—
+s. 15, ch. 73-128; s. 9, ch. 74-200; s. 1, ch. 77-174; s. 54, ch. 77-175; s. 61, ch. 79-400; s. 31, ch. 81-304; s. 28, ch. 83-217; s. 2, ch. 83-304; s. 16, ch. 91-45; s. 17, ch. 91-107; s. 648, ch. 95-147; s. 2, ch. 97-223; s. 7, ch. 2002-197.
+106.151
+Use of public funds prohibited.
+—
+(1)
+As used in this section, the term “public funds” means all moneys under the jurisdiction or control of the state government.
+(2)
+The state government or any person acting on behalf of the state government may not expend or authorize the expenditure of, and a person or group may not accept, public funds for a political advertisement or any other communication sent to electors concerning any proposed constitutional amendment or revision that is subject to a vote of the electors. This subsection applies to a communication initiated by the state government or a person acting on behalf of the state government, irrespective of whether the communication is limited to factual information or advocates for the passage or defeat of a proposed constitutional amendment or revision. This subsection does not preclude the state government or a person acting on behalf of the state government from reporting on official actions of the state government in an accurate, fair, and impartial manner; posting factual information on a government website or in printed materials; hosting and providing information at a public forum; providing factual information in response to an inquiry; or providing information as otherwise authorized or required by law.
+(3)
+With the exception of the prohibitions specified in subsection (2), this section does not preclude an elected official of the state government from expressing an opinion on any issue at any time.
+History.
+—
+s. 16, ch. 2025-21.
+106.16
+Limitation on certain rates and charges.
+—
+No person or corporation within the state publishing a newspaper or other periodical or operating a radio or television station or network of stations in Florida shall charge one candidate for state or county public office for political advertising in a county, or for political broadcasts in a county, at a rate in excess of that charged another political candidate.
+History.
+—
+s. 16, ch. 73-128; s. 55, ch. 77-175; s. 18, ch. 89-256.
+106.161
+Air time available at the lowest unit rate.
+—
+To the extent permitted by federal law, all broadcast radio and television stations and all cable television stations shall make air time available to candidates for public office at the lowest unit rate.
+History.
+—
+s. 35, ch. 91-107.
+106.165
+Use of closed captioning and descriptive narrative in all television broadcasts.
+—
+Each candidate, political party, affiliated party committee, and political committee must use closed captioning and descriptive narrative in all television broadcasts regulated by the Federal Communications Commission that are on behalf of, or sponsored by, a candidate, political party, affiliated party committee, or political committee or must file a written statement with the qualifying officer setting forth the reasons for not doing so. Failure to file this statement with the appropriate qualifying officer constitutes a violation of the Florida Election Code and is under the jurisdiction of the Florida Elections Commission.
+History.
+—
+s. 7, ch. 2002-281; s. 71, ch. 2005-277; ss. 21, 30, ch. 2011-6; HJR 7105, 2011 Regular Session; s. 29, ch. 2012-116.
+Note.
+—
+Former s. 98.122.
+106.17
+Polls and surveys relating to candidacies.
+—
+Any candidate, political committee, electioneering communication organization, affiliated party committee, or state or county executive committee of a political party may authorize or conduct a political poll, survey, index, or measurement of any kind relating to candidacy for public office so long as the candidate, political committee, electioneering communication organization, affiliated party committee, or political party maintains complete jurisdiction over the poll in all its aspects. State and county executive committees of a political party or an affiliated party committee may authorize and conduct political polls for the purpose of determining the viability of potential candidates. Such poll results may be shared with potential candidates, and expenditures incurred by state and county executive committees or an affiliated party committee for potential candidate polls are not contributions to the potential candidates.
+History.
+—
+s. 17, ch. 73-128; s. 1, ch. 77-174; s. 56, ch. 77-175; s. 32, ch. 81-304; s. 47, ch. 2007-30; s. 30, ch. 2010-167; ss. 22, 30, ch. 2011-6; s. 68, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 22, ch. 2013-37.
+106.18
+When a candidate’s name to be omitted from ballot.
+—
+(1)
+The name of a candidate shall not be printed on the ballot for an election if the candidate is convicted of violating s. 106.19.
+(2)
+Any candidate whose name is removed from the ballot pursuant to subsection (1) is disqualified as a candidate for office. If the disqualification of such candidate results in a vacancy in nomination, such vacancy shall be filled by a person other than such candidate in the manner provided by law.
+(3)
+No certificate of election shall be granted to any candidate until all preelection reports required by s. 106.07 have been filed in accordance with the provisions of such section. However, no candidate shall be prevented from receiving a certificate of election for failure to file any copy of a report required by this chapter.
+History.
+—
+s. 18, ch. 73-128; s. 57, ch. 77-175; s. 11, ch. 85-226; s. 37, ch. 90-315; s. 3, ch. 90-338.
+106.19
+Violations by candidates, persons connected with campaigns, and political committees.
+—
+(1)
+Any candidate; campaign manager, campaign treasurer, or deputy treasurer of any candidate; committee chair, vice chair, campaign treasurer, deputy treasurer, or other officer of any political committee; agent or person acting on behalf of any candidate or political committee; or other person who knowingly and willfully:
+(a)
+Accepts a contribution in excess of the limits prescribed by s. 106.08;
+(b)
+Fails to report any contribution required to be reported by this chapter;
+(c)
+Falsely reports or deliberately fails to include any information required by this chapter; or
+(d)
+Makes or authorizes any expenditure in violation of s. 106.11(4) or any other expenditure prohibited by this chapter;
+is guilty of a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(2)
+Any candidate, campaign treasurer, or deputy treasurer; any chair, vice chair, or other officer of any political committee; any agent or person acting on behalf of any candidate or political committee; or any other person who violates paragraph (1)(a), paragraph (1)(b), or paragraph (1)(d) shall be subject to a civil penalty equal to three times the amount involved in the illegal act. Such penalty may be in addition to the penalties provided by subsection (1) and shall be paid into the General Revenue Fund of this state.
+(3)
+A political committee sponsoring a constitutional amendment proposed by initiative which submits a petition form gathered by a petition circulator which does not provide the name and address of the petition circulator on the form is subject to the civil penalties prescribed in s. 106.265.
+(4)
+Except as otherwise expressly stated, the failure by a candidate to comply with the requirements of this chapter has no effect upon whether the candidate has qualified for the office the candidate is seeking.
+History.
+—
+s. 19, ch. 73-128; s. 57, ch. 77-175; s. 62, ch. 79-400; s. 12, ch. 91-107; s. 649, ch. 95-147; ss. 24, 45, ch. 97-13; s. 8, ch. 2002-197; s. 11, ch. 2006-300; s. 69, ch. 2011-40; s. 35, ch. 2013-37; s. 17, ch. 2025-21.
+106.191
+Signatures gathered for initiative petition; effect of ch. 97-13.
+—
+Any signature gathered on an authorized form for an initiative petition by a paid petition circulator which has been submitted prior to the effective date of this act may be kept and counted, if otherwise valid, and that form is not required to have the name and address of the paid petition circulator, nor is any such signature affected by the prohibition against filing an undue burden oath in lieu of paying the fee to have signatures verified, as provided by this act. However, any signature gathered on or after the effective date of this act is subject to the provisions of this act and, if payment is made to any person to solicit signatures after the effective date of this act, an undue burden oath may not be filed in lieu of paying the fee to have signatures verified. In addition, any initiative petition form approved by the Secretary of State prior to the effective date of this act may continue to be circulated.
+History.
+—
+s. 25, ch. 97-13.
+106.21
+Certificates of election not to be issued upon conviction.
+—
+(1)
+If a successful candidate is convicted of violating s. 106.19(1) prior to the issuance of his or her certificate of election, such certificate shall not be issued, and a vacancy shall be declared and filled as provided by law.
+(2)
+If a successful candidate is convicted of violating s. 106.19(1) subsequent to the issuance of a certificate of election but prior to taking office, such certificate shall be rescinded by the issuing body and declared void, and a vacancy in office shall exist and be filled as provided by law.
+History.
+—
+s. 21, ch. 73-128; s. 57, ch. 77-175; s. 650, ch. 95-147.
+106.22
+Duties of the Division of Elections.
+—
+It is the duty of the Division of Elections to:
+(1)
+Prescribe forms for statements and other information required to be filed by this chapter. Such forms shall be furnished by the Department of State or office of the supervisor of elections to persons required to file such statements and information with such agency.
+(2)
+Prepare and publish manuals or brochures setting forth recommended uniform methods of bookkeeping and reporting, and including appropriate portions of the election code, for use by persons required by this chapter to file statements.
+(3)
+Develop a filing, coding, and cross-indexing system consonant with the purposes of this chapter.
+(4)
+Preserve statements and other information required to be filed with the division pursuant to this chapter for a period of 10 years from date of receipt.
+(5)
+Prepare and publish such reports as it may deem appropriate.
+(6)
+Make, from time to time, audits and field investigations with respect to reports and statements filed under the provisions of this chapter and with respect to alleged failures to file any report or statement required under the provisions of this chapter. The division shall conduct a postelection audit of the campaign accounts of all candidates receiving contributions from the
+1
+Election Campaign Financing Trust Fund.
+(7)
+Report to the Florida Elections Commission any failure to file a report or information required by this chapter or any apparent violation of this chapter.
+(8)
+Employ such personnel or contract for such services as are necessary to adequately carry out the intent of this chapter.
+(9)
+Prescribe rules and regulations to carry out the provisions of this chapter. Such rules shall be prescribed pursuant to chapter 120.
+(10)
+Conduct random audits with respect to reports and statements filed under this chapter and with respect to alleged failure to file any reports and statements required under this chapter.
+History.
+—
+s. 22, ch. 73-128; s. 57, ch. 77-175; s. 13, ch. 79-365; s. 4, ch. 84-254; s. 3, ch. 86-276; s. 9, ch. 90-338; s. 46, ch. 97-13; s. 7, ch. 2001-75; s. 72, ch. 2005-277; ss. 4, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.23
+Powers of the Division of Elections.
+—
+(1)
+In order to carry out the responsibilities prescribed by s. 106.22, the Division of Elections is empowered to subpoena and bring before its duly authorized representatives any person in the state, or any person doing business in the state, or any person who has filed or is required to have filed any application, document, papers, or other information with an office or agency of this state or a political subdivision thereof and to require the production of any papers, books, or other records relevant to any investigation, including the records and accounts of any bank or trust company doing business in this state. Duly authorized representatives of the division are empowered to administer all oaths and affirmations in the manner prescribed by law to witnesses who shall appear before them concerning any relevant matter. Should any witness fail to respond to the lawful subpoena of the division or, having responded, fail to answer all lawful inquiries or to turn over evidence that has been subpoenaed, the division may file a complaint before any circuit court of the state setting up such failure on the part of the witness. On the filing of such complaint, the court shall take jurisdiction of the witness and the subject matter of said complaint and shall direct the witness to respond to all lawful questions and to produce all documentary evidence in the witness’s possession which is lawfully demanded. The failure of any witness to comply with such order of the court shall constitute a direct and criminal contempt of court, and the court shall punish said witness accordingly. However, the refusal by a witness to answer inquiries or turn over evidence on the basis that such testimony or material will tend to incriminate such witness shall not be deemed refusal to comply with the provisions of this chapter.
+(2)
+The Division of Elections shall provide advisory opinions when requested by any supervisor of elections, candidate, local officer having election-related duties, political party, affiliated party committee, political committee, or other person or organization engaged in political activity, relating to any provisions or possible violations of Florida election laws with respect to actions such supervisor, candidate, local officer having election-related duties, political party, affiliated party committee, committee, person, or organization has taken or proposes to take. Requests for advisory opinions must be submitted in accordance with rules adopted by the Department of State. A written record of all such opinions issued by the division, sequentially numbered, dated, and indexed by subject matter, shall be retained. A copy shall be sent to said person or organization upon request. Any such person or organization, acting in good faith upon such an advisory opinion, shall not be subject to any criminal penalty provided for in this chapter. The opinion, until amended or revoked, shall be binding on any person or organization who sought the opinion or with reference to whom the opinion was sought, unless material facts were omitted or misstated in the request for the advisory opinion.
+History.
+—
+s. 23, ch. 73-128; s. 3, ch. 76-233; s. 58, ch. 77-175; s. 651, ch. 95-147; s. 47, ch. 97-13; s. 8, ch. 2001-75; ss. 23, 30, ch. 2011-6; HJR 7105, 2011 Regular Session; s. 23, ch. 2013-37.
+106.24
+Florida Elections Commission; membership; powers; duties.
+—
+(1)(a)
+There is created within the Department of Legal Affairs, Office of the Attorney General, a Florida Elections Commission, hereinafter referred to as the commission. The commission shall be a separate budget entity and the agency head for all purposes. The commission shall not be subject to control, supervision, or direction by the Department of Legal Affairs or the Attorney General in the performance of its duties, including, but not limited to, personnel, purchasing transactions involving real or personal property, and budgetary matters.
+(b)
+The commission shall be composed of nine members. The President of the Senate, the Speaker of the House of Representatives, the minority leader of the Senate, and the minority leader of the House of Representatives shall each provide a list of six nominees to the Governor for initial appointment to the commission. The Governor may appoint two members to the commission from each list. If the Governor refuses to appoint two members from any of the respective lists, the Governor shall so inform the nominating officer and the nominating officer shall submit a new list of six nominees within 30 days. The new list must contain at least three nominees not included on the prior nominating list. The ninth commission member, who shall serve as chair of the commission, shall be appointed by the Governor. Each member of the commission is subject to confirmation by the Senate. The chair of the commission shall serve for a maximum term of 4 years, such term to run concurrently with the term of the appointing Governor and until a future successor is appointed. Other members of the commission shall serve for 4-year terms and until their successors are appointed. An individual who is a lobbyist at the state or local government level may not serve as a member of the commission, except that this prohibition shall not apply to an individual who is a member of the commission on July 1, 2002, until the expiration of his or her current term. A member of the commission is prohibited from lobbying state or local government while he or she is a member of the commission, except that this prohibition shall not apply to an individual who is a member of the commission on July 1, 2002, until the expiration of his or her current term.
+(c)
+As the terms of members expire, excluding the chair, successors shall be appointed to 4-year terms and shall serve until their successors are appointed. Six months prior to the expiration of a commission member’s term, the ranking officer of the political party in the respective house originally nominating the commission member shall submit a list of three nominees to the Governor. The Governor may appoint one of the listed nominees to the commission. If no nominee is selected from the list, the Governor shall so inform the nominating officer, who shall submit a list of three different nominees to the Governor within 30 days. Vacancies on the commission shall expeditiously be filled for the unexpired terms in the same manner.
+(d)
+As the term of the chair of the commission expires or becomes vacant, a successor shall be appointed in the manner of the original appointment, and shall serve for a maximum of 4 years, such term to run concurrently with the term of the appointing Governor and until a future successor is appointed.
+(e)
+In no event may any member of the commission serve more than two full terms. Members of the commission shall be paid travel and per diem as provided in s. 112.061 while in performance of their duties and in traveling to, from, and upon same. Of the nine members of the commission, no more than five members shall be from the same political party at any one time.
+(2)
+No member of the commission shall be a member of any county, state, or national committee of a political party; be an officer in any partisan political club or organization; or hold, or be a candidate for, any other public office. No person shall be appointed as a member of the commission who has held an elective public office or office in a political party within the year immediately preceding his or her appointment.
+(3)
+The commission shall convene at the call of its chair or at the request of a majority of the members of the commission. The presence of five members is required to constitute a quorum, and the affirmative vote of the majority of the members present is required for any action or recommendation by the commission. The commission may meet in any city of the state.
+(4)
+The commission shall appoint an executive director, who shall serve under the direction, supervision, and control of the commission. The executive director, with the consent of the commission, shall employ such staff as are necessary to adequately perform the functions of the commission, within budgetary limitations. All employees, except the executive director and attorneys, are subject to part II of chapter 110. The executive director shall serve at the pleasure of the commission and be subject to part III of chapter 110, except that the commission shall have complete authority for setting the executive director’s salary. Attorneys employed by the commission shall be subject to part V of chapter 110.
+(5)
+Hearings shall be held before the commission, except that the chair may direct that any hearing be held before one member of the commission or a panel of less than the full commission. The commission shall adopt rules to provide for the filing of a report when hearings are held by a single commissioner or a panel, which rules shall prescribe the time for filing the report and the contents of the report.
+(6)
+There is established in the State Treasury an Elections Commission Trust Fund to be used by the Florida Elections Commission in order to carry out its duties pursuant to ss. 106.24-106.28. The trust fund may also be used by the Secretary of State, pursuant to his or her authority under s. 97.012(15), to provide rewards for information leading to criminal convictions related to voter registration fraud, voter fraud, and vote scams.
+(7)
+The commission shall develop a budget request pursuant to chapter 216 annually. The budget is not subject to change by the Department of Legal Affairs or the Attorney General, but it shall be submitted by the Department of Legal Affairs to the Governor for transmittal to the Legislature.
+(8)
+The commission is authorized to contract or consult with appropriate agencies of state government for such professional assistance as may be needed in the discharge of its duties.
+History.
+—
+s. 24, ch. 73-128; s. 10, ch. 74-200; s. 59, ch. 77-175; s. 63, ch. 79-400; s. 1, ch. 82-46; s. 2, ch. 83-265; s. 19, ch. 89-256; s. 36, ch. 89-338; s. 38, ch. 90-315; ss. 4, 14, 15, ch. 90-338; s. 5, ch. 91-429; s. 1, ch. 93-262; s. 652, ch. 95-147; s. 48, ch. 97-13; s. 3, ch. 2002-281; s. 69, ch. 2005-277; s. 32, ch. 2008-95; s. 5, ch. 2010-16; s. 2, ch. 2017-3.
+106.25
+Reports of alleged violations to Florida Elections Commission; disposition of findings.
+—
+(1)
+Jurisdiction to investigate and determine violations of this chapter and chapter 104 is vested in the Florida Elections Commission; however, nothing in this section limits the jurisdiction of any other officers or agencies of government empowered by law to investigate, act upon, or dispose of alleged violations of this code.
+(2)
+The commission shall investigate all violations of this chapter and chapter 104, but only after having received either a sworn complaint or information reported to it under this subsection by the Division of Elections. Such sworn complaint must be based upon personal information or information other than hearsay. Any person, other than the division, having information of any violation of this chapter or chapter 104 shall file a sworn complaint with the commission. The commission shall investigate only those alleged violations specifically contained within the sworn complaint. If any complainant fails to allege all violations that arise from the facts or allegations alleged in a complaint, the commission shall be barred from investigating a subsequent complaint from such complainant that is based upon such facts or allegations that were raised or could have been raised in the first complaint. If the complaint includes allegations of violations relating to expense items reimbursed by a candidate, committee, or organization to the campaign account before a sworn complaint is filed, the commission shall be barred from investigating such allegations. Such sworn complaint shall state whether a complaint of the same violation has been made to any state attorney. Within 5 days after receipt of a sworn complaint, the commission shall transmit a copy of the complaint to the alleged violator. The respondent shall have 14 days after receipt of the complaint to file an initial response, and the executive director may not determine the legal sufficiency of the complaint during that time period. If the executive director finds that the complaint is legally sufficient, the respondent shall be notified of such finding by letter, which sets forth the statutory provisions alleged to have been violated and the alleged factual basis that supports the finding. All sworn complaints alleging violations of the Florida Election Code over which the commission has jurisdiction shall be filed with the commission within 2 years after the alleged violations. The period of limitations is tolled on the day a sworn complaint is filed with the commission. The complainant may withdraw the sworn complaint at any time prior to a probable cause hearing if good cause is shown. Withdrawal shall be requested in writing, signed by the complainant, and witnessed by a notary public, stating the facts and circumstances constituting good cause. The executive director shall prepare a written recommendation regarding disposition of the request which shall be given to the commission together with the request. “Good cause” shall be determined based upon the legal sufficiency or insufficiency of the complaint to allege a violation and the reasons given by the complainant for wishing to withdraw the complaint. If withdrawal is permitted, the commission must close the investigation and the case. No further action may be taken. The complaint will become a public record at the time of withdrawal.
+(3)
+For the purposes of commission jurisdiction, a violation shall mean the willful performance of an act prohibited by this chapter or chapter 104 or the willful failure to perform an act required by this chapter or chapter 104. The commission may not by rule determine what constitutes willfulness or further define the term “willful” for purposes of this chapter or chapter 104. Willfulness is a determination of fact; however, at the request of the respondent at any time after probable cause is found, willfulness may be considered and determined in an informal hearing before the commission.
+(4)
+The commission shall undertake a preliminary investigation to determine if the facts alleged in a sworn complaint or a matter initiated by the division constitute probable cause to believe that a violation has occurred.
+(a)
+When the investigator’s report is completed, the executive director shall notify the respondent that the report is completed and shall send to the respondent a copy of the investigator’s report. The investigatory file and main complaint file shall be open for inspection by the respondent and the respondent’s counsel at that time, and copies may be obtained at no more than cost.
+(b)
+The respondent shall be given not less than 14 days from the date of mailing of the investigator’s report to file with the commission a written response to the investigator’s report. This time period may be shortened with the consent of the respondent, or without the consent of the respondent when the passage of time could reasonably be expected to render moot the ultimate disposition of the matter by the commission so long as reasonable notice under the circumstances is given.
+(c)
+Counsel for the commission shall review the investigator’s report and shall make a written recommendation to the commission for the disposition of the complaint. If the counsel for the commission recommends that the commission find probable cause, the recommendation shall include a statement of what charges shall be at issue. A copy of the recommendation shall be furnished to the respondent. The respondent shall be given not less than 14 days from the date of mailing of the recommendation of counsel for the commission to file with the commission a written response to the recommendation. This time period may be shortened with the consent of the respondent, or without the consent of the respondent when the passage of time could reasonably be expected to render moot the ultimate disposition of the matter by the commission, so long as the recommendation is furnished to the respondent within a reasonable period of time under the circumstances.
+(d)
+The respondent and each complainant, their counsel, and the counsel for the commission shall be permitted to attend the hearing at which the probable cause determination is made. Notice of the hearing shall be sent to the respondent, each complainant, and counsel for the commission at least 14 days before the hearing. This time period may be shortened with the consent of the respondent, or without the consent of the respondent when the passage of time could reasonably be expected to render moot the ultimate disposition of the matter by the commission, so long as the notice is furnished within a reasonable period of time under the circumstances.
+(e)
+The probable cause determination is the conclusion of the preliminary investigation. The respondent and the counsel for the commission shall be permitted to make brief oral statements in the nature of oral argument to the commission, based on the investigator’s report, before the probable cause determination. The commission’s determination shall be based upon the investigator’s report, the recommendation of counsel for the commission, the complaint, and staff recommendations, as well as any written statements submitted by the respondent and any oral statements made at the hearing. No testimony or other evidence will be accepted at the hearing.
+(f)
+At its meeting to determine probable cause, the commission may continue its determination to allow further investigation; may order the issuance of a public report of its investigation if it finds no probable cause to believe that there has been a violation of this chapter or chapter 104, concluding the matter before it; may order a final, public hearing of the complaint if it finds probable cause to believe that there has been a violation of this chapter or chapter 104; or may take such other action as it deems necessary to resolve the complaint, consistent with due process of law. In making its determination, the commission may consider:
+1.
+The sufficiency of the evidence against the respondent, as contained in the investigator’s report;
+2.
+The admissions and other stipulations of the respondent, if any;
+3.
+The nature and circumstances of the respondent’s actions;
+4.
+The expense of further proceedings; and
+5.
+Such other factors as it deems material to its decision.
+If the commission finds probable cause, the commission shall determine what charges shall be at issue.
+(g)
+If no probable cause is found, the commission shall dismiss the case and the case shall become a matter of public record, except as otherwise provided in this section, together with a written statement of the findings of the preliminary investigation and a summary of the facts which the commission shall send to the complainant and the alleged violator. A finding of no probable cause by the commission is a full adjudication of all such matters. The commission may not charge a respondent in a subsequent complaint alleging violations based upon the same actions, nonactions, or circumstances wherein the commission found no probable cause.
+(h)
+If probable cause is found, the commission shall so notify the complainant and the alleged violator in writing. All documents made or received in the disposition of the complaint shall become public records upon a finding by the commission.
+(i)1.
+Upon a commission finding of probable cause, the counsel for the commission shall attempt to reach a consent agreement with the respondent. At any time, the commission may enter into a consent order with a respondent without requiring the respondent to admit to a violation of law within the jurisdiction of the commission.
+2.
+A consent agreement is not binding upon either party unless and until it is signed by the respondent and by counsel for the commission upon approval by the commission.
+3.
+Nothing herein shall be construed to prevent the commission from entering into a consent agreement with a respondent prior to a commission finding of probable cause if a respondent indicates in writing a desire to enter into negotiations directed towards reaching such a consent agreement. Any consent agreement reached under this subparagraph is subject to the provisions of subparagraph 2. and shall have the same force and effect as a consent agreement reached after the commission finding of probable cause.
+(j)
+If a consent agreement is reached between the commission and the respondent, counsel for the commission shall send a copy of the signed agreement to both complainant and respondent.
+In a case where probable cause is found, the commission shall make a preliminary determination to consider the matter or to refer the matter to the state attorney for the judicial circuit in which the alleged violation occurred. Notwithstanding any other provisions of this section, the commission may, at its discretion, dismiss any complaint at any stage of disposition if it determines that the public interest would not be served by proceeding further, in which case the commission shall issue a public report stating with particularity its reasons for the dismissal.
+(5)
+A person alleged by the Elections Commission to have committed a violation of this chapter or chapter 104 may elect, as a matter of right, within 30 days after the date of the filing of the commission’s allegations, to have a formal administrative hearing conducted by an administrative law judge in the Division of Administrative Hearings. The administrative law judge in such proceedings shall enter a final order, which may include the imposition of civil penalties, subject to appeal as provided in s. 120.68. If the person does not elect to have a hearing by an administrative law judge and does not elect to resolve the complaint by a consent order, the person is entitled to a formal or informal hearing conducted before the commission.
+(6)
+It is the duty of a state attorney receiving a complaint referred by the commission to investigate the complaint promptly and thoroughly; to undertake such criminal or civil actions as are justified by law; and to report to the commission the results of such investigation, the action taken, and the disposition thereof. The failure or refusal of a state attorney to prosecute or to initiate action upon a complaint or a referral by the commission shall not bar further action by the commission under this chapter.
+(7)
+Every sworn complaint filed pursuant to this chapter with the commission, every investigation and investigative report or other paper of the commission with respect to a violation of this chapter or chapter 104, and every proceeding of the commission with respect to a violation of this chapter or chapter 104 is confidential, is exempt from the provisions of ss. 119.07(1) and 286.011, and is exempt from publication in the Florida Administrative Register of any notice or agenda with respect to any proceeding relating to such violation, except under the following circumstances:
+(a)
+As provided in subsection (6);
+(b)
+Upon a determination of probable cause or no probable cause by the commission; or
+(c)
+For proceedings conducted with respect to appeals of fines levied by filing officers for the late filing of reports required by this chapter.
+However, a complainant is not bound by the confidentiality provisions of this section. In addition, confidentiality may be waived in writing by the person against whom the complaint has been filed or the investigation has been initiated. If a finding of probable cause in a case is entered within 30 days prior to the date of the election with respect to which the alleged violation occurred, such finding and the proceedings and records relating to such case shall not become public until noon of the day following such election. When two or more persons are being investigated by the commission with respect to an alleged violation of this chapter or chapter 104, the commission may not publicly enter a finding of probable cause or no probable cause in the case until a finding of probable cause or no probable cause for the entire case has been determined. However, once the confidentiality of any case has been breached, the person or persons under investigation have the right to waive the confidentiality of the case, thereby opening up the proceedings and records to the public. Any person who discloses any information or matter made confidential by the provisions of this subsection commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(8)
+Any person who files a complaint pursuant to this section while knowing that the allegations contained in such complaint are false or without merit commits a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083.
+(9)
+The commission shall maintain a database of all final orders and agency actions. Such database shall be available to the public and shall be maintained in such a manner as to be searchable, at a minimum, by issue, statutes, individuals, or entities referenced.
+History.
+—
+s. 25, ch. 73-128; s. 11, ch. 74-200; s. 60, ch. 77-175; s. 3, ch. 78-403; s. 1, ch. 82-46; s. 2, ch. 83-265; s. 39, ch. 84-302; s. 20, ch. 89-256; ss. 5, 14, 15, ch. 90-338; s. 21, ch. 90-360; s. 18, ch. 91-107; s. 5, ch. 91-429; s. 26, ch. 96-406; s. 49, ch. 97-13; s. 34, ch. 98-129; s. 21, ch. 2004-252; s. 48, ch. 2007-30; s. 16, ch. 2010-167; s. 70, ch. 2011-40; s. 1, ch. 2013-14.
+106.26
+Powers of commission; rights and responsibilities of parties; findings by commission.
+—
+(1)
+The commission shall, pursuant to rules adopted and published in accordance with chapter 120, consider all sworn complaints filed with it and all matters reported to it by the Division of Elections. In order to carry out the responsibilities prescribed by this chapter, the commission is empowered to subpoena and bring before it, or its duly authorized representatives, any person in the state, or any person doing business in the state, or any person who has filed or is required to have filed any application, document, papers, or other information with an office or agency of this state or a political subdivision thereof and to require the production of any papers, books, or other records relevant to any investigation, including the records and accounts of any bank or trust company doing business in this state. Duly authorized representatives of the commission are empowered to administer all oaths and affirmations in the manner prescribed by law to witnesses who shall appear before them concerning any relevant matter. Should any witness fail to respond to the lawful subpoena of the commission or, having responded, fail to answer all lawful inquiries or to turn over evidence that has been subpoenaed, the commission may file a complaint in the circuit court where the witness resides setting up such failure on the part of the witness. On the filing of such complaint, the court shall take jurisdiction of the witness and the subject matter of said complaint and shall direct the witness to respond to all lawful questions and to produce all documentary evidence in the witness’s possession which is lawfully demanded. The failure of any witness to comply with such order of the court shall constitute a direct and criminal contempt of court, and the court shall punish said witness accordingly. However, the refusal by a witness to answer inquiries or turn over evidence on the basis that such testimony or material will tend to incriminate such witness shall not be deemed refusal to comply with the provisions of this chapter. The sheriffs in the several counties shall make such service and execute all process or orders when required by the commission. Sheriffs shall be paid for these services by the commission as provided for in s. 30.231. Any person who is served with a subpoena to attend a hearing of the commission also shall be served with a general statement informing him or her of the subject matter of the commission’s investigation or inquiry and a notice that he or she may be accompanied at the hearing by counsel of his or her own choosing.
+(2)
+All witnesses summoned before the commission, other than on the request of the subject of a hearing, shall receive reimbursement for travel expenses and per diem at the rates provided in s. 112.061. However, the fact that such reimbursement is not tendered at the time the subpoena is served shall not excuse the witness from appearing as directed therein.
+(3)
+Upon request of any person having business before the commission, and with the approval of a majority of the commission, the chair or, in the chair’s absence, the vice chair shall instruct all witnesses to leave the hearing room and retire to a designated place. The witness will be instructed by the chair or, in the chair’s absence, the vice chair not to discuss his or her testimony or the testimony of any other person with anyone until the hearing has been adjourned and the witness discharged by the chair. The witness shall be further instructed that should any person discuss or attempt to discuss the matter under investigation with him or her after receiving such instructions the witness shall bring such matter to the attention of the commission. No member of the commission or representative thereof may discuss any matter or matters pertinent to the subject matter under investigation with witnesses to be called before the commission from the time that these instructions are given until the hearing has been adjourned and the witness discharged by the chair.
+(4)
+The commission, when interrogating witnesses as provided herein, shall cause a record to be made of all proceedings in which testimony or other evidence is demanded or adduced. This record shall include rulings of the chair, questions of the commission and its counsel, testimony or responses of witnesses, sworn written statements submitted to the commission, and all other pertinent matters. A witness at a hearing, upon his or her advance request and at his or her own expense, shall be furnished a certified transcript of all testimony taken at the hearing.
+(5)
+Before or during a hearing, any person noticed to appear before the commission, or the person’s counsel, may file with the commission, for incorporation into the record of the hearing, sworn written statements relevant to the purpose, subject matter, and scope of the commission’s investigation or inquiry. Any such person shall, however, prior to filing such statement, consent to answer questions from the commission regarding the contents of the statement.
+(6)
+Any person whose name is mentioned or who is otherwise identified during a hearing being conducted by the commission and who, in the opinion of the commission, may be adversely affected thereby may, upon his or her request or upon the request of any member of the commission, appear personally before the commission and testify on his or her own behalf or, with the commission’s consent, file a sworn written statement of facts or other documentary evidence for incorporation into the record of the hearing. Any such person shall, however, prior to filing such statement, consent to answer questions from the commission regarding the contents of the statement.
+(7)
+Upon the consent of a majority of its members, the commission may permit any other person to appear and testify at a hearing or submit a sworn written statement of facts or other documentary evidence for incorporation into the record thereof. No request to appear, appearance, or submission shall limit in any way the commission’s power of subpoena. Any such person shall, however, prior to filing such statement, consent to answer questions from the commission regarding the contents of the statement.
+(8)
+Any person who appears before the commission pursuant to this section shall have all the rights, privileges, and responsibilities of a witness appearing before a court of competent jurisdiction.
+(9)
+If the commission fails in any material respect to comply with the requirements of this section, any person subject to subpoena or subpoena duces tecum who is injured by such failure shall be relieved of any requirement to attend the hearing for which the subpoena was issued or, if present, to testify or produce evidence therein; and such failure shall be a complete defense in any proceeding against such person for contempt or other punishment.
+(10)
+Whoever willfully affirms or swears falsely in regard to any material matter or thing before the commission shall be guilty of a felony of the third degree and punished as provided by s. 775.082, s. 775.083, or s. 775.084.
+(11)
+At the conclusion of its hearings concerning an alleged violation, the commission shall immediately begin deliberations on the evidence presented at such hearings and shall proceed to determine by affirmative vote of a majority of the members present whether a violation of this chapter or chapter 104 has occurred. Such determination shall promptly be made public. The order shall contain a finding of violation or no violation, together with brief findings of pertinent facts, and the assessment of such civil penalties as are permitted by this chapter or no such assessment and shall bear the signature or facsimile signature of the chair or vice chair.
+(12)
+The commission by rule may determine violations which constitute minor offenses that can be resolved without further investigation by means of a plea of nolo contendere and payment of a fine.
+(13)
+The commission may not issue advisory opinions and must, in all its deliberations and decisions, adhere to statutory law and advisory opinions of the division.
+History.
+—
+s. 26, ch. 73-128; s. 12, ch. 74-200; s. 60, ch. 77-175; s. 4, ch. 78-403; s. 64, ch. 79-400; s. 1, ch. 82-46; s. 2, ch. 83-265; s. 21, ch. 89-256; ss. 6, 14, 15, ch. 90-338; s. 74, ch. 91-45; s. 5, ch. 91-429; s. 2, ch. 94-170; s. 1396, ch. 95-147; s. 50, ch. 97-13; s. 35, ch. 98-129; s. 71, ch. 2011-40.
+106.265
+Civil penalties.
+—
+(1)(a)
+The commission or, in cases referred to the Division of Administrative Hearings pursuant to s. 106.25(5), the administrative law judge is authorized upon the finding of a violation of this chapter or chapter 104 to impose civil penalties in the form of fines not to exceed $2,500 per count. The fine may be multiplied by a factor of 3, not to exceed $7,500, for each subsequent count of the same category, beginning with the fourth offense.
+(b)
+If applicable, the commission or the administrative law judge may instead impose a civil penalty as provided in s. 104.271 or s. 106.19.
+(2)
+A fine imposed against a political committee jointly and severally attaches to the chair of the political committee if the political committee does not pay the fine within 30 days.
+(3)
+In determining the amount of such civil penalties, the commission or administrative law judge shall consider, among other mitigating and aggravating circumstances:
+(a)
+The gravity of the act or omission;
+(b)
+Any previous history of similar acts or omissions;
+(c)
+The appropriateness of such penalty to the financial resources of the person, political committee, affiliated party committee, electioneering communications organization, or political party; and
+(d)
+Whether the person, political committee, affiliated party committee, electioneering communications organization, or political party has shown good faith in attempting to comply with the provisions of this chapter or chapter 104.
+(4)
+If any person, political committee, affiliated party committee, electioneering communications organization, or political party fails or refuses to pay to the commission any civil penalties assessed pursuant to the provisions of this section, the commission shall be responsible for collecting the civil penalties resulting from such action.
+(5)
+Any civil penalty collected pursuant to the provisions of this section shall be deposited into the General Revenue Fund.
+(6)
+Any fine assessed pursuant to this chapter shall be deposited into the General Revenue Fund.
+(7)
+In any case in which the commission determines that a person has filed a complaint against another person with a malicious intent to injure the reputation of the person complained against by filing the complaint with knowledge that the complaint contains one or more false allegations or with reckless disregard for whether the complaint contains false allegations of fact material to a violation of this chapter or chapter 104, the complainant shall be liable for costs and reasonable attorney’s fees incurred in the defense of the person complained against, including the costs and reasonable attorney’s fees incurred in proving entitlement to and the amount of costs and fees. If the complainant fails to pay such costs and fees voluntarily within 30 days following such finding by the commission, the commission shall forward such information to the Department of Legal Affairs, which shall bring a civil action in a court of competent jurisdiction to recover the amount of such costs and fees awarded by the commission.
+History.
+—
+s. 61, ch. 77-175; s. 1, ch. 82-46; s. 2, ch. 83-265; s. 4, ch. 86-276; ss. 7, 14, 15, ch. 90-338; s. 5, ch. 91-429; s. 51, ch. 97-13; s. 36, ch. 98-129; s. 3, ch. 2000-355; s. 22, ch. 2004-252; ss. 24, 30, ch. 2011-6; s. 72, ch. 2011-40; HJR 7105, 2011 Regular Session; s. 24, ch. 2013-37; s. 50, ch. 2023-120.
+106.27
+Determinations by commission; legal disposition.
+—
+(1)
+Criminal proceedings for violations of this chapter or chapter 104 may be brought in the appropriate court of competent jurisdiction. Any such action brought under this chapter or chapter 104 shall be advanced on the docket of the court in which filed and put ahead of all other actions.
+(2)
+Civil actions may be brought by the commission for relief, including permanent or temporary injunctions, restraining orders, or any other appropriate order for the imposition of civil penalties provided by this chapter. Such civil actions shall be brought by the commission in the appropriate court of competent jurisdiction, and the venue shall be in the county in which the alleged violation occurred or in which the alleged violator or violators are found, reside, or transact business. Upon a proper showing that such person, political committee, affiliated party committee, or political party has engaged, or is about to engage, in prohibited acts or practices, a permanent or temporary injunction, restraining order, or other order shall be granted without bond by such court, and the civil fines provided by this chapter may be imposed.
+(3)
+Civil actions may be brought to enjoin temporarily the issuance of certificates of election to successful candidates who are alleged to have violated the provisions of this chapter or chapter 104. Such injunctions shall issue upon a showing of probable cause that such violation has occurred. Such actions shall be brought in the circuit court for the circuit in which is located the officer before whom the candidate qualified for office.
+History.
+—
+s. 27, ch. 73-128; s. 13, ch. 74-200; s. 62, ch. 77-175; s. 1, ch. 82-46; s. 2, ch. 83-265; ss. 8, 14, 15, ch. 90-338; s. 5, ch. 91-429; s. 37, ch. 98-129; ss. 25, 30, ch. 2011-6; HJR 7105, 2011 Regular Session; s. 25, ch. 2013-37.
+106.28
+Limitation of actions.
+—
+Actions for violation of this chapter must be commenced before 2 years have elapsed from the date of the violation.
+History.
+—
+s. 28, ch. 73-128; s. 1, ch. 82-46; s. 2, ch. 83-265; s. 22, ch. 89-256; s. 14, ch. 90-338.
+106.29
+Reports by political parties and affiliated party committees; restrictions on contributions and expenditures; penalties.
+—
+(1)
+The state executive committee and each county executive committee of each political party and any affiliated party committee regulated by chapter 103 shall file regular reports of all contributions received and all expenditures made by such committee. However, the reports shall not include contributions and expenditures that are reported to the Federal Election Commission. In addition, when a special election is called to fill a vacancy in office, each state executive committee, each affiliated party committee, and each county executive committee making contributions or expenditures to influence the results of the special election or the preceding special primary election must file campaign treasurers’ reports on the dates set by the Department of State pursuant to s. 100.111. Such reports shall contain the same information as do reports required of candidates by s. 106.07 and shall be filed on the 10th day following the end of each calendar quarter, except that, during the period from the last day for candidate qualifying until the general election, such reports shall be filed on the Friday immediately preceding each special primary election, special election, primary election, and general election. In addition to the reports filed under this section, the state executive committee, each county executive committee, and each affiliated party committee shall file a copy of each prior written acceptance of an in-kind contribution given by the committee during the preceding calendar quarter as required under s. 106.08(6). Each state executive committee and affiliated party committee shall file its reports with the Division of Elections. Each county executive committee shall file its reports with the supervisor of elections in the county in which such committee exists. Any state or county executive committee or affiliated party committee failing to file a report on the designated due date shall be subject to a fine as provided in subsection (3). No separate fine shall be assessed for failure to file a copy of any report required by this section.
+(2)
+The chair and treasurer of each state or county executive committee shall certify as to the correctness of each report filed by them on behalf of such committee. The leader and treasurer of each affiliated party committee under s. 103.092 shall certify as to the correctness of each report filed by them on behalf of such committee. Any committee chair, leader, or treasurer who certifies the correctness of any report while knowing that such report is incorrect, false, or incomplete commits a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+(3)(a)
+Any state or county executive committee or affiliated party committee failing to file a report on the designated due date shall be subject to a fine as provided in paragraph (b) for each late day. The fine shall be assessed by the filing officer, and the moneys collected shall be deposited in the General Revenue Fund.
+(b)
+Upon determining that a report is late, the filing officer shall immediately notify the chair of the executive committee or the leader of the affiliated party committee as defined in s. 103.092 as to the failure to file a report by the designated due date and that a fine is being assessed for each late day. The fine shall be $1,000 for a state executive committee, $1,000 for an affiliated party committee, and $50 for a county executive committee, per day for each late day, not to exceed 25 percent of the total receipts or expenditures, whichever is greater, for the period covered by the late report. However, if an executive committee or an affiliated party committee fails to file a report on the Friday immediately preceding the special election or general election, the fine shall be $10,000 per day for each day a state executive committee is late, $10,000 per day for each day an affiliated party committee is late, and $500 per day for each day a county executive committee is late. Upon receipt of the report, the filing officer shall determine the amount of the fine which is due and shall notify the chair or leader as defined in s. 103.092. Notice is deemed complete upon proof of delivery of written notice to the mailing or street address on record with the filing officer. The filing officer shall determine the amount of the fine due based upon the earliest of the following:
+1.
+When the report is actually received by such officer.
+2.
+When the report is postmarked.
+3.
+When the certificate of mailing is dated.
+4.
+When the receipt from an established courier company is dated.
+5.
+When the electronic receipt issued pursuant to s. 106.0705 is dated.
+Such fine shall be paid to the filing officer within 20 days after receipt of the notice of payment due, unless appeal is made to the Florida Elections Commission pursuant to paragraph (c). An officer or member of an executive committee shall not be personally liable for such fine.
+(c)
+The chair of an executive committee or the leader of an affiliated party committee as defined in s. 103.092 may appeal or dispute the fine, based upon unusual circumstances surrounding the failure to file on the designated due date, and may request and shall be entitled to a hearing before the Florida Elections Commission, which shall have the authority to waive the fine in whole or in part. Any such request shall be made within 20 days after receipt of the notice of payment due. In such case, the chair of the executive committee or the leader of the affiliated party committee as defined in s. 103.092 shall, within the 20-day period, notify the filing officer in writing of his or her intention to bring the matter before the commission.
+(d)
+The appropriate filing officer shall notify the Florida Elections Commission of the repeated late filing by an executive committee or affiliated party committee, the failure of an executive committee or affiliated party committee to file a report after notice, or the failure to pay the fine imposed.
+(4)
+Any contribution received by a state or county executive committee or affiliated party committee less than 5 days before an election shall not be used or expended in behalf of any candidate, issue, affiliated party committee, or political party participating in such election.
+(5)
+No state or county executive committee or affiliated party committee, in the furtherance of any candidate or political party, directly or indirectly, shall give, pay, or expend any money, give or pay anything of value, authorize any expenditure, or become pecuniarily liable for any expenditure prohibited by this chapter. However, the contribution of funds by one executive committee to another or to established party organizations for legitimate party or campaign purposes is not prohibited, but all such contributions shall be recorded and accounted for in the reports of the contributor and recipient.
+(6)(a)
+The national, state, and county executive committees of a political party and affiliated party committees may not contribute to any candidate any amount in excess of the limits contained in s. 106.08(2), and all contributions required to be reported under s. 106.08(2) by the national executive committee of a political party shall be reported by the state executive committee of that political party.
+(b)
+A violation of the contribution limits contained in s. 106.08(2) is a misdemeanor of the first degree, punishable as provided in s. 775.082 or s. 775.083. A civil penalty equal to three times the amount in excess of the limits contained in s. 106.08(2) shall be assessed against any executive committee found in violation thereof.
+History.
+—
+s. 29, ch. 73-128; s. 14, ch. 74-200; s. 62, ch. 77-175; s. 65, ch. 79-400; ss. 14, 33, ch. 81-304; s. 1, ch. 82-46; s. 13, ch. 82-143; s. 2, ch. 83-265; s. 40, ch. 84-302; s. 23, ch. 89-256; s. 39, ch. 90-315; ss. 10, 14, ch. 90-338; ss. 8, 12, ch. 91-107; s. 3, ch. 95-140; s. 653, ch. 95-147; s. 8, ch. 97-13; ss. 23, 24, ch. 2004-252; s. 26, ch. 2005-286; s. 2, ch. 2005-360; ss. 26, 30, ch. 2011-6; s. 73, ch. 2011-40; HJR 7105, 2011 Regular Session.
+106.295
+Leadership fund.
+—
+(1)
+For purposes of this section:
+(a)
+“Leadership fund” means accounts comprised of any moneys contributed to a political party, directly or indirectly, which are designated to be used at the partial or total discretion of a leader.
+(b)
+“Leader” means the President of the Senate, the Speaker of the House of Representatives, the majority leader and the minority leader of each house, and any person designated by a political caucus of members of either house to succeed to any such position.
+(2)
+Leadership funds are prohibited in this state. No leader shall accept any leadership funds.
+(3)
+This section applies to leadership funds in existence on or after January 1, 1990.
+History.
+—
+s. 24, ch. 89-256.
+106.30
+Short title.
+—
+Sections 106.30-106.36 may be cited as the “Florida Election Campaign Financing Act.”
+History.
+—
+s. 1, ch. 86-276; ss. 1, 6, ch. 2024-116.
+106.31
+Legislative intent.
+—
+The Legislature finds that the costs of running an effective campaign for statewide office have reached a level which tends to discourage persons from becoming candidates and to limit the persons who run for such office to those who are independently wealthy, who are supported by political committees representing special interests which are able to generate substantial campaign contributions, or who must appeal to special interest groups for campaign contributions. The Legislature further finds that campaign contributions generated by such political committees are having a disproportionate impact vis-a-vis contributions from unaffiliated individuals, which leads to the misperception of government officials unduly influenced by those special interests to the detriment of the public interest. Furthermore, it is the intent of the Legislature that the purpose of public campaign financing is to make candidates more responsive to the voters of the State of Florida and as insulated as possible from special interest groups. The Legislature intends ss. 106.30-106.36 to alleviate these factors, dispel the misperception, and encourage qualified persons to seek statewide elective office who would not, or could not otherwise do so and to protect the effective competition by a candidate who uses public funding.
+History.
+—
+s. 1, ch. 86-276; s. 67, ch. 2001-40; ss. 1, 6, ch. 2024-116.
+106.32
+1
+Election Campaign Financing Trust Fund.
+—
+(1)
+There is hereby established in the State Treasury an
+1
+Election Campaign Financing Trust Fund to be utilized by the Department of State as provided in ss. 106.30-106.36. If necessary, each year in which a general election is to be held for the election of the Governor and Cabinet, additional funds shall be transferred to the
+1
+Election Campaign Financing Trust Fund from general revenue in an amount sufficient to fund qualifying candidates pursuant to the provisions of ss. 106.30-106.36.
+(2)
+Proceeds from filing fees pursuant to ss. 99.092, 99.093, and 105.031 shall be deposited into the
+1
+Election Campaign Financing Trust Fund as designated in those sections.
+(3)
+Proceeds from assessments pursuant to ss. 106.07 and 106.29 shall be deposited into the
+1
+Election Campaign Financing Trust Fund as designated in those sections.
+History.
+—
+s. 1, ch. 86-276; s. 19, ch. 91-107; s. 26, ch. 2013-37; ss. 1, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.33
+Election campaign financing; eligibility.
+—
+Each candidate for the office of Governor or member of the Cabinet who desires to receive contributions from the
+1
+Election Campaign Financing Trust Fund, upon qualifying for office, shall file a request for such contributions with the filing officer on forms provided by the Division of Elections. If a candidate requesting contributions from the fund desires to have such funds distributed by electronic fund transfers, the request shall include information necessary to implement that procedure. For the purposes of ss. 106.30-106.36, the respective candidates running for Governor and Lieutenant Governor on the same ticket shall be considered as a single candidate. To be eligible to receive contributions from the fund, a candidate may not be an unopposed candidate as defined in s. 106.011 and must:
+(1)
+Agree to abide by the expenditure limits provided in s. 106.34.
+(2)(a)
+Raise contributions as follows:
+1.
+One hundred fifty thousand dollars for a candidate for Governor.
+2.
+One hundred thousand dollars for a candidate for Cabinet office.
+(b)
+Contributions from individuals who at the time of contributing are not state residents may not be used to meet the threshold amounts in paragraph (a). For purposes of this paragraph, any person validly registered to vote in this state shall be considered a state resident.
+(3)
+Limit loans or contributions from the candidate’s personal funds to $25,000 and contributions from national, state, and county executive committees of a political party to $250,000 in the aggregate, which loans or contributions do not qualify for meeting the threshold amounts in subsection (2).
+(4)
+Submit to a postelection audit of the campaign account by the division.
+History.
+—
+s. 1, ch. 86-276; s. 40, ch. 90-315; s. 20, ch. 91-107; s. 68, ch. 2001-40; s. 47, ch. 2005-278; s. 27, ch. 2013-37; ss. 1, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.34
+Expenditure limits.
+—
+(1)
+Any candidate for Governor and Lieutenant Governor or Cabinet officer who requests contributions from the
+1
+Election Campaign Financing Trust Fund shall limit his or her total expenditures as follows:
+(a)
+Governor and Lieutenant Governor: $2.00 for each Florida-registered voter.
+(b)
+Cabinet officer: $1.00 for each Florida-registered voter.
+(2)
+The expenditure limit for any candidate with primary election opposition only shall be 60 percent of the limit provided in subsection (1).
+(3)
+For purposes of this section, “Florida-registered voter” means a voter who is registered to vote in Florida as of June 30 of each odd-numbered year. The Division of Elections shall certify the total number of Florida-registered voters no later than July 31 of each odd-numbered year. Such total number shall be calculated by adding the number of registered voters in each county as of June 30 in the year of the certification date.
+(4)
+For the purposes of this section, the term “expenditure” does not include the payment of compensation for legal and accounting services rendered on behalf of a candidate.
+History.
+—
+s. 1, ch. 86-276; s. 41, ch. 90-315; s. 21, ch. 91-107; s. 654, ch. 95-147; s. 48, ch. 2005-278; s. 7, ch. 2018-110; ss. 1, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.35
+Distribution of funds.
+—
+(1)
+The division shall review each request for contributions from the
+1
+Election Campaign Financing Trust Fund and certify whether the candidate is eligible for such contributions. Notice of the certification decision shall be provided to the candidate. An adverse decision may be appealed to the Florida Elections Commission. The division shall adopt rules providing a procedure for such appeals.
+(2)(a)
+Each candidate who has been certified to receive contributions from the
+1
+Election Campaign Financing Trust Fund shall be entitled to distribution of funds as follows:
+1.
+For qualifying matching contributions making up all or any portion of the threshold amounts specified in s. 106.33(2), distribution shall be on a two-to-one basis.
+2.
+For all other qualifying matching contributions, distribution shall be on a one-to-one basis.
+(b)
+Qualifying matching contributions are those of $250 or less from an individual, made after September 1 of the calendar year prior to the election. Any contribution received from an individual who is not a state resident at the time the contribution is made shall not be considered a qualifying matching contribution. For purposes of this paragraph, any person validly registered to vote in this state shall be considered a state resident. Aggregate contributions from an individual in excess of $250 will be matched only up to $250. A contribution from an individual, if made by check, must be drawn on the personal bank account of the individual making the contribution, as opposed to any form of business account, regardless of whether the business account is for a corporation, partnership, sole proprietorship, trust, or other form of business arrangement. For contributions made by check from a personal joint account, the match shall only be for the individual who actually signs the check.
+(3)(a)
+Certification and distribution of funds shall be based on contributions to the candidate reported to the division for such purpose. The division shall review each report and verify the amount of funds to be distributed prior to authorizing the release of funds. The division may prescribe separate reporting forms for candidates for Governor and Cabinet officer.
+(b)
+Notwithstanding the provisions of s. 106.11, a candidate who is eligible for a distribution of funds based upon qualifying matching contributions received and certified to the division on the report due on the 4th day prior to the election, may obligate funds not to exceed the amount which the campaign treasurer’s report shows the candidate is eligible to receive from the
+1
+Election Campaign Financing Trust Fund without the funds actually being on deposit in the campaign account.
+(4)
+Distribution of funds shall be made beginning on the 32nd day prior to the primary and every 7 days thereafter.
+(5)
+The division shall adopt rules providing for the weekly reports and certification and distribution of funds pursuant thereto required by this section. Such rules shall, at a minimum, provide specifications for electronically transmitted campaign treasurer’s reports outlining communication parameters and protocol, data record formats, and provisions for ensuring security of data and transmission.
+History.
+—
+s. 1, ch. 86-276; s. 25, ch. 89-256; s. 42, ch. 90-315; s. 22, ch. 91-107; s. 69, ch. 2001-40; s. 49, ch. 2007-30; s. 74, ch. 2011-40; ss. 1, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.353
+Candidates voluntarily abiding by election campaign financing limits but not requesting public funds; irrevocable statement required; penalty.
+—
+(1)
+Not later than qualifying for office, each candidate for the office of Governor or member of the Cabinet who has not made a request to receive contributions from the
+1
+Election Campaign Financing Trust Fund, but who wishes to voluntarily abide by the applicable expenditure limit set forth in s. 106.34 and the contribution limits on personal and party funds set forth in s. 106.33, shall file an irrevocable statement to that effect with the Secretary of State.
+(2)
+Any candidate who files such a statement and subsequently exceeds such limits shall pay to the
+1
+Election Campaign Financing Trust Fund an amount equal to the amount of the excess contributions or expenditures. Such penalty shall not be an allowable campaign expense and shall be paid from personal funds of the candidate. However, if a nonparticipating candidate exceeds the expenditure limit as described in s. 106.355, a candidate signing the statement pursuant to this section may exceed the applicable expenditure limit to the extent the nonparticipating candidate exceeded the limit without being subject to a penalty.
+History.
+—
+s. 23, ch. 91-107; ss. 1, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.355
+Nonparticipating candidate exceeding limits.
+—
+Whenever a candidate for the office of Governor or member of the Cabinet who has elected not to participate in election campaign financing under the provisions of ss. 106.30-106.36 exceeds the applicable expenditure limit provided in s. 106.34, all opposing candidates participating in such election campaign financing are, notwithstanding the provisions of s. 106.33 or any other provision requiring adherence to such limit, released from such expenditure limit to the extent the nonparticipating candidate exceeded the limit, are still eligible for matching contributions up to such limit, and shall not be required to reimburse any matching funds provided pursuant thereto. In addition, the Department of State shall, within 7 days after a request by a participating candidate, provide such candidate with funds from the
+1
+Election Campaign Financing Trust Fund equal to the amount by which the nonparticipating candidate exceeded the expenditure limit, not to exceed twice the amount of the maximum expenditure limits specified in s. 106.34(1)(a) and (b), which funds shall not be considered matching funds.
+History.
+—
+s. 24, ch. 91-107; ss. 1, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+106.36
+Penalties; fines.
+—
+In addition to any other penalties which may be applicable under the election code, any candidate who receives contributions from the
+1
+Election Campaign Financing Trust Fund and who exceeds the applicable expenditure limit, except as authorized in ss. 106.353 and 106.355, or falsely reports qualifying matching contributions and thereby receives contributions from the
+1
+Election Campaign Financing Trust Fund to which the candidate was not entitled shall be fined an amount equal to three times the amount at issue, which shall be deposited in the
+1
+Election Campaign Financing Trust Fund.
+History.
+—
+s. 1, ch. 86-276; s. 11, ch. 90-338; s. 25, ch. 91-107; s. 655, ch. 95-147; ss. 1, 6, ch. 2024-116.
+1
+Note.
+—
+The trust fund expired, effective November 4, 1996, by operation of s. 19(f), Art. III of the State Constitution.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us
+
+## Florida § 0107
+
+*Citation: Florida Statutes, Title IX — Electors and Elections (chapters 97-107), § 0107. Last changed: 2026-08-06. Source: http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0107/0107.html*
+
+Skip to Menu
+|
+Skip to Main Content
+Home
+Senate
+House
+Citator
+Statutes, Constitution,
+& Laws of Florida
+Florida Statutes
+Search & Browse Download
+Search Statutes
+Search Tips
+Florida Constitution
+Laws of Florida
+Legislative & Executive Branch Lobbyists
+Information Center
+Joint Legislative Committees &
+Other Entities
+Joint Administrative Procedures Committee (JAPC)
+Joint Committee on Public Counsel Oversight(JCPO)
+Joint Legislative Auditing Committee (JLAC)
+Joint Legislative Budget Commission (JLBC)
+Joint Select Committee on Collective Bargaining (JSCB)
+Office of Program Policy Analysis & Government Accountability (OPPAGA)
+Auditor General
+Commission on Ethics
+Economic and Demographic Research (EDR)
+Florida Historic Capitol
+Florida Government Efficiency Task Force
+Legislative Employment
+Legistore
+Links
+The Florida Statutes
+The 2025 Florida Statutes
+Title IX
+ELECTORS AND ELECTIONS
+Chapter 107
+CONVENTIONS TO CONSIDER PROPOSED AMENDMENTS TO UNITED STATES CONSTITUTION
+View Entire Chapter
+CHAPTER 107
+CHAPTER 107
+CONVENTIONS TO CONSIDER PROPOSED AMENDMENTS TO
+UNITED STATES CONSTITUTION
+107.01
+Conventions constituted.
+107.02
+Delegates.
+107.03
+Election of delegates.
+107.04
+Candidates file application; fee and petition for name on official ballot.
+107.05
+Official ballots.
+107.06
+Clerks and inspectors; compensation fixed.
+107.07
+Canvass of returns.
+107.08
+Convention time and place.
+107.09
+Convention powers; quorum; compensation.
+107.10
+Certification of convention action.
+107.11
+Appropriation for expenses.
+107.01
+Conventions constituted.
+—
+Whenever the Congress shall propose, to conventions in the several states, an amendment to the Constitution of the United States, for ratification or rejection, and shall not have provided the manner in which such conventions shall be constituted, the conventions in this state shall be chosen and constituted in the manner in this chapter prescribed and shall function in accordance with this chapter.
+History.
+—
+s. 1, ch. 16180, 1933; CGL 1936 Supp. 319(1).
+107.02
+Delegates.
+—
+Conventions shall consist of 67 delegates from the state at large. Each delegate shall possess the qualifications of a member of the House of Representatives of the Legislature of this state; and each shall hold office from the date of his or her election and until the convention shall have discharged the duties for which it was selected.
+History.
+—
+s. 2, ch. 16180, 1933; CGL 1936 Supp. 319(2); s. 656, ch. 95-147.
+107.03
+Election of delegates.
+—
+(1)
+The delegates composing the convention shall be elected at a special election which shall be held in each county of this state on a date to be fixed by the Governor, not less than 5 months and not more than 10 months after the date of the proposal by the Congress. The Governor shall issue his or her call for such election at least 45 days prior to the date thereof, which, as soon as issued, shall be published by the Department of State at least one time, in a newspaper of general circulation in each county. Such election shall be conducted, except as herein specified, in all respects in the manner and form prescribed by the laws of this state for holding general elections.
+(2)
+All electors who were duly qualified to vote in the last preceding general election shall be qualified to vote in such special election without further registration. The registration books in each county shall be opened 10 days after the Governor shall issue his or her call and shall remain open, in each county, until and including the 10th day before the election, during which time all persons who have not been registered, though entitled to be, or who shall have become entitled to registration since the last general election, shall be permitted to register. During the time in which the registration books are required to be kept open by this section, any registered voter shall be permitted to qualify to vote in such election.
+(3)
+Provided, that if any general election be held in this state within 1 year after the date of the proposal by the Congress, such delegates shall be chosen at such general election and all electors qualified to vote in such general election shall be qualified to vote for such delegates, unless the Governor, by proclamation, shall require such delegates to be chosen at a special election, in which event they shall be elected as herein provided.
+History.
+—
+s. 3, ch. 16180, 1933; CGL 1936 Supp. 319(3); ss. 10, 35, ch. 69-106; s. 657, ch. 95-147.
+107.04
+Candidates file application; fee and petition for name on official ballot.
+—
+(1)
+Any person desiring to become a candidate for election as a delegate to said convention shall file a sworn application with the Department of State on such form as that department shall prescribe, not less than 20 days before the date of election, in which shall be stated the person’s name in full, residence, age, color, and occupation. Such application shall also state, under oath, that the applicant is a citizen of the United States and of the state and is a qualified elector of the county in which he or she resides. The applicant may also state whether or not he or she favors the ratification of the proposed amendment or opposes it and whether or not he or she desires his or her name to appear upon the ballot as favoring or opposing such amendment or as unpledged.
+(2)
+If the applicant shall request that his or her name appear on the ballot as favoring or as opposing the amendment, his or her application shall be accompanied by a qualification fee of $25 and by one or more petitions, requesting that his or her name be placed upon the official ballot, and signed by not fewer than 500 qualified electors. It shall be permissible for any number of qualified voters to join in one or more petitions requesting the placing on the official ballot of the names of more than one candidate but not exceeding the total number to be elected. Any applicant may withdraw his or her name at any time before the ballots are actually printed.
+History.
+—
+s. 4, ch. 16180, 1933; CGL 1936 Supp. 319(4); ss. 10, 35, ch. 69-106; s. 658, ch. 95-147.
+107.05
+Official ballots.
+—
+The ballots shall be prepared by the Department of State and distributed by it to the county commissioners in the several counties at least 10 days prior to such election. They shall contain the substance of the proposed amendment and in alphabetical order:
+(1)
+The names of all candidates who shall have declared in favor of the ratification of such amendment;
+(2)
+The names of all candidates who shall have declared against the ratification of such amendment; and
+(3)
+The names of all candidates who shall have qualified without pledging themselves either for or against the amendment.
+When delegates are elected at general elections as provided in s. 107.03, such matters shall be printed on the general election ballots. In either event, in addition to the names of unpledged candidates printed on said ballots and whether there be any such names on said ballots or not, there shall be provided, under subsection (3) blank lines in equal number to the number of persons who may be elected as such delegates.
+History.
+—
+s. 5, ch. 16180, 1933; CGL 1936 Supp. 319(5); ss. 10, 35, ch. 69-106.
+107.06
+Clerks and inspectors; compensation fixed.
+—
+The board of county commissioners of each county shall appoint clerks and inspectors of election for such special election in accordance with the general election laws, except that such appointments may be made at any time more than 5 days prior to the election; whereupon they shall publish the names of such inspectors and clerks in a newspaper printed in the county. The clerks and inspectors of election shall receive compensation at the rate of $5 per diem for each day actually and necessarily served in performing their duties as such. Such compensation, together with other lawful expenses incurred by the several boards of county commissioners, shall be paid as provided in s. 107.11, after the several boards of county commissioners shall have certified the same to the Elections Canvassing Commission and such accounts shall have been approved by such Elections Canvassing Commission.
+History.
+—
+s. 6, ch. 16180, 1933; CGL 1936 Supp. 319(6); ss. 10, 35, ch. 69-106.
+107.07
+Canvass of returns.
+—
+Within 3 days after the date of the special elections the county commissioners shall meet and canvass the returns thereof in their respective counties and transmit the same to the Department of State. Within 14 days after the date of the special elections the Elections Canvassing Commission shall meet and canvass such returns. The commission shall thereupon declare the 67 candidates who receive the greatest number of votes in the state at large to have been elected as delegates to the convention, and shall immediately issue a certificate of election to each of such persons. In case of a tie the commission shall select the delegates from those receiving the tie votes.
+History.
+—
+s. 7, ch. 16180, 1933; CGL 1936 Supp. 319(7); ss. 10, 35, ch. 69-106.
+107.08
+Convention time and place.
+—
+The delegates to the convention shall meet in such place as shall be provided for that purpose by the Department of State, at the state capitol at Tallahassee on the second Tuesday in the month following their election, at 12 noon. They shall thereupon constitute a convention to ratify or reject the proposed amendment to the Constitution of the United States.
+History.
+—
+s. 8, ch. 16180, 1933; CGL 1936 Supp. 319(8); ss. 10, 35, ch. 69-106.
+107.09
+Convention powers; quorum; compensation.
+—
+(1)
+The convention shall have power to ratify or reject the proposed amendment to the Constitution of the United States for which it shall have been selected; to choose a president and a secretary and all other necessary officers, clerks and attaches to fill vacancies in its membership; and to make rules governing its procedure. It shall be the sole judge of the election and qualifications of its members. A majority of the total number of delegates elected to the convention shall constitute a quorum.
+(2)
+The delegates to such convention shall serve without compensation or expenses; but the secretary and other officers, clerks and attaches shall receive such compensation as may be fixed by the convention.
+(3)
+The convention shall have no other power than that hereby expressly conferred or necessarily incident to the purpose of its creation; any other action attempted to be taken by it shall be utterly null, void, and of no effect.
+History.
+—
+s. 9, ch. 16180, 1933; CGL 1936 Supp. 319(9); s. 28, ch. 77-104.
+107.10
+Certification of convention action.
+—
+When the convention shall have agreed, by “yea” and “nay” vote of a majority of the total number of delegates elected, to the ratification or rejection of the proposed amendment to the Constitution of the United States, a certificate to that effect shall be executed by its president and secretary and filed with the Department of State of Florida. A copy of the minutes of its proceedings, likewise signed by such officials, shall also be filed with the Department of State. The Department of State of Florida, after the filing of such certificate, shall transmit a copy thereof, certified under the Great Seal of Florida, to the Secretary of State of the United States.
+History.
+—
+s. 10, ch. 16180, 1933; CGL 1936 Supp. 319(10); ss. 10, 35, ch. 69-106.
+107.11
+Appropriation for expenses.
+—
+For the purpose of defraying the expenses of preparing for, conducting, holding, and declaring the result of the election provided for by this chapter and also for the purpose of defraying the expenses allowed by this chapter for the holding of sessions of the convention as herein provided, to be audited by the Chief Financial Officer, there is appropriated out of the General Revenue Fund of the State of Florida a sufficient sum of money for the payment of all amounts necessary to be expended under the terms of this chapter, which sums of money shall be disbursed by the State of Florida pursuant to warrants drawn by the Chief Financial Officer for the payment of same.
+History.
+—
+s. 11, ch. 16180, 1933; CGL 1936 Supp. 319(11); s. 111, ch. 2003-261.
+Copyright © 1995-2026 The Florida Legislature •
+Privacy Statement
+•
+Contact Us

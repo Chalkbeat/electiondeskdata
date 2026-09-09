@@ -1,0 +1,51 @@
+# Voting Rights Act — Section 203 — 52 U.S.C. § 10503
+
+- **Category:** Core federal voting law
+- **Authority type:** Statute
+- **Citation:** 52 U.S.C. § 10503
+- **What it is:** Requires covered jurisdictions to provide certain voting materials and assistance in specified minority languages.
+- **Why useful for reporters / RAG:** Language-minority ballots, translations, bilingual poll workers, Census coverage determinations.
+
+Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10503&num=0&edition=prelim (fetched 2026-08-26)
+Statute text from the Office of the Law Revision Counsel's current (prelim) US Code edition; editorial notes omitted.
+
+---
+
+## Full text
+
+§10503. Bilingual election requirements
+
+
+(a) Congressional findings and declaration of policy
+
+The Congress finds that, through the use of various practices and procedures, citizens of language minorities have been effectively excluded from participation in the electoral process. Among other factors, the denial of the right to vote of such minority group citizens is ordinarily directly related to the unequal educational opportunities afforded them resulting in high illiteracy and low voting participation. The Congress declares that, in order to enforce the guarantees of the fourteenth and fifteenth amendments to the United States Constitution, it is necessary to eliminate such discrimination by prohibiting these practices, and by prescribing other remedial devices.
+
+(b) Bilingual voting materials requirement
+
+Before August 6, 2032, no covered State or political subdivision shall provide voting materials only in the English language.
+A State or political subdivision is a covered State or political subdivision for the purposes of this subsection if the Director of the Census determines, based on the 2010 American Community Survey census data and subsequent American Community Survey data in 5-year increments, or comparable census data, that-
+(i)(I) more than 5 percent of the citizens of voting age of such State or political subdivision are members of a single language minority and are limited-English proficient;
+(II) more than 10,000 of the citizens of voting age of such political subdivision are members of a single language minority and are limited-English proficient; or
+(III) in the case of a political subdivision that contains all or any part of an Indian reservation, more than 5 percent of the American Indian or Alaska Native citizens of voting age within the Indian reservation are members of a single language minority and are limited-English proficient; and
+(ii) the illiteracy rate of the citizens in the language minority as a group is higher than the national illiteracy rate.
+The prohibitions of this subsection do not apply in any political subdivision that has less than 5 percent voting age limited-English proficient citizens of each language minority which comprises over 5 percent of the statewide limited-English proficient population of voting age citizens, unless the political subdivision is a covered political subdivision independently from its State.
+As used in this section-
+(A) the term "voting materials" means registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots;
+(B) the term "limited-English proficient" means unable to speak or understand English adequately enough to participate in the electoral process;
+(C) the term "Indian reservation" means any area that is an American Indian or Alaska Native area, as defined by the Census Bureau for the purposes of the 1990 decennial census;
+(D) the term "citizens" means citizens of the United States; and
+(E) the term "illiteracy" means the failure to complete the 5th primary grade.
+The determinations of the Director of the Census under this subsection shall be effective upon publication in the Federal Register and shall not be subject to review in any court.
+
+(c) Requirement of voting notices, forms, instructions, assistance, or other materials and ballots in minority language
+
+Whenever any State or political subdivision subject to the prohibition of subsection (b) of this section provides any registration or voting notices, forms, instructions, assistance, or other materials or information relating to the electoral process, including ballots, it shall provide them in the language of the applicable minority group as well as in the English language: Provided , That where the language of the applicable minority group is oral or unwritten or in the case of Alaskan natives and American Indians, if the predominant language is historically unwritten, the State or political subdivision is only required to furnish oral instructions, assistance, or other information relating to registration and voting.
+
+(d) Action for declaratory judgment permitting English-only materials
+
+Any State or political subdivision subject to the prohibition of subsection (b) of this section, which seeks to provide English-only registration or voting materials or information, including ballots, may file an action against the United States in the United States District Court for a declaratory judgment permitting such provision. The court shall grant the requested relief if it determines that the illiteracy rate of the applicable language minority group within the State or political subdivision is equal to or less than the national illiteracy rate.
+
+(e) Definitions
+
+For purposes of this section, the term "language minorities" or "language minority group" means persons who are American Indian, Asian American, Alaskan Natives, or of Spanish heritage.
+( Pub. L. 89–110, title II, §203, as added Pub. L. 94–73, title III, §301, Aug. 6, 1975, 89 Stat. 402 ; amended Pub. L. 97–205, §§2(d), 4, June 29, 1982, 96 Stat. 134 ; Pub. L. 102–344, §2, Aug. 26, 1992, 106 Stat. 921 ; Pub. L. 109–246, §§7, 8, July 27, 2006, 120 Stat. 581 .)

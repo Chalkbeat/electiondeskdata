@@ -1,0 +1,151 @@
+# Federal election law sources — index
+
+Compiled from 'AI Search Tool inputs.xlsx' on 2026-08-26. 142 source documents (federal court cases, statutes, constitutional provisions, regulations, and agency guidance) for the VB Election Desk ClearFeed knowledge base.
+
+## Federal court cases
+
+- **Anderson v. Celebrezze** (460 U.S. 780 (1983)) — `federal-case-anderson-v-celebrezze.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-460/USREPORTS-460-780
+- **Burdick v. Takushi** (504 U.S. 428 (1992)) — `federal-case-burdick-v-takushi.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-504/USREPORTS-504-428
+- **Crawford v. Marion County Election Board** (553 U.S. 181 (2008)) — `federal-case-crawford-v-marion-county-election-board.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-553/USREPORTS-553-181
+- **Norman v. Reed** (502 U.S. 279 (1992)) — `federal-case-norman-v-reed.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-502/USREPORTS-502-279
+- **Timmons v. Twin Cities Area New Party** (520 U.S. 351 (1997)) — `federal-case-timmons-v-twin-cities-area-new-party.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-520/USREPORTS-520-351
+- **Clingman v. Beaver** (544 U.S. 581 (2005)) — `federal-case-clingman-v-beaver.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-544/USREPORTS-544-581
+- **Washington State Grange v. Washington State Republican Party** (552 U.S. 442 (2008)) — `federal-case-washington-state-grange-v-washington-state-republican-party.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-552/USREPORTS-552-442
+- **Purcell v. Gonzalez** (549 U.S. 1 (2006)) — `federal-case-purcell-v-gonzalez.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-549/USREPORTS-549-1
+- **Republican National Committee v. Democratic National Committee** (589 U.S. 423 (2020)) — `federal-case-republican-national-committee-v-democratic-national-committee.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-589/USREPORTS-589-423
+- **Bush v. Gore** (531 U.S. 98 (2000)) — `federal-case-bush-v-gore.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-531/USREPORTS-531-98
+- **Moore v. Harper** (600 U.S. 1 (2023)) — `federal-case-moore-v-harper.md` [OK] — https://www.supremecourt.gov/opinions/22pdf/21-1271_3f14.pdf
+- **Arizona State Legislature v. Arizona Independent Redistricting Commission** (576 U.S. 787 (2015)) — `federal-case-arizona-state-legislature-v-arizona-independent-redistricting-commissi.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-576/USREPORTS-576-787
+- **Smiley v. Holm** (285 U.S. 355 (1932)) — `federal-case-smiley-v-holm.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-285/USREPORTS-285-355
+- **Ohio ex rel. Davis v. Hildebrant** (241 U.S. 565 (1916)) — `federal-case-ohio-ex-rel-davis-v-hildebrant.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-241/USREPORTS-241-565
+- **Foster v. Love** (522 U.S. 67 (1997)) — `federal-case-foster-v-love.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-522/USREPORTS-522-67
+- **Brnovich v. Democratic National Committee** (594 U.S. 647 (2021)) — `federal-case-brnovich-v-democratic-national-committee.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-594/USREPORTS-594-647
+- **Thornburg v. Gingles** (478 U.S. 30 (1986)) — `federal-case-thornburg-v-gingles.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-478/USREPORTS-478-30
+- **Allen v. Milligan** (599 U.S. 1 (2023)) — `federal-case-allen-v-milligan.md` [OK] — https://www.supremecourt.gov/opinions/22pdf/21-1086_1co6.pdf
+- **League of United Latin American Citizens v. Perry** (548 U.S. 399 (2006)) — `federal-case-league-of-united-latin-american-citizens-v-perry.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-548/USREPORTS-548-399
+- **Bartlett v. Strickland** (556 U.S. 1 (2009)) — `federal-case-bartlett-v-strickland.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-556/USREPORTS-556-1
+- **Cooper v. Harris** (581 U.S. 285 (2017)) — `federal-case-cooper-v-harris.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-581/USREPORTS-581-285
+- **Bethune-Hill v. Virginia State Board of Elections** (580 U.S. 178 (2017)) — `federal-case-bethune-hill-v-virginia-state-board-of-elections.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-580/USREPORTS-580-178
+- **Shaw v. Reno** (509 U.S. 630 (1993)) — `federal-case-shaw-v-reno.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-509/USREPORTS-509-630
+- **South Carolina v. Katzenbach** (383 U.S. 301 (1966)) — `federal-case-south-carolina-v-katzenbach.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-383/USREPORTS-383-301
+- **Shelby County v. Holder** (570 U.S. 529 (2013)) — `federal-case-shelby-county-v-holder.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-570/USREPORTS-570-529
+- **Allen v. State Board of Elections** (393 U.S. 544 (1969)) — `federal-case-allen-v-state-board-of-elections.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-393/USREPORTS-393-544
+- **Morse v. Republican Party of Virginia** (517 U.S. 186 (1996)) — `federal-case-morse-v-republican-party-of-virginia.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-517/USREPORTS-517-186
+- **Arizona v. Inter Tribal Council of Arizona** (570 U.S. 1 (2013)) — `federal-case-arizona-v-inter-tribal-council-of-arizona.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-570/USREPORTS-570-1
+- **Husted v. A. Philip Randolph Institute** (584 U.S. 756 (2018)) — `federal-case-husted-v-a-philip-randolph-institute.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-584/USREPORTS-584-756
+- **Young v. Fordice** (520 U.S. 273 (1997)) — `federal-case-young-v-fordice.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-520/USREPORTS-520-273
+- **U.S. Term Limits, Inc. v. Thornton** (514 U.S. 779 (1995)) — `federal-case-u-s-term-limits-inc-v-thornton.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-514/USREPORTS-514-779
+- **Powell v. McCormack** (395 U.S. 486 (1969)) — `federal-case-powell-v-mccormack.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-395/USREPORTS-395-486
+- **Trump v. Anderson** (601 U.S. 100 (2024)) — `federal-case-trump-v-anderson.md` [OK] — https://www.supremecourt.gov/opinions/23pdf/23-719_19m2.pdf
+- **Baker v. Carr** (369 U.S. 186 (1962)) — `federal-case-baker-v-carr.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-369/USREPORTS-369-186
+- **Reynolds v. Sims** (377 U.S. 533 (1964)) — `federal-case-reynolds-v-sims.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-377/USREPORTS-377-533
+- **Wesberry v. Sanders** (376 U.S. 1 (1964)) — `federal-case-wesberry-v-sanders.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-376/USREPORTS-376-1
+- **Evenwel v. Abbott** (578 U.S. 54 (2016)) — `federal-case-evenwel-v-abbott.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-578/USREPORTS-578-54
+- **Rucho v. Common Cause** (588 U.S. 684 (2019)) — `federal-case-rucho-v-common-cause.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-588/USREPORTS-588-684
+- **Gill v. Whitford** (585 U.S. 48 (2018)) — `federal-case-gill-v-whitford.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-585/USREPORTS-585-48
+- **Abbott v. Perez** (585 U.S. 579 (2018)) — `federal-case-abbott-v-perez.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-585/USREPORTS-585-579
+- **Sandusky County Democratic Party v. Blackwell** (387 F.3d 565 (6th Cir. 2004)) — `federal-case-sandusky-county-democratic-party-v-blackwell.md` [OK] — https://www.opn.ca6.uscourts.gov/opinions.pdf/04a0364p-06.pdf
+- **Hunter v. Hamilton County Board of Elections** (635 F.3d 219 (6th Cir. 2011)) — `federal-case-hunter-v-hamilton-county-board-of-elections.md` [OK] — https://www.opn.ca6.uscourts.gov/opinions.pdf/11a0052p-06.pdf
+- **League of Women Voters of Ohio v. Brunner** (548 F.3d 463 (6th Cir. 2008)) — `federal-case-league-of-women-voters-of-ohio-v-brunner.md` [OK] — https://www.opn.ca6.uscourts.gov/opinions.pdf/08a0441p-06.pdf
+- **OCA-Greater Houston v. Texas** (867 F.3d 604 (5th Cir. 2017)) — `federal-case-oca-greater-houston-v-texas.md` [OK] — https://www.ca5.uscourts.gov/opinions/pub/16/16-50793-CV0.pdf
+- **Veasey v. Abbott** (830 F.3d 216 (5th Cir. 2016) (en banc)) — `federal-case-veasey-v-abbott.md` [OK] — https://www.ca5.uscourts.gov/opinions/pub/14/14-41127-CV2.pdf
+- **North Carolina State Conference of the NAACP v. McCrory** (831 F.3d 204 (4th Cir. 2016)) — `federal-case-north-carolina-state-conference-of-the-naacp-v-mccrory.md` [OK] — https://www.ca4.uscourts.gov/opinions/161468.P.pdf
+- **Greater Birmingham Ministries v. Secretary of State** (992 F.3d 1299 (11th Cir. 2021)) — `federal-case-greater-birmingham-ministries-v-secretary-of-state.md` [OK] — https://media.ca11.uscourts.gov/opinions/pub/files/201911719.pdf
+- **Citizens United v. Federal Election Commission** (558 U.S. 310 (2010)) — `federal-case-citizens-united-v-federal-election-commission.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-558/USREPORTS-558-310
+- **McCutcheon v. Federal Election Commission** (572 U.S. 185 (2014)) — `federal-case-mccutcheon-v-federal-election-commission.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-572/USREPORTS-572-185
+- **Buckley v. Valeo** (424 U.S. 1 (1976)) — `federal-case-buckley-v-valeo.md` [OK] — https://www.govinfo.gov/app/details/USREPORTS-424/USREPORTS-424-1
+
+## Federal laws, regulations, and guidance
+
+- **Voting Rights Act of 1965 — Section 2** (52 U.S.C. § 10301) — `federal-law-voting-rights-act-of-1965-section-2.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10301&num=0&edition=prelim
+- **Voting Rights Act — Section 3 / bail-in** (52 U.S.C. § 10302) — `federal-law-voting-rights-act-section-3-bail-in.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10302&num=0&edition=prelim
+- **Voting Rights Act — Section 4(e)** (52 U.S.C. § 10303(e)) — `federal-law-voting-rights-act-section-4-e.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10303&num=0&edition=prelim
+- **Voting Rights Act — Section 5** (52 U.S.C. § 10304) — `federal-law-voting-rights-act-section-5.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10304&num=0&edition=prelim
+- **Voting Rights Act — Section 11** (52 U.S.C. § 10307) — `federal-law-voting-rights-act-section-11.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10307&num=0&edition=prelim
+- **Voting Rights Act — Section 203** (52 U.S.C. § 10503) — `federal-law-voting-rights-act-section-203.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10503&num=0&edition=prelim
+- **Voting Rights Act — Section 208** (52 U.S.C. § 10508) — `federal-law-voting-rights-act-section-208.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10508&num=0&edition=prelim
+- **Civil Rights Act voting provisions / materiality provision** (52 U.S.C. § 10101) — `federal-law-civil-rights-act-voting-provisions-materiality-provision.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10101&num=0&edition=prelim
+- **National Voter Registration Act — purposes and definitions** (52 U.S.C. §§ 20501–20502) — `federal-law-national-voter-registration-act-purposes-and-definitions.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title52/subtitle2/chapter205&edition=prelim
+- **NVRA — simultaneous application for voter registration and driver's license** (52 U.S.C. § 20504) — `federal-law-nvra-simultaneous-application-for-voter-registration-and-drivers-licen.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20504&num=0&edition=prelim
+- **NVRA — voter-registration administration and list maintenance** (52 U.S.C. § 20507) — `federal-law-nvra-voter-registration-administration-and-list-maintenance.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20507&num=0&edition=prelim
+- **Help America Vote Act — voting system standards** (52 U.S.C. § 21081) — `federal-law-help-america-vote-act-voting-system-standards.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section21081&num=0&edition=prelim
+- **HAVA — provisional voting and voting information** (52 U.S.C. § 21082) — `federal-law-hava-provisional-voting-and-voting-information.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section21082&num=0&edition=prelim
+- **HAVA — computerized statewide voter registration lists** (52 U.S.C. § 21083) — `federal-law-hava-computerized-statewide-voter-registration-lists.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section21083&num=0&edition=prelim
+- **HAVA — administrative complaint procedure** (52 U.S.C. § 21112) — `federal-law-hava-administrative-complaint-procedure.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section21112&num=0&edition=prelim
+- **Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)** (52 U.S.C. §§ 20301–20311) — `federal-law-uniformed-and-overseas-citizens-absentee-voting-act-uocava.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title52/subtitle2/chapter203&edition=prelim
+- **MOVE Act amendments to UOCAVA** (52 U.S.C. § 20302 and related provisions) — `federal-law-move-act-amendments-to-uocava.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20302&num=0&edition=prelim
+- **Voting Accessibility for the Elderly and Handicapped Act** (52 U.S.C. §§ 20101–20107) — `federal-law-voting-accessibility-for-the-elderly-and-handicapped-act.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title52/subtitle2/chapter201&edition=prelim
+- **Americans with Disabilities Act — Title II** (42 U.S.C. §§ 12131–12165) — `federal-law-americans-with-disabilities-act-title-ii.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter126/subchapterII&edition=prelim
+- **Rehabilitation Act — Section 504** (29 U.S.C. § 794) — `federal-law-rehabilitation-act-section-504.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim
+- **Federal election-record retention law** (52 U.S.C. §§ 20701–20706) — `federal-law-federal-election-record-retention-law.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title52/subtitle2/chapter207&edition=prelim
+- **House election date** (2 U.S.C. § 7) — `federal-law-house-election-date.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section7&num=0&edition=prelim
+- **Senate election timing** (2 U.S.C. § 1) — `federal-law-senate-election-timing.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1&num=0&edition=prelim
+- **Time of appointing presidential electors** (3 U.S.C. § 1) — `federal-law-time-of-appointing-presidential-electors.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section1&num=0&edition=prelim
+- **Number of presidential electors** (3 U.S.C. § 3) — `federal-law-number-of-presidential-electors.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section3&num=0&edition=prelim
+- **Certificates of ascertainment and elector appointment** (3 U.S.C. §§ 5–7) — `federal-law-certificates-of-ascertainment-and-elector-appointment.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title3/chapter1&edition=prelim
+- **Presidential Succession Act** (3 U.S.C. § 19) — `federal-law-presidential-succession-act.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section19&num=0&edition=prelim
+- **Continuity in Representation Act / extraordinary House vacancies** (2 U.S.C. § 8(b)) — `federal-law-continuity-in-representation-act-extraordinary-house-vacancies.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section8&num=0&edition=prelim
+- **Troops at polls** (18 U.S.C. § 592) — `federal-law-troops-at-polls.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section592&num=0&edition=prelim
+- **Interference by armed forces** (18 U.S.C. § 593) — `federal-law-interference-by-armed-forces.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section593&num=0&edition=prelim
+- **Intimidation of voters** (18 U.S.C. § 594) — `federal-law-intimidation-of-voters.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section594&num=0&edition=prelim
+- **Interference by administrative employees** (18 U.S.C. § 595) — `federal-law-interference-by-administrative-employees.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section595&num=0&edition=prelim
+- **Polling armed forces / federal employee election restrictions** (18 U.S.C. § 596) — `federal-law-polling-armed-forces-federal-employee-election-restrictions.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section596&num=0&edition=prelim
+- **Expenditures to influence voting** (18 U.S.C. § 597) — `federal-law-expenditures-to-influence-voting.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section597&num=0&edition=prelim
+- **Coercion involving relief appropriations** (18 U.S.C. § 598) — `federal-law-coercion-involving-relief-appropriations.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section598&num=0&edition=prelim
+- **Promise of appointment by candidate** (18 U.S.C. § 599) — `federal-law-promise-of-appointment-by-candidate.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section599&num=0&edition=prelim
+- **Promise of employment or benefit for political activity** (18 U.S.C. § 600) — `federal-law-promise-of-employment-or-benefit-for-political-activity.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section600&num=0&edition=prelim
+- **Deprivation of employment or benefit for political contribution** (18 U.S.C. § 601) — `federal-law-deprivation-of-employment-or-benefit-for-political-contribution.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section601&num=0&edition=prelim
+- **Solicitation of political contributions** (18 U.S.C. §§ 602–603) — `federal-law-solicitation-of-political-contributions.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title18/part1/chapter29&edition=prelim
+- **UOCAVA-related election fraud offenses** (18 U.S.C. § 608) — `federal-law-uocava-related-election-fraud-offenses.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section608&num=0&edition=prelim
+- **Use of military authority to influence vote** (18 U.S.C. § 609) — `federal-law-use-of-military-authority-to-influence-vote.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section609&num=0&edition=prelim
+- **Coercion of political activity** (18 U.S.C. § 610) — `federal-law-coercion-of-political-activity.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section610&num=0&edition=prelim
+- **Voting by aliens** (18 U.S.C. § 611) — `federal-law-voting-by-aliens.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section611&num=0&edition=prelim
+- **Conspiracy against rights** (18 U.S.C. § 241) — `federal-law-conspiracy-against-rights.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section241&num=0&edition=prelim
+- **Deprivation of rights under color of law** (18 U.S.C. § 242) — `federal-law-deprivation-of-rights-under-color-of-law.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section242&num=0&edition=prelim
+- **Federally protected activities — voting** (18 U.S.C. § 245(b)(1)(A)) — `federal-law-federally-protected-activities-voting.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section245&num=0&edition=prelim
+- **False claim of citizenship to register or vote** (18 U.S.C. § 1015(f)) — `federal-law-false-claim-of-citizenship-to-register-or-vote.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1015&num=0&edition=prelim
+- **False representation of U.S. citizenship** (18 U.S.C. § 911) — `federal-law-false-representation-of-u-s-citizenship.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section911&num=0&edition=prelim
+- **Immigration consequences — unlawful voting** (8 U.S.C. § 1227(a)(6)) — `federal-law-immigration-consequences-unlawful-voting.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1227&num=0&edition=prelim
+- **Inadmissibility — unlawful voting** (8 U.S.C. § 1182(a)(10)(D)) — `federal-law-inadmissibility-unlawful-voting.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182&num=0&edition=prelim
+- **Reapportionment of Representatives** (2 U.S.C. § 2a) — `federal-law-reapportionment-of-representatives.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2a&num=0&edition=prelim
+- **Single-member congressional districts** (2 U.S.C. § 2c) — `federal-law-single-member-congressional-districts.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2c&num=0&edition=prelim
+- **Decennial census and apportionment population** (13 U.S.C. § 141) — `federal-law-decennial-census-and-apportionment-population.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title13-section141&num=0&edition=prelim
+- **Hatch Act** (5 U.S.C. §§ 7321–7326) — `federal-law-hatch-act.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title5/partIII/subpartF/chapter73/subchapterIII&edition=prelim
+- **Anti-Lobbying Act** (18 U.S.C. § 1913) — `federal-law-anti-lobbying-act.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1913&num=0&edition=prelim
+- **Federal Election Campaign Act — definitions and regulatory framework** (52 U.S.C. §§ 30101 et seq.) — `federal-law-federal-election-campaign-act-definitions-and-regulatory-framework.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title52/subtitleIII/chapter301&edition=prelim
+- **Foreign-national contribution and expenditure prohibition** (52 U.S.C. § 30121) — `federal-law-foreign-national-contribution-and-expenditure-prohibition.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30121&num=0&edition=prelim
+- **Presidential Election Campaign Fund Act** (26 U.S.C. §§ 9001–9013) — `federal-law-presidential-election-campaign-fund-act.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title26/subtitleH/chapter95&edition=prelim
+- **Presidential Primary Matching Payment Account Act** (26 U.S.C. §§ 9031–9042) — `federal-law-presidential-primary-matching-payment-account-act.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title26/subtitleH/chapter96&edition=prelim
+- **Insurrection Act provisions** (10 U.S.C. §§ 251–255) — `federal-law-insurrection-act-provisions.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title10/subtitleA/partI/chapter13&edition=prelim
+- **Posse Comitatus Act** (18 U.S.C. § 1385) — `federal-law-posse-comitatus-act.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1385&num=0&edition=prelim
+- **National Emergencies Act** (50 U.S.C. §§ 1601 et seq.) — `federal-law-national-emergencies-act.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title50/chapter34&edition=prelim
+- **Stafford Act** (42 U.S.C. §§ 5121 et seq.) — `federal-law-stafford-act.md` [OK] — https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter68&edition=prelim
+- **Civil action for deprivation of rights** (42 U.S.C. § 1983) — `federal-law-civil-action-for-deprivation-of-rights.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1983&num=0&edition=prelim
+- **Federal-question jurisdiction** (28 U.S.C. § 1331) — `federal-law-federal-question-jurisdiction.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1331&num=0&edition=prelim
+- **Civil-rights jurisdiction** (28 U.S.C. § 1343) — `federal-law-civil-rights-jurisdiction.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1343&num=0&edition=prelim
+- **Three-judge district courts** (28 U.S.C. § 2284) — `federal-law-three-judge-district-courts.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2284&num=0&edition=prelim
+- **Direct Supreme Court appeals from three-judge courts** (28 U.S.C. § 1253) — `federal-law-direct-supreme-court-appeals-from-three-judge-courts.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1253&num=0&edition=prelim
+- **All Writs Act** (28 U.S.C. § 1651) — `federal-law-all-writs-act.md` [OK] — https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1651&num=0&edition=prelim
+- **House elections and voter qualifications** (U.S. Const. art. I, § 2) — `federal-law-house-elections-and-voter-qualifications.md` [OK] — https://constitution.congress.gov/constitution/article-1/
+- **Senate composition and election** (U.S. Const. art. I, § 3; amend. XVII) — `federal-law-senate-composition-and-election.md` [OK] — https://constitution.congress.gov/constitution/amendment-17/
+- **Elections Clause** (U.S. Const. art. I, § 4, cl. 1) — `federal-law-elections-clause.md` [OK] — https://constitution.congress.gov/browse/article-1/section-4/clause-1/
+- **Presidential electors** (U.S. Const. art. II, § 1) — `federal-law-presidential-electors.md` [OK] — https://constitution.congress.gov/constitution/article-2/
+- **Electoral vote procedure** (U.S. Const. amend. XII) — `federal-law-electoral-vote-procedure.md` [OK] — https://constitution.congress.gov/constitution/amendment-12/
+- **Equal Protection / Due Process / apportionment / Section 3** (U.S. Const. amend. XIV) — `federal-law-equal-protection-due-process-apportionment-section-3.md` [OK] — https://constitution.congress.gov/constitution/amendment-14/
+- **Race and voting** (U.S. Const. amend. XV) — `federal-law-race-and-voting.md` [OK] — https://constitution.congress.gov/constitution/amendment-15/
+- **Sex and voting** (U.S. Const. amend. XIX) — `federal-law-sex-and-voting.md` [OK] — https://constitution.congress.gov/constitution/amendment-19/
+- **Terms and presidential succession timing** (U.S. Const. amend. XX) — `federal-law-terms-and-presidential-succession-timing.md` [OK] — https://constitution.congress.gov/constitution/amendment-20/
+- **Presidential term limits** (U.S. Const. amend. XXII) — `federal-law-presidential-term-limits.md` [OK] — https://constitution.congress.gov/constitution/amendment-22/
+- **District of Columbia electors** (U.S. Const. amend. XXIII) — `federal-law-district-of-columbia-electors.md` [OK] — https://constitution.congress.gov/constitution/amendment-23/
+- **Poll taxes** (U.S. Const. amend. XXIV) — `federal-law-poll-taxes.md` [OK] — https://constitution.congress.gov/constitution/amendment-24/
+- **Presidential disability and succession** (U.S. Const. amend. XXV) — `federal-law-presidential-disability-and-succession.md` [OK] — https://constitution.congress.gov/constitution/amendment-25/
+- **Voting age** (U.S. Const. amend. XXVI) — `federal-law-voting-age.md` [OK] — https://constitution.congress.gov/constitution/amendment-26/
+- **ADA Title II regulations** (28 C.F.R. Part 35) — `federal-law-ada-title-ii-regulations.md` [OK] — https://www.ecfr.gov/current/title-28/chapter-I/part-35
+- **Voting Rights Act language-minority regulations** (28 C.F.R. Part 55) — `federal-law-voting-rights-act-language-minority-regulations.md` [OK] — https://www.ecfr.gov/current/title-28/chapter-I/part-55
+- **Voting Rights Act Section 5 procedures** (28 C.F.R. Part 51) — `federal-law-voting-rights-act-section-5-procedures.md` [OK] — https://www.ecfr.gov/current/title-28/chapter-I/part-51
+- **Federal Election Commission regulations** (11 C.F.R.) — `federal-law-federal-election-commission-regulations.md` [OK] — https://www.ecfr.gov/current/title-11
+- **USPS Domestic Mail Manual — Election Mail and related standards** (USPS DMM) — `federal-law-usps-domestic-mail-manual-election-mail-and-related-standards.md` [OK] — https://pe.usps.com/text/dmm300/dmm300_landing.htm
+- **DOJ Voting Rights Policy and Guidance** (DOJ Civil Rights Division) — `federal-law-doj-voting-rights-policy-and-guidance.md` [OK] — https://www.justice.gov/crt/voting-rights-policy-and-guidance
+- **DOJ Federal Prosecution of Election Offenses manual** (DOJ Criminal Division / Public Integrity Section) — `federal-law-doj-federal-prosecution-of-election-offenses-manual.md` [OK] — https://www.justice.gov/criminal/file/1029066/dl
+- **EAC overview of federal election laws** (U.S. Election Assistance Commission) — `federal-law-eac-overview-of-federal-election-laws.md` [OK] — https://www.eac.gov/election-officials/clearinghouse-resources-election-law-policy/overview-federal-election-laws
+- **Federal Voting Assistance Program resources** (FVAP / Department of Defense) — `federal-law-federal-voting-assistance-program-resources.md` [OK] — https://www.fvap.gov/

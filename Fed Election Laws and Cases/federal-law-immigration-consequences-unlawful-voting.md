@@ -1,0 +1,109 @@
+# Immigration consequences — unlawful voting — 8 U.S.C. § 1227(a)(6)
+
+- **Category:** Citizenship/noncitizen voting
+- **Authority type:** Statute
+- **Citation:** 8 U.S.C. § 1227(a)(6)
+- **What it is:** Makes certain noncitizens removable for unlawful voting under specified federal, state, or local law, subject to statutory conditions/exceptions.
+- **Why useful for reporters / RAG:** Immigration consequences of unlawful voting claims.
+
+Source: https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1227&num=0&edition=prelim (fetched 2026-08-26)
+Statute text from the Office of the Law Revision Counsel's current (prelim) US Code edition; editorial notes omitted.
+
+---
+
+## Full text
+
+§1227. Deportable aliens
+
+
+(a) Classes of deportable aliens
+
+Any alien (including an alien crewman) in and admitted to the United States shall, upon the order of the Attorney General, be removed if the alien is within one or more of the following classes of deportable aliens:
+Any alien who at the time of entry or adjustment of status was within one or more of the classes of aliens inadmissible by the law existing at such time is deportable.
+Any alien who is present in the United States in violation of this chapter or any other law of the United States, or whose nonimmigrant visa (or other documentation authorizing admission into the United States as a nonimmigrant) has been revoked under section 1201(i) of this title , is deportable.
+Any alien who was admitted as a nonimmigrant and who has failed to maintain the nonimmigrant status in which the alien was admitted or to which it was changed under section 1258 of this title , or to comply with the conditions of any such status, is deportable.
+Any alien whom the Secretary of Health and Human Services certifies has failed to comply with terms, conditions, and controls that were imposed under section 1182(g) of this title is deportable.
+Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) or under section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
+Clause (i) shall not apply in the cases described in section 1186a(c)(4) of this title (relating to certain hardship waivers).
+Any alien who (prior to the date of entry, at the time of any entry, or within 5 years of the date of any entry) knowingly has encouraged, induced, assisted, abetted, or aided any other alien to enter or to try to enter the United States in violation of law is deportable.
+Clause (i) shall not apply in the case of alien who is an eligible immigrant (as defined in section 301(b)(1) of the Immigration Act of 1990), was physically present in the United States on May 5, 1988, and is seeking admission as an immediate relative or under section 1153(a)(2) of this title (including under section 112 of the Immigration Act of 1990) or benefits under section 301(a) of the Immigration Act of 1990 if the alien, before May 5, 1988, has encouraged, induced, assisted, abetted, or aided only the alien's spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
+The Attorney General may, in his discretion for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest, waive application of clause (i) in the case of any alien lawfully admitted for permanent residence if the alien has encouraged, induced, assisted, abetted, or aided only an individual who at the time of the offense was the alien's spouse, parent, son, or daughter (and no other individual) to enter the United States in violation of law.
+An alien shall be considered to be deportable as having procured a visa or other documentation by fraud (within the meaning of section 1182(a)(6)(C)(i) of this title ) and to be in the United States in violation of this chapter (within the meaning of subparagraph (B)) if-
+(i) the alien obtains any admission into the United States with an immigrant visa or other documentation procured on the basis of a marriage entered into less than 2 years prior to such admission of the alien and which, within 2 years subsequent to any admission of the alien in the United States, shall be judicially annulled or terminated, unless the alien establishes to the satisfaction of the Attorney General that such marriage was not contracted for the purpose of evading any provisions of the immigration laws, or
+(ii) it appears to the satisfaction of the Attorney General that the alien has failed or refused to fulfill the alien's marital agreement which in the opinion of the Attorney General was made for the purpose of procuring the alien's admission as an immigrant.
+The provisions of this paragraph relating to the removal of aliens within the United States on the ground that they were inadmissible at the time of admission as aliens described in section 1182(a)(6)(C)(i) of this title , whether willful or innocent, may, in the discretion of the Attorney General, be waived for any alien (other than an alien described in paragraph (4)(D)) who-
+(i)(I) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
+(II) was in possession of an immigrant visa or equivalent document and was otherwise admissible to the United States at the time of such admission except for those grounds of inadmissibility specified under paragraphs (5)(A) and (7)(A) of section 1182(a) of this title which were a direct result of that fraud or misrepresentation.
+(ii) is a VAWA self-petitioner.
+A waiver of removal for fraud or misrepresentation granted under this subparagraph shall also operate to waive removal based on the grounds of inadmissibility directly resulting from such fraud or misrepresentation.
+Any alien who-
+(I) is convicted of a crime involving moral turpitude committed within five years (or 10 years in the case of an alien provided lawful permanent resident status under section 1255(j) of this title ) after the date of admission, and
+(II) is convicted of a crime for which a sentence of one year or longer may be imposed,
+is deportable.
+Any alien who at any time after admission is convicted of two or more crimes involving moral turpitude, not arising out of a single scheme of criminal misconduct, regardless of whether confined therefor and regardless of whether the convictions were in a single trial, is deportable.
+Any alien who is convicted of an aggravated felony at any time after admission is deportable.
+Any alien who is convicted of a violation of section 758 of title 18 (relating to high speed flight from an immigration checkpoint) is deportable.
+Any alien who is convicted under section 2250 of title 18 is deportable.
+Clauses (i), (ii), (iii), and (iv) shall not apply in the case of an alien with respect to a criminal conviction if the alien subsequent to the criminal conviction has been granted a full and unconditional pardon by the President of the United States or by the Governor of any of the several States.
+Any alien who at any time after admission has been convicted of a violation of (or a conspiracy or attempt to violate) any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21 ), other than a single offense involving possession for one's own use of 30 grams or less of marijuana, is deportable.
+Any alien who is, or at any time after admission has been, a drug abuser or addict is deportable.
+Any alien who at any time after admission is convicted under any law of purchasing, selling, offering for sale, exchanging, using, owning, possessing, or carrying, or of attempting or conspiring to purchase, sell, offer for sale, exchange, use, own, possess, or carry, any weapon, part, or accessory which is a firearm or destructive device (as defined in section 921(a) of title 18 ) in violation of any law is deportable.
+Any alien who at any time has been convicted (the judgment on such conviction becoming final) of, or has been so convicted of a conspiracy or attempt to violate-
+(i) any offense under chapter 37 (relating to espionage), chapter 105 (relating to sabotage), or chapter 115 (relating to treason and sedition) of title 18 for which a term of imprisonment of five or more years may be imposed;
+(ii) any offense under section 871 or 960 of title 18 ;
+(iii) a violation of any provision of the Military Selective Service Act ( 50 U.S.C. App. 451 et seq. ) [now 50 U.S.C. 3801 et seq. ] or the Trading With the Enemy Act ( 50 U.S.C. App. 1 et seq. ) [now 50 U.S.C. 4301 et seq. ]; or
+(iv) a violation of section 1185 or 1328 of this title ,
+is deportable.
+Any alien who at any time after admission is convicted of a crime of domestic violence, a crime of stalking, or a crime of child abuse, child neglect, or child abandonment is deportable. For purposes of this clause, the term "crime of domestic violence" means any crime of violence (as defined in section 16 of title 18 ) against a person committed by a current or former spouse of the person, by an individual with whom the person shares a child in common, by an individual who is cohabiting with or has cohabited with the person as a spouse, by an individual similarly situated to a spouse of the person under the domestic or family violence laws of the jurisdiction where the offense occurs, or by any other individual against a person who is protected from that individual's acts under the domestic or family violence laws of the United States or any State, Indian tribal government, or unit of local government.
+Any alien who at any time after admission is enjoined under a protection order issued by a court and whom the court determines has engaged in conduct that violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued is deportable. For purposes of this clause, the term "protection order" means any injunction issued for the purpose of preventing violent or threatening acts of domestic violence, including temporary or final orders issued by civil or criminal courts (other than support or child custody orders or provisions) whether obtained by filing an independent action or as a pendente lite order in another proceeding.
+Any alien described in section 1182(a)(2)(H) of this title is deportable.
+An alien who has failed to comply with the provisions of section 1305 of this title is deportable, unless the alien establishes to the satisfaction of the Attorney General that such failure was reasonably excusable or was not willful.
+Any alien who at any time has been convicted-
+(i) under section 1306(c) of this title or under section 36(c) of the Alien Registration Act, 1940,
+(ii) of a violation of, or an attempt or a conspiracy to violate, any provision of the Foreign Agents Registration Act of 1938 ( 22 U.S.C. 611 et seq. ), or
+(iii) of a violation of, or an attempt or a conspiracy to violate, section 1546 of title 18 (relating to fraud and misuse of visas, permits, and other entry documents),
+is deportable.
+An alien who is the subject of a final order for violation of section 1324c of this title is deportable.
+The Attorney General may waive clause (i) in the case of an alien lawfully admitted for permanent residence if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was incurred solely to assist, aid, or support the alien's spouse or child (and no other individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this clause.
+Any alien who falsely represents, or has falsely represented, himself to be a citizen of the United States for any purpose or benefit under this chapter (including section 1324a of this title ) or any Federal or State law is deportable.
+In the case of an alien making a representation described in clause (i), if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making such representation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such representation.
+Any alien who has engaged, is engaged, or at any time after admission engages in-
+(i) any activity to violate any law of the United States relating to espionage or sabotage or to violate or evade any law prohibiting the export from the United States of goods, technology, or sensitive information,
+(ii) any other criminal activity which endangers public safety or national security, or
+(iii) any activity a purpose of which is the opposition to, or the control or overthrow of, the Government of the United States by force, violence, or other unlawful means,
+is deportable.
+Any alien who is described in subparagraph (B) or (F) of section 1182(a)(3) of this title is deportable.
+An alien whose presence or activities in the United States the Secretary of State has reasonable ground to believe would have potentially serious adverse foreign policy consequences for the United States is deportable.
+The exceptions described in clauses (ii) and (iii) of section 1182(a)(3)(C) of this title shall apply to deportability under clause (i) in the same manner as they apply to inadmissibility under section 1182(a)(3)(C)(i) of this title .
+Any alien described in clause (i), (ii), or (iii) of section 1182(a)(3)(E) of this title is deportable.
+Any alien described in section 1182(a)(2)(G) of this title is deportable.
+Any alien who has engaged in the recruitment or use of child soldiers in violation of section 2442 of title 18 is deportable.
+Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
+Any alien who has voted in violation of any Federal, State, or local constitutional provision, statute, ordinance, or regulation is deportable.
+In the case of an alien who voted in a Federal, State, or local election (including an initiative, recall, or referendum) in violation of a lawful restriction of voting to citizens, if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of such violation that he or she was a citizen, the alien shall not be considered to be deportable under any provision of this subsection based on such violation.
+The Attorney General is not limited by the criminal court record and may waive the application of paragraph (2)(E)(i) (with respect to crimes of domestic violence and crimes of stalking) and (ii) in the case of an alien who has been battered or subjected to extreme cruelty and who is not and was not the primary perpetrator of violence in the relationship-
+(i) 1 upon a determination that-
+(I) the alien was acting is 2 self-defense;
+(II) the alien was found to have violated a protection order intended to protect the alien; or
+(III) the alien committed, was arrested for, was convicted of, or pled guilty to committing a crime-
+(aa) that did not result in serious bodily injury; and
+(bb) where there was a connection between the crime and the alien's having been battered or subjected to extreme cruelty.
+In acting on applications under this paragraph, the Attorney General shall consider any credible evidence relevant to the application. The determination of what evidence is credible and the weight to be given that evidence shall be within the sole discretion of the Attorney General.
+
+(b) Deportation of certain nonimmigrants
+
+An alien, admitted as a nonimmigrant under the provisions of either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this title , and who fails to maintain a status under either of those provisions, shall not be required to depart from the United States without the approval of the Secretary of State, unless such alien is subject to deportation under paragraph (4) of subsection (a).
+
+(c) Waiver of grounds for deportation
+
+Paragraphs (1)(A), (1)(B), (1)(C), (1)(D), and (3)(A) of subsection (a) (other than so much of paragraph (1) as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 1182(a) of this title ) shall not apply to a special immigrant described in section 1101(a)(27)(J) of this title based upon circumstances that existed before the date the alien was provided such special immigrant status.
+
+(d) Administrative stay
+
+(1) If the Secretary of Homeland Security determines that an application for nonimmigrant status under subparagraph (T) or (U) of section 1101(a)(15) of this title filed for an alien in the United States sets forth a prima facie case for approval, the Secretary may grant the alien an administrative stay of a final order of removal under section 1231(c)(2) of this title until-
+(A) the application for nonimmigrant status under such subparagraph (T) or (U) is approved; or
+(B) there is a final administrative denial of the application for such nonimmigrant status after the exhaustion of administrative appeals.
+(2) The denial of a request for an administrative stay of removal under this subsection shall not preclude the alien from applying for a stay of removal, deferred action, or a continuance or abeyance of removal proceedings under any other provision of the immigration laws of the United States.
+(3) During any period in which the administrative stay of removal is in effect, the alien shall not be removed.
+(4) Nothing in this subsection may be construed to limit the authority of the Secretary of Homeland Security or the Attorney General to grant a stay of removal or deportation in any case not described in this subsection.
+( June 27, 1952, ch. 477, title II, ch. 4, §237, formerly ch. 5, §241, 66 Stat. 204 ; July 18, 1956, ch. 629, title III, §301(b), (c), 70 Stat. 575 ; Pub. L. 86–648, §9, July 14, 1960, 74 Stat. 505 ; Pub. L. 87–301, §16, Sept. 26, 1961, 75 Stat. 655 ; Pub. L. 89–236, §11(e), Oct. 3, 1965, 79 Stat. 918 ; Pub. L. 94–571, §7(e), Oct. 20, 1976, 90 Stat. 2706 ; Pub. L. 95–549, title I, §103, Oct. 30, 1978, 92 Stat. 2065 ; Pub. L. 97–116, §8, Dec. 29, 1981, 95 Stat. 1616 ; Pub. L. 99–570, title I, §1751(b), Oct. 27, 1986, 100 Stat. 3207–47 ; Pub. L. 99–603, title III, §303(b), Nov. 6, 1986, 100 Stat. 3431 ; Pub. L. 99–639, §2(b), Nov. 10, 1986, 100 Stat. 3541 ; Pub. L. 99–653, §7(c), Nov. 14, 1986, 100 Stat. 3657 ; Pub. L. 100–525, §§2(n)(2), 9(m), Oct. 24, 1988, 102 Stat. 2613 , 2620 ; Pub. L. 100–690, title VII, §§7344(a), 7348(a), Nov. 18, 1988, 102 Stat. 4470 , 4473 ; Pub. L. 101–649, title I, §153(b), title V, §§505(a), 508(a), 544(b), title VI, §602(a), (b), Nov. 29, 1990, 104 Stat. 5006 , 5050 , 5051 , 5061 , 5077 , 5081 ; Pub. L. 102–232, title III, §§302(d)(3), 307(h), (k), Dec. 12, 1991, 105 Stat. 1745 , 1755 , 1756 ; Pub. L. 103–322, title XIII, §130003(d), Sept. 13, 1994, 108 Stat. 2026 ; Pub. L. 103–416, title II, §§203(b), 219(g), Oct. 25, 1994, 108 Stat. 4311 , 4317 ; Pub. L. 104–132, title IV, §§414(a), 435(a), Apr. 24, 1996, 110 Stat. 1270 , 1274 ; renumbered ch. 4, §237, and amended Pub. L. 104–208, div. C, title I, §108(c), title III, §§301(d), 305(a)(2), 308(d)(2), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5), 344(b), 345(b), 347(b), 350(a), 351(b), title VI, §671(a)(4)(B), (d)(1)(C), Sept. 30, 1996, 110 Stat. 3009–558 , 3009-579 , 3009-598 , 3009-617 , 3009-619 to 3009-622 , 3009-637 to 3009-640 , 3009-721 , 3009-723 ; Pub. L. 106–386, div. B, title V, §1505(b)(1), (c)(2), Oct. 28, 2000, 114 Stat. 1525 , 1526 ; Pub. L. 106–395, title II, §201(c)(1), (2), Oct. 30, 2000, 114 Stat. 1634 , 1635 ; Pub. L. 107–56, title IV, §411(b)(1), Oct. 26, 2001, 115 Stat. 348 ; Pub. L. 108–458, title V, §§5304(b), 5402, 5501(b), 5502(b), Dec. 17, 2004, 118 Stat. 3736 , 3737 , 3740 , 3741 ; Pub. L. 109–13, div. B, title I, §105(a)(1), (b), May 11, 2005, 119 Stat. 309 , 310 ; Pub. L. 109–248, title IV, §401, July 27, 2006, 120 Stat. 622 ; Pub. L. 109–271, §6(c), Aug. 12, 2006, 120 Stat. 763 ; Pub. L. 110–340, §2(c), Oct. 3, 2008, 122 Stat. 3736 ; Pub. L. 110–457, title II, §§204, 222(f)(2), Dec. 23, 2008, 122 Stat. 5060 , 5071 .)

@@ -5,10 +5,10 @@ Sections: 7
 
 ## Nevada § 293
 
-*Citation: Nevada Revised Statutes, Title 24 — Elections, § 293. Last changed: 2026-08-06. Source: https://www.leg.state.nv.us/NRS/NRS-293.html*
+*Citation: Nevada Revised Statutes, Title 24 — Elections, § 293. Last changed: 2026-09-09. Source: https://www.leg.state.nv.us/NRS/NRS-293.html*
 
-[Rev. 4/15/2026 12:10:37
-PM--2025]
+[Rev. 9/9/2026 11:47:08
+AM--2025R1]
 TITLE 24 - ELECTIONS
 CHAPTER 293 - ELECTIONS
 GENERAL PROVISIONS
@@ -221,8 +221,8 @@ Applicability
 of chapter to city elections.
 NRS 293.1265
 Inapplicability
-of certain laws to members or members-elect of Legislature; plenary and
-exclusive jurisdiction and power of each House over certain matters.
+of certain laws to members or members-elect of Legislature; plenary and exclusive
+jurisdiction and power of each House over certain matters.
 NRS 293.127
 Liberal
 construction of title and determination of real will of electors.
@@ -1584,11 +1584,6 @@ duties of Secretary of State or county or city clerk.
 NRS 293.908
 Certain
 persons who may request personal information to be kept confidential.
-[Effective through June 30, 2026.]
-NRS 293.908
-Certain
-persons who may request personal information to be kept confidential.
-[Effective July 1, 2026.]
 NRS 293.909
 Additional
 circumstances in which certain persons may petition to have personal
@@ -12316,8 +12311,8 @@ contested election must be seated and commence the duties of the office.
 the statement of contest and all other papers and documents to the speaker of
 the assembly on the day of the organization of the Legislature.
 4.  A joint session of both houses must be
-convened as soon thereafter as the business of both houses permits, but not
-later than 10 days after receipt of statement of contest.
+convened as soon thereafter as the business of both houses permits, but not later
+than 10 days after receipt of statement of contest.
 5.  If, before the contest has been
 decided, a contestant gives written notice to the Secretary of State that the
 contestant wishes to withdraw his or her statement of contest, the Secretary of
@@ -12569,9 +12564,10 @@ certain applications to register to vote.
 subsection 3, the expense of providing all ballots, forms and other supplies to
 be used at any election regulated by this chapter or
 chapter 293C
-of NRS and all expenses necessarily
-incurred in the preparation for, or the conduct of, any such election is a
-charge upon the municipality, county, district or State, as the case may be.
+of NRS and all expenses
+necessarily incurred in the preparation for, or the conduct of, any such election
+is a charge upon the municipality, county, district or State, as the case may
+be.
 2.  The county or city clerk may submit the
 printing of ballots for competitive bidding.
 3.  If a political party or other entity
@@ -12607,10 +12603,10 @@ NRS
 293.445
 Expenses for assistants to county or city clerk.
 The board of county commissioners of each
-county or city council of each city shall provide the appropriate county or
-city clerk with sufficient assistants to enable the county or city clerk to
-perform properly the duties imposed upon him or her by this chapter. Such
-expense is a charge upon the appropriate county or city.
+county or city council of each city shall provide the appropriate county or city
+clerk with sufficient assistants to enable the county or city clerk to perform
+properly the duties imposed upon him or her by this chapter. Such expense is a
+charge upon the appropriate county or city.
 (Added to NRS by
 1960,
 267
@@ -12728,9 +12724,9 @@ made from his or her usual salary or wages by reason of such absence.
 vote shall be made to the employer or person authorized to grant such leave
 prior to the day of the election.
 4.  Any employer or person authorized to
-grant the leave of absence provided for in subsection 1, who denies any
-registered voter any right granted under this section, or who otherwise
-violates the provisions of this section, is guilty of a misdemeanor.
+grant the leave of absence provided for in subsection 1, who denies any registered
+voter any right granted under this section, or who otherwise violates the
+provisions of this section, is guilty of a misdemeanor.
 (Added to NRS by
 1960,
 267
@@ -12772,8 +12768,8 @@ more, on at least 3 successive days.
 )
 NRS
 293.465
-Loss or destruction of ballots, or other cause, preventing
-election in precinct or district; new election.
+Loss or destruction of ballots, or other cause, preventing election
+in precinct or district; new election.
 If
 an election is prevented in any precinct or district by reason of the loss or
 destruction of the ballots intended for that precinct, or any other cause, the
@@ -12878,8 +12874,8 @@ comply with the provisions of the Help America Vote Act of 2002, Public Law
 the extent the provisions of this chapter are consistent with the Help America
 Vote Act of 2002, Public Law 107-252.
 2.  Each county and city clerk shall
-provide such information as is requested by the Secretary of State to comply
-with the provisions of this section.
+provide such information as is requested by the Secretary of State to comply with
+the provisions of this section.
 (Added to NRS by
 2003,
 2173
@@ -13004,8 +13000,8 @@ electronically to the Secretary of State, including, without limitation, an
 application to preregister or register to vote and a request for a
 military-overseas ballot.
 2.  As used in this section:
-(a) “Military-overseas ballot” has the meaning
-ascribed to it in
+(a) “Military-overseas ballot” has the meaning ascribed
+to it in
 NRS 293D.050
 .
 (b) “Mobile device” includes, without limitation,
@@ -13077,9 +13073,10 @@ preregister or register to vote and information concerning the manner of voting
 for use by a person who is elderly or disabled, including, without limitation,
 providing such information through a telecommunications device that is
 accessible to a person who is deaf.
-3.  Not later than 5 working days after receiving
-the request of a person who is elderly or disabled, provide to the person, in a
-format that can be used by the person, any requested material that is:
+3.  Not later than 5 working days after
+receiving the request of a person who is elderly or disabled, provide to the
+person, in a format that can be used by the person, any requested material that
+is:
 (a) Related to elections; and
 (b) Made available by the county clerk to the
 public in printed form.
@@ -13134,8 +13131,7 @@ NRS 293.273
 .
 (d) A description of each challenge made to the
 eligibility of a voter pursuant to
-NRS
-293.303
+NRS 293.303
 and the result of each such challenge.
 (e) A description of each complaint regarding a
 ballot cast by mail or facsimile filed with the county clerk and the
@@ -13162,8 +13158,8 @@ information collected pursuant to subsection 1 not more than 60 days after each
 primary election, presidential preference primary election and general
 election.
 3.  The Secretary of State may contact any
-political party and request information to assist in the investigation of any
-allegation of voter intimidation.
+political party and request information to assist in the investigation of any allegation
+of voter intimidation.
 4.  The Secretary of State shall establish
 and maintain an Internet website pursuant to which the Secretary of State shall
 solicit and collect voter comments regarding election processes.
@@ -13193,10 +13189,10 @@ NRS
 293.471
 Address of business that receives or distributes mail to be
 provided to county clerk.
-Any person
-who engages in the business of receiving and distributing mail for customers
-shall provide the county clerk of the county in which the business is located
-with the street address of the business.
+Any
+person who engages in the business of receiving and distributing mail for
+customers shall provide the county clerk of the county in which the business is
+located with the street address of the business.
 (Added to NRS by
 1993,
 2173
@@ -13209,8 +13205,8 @@ Until the time for
 contest of election has expired, the ballots returned to the county or city
 clerk may not be inspected by any person, except in cases of recount or
 election contest, and then only by the judge, special master, board or
-legislative body before whom the election is being contested or who is conducting
-the recount.
+legislative body before whom the election is being contested or who is
+conducting the recount.
 (Added to NRS by
 1960,
 270
@@ -13250,14 +13246,14 @@ accordance with subsection 4 of
 NRS 295.230
 .
 (b) At a primary election, shall provide to each
-county clerk within the designated territory on or before the second Friday after
-the first Monday in March preceding the election:
+county clerk within the designated territory on or before the second Friday
+after the first Monday in March preceding the election:
 (1) A copy of the question, including an
 explanation of the question; and
 (2) A description of the anticipated
 financial effect on the local government which, if the question is an advisory
-question that proposes a bond, tax, fee or expense, must be prepared in
-accordance with subsection 4 of
+question that proposes a bond, tax, fee or expense, must be prepared in accordance
+with subsection 4 of
 NRS 295.230
 .
 (c) At any election other than a primary or
@@ -13319,17 +13315,17 @@ the governing body to issue bonds upon the approval of the voters.
 4.  A question that is submitted pursuant
 to subsection 1 may be withdrawn if the governing body provides notification to
 each of the county or city clerks within the designated territory of its
-decision to withdraw the particular question on or before the same dates specified
-for submission pursuant to paragraph (a), (b), (c) or (d) of subsection 1, as
-appropriate.
+decision to withdraw the particular question on or before the same dates
+specified for submission pursuant to paragraph (a), (b), (c) or (d) of
+subsection 1, as appropriate.
 5.  A county or city clerk:
 (a) Shall assign a unique identification number
 to a question submitted pursuant to this section; and
 (b) May charge any political subdivision, public
 or quasi-public corporation, or other local agency which submits a question a
 reasonable fee sufficient to pay for the increased costs incurred in including
-the question, explanation, arguments and description of the anticipated financial
-effect on the ballot.
+the question, explanation, arguments and description of the anticipated
+financial effect on the ballot.
 (Added to NRS by
 1969,
 895
@@ -13475,7 +13471,8 @@ the methods available for a person to register to vote pursuant to this title.
 A person eligible to preregister to vote is deemed to be preregistered to vote
 upon the submission of a completed application to preregister to vote.
 2.  If a person preregisters to vote, he or
-she shall be deemed to be a registered voter on his or her 18th birthday unless:
+she shall be deemed to be a registered voter on his or her 18th birthday
+unless:
 (a) The person’s preregistration has been
 cancelled as described in subsection 7; or
 (b) Except as otherwise provided in
@@ -13486,10 +13483,10 @@ forth in
 NRS 293.485
 .
 3.  The county clerk shall issue to a
-person who is deemed to be registered to vote pursuant to subsection 2 a voter registration
-card as soon as practicable after the person is deemed to be registered to
-vote, but the issuance of a voter registration card to the person is not a
-prerequisite to vote in an election.
+person who is deemed to be registered to vote pursuant to subsection 2 a voter
+registration card as soon as practicable after the person is deemed to be
+registered to vote, but the issuance of a voter registration card to the person
+is not a prerequisite to vote in an election.
 4.  On the date that a person who
 preregisters to vote is deemed to be registered to vote, his or her application
 to preregister to vote is deemed to be his or her application to register to
@@ -13506,11 +13503,11 @@ information of a person pursuant to this chapter.
 may be cancelled by any of the means and for any of the reasons for cancelling
 voter registration pursuant to this chapter.
 8.  Except as otherwise provided in this
-subsection, all preregistration information relating to a person is
-confidential and is not a public record. Once a person’s application to
-preregister to vote is deemed to be an application to register to vote, any
-voter registration information related to the person must be disclosed pursuant
-to any law that requires voter registration information to be disclosed.
+subsection, all preregistration information relating to a person is confidential
+and is not a public record. Once a person’s application to preregister to vote
+is deemed to be an application to register to vote, any voter registration
+information related to the person must be disclosed pursuant to any law that
+requires voter registration information to be disclosed.
 9.  The Secretary of State shall adopt
 regulations providing for preregistration to vote. The regulations:
 (a) Must include, without limitation, provisions
@@ -13732,8 +13729,8 @@ from Armed Forces or separated from employment outside of the United States and
 their spouses and dependents.
 1.  An elector:
 (a) Who complies with the requirements for
-registration set forth in the Uniformed and Overseas Citizens Absentee Voting
-Act, 52 U.S.C. §§ 20301 et seq.;
+registration set forth in the Uniformed and Overseas Citizens Absentee Voting Act,
+52 U.S.C. §§ 20301 et seq.;
 (b) Who, not more than 60 days before an
 election:
 (1) Is discharged from the Armed Forces of
@@ -13774,10 +13771,10 @@ regulations to carry out a program of registration for such electors.
 NRS
 293.503
 County clerk is ex officio county registrar; custody of
-documents relating to preregistration or registration; official records of
-office of county clerk; maintenance of records; time limitation on program to
-remove names of ineligible persons; availability of records for public
-inspection; confidential information.
+documents relating to preregistration or registration; official records of office
+of county clerk; maintenance of records; time limitation on program to remove
+names of ineligible persons; availability of records for public inspection;
+confidential information.
 1.  The county clerk of each county where a
 registrar of voters has not been appointed pursuant to
 NRS 244.164
@@ -13839,10 +13836,10 @@ NRS
 293.5035
 Designation by county clerk of building owned or leased by
 county as county facility at which persons may preregister or register to vote.
-1.  The county clerk may designate any building
-owned or leased by the county, or any portion of such a building, as a county
-facility at which persons may preregister to vote and electors may register to
-vote.
+1.  The county clerk may designate any
+building owned or leased by the county, or any portion of such a building, as a
+county facility at which persons may preregister to vote and electors may
+register to vote.
 2.  A county facility designated pursuant
 to subsection 1 must be operated as an auxiliary county facility at which
 preregistration and registration are carried out in addition to being carried
@@ -13851,9 +13848,9 @@ out at the office of the county clerk.
 facility pursuant to subsection 1, the county clerk shall determine the hours
 of operation for the facility and shall, in cooperation with the Secretary of
 State, ensure that the facility is operated, staffed and equipped in compliance
-with all applicable provisions of this title and all other applicable provisions
-of state and federal law relating to the preregistration of persons and the
-registration of electors in this State.
+with all applicable provisions of this title and all other applicable
+provisions of state and federal law relating to the preregistration of persons
+and the registration of electors in this State.
 (Added to NRS by
 2005,
 311
@@ -13891,11 +13888,11 @@ deems appropriate.
 (a) Post in a conspicuous place, in at least
 12-point type, instructions for preregistering and registering to vote;
 (b) Except as otherwise provided in subsection 3,
-distribute applications to preregister or register to vote which may be returned
-by mail with any application for services or assistance from the agency or
-submitted for any other purpose and with each application for recertification,
-renewal or change of address submitted to the agency that relates to such
-services, assistance or other purpose;
+distribute applications to preregister or register to vote which may be
+returned by mail with any application for services or assistance from the agency
+or submitted for any other purpose and with each application for
+recertification, renewal or change of address submitted to the agency that
+relates to such services, assistance or other purpose;
 (c) Provide the same amount of assistance to an
 applicant in completing an application to preregister or register to vote as
 the agency provides to a person completing any other forms for the agency; and
@@ -14037,11 +14034,11 @@ candidate for any office may not be appointed or serve as a field registrar. A
 field registrar serves at the pleasure of the county clerk and shall perform
 such duties as the county clerk may direct. The county clerk shall not
 knowingly appoint any person as a field registrar who has been convicted of a
-felony involving theft or fraud. The Secretary of State may bring an action against
-a county clerk to collect a civil penalty of not more than $5,000 for each
-person who is appointed as a field registrar in violation of this subsection.
-Any civil penalty collected pursuant to this subsection must be deposited with
-the State Treasurer for credit to the State General Fund.
+felony involving theft or fraud. The Secretary of State may bring an action
+against a county clerk to collect a civil penalty of not more than $5,000 for
+each person who is appointed as a field registrar in violation of this
+subsection. Any civil penalty collected pursuant to this subsection must be
+deposited with the State Treasurer for credit to the State General Fund.
 3.  A field registrar shall demand of any
 person who applies for preregistration or registration all information required
 by the application to preregister or register to vote, as applicable, and shall
@@ -14083,9 +14080,8 @@ account of that person’s political party affiliation.
 9.  A person shall not hold himself or
 herself out to be or attempt to exercise the duties of a field registrar unless
 the person has been so appointed.
-10.  A county clerk, field registrar,
-employee of a voter registration agency or person assisting another person pursuant
-to
+10.  A county clerk, field registrar, employee
+of a voter registration agency or person assisting another person pursuant to
 NRS 293.5235
 shall not:
 (a) Solicit a vote for or against a particular
@@ -14134,10 +14130,11 @@ elector for the purpose of preregistering or registering to vote:
 completing the form for the application to preregister or register to vote
 retains the form, shall enter his or her name on the duplicate copy or receipt
 retained by the person upon completion of the form; and
-(b) Shall not alter, deface or destroy an application
-to preregister or register to vote that has been signed by a person except to
-correct information contained in the application after receiving notice from
-the person that a change in or addition to the information is required.
+(b) Shall not alter, deface or destroy an
+application to preregister or register to vote that has been signed by a person
+except to correct information contained in the application after receiving
+notice from the person that a change in or addition to the information is
+required.
 14.  If a field registrar violates any of
 the provisions of this section, the county clerk shall immediately suspend the
 field registrar and notify the district attorney of the county in which the
@@ -14329,8 +14326,8 @@ license issued by the Department of Motor Vehicles and does have a social
 security number; or
 (3) The number issued to the applicant
 pursuant to subsection 5, if the applicant does not have a current and valid
-driver’s license issued by the Department of Motor Vehicles or a social security
-number.
+driver’s license issued by the Department of Motor Vehicles or a social
+security number.
 (b) A line on which to enter the address at which
 the applicant actually resides, as set forth in
 NRS 293.486
@@ -14561,8 +14558,8 @@ NRS 293.3078
 to
 293.3086
 , inclusive. For the
-purposes of this subsection, a voter registration card does not provide proof
-of the residence or identity of a person.
+purposes of this subsection, a voter registration card does not provide proof of
+the residence or identity of a person.
 2.  In addition to the methods for
 registering to vote described in subsection 1, an elector may register to vote
 pursuant to:
@@ -14623,8 +14620,8 @@ or
 293C.292
 and may be
 required to furnish proof of identity and subsequent change of name.
-6.  Except as otherwise provided in subsection
-8 and
+6.  Except as otherwise provided in
+subsection 8 and
 NRS 293.5768
 to
 293.57699
@@ -14679,8 +14676,8 @@ NRS 293.485
 the application.
 9.  If the district attorney advises the
 county clerk to process the application pursuant to subsection 8, the county
-clerk shall immediately issue a voter registration card to the applicant, unless
-the applicant is preregistered to vote and does not currently meet the
+clerk shall immediately issue a voter registration card to the applicant,
+unless the applicant is preregistered to vote and does not currently meet the
 requirements to be issued a voter registration card pursuant to
 NRS 293.4855
 .
@@ -14760,8 +14757,8 @@ indicate:
 political party.
 Ê
 A person or
-an elector who indicates that he or she is “independent” shall be deemed not affiliated
-with a political party.
+an elector who indicates that he or she is “independent” shall be deemed not
+affiliated with a political party.
 2.  If a person or an elector indicates
 that he or she is not affiliated with a political party, or is independent, the
 county clerk or field registrar of voters shall list the person’s or elector’s
@@ -14920,11 +14917,11 @@ used to correct information in a previous application.
 (b) An application to register to vote may be
 used to correct information in the statewide voter registration list.
 4.  An application to preregister or
-register to vote which is mailed to an applicant by the county clerk or made
-available to the public at various locations or voter registration agencies in
-the county may be returned to the county clerk by mail or in person. For the
-purposes of this section, an application which is personally delivered to the
-county clerk shall be deemed to have been returned by mail.
+register to vote which is mailed to an applicant by the county clerk or made available
+to the public at various locations or voter registration agencies in the county
+may be returned to the county clerk by mail or in person. For the purposes of
+this section, an application which is personally delivered to the county clerk
+shall be deemed to have been returned by mail.
 5.  The applicant must complete the
 application, including, without limitation, checking the boxes described in
 paragraphs (b) and (c) of subsection 12 and signing the application.
@@ -15177,9 +15174,9 @@ vote after providing an oral or written affirmation before an election board
 officer attesting to his or her new address.
 2.  If an elector alleges that the
 statewide voter registration list or the roster incorrectly indicates that the
-elector has changed residence, the elector must be permitted to vote after
-providing an oral or written affirmation before an election board officer
-attesting that he or she continues to reside at the same address.
+elector has changed residence, the elector must be permitted to vote after providing
+an oral or written affirmation before an election board officer attesting that
+he or she continues to reside at the same address.
 3.  If an elector refuses to provide an
 oral or written affirmation attesting to his or her address as required by this
 section, the elector may only vote at the special polling place in the county
@@ -15251,9 +15248,9 @@ NRS
 )
 NRS
 293.530
-Authority of county clerk to correct statewide voter registration
-list, determine whether residence is accurate and make investigations of
-registration; duty of county clerk to cancel registration under certain
+Authority of county clerk to correct statewide voter
+registration list, determine whether residence is accurate and make investigations
+of registration; duty of county clerk to cancel registration under certain
 circumstances, maintain records regarding notices of cancellation and designate
 voter as inactive; regulations; required notices after certain changes to
 statewide voter registration list.
@@ -15303,9 +15300,9 @@ list which are relevant to the county clerk.
 (g) If a voter fails to return the postcard
 mailed pursuant to paragraph (c) within 30 days, the county clerk shall
 designate the voter as inactive on the voter’s application to register to vote.
-(h) The Secretary of State shall adopt
-regulations to prescribe the method for maintaining a list of voters who have
-been designated as inactive pursuant to paragraph (g).
+(h) The Secretary of State shall adopt regulations
+to prescribe the method for maintaining a list of voters who have been
+designated as inactive pursuant to paragraph (g).
 (i) If:
 (1) The name of a voter is added to the
 statewide voter registration list pursuant to
@@ -15399,8 +15396,8 @@ clerk shall review each notice of a change of address filed with the United
 States Postal Service by a resident of the county and identify each resident
 who is a registered voter and has moved to a new address. Before removing or
 correcting information in the statewide voter registration list, the county
-clerk shall mail a notice to each such registered voter and follow the procedures
-set forth in
+clerk shall mail a notice to each such registered voter and follow the
+procedures set forth in
 NRS 293.530
 .
 (Added to NRS by
@@ -15443,9 +15440,9 @@ county clerk stating that:
 States; or
 (b) The registrant has:
 (1) Moved outside the boundaries of the
-county where he or she is registered to another county, state, territory or
-foreign country, with the intention of remaining there for an indefinite time
-and with the intention of abandoning his or her residence in the county where
+county where he or she is registered to another county, state, territory or foreign
+country, with the intention of remaining there for an indefinite time and with
+the intention of abandoning his or her residence in the county where
 registered; and
 (2) Established residence in some other
 state, territory or foreign country, or in some other county of this state,
@@ -15584,16 +15581,16 @@ NRS 293.541
 (e) Upon verification that the application to
 preregister to vote is a duplicate if the county clerk has the original or
 another duplicate of the application on file in the county clerk’s office.
-2.  The county clerk shall cancel the registration
-of a person:
+2.  The county clerk shall cancel the
+registration of a person:
 (a) If the county clerk has personal knowledge of
 the death of the person or if an authenticated certificate of the death of the
 person is filed in the county clerk’s office.
 (b) If the county clerk is provided a certified
-copy of a court order stating that the court specifically finds by clear and
-convincing evidence that the person lacks the mental capacity to vote because
-he or she cannot communicate, with or without accommodations, a specific desire
-to participate in the voting process.
+copy of a court order stating that the court specifically finds by clear and convincing
+evidence that the person lacks the mental capacity to vote because he or she
+cannot communicate, with or without accommodations, a specific desire to
+participate in the voting process.
 (c) Upon the determination that the person has
 been convicted of a felony and is currently incarcerated.
 (d) Upon the production of a certified copy of
@@ -15669,10 +15666,10 @@ attorney, the district attorney determines that there is probable cause to
 believe that information in the application to preregister or register to vote concerning
 the identity or residence of the person or voter is fraudulent;
 (b) The county clerk provides a notice as
-required pursuant to subsection 2 or executes an affidavit of cancellation pursuant
-to subsection 3; and
-(c) The person or voter fails to present
-satisfactory proof of identity and residence pursuant to subsection 2, 4 or 5.
+required pursuant to subsection 2 or executes an affidavit of cancellation
+pursuant to subsection 3; and
+(c) The person or voter fails to present satisfactory
+proof of identity and residence pursuant to subsection 2, 4 or 5.
 2.  Except as otherwise provided in
 subsection 3, the county clerk shall notify the person or voter by registered
 or certified mail, return receipt requested, of a determination made pursuant
@@ -15698,9 +15695,9 @@ consistent with the address listed on the roster.
 5.  If a determination is made pursuant to
 subsection 1 concerning information in the registration to vote of a voter and
 a mail ballot is received from the voter, the mail ballot must be kept separate
-from other ballots and must not be counted unless the voter presents satisfactory
-proof to the county clerk of identity and residence before such ballots are
-counted on election day.
+from other ballots and must not be counted unless the voter presents
+satisfactory proof to the county clerk of identity and residence before such
+ballots are counted on election day.
 6.  For the purposes of this section, a
 voter registration card does not provide proof of the:
 (a) Address at which a person actually resides;
@@ -15765,16 +15762,16 @@ NRS
 293.543
 Reregistration of certain persons after cancellation of
 registration.
-1.  If the registration of an elector is
-cancelled pursuant to paragraph (b) of subsection 2 of
-NRS 293.540
-, the county clerk shall
-reregister the elector upon notice from the clerk of the district court that
-the elector has been found by the district court to have the mental capacity to
-vote. The court must include the finding in a court order and, not later than
-30 days after issuing the order, provide a certified copy of the order to the
-county clerk of the county in which the person is a resident and to the Office
-of the Secretary of State.
+1.  If the registration of an elector is cancelled
+pursuant to paragraph (b) of subsection 2 of
+NRS
+293.540
+, the county clerk shall reregister the elector upon notice from the
+clerk of the district court that the elector has been found by the district
+court to have the mental capacity to vote. The court must include the finding
+in a court order and, not later than 30 days after issuing the order, provide a
+certified copy of the order to the county clerk of the county in which the person
+is a resident and to the Office of the Secretary of State.
 2.  If the registration of an elector is
 cancelled pursuant to paragraph (c) of subsection 2 of
 NRS 293.540
@@ -15783,9 +15780,9 @@ upon release from prison.
 3.  If the registration of an elector is
 cancelled pursuant to the provisions of paragraph (e) of subsection 2 of
 NRS 293.540
-, after the close of
-registration for a primary election, the elector may not reregister until after
-the primary election.
+, after the close of registration
+for a primary election, the elector may not reregister until after the primary
+election.
 4.  A county clerk shall not require an
 elector to present evidence, including, without limitation, a court order or
 any other document, to prove that the elector satisfies the requirements of
@@ -15959,8 +15956,8 @@ State, and who has not registered before or whose registration has been
 cancelled may, at any time, request from the county clerk of the county of the
 elector’s residence an application to register to vote. The county clerk, if
 satisfied that the elector is eligible for registration, shall forward the
-application immediately. The county clerk shall, upon receipt of the completed
-application, file it in the manner provided by law.
+application immediately. The county clerk shall, upon receipt of the completed application,
+file it in the manner provided by law.
 (Added to NRS by
 1960,
 277
@@ -16108,10 +16105,9 @@ out the provisions of
 chapter 293D
 of NRS;
 and
-(2) Distribute a sample ballot to the
-registered voter by electronic means if the county or city clerk has
-established a system for distributing sample ballots by electronic means
-pursuant to
+(2) Distribute a sample ballot to the registered
+voter by electronic means if the county or city clerk has established a system
+for distributing sample ballots by electronic means pursuant to
 NRS 293.565
 or
 293C.530
@@ -16170,9 +16166,9 @@ Close of Registration
 NRS
 293.560
 Close of registration; publication of day and time that each
-method of registration closes; offices of county clerk, certain county facilities
-and ex officio registrars allowed to be open on last Friday of October in
-even-numbered years; hours of operation for county facility for voter
+method of registration closes; offices of county clerk, certain county
+facilities and ex officio registrars allowed to be open on last Friday of October
+in even-numbered years; hours of operation for county facility for voter
 registration.
 1.  Except as otherwise provided in
 NRS 293.269951
@@ -16490,9 +16486,8 @@ constitutional amendment if:
 be significantly reduced if the full text of each proposed constitutional
 amendment were not included;
 (b) The county clerk ensures that a sample ballot
-that includes the full text of each proposed constitutional amendment is
-provided at no charge to each registered voter who requests such a sample
-ballot; and
+that includes the full text of each proposed constitutional amendment is provided
+at no charge to each registered voter who requests such a sample ballot; and
 (c) The sample ballots provided to each polling
 place include the full text of each proposed constitutional amendment.
 4.  A county clerk may establish a system
@@ -16544,8 +16539,8 @@ LARGE TYPE, CALL
 (Insert appropriate telephone number)
 9.  A portion of a sample ballot that
 contains a facsimile of the display area of a voting device may include
-material in less than 12-point type to the extent necessary to make the facsimile
-fit on the pages of the sample ballot.
+material in less than 12-point type to the extent necessary to make the
+facsimile fit on the pages of the sample ballot.
 10.  The sample ballot distributed to a
 person who requests a sample ballot in large type by exercising the option
 provided pursuant to
@@ -16679,13 +16674,13 @@ NRS
 293.567
 Number of registered voters in county to be transmitted by
 county clerk to Secretary of State before certain elections.
-After the close of registration for each primary
-election but not later than the Friday preceding the primary election, after
-the close of registration for each presidential preference primary election but
-not later than the Friday preceding the presidential preference primary
-election and after the close of registration for each general election but not
-later than the Friday preceding the general election, the county clerk shall
-ascertain by precinct and district the number of registered voters in the
+After the close of registration for each
+primary election but not later than the Friday preceding the primary election,
+after the close of registration for each presidential preference primary
+election but not later than the Friday preceding the presidential preference
+primary election and after the close of registration for each general election
+but not later than the Friday preceding the general election, the county clerk
+shall ascertain by precinct and district the number of registered voters in the
 county and their political affiliation, if any, and shall transmit that
 information to the Secretary of State.
 (Added to NRS by
@@ -16723,14 +16718,15 @@ correct the preregistration or registration of the applicant.
 employee specifically authorized to do so by the Director of the Department may
 oversee the completion of an application. The authorized employee shall check
 the application for completeness and verify the information required by the
-application. Each application must include a duplicate copy or receipt to be retained
-by the applicant upon completion of the form. The Department shall, except as
-otherwise provided in this subsection, forward each application on a weekly
-basis to the county clerk or, if applicable, to the registrar of voters of the
-county in which the applicant resides. The applications must be forwarded daily
-during the 2 weeks immediately preceding the last day to register to vote by
-mail pursuant to
-NRS 293.560
+application. Each application must include a duplicate copy or receipt to be
+retained by the applicant upon completion of the form. The Department shall,
+except as otherwise provided in this subsection, forward each application on a
+weekly basis to the county clerk or, if applicable, to the registrar of voters
+of the county in which the applicant resides. The applications must be
+forwarded daily during the 2 weeks immediately preceding the last day to
+register to vote by mail pursuant to
+NRS
+293.560
 or
 293C.527
 , as applicable.
@@ -16756,11 +16752,11 @@ after that date.
 6.  Upon receipt of an application, the
 county clerk or field registrar of voters shall determine whether the
 application is complete. If the county clerk or field registrar of voters
-determines that the application is complete, he or she shall notify the applicant
-and the applicant shall be deemed to be preregistered or registered as of the
-date of the submission of the application. If the county clerk or field
-registrar of voters determines that the application is not complete, he or she
-shall notify the applicant of the additional information required. The
+determines that the application is complete, he or she shall notify the
+applicant and the applicant shall be deemed to be preregistered or registered
+as of the date of the submission of the application. If the county clerk or
+field registrar of voters determines that the application is not complete, he
+or she shall notify the applicant of the additional information required. The
 applicant shall be deemed to be preregistered or registered as of the date of
 the initial submission of the application if the additional information is
 provided within 15 days after the notice for the additional information is
@@ -16774,8 +16770,8 @@ submitted to the Department to correct information on a driver’s license or
 identification card to correct information on a previous application to
 preregister or register unless the person indicates on the form that the
 correction is not to be used for the purposes of preregistration or voter
-registration. The Department shall forward each such form to the county clerk
-or, if applicable, to the registrar of voters of the county in which the person
+registration. The Department shall forward each such form to the county clerk or,
+if applicable, to the registrar of voters of the county in which the person
 resides in the same manner provided by subsection 3 for applications to preregister
 or register to vote.
 8.  Upon receipt of a form to correct
@@ -16869,10 +16865,9 @@ of Nevada 2021, at page 3876
 .)
 NRS
 293.5742
-Procedures for collecting information; use of certain affidavits;
-issuance of certain identification numbers.
-Repealed.
-(See chapter 555,
+Procedures for collecting information; use of certain
+affidavits; issuance of certain identification numbers.
+Repealed. (See chapter 555,
 Statutes
 of Nevada 2021, at page 3876
 .)
@@ -16897,11 +16892,10 @@ NRS 293.57695
 NRS
 293.5757
 Persons may use paper applications; actions of persons regarding
-voter registration must not affect services or assistance provided by Department;
-confidentiality and limitations on use of certain information; prohibition
-against requiring certain documentation; regulations.
-[Replaced
-in revision by
+voter registration must not affect services or assistance provided by
+Department; confidentiality and limitations on use of certain information;
+prohibition against requiring certain documentation; regulations.
+[Replaced in revision by
 NRS 293.57697
 .]
 Administration
@@ -17149,12 +17143,12 @@ to the automatic voter registration agency that indicates the person is a
 citizen of the United States.
 2.  Except as otherwise provided in
 NRS 293.5768
-, the automatic voter registration
-agency shall electronically transmit to the database created by the Secretary
-of State pursuant to
-NRS 293.675
-the
-information described in subsection 1:
+, the automatic voter
+registration agency shall electronically transmit to the database created by
+the Secretary of State pursuant to
+NRS
+293.675
+the information described in subsection 1:
 (a) Except as otherwise provided in paragraph
 (b), not later than 5 working days after collecting the information; and
 (b) During the 2 weeks immediately preceding the
@@ -17258,8 +17252,8 @@ decline to apply to register to vote or have his or her voter registration
 updated, as applicable;
 (c) A preaddressed return envelope with postage
 prepaid;
-(d) A statement setting forth the qualifications to
-vote in this State as provided by
+(d) A statement setting forth the qualifications
+to vote in this State as provided by
 NRS
 293.485
 and that if the person does not meet the qualifications to vote in
@@ -17306,8 +17300,8 @@ acknowledge that he or she has received the notice required by subsection 3 is
 not a declination by the person to apply to register to vote or have his or her
 voter registration information updated.
 6.  If the county clerk determines that a
-person is not eligible to register to vote or if the voter affirmatively declines
-in writing to be registered to vote or have his or her automatic voter
+person is not eligible to register to vote or if the voter affirmatively
+declines in writing to be registered to vote or have his or her automatic voter
 registration updated:
 (a) It shall be deemed that the transmittal from
 the automatic voter registration agency is not a completed voter registration
@@ -17392,8 +17386,8 @@ be disclosed to the public.
 NRS 293.5768
 to
 293.57699
-, inclusive, must not be used
-for any purpose other than voter registration.
+, inclusive, must not be used for
+any purpose other than voter registration.
 (Added to NRS by 2018 initiative petition, Ballot
 Question No. 5; A
 2021,
@@ -17557,14 +17551,15 @@ NRS
 293.5817
 Applicability to city elections; preemption of conflicting city
 charters; exceptions.
-1.  Except as otherwise provided in subsections
-2 and 3, the provisions of
-NRS 293.5772
+1.  Except as otherwise provided in
+subsections 2 and 3, the provisions of
+NRS
+293.5772
 to
 293.5887
-, inclusive, apply to city
-elections and supersede and preempt any conflicting provisions of a city
-charter, regardless of the date of the enactment or amendment of the
+, inclusive,
+apply to city elections and supersede and preempt any conflicting provisions of
+a city charter, regardless of the date of the enactment or amendment of the
 conflicting provisions of the city charter.
 2.  The provisions of
 NRS 293.5772
@@ -17615,9 +17610,9 @@ If the
 county or city clerk authorizes the use of both methods, the county or city
 clerk may limit the use of one method to circumstances when the other method is
 not reasonably available.
-3.  If a registered voter updates his or her
-voter registration information pursuant to this section and applies to vote in
-the election, the county or city clerk may require the voter to cast a
+3.  If a registered voter updates his or
+her voter registration information pursuant to this section and applies to vote
+in the election, the county or city clerk may require the voter to cast a
 provisional ballot in the election if any circumstances exist that give the
 county or city clerk reasonable cause to believe that the use of a provisional
 ballot is necessary to provide sufficient time to verify and determine whether
@@ -17645,12 +17640,13 @@ certain periods and appearing in person to vote at polling place for early
 voting or on election day; casting of provisional ballot under certain
 circumstances.
 1.  An elector may register to vote in the
-county or city, as applicable, in which the elector is eligible to vote by
-submitting an application to register to vote by computer using the system
-established by the Secretary of State pursuant to
-NRS 293.671
-before the elector appears at a
-polling place described in subsection 2 to vote in person.
+county or city, as applicable, in which the elector is eligible to vote by submitting
+an application to register to vote by computer using the system established by
+the Secretary of State pursuant to
+NRS
+293.671
+before the elector appears at a polling place described in
+subsection 2 to vote in person.
 2.  If an elector submits an application to
 register to vote pursuant to this section less than 14 days before the
 election, the elector may vote only in person:
@@ -17684,9 +17680,9 @@ address as proof of the elector’s identity and residency.
 4.  If the driver’s license or
 identification card issued by the Department of Motor Vehicles to the elector
 does not have the elector’s current residential address, the following
-documents may be used to establish the residency of the elector if the current
-residential address of the elector, as indicated on his or her application to
-register to vote, is displayed on the document:
+documents may be used to establish the residency of the elector if the current residential
+address of the elector, as indicated on his or her application to register to
+vote, is displayed on the document:
 (a) A military identification card;
 (b) A utility bill, including, without
 limitation, a bill for electric, gas, oil, water, sewer, septic, telephone,
@@ -17746,9 +17742,9 @@ NRS
 or
 293C.527
 , an elector
-may register to vote in person at any polling place for early voting by personal
-appearance in the county or city, as applicable, in which the elector is
-eligible to vote.
+may register to vote in person at any polling place for early voting by
+personal appearance in the county or city, as applicable, in which the elector
+is eligible to vote.
 2.  To register to vote in person during
 the period for early voting, an elector must:
 (a) Appear before the close of polls at a polling
@@ -17820,8 +17816,8 @@ place.
 )
 NRS
 293.5847
-Methods and procedures for registering and voting in person at
-polling place on election day; casting of provisional ballot.
+Methods and procedures for registering and voting in person at polling
+place on election day; casting of provisional ballot.
 1.  Notwithstanding the close of any method
 of registration for an election pursuant to
 NRS
@@ -17841,8 +17837,8 @@ by a method authorized by the county or city clerk pursuant to this paragraph.
 The county or city clerk shall authorize at least one of the following methods
 for a person to register to vote pursuant to this paragraph:
 (1) A paper application; or
-(2) The system established by the
-Secretary of State pursuant to
+(2) The system established by the Secretary
+of State pursuant to
 NRS 293.671
 .
 Ê
@@ -17861,14 +17857,14 @@ documents may be used to establish the residency of the elector if the current
 residential address of the elector, as indicated on his or her application to
 register to vote, is displayed on the document:
 (a) A military identification card;
-(b) A utility bill, including, without
-limitation, a bill for electric, gas, oil, water, sewer, septic, telephone,
-cellular telephone or cable television service;
+(b) A utility bill, including, without limitation,
+a bill for electric, gas, oil, water, sewer, septic, telephone, cellular
+telephone or cable television service;
 (c) A bank or credit union statement;
 (d) A paycheck;
 (e) An income tax return;
-(f) A statement concerning the mortgage, rental
-or lease of a residence;
+(f) A statement concerning the mortgage, rental or
+lease of a residence;
 (g) A motor vehicle registration;
 (h) A property tax statement; or
 (i) Any other document issued by a governmental
@@ -18059,8 +18055,8 @@ registration information; creation of statewide voter registration list; duties
 of Secretary of State; requirements for list; duties of county and city clerks
 and Department of Motor Vehicles; verification of information with Social
 Security Administration; agreements with state agencies to provide information
-necessary for list; exchange of information with chief election officers of
-other states.
+necessary for list; exchange of information with chief election officers of other
+states.
 1.  The Secretary of State shall establish
 and maintain a centralized, top-down database that collects and stores
 information related to the preregistration of persons and the registration of
@@ -18097,12 +18093,12 @@ and
 (i) Be regularly maintained to ensure the
 integrity of the registration process and the election process.
 4.  Each county and city clerk shall:
-(a) Electronically enter into the database created
-pursuant to subsection 1 all information related to voter preregistration and
-registration obtained by the county or city clerk at the time the information
-is provided to the county or city clerk; and
-(b) Provide the Secretary of State with information
-concerning the voter registration of the county or city and other reasonable
+(a) Electronically enter into the database
+created pursuant to subsection 1 all information related to voter preregistration
+and registration obtained by the county or city clerk at the time the
+information is provided to the county or city clerk; and
+(b) Provide the Secretary of State with
+information concerning the voter registration of the county or city and other reasonable
 information requested by the Secretary of State in the form required by the
 Secretary of State to establish or maintain the statewide voter registration
 list.
@@ -18110,8 +18106,8 @@ list.
 statewide voter registration list, the Secretary of State shall enter into a
 cooperative agreement with the Department of Motor Vehicles to match
 information in the database of the statewide voter registration list with
-information in the appropriate database of the Department of Motor Vehicles to
-verify the accuracy of the information in an application to register to vote.
+information in the appropriate database of the Department of Motor Vehicles to verify
+the accuracy of the information in an application to register to vote.
 6.  The Department of Motor Vehicles shall
 enter into an agreement with the Social Security Administration pursuant to 52
 U.S.C. § 21083, to verify the accuracy of information in an application to
@@ -18136,12 +18132,12 @@ State Registrar of Vital Statistics to those in the statewide voter
 registration list at least once per month.
 9.  Except as otherwise provided in
 NRS 481.063
-or any provision of law
-providing for the confidentiality of information, the Secretary of State may
-enter into an agreement with an agency of this State pursuant to which the
-agency provides to the Secretary of State any information in the possession of
-the agency that the Secretary of State deems necessary to maintain the
-statewide voter registration list.
+or any provision of law providing
+for the confidentiality of information, the Secretary of State may enter into
+an agreement with an agency of this State pursuant to which the agency provides
+to the Secretary of State any information in the possession of the agency that
+the Secretary of State deems necessary to maintain the statewide voter
+registration list.
 10.  The Secretary of State may:
 (a) Request from the chief officer of elections
 of another state any information which the Secretary of State deems necessary
@@ -18272,9 +18268,9 @@ NRS 293B.380
 give prepackaged food items, nonalcoholic beverages, coats, handwarmers or
 other similar items to other persons who are at a polling place or any other
 location described in paragraph (a), if done in accordance with any other law
-and to the extent such items are not distributed inside of a building which
-does not permit the distribution of such items in the building as indicated by
-a sign posted in a prominent place at the entrance of the building.
+and to the extent such items are not distributed inside of a building which does
+not permit the distribution of such items in the building as indicated by a
+sign posted in a prominent place at the entrance of the building.
 (c) The ability of a person to engage in written
 recordation of notes at a polling place or a location other than a polling
 place; or
@@ -18302,8 +18298,8 @@ board officer.
 meaning ascribed to it in
 NRS 205.4617
 .
-(d) “Sensitive information” has the meaning
-ascribed to it in
+(d) “Sensitive information” has the meaning ascribed
+to it in
 NRS 41.1347
 .
 (e) “Stalking” means a violation of
@@ -18554,10 +18550,10 @@ or residential property that is within 100 feet from the entrance to a building
 or other structure in which a polling place is located. The provisions of
 subsection 1 are not intended to prohibit a person from voting solely because
 he or she is wearing a prohibited political insigne and is reasonably unable to
-remove the insigne or cover it. In such a case, the election board officer shall
-take such action as is necessary to allow the voter to vote as expediently as
-possible and then assist the voter in exiting the polling place as soon as is
-possible.
+remove the insigne or cover it. In such a case, the election board officer
+shall take such action as is necessary to allow the voter to vote as expediently
+as possible and then assist the voter in exiting the polling place as soon as
+is possible.
 4.  Any person who violates any provision
 of this section is guilty of a gross misdemeanor.
 5.  As used in this section,
@@ -18635,8 +18631,9 @@ NRS 193.130
 with, or attempts to tamper or interfere with, a mechanical voting system,
 mechanical voting device or any computer program used to conduct an election
 with the intent to influence the outcome of an election is guilty of a category
-B felony and shall be punished by imprisonment in the state prison for a minimum
-term of not less than 2 years and a maximum term of not more than 20 years.
+B felony and shall be punished by imprisonment in the state prison for a
+minimum term of not less than 2 years and a maximum term of not more than 20
+years.
 3.  The county or city clerk shall report
 any alleged violation of this section to the district attorney who shall cause
 appropriate proceedings to be instituted and prosecuted in a court of competent
@@ -18797,8 +18794,8 @@ of this subsection do not apply to a person who preregisters to vote.
 provides to an elector an application to register to vote and who:
 (a) Knowingly falsifies the application or
 knowingly causes an application to be falsified;
-(b) Knowingly provides money or other
-compensation to another for a falsified application; or
+(b) Knowingly provides money or other compensation
+to another for a falsified application; or
 (c) Intentionally fails to submit to the county
 clerk a completed application,
 Ê
@@ -18888,13 +18885,13 @@ prior approval or charter.
 1.  It is unlawful for any person to
 solicit a contribution for any organization the title of which incorporates the
 name, or any form of the name, of any political party in this State without
-first having obtained written approval therefor, or a charter for that
-organization, from the central or executive committee of that political party
-the name of which is being used or incorporated in the title of that
-organization for the county in which the money is being solicited.
-2.  This section does not require any
-person or organization to obtain a charter or written approval if that person
-or organization is:
+first having obtained written approval therefor, or a charter for that organization,
+from the central or executive committee of that political party the name of
+which is being used or incorporated in the title of that organization for the
+county in which the money is being solicited.
+2.  This section does not require any person
+or organization to obtain a charter or written approval if that person or
+organization is:
 (a) Publicly organized for the sole and limited
 purpose of supporting the candidacy of a particular candidate in a single
 election.
@@ -19131,164 +19128,7 @@ county or city clerk, as applicable.
 NRS
 293.908
 Certain persons who may request personal information to be kept
-confidential. [Effective through June 30, 2026.]
-1.  The following persons may request that
-personal information contained in the records of the Secretary of State or a
-county or city clerk be kept confidential:
-(a) Any justice or judge in this State.
-(b) Any senior justice or senior judge in this
-State.
-(c) Any court-appointed master in this State.
-(d) Any judicial personnel of an Indian tribe.
-(e) Any clerk of a court, court administrator or
-court executive officer in this State.
-(f) Any county or city clerk or registrar of
-voters charged with the powers and duties relating to elections and any deputy
-appointed by such county or city clerk or registrar of voters in the elections
-division of the county or city.
-(g) Any public officer.
-(h) Any peace officer or retired peace officer.
-(i) Any firefighter or retired firefighter.
-(j) Any prosecutor.
-(k) Any state or county public defender.
-(l) Any person employed by the Office of the
-Attorney General who prosecutes or defends actions on behalf of the State of
-Nevada or any agency in the Executive Department of the State Government.
-(m) Any person, including, without limitation, a
-social worker, employed by this State or a political subdivision of this State
-who as part of his or her normal job responsibilities:
-(1) Interacts with the public; and
-(2) Performs tasks related to child
-welfare services or child protective services or tasks that expose the person
-to comparable dangers.
-(n) Any county manager in this State.
-(o) Any inspector, officer or investigator
-employed by this State or a political subdivision of this State designated by
-his or her employer:
-(1) Who possesses specialized training in
-code enforcement;
-(2) Who, as part of his or her normal job
-responsibilities, interacts with the public; and
-(3) Whose primary duties are the
-performance of tasks related to code enforcement.
-(p) Any civilian employee who provides support
-services to a law enforcement agency.
-(q) Any provider of health care who practices in
-reproductive health.
-(r) Any employee of or volunteer for a health
-care facility that provides services related to reproductive health.
-(s) Any provider of gender-affirming care.
-(t) The spouse, domestic partner or minor child
-of a person described in paragraphs (a) to (s), inclusive.
-(u) The surviving spouse, domestic partner or
-minor child of a person described in paragraphs (a) to (s), inclusive, who was
-killed in the performance of his or her duties.
-2.  As used in this section:
-(a) “Child protective services” has the meaning ascribed
-to it in
-NRS 432B.042
-.
-(b) “Child welfare services” has the meaning
-ascribed to it in
-NRS 432B.044
-.
-(c) “Code enforcement” means the enforcement of
-laws, ordinances or codes regulating public nuisances or the public health,
-safety and welfare.
-(d) “Firefighter” means a person who is an
-employee of a fire-fighting agency and whose principal duties are to control,
-extinguish, prevent and suppress fires.
-(e) “Fire-fighting agency” means a public fire
-department, fire protection district or other agency of this State or a
-political subdivision of this State, the primary functions of which are to
-control, extinguish, prevent and suppress fires.
-(f) “Gender-affirming care” has the meaning
-ascribed to it in
-NRS 603A.435
-.
-(g) “Health care facility” means any facility
-licensed pursuant to
-chapter 449
-of NRS.
-(h) “Indian tribe” has the meaning ascribed to it
-in 25 U.S.C. § 3602(3).
-(i) “Judicial personnel” has the meaning ascribed
-to it in 25 U.S.C. § 3602(4).
-(j) “Law enforcement agency” has the meaning
-ascribed to it in
-NRS 289.010
-.
-(k) “Peace officer” means:
-(1) Any person upon whom some or all of
-the powers of a peace officer are conferred pursuant to
-NRS 289.150
-to
-289.360
-, inclusive; and
-(2) Any person:
-(I) Who resides in this State;
-(II) Whose primary duties are to
-enforce the law; and
-(III) Who is employed by a law
-enforcement agency of the Federal Government, including, without limitation, a
-ranger for the National Park Service and an agent employed by the Federal
-Bureau of Investigation, Secret Service, United States Department of Homeland
-Security or United States Department of the Treasury.
-(l) “Prosecutor” has the meaning ascribed to it
-in
-NRS 241A.030
-.
-(m) “Provider of health care” means a person who
-is licensed, certified or otherwise authorized by the laws of this State to
-administer health care in the ordinary course of business or practice of a
-profession.
-(n) “Public officer” means a person elected or
-appointed to a position which:
-(1) Is established by the Constitution or
-a statute of this State, or by a charter or ordinance of a political
-subdivision of this State; and
-(2) Involves the continuous exercise, as
-part of the regular and permanent administration of the government, of a public
-power, trust or duty.
-(o) “Reproductive health” means all health care
-matters relating to pregnancy, including, without limitation, prenatal care,
-childbirth, postpartum care, birth control, vasectomy, tubal ligation,
-abortion, abortion care, management of a miscarriage and infertility care.
-(p) “Social worker” means any person licensed
-under
-chapter 641B
-of NRS.
-(Added to NRS by
-2017,
-1556
-; A
-2019,
-728
-,
-867
-;
-2021,
-667
-,
-1241
-;
-2023,
-464
-;
-2025,
-593
-,
-634
-,
-730
-;
-2025,
-36th Special Session, 18
-)
-NRS
-293.908
-Certain persons who may
-request personal information to be kept confidential. [Effective July 1, 2026.]
+confidential.
 1.  The following persons may request that
 personal information contained in the records of the Secretary of State or a
 county or city clerk be kept confidential:
@@ -19316,9 +19156,9 @@ Nevada or any agency in the Executive Department of the State Government.
 social worker, employed by this State or a political subdivision of this State
 who as part of his or her normal job responsibilities:
 (1) Interacts with the public; and
-(2) Performs tasks related to child
-welfare services or child protective services or tasks that expose the person
-to comparable dangers.
+(2) Performs tasks related to child welfare
+services or child protective services or tasks that expose the person to
+comparable dangers.
 (n) Any county manager in this State.
 (o) Any inspector, officer or investigator
 employed by this State or a political subdivision of this State designated by
@@ -19444,7 +19284,7 @@ of NRS.
 ;
 2025,
 36th Special Session, 18
-, effective July 1, 2026)
+)
 NRS
 293.909
 Additional circumstances in which certain persons may petition
@@ -19549,9 +19389,9 @@ persons or entities; records.
 1.  The Secretary of State or a county or
 city clerk may provide confidential information for use:
 (a) By any governmental entity, including,
-without limitation, any court or law enforcement agency, in carrying out its
-functions, or any person acting on behalf of a federal, state or local
-governmental agency in carrying out its functions.
+without limitation, any court or law enforcement agency, in carrying out its functions,
+or any person acting on behalf of a federal, state or local governmental agency
+in carrying out its functions.
 (b) In connection with any civil, criminal,
 administrative or arbitration proceeding before any federal or state court,
 regulatory body, board, commission or agency, including, without limitation,
@@ -19586,8 +19426,8 @@ chapter 692A
 of NRS.
 2.  Except for a reporter or editorial
 employee described in paragraph (g) of subsection 1, a person who obtains
-information pursuant to this section and sells or discloses that information shall
-keep and maintain for at least 5 years a record of:
+information pursuant to this section and sells or discloses that information
+shall keep and maintain for at least 5 years a record of:
 (a) Each person to whom the information is sold
 or disclosed; and
 (b) The purpose for which that person will use
@@ -19625,8 +19465,8 @@ NRS 293.900
 to
 293.914
 , inclusive; or
-(b) Knowingly obtain or disclose information
-pursuant to
+(b) Knowingly obtain or disclose information pursuant
+to
 NRS 293.900
 to
 293.914

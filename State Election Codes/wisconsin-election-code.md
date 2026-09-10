@@ -5,10 +5,10 @@ Sections: 8
 
 ## Wisconsin § 10.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 10.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/10.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 10.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/10.pdf*
 
 ELECTION NOTICES 10.011  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 10
 ELECTION NOTICES
 10.01 Election notice form.
@@ -131,10 +131,10 @@ History:  1973 c. 334 s. 57; 1975 c. 275; 1979 c. 260, 311; 1983 a. 484; 1985 a.
 304; 1987 a. 391; 1989 a. 31; 2001 a. 16; 2005 a. 451; 2011 a. 75; 2015 a. 118 s. 266 
 (10).
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 10.02 ELECTION NOTICES
 10.02 Type B notice content.  (1) Before any election an 
 appropriate type B notice shall be published in substantially the 
@@ -267,10 +267,10 @@ complete election notice shall appear on a single page of the
 newspaper.  If this is impracticable, a footnote in 12-point caps 
 shall indicate the page where the notice is continued.  At the top 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION NOTICES 10.063  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 of each succeeding page, or column of the notice, shall appear in 
 12-point caps and figures the notation, “For information to Elec-
 tors and other facsimile ballots, see page ....”.
@@ -399,10 +399,10 @@ referendum to be held at the election.
 (m)  On the Monday preceding the general election the county 
 clerk shall publish a type B notice containing the same informa-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 10.06 ELECTION NOTICES
 tion prescribed in par. (h).  In addition, the county clerk shall 
 publish a type C notice on the Monday preceding the general 
@@ -535,10 +535,10 @@ a. 165; 2015 a. 118 ss. 120, 266 (10).
 10.07 Combination of notices; cost.  (1) Except as pro-
 vided in sub. (2) in the case of voting machine ballots, whenever 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION NOTICES 10.075  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 any county clerk or municipal or school district clerks within the 
 same county are directed to publish any notice or portion of a no-
 tice under this chapter on the same date in the same newspaper, 
@@ -552,15 +552,15 @@ the cost of giving the type B notice shall be prorated under s. 5.68
 (3).
 History:  1977 c. 427; 1979 c. 311; 1985 a. 304 ss. 130m, 156.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 
 ## Wisconsin § 11.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 11.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/11.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 11.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/11.pdf*
 
 CAMPAIGN FINANCING 11.01011  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 11
 CAMPAIGN FINANCING
 SUBCHAPTER I
@@ -692,10 +692,10 @@ NOTE: Subd. 1. is shown as amended eff. 12-1-27 by 2023 Wis. Act 126, as
 affected by 2025 Wis. Act 7, section 2.  Prior to 12-1-27 it reads:
 1.  Files nomination papers with the appropriate filing officer.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 11.0101 CAMPAIGN FINANCING
 2.  Is nominated as a candidate for state or local office by a 
 caucus under s. 8.05 (1) or by a political party and the nomination 
@@ -824,10 +824,10 @@ ing in his or her own behalf, or acting in behalf of another person
 if the individual is not compensated specifically for those ser-
 vices, including the cost or value of computers, software, Internet 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.01013  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 domain names, Internet service providers, and any other technol-
 ogy that is used to provide access to or use of the Internet, but not 
 including professional video production services purchased by 
@@ -954,10 +954,10 @@ on a ballot at any election and all county, legislative, local, and
 other affiliated committees authorized to operate under the same 
 name.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 11.0101 CAMPAIGN FINANCING
 2.  A committee described under subd. 1. that makes and ac-
 cepts contributions and makes disbursements to support or op-
@@ -1095,10 +1095,10 @@ fected by 2025 Wis. Act 7, section 2.  Prior to 12-1-27 it reads:
 ified in par. (a) together with the report filed by that conduit or committee on 
 the 15th day of the month of January in each year.  If a conduit or committee 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.01035  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 that is subject to par. (a) registers under this chapter or changes status so that 
 par. (a) becomes applicable to the conduit or committee during a calendar year, 
 the conduit or committee shall pay the fee for that year with the filing of the 
@@ -1239,10 +1239,10 @@ makes or accepts a contribution, makes a disbursement, or incurs
 an obligation to support or oppose a candidate at a primary dur-
 ing the period covered by the preelection report, but does not en-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  6 11.0103 CAMPAIGN FINANCING
 gage in such activity during the period covered by the preprimary 
 report, is not required to file a preprimary report.
@@ -1382,10 +1382,10 @@ duit exceeding the threshold established under sub. (1) (a), the
 committee or conduit shall do one of the following after receipt 
 of the unanticipated contribution:
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.02027  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (a)  Immediately file an amended registration statement revok-
 ing the exemption.  An amended registration statement super-
 sedes the previous registration statement.  The individual who 
@@ -1513,10 +1513,10 @@ ceived, disbursement is made, or obligation is incurred.
 (2) CANDIDATE COMMITTEE REQUIRED.  (a)  Except as pro-
 vided in par. (b), no candidate may make or accept contributions, 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  8 11.0202 CAMPAIGN FINANCING
 make disbursements, or incur obligations except through a candi-
 date committee registered under this subchapter.
@@ -1647,10 +1647,10 @@ or to a charitable organization, and shall include the full name
 and mailing address of the donee.
 5.  A statement of totals during the reporting period of contri-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.02049  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 butions received and contributions donated as provided in subd. 
 4.
 6.  A statement of the cash balance on hand at the beginning 
@@ -1780,10 +1780,10 @@ fected by 2025 Wis. Act 7, section 2.  Prior to 12-1-27 it reads:
 (7) R EPORTS OF LATE CONTRIBUTIONS.  If any contribution or contribu-
 tions of $1,000 or more cumulatively are received by a candidate committee for 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  10 11.0204 CAMPAIGN FINANCING
 a candidate for state office from a single contributor during the period begin-
 ning on the day that is 14 days prior to a primary or election and ending on the 
@@ -1909,10 +1909,10 @@ b.  A statement of whether the lender is a commercial lending
 institution.
 c.  The date and amount of the loan.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.030411  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 d.  The full name and mailing address of each guarantor, if 
 any.
 e.  The original amount guaranteed by each guarantor.
@@ -2043,10 +2043,10 @@ to a primary or election and ending on the day of the primary or election, and
 the contribution or contributions are not included in the preprimary or pre-
 election report required of the political party under this chapter, the treasurer 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  12 11.0304 CAMPAIGN FINANCING
 of the political party shall, within 72 hours of receipt, provide the appropriate 
 filing officer with the information required to be reported for contributions re-
@@ -2173,10 +2173,10 @@ in amount or value, together with the name of the person or busi-
 ness with whom the obligation was incurred, and the date and the 
 specific purpose for which each such obligation was incurred.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.050313  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 10.  A statement of totals during the reporting period of dis-
 bursements made, including transfers made to and received from 
 other committees, other income, and loans.
@@ -2305,10 +2305,10 @@ shall be sent to the treasurer at the treasurer’s address indicated
 upon the form.
 (bd)  The email address and personal telephone number of the 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  14 11.0503 CAMPAIGN FINANCING
 treasurer and any other custodian of books and accounts.  Tele-
 phone numbers provided under this paragraph shall be kept con-
@@ -2437,10 +2437,10 @@ san primary or a candidate at a special primary held to nominate
 candidates to be voted for at a special election held to fill a va-
 cancy in one or more of the state or local offices voted for at the 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.060115  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 general election, or to support or oppose other committees engag-
 ing in such activities, shall do all the following:
 (a)  File a preprimary report no earlier than 14 days and no 
@@ -2565,10 +2565,10 @@ der this chapter shall designate a treasurer to comply with the reg-
 istration and reporting requirements under this subchapter.
 (2) The treasurer shall ensure that all funds received are de-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  16 11.0601 CAMPAIGN FINANCING
 posited in the independent expenditure committee depository 
 account.
@@ -2697,10 +2697,10 @@ the end of the reporting period.
 (b)  The independent expenditure committee shall begin each 
 report filed under this chapter with the first contribution re-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.060517  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 ceived, disbursement made, or obligation incurred during the re-
 porting period.
 (2) REPORTS TO SUPPORT OR OPPOSE CANDIDATES AT SPRING 
@@ -2830,10 +2830,10 @@ nation under s. 11.1203 with respect to any candidate or agent or
 candidate committee who is supported or opposed by the express 
 advocacy.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  18 11.0605 CAMPAIGN FINANCING
 7.  The name and mailing and street address of the indepen-
 dent expenditure committee’s designated agent in this state.
@@ -2959,10 +2959,10 @@ tion held to fill a vacancy in one or more of the nonpartisan state
 or local offices voted for at the spring election, or to support or 
 oppose committees engaging in such activities, shall, annually in 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.080319  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 each year of an election cycle, file a report on January 15 and July 
 15.
 (3) REPORTS TO SUPPORT OR OPPOSE CANDIDATES AT SPRING 
@@ -3088,10 +3088,10 @@ mailings that are required by law or by rule of the commission
 shall be sent to the treasurer at the treasurer’s address indicated 
 upon the form.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  20 11.0803 CAMPAIGN FINANCING
 (bd)  The email address and personal telephone number of the 
 treasurer and any other custodian of books and accounts.  Tele-
@@ -3220,10 +3220,10 @@ July 15.
 July 15.
 (d)  In an even-numbered year, file a report on September 30 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.090421  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 indicating contributions, disbursements, and obligations re-
 ceived, made, or incurred after July 1 that are not included in the 
 preprimary report.
@@ -3347,10 +3347,10 @@ specific purpose for which each such obligation was incurred.
 bursements made, including transfers made to and received from 
 other committees, other income, and loans.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  22 11.0904 CAMPAIGN FINANCING
 11.  A statement of the balance of obligations incurred as of 
 the end of the reporting period.
@@ -3476,10 +3476,10 @@ advocacy.
 1.  A communication, other than an advertisement, appearing 
 in a news story, commentary, or editorial distributed through the 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.110123  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 facilities of any news organization, unless the facilities are con-
 trolled by any committee or candidate.
 2.  A communication made exclusively between an organiza-
@@ -3607,10 +3607,10 @@ affected by 2025 Wis. Act 7, section 2.  Prior to 12-1-27 it reads:
 2.  Two cents times the number of inhabitants of the jurisdiction or dis-
 trict, according to the latest federal census or the census information on which 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  24 11.1101 CAMPAIGN FINANCING
 the district is based, as certified by the appropriate filing officer, but not more 
 than $5,000.
@@ -3706,10 +3706,10 @@ successor is elected or the incumbent is reelected.
 (b)  For a candidate elected to an office at the spring election, 
 from the July 1 immediately after the candidate is elected to his or 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.111125  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 her current term of office to the June 30 immediately after a suc-
 cessor is elected or the incumbent is reelected.
 (2) For an individual who is a candidate for an office that the 
@@ -3835,10 +3835,10 @@ History:  2015 a. 117.
 section:
 (a)  “Election period” means any of the following:
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  26 11.1111 CAMPAIGN FINANCING
 1.  The period beginning on December 1 and ending on the 
 date of the spring election.
@@ -3971,10 +3971,10 @@ vided in this subsection.
 (b)  The first candidate committee may transfer funds to the 
 2nd candidate committee, subject to all of the following:
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.120327  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 1.  Any money contributed to the first candidate committee in 
 a prior contribution limit period is the property of the first com-
 mittee. If the first candidate committee makes a contribution to 
@@ -4101,10 +4101,10 @@ other candidates.
 (b)  Candidates, candidate committees, legislative campaign 
 committees, and political parties responding to inquiries about a 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  28 11.1203 CAMPAIGN FINANCING
 candidate’s or political party’s position on legislative or policy 
 issues.
@@ -4235,10 +4235,10 @@ par. (b), no person may solicit or receive from any state officer or
 employee or from any officer or employee of the University of 
 Wisconsin Hospitals and Clinics Authority any contribution dur-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.130329  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 ing established hours of employment or while the officer or em-
 ployee is engaged in his or her official duties.
 (b)  Paragraph (a) does not apply to communications about a 
@@ -4363,10 +4363,10 @@ identify its source in the manner prescribed in pars. (b) and (c).
 taining express advocacy printed on small items on which the in-
 formation required by this subsection cannot be conveniently 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  30 11.1303 CAMPAIGN FINANCING
 printed, including text messages, social media communications, 
 and certain small advertisements on mobile phones.  The com-
@@ -4501,10 +4501,10 @@ be filed under this chapter has been filed in the form and by the
 time prescribed by law, and whether it conforms on its face to the 
 requirements of this chapter.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 CAMPAIGN FINANCING 11.140031  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (10) Immediately send to any committee or conduit which is 
 delinquent in filing, or which has filed otherwise than in the 
 proper form, a notice that the committee or conduit has failed to 
@@ -4631,10 +4631,10 @@ quired to forfeit not more than $50 or one percent of the annual
 salary of the office for which the candidate is being supported or 
 opposed, whichever is greater, for each day of delinquency.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  32 11.1400 CAMPAIGN FINANCING
 (3) Notwithstanding sub. (1), any person who makes any con-
 tribution in violation of this chapter may be required to forfeit tre-
@@ -4737,15 +4737,15 @@ Former s. 11.61 (1) (a), 1977 stats., does not require the state to prove that t
 fendant had actual knowledge of the violated statute.  State v. Dreske, 88 Wis. 2d 60, 
 276 N.W.2d 324 (Ct. App. 1979).
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 
 ## Wisconsin § 12.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 12.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/12.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 12.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/12.pdf*
 
 PROHIBITED ELECTION PRACTICES 12.041  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 12
 PROHIBITED ELECTION PRACTICES
 12.01 Definitions.
@@ -4860,10 +4860,10 @@ of the election.
 day on which the question to be voted upon is submitted to the 
 electorate and ending on the day on which the referendum is held.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 12.04 PROHIBITED ELECTION PRACTICES
 (b)  “Political message” means a message intended for a polit-
 ical purpose or a message which pertains to an issue of public 
@@ -4993,10 +4993,10 @@ other person, in order to induce any elector to:
 person.
 4.  Vote or refrain from voting for or against a particular refer-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 PROHIBITED ELECTION PRACTICES 12.133  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 endum; or on account of any elector having done any of the 
 above.
 (b)  Receives, agrees or contracts to receive or accept any 
@@ -5125,10 +5125,10 @@ taken to do so, official ballots prepared for an election to the
 proper person, or prevent their delivery within the required time, 
 or destroy or conceal the ballots.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 12.13 PROHIBITED ELECTION PRACTICES
 (d)  Remove or destroy any of the supplies or conveniences 
 placed in compartments or polling booths.
@@ -5260,10 +5260,10 @@ sons.  OAG 7-09.
 12.13 (1), (2) (b) 1. to 7. or (3) (a), (e), (f), (j), (k), (L), (m), (y) or 
 (z) is guilty of a Class I felony.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 PROHIBITED ELECTION PRACTICES 12.605  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (am)  Whoever violates s. 12.13 (3) (ag) is guilty of a Class G 
 felony.
 (b)  Whoever violates s. 12.03, 12.05, 12.07, 12.08 or 12.13 
@@ -5321,15 +5321,15 @@ History:  1973 c. 334; 1975 c. 85; 1977 c. 418 s. 924 (18) (e); 1977 c. 427; 197
 c. 249, 311, 328; 1983 a. 484; 1985 a. 304; 1997 a. 283; 1999 a. 49; 2001 a. 109; 
 2005 a. 451; 2007 a. 1; 2015 a. 117; 2023 a. 52; 2025 a. 43.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 
 ## Wisconsin § 5.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 5.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/5.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 5.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/5.pdf*
 
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.011  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 5
 ELECTIONS — GENERAL PROVISIONS; BALLOTS AND VOTING SYSTEMS
 SUBCHAPTER I
@@ -5457,10 +5457,10 @@ Sub. (1) applies only after an election has been held and the will of the people
 manifested.  City of Chippewa Falls v. Town of Hallie, 231 Wis. 2d 85, 604 N.W.2d 
 300 (Ct. App. 1999), 99-0832.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 5.01 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 Only substantial violations of the election law should operate to vacate an elec-
 tion.  Carlson v. Oconto County Board of Canvassers, 2001 WI App 20, 240 Wis. 2d 
@@ -5591,10 +5591,10 @@ ciled in this state immediately prior to the parent’s departure from
 the United States, and who is not registered to vote or voting in 
 any other state, territory, or possession.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.053  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (12s) “Partisan primary” means the primary held the 2nd 
 Tuesday in August to nominate candidates to be voted for at the 
 general election.
@@ -5733,10 +5733,10 @@ bility, the commission may:
 (b)  In the discharge of its duties and after providing notice to 
 any party who is the subject of an investigation, subpoena and 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 5.05 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 bring before it any person and require the production of any pa-
 pers, books, or other records relevant to an investigation.  Not-
@@ -5870,10 +5870,10 @@ by the commission, but in no case may the interval for reporting
 exceed 30 days.  If the commission authorizes the commission 
 administrator to investigate any matter without retaining a special 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.055  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 investigator, the administrator shall make periodic reports to the 
 commission, as directed by the commission, but in no case may 
 the reporting interval exceed 30 days.  During the pendency of 
@@ -6005,10 +6005,10 @@ potential violation under subd. 2. or 14. and the district attorney
 informs the commission that he or she declines to prosecute any 
 alleged civil or criminal violation related to any matter referred to 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  6 5.05 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 the district attorney by the commission, or the district attorney 
 fails to commence a prosecution of any civil or criminal violation 
@@ -6141,10 +6141,10 @@ commission and a summary of its determinations and advisory
 opinions issued under sub. (6a).  Except as authorized or required 
 under sub. (5s) (f), the commission shall make sufficient alter-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.057  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 ations in the summaries to prevent disclosing the identities of in-
 dividuals or organizations involved in the decisions or opinions.  
 The commission shall identify in its report the statutory duties of 
@@ -6275,10 +6275,10 @@ mal advisory opinion that has been issued by or on behalf of the
 commission, the commission may withdraw the opinion, issue a 
 revised formal or informal advisory opinion, or request an opin-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  8 5.05 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 ion from the attorney general.  No person acting after the date of 
 the withdrawal or issuance of the revised advisory opinion is ex-
@@ -6411,10 +6411,10 @@ subd. 1. to designate whether the elector wishes to receive the ap-
 plications under subd. 1. electronically or by mail.
 3.  To permit a municipal clerk to transmit to a military elec-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.069  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 tor or an overseas elector under subd. 1. a registration application 
 or absentee ballot application electronically or by mail, as di-
 rected by the elector under subd. 2., together with related voting, 
@@ -6563,10 +6563,10 @@ History:  2003 a. 265; 2007 a. 1; 2015 a. 118, 261.
 5.06 Compliance review; appeal.   (1) Whenever any 
 elector of a jurisdiction or district served by an election official 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  10 5.06 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 believes that a decision or action of the official or the failure of 
 the official to act with respect to any matter concerning nomina-
@@ -6703,10 +6703,10 @@ campaigns, other than a violation of the laws regulating campaign
 financing, occurs or is proposed to occur, the attorney general or 
 the district attorney of the county where the violation occurs or is 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.1511  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 proposed to occur may sue for injunctive relief, a writ of man-
 damus or prohibition, or other such legal or equitable relief as 
 may be appropriate to compel compliance with the law.  No bond 
@@ -6836,10 +6836,10 @@ each ward shall contain not less than 1,000 nor more than 4,000
 inhabitants.
 2.  In any city in which the population is at least 39,000 but 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  12 5.15 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 less than 150,000, each ward shall contain not less than 800 nor 
 more than 3,200 inhabitants.
@@ -6971,10 +6971,10 @@ report shall be current to the nearest January 1 or July 1 preceding
 the date of the report.
 2.  In each year following the year of a federal decennial cen-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.2513  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 sus, the July report shall instead be transmitted no later than No-
 vember 1 and shall be current to the date of the report.  The No-
 vember 1 report shall be accompanied by a list of the block num-
@@ -7108,10 +7108,10 @@ a class 3 notice.
 near as possible to the closed location to notify all electors of the 
 closure and of their new polling location.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  14 5.25 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 5.  In a municipality establishing one polling place only, es-
 tablishes a new polling location approved by the majority of the 
@@ -7242,10 +7242,10 @@ a. 484; 1985 a. 304; 1999 a. 182; 2001 a. 16; 2003 a. 265; 2005 a. 451; 2011 a. 
 32; 2015 a. 118 s. 266 (10).
 5.36 Notice of voting by individuals with disabilities.   
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.5115  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 Any individual with a disability may notify a municipal clerk that 
 he or she intends to vote at a polling place on election day and 
 may request that a specific type of accommodation be provided 
@@ -7371,10 +7371,10 @@ tially to the official ballot forms prescribed by the commission
 under s. 7.08 (1) (a).
 (7) In partisan primary elections, all ballots shall be of uni-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  16 5.51 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 form color and size, and the same type of paper shall be used for 
 all ballots.
@@ -7504,10 +7504,10 @@ utive director of the county board of election commissioners in
 the manner specified in s. 5.60 (1) (b).
 (2m) METROPOLITAN SEWERAGE COMMISSION.  Except as 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.6017  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 authorized in s. 5.655, there shall be a separate ballot for mem-
 bers of the metropolitan sewerage commission if commissioners 
 are elected under s. 200.09 (11) (am), with candidates for differ-
@@ -7640,10 +7640,10 @@ town offices in the form prescribed by the commission under s.
 be used for the election of supervisors to numbered seats and one 
 ballot form shall be used for the election of supervisors to un-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  18 5.60 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 numbered seats.  On the ballot used for the election of supervi-
 sors to unnumbered seats, all supervisor candidates shall be listed 
@@ -7779,10 +7779,10 @@ for the period ending with the following general election.
 trict or county at any partisan primary election only if at least one 
 candidate of the party for any national, state or county office 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.6419  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 qualifies to have his or her name appear on the ballot under the 
 name of that party within that assembly district or county.  The 
 county clerk or county board of election commissioners shall 
@@ -7916,10 +7916,10 @@ and vice president certified under s. 8.16 (7) or filed under s. 8.20
 shall appear on the ballot in the form prescribed in s. 7.08 (2) (a).  
 The names of the presidential electors for the candidates supplied 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  20 5.64 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 under ss. 8.18 (2) and 8.20 (2) (d) are not listed on the ballot but 
 a vote for the candidates for president and vice president is a vote 
@@ -8051,10 +8051,10 @@ school, technical college, sewerage or sanitary district, the district
 shall pay for the cost of the ballot.  If no other level of government 
 is involved in a school, technical college, sewerage or sanitary 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.8121  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 district election, the district shall pay for all costs of the ballots, 
 supplies, notices and other materials.  If ballots, supplies, notices 
 or other materials are used for elections within more than one unit 
@@ -8178,10 +8178,10 @@ tors is used at a polling place, a single ballot may be used for all
 offices, referenda and parties.  The ballot information, whether 
 placed on the ballot or on the voting device, shall, as far as practi-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  22 5.81 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 cable, be grouped and ordered in the same manner as provided for 
 other ballots under this chapter, except that the information on the 
@@ -8311,10 +8311,10 @@ for return of the ballots.  The “Overvoted Ballot” ballots and their
 envelopes shall be placed in the “Original Ballots” envelope.
 (c)  Ballots bearing write-in votes marked in the place desig-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.8923  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 nated for write-in votes, bearing the initials of an election official, 
 not resulting in an overvote, and otherwise complying with the 
 election laws as to marking shall be counted, tallied, and their 
@@ -8446,10 +8446,10 @@ History:  1979 c. 311; 1983 a. 484; 2003 a. 265; 2015 a. 118 s. 266 (10).
 tabulating equipment shall be appended to the tally sheet by the 
 canvassers.  The return constitutes a part of the official return for 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  24 5.89 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING
 the ward or election district.  The municipal clerk shall check the 
 totals shown by the return and, if it appears that there is an obvi-
@@ -8581,10 +8581,10 @@ desire to vote whenever write-in votes are permitted.
 tors in the form provided by law.
 (6) The voting device or machine permits an elector in a pri-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTIONS — GENERAL PROVISIONS; BALLOTS & VOTING 5.9525  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 mary election to vote for the candidates of the recognized politi-
 cal party of his or her choice, and the automatic tabulating equip-
 ment or machine rejects any ballot on which votes are cast in the 
@@ -8689,15 +8689,15 @@ the information specified in s. 10.02 (3) in type B notices when-
 ever the type B notice information is inapplicable.
 History:  1979 c. 311; 2015 a. 118 s. 266 (10).
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 
 ## Wisconsin § 6.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 6.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/6.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 6.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/6.pdf*
 
 THE ELECTORS 6.061  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 6
 THE ELECTORS
 SUBCHAPTER I
@@ -8831,10 +8831,10 @@ entitled to vote if the person complies with this chapter.
 History:  1971 c. 336 s. 37; 1981 c. 390 s. 252; 1991 a. 316.
 6.06 Information for uniformed service members.  The 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 6.06 THE ELECTORS
 commission is the agency designated by this state under 42 USC 
 1973ff-1 to provide information regarding voter registration and 
@@ -8966,10 +8966,10 @@ affidavit shall be in substantially the following form:
 STATE OF WISCONSIN
 County of ....
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.153  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 I, ...., do solemnly swear that I am a citizen of the United 
 States; that prior to establishing Wisconsin residence, my legal 
 residence was in the .... (town) (village) (city) of ...., state of ...., 
@@ -9100,10 +9100,10 @@ inspectors or, in municipalities where absentee ballots are can-
 vassed under s. 7.52, when it appears by due proof to the board of 
 absentee ballot canvassers that a person voting at an election has 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 6.15 THE ELECTORS
 died before the date of the election, the inspectors or board of ab-
 sentee ballot canvassers shall return the ballot with defective bal-
@@ -9237,10 +9237,10 @@ another military elector and who did not maintain a residence in
 this state prior to becoming a military elector shall vote in the 
 ward or election district for the address of his or her spouse.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.245  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 2.  A military elector voting in this state who is the dependent 
 of another military elector and who did not maintain a residence 
 in this state prior to becoming a military elector shall vote in the 
@@ -9373,10 +9373,10 @@ a. 391; 1989 a. 192; 1995 a. 313; 1999 a. 182; 2001 a. 16; 2005 a. 149, 451; 201
 section, except as otherwise provided, “overseas elector” means a 
 U.S. citizen who is not disqualified from voting under s. 6.03, 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  6 6.24 THE ELECTORS
 who has attained or will attain the age of 18 by the date of an 
 election at which the citizen proposes to vote and who does not 
@@ -9510,10 +9510,10 @@ ceived by the appropriate municipal clerk no later than the appli-
 cable time prescribed in s. 6.87 (6).
 (c)  A completed and signed federal write-in absentee ballot 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.297  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 submitted by a qualified elector under par. (a) serves as an appli-
 cation for an absentee ballot and need not be accompanied by a 
 separate application.
@@ -9642,10 +9642,10 @@ tration, except as authorized under this section or s. 6.55 (2) or
 6.86 (3) (a) 2.  Any person whose name is not on the registration 
 list but who is otherwise a qualified elector is entitled to vote at 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  8 6.29 THE ELECTORS
 the election upon compliance with this section, if the person 
 complies with all other requirements for voting at the polling 
@@ -9780,10 +9780,10 @@ the proposed elector is not qualified, the commission or clerk
 shall enter the elector’s name on the registration list and transmit 
 a 1st class letter or postcard to the registrant, specifying the elec-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.339  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 tor’s ward or aldermanic district, or both, if any, and polling 
 place.  The letter or postcard shall be sent within 10 days of re-
 ceipt of the form.  If the letter or postcard is returned, or if the 
@@ -9916,10 +9916,10 @@ date entries that change on the date of a general election within 60
 days after that election.
 4.  The municipal clerk shall provide to the commission infor-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  10 6.33 THE ELECTORS
 mation that is confidential under s. 6.47 (2) in such manner as the 
 commission prescribes.
@@ -10057,10 +10057,10 @@ a letter to a voter’s address so that the letter itself suffices as proof.  Al
 Government Accountability Board issued a ruling requiring election officials to ac-
 cept electronic versions of proof of residence.  Wisconsin’s election system is gener-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.3611  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 ous in permitting same-day registration at the polling place.  Proof of residence 
 helps assign voters to their proper districts and is valid for that reason alone.  Luft v. 
 Evers, 963 F.3d 665 (2020).
@@ -10188,10 +10188,10 @@ ficial purposes.
 (c)  The list shall be designed in such a way that the municipal 
 clerk or board of election commissioners of any municipality and 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  12 6.36 THE ELECTORS
 any election official who is authorized by the clerk or executive 
 director of the board of election commissioners may, by elec-
@@ -10324,10 +10324,10 @@ Cross-reference: See also s. EL 3.50, Wis. adm. code.
 of domestic abuse, sexual assault, or stalking.   (1) In 
 this section:
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.4713  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (ag)  “Domestic abuse victim service provider” means an or-
 ganization that is certified by the department of children and fam-
 ilies as eligible to receive grants under s. 49.165 (2) and whose 
@@ -10457,10 +10457,10 @@ der sub. (6).
 address under sub. (2):
 (a)  To a law enforcement officer for official purposes.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  14 6.47 THE ELECTORS
 (b)  To a state or local governmental officer pursuant to a spe-
 cific law that necessitates obtaining the name or address.
@@ -10592,10 +10592,10 @@ board of election commissioners of a municipality the responsi-
 bility to change the registration status of electors when required 
 under sub. (2).
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.5515  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (2r) As soon as practicable, but no later than August 1 follow-
 ing the completion of the process under subs. (1) and (2), the 
 commission shall publish on its Internet site the following infor-
@@ -10729,10 +10729,10 @@ receipt of the registration form, the official or inspector shall en-
 ter both the type of identifying document submitted by the elector 
 as proof of residence and the name of the entity or institution that 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  16 6.55 THE ELECTORS
 issued the identifying document, and, if the identifying document 
 includes a number that applies only to the individual holding that 
@@ -10867,10 +10867,10 @@ election commissioners receives notice from the elections com-
 mission under sub. (7) that the elections commission will per-
 form the audit.  The audit shall be made by 1st class postcard.  
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.7917  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 The postcard shall be marked in accordance with postal regula-
 tions to ensure that it will be returned to the clerk, board of elec-
 tion commissioners, or elections commission if the elector does 
@@ -10999,10 +10999,10 @@ shall enter next to the name and address of the elector on the poll,
 supplemental, or separate list the words “exempt by order of in-
 spectors”.  If both officials do not waive the signature require-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  18 6.79 THE ELECTORS
 ment and the elector wishes to vote, the official or officials who 
 do not waive the requirement shall require the elector to vote by 
@@ -11144,10 +11144,10 @@ the candidate of the party of the elector’s choice, if that person’s
 name does not appear on the official ballot of that party, by writ-
 ing in the name of the person in the space provided on the ballot 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.8419  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 or the ballot provided for that purpose, or where voting machines 
 are used, in the irregular ballot device, designating the party for 
 which the elector desires such person to be the nominee.
@@ -11277,10 +11277,10 @@ SUBCHAPTER IV
 VOTING ABSENTEE
 6.84 Construction.  (1) LEGISLATIVE POLICY.  The legisla-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  20 6.84 THE ELECTORS
 ture finds that voting is a constitutional right, the vigorous exer-
 cise of which should be strongly encouraged.  In contrast, voting 
@@ -11415,10 +11415,10 @@ clerk shall then enter his or her initials on the certificate envelope
 indicating that the absentee elector presented proof of identifica-
 tion to the clerk.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.8621  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (b)  Except as provided in this section, if application is made 
 by mail, the application shall be received no later than 5 p.m. on 
 the 5th day immediately preceding the election.  If application is 
@@ -11552,10 +11552,10 @@ The agent shall provide proof of the elector’s residence under s.
 under par. (a) is presented to the municipal clerk, if the elector 
 who proposes to vote is qualified, an absentee ballot shall be is-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  22 6.86 THE ELECTORS
 sued and the name of such hospitalized elector shall be recorded 
 by the clerk.  An agent who is issued an absentee ballot under this 
@@ -11698,10 +11698,10 @@ nicipal clerk shall verify that the name on the proof of identifica-
 tion conforms to the name on the application.  The clerk shall not 
 issue an absentee ballot to an elector who is required to enclose a 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.8723  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 copy of proof of identification or an authorized substitute docu-
 ment with his or her application unless the copy is enclosed and 
 the proof is verified by the clerk.
@@ -11833,10 +11833,10 @@ in the presence of the witness, fold the ballots so each is separate
 and so that the elector conceals the markings thereon and deposit 
 them in the proper envelope.  If a consolidated ballot under s. 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  24 6.87 THE ELECTORS
 5.655 is used, the elector shall fold the ballot so that the elector 
 conceals the markings thereon and deposit the ballot in the proper 
@@ -11982,10 +11982,10 @@ to protect the secrecy of the ballot.  Luft v. Evers, 963 F.3d 665 (2020).
 The federal Voting Rights Act is clear:  disabled voters who need assistance in re-
 turning an absentee ballot are entitled to ask a person of their choosing for that assis-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.87525  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 tance.  Wisconsin state courts have construed sub. (4) (b) 1. as prohibiting voters, in-
 cluding disabled voters, from receiving such assistance, so that portion of sub. (4) 
 (b) 1. is preempted by the Act.  Carey v. Wisconsin Elections Commission, 624 F. 
@@ -12118,10 +12118,10 @@ under s. 6.86 (1) (a) 1. at that residence.
 municipality who is an occupant of a residential care facility or 
 qualified retirement home in that municipality requests an absen-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  26 6.875 THE ELECTORS
 tee ballot for an election and the municipal clerk or board of elec-
 tion commissioners dispatches special voting deputies to that fa-
@@ -12256,10 +12256,10 @@ History:  1985 a. 304; 1987 a. 391; 1989 a. 192; 1997 a. 127, 188, 237; 1999 a.
 32, 182; 2001 a. 16, 109; 2005 a. 149, 451; 2007 a. 96; 2011 a. 23, 75; 2013 a. 159; 
 2015 a. 118 s. 266 (10).
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.9227  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 6.88 Voting and recording the absentee ballot.   (1) 
 When an absentee ballot arrives at the office of the municipal 
 clerk, or at an alternate site under s. 6.855, if applicable, the clerk 
@@ -12392,10 +12392,10 @@ elector of this election”; and shall then ask questions which are
 appropriate as determined by the commission, by rule, to test the 
 person’s qualifications.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  28 6.92 THE ELECTORS
 (2) An inspector appointed under s. 7.30 (2) (am)  may not 
 challenge any person offering to vote.
@@ -12529,10 +12529,10 @@ envelope “Ballot under s. 6.965, stats.”  Upon receiving the enve-
 lope, the inspectors shall open and write on the back of the ballot 
 the serial number of the elector corresponding to the number kept 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 THE ELECTORS 6.9729  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 at the election on the poll list or other list maintained under s. 
 6.79 and the notation “s. 6.965.”  The inspectors shall indicate on 
 the poll list or other list maintained under s. 6.79 the fact that the 
@@ -12665,15 +12665,15 @@ additional ballots reviewed by the board of canvassers.
 History:  2003 a. 265; 2005 a. 253, 451; 2009 a. 180; 2011 a. 23, 115, 227; 2015 
 a. 118, 196; 2017 a. 369; 2025 a. 214.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 
 ## Wisconsin § 7.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 7.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/7.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 7.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/7.pdf*
 
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.081  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 7
 ELECTION OFFICIALS; BOARDS; SELECTION AND DUTIES; CANVASSING
 SUBCHAPTER I
@@ -12793,10 +12793,10 @@ sheet statements for all elections the results of which are re-
 portable to the commission under s. 7.60 (4) (a), and all other ma-
 terials as it deems necessary to conduct the elections.  The sample 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 7.08 ELECTION OFFICIALS; DUTIES; CANVASSING
 forms shall contain the necessary certificates of the inspectors 
 and canvassers with notes explaining their use and statutory 
@@ -12932,10 +12932,10 @@ bution to any person at cost or free.
 (d)  The county clerk may receive and store any unused ballots 
 after an election upon request of any municipal clerk of a munic-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.153  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 ipality within the county, and may destroy such ballots pursuant 
 to s. 7.23 (1) (am).
 (2) PREPARING BALLOTS.  The county clerk shall prepare 
@@ -13071,10 +13071,10 @@ the suspected activity occurs and to the commission.  The com-
 mission shall annually report the information obtained under this 
 paragraph to the legislature under s. 13.172 (2).
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 7.15 ELECTION OFFICIALS; DUTIES; CANVASSING
 (h)  Review, examine and certify the sufficiency and validity 
 of petitions and nomination papers.
@@ -13206,10 +13206,10 @@ cause the electors have not satisfied relevant voting requirements.
 History:  1971 c. 304 s. 29 (2); 1973 c. 334 s. 57; 1975 c. 85 ss. 50, 65; 1975 c. 
 275, 422; 1977 c. 283; 1977 c. 394 s. 54; 1977 c. 427, 447; 1979 c. 260, 311; 1981 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.235  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 c. 391; 1983 a. 484; 1985 a. 304; 1987 a. 391; 1989 a. 192; 1991 a. 316; 1999 a. 182; 
 2001 a. 16; 2003 a. 265; 2005 a. 451; 2007 a. 1; 2011 a. 23, 45, 75, 115; 2013 a. 148; 
 2015 a. 118 ss. 88, 266 (10); 2015 a. 209, 229; 2017 a. 369; 2023 a. 54.
@@ -13342,10 +13342,10 @@ to units or compartments for use with tabulating equipment for an
 electronic voting system that was approved for use prior to Janu-
 ary 1, 2009, and that is not used in a federal election.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  6 7.23 ELECTION OFFICIALS; DUTIES; CANVASSING
 (h)  Except as provided in par. (f), ballots may be destroyed 30 
 days after any election.
@@ -13477,10 +13477,10 @@ qualified elector of a county in which the municipality where the
 official serves is located, and each chief inspector shall be a qual-
 ified elector of the municipality in which the chief inspector 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.307  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 serves.  If no qualified candidate for chief inspector is available or 
 if the chief inspector is appointed to fill a vacancy under par. (b), 
 the person so appointed need not be a qualified elector of the mu-
@@ -13614,10 +13614,10 @@ thorized under par. (e), the board of election commissioners shall
 appoint all first choice nominees for so long as positions are 
 available.  The board of election commissioners shall appoint 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  8 7.30 ELECTION OFFICIALS; DUTIES; CANVASSING
 other individuals in its discretion and may designate such alter-
 nates as it deems advisable.
@@ -13752,10 +13752,10 @@ as chief inspector at each polling place designated under s. 5.15
 any polling place, the municipal clerk shall appoint one of the 
 other inspectors who is certified under s. 7.31 to fill the vacancy.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.339  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (c)  If any election official appointed under this section lacks 
 the qualifications set forth in this section, fails to attend training 
 sessions required under s. 7.15 (1) (e) unless excused therefrom, 
@@ -13887,10 +13887,10 @@ under sub. (4) in order to serve as an election official under s.
 7.30 shall certify in writing to the head of the local governmental 
 unit or state agency by which he or she is employed the amount of 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  10 7.33 ELECTION OFFICIALS; DUTIES; CANVASSING
 compensation that the employee receives for such service.  Upon 
 receipt of the certification, the head of the local governmental 
@@ -14024,10 +14024,10 @@ cate shall state the cause of the vacancy, the name of the new
 nominee and the office for which the nomination is made.  A po-
 litical party may not nominate a candidate for an office for which 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.5011  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 no person representing that party has filed nomination papers and 
 a declaration of candidacy.
 (2) The certificate shall be filed within 4 days of the date of 
@@ -14155,10 +14155,10 @@ a vote for the candidate whose name it is opposite.
 candidate may not be counted as a vote for that candidate if the 
 elector makes another mark next to the name of one or more dif-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  12 7.50 ELECTION OFFICIALS; DUTIES; CANVASSING
 ferent candidates for the same office and counting of the mark 
 would result in an excess number of votes cast for the office.
@@ -14293,10 +14293,10 @@ absentee ballots are canvassed under s. 7.52, if the number of bal-
 lots still exceeds the number of voting electors, the inspectors 
 shall place all ballots face down and proceed to check for the ini-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.5113  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 tials.  The inspectors shall mark, lay aside and preserve any ballot 
 not bearing the initials of 2 inspectors or any absentee ballot not 
 bearing the initials of the municipal clerk.  During the count the 
@@ -14430,10 +14430,10 @@ statement.
 (b)  The chief inspector, or one of the inspectors appointed by 
 him or her, immediately after the votes are tabulated or counted at 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  14 7.51 ELECTION OFFICIALS; DUTIES; CANVASSING
 each election, shall report the returns of the election to the munic-
 ipal clerk or to the school district clerk for school district elec-
@@ -14574,10 +14574,10 @@ der the direction and supervision of the board of absentee ballot
 canvassers.
 (c)  In each municipality where absentee ballots are canvassed 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.5215  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 under this section, no later than the closing hour of the polls, the 
 municipal clerk shall post at his or her office and on the Internet 
 at a site announced by the clerk before the polls open, and shall 
@@ -14710,10 +14710,10 @@ uted under s. 7.10 (3), only the votes cast on the corrected ballots
 may be counted for any office or referendum in which the original 
 ballots differ from the corrected ballots.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  16 7.52 ELECTION OFFICIALS; DUTIES; CANVASSING
 (g)  The board of absentee ballot canvassers shall place to-
 gether all ballots counted by it that relate to any national, state, or 
@@ -14847,10 +14847,10 @@ ballot canvassers shall reconcile the poll list of the electors who
 vote by absentee ballot with the corresponding poll list of the 
 electors who vote in person to ensure that no elector is allowed to 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.5317  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 cast more than one ballot.  If an elector who votes in person has 
 submitted an absentee ballot, the absentee ballot is void.  Except 
 as authorized in par. (b), if one or more electors of the municipal-
@@ -14984,10 +14984,10 @@ ballot, the mayor, president, or board chairperson of the munici-
 pality shall designate another qualified elector of the municipal-
 ity to serve in lieu of the clerk and his or her designee for that 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  18 7.53 ELECTION OFFICIALS; DUTIES; CANVASSING
 election.  If any other member of the board of absentee ballot can-
 vassers is a candidate at the election being canvassed, the clerk 
@@ -15125,10 +15125,10 @@ seeking is not a subject of the recount.  If lists of candidates for
 the county board of canvassers are submitted to the county clerk 
 by political party county committees, the lists shall consist of at 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.6019  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 least 3 names and the clerk shall choose the board members from 
 the lists.  Where there is a county board of election commission-
 ers, it shall serve as the board of canvassers.  If the county board 
@@ -15263,10 +15263,10 @@ to any county office, except that the county clerk need not wait
 until expiration of the time allowed to file a petition for a recount 
 if there is no aggrieved party, as defined in s. 9.01 (1) (a) 5.  The 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  20 7.60 ELECTION OFFICIALS; DUTIES; CANVASSING
 certificate notice shall state the amount of the required official 
 bond, if any.  When a petition for a recount is filed, the county 
@@ -15404,10 +15404,10 @@ other board or person.  The commission chairperson or the chair-
 person’s designee shall not count or canvass any statement or re-
 turn which has been made by the county board of canvassers at 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 ELECTION OFFICIALS; DUTIES; CANVASSING 7.7521  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 any other time than that provided in s. 7.60.  If, by the 21st day af-
 ter the date of the election in a presidential election, a county 
 board of canvassers fails to certify a statement or return under s. 
@@ -15544,25 +15544,25 @@ is not required to vote for a candidate who is deceased at the time
 of the meeting.
 History:  1979 c. 246; 2025 a. 214.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  22 7.80 ELECTION OFFICIALS; DUTIES; CANVASSING
 7.80 Notice of election.  Personal service or service by first 
 class mail of a certificate of election is official notification for all 
 legal purposes to any person of his or her election to office.
 History:  1977 c. 427.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 
 ## Wisconsin § 8.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 8.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/8.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 8.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/8.pdf*
 
 NOMINATIONS, PRIMARIES, ELECTIONS 8.051  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 8
 NOMINATIONS, PRIMARIES, ELECTIONS
 8.01 Method of nomination.
@@ -15687,10 +15687,10 @@ one or 2 persons are nominated for the same office.
 (h)  The 2 candidates receiving the highest number of votes 
 cast for each office shall be nominated and certified by the caucus 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 8.05 NOMINATIONS, PRIMARIES, ELECTIONS
 chairperson and tellers to the municipal clerk.  If a town under s. 
 5.60 (6) elects its supervisors to unnumbered seats, candidates 
@@ -15822,10 +15822,10 @@ candidates for an office does not exceed twice the number to be
 elected, their names shall appear on the official ballot for the 
 election without a primary.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 NOMINATIONS, PRIMARIES, ELECTIONS 8.103  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (6) MENOMINEE C OUNTY.  In counties containing only one 
 town candidates shall be nominated for the office of supervisors 
 at large and by wards, and all applicable provisions of this section 
@@ -15956,10 +15956,10 @@ districts.
 (km)  1.  Except as provided in subd. 2. and subject to sub. 
 (3s), for school district officer in any school district that contains 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 8.10 NOMINATIONS, PRIMARIES, ELECTIONS
 territory lying within a 2nd class city, not less than 100 nor more 
 than 200 electors.
@@ -16091,10 +16091,10 @@ tion papers.
 (b)  Any city may provide by charter ordinance, under s. 
 66.0101, that whenever 3 or more candidates file nomination pa-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 NOMINATIONS, PRIMARIES, ELECTIONS 8.125  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 pers for a city office, a primary to nominate candidates for the of-
 fice shall be held.
 (c)  Whenever electors, equal to at least 10 percent of the vote 
@@ -16224,10 +16224,10 @@ nomination of his or her party.
 the presidential preference primary, the commission shall notify 
 each state party organization chairperson under sub. (1) (b) of the 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  6 8.12 NOMINATIONS, PRIMARIES, ELECTIONS
 results of the presidential preference primary within the state and 
 within each congressional district.
@@ -16359,10 +16359,10 @@ or less.
 at the same time.  No filing official may accept nomination pa-
 pers for the same person in the same election for more than one 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 NOMINATIONS, PRIMARIES, ELECTIONS 8.177  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 party.  A person who files nomination papers as the candidate of 
 a recognized political party may not file nomination papers as an 
 independent candidate for the same office at the same election.
@@ -16500,10 +16500,10 @@ or towns having a population of more than 7,500, each ward or
 group of combined wards under s. 5.15 (6) (b)  constituting a 
 polling place on April 15 of the year in which committeemen or 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  8 8.17 NOMINATIONS, PRIMARIES, ELECTIONS
 committeewomen are elected is an “election district”.  To be eligi-
 ble to serve as its committeeman or committeewoman, an indi-
@@ -16635,10 +16635,10 @@ that provided for the county committee under sub. (5) (e).
 quent vacancies filled in the same manner as that provided for the 
 county committee under sub. (5) (f).
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 NOMINATIONS, PRIMARIES, ELECTIONS 8.209  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 6.  Committeemen and committeewomen who are members 
 of committees organized in any political subdivision or assembly 
 district retain their status as members of the county committee.
@@ -16766,10 +16766,10 @@ Cross-reference:  See also s. EL 6.04, Wis. adm. code.
 pendent nominations may be made for any office to be voted for 
 at any general or partisan special election.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  10 8.20 NOMINATIONS, PRIMARIES, ELECTIONS
 (2) (a)  Nomination is by nomination papers.  Each nomina-
 tion paper shall have substantially the following words printed at 
@@ -16903,10 +16903,10 @@ Cross-reference:  See also ss. EL 2.09, 2.11, and 6.04, Wis. adm. code.
 cept a candidate for presidential elector under s. 8.20 (2) (d), shall 
 file a declaration of candidacy, no later than the latest time pro-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 NOMINATIONS, PRIMARIES, ELECTIONS 8.3011  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 vided for filing nomination papers under s. 8.10 (2) (a), 8.15 (1), 
 8.20 (8) (a) or 8.50 (3) (a), or the time provided under s. 8.16 (2) 
 or 8.35 (2) (c).  A candidate shall file the declaration with the of-
@@ -17035,10 +17035,10 @@ than the time prescribed in s. 11.0202 (1) (a).
 and declarations of candidacy are required to be filed shall not 
 place a candidate’s name on the ballot if the candidate’s name is 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  12 8.30 NOMINATIONS, PRIMARIES, ELECTIONS
 ineligible for ballot placement under s. 5.05 (2m) (d) 2. , 15.61 
 (3), or 19.49 (2) (c) 2.
@@ -17172,10 +17172,10 @@ primary election for an office, unless no primary is required for
 the office for which the nomination is made.
 (e)  This subsection does not apply in the event of the death of 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 NOMINATIONS, PRIMARIES, ELECTIONS 8.5013  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 a candidate for nonpartisan office who has no opponent appear-
 ing on the election ballot.
 (3) Whenever a nominee dies after the election ballots are 
@@ -17309,10 +17309,10 @@ office shall be ordered by the board of trustees; the special elec-
 tion for town office shall be ordered by the town board of super-
 visors; the special election for school board member in a school 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  14 8.50 NOMINATIONS, PRIMARIES, ELECTIONS
 district organized under ch. 119 shall be ordered by the school 
 board; the special election for municipal judge shall be ordered 
@@ -17446,10 +17446,10 @@ column or ballot in which the elector will cast his or her vote sep-
 arately for each of the 2 primaries.  Whenever 2 or more special 
 partisan primaries or one or more special partisan primaries and 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 NOMINATIONS, PRIMARIES, ELECTIONS 8.5515  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 a partisan primary are held concurrently, the procedure pre-
 scribed in ss. 5.37 (4), 5.91 (6) and 6.80 (2) (f) applies.
 (d)  The requirements for nominations and special primaries 
@@ -17581,10 +17581,10 @@ of that municipality shall publish type D and E notices of the spe-
 cial referendum at the times specified in s. 10.06 (3).  Whenever 
 a special referendum is called by a special purpose district, the 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  16 8.55 NOMINATIONS, PRIMARIES, ELECTIONS
 clerk of the jurisdiction which calls a special referendum shall 
 publish type D and E notices of the referendum at the times spec-
@@ -17600,15 +17600,15 @@ day, they may publish one notice only and share the cost under s.
 10.07 (1).
 History:  1987 a. 391.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 
 ## Wisconsin § 9.pdf
 
-*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 9.pdf. Last changed: 2026-08-06. Source: https://docs.legis.wisconsin.gov/document/statutes/9.pdf*
+*Citation: Wisconsin Statutes, Chapters 5–12 — Elections, § 9.pdf. Last changed: 2026-09-09. Source: https://docs.legis.wisconsin.gov/document/statutes/9.pdf*
 
 POST-ELECTION ACTIONS; DIRECT LEGISLATION 9.011  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 CHAPTER 9
 POST-ELECTION ACTIONS; DIRECT LEGISLATION
 9.01 Recount.
@@ -17696,7 +17696,7 @@ more than 0.25 percent of the total votes cast for the office or on
 the question if more than 4,000 votes are cast following canvass-
 ing of all valid provisional and absentee ballots, the petitioner is 
 not required to pay a fee.
-2.  If subd. 1 does not apply to the difference between the 
+2.  If subd. 1. does not apply to the difference between the 
 votes cast for the leading candidate and those cast for the peti-
 tioner or the difference between the affirmative and negative 
 votes cast upon any referendum question following canvassing of 
@@ -17729,10 +17729,10 @@ under this subdivision, if the recount results in a difference in the
 votes cast that is below the threshold for paying the fee under 
 subd. 2.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  2 9.01 POST-ELECTION ACTIONS; DIRECT LEGISLATION
 4.  The commission shall deposit all moneys received by it 
 into the account under s. 20.510 (1) (g), and shall pay the fees re-
@@ -17867,10 +17867,10 @@ number of ballots still exceeds the number of voters reduced by
 the number of defective envelopes set aside under subd. 2., the 
 board of canvassers shall place all ballots face down to check the 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 POST-ELECTION ACTIONS; DIRECT LEGISLATION 9.013  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 initials.  Any ballot not properly initialed by 2 inspectors or any 
 absentee ballot not properly initialed by the municipal clerk, the 
 executive director of the board of election commissioners, or a 
@@ -18001,10 +18001,10 @@ or all of the remaining wards or municipalities in the jurisdiction
 or district.  The petition shall be filed not later than 5 p.m. 2 days 
 after the board of canvassers completes the first recount.  The 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  4 9.01 POST-ELECTION ACTIONS; DIRECT LEGISLATION
 proper board of canvassers shall reconvene at 9 a.m. on the next 
 business day following the filing of the petition and proceed to re-
@@ -18139,10 +18139,10 @@ related to the presidential election, except as provided under sub.
 (9) (am).
 (7) COURT PROCEDURES.  (a)  1.  The court with whom an ap-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 POST-ELECTION ACTIONS; DIRECT LEGISLATION 9.015  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 peal is filed shall forthwith issue an order directing each affected 
 county, municipal clerk, or board, and the commission, to trans-
 mit immediately all ballots, papers and records affecting the ap-
@@ -18276,10 +18276,10 @@ after the commission chairperson or the chairperson’s designee
 enters his or her determination and shall enumerate with speci-
 ficity every alleged irregularity, defect, mistake, or fraud commit-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  6 9.01 POST-ELECTION ACTIONS; DIRECT LEGISLATION
 ted during the recount.  The appeal shall commence by serving a 
 written notice of appeal on the other candidates who filed a writ-
@@ -18428,10 +18428,10 @@ trict, or school district office shall contain a statement of a reason
 for the recall which is related to the official responsibilities of the 
 official for whom removal is sought.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 POST-ELECTION ACTIONS; DIRECT LEGISLATION 9.107  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 (c)  A petition requesting the recall of each elected officer 
 shall be prepared and filed separately.
 (d)  No petition may be offered for filing for the recall of an of-
@@ -18561,10 +18561,10 @@ court shall give the matter precedence over other matters not ac-
 corded similar precedence by law.
 (c)  The official against whom the recall petition is filed shall 
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
  8 9.10 POST-ELECTION ACTIONS; DIRECT LEGISLATION
 be a candidate at the recall election without nomination unless 
 the official resigns within 10 days after the original filing of the 
@@ -18696,10 +18696,10 @@ elected.
 (7) PURPOSE.  The purpose of this section is to facilitate the 
 operation of article XIII, section 12, of the constitution and to ex-
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)
 POST-ELECTION ACTIONS; DIRECT LEGISLATION 9.209  Updated 23-24 Wis. Stats.
-Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  August 5, 2026.
+Updated 2023-24 Wis. Stats.  Published and certified under s. 35.18.  September 4, 2026.
 tend the same rights to electors of cities, villages, towns, town 
 sanitary districts, and school districts.
 History:  1977 c. 187 s. 134; 1977 c. 403, 447; 1979 c. 260; 1983 a. 219, 491, 
@@ -18833,5 +18833,5 @@ dinance or to place the issue on the ballot.  State ex rel. Meessmann v. Town of
 Presque Isle, 2023 WI App 36, 408 Wis. 2d 690, 993 N.W.2d 749, 22-0720.
 Vox Populi:  Wisconsin’s Direct Legislation Statute.  Bach.  Wis. Law. May 2008.
 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and through all Supreme Court Orders and Controlled Sub-
-stances Board Orders filed before and in effect on August 5, 2026.  Published and certified under s. 35.18.  Changes effective af-
-ter August 5, 2026, are designated by NOTES. (Published 8-5-26)
+stances Board Orders filed before and in effect on September 4, 2026.  Published and certified under s. 35.18.  Changes effective 
+after September 4, 2026, are designated by NOTES. (Published 9-4-26)

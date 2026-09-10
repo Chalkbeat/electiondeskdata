@@ -6,7 +6,7 @@
 - **What it is:** FEC regulations implementing federal campaign-finance law.
 - **Why useful for reporters / RAG:** Detailed rules on contributions, expenditures, reporting, disclaimers, coordination, political committees and foreign nationals.
 
-Source: https://www.ecfr.gov/current/title-11 (fetched 2026-08-26)
+Source: https://www.ecfr.gov/current/title-11 (fetched 2026-09-09)
 Text from the official eCFR API (https://www.ecfr.gov/api/versioner/v1/full/2026-06-08/title-11.xml), current as of 2026-06-08
 
 ---
@@ -7799,3 +7799,2783 @@ The U.S. Election Assistance Commission adopts the regulations at 31 CFR parts 9
 
 
 PARTS 9431-9499 [RESERVED]
+
+INDEXES TO REGULATIONS
+Editorial Note:
+These listings are provided for information purposes only.
+They are compiled and kept up to date by the Federal Election Commission. The indexes are updated as of January 1, 2025.
+AVAILABILITY TO PUBLIC, See: PUBLIC DISCLOSURE
+DEBTS, COLLECTION OF ADMINISTRATIVE
+Bankruptcy claims, § 8.4
+Collection of, § 8.3
+Debts covered under other regulations or procedures, § 8.2(b)
+Debts that are covered, § 8.2(a)
+Delinquent, referral of, § 8.3(c)
+Interest, penalties and administrative costs, § 8.5
+Purpose and scope, § 8.1
+DEFINITIONS
+Act, § 1.2; § 4.1(e)
+Commission, § 1.2; § 2.2(a); § 4.1(a); § 6.103(b); § 7.2(a)
+Commissioner, § 1.2; § 2.2(b); § 4.1(b); § 5.1(b); § 7.2(b); § 201.2(c)
+Commissioner's staff, § 201.2(d)
+Conduct of business, § 2.2(d)(1)
+Ex parte communication, § 201.2(a); § 7.2(e)
+Inspector General, § 7.2(f)
+Meeting, § 2.2(d)
+Member, § 2.2(b)
+Person, § 2.2(c)
+Record, § 1.2; § 4.1(o)
+DISCLOSURE, See: PUBLIC DISCLOSURE
+EMPLOYEE CONDUCT
+Acceptance of gifts or favors, 5 CFR § 2635.101
+Corrective action, § 7.5
+Ex parte communications in enforcement actions, § 7.8
+Interpretation and guidance, § 7.3
+Making complaints and investigations public, prohibition against, § 7.7; § 111.24(b)
+Reporting suspected violations, § 7.4
+EX PARTE COMMUNICATIONS
+Attempt to prevent, § 7.8(d); § 201.3(c)
+Defined, § 201.2(a)
+Receipt of, § 7.8(d); § 201.3(c); § 201.4(a)
+Sanctions, § 201.5
+Written summary of, § 7.8(d); § 201.3(c)(1) and (2); § 201.4(a)
+FEDERAL ELECTION COMMISSION
+Address of, § 1.2
+Definition of Commission, § 1.2
+FREEDOM OF INFORMATION ACT
+Access of public to materials, § 4.4(b); Part 5
+Appeal of denial, § 4.5(a)(4)(iv); § 4.8
+Definitions used in, § 4.1
+Fees charged under, § 4.9
+Nondisclosable information, § 4.4(e)
+HANDICAPPED PERSONS
+Communications, § 6.160
+Compliance, § 6.170
+Denial of access to, prohibited, § 6.130(b)(3)
+Employment, § 6.140
+Evaluation, § 6.110
+Granting of certification, § 6.130(b)(6)
+Limitation of services or rights, prohibited, § 6.130(b)(1)
+Procurement contractors, § 6.130(b)(5)
+Prohibition against discrimination, § 6.130
+Provisions of information and services to, § 6.160
+Section 504, § 6.103(g); § 6.110(a)
+Selection of work sites, § 6.130(b)(4)
+MEETINGS
+Announcement of, § 2.4
+Annual report, § 2.8
+Changes in, announcement of, § 2.7
+Definitions used in, § 2.2
+Electronic recording equipment, use of, § 2.3(d)
+Open, § 2.3(b)
+Procedures for closing, § 2.5
+Rules, § 2.3
+Statements made during, § 2.3(c)
+Voting procedures, § 2.5(c)
+PRIVACY ACT
+Confidentiality of records, § 1.14
+Correction to record, § 1.7; § 1.8; § 1.9
+Disclosure of requested information, § 1.5
+Definitions used in, § 1.2
+Exemptions, § 1.14
+Procedures for requests, § 1.3
+Records pertaining to individuals, § 1.3(b); § 1.4(a)
+PUBLIC DISCLOSURE
+Availability of records through Public Disclosure and Media Relations Division, § 5.4
+Fees, § 5.6
+Policy on disclosure of records, § 4.2; § 5.2
+Requests for public records, § 5.5
+RECORDS
+Availability to public, § 4.4; § 5.4
+Indexes and supplements, § 4.4(c)
+Maintenance of FOIA, § 4.4(f)
+Meetings, § 2.6
+Privacy Act, See: PRIVACY ACT
+Request for, § 1.3; § 2.6(b) and (c); § 4.7; § 5.5
+RULEMAKING PETITIONS
+Administrative record, § 200.6
+Agency considerations, § 200.5
+Decision not to initiate a rulemaking, § 200.4(b)
+Denial of, § 200.4
+Disposition of, § 200.4
+Ex parte communications concerning, § 201.4
+Filing with Commission, § 200.2
+Processing by Commission of, § 200.3
+SUNSHINE ACT
+Annual report, § 2.8
+Assessment of public interest, § 2.4(c)
+Certification of meetings, § 2.5(b)
+Closing of meetings, § 2.4; § 2.5
+Rules for meetings, § 2.3
+Transcripts and recordings, § 2.6
+See also: MEETINGS
+ACCEPTANCE OF CONTRIBUTIONS
+See: CONTRIBUTIONS
+ACCOUNT
+Allocation between federal and Levin, See: ALLOCATION OF EXPENSES
+Allocation between federal and nonfederal, See: ALLOCATION OF EXPENSES
+Credit union, disbursements from, § 102.9(b)(2)(iii)
+Established by collecting agent, § 102.6(c)(4)
+Federal, separate from nonfederal, § 102.5(a)(1)(i) and (b)(1)(i)
+Levin, See: “LEVIN” FUNDS
+Office, See: OFFICE ACCOUNT
+Transmittal, for joint fundraising, § 102.17(c)(4)
+See also: CAMPAIGN DEPOSITORY
+ACCOUNTANTS' SERVICES
+See: LEGAL AND ACCOUNTING SERVICES
+ACT
+Definition, § 100.18
+ADMINISTRATIVE EXPENSES
+Corporate/labor expenses for separate segregated fund, § 114.1(b); § 114.5(b)
+Delegate selection, § 110.14(c)(1)(ii)
+Polling results purchased by unauthorized committee, § 106.4(d)
+Rent, salary, other recurring expenses not reported as debts, § 104.11(b)
+ADMINISTRATIVE FINES
+See: COMPLIANCE
+ADMINISTRATIVE PERSONNEL
+See also: CORPORATION/LABOR ORGANIZATION/NATIONAL BANK
+ADVERTISING
+See: COMMUNICATIONS/ADVERTISING
+ADVISORY OPINIONS
+Issuance of, § 112.4
+Reconsideration of, § 112.6
+Reliance on, § 112.5
+Standing to receive, § 112.1(a)
+AFFILIATED COMMITTEE
+Assignment of debts to, § 116.2(c)(3)
+Circumstantial factors determining affiliation, § 100.5(g)(4)(ii); § 110.3(a)(3)(ii)
+Committees automatically considered as, § 110.3(a)(2)
+Conduit, exempted, § 110.6(b)(2)(i)(C)
+Contribution limits for, § 110.3(a)(1)
+Definition, § 100.5(g); § 110.3(a)(1) and (3)(ii); § 300.2(c)(3)
+Disclosure of, on Statement of Organization, § 102.2(b)
+For purposes of “Levin” funds, § 300.31(d)(3)
+Participant in joint fundraising, § 102.17(b)(3)(iii)
+Transfers between, § 102.6(a); § 110.3(c)
+AGENT
+Candidate as, § 101.2; § 102.7(d) § 109.3(b); § 300.2(b)(3)
+Collecting, See: COLLECTING AGENT
+Commercial fundraising firm as, § 102.6(b)(3); § 110.6(b)(2)(i)(D)
+Definition, § 109.3; § 300.2(b)
+Not a conduit or intermediary, § 110.6(b)(2)(i)(A) and (E)
+ALLOCATION BY PRESIDENTIAL CAMPAIGN
+Overhead expenditures, definition, § 106.2(b)(2)(iii)(D)
+Reporting, § 106.2(c)
+ALLOCATION OF EXPENSES
+Administrative expenses, See: ADMINISTRATIVE EXPENSES
+Between federal and nonfederal elections, § 106.1(e)
+By presidential campaign, See: ALLOCATION BY PRESIDENTIAL CAMPAIGN
+For phone banks, § 106.1(a)(1); § 106.8(a) and (b)
+For travel between campaign/noncampaign-related activity, § 106.3
+Generic voter drive costs, allocation method used by State, district or local party committee, § 106.7(c)(5) and (d)(3); § 300.33(a)(2) and (b)
+Joint fundraising proceeds, § 102.17(c)(1), (2), (6) and (7)
+Polling results, § 106.4
+Presidential campaign, State allocation by, See: ALLOCATION BY PRESIDENTIAL CAMPAIGN
+“Time or space” allocation method, § 106.1(a)(1)
+Transfers to pay for, § 106.6(e); § 106.7(f); § 300.33(e); § 300.34
+ANONYMOUS CONTRIBUTION
+Of cash, § 110.4(c)(3)
+APPEARANCES BY CANDIDATE
+See: CANDIDATE; COMMUNICATIONS/ADVERTISING
+ATTORNEYS' SERVICES
+See: LEGAL AND ACCOUNTING SERVICES
+AUDITS
+By Commission, § 104.16
+AUTHORIZED COMMITTEE
+Affiliated, § 100.5(g)(1) and (5); § 110.14(j)
+Agent of, definition, § 109.3
+Candidate as agent of, § 101.2; § 102.7(d)
+Communications paid for/authorized by, § 110.11(b)(1) and (2)
+Contribution limit shared, § 110.3(a)(1)(i)
+Contributions to, See: CANDIDATE; CONTRIBUTIONS
+Coordinated communication, § 109.21
+Definition, § 100.5(d) and (f)(1)
+Designation of, § 101.1(b); § 102.13
+Election cycle reporting, § 104.3(a)(3); § 104.3(b)(2)
+Forwarding contributions to, § 102.8(a)
+Funds of, See: CAMPAIGN FUNDS, USE OF
+Independent expenditures, See: COORDINATION; EXPRESS ADVOCACY; INDEPENDENT EXPENDITURES
+Joint fundraising, § 102.17(a)(1)(i)
+Name of, restrictions, § 102.14(a)
+Registration of, § 102.1(b); § 102.2(b)(1)(i)
+Reports filed by, § 101.1(b); § 102.1(b); § 104.3(f)
+Support of one candidate only, § 102.13(c)
+Transfers by, § 110.3(c)(4) and (5)
+See also: CANDIDATE; POLITICAL COMMITTEE; PRINCIPAL CAMPAIGN COMMITTEE
+BALLOT
+BANK
+Campaign depository, See: CAMPAIGN DEPOSITORY
+Line of credit, § 100.82(e); § 100.142(e); § 104.3(d)
+Loans from, See: LOANS
+National, contribution/expenditure by, prohibited, § 114.2(a)
+Overdraft, § 100.82(d); § 100.142(d)
+Separate segregated fund established by, § 114.2(a)(1) and (2); § 114.5
+See also: COMMUNICATIONS/ADVERTISING; CORPORATION/LABOR ORGANIZATION/NATIONAL BANK; SEPARATE SEGREGATED FUND
+BEST EFFORTS
+Amending previously filed reports, § 104.7(b)(4)
+Contributions lacking required information, § 104.7(b)
+Information in committee's possession, reporting of, § 104.7(b)(3)
+To file reports in a timely manner, § 111.35(b)(3)
+To obtain, maintain and submit contributor information, § 104.7
+Treasurer responsible for showing, § 104.7; § 104.14(d)
+See also: RECORDKEEPING; REPORTING; TREASURER OF POLITICAL COMMITTEE
+BROKERAGE LOANS AND LINES OF CREDIT, See: LOANS
+BUNDLING
+Recordkeeping of, § 104.22(f)
+See also: CONDUIT/INTERMEDIARY; EARMARKED CONTRIBUTION; LEADERSHIP PAC
+CAMPAIGN DEBTS
+See: DEBTS
+CAMPAIGN DEPOSITORY
+Acceptable institutions, § 103.2
+Commingling of funds, § 102.15
+Deposits to, § 103.3
+Designation of, § 103.1; § 103.2
+Disbursements from, § 102.10; § 103.3(a)
+Established by collecting agent, § 102.6(c)(4)(ii)(A)
+Federal accounts, separate from nonfederal, § 102.5(a)(1)(i) and (b)(1)(i)
+Illegal funds, § 103.3(b)(3), (4) and (5)
+Investment of deposited funds, § 103.3(a); § 104.3(a)(4)(vi)
+Joint fundraising account, § 102.17(c)(3)
+Overdraft, § 100.82(d); § 100.142(d)
+Separate account for pledged funds, § 100.82(e)(2); § 100.142(e)(2)
+Vice presidential candidate, § 103.4
+CAMPAIGN FUNDS, USE OF
+Candidate compensation, § 113.1(g)(6)
+Candidate and federal officeholder security, § 113.1(g)(10)
+Charitable donations, § 113.1(g)(2); § 113.2(b)
+Donations to State and local candidates, § 113.2(d)
+Expenses viewed on case by case basis, § 113.1(g)(1)(ii)
+Gifts, § 113.1(g)(4)
+Legal expenses, § 113.1(g)(1)(ii)(A)
+Meal expenses, § 113.1(g)(1)(ii)(B)
+Official duties, expenses incurred in connection with, § 113.1(g)(5); § 113.2(a)
+Travel expenses, § 113.1(g)(1)(ii)(C) and (D); § 113.2(a)(1); § 113.5
+Use of, § 113.1(g); § 113.2; § 113.5
+Winding down office, § 113.2(a)(2)
+CAMPAIGN MATERIALS
+Dissemination, distribution, republication of, resulting in coordinated communication, § 109.21(c)(2) and (d)(6)
+See also: COMMUNICATIONS/ADVERTISING; DISCLAIMER NOTICE; FEDERAL ELECTION ACTIVITY
+CANDIDATE
+Advocacy of election/defeat of, See: CLEARLY IDENTIFIED CANDIDATE; EXPRESS ADVOCACY; INDEPENDENT EXPENDITURE
+Agent of authorized committee, § 101.2; § 102.7(d); § 109.3(b); § 300.2(b)(3)
+Campaign funds, use of, See: CAMPAIGN FUNDS, USE OF
+Campaign materials prepared by/distributed for, See: CAMPAIGN MATERIALS
+Candidacy indicated, examples, § 100.72(b); § 100.131(b)
+Cessation of candidacy, date of, § 110.3(c)(4)(iv)
+Clearly identified, See: CLEARLY IDENTIFIED CANDIDATE
+Committee, See: AUTHORIZED COMMITTEE; PRINCIPAL CAMPAIGN COMMITTEE
+Corporate/labor facilities and resources, used by, § 114.2(f); § 114.13
+Debates, See: DEBATES
+Definition, § 100.3(a)
+Delegate/delegate committee communications referring to, § 110.14(f) and (i)
+Disavowal of campaign activity, § 100.3(a)(3); § 102.13(a)(2)
+Dual, See: DUAL CANDIDACY
+Exploratory, § 100.72(a) and (b); § 101.2(b); § 101.3
+Family of, definition, § 113.1(g)(8)
+Fraudulent misrepresentation, § 110.16
+Living expenses, § 100.153; § 113.1(g)(1)(i)
+“Leadership PAC” of, See: LEADERSHIP PAC
+Personal funds, See: PERSONAL FUNDS
+Personal use of campaign funds, § 113.1(g); § 113.2(f)(5)
+Pre-1975, § 110.2(g)
+Presidential, See: CANDIDATE FOR PRESIDENT
+Referred to in party solicitation, § 102.5(a)(3)
+Support of, definition, § 102.12(c)(2); § 102.13(c)(2)
+Travel by, See: TRAVEL
+Unopposed, § 100.2(c)(5); § 110.1(j)(2) and (3); § 110.2(k)
+Vice presidential candidate, See: CANDIDATE FOR PRESIDENT
+Voter guide, responses included in, § 114.4(c)(5)
+Voting record of, distributed by corporation or labor organization, § 114.4(c)(4)
+CANDIDATE FOR PRESIDENT
+Clearly identified, See: CLEARLY IDENTIFIED CANDIDATE
+Contributions to, See: CONTRIBUTIONS
+Debates, See: DEBATES
+Delegate communications referring to, § 110.14(f) and (i)
+“Leadership PAC” of, See: LEADERSHIP PAC
+Legal and accounting services, contribution/expenditure exemption, § 100.86; § 100.146; § 106.2(b)(2)(iii)
+Name of, used by committee, § 102.14(a) and (b)
+Nominating convention, See: CONVENTION, NATIONAL NOMINATING
+Reports by presidential committee, § 104.5(b); § 108.2
+Transfers between campaigns, § 110.3(c); § 110.8(d)(2)
+Travel, See: TRAVEL
+Voter drive by party committee on behalf of nominee, § 100.89; § 100.149; § 106.1(c)(3); § 110.11(e)
+CASH
+Collateral for loan, § 100.82(e); § 100.142(e)
+Contributions, § 110.4(c)
+Disbursements from petty cash, § 102.11; § 103.3(a)
+On-hand, reporting, § 104.3(a)(1); § 104.12
+CHARITABLE ORGANIZATION
+Campaign funds donated to, § 113.1(g)(2); § 113.2(b)
+Definition, § 110.12(b)(6); § 300.2(a)
+Fundraising for
+Making expenditures or disbursements in connection with federal election, definition, § 300.2(a)
+CHURCH OR COMMUNITY ROOM
+Use of, § 100.76; § 100.136
+CIVIL ACTIONS
+See: COMPLIANCE
+CLEARLY IDENTIFIED CANDIDATE
+Attribution of expenditures to, § 106.1(c)
+Definition, § 100.17; § 106.1(d)
+See also: COMMUNICATIONS/ADVERTISING; EXPRESS ADVOCACY; INDEPENDENT EXPENDITURES
+COLLECTING AGENT
+Definition, § 102.6(b)(1) and (3)
+Fundraising for separate segregated fund, § 102.6(b) and (c)
+Recordkeeping, § 102.6(c)(5) and (6)
+Registration of, § 102.6(b)(2)
+Reporting of funds received through, § 102.6(c)(7)
+Transfers to separate segregated fund, § 110.3(c)(1)
+Transmittal of contribution by, § 102.6(c)(3), (4) and (5)
+COMMERCIAL VENDOR
+Defined, § 116.1(c)
+Extension of credit by, See: CREDIT, EXTENSION OF
+Food, beverage discounts by, § 100.78; § 100.138
+Individual not acting as, § 116.5(a)
+Remedies taken to collect on debts, § 100.55; § 116.4(d)(3)
+Safe harbors for coordinated communications, § 109.21(h) and (i)
+Settlement/forgiveness of debts owed to, § 100.55; § 116.4; § 116.8
+See also: CREDITOR; DEBTS
+COMMINGLED FUNDS
+Segregation of political/personal funds, § 102.15
+COMMITTEE
+See: POLITICAL COMMITTEE
+COMMUNICATIONS/ADVERTISING
+Advertising
+Campaign materials, See: CAMPAIGN MATERIALS
+Debates, See: DEBATES
+Electioneering communications, See: ELECTIONEERING COMMUNICATIONS
+Expressly advocating, See: EXPRESS ADVOCACY
+Endorsements by corporations/labor organizations, § 114.3(a) and (c); § 114.4(c)(6)
+Independent expenditures, See: INDEPENDENT EXPENDITURES
+Internet activities, See: INTERNET ACTIVITIES
+Notices required, See: DISCLAIMER NOTICE
+Party coordinated communication, § 109.37
+Slate card/sample ballot, § 100.80; § 100.140; § 106.1(c)(3); § 106.7(c)(3); § 300.33
+Soliciting contributions, See: DISCLAIMER NOTICE; FUNDRAISING
+See also: CLEARLY IDENTIFIED CANDIDATE; COORDINATION; PUBLIC COMMUNICATION; PUBLIC POLITICAL ADVERTISING; VOTER DRIVES
+COMPLAINTS
+See: COMPLIANCE
+COMPLIANCE
+Civil actions, § 111.19; § 111.53
+Complaints, § 111.4; § 111.5; § 111.6; § 111.7
+Computation of time, § 111.2
+Conciliation agreements, § 111.18; § 111.19(c)
+Confidentiality, § 1.14; § 111.21; § 111.24(b)
+Cost exemption, disputed, § 106.2(a)(1)
+Costs, exempted from allocation, § 106.2(b)
+Ex parte communications, § 111.22
+Exempt costs, defined, § 106.2(b)
+Failure to file reports, § 111.8(c)
+Initiation of, § 111.3
+Internal/agency referrals, § 111.3(a); § 111.8
+Investigations, § 111.10
+No reason to believe, § 111.7(b); § 111.9(b)
+Probable cause to believe, § 111.16; § 111.17; § 111.18
+Reason to believe, § 111.7(a); § 111.9; § 111.10
+Representation by counsel, § 111.23
+CONDUIT/INTERMEDIARY
+Definition, § 110.6(b)(2)
+Persons not considered as, § 110.6(b)(2)(i)
+Persons prohibited from acting as, § 110.6(b)(2)(ii); § 114.2(f)(1)
+Reporting by, § 110.6(c)(1)
+Separate segregated fund acting as, § 110.6; § 114.2(f)(2)(iii) and (4)(iii)
+See also: BUNDLING; EARMARKED CONTRIBUTION
+CONGRESS, MEMBERS OF
+Federal officeholders, definition, § 113.1(c); § 300.2(o)
+Travel expenses, official, § 106.3(d); § 113.2(a)(1)
+See also: OFFICE ACCOUNT; FEDERAL OFFICEHOLDER
+CONNECTED ORGANIZATION
+As collecting agent for separate segregated fund, § 102.6(b)(1)(ii)
+Communications by, See: COMMUNICATIONS/ADVERTISING
+Definition, § 100.6
+Disclosure of, on Statement of Organization, § 102.2(b)
+Name of, included in separate segregated fund's name, § 102.14(c)
+Political committee of, See: SEPARATE SEGREGATED FUND
+Relationship with another organization, § 100.5(g)(4); § 110.3(a)(3)
+CONSUMER PRICE INDEX
+Contribution limits adjusted by, § 110.17(b)
+Definition, § 110.17(d)
+Expenditure limits adjusted by, § 110.17(a)
+Publication of price index increases, § 110.17(e)
+Rounding of price index increases, § 110.17(c)
+CONTRIBUTIONS
+Accounting for, § 102.9(a) and (e); § 104.7
+Advances of goods or services paid from individual's funds, § 100.52(a); § 116.5(b)
+Allocated in joint fundraising, § 102.17(c)(1), (2), (6) and (7)
+Anonymous, § 110.4(c)(3)
+By affiliated committees, § 110.3(a)(1)
+By checks and other written instruments, § 104.8(c) and (d)
+By children, § 110.19
+By committees, general, § 110.1; § 110.2
+By delegate committees, § 110.14(g)
+By Federal contractors, § 103.3(b); § 115.2
+By foreign nationals, § 103.3(b); § 110.20
+By limited liability companies, § 110.1(g)
+By minors, § 110.1; § 110.19
+By partnerships, § 110.1(e)
+By payroll deduction plan, § 104.8(b); § 114.5(k)(1); § 114.6(e)(1)
+By person in name of another, § 110.4(b)
+By persons, § 110.1
+By separate segregated fund, § 114.5(f)
+By spouse, § 100.51(b); § 100.71(b); § 110.1(i)(1)
+Cash, § 110.4(c)
+Charitable, § 113.1(g)(2); § 113.2(b)
+Combined with other payments, § 102.6(c)(3)
+Conduit for, See: EARMARKED CONTRIBUTION
+Contributor identification, § 100.12; § 104.7(b); § 104.8(a) and (b)
+Credit, extension of, See: CREDIT, EXTENSION OF
+Credited to bundler, § 104.22(a)(6)(ii)
+Debts, contributions to retire, See: DEBTS
+Definition, § 100.51-100.56; § 114.1(a)(1)
+Deposit of, § 103.3(a) and (b)
+Designated/not designated for election, § 102.9(e); § 110.1(b) and (l); § 110.2(b)
+Earmarked, See: EARMARKED CONTRIBUTION
+Election, contribution limit for, § 110.1(a)(1) and (j); § 110.2(a)(1) and (d)
+Excessive, § 103.3(b)(3); § 110.1(k)
+For delegate selection, § 110.14(c)(1)
+Illegal or excessive, § 103.3(b); § 110.1(b)(3)(i); § 110.2(b)(3)(i); § 110.4(b); § 110.9(a); § 110.14(c)(2); § 110.20(b); § 114.2; § 115.2; § 300.30(b)(3)
+Illegal-appearing, § 103.3(b); § 110.1(b)(3)(i); § 110.2(b)(3)(i)
+In-kind, See: COORDINATION; IN-KIND CONTRIBUTION
+In name of another, § 110.4(b)
+Indexed for inflation by consumer price index, § 110.1(b)(1)(i) and (ii); § 110.1(c)(1)(i) and (ii); § 110.2(e)(2); § 110.17
+Investment of, § 103.3(a)
+Joint, § 104.8(c) and (d); § 110.1(k)
+Lacking required information, § 104.7(b)
+See also: BEST EFFORTS
+Loans, See: LOANS
+Made, § 110.1(b)(6) and (l)(4); § 110.2(b)(6)
+Personal use expense paid by third party, § 113.1(g)(7)
+Polling expenses, § 106.4
+Post-primary, § 110.1(a)(2)(i) and (ii)(B)
+Pre-primary, § 102.9(e)
+Processing, costs of, § 106.2(b)
+Prohibited, § 110.4; § 110.9(a); § 110.14(c)(2); § 114.2; § 115.2; § 300.10
+Prohibited, accepted in joint fundraising, § 102.17(c)(2)(ii)(B) and (3)(i)
+Reattributed, § 100.51(b); § 100.71(b); § 100.110(b); § 100.130(b); § 102.9(e); § 103.3(b)(3); § 104.8(d)(3); § 110.1(b)(3)(i), (k)(3) and (l)
+Receipt of, § 102.8
+Recordkeeping requirements, See: RECORDKEEPING
+Redesignated, § 102.9(e); § 103.3(b)(3); § 104.8(d)(2); § 110.1(b) and (l); § 110.2(b)(3)(i) and (5)
+Reporting requirements, See: REPORTING
+Returned, § 103.3(a) and (b); § 110.1(b)(3)(i); § 110.2(b)(3)(i); § 110.4(c)(2)
+Segregated from personal funds, § 102.15
+Stocks, bonds, art objects, § 104.13(b)
+Testing-the-waters activity, for, § 100.72(a) and (b); § 100.131(a) and (b); § 101.3; § 106.2(a)(2); § 106.4(a)
+To authorized committee, § 102.12(c)(2); § 102.13(c)(2); § 110.1(a) and (h); § 110.2(a)(1)
+To candidate, See: CANDIDATE
+To committees supporting same candidate, § 110.1(h); § 110.2(h)
+To delegate, § 110.1(m)(1); § 110.2(j)(1); § 110.14(d)
+To delegate committee, § 110.1(m)(2); § 110.2(j)(2); § 110.14(g)
+To federal committee/account, § 102.5(a)(2)
+To office account, § 113.4
+To persons making independent expenditures, § 110.1(n); § 110.2(k)
+To political party committees, § 110.1(c); § 110.2(c)
+To retire debts, See: DEBTS
+To single candidate committee, § 110.1(h)(1); § 110.2(h)
+To unauthorized committees, § 110.1(d) and (h); § 110.2(d)
+Transfers, See: TRANSFER OF FUNDS
+Transmittal of, by collecting agent, § 102.6(c)(4), (5) and (6); § 110.3(c)(1)
+Violations, § 110.4; § 110.9(a)
+CONTRIBUTION/EXPENDITURE EXEMPTIONS
+Ballot access payments, § 100.90; § 100.150
+Candidate's payments from personal funds, § 100.153
+Church or community rooms, § 100.76; § 100.136
+Corporate/labor exemptions, § 100.81; § 100.134(a); § 100.141; § 114.1(a)(2); § 114.3; § 114.4; § 114.5
+Debate expenses, § 100.92; § 100.154; § 114.4(f)
+Election recount expenses, § 100.91; § 100.151
+Endorsements by corporation/labor organization, § 114.4(c)(6)
+Food, beverage, invitations, § 100.77; § 100.78; § 100.137; § 100.138; § 114.1(a)(2)(v)
+Living expenses, § 100.79; § 100.139; § 100.153
+Loans from banks, § 100.82; § 100.142(a)-(d)
+News story/editorial/commentary, § 100.73; § 100.132
+Real or personal property, § 100.75; § 100.135
+Residential premises, § 100.75; § 100.135
+Slate card/sample ballot, § 100.80; § 100.140; § 106.7(d)(3); § 110.11(e); § 300.33(c)
+Solicitation expenses, for publicly funded candidate, § 100.152
+Testing-the-waters activity, § 100.72(a) and (b); § 100.131(a) and (b); § 101.3
+Travel expenses, § 100.79; § 100.139; § 116.5(b)
+Unpaid salary, § 116.6(a)
+Vendor discount of food/beverage, § 100.78; § 100.138; § 114.1(a)(2)(v)
+Volunteer services, § 100.74; § 116.6(a)
+CONVENTION, NATIONAL NOMINATING
+Convention committee, registration and reporting for, § 107.1
+Corporate/labor organization activity, exemption, § 114.1(a)(2)(viii)
+Delegates to, See: DELEGATE
+Host committee, registration and reporting for, § 107.2
+Municipal fund, registration and reporting for, § 107.2
+Registration and reporting, § 107.1; § 107.2
+COOPERATIVE
+Federated, solicitation of affiliates' members, § 114.7(k)(1)
+Member of, defined, § 100.134(f); § 114.1(e)(2)
+Membership organization, defined as, § 100.134(e); § 114.1(e)(1)
+See also: COMMUNICATIONS/ADVERTISING; CORPORATION/LABOR ORGANIZATION/NATIONAL BANK; SEPARATE SEGREGATED FUND
+COORDINATION
+Activities other than communications, § 109.20
+Coordinated, definition, § 109.20
+Expenditures other than communications, § 109.20
+In-kind contribution results from, § 109.20(b); § 109.21(b); § 109.23; § 109.37(a) and (b)(1); § 110.14(i)(2)(i); § 114.2(c)
+COORDINATED COMMUNICATIONS
+See: COMMUNICATIONS/ADVERTISING; COORDINATION
+COORDINATED PARTY EXPENDITURES
+See: COORDINATION; PARTY COMMITTEE
+CORPORATION ESTABLISHED BY AUTHORITY OF CONGRESS
+Contribution/expenditure by, prohibited, § 114.2(a)
+Earmarked contribution received by, § 110.6(b)(2)(iii)(B)
+Separate segregated fund established by, § 114.2(a)(1); § 114.5
+See also: COMMUNICATIONS/ADVERTISING; CORPORATION/LABOR ORGANIZATION/NATIONAL BANK; SEPARATE SEGREGATED FUND
+CORPORATION WITHOUT CAPITAL STOCK
+Member, defined, § 100.134(f); § 114.1(e)(2)
+Membership organization, defined as, § 100.134(e); § 114.1(e)(1)
+Separate segregated fund established by, § 114.1(a)(1)(iii); § 114.5(b); § 114.7(a)
+See also: CORPORATION/LABOR ORGANIZATION/NATIONAL BANK; QUALIFIED NONPROFIT CORPORATION; SEPARATE SEGREGATED FUND
+CORPORATION/LABOR ORGANIZATION/NATIONAL BANK
+Acting as conduit, prohibited, § 110.6(b)(2)(ii); § 114.2(f)
+Candidate/party representative appearances, § 114.3(c)(2); § 114.4(b)
+Collecting agent, § 102.6(b) and (c)
+Convention activity, national nominating, § 114.1(a)(2)(viii)
+Earmarked contribution received by, § 110.6(b)(2)(iii)(B)
+Executive/administrative personnel, definition, § 100.134(d); § 114.1(c)
+Facilities and resources of, used for political purposes, § 114.2(f)(2); § 114.9; § 114.13
+Food/beverage sold to candidate/party committee, § 114.1(a)(2)(v)
+Fundraising by, other than for separate segregated fund, § 114.2(f); § 114.3(c)(2); § 114.4(b)(1)(iii), (iv) and (2)(i)
+Incorporation by political committee, § 114.12(a)
+Legal and accounting services, § 114.1(a)(2)(vi) and (vii)
+Levin fund, donations to, See: “LEVIN” FUNDS
+Loans by bank, See: LOANS
+Office account donations, § 113.4(b)
+Ownership of, factor of affiliation, § 100.5(g)(4)(ii)(A); § 110.3(a)(3)(ii)(A)
+Partnership, member of, § 110.1(e)(2)
+Party office building fund, contributions and donations to, § 114.1(a)(2)(ix)
+Political committee sponsored by, See: SEPARATE SEGREGATED FUND
+Professional organization, corporate status of, § 114.7(d)
+Restricted class, See: RESTRICTED CLASS
+Stockholder, definition, § 100.134(c); § 114.1(h)
+Treasury funds, use of, § 114.5(b)
+See also: MEMBERSHIP ORGANIZATION; TRADE ASSOCIATION; VOTER DRIVES
+CREDIT CARDS
+Candidate advance from, § 100.83
+Recordkeeping requirements, § 102.9(b)(2)(ii)
+Use of individual's, § 116.5(b)
+CREDIT, EXTENSION OF
+Defined, § 116.1(e)
+In ordinary course of business, § 100.55; § 116.3(c)
+See also: COMMERCIAL VENDOR; CREDITOR; DEBTS; LOANS
+CREDITOR
+Commercial vendor, See: COMMERCIAL VENDOR
+Defined, § 116.1(f)
+Extension of credit, See: CREDIT, EXTENSION OF
+Lending institution, See: BANK; LOANS
+Out-of-business or with no known address, § 116.9
+Remedies taken to collect on debts, § 100.55; § 116.4(d)(3)
+Settlement/forgiveness of debts, § 100.55; § 116.4; § 116.8
+See also: DEBTS
+CURRENCY
+See: CASH
+DEBATES
+Candidate selection, criteria for, § 110.13(c); § 114.4(f)
+Staging organizations, § 110.13(a); § 114.4(f)(1) and (2)
+Structure of, § 110.13(b)
+DEBTS
+Advances of goods/services from individuals, treatment as, § 116.5(c)
+Assignment of, to another authorized committee, § 116.2(c)(3)
+Bankruptcy, debts discharged in, § 116.7(g)
+Collection of, by vendor, § 100.55; § 116.4(d)(3)
+Creditors, defunct, debts owed to, § 116.9
+Debt settlement plans, § 104.11(a); § 116.7; § 116.9(b); § 116.10(b)
+Efforts to satisfy, “reasonable” standard, § 116.4(c)(2) and (d)(2)
+Extensions of credit, See: CREDIT, EXTENSION OF
+Loans, See: LOANS
+Payment of, criterion for committee termination, § 102.3; § 116.7(a)(1)
+Salary payments owed to employees, treatment as, § 116.6(a)
+See also: COMMERCIAL VENDOR; CREDITOR; TERMINATION OF COMMITTEE
+DEFINITIONS
+501(c) organization making expenditures or disbursements in connection with a federal election, § 300.2(a)
+Act, § 100.18
+Adapted disclaimers, § 110.11(g)
+Administrative personnel, § 100.134(d); § 114.1(c)
+Affiliated committee, § 100.5(g); § 110.3(a)(3)(ii)
+Agent, § 109.3; § 300.2(b)
+Anything of value, § 100.52(d); § 100.111(e)
+Authorized committee, § 100.5(d) and (f)(1)
+Best efforts, to file reports in a timely manner, § 111.35(b)(3)
+Best efforts, to obtain, maintain and submit contributor information, § 104.7
+Bundled contribution, § 104.22(a)(6)
+Campaign traveler, § 100.93(a)(3)(i)
+Candidate, § 100.3(a)
+Cash on hand, § 110.1(b)(3)(ii); § 110.2(b)(3)(ii)
+Caucus, § 100.2(e)
+Clearly identified candidate, § 100.17; § 106.1(d)
+Collecting agent, § 102.6(b)(1)
+Commercial travel, § 100.93(a)(3)(iv)
+Commercial vendor, § 116.1(c)
+Commission, § 100.9
+Comparable aircraft, § 100.93(a)(3)(vi)
+Conduit, § 110.6(b)(2)
+Connected organization, § 100.6
+Consumer price index, § 110.9(c)(2)
+Contribution, § 100.51-100.56; § 114.1(a)(1)
+Contribution exemptions, § 100.71-100.92; § 114.1(a)(2)
+Contribution made, date of, § 110.1(b)(6); § 110.1(b)(4); § 110.2(b)(6)
+Convention, § 100.2(e)
+Coordinated, § 109.20
+Coordinated communication, § 109.21
+Corporation, § 100.134(l)
+Covered period, § 104.22(a)(5)
+Creditor, § 116.1(f)
+Current federal campaign committee, § 110.3(c)(4)(ii)
+Delegate, § 110.14(b)(1)
+Delegate committee, § 100.5(e)(5); § 110.14(b)(2)
+Designated contribution, § 110.1(b)(3) and (4); § 110.1(j); § 110.2(b)(3) and (4)
+Direct, when raising/spending federal or nonfederal funds, § 300.2(n)
+Direct costs of producing or airing electioneering communications, § 104.20(a)(2)
+Direct mailing, § 100.78; § 100.87(a); § 100.147(a); § 100.149(a); § 110.11(a); § 110.14(f)(4)
+Directly or indirectly establish, maintain, finance or control, § 300.2(c)
+Disbursement, § 300.2(d)
+Disclaimer notice, § 110.11(a)
+Disclosure date for electioneering communications, § 104.20(a)(1)
+Disputed debt, § 116.1(d)
+District or local committee, § 100.14(b)
+Donation, § 300.2(e)
+Donation to inaugural committee, § 104.21(a)
+Dual candidacy, § 110.3(c)(5)
+Earmarked contribution, § 110.6(b)
+Election, § 100.2(a); § 100.134(k); § 104.6(a)(1) and (2)
+Election cycle, § 100.3(b)
+Electioneering communication, § 100.29
+Employee participation plan, § 114.11(a)
+Employer, § 100.21
+Equipment and services used in internet activity, § 100.94(c); § 100.155(c)
+Established or controls, § 104.22(a)(4)
+Executive or administrative personnel, § 100.134(d); § 114.1(c)
+Expenditure, § 100.110(a); § 114.1(a)(1)
+Expenditure exemptions, § 100.130(a); § 114.1(a)(2)
+Expressly advocating, § 100.22
+Extension of credit, § 116.1(e)
+Facilitating the making of contributions, § 114.2(f)
+Family of candidate, § 113.1(g)(8)
+Federal account, § 300.2(f)
+Federal contractor, § 115.1(a)
+Federal Election Commission, § 100.9
+Federal funds, § 300.2(g)
+Federal office, § 100.4
+Federal officeholder, § 113.1(c); § 300.2(o)
+File, filed or filing, § 100.19
+Foreign national, § 110.20(a)(3)
+Forwarded contribution, § 104.22(a)(6)(i)
+Functional equivalent of express advocacy, § 109.21(c)(5)
+Fundraising representative (joint fundraising), § 102.17(a)(3) and (b)
+Funds donated, § 113.1(a)
+General election, § 100.2(b)
+General public political advertising, § 100.26
+Generic campaign activity, § 100.25
+Get-out-the-vote activity (Type II FEA), § 100.24(a)(3) and (b)(2)(iii)
+Identification, § 100.12; § 104.20(a)(4)
+“In connection with an election in which a candidate for Federal office appears on the ballot,” § 100.24(a)
+Inaugural committee, § 104.21(a)
+Independent expenditure, § 100.16
+“Individual holding federal office,” § 300.2(o)
+In-kind contribution, § 100.52(d); § 109.20(b); § 109.21(b); § 109.37(b)(1)
+Intermediary, § 110.6(b)(2)
+Internet activities by individuals or groups, § 100.94(b); § 100.155(b)
+Labor organization, § 100.134(b); § 114.1(d)
+Leadership PAC, § 100.5(e)(6)
+“Levin” account, § 300.2(h)
+“Levin” funds, § 300.2(i)
+Limited liability company, § 110.1(g)(1)
+Lobbyist/registrant, § 104.22(a)(2)
+Lobbyist/registrant PAC, § 100.5(e)(7); § 104.22(a)(3)
+Mass mailing, § 100.27
+Members, § 100.134(f); § 114.1(e)(2)
+Membership organization, § 100.134(e); § 114.1(e)(1)
+Multicandidate committee, § 100.5(e)(3)
+Name, § 102.14(a)
+National party committee, § 100.13
+Net debts outstanding, § 110.1(b)(3)(ii); § 110.2(b)(3)(ii)
+Non-commercial travel, § 100.93(a)(3)(v)
+Nonconnected committee, § 106.6(a)
+Nonfederal account, § 300.2(j)
+Nonfederal funds, § 300.2(k)
+Notice of disclaimer, § 110.11(a)
+Occupation, § 100.20
+Office account, § 113.1(b)
+Ongoing committee, § 116.1(b)
+Overhead expenditures, § 106.2(b)(2)(iii)(D)
+Overnight delivery service, § 100.19(b)(2)(i)
+Party committee, § 100.5(e)(4)
+Party coordinated communication, § 109.37
+Person, § 100.10
+Personal funds, § 100.33
+Personal use of campaign funds, § 113.1(g)
+Persons sharing direction or control, § 104.20(a)(3)
+Political committee, § 100.5
+Political party, § 100.15
+Postmark, § 100.19(b)(2)(ii)
+Previous federal campaign committee, § 110.3(c)(4)(i)
+Price index, § 110.9(c)(2)
+Primary election, § 100.2(c)
+Principal campaign committee, § 100.5(d) and (e)(1)
+Public communication, § 100.26
+Publicly distributed, § 100.29(b)(3); § 104.20(a)(5)
+Qualified Member, § 113.1(f)
+Receivable by 50,000 people or more, § 100.29(b)(6)
+Received and credited contribution, § 104.22(a)(6)(ii)
+Record, § 100.34
+Redesignated contribution, § 110.1(b)(5)(ii)
+Reporting committee, § 104.22(a)(1)
+Runoff election, § 100.2(d)
+Service provider, § 100.93(a)(3)(ii)
+Signature, electronic signature, § 100.36
+Single candidate committee, § 100.5(e)(2)
+Special election, § 100.2(f); § 100.29(b)(4)
+State, § 100.11
+State committee, § 100.14(a)
+State officeholder, § 113.1(d)
+Stockholder, § 100.134(c); § 114.1(h)
+Subordinate committee of a State, district or local party committee, § 100.14(c)
+Subsistence, § 116.5(b)(2)
+Support of candidate, § 102.12(c)(2); § 102.13(c)(2)
+Targeted communication, § 100.29(b)(5)
+Telephone bank, § 100.28
+Telephone services base charges, § 106.2(b)(2)(iii)(D)
+Terminating committee, § 116.1(a)
+To direct, § 300.2(n)
+To solicit, § 300.2(m)
+Trade association, § 114.8(a)
+Twice yearly solicitations, § 114.6
+Unauthorized committee, § 100.5(f)(2)
+Unreimbursed value, § 100.93(a)(3)(iii)
+Voluntary contributions, § 114.1(i)
+Voting age population, § 110.18
+Voter identification activity (Type II FEA), § 100.24(a)(4) and (b)(2)(i)
+Voter registration activity (Type I FEA), § 100.24(a)(2) and (b)(1)
+Voter registration and get-out-the-vote drives, conducted by corporation or labor organization, § 114.3(c)(4)(i); § 114.4(d)(1)
+Writing, written, § 100.35
+DELEGATE
+Communications by, § 110.14(e) and (f)
+Contributions to, § 110.14(d)
+Convention/caucus, definition, § 100.2(e)
+Coordination by, § 110.14(f)(2) and (3); § 110.14(i)(2) and (3)
+Definitions, § 110.14(b)(1)
+Election of, to national convention, § 100.2(c)(3)
+Funds received and expended, § 110.14(c)
+Party committee expenditures, § 110.14(c)(1)(ii)
+Payments to qualify as, § 110.14(c)(1)(i)
+Scope, § 110.14(a)
+DEPOSITORY
+See: CAMPAIGN DEPOSITORY
+DIRECT MAIL
+Definitions, § 100.78; § 100.87(a); § 100.147(a); § 100.149(a); § 110.11(a); § 110.14(f)(4)
+Disclaimer notice required, § 110.11(a)
+Last date of program defined, § 106.6(d)(2); § 106.7(d)(4)(ii)
+Use of, by delegates/delegate committees to disseminate presidential campaign materials, § 110.14(f)(4)
+DISBURSEMENTS
+Accounting for, § 102.9(b)
+Definition, § 300.2(d)
+From campaign depository, § 102.10; § 103.3(a)
+From petty cash fund, § 102.11; § 103.3(a)
+Recordkeeping, See: RECORDKEEPING
+Reporting, See: REPORTING
+See also: CAMPAIGN FUNDS, USE OF; EXPENDITURES
+DISCLAIMER NOTICE
+See also: CAMPAIGN MATERIALS; COMMUNICATIONS/ADVERTISING; COORDINATED COMMUNICATIONS; DIRECT MAIL; ELECTIONEERING COMMUNICATIONS; EXPRESS ADVOCACY; INDEPENDENT EXPENDITURES; PUBLIC COMMUNICATION; PUBLIC POLITICAL ADVERTISING
+DISCLOSURE
+Best efforts to obtain and submit information, See: BEST EFFORTS
+By independent spenders, See: INDEPENDENT EXPENDITURES/Reporting
+Change in filing frequency, § 104.5(c)
+Preemption of state laws governing, by Federal Election Campaign Act, § 108.7(b)(2)
+Reporting deadlines, See: FILING
+Reporting forms, See: FORMS
+Reporting liability, See: TREASURER OF POLITICAL COMMITTEE
+Reporting requirements/procedures, See: PAYROLL DEDUCTION PLAN; REPORTING
+DISTRICT OF COLUMBIA
+Filing exemption, § 108.8
+DOCUMENT FILING
+See: FILING
+DRAFT COMMITTEE
+Name of, restrictions, § 102.14(b)(2)
+DUAL CANDIDACY
+Contributions to, § 110.1(f); § 110.2(f)
+Separate campaign organizations required, § 110.8(d)
+EARMARKED CONTRIBUTION
+Contribution limits affected, § 110.6(a); § 114.2(f)(2)(iii) and (4)(iii)
+Definition, § 110.6(b)(1)
+In joint fundraising, § 102.17(c)(2)(i)(C)
+Procedures for forwarding, § 102.8(c); § 110.6(b)(2)(iii)
+Return required, § 110.6(b)(2)(iii)(B)
+ELECTION
+Ballot access payments, § 100.90; § 100.150
+Recount expenses, § 100.91; § 100.151
+Reporting, election-year, § 104.5(a)(1), (b)(1) and (c)(1)
+ELECTION INFLUENCING
+Communications advocating election/defeat of candidate, See: CLEARLY IDENTIFIED CANDIDATE; EXPRESS ADVOCACY; INDEPENDENT EXPENDITURES
+Contributions made for, See: CONTRIBUTIONS
+Corporate/labor activity, Part114
+Exempt activities for, See: CONTRIBUTION/EXPENDITURE EXEMPTIONS; PARTY COMMITTEE
+Expenditures made for, See: EXPENDITURES; INDEPENDENT EXPENDITURES
+ELECTIONEERING COMMUNICATIONS
+By individuals, reporting, § 104.5(j); § 104.20
+By corporations, § 104.5(j); § 104.20; § 114.10
+By foreign national, prohibited, § 110.20(e)
+By labor organizations, § 104.5(j); § 104.20; § 114.10
+Coordination with campaign or party
+In-kind contribution, results in if coordinated, § 109.21(b) and (c)(1)
+Receivable by 50,000 people or more, § 100.29(b)(6)
+Recordkeeping, § 104.20(d)
+Use of corporate/labor funds, § 114.10
+ELECTRONIC FILING
+See: FILING
+ENFORCEMENT
+See: COMPLIANCE
+EXECUTIVE PERSONNEL
+Definition, § 100.134(d); § 114.1(c)
+See also: CORPORATION/LABOR ORGANIZATION/NATIONAL BANK
+EXEMPT ACTIVITIES
+See: PARTY COMMITTEE
+EXPENDITURES
+Accounting for, § 102.9(b)
+Administrative expenses, See: ADMINISTRATIVE EXPENSES; ALLOCATION OF EXPENDITURES
+Advances of goods or services paid from individual's funds, § 100.111(a); § 116.5(b)
+Allocation of, See: ALLOCATION OF EXPENDITURES
+By authorized committee, See: CAMPAIGN FUNDS, USE OF
+By candidate, See: CAMPAIGN FUNDS, USE OF; CANDIDATE
+By cash, § 102.11; § 103.3(a)
+By check, § 102.10; § 103.3(a)
+By delegate, § 110.14(e) and (f)
+By delegate committee, § 110.14(h) and (i)
+By Federal contractor, § 115.2
+By foreign national, prohibited, § 110.20(f)
+By party committee, § 100.24; § 102.13(b); § 104.17; § 106.7; § 106.8; § 109.23(b)(5); § 109.30-109.37; § 300.10; § 300.30(b)(3)(iii); § 300.32
+By spouse, § 100.110(b); § 100.130(b)
+By State, district or local party committee, for federal election activity, § 300.32(b) and (c)
+By vice presidential candidate, § 110.8(f) and (g)
+Communications, made for, See: COMMUNICATIONS/ADVERTISING; DIRECT MAIL; INDEPENDENT EXPENDITURES; PUBLIC POLITICAL ADVERTISING
+Contract or agreement to make, § 100.112; § 104.11(b)
+Coordinated party, § 102.13(b); § 109.23(b)(5); § 109.30-109.34
+Delegate selection, § 110.14(c)(1)
+Definition, § 100.110(a); § 114.1(a)(1)
+Electioneering communications not considered as, § 100.29(c)(3)
+Expressly advocating, definition, § 100.22
+Illegal, § 110.9(a); § 110.14(c)(2); § 110.20(f); § 114.2(a) and (b); § 115.2
+Independent, See: INDEPENDENT EXPENDITURES
+In joint fundraising, § 102.17(b)(3)
+Loans, See: LOANS
+“Made on behalf of,” defined, § 110.8(g)
+Overhead, of state offices, § 106.2(b)(2)(iv)
+Payee, identification of, § 104.9
+Personal funds, § 100.153; § 106.3(b)(1); § 110.8(f)(2); § 110.10
+Political committee status, criterion for, § 100.5(a), (c) and (f)
+Polling, § 106.2(b)(2)(vi) and (c)(1)(iii); § 106.4
+Prohibited, § 110.9(a); § 110.14(c)(2); § 114.2(a) and (b); § 115.2
+Promise to make, § 100.112
+Purpose of, definition, § 104.3(b)(3)(i)(A) and (B); § 104.9(a)
+Recordkeeping, See: RECORDKEEPING
+Reporting, See: REPORTING
+Specific expenditures by campaign, See: CAMPAIGN FUNDS, USE OF
+Testing-the-waters expenses, § 100.72(a) and (b); § 100.131(a) and (b); § 106.4(a); § 101.3
+Transfers, See: TRANSFER OF FUNDS
+Treasurer's authorization, § 102.7(c)
+Violations, § 110.9(a)
+EXPRESS ADVOCACY
+Allocation of expenditures for, § 106.1
+Functional equivalent of, definition, § 109.21(c)(5)
+Definition of, § 100.22
+Disclaimer notice required, § 109.11; § 110.11(a)(2); § 114.10(c)
+Electioneering communications do not contain, § 100.29(c)(3)
+Independent expenditure contains, See: INDEPENDENT EXPENDITURES
+Newspaper stories/editorials/commentaries, exempted as expenditures for, § 100.73; § 100.132
+Reporting requirements, See: COORDINATION; FILING; COMMUNICATIONS/ADVERTISING; INDEPENDENT EXPENDITURES/Reporting; REPORTING
+FEDERAL COMMUNICATIONS COMMISSION
+Database for electioneering communications, § 100.29(b)(6)(i)
+FEDERAL CONTRACTOR
+Acting as conduit, prohibited, § 110.6(b)(2)(ii)
+Contributions/expenditures by, prohibited, § 115.2
+Definition, § 115.1(a)
+Earmarked contribution received by, § 110.6(b)(2)(iii)(B)
+Employee contributions/expenditures, § 115.6
+Individuals and sole proprietors, § 115.5
+Partnership, § 115.4
+FEDERAL ELECTION ACTIVITY (FEA)
+Activities excluded from, § 100.24(a)(2)(ii) and (3)(ii) and (c)
+Allocation of costs of, § 300.33
+Definition, § 100.24(b)
+Disbursements for, § 300.32(a), (b) and (c)
+Generic campaign activity defined as, § 100.24(b)(2)(ii)
+Expenditures for, § 300.32(b) and (c)
+“In connection with an election in which a candidate for federal office appears on the ballot,” definition, § 100.24(a)(1)
+Public communication, See: COORDINATION; DISCLAIMER NOTICE; PUBLIC COMMUNICATION
+Reporting, § 300.36
+Salaries, wages and benefits for certain employees, § 100.24(b)(4); § 106.7(c)(1); § 300.33(d)
+Transfers, § 300.34(b)
+See also: “LEVIN” FUNDS
+FEDERAL ELECTION COMMISSION
+Advisory opinions, See: ADVISORY OPINIONS
+Audits and investigations by, See: AUDITS
+Disclosure of information by, See: PUBLIC INSPECTION OF DOCUMENTS
+Enforcement by, See: COMPLIANCE
+See also: Index for ADMINISTRATIVE REGULATIONS
+FEDERAL OFFICE
+Definition, § 100.4
+FEDERAL OFFICEHOLDER
+Definition, § 113.1(c); § 300.2(o)
+Personal use of funds, § 113.1(g); § 113.2(f)
+See also: CONGRESS, MEMBERS OF
+FILING
+Acknowledgement of report's receipt, § 104.14(c)
+Administrative fines for late or non-filing, § 111.30; § 111.46
+Amendments to previous reports, § 104.7(b)(4); § 104.18(f)
+Candidate designations, § 101.1
+Communications reports, § 100.134(a); § 104.5(j); § 104.6; § 104.20; § 114.3(b); § 114.5(e)(2)(i)
+Computer-produced reports, § 104.2(d); § 104.18
+Contribution, 48 hour notification of, § 104.5(f)
+Copies of, located, § 108.1
+Debt settlement plans, § 116.7(a)
+Definition of file, filed or filing, § 100.19
+Electioneering communication reports, § 104.5(j); § 104.20; § 114.10(b)(2)
+Failure to file, § 111.8(c)
+Multicandidate status, notification of, § 102.2(a)(3)
+Overnight delivery service, § 100.19(b)(3)
+Postmark as date of filing, § 100.19(b); § 104.5(e)
+Semiannual reports, by unauthorized committees, § 104.5(c)(2)(i)
+Signature requirements, § 104.14(a); § 104.18(g)
+Special election reports, § 104.5(h)
+Statement of Candidacy, § 101.1
+Statement of Organization, § 102.1; § 102.2(a)
+Termination report, § 102.3(a)
+Timely filing, § 100.19; § 104.14(d)
+See also: FORMS; REPORTING; TERMINATION OF COMMITTEE
+FINES
+See: COMPLIANCE
+FOOD/BEVERAGE
+FOREIGN NATIONAL
+Acting as conduit, prohibited, § 110.6(b)(2)(ii)
+Contributions by, prohibited, § 110.20(b) and (c)
+Decision making in election-related activities, prohibited, § 110.20(i)
+Definition, § 110.20(a)(3)
+Disbursements by, prohibited, § 110.20(f)
+Donations by, prohibited, § 110.20(b), (c) and (d)
+Earmarked contribution received by, § 110.6(b)(2)(iii)(B); § 110.20(h)
+Electioneering communications by, prohibited, § 110.20(e)
+Expenditures by, prohibited, § 110.20(f)
+Independent expenditures by, prohibited, § 110.20(f)
+Party office building fund contributions/donations, prohibited, § 110.20(d)
+Solicitation of, § 110.20(g)
+FORMS
+Communications reports (FEC Form 7), § 104.6(a)
+Computer-produced, § 104.2(d); § 104.18
+Consolidated reports (FEC Form 3Z), § 104.3(f)
+Debts and obligations, § 104.3(d); § 104.18(h)
+Electioneering communications (FEC Form 9), § 104.20(b)
+Electronically filed, § 104.18
+Inaugural committee reports (FEC Form 13), § 104.21(c)
+Independent expenditure reports, § 104.4(a); § 109.10(b) and (c)
+Notification of Multicandidate Status (FEC Form 1M), § 102.2(a)(3)
+Obtainable from the Commission, § 102.2(a); § 104.2(b)
+Reproducing FEC forms, § 104.2(c)
+Statement of Candidacy (FEC Form 2), § 101.1
+Statement of Organization (FEC Form 1), § 102.1(a); § 102.2(a)(1)
+Termination reports, § 102.3(a)
+See also: FILING; REPORTING
+FREEDOM OF INFORMATION ACT, See: Index for ADMINISTRATIVE REGULATIONS/Freedom of Information Act
+FUNDRAISING
+Allocation of expenses for, See: ALLOCATION OF EXPENSES
+Bundled, See: BUNDLING
+By collecting agent, § 102.6(b) and (c)
+By commercial firm, § 102.6(b)(3); § 110.6(b)(2)(i)(D)
+Combined dues/contributions, § 102.6(c)(3)
+Coordinated with nonfederal campaign, § 110.3(d)
+Corporate/labor facilities and resources used for, § 114.2(f); § 114.9; § 114.13
+For “Levin” funds, § 300.31
+For separate segregated fund, See: SEPARATED SEGREGATED FUND
+Joint, See: JOINT FUNDRAISING
+Limitation, § 100.152
+Name of candidate used in, § 102.14(a) and (b)(3)
+Notices required when, See: DISCLAIMER NOTICE
+Payment to attend event, § 100.53
+Project using candidate's name, § 102.14(a) and (b)(3)
+Representative, § 102.17(b)(1) and (2)
+Sale of fundraising items, § 100.53
+See also: COMMUNICATIONS/ADVERTISING; CONTRIBUTIONS; DISCLAIMER NOTICE
+GENERAL ELECTION
+Contributions for, separated from primary contributions, § 102.9(e)
+Definition, § 100.2(b)
+See also: ELECTION; PRIMARY ELECTION
+GET-OUT-THE-VOTE DRIVE
+See: VOTER DRIVES
+GIFT
+Campaign funds used to purchase, § 113.1(g)(4)
+Made to influence election, § 100.52(a); § 100.111(a)
+GOVERNMENT CONTRACTOR
+See: FEDERAL CONTRACTOR
+GOVERNMENT CONVEYANCE
+See: TRAVEL
+HANDICAPPED PERSONS
+See: Index for ADMINISTRATIVE REGULATIONS/Handicapped Persons
+HOST COMMITTEE (CONVENTION)
+Registration and reporting, § 107.2
+HOUSE CAMPAIGN COMMITTEE
+Contributions by, § 110.2(b)(1); § 110.3(b)(1) and (2)(i)
+Contributions to, § 110.1(c)(2); § 110.2(c)(2); § 110.3(b)(1) and (2)(i)
+Prohibition on fundraising for and donating to certain tax-exempt organizations, § 300.11
+Prohibition on raising and spending nonfederal funds, § 300.10; § 300.50
+See also: NATIONAL PARTY COMMITTEE; PARTY COMMITTEE
+IDENTIFICATION
+Definition, § 100.12
+Requesting, § 104.7(b)
+See also: BEST EFFORTS; RECORDKEEPING; REPORTING
+INAUGURAL COMMITTEE
+Definition, § 104.21(a)(1)
+Donations to
+Initial filing by, § 104.21(b)
+Recordkeeping by, § 104.21(d)
+Reporting requirements for, § 104.21(c)
+INCORPORATION
+Of political committee, § 114.12(a)
+INCUMBENT
+Federal officeholder defined, § 113.1(c)
+Government transportation used by, for presidential campaign, See: Index for GENERAL ELECTION FINANCING/Travel; Index for PRIMARY ELECTION FINANCING/Qualified Campaign Expenses
+Office account of, See: OFFICE ACCOUNT
+Qualified Member, definition, § 113.1(f)
+See also:CANDIDATE; CONGRESS, MEMBER OF
+INDEPENDENT EXPENDITURES
+Agent of candidate or party, definition, § 109.3
+Attribution of, among candidates, § 106.1(a)
+Certification of independence, § 109.10(e)(2)
+Clearly identified candidate, definition, § 100.17; § 106.1)(d)
+Contribution in-kind, if coordinated, § 109.20(b); § 109.21(a) and (b); § 109.37(b); § 114.2(c); § 114.10(a)
+Contributions made to political committees making, § 110.1(n)
+Defined as expenditure, § 100.113
+Definition, § 100.16
+Delegate/delegate committee expenditures for federal candidate, § 110.14(f)(2) and (i)(2)
+Electioneering communication, exempt from definition, § 100.29(c)(3)
+Express advocacy required, § 100.16(a)
+Notice of nonauthorization required, § 109.11; § 110.11(b)(3) and (c)(1) and (4); § 114.10(c)
+Opposing candidate, use of candidate's name in title, § 102.14(b)(3)
+INDIVIDUALS
+Advances of goods/services paid with personal funds, § 100.52(a) § 100.111(a); § 116.5(b)
+Campaign travel paid by, § 100.79; § 116.5(b)
+Coercive solicitations of, prohibited, § 114.5(a)
+Contributions by, § 110.1
+Corporate and labor organization facilities and resources used by, § 114.2(f); § 114.9(a), (b) and (c)
+Credit cards, use of, § 116.5(b)
+Earmarked contributions by, See: EARMARKED CONTRIBUTIONS
+Electioneering communications by, See: ELECTIONEERING COMMUNICATIONS
+Express advocacy communications by, See: EXPRESS ADVOCACY; INDEPENDENT EXPENDITURES; INTERNET ACTIVITIES
+Foreign national, See: FOREIGN NATIONAL
+Independent expenditures by, See: INDEPENDENT EXPENDITURES
+Legal and accounting services provided by, to campaigns, See: LEGAL AND ACCOUNTING SERVICES
+Liability of, for campaign activity, See: LIABILITY
+“Levin” fund donations by, § 300.31(d)
+Loans and loan endorsements by, § 100.52(a) § 100.111(a)
+Party activity conducted by, See: PARTY COMMITTEE/Contribution/expenditure exemptions
+Person, defined as, § 100.10
+Property of, used for volunteer activity, § 100.75; § 100.94(a)(2) and (c); § 100.135; § 100.155(a)(2) and (c)
+Reimbursed for travel/subsistence, § 116.5(b)
+Salary owed to, § 116.6
+Solicitations of, by corporations/labor organizations, See: RESTRICTED CLASS; SEPARATED SEGREGATED FUND
+Testing-the-waters activities of, See: TESTING-THE-WATERS EXPENSES
+Travel expenses of, § 100.79; § 100.139; § 116.5(b)
+IN-KIND CONTRIBUTION
+Advances for goods/services, § 100.52(a); § 116.5(b)
+“Anything of value,” defined, § 100.52(d); § 100.111(e)
+Polling expenses, considered as, § 106.4(b)
+Reported as expenditure, § 104.13(a)(2); § 106.1(b)
+Stocks/bonds/art objects, liquidation of, § 104.13(b)
+Travel expenses, except when exempted, § 113.5(d); § 116.5(b)
+Valuation, § 100.52(d)(2); § 100.134(f); § 104.13(a)(1)
+INTERMEDIARY/CONDUIT
+See: EARMARKED CONTRIBUTION
+INTERNET ACTIVITIES
+Contribution, when considered to be, § 100.94(e)
+Contribution/expenditure exemptions, § 100.73; § 100.94; § 100.132; § 100.155
+Definition, § 100.94(b); § 100.155(b)
+Equipment and services used in, definition, § 100.94(c); § 100.155(c)
+Expenditure, when considered to be, § 100.155(e)
+News story exemption, application to, § 100.73; § 100.132
+Payments for, § 100.26; § 100.94(e); § 100.155(e)
+Uncompensated, by individuals or groups, § 100.94; § 100.155
+See also: COMMUNICATIONS/ADVERTISING; NEWS STORY EXEMPTION
+JOINT FUNDRAISING
+Agreement required, § 102.17(c)(1)
+Allocation formula, § 102.17(c)(1) and (2)
+Allocation of proceeds and expenses, § 102.17(c)(6) and (7)
+Authorized committee designated for, § 102.13(c)(1); § 102.17(a)(1)
+Commercial firm as participant in, § 102.17(a)(1)(ii)
+Contribution limitation, per participant, § 102.17(c)(5)
+Costs of, advanced, § 102.17(b)(3)
+Depository for, § 102.17(c)(3)
+Notice required, § 102.17(c)(2)
+Participants in, § 102.17(a)(2) and (b)
+Procedures for conducting, § 102.17
+Prohibited for “Levin” funds, § 102.17(a); § 300.31(f) and (g)
+Reporting of, § 102.17(c)(3)(iii) and (8)
+Separate segregated fund as participant in, § 102.6(b) and (c)
+Transfer of funds, limited, § 102.6(a)(1)(iii) and (iv); § 110.3(c)(2)
+LABOR ORGANIZATION
+See: CORPORATION/LABOR ORGANIZATION/NATIONAL BANK
+LEADERSHIP PAC
+Definition, § 100.5(e)(6)
+Fundraising restrictions on, § 300.61; § 300.62
+Not affiliated with campaign, § 100.5(e)(5)
+See also: POLITICAL COMMITTEE; UNAUTHORIZED COMMITTEE
+LEGAL AND ACCOUNTING SERVICES
+Exemption from limitation for presidential campaigns, § 106.2(b)(2)(iii)
+Reporting, § 104.3(h); § 114.5(e)(2)(ii)
+“LEVIN” FUNDS
+Accounts for, § 300.2(h); § 300.30(b)(2)
+Allocating, § 300.33
+Allocation accounts used for, § 102.5(a)(5); § 300.33(e)(1)
+Definition, § 300.2(i)
+Donations of, § 300.31
+Expenditures and disbursements of, § 300.32(b) and (c)
+Federal candidate or officeholder prohibited from raising, § 300.31(e)(2); § 300.61
+Fundraising costs for, § 300.32(a)(3) and (4)
+Joint fundraiser for, § 106.7(d)(4); § 300.31(f); § 300.32(a)(3)
+National party committee prohibited from raising, § 300.10(a)(3); § 300.31(e)(1)
+Reporting, § 300.36
+Receipt of, § 300.31
+Transfers prohibited, § 300.34
+Use of, when prohibited, § 100.24(b)(2) and (3); § 300.33(c) and (d)
+See also: ALLOCATION OF EXPENSES; FEDERAL ELECTION ACTIVITY; LOCAL PARTY COMMITTEE; STATE PARTY COMMITTEE; VOTER DRIVES
+LIABILITY
+For disputed debt, disclosure not admission of, § 116.10(a)
+For filing complaints with FEC, § 111.4(c)
+For forwarding contributions to political committee treasurers, § 102.6(c)(1); § 102.8
+For making independent expenditures, § 104.4(d); § 109.10(e)(2)
+Of political committee treasurers, See: TREASURER OF POLITICAL COMMITTEE/Duties
+Of separate segregated funds, for collecting agent activity, § 102.6(c)(1)
+Of presidential candidates accepting public funds, See: Index for GENERAL ELECTION FINANCING/Certifications; Index for PRIMARY ELECTION FINANCING/Certifications
+LIMITED LIABILITY COMPANY
+Contributions by, § 110.1(g)
+Corporation, treatment as, § 110.1(g)(3)
+Definition, § 110.1(g)(1)
+Partnership, treatment as, § 110.1(g)(2) and § 110.1(g)(5)
+LOANS
+Assurance of repayment, § 100.82(e); § 100.142(e)
+Endorsements, § 100.52(b); § 100.83(b)
+Expenditure, § 100.111(a); § 114.1(a)(1)
+Guarantees, § 100.52(b); § 100.83(b)
+Made by lending institution, § 100.82; § 100.142(a)-(d)
+See also: DEBTS
+LOCAL PARTY COMMITTEE
+Definition, § 100.14(b)
+Coordinated party expenditures by, See: COORDINATION; PARTY COMMITTEE/Coordinated Party Expenditures
+Federal election activity, See: FEDERAL ELECTION ACTIVITY
+Independent expenditures by, See: COORDINATION; INDEPENDENT EXPENDITURES; PARTY COMMITTEE
+“Levin” funds, use of, See: FEDERAL ELECTION ACTIVITY; “LEVIN” FUNDS
+Prohibition on fundraising for and donating to certain tax-exempt organizations, § 300.37; § 300.51
+Salaries, benefits and wages paid by, § 100.24(b)(3); § 106.7(c)(1) and (d)(1); § 300.33(d)
+Subordinate committee, definition, § 100.14(c)
+See also: PARTY COMMITTEE
+MAILING LIST
+Electronic mailing address list purchased for or transferred to political committee, § 100.94(e)(2) and (3); § 100.155(e)(2) and (3)
+Federal election activity, use for, § 100.24(a)(4) and (b)(2); § 300.32(b)(1)(ii); § 300.33(a)(2)
+In-kind contribution, donation results in, § 100.52(d)(1); § 100.94(e)(2) and (3); § 100.155(e)(2) and (3)
+Information from FEC reports used for, prohibited, § 104.15(a)
+See also: DIRECT MAIL
+MEDIA
+See: COMMUNICATIONS/ADVERTISING
+MEMBER OF CONGRESS
+See: CONGRESS, MEMBERS OF; FEDERAL OFFICEHOLDER
+MEMBERS
+Definition, § 100.134(f); § 114.1(e)(2); § 114.7(i)
+Financial obligations/voting rights, criteria for membership in membership organization, § 100.134(f); § 114.1(e)(2)
+MEMBERSHIP ORGANIZATION
+Affiliation, § 100.134(h) and (i); § 114.1(e)(4)
+Definition of, § 100.134(e); § 114.1(e)(1)
+Member of, defined, § 100.134(f); § 114.1(e)(2); § 114.7(i)
+Multitiered, § 100.134(i) and § 114.1(e)(5)
+Student members of, § 100.134(g); § 114.1(e)(3)
+See also: COMMUNICATIONS/ADVERTISING; COOPERATIVE; CORPORATION/LABOR ORGANIZATION/NATIONAL BANK/Labor Organization; CORPORATION WITHOUT CAPITAL STOCK; MEMBERSHIP ORGANIZATION, INCORPORATED; TRADE ASSOCIATION
+MINORS
+MULTICANDIDATE COMMITTEE
+Contributions by, limitations, § 110.2
+Definition, § 100.5(e)(3)
+See also: POLITICAL COMMITTEE; UNAUTHORIZED COMMITTEE
+NAME
+Acronym, use of, § 102.14(c)
+Contributor's, request for, § 104.7(b)
+NATIONAL BANK
+See: CORPORATION/LABOR ORGANIZATION/NATIONAL BANK
+NATIONAL NOMINATING CONVENTION
+See: CONVENTION, NATIONAL NOMINATING
+NATIONAL PARTY COMMITTEE
+Acting as principal campaign committee of presidential candidate, § 102.12(c)(1)
+Committees established and maintained by, § 110.2(e)
+Coordinated party expenditures by, See: PARTY COMMITTEE
+Office building fund, expenditure for, § 100.114
+Reporting by, § 104.4; § 104.5(c)(4); § 109.10(a); § 300.13
+See also: PARTY COMMITTEE
+NEWS STORY EXEMPTION
+Electioneering communications, exempt from definition of, § 100.29(c)(2)
+Internet activities, contribution/expenditure exemption, § 100.73; § 100.132
+News stories, commentary or editorials, contribution/expenditure exemption, § 100.73; § 100.132
+NONAUTHORIZED COMMITTEE
+See: UNAUTHORIZED COMMITTEE
+NONCONNECTED COMMITTEE
+Federal and nonfederal accounts, rules for having, § 102.5(a)(1) and (2); § 106.6
+Independent-expenditure only committee, contributions by corporations and labor organizations to, Note, § 114.2(b); Note, § 114.10(a)
+Leadership PAC, not affiliated with authorized committee, § 100.5(e)(5)
+Name of, restrictions, § 102.14(a) and (b)(3)
+Non-contribution account maintained by, contributions by corporations and labor organizations to, Note, § 114.2(b); Note, § 114.10(a)
+Political committee status, § 100.5(a)
+Registration of, § 100.5(a); § 102.1(d)
+See also: MULTICANDIDATE COMMITTEE; POLITICAL COMMITTEE
+NONELECTION YEAR
+Candidate appearances, § 110.8(e)(2)(i)
+Reporting, § 104.5(a)(2), (b)(2) and (c)(2)
+NONFEDERAL ELECTION
+NONFILERS
+Enforcement procedures, § 111.8(a) and (b)
+Publication of names, § 111.8(c)
+NONPROFIT ORGANIZATION
+Definition, § 110.13(a)(1)
+Distribution of voter guides, § 114.4(c)(5)
+Sponsorship of candidate debates, § 110.13(a)(1); § 114.4(f)
+NOTICES REQUIRED
+On communications, See: DISCLAIMER NOTICE
+On solicitations, See: BEST EFFORTS; DISCLAIMER NOTICE
+When multicandidate committee makes contribution to authorized committee, § 110.2(a)(2)
+OFFICE ACCOUNT
+Contribution/expenditure limitations may apply, § 113.4(a)
+Corporate/labor donations to, § 113.4(b)
+Definition, § 113.1(b)
+Federal officeholder, definition, § 113.1(c)
+State officeholder, definition, § 113.1(d)
+OFFICEHOLDER
+See: CONGRESS; MEMBERS OF; FEDERAL OFFICEHOLDER; STATE OFFICEHOLDER
+ONGOING COMMITTEE
+Defined, § 116.1(b)
+See also: DEBTS
+OPINION POLLS
+See: POLLING
+PAC
+See: SEPARATE SEGREGATED FUND
+PARTNERSHIP
+As Federal contractor, § 115.4
+Contributions by, attributed to partners, § 110.1(e)
+Corporate member of, § 110.1(e)(2)
+PARTY COMMITTEE
+Administrative expenses, of State, district or local party committees, § 106.7(c)(2) and (d)(2)
+Affiliated, § 110.3(b)
+Appearances by party representative at corporate/labor organization function, § 114.3(c)(2); § 114.4(b)
+Candidate appearances for party, § 110.8(e); § 300.64
+Contributions to national, House and Senate committees, § 110.1(c); § 110.2(c); § 110.3(b)(1)
+Convention (national nominating) registration and reporting, § 107.1
+Definition, § 100.5(e)(4)
+District party committee, See: LOCAL PARTY COMMITTEE
+Federal/nonfederal election financing, § 102.5; § 104.17; § 106.1(e); § 106.7; Part 300
+Federal election activity (FEA) conducted by, See: FEDERAL ELECTION ACTIVITY
+Local committee, See: LOCAL PARTY COMMITTEE
+Multicandidate status, See: MULTICANDIDATE COMMITTEE
+Phone banks that refer to a clearly identified federal candidate, § 106.8(a) and (b)
+Political party, definition, § 100.15
+Reporting requirements, See: REPORTING
+State committee, See: STATE PARTY COMMITTEE
+Voter drives and get-out-the-vote activities, See: ALLOCATION OF EXPENSES; FEDERAL ELECTION ACTIVITY; “LEVIN” FUNDS; VOTER DRIVES
+See also: POLITICAL COMMITTEE
+PAYROLL DEDUCTION PLAN
+Combined dues/contributions payments, § 102.6(c)(3)
+Not facilitation, § 114.2(f)(4)(i) and (5)
+Of corporate member for trade association SSF, § 114.8(e)(4)
+Of corporation, made available to labor organizations, § 114.5(k)(1)
+Reporting requirements, § 104.8(b)
+Reverse checkoff plans, prohibited, § 114.5(a)(1)
+Twice-yearly solicitations by corporations/labor organizations, prohibited, § 114.6(e)(1)
+See also: COLLECTING AGENT
+PENALTIES
+See: COMPLIANCE
+PERSON
+Contribution limitations, § 110.1
+Definition, § 100.10; § 110.1(a)
+Electioneering communications by, See: ELECTIONEERING COMMUNICATIONS
+Independent expenditures by, Part109; § 114.10
+Internet activities by, See: INTERNET ACTIVITIES
+Prohibition against solicitation of people named in reports, § 104.15
+PERSONAL FUNDS
+Of individual, used to advance goods/services, § 116.5(b)
+Of delegate, expenditures from, § 110.14(e)
+Of vice presidential candidate, expenditures from, § 110.8(f)(2)
+Of volunteer, used for living expenses, § 100.79; § 100.139
+Segregated from political funds, § 102.15
+PERSONAL SERVICES
+Compensated, considered contribution, § 100.54
+Volunteered, contribution exemption, § 100.74
+See also: INTERNET ACTIVITIES; LEGAL AND ACCOUNTING SERVICES; VOLUNTEER ACTIVITY
+PETTY CASH FUND
+Disbursements from, § 102.11; § 103.3(a)
+Recordkeeping required, § 102.11
+POLITICAL ACTION COMMITTEE
+See: LEADERSHIP PAC; POLITICAL COMMITTEE; SEPARATE SEGREGATED FUND; UNAUTHORIZED COMMITTEE
+POLITICAL ADS
+See: COMMUNICATIONS/ADVERTISING; DISCLAIMER NOTICE; ELECTIONEERING COMMUNICATIONS; INDEPENDENT EXPENDITURES; PUBLIC POLITICAL ADVERTISING
+POLITICAL COMMITTEE
+Affiliated, See: AFFILIATED COMMITTEE
+Allocation between federal/nonfederal accounts, See: ALLOCATION OF EXPENSES
+Authorized, See: AUTHORIZED COMMITTEE
+Campaign depository, See: CAMPAIGN DEPOSITORY
+Collecting agent for, § 102.6(b) and (c)
+Contributions to, § 110.1(d)
+Definition, § 100.5
+Debts owed by, See: DEBTS
+Delegate committee, See: DELEGATE/Committee
+Federal/nonfederal, § 100.24(c); § 102.5; § 106.1(e); § 106.6; § 106.7; § 300.10; § 300.30
+Filing reports, See: FILING; FORMS; REPORTING
+Forwarding contributions to, § 102.8
+Funds, separate from personal, § 102.15
+Host committee (convention), registration and reporting, § 107.1
+Identification number, § 102.2(c)
+Incorporation of, § 114.12(a)
+Independent expenditures by, See: COORDINATION; COMMUNICATIONS/ADVERTISING; DISCLAIMER NOTICE; EXPRESS ADVOCACY; INDEPENDENT EXPENDITURES
+Internet activities by, See: COMMUNICATIONS/ADVERTISING; DISCLAIMER NOTICE; INTERNET ACTIVITIES
+Joint fundraising, committee established for, § 102.17(b)(1) and (2)
+Leadership PAC, See: LEADERSHIP PAC
+Multicandidate, See: MULTICANDIDATE COMMITTEE
+Municipal Fund (convention), registration and reporting, § 107.1
+Name of, restrictions, § 102.14
+Nonconnected, See: NONCONNECTED COMMITTEE
+Ongoing, See: ONGOING COMMITTEE
+Organization of, § 102.7
+Party, See: LOCAL PARTY COMMITTEE; NATIONAL PARTY COMMITTEE; PARTY COMMITTEE; STATE PARTY COMMITTEE
+Petty cash fund, § 102.11; § 103.3(a)
+Principal campaign, See: PRINCIPAL CAMPAIGN COMMITTEE
+Recordkeeping requirements, See: RECORDKEEPING
+Registration, § 102.1; § 102.2; § 102.6(a)(2); § 102.17(a)(1)
+Reporting requirements, See: REPORTING
+Separate segregated fund, See: SEPARATE SEGREGATED FUND
+Single candidate, See: SINGLE CANDIDATE COMMITTEE
+Statement of Organization, § 102.1; § 102.2
+Termination of, See: TERMINATION OF COMMITTEE
+Transfers among, See: TRANSFER OF FUNDS
+Treasurer, See: TREASURER OF POLITICAL COMMITTEE
+Unauthorized, See: UNAUTHORIZED COMMITTEE
+POLITICAL PARTY
+See: LOCAL PARTY COMMITTEE; NATIONAL PARTY COMMITTEE; PARTY COMMITTEE; STATE PARTY COMMITTEE
+POLLING
+Acceptance of results, § 106.4(b) and (c)
+Contribution in-kind, § 106.4
+Testing-the-waters exemption, § 100.72(a) and (b); § 100.131(a) and (b); § 106.4(a) and (b)
+POSTMARK
+As date of filing, § 104.5(e)
+As date of when contribution is made, § 110.1(b)(6) and (l)(4); § 110.2(b)(6)
+PREEMPTION
+Of Federal Election Campaign Act by state election laws, § 108.7(c)
+Of state election laws by Federal Election Campaign Act, § 100.93(h); § 108.7(a) and (b)
+PRIMARY ELECTION
+Definition, § 100.2(c)
+Transfer of unused funds to general election campaign, § 110.3(c)(3)
+See also: ELECTION
+PRINCIPAL CAMPAIGN COMMITTEE
+Agent for, definition, § 109.3(b); § 300.2(b)(3)
+Consolidated report filed by, § 104.3(f)
+Contributions to, See: CANDIDATE; CONTRIBUTIONS
+Definition, § 100.5(d) and (e)(1)
+Designation of, § 101.1(a); § 102.12
+Expenditures by, See: CAMPAIGN FUNDS, USE OF; EXPENDITURES
+Registration of, § 102.1(a); § 102.2(b)(1)(i)
+Support of one candidate only, § 102.12(b) and (c)
+Transfers between, § 110.3(c)(4) and (5)
+See also: AUTHORIZED COMMITTEE; CANDIDATE; POLITICAL COMMITTEE
+PRIVACY ACT
+See: Index for ADMINISTRATIVE REGULATIONS/Privacy Act
+PROPERTY, REAL OR PERSONAL
+Use of, exempted, § 100.75; § 100.94; § 100.135; § 100.155
+PSEUDONYMS
+Definition, § 104.3(e)(2)
+Purpose, § 104.3(e)(1)
+Reporting procedures, § 104.3(e)(3)-(5)
+PUBLIC COMMUNICATION
+Content standard for coordinated communication, § 109.21(c)(2)-(5); § 109.37(a)(2)
+Contribution in-kind, when considered as, § 109.20(a); § 109.21(a), (b) and (c)(2)-(4)
+Definition, § 100.26
+Disclaimer requirements for, § 110.11
+Federal election activity, when considered as, § 100.24(b)(3)
+Federal funds may only be used to finance, when applicable, § 100.24(b)(3); § 300.33(c)
+Generic campaign activity, definition, § 100.25
+Internet communications, when exempt from/included in definition, § 100.26
+Mass mailing, definition, § 100.27
+Nonfederal candidates, exemptions for, § 100.24(c)(1); § 109.24(g)
+Safe harbors applied to coordinated, § 109.21(g) and (i)
+Telephone bank, definition, § 100.28
+Time frames applied to coordinated, § 109.21(c)(4); § 109.37(a)(2)(iii)(A) and (B)
+See also: CAMPAIGN MATERIALS; COORDINATION; COMMUNICATIONS/ADVERTISING; FEDERAL ELECTION ACTIVITY; INTERNET ACTIVITIES; SLATE CARD/SAMPLE BALLOT
+PUBLIC FINANCING
+See: Indexes for GENERAL ELECTION FINANCING; FEDERAL FINANCING OF PRESIDENTIAL NOMINATING CONVENTIONS; PRESIDENTIAL PRIMARY MATCHING FUND
+PUBLIC INSPECTION OF DOCUMENTS
+Advisory opinions and requests for, § 112.2
+See also: Index for ADMINISTRATIVE REGULATIONS/Public Disclosure
+PUBLIC POLITICAL ADVERTISING
+Coordinated with campaign or party, See: COORDINATION
+Defined, § 100.26; § 110.11(a)
+Electioneering communication, See: ELECTIONEERING COMMUNICATION
+Expressly advocating, definition, § 100.22; § 109.2(b)(2)
+Independent expenditures made for, See: COORDINATION; INDEPENDENT EXPENDITURES
+Media used for, § 100.26; § 110.11(a)
+Public communication, See: PUBLIC COMMUNICATION
+Rates charged for space, § 110.11(h)
+Television and radio ads, additional requirements for, § 110.11(c)(3) and (4)
+See: COMMUNICATIONS/ADVERTISING
+RECEIPTS
+Deposit of, § 103.3(a)
+Reporting, See: REPORTING
+See also: CONTRIBUTIONS
+RECORDKEEPING
+Collecting agent, duties of, § 102.6(c)(5) and (6)
+Electioneering communications, § 104.20(d)
+Expenditures allocated among states, § 106.2(b) and (d)
+Federal activity of unregistered organization, § 102.5(b)
+Federal Election Commission, records kept by, See: Index for ADMINISTRATIVE REGULATIONS/Records
+Inaugural committees, § 104.21(d)
+Joint fundraising, § 102.17(c)(4)
+Petty cash fund, § 102.11
+Separate segregated fund custodian, duties of, § 114.6(d)
+State officers' duties, § 108.6
+Testing-the-waters activity, § 101.3
+Travel, § 100.93(j)
+See also: REPORTING
+RECOUNT EXPENSES
+See: ELECTION
+REFUNDS
+See: CONTRIBUTIONS
+REGISTRATION
+REGULATIONS
+See: RULES AND REGULATIONS
+REIMBURSEMENT
+Of committee staff, for advances made, § 116.5(b)
+Of federal account by nonfederal account, for allocable expenses, § 106.6(e); § 106.7(f)
+Prohibited, by parent organization to separate segregated fund, § 114.5(b)
+REPORTING
+24 hour report of electioneering communication, § 104.5(j); § 104.20(b)
+24 hour report of independent expenditure, § 104.4(c); § 104.5(g)(1); § 109.10(d)
+48 hour notification of contribution, § 104.5(f)
+48 hour report of independent expenditure, § 104.4(b)(2); § 104.5(g)(2)
+Acknowledgement of report's receipt, § 104.14(c)
+Allocable expenses, See: ALLOCATION OF EXPENSES
+Amending previous report, § 104.7(b)(4)
+Bank loans, § 104.3(d)
+Brokerage loans and lines of credit to candidates, See: LOANS
+Bundled contributions, See: BUNDLING
+Cash-on-hand, § 104.3(a)(1); § 104.12
+Collecting agent, of funds received through, § 102.6(c)(7)
+Communications to restricted class by corporations, membership organizations and labor organizations, § 100.134(a); § 104.6; § 114.3(b); § 114.5(e)(2)(i)
+Compulsory, § 104.1(a)
+Computerized, § 104.2(d)
+Consolidated, § 104.3(f)
+Content of reports, § 104.3
+Convention, national nominating, Part107
+Corporation/labor organization, for internal communications, § 104.6
+Cumulative, § 104.3(i)
+Earmarked contributions, See: EARMARKED CONTRIBUTION
+Election cycle basis, § 104.3(a)(3); § 104.3(b)(2)
+Election year, § 104.5(a)(1), (b)(1) and (c)(1)
+Electronic filing, § 104.18
+Failure to report, § 111.8(c)
+Filing reports, See: FILING
+Forms, See: FORMS
+Identification number, § 102.2(c)
+Inaugural Committees, § 104.21(c)
+Interest income, § 103.3(a); § 104.3(a)(4)(vi)
+Joint fundraising activity, § 102.17(c)(3)(iii) and (8)
+Legal and accounting services, § 104.3(h); § 114.5(e)(2)(ii)
+Loans, § 104.3(d)
+Multistate electioneering communications in a presidential primary election, § 104.20(c)(7)
+Multistate independent expenditures in a presidential primary election
+Non-election year, § 104.5(b)(2) and (c)(2)
+Nonfederal campaign committee, § 110.3(c)(6)(iii)
+Nonfilers, See: NONFILERS
+Party coordinated expenditures, § 104.3(b)(3)(viii); § 109.33
+Party office building fund, contributions and donations to, § 104.3(g)
+Payroll deductions, § 104.8(b)
+Preservation of reports, § 102.9(c); § 104.14(b)(2) and (3)
+Pseudonyms, § 104.3(e)
+Public inspection of reports, See: PUBLIC INSPECTION OF DOCUMENTS
+Requirements, formal, § 104.14; § 104.18
+Sale/use restriction on filed reports, § 104.15
+Semiannual report by unauthorized committee, § 104.5(c)(2)(i)
+Separate segregated fund reports, § 114.5(e)
+Special election reports, § 104.5(h)
+State filing, See: FILING
+State officers' duties, § 108.6
+Stocks, bonds, art objects, § 104.13(b)
+Termination report, § 102.3(a)
+Testing-the-waters activity, § 101.3
+Treasurer of committee, duties of, § 104.1(a); § 104.14
+Vice presidential committee reports, § 104.5(d)
+Voluntary, § 104.1(b)
+See also: FILING; FORMS; RECORDKEEPING
+RESTRICTED CLASS
+Communications directed to, by corporations, membership organizations and labor organizations, § 100.134(a); § 114.1(a)(2)(i) and (j); § 114.2(a) and (c); § 114.3; § 114.7(g) and (k)(2); § 114.8(h)
+Solicitation of, by corporations, labor organizations or their separate segregated funds, § 110.11(f)(2); § 114.5(g); § 114.7(a)
+See also: FUNDRAISING; SEPARATE SEGREGATED FUND
+RETIRING DEBTS
+See: DEBTS
+RULES AND REGULATIONS
+Advisory opinions based on, § 112.1(a)
+Effect on State law, § 108.7
+Petitions for rulemaking, See: Index for ADMINISTRATIVE REGULATIONS/Rulemaking Petitions
+Scope, § 1.1; § 2.1; § 4.3; § 5.3; § 100.1; § 110.14(a)
+RUNOFF ELECTION
+Definition, § 100.2(d)
+Reporting dates, § 104.5(h)
+SALE/USE RESTRICTION
+Prohibited use of individual contributor information, § 104.15(a)
+Soliciting contributions, defined, § 104.15(b)
+SENATORIAL CAMPAIGN COMMITTEE
+Contributions by, § 110.2(e); § 110.3(b)(1) and (2)(ii)
+Contributions to, § 110.1(c); § 110.2(c); § 110.3(b)(1) and (2)(ii)
+See: NATIONAL PARTY COMMITTEE; PARTY COMMITTEE
+SEPARATE SEGREGATED FUND
+Allocation of federal/nonfederal expenses, See: ALLOCATION OF EXPENSES
+Collecting agent for, § 102.6(b) and (c)
+Conduit for earmarked contributions, § 110.6(b)(2); § 114.2(f)(2)(iii), (3)(ii) and (4)(iii)
+Control of, § 114.5(d)
+Facilities used in volunteer activity, § 114.9
+Federal contractor, established by, § 115.3
+Fundraising event, reimbursement to connected organization for, § 114.5(b)(2)
+Lobbyist/Registrant PAC, when defined as, § 100.5(e)(7)
+Membership in, § 114.5(c)
+Multicandidate, See: MULTICANDIDATE COMMITTEE
+Name of, restrictions, § 102.14(c)
+Political committee status, § 100.5(b)
+Registration of, § 102.1(c)
+Statement of Organization requirements, § 102.2
+Transmittal of funds received by collecting agent for, § 102.6(c)
+Twice yearly solicitations, § 114.6
+Use of treasury funds, § 114.5(b)
+See also: CORPORATION/LABOR ORGANIZATION/NATIONAL BANK; MEMBERSHIP ORGANIZATION; POLITICAL COMMITTEE; TRADE ASSOCIATION; UNAUTHORIZED COMMITTEE
+SINGLE CANDIDATE COMMITTEE
+Contributions to, § 110.1(h)(1)
+Definition, § 100.5(e)(2)
+SLATE CARD/SAMPLE BALLOT
+Contribution/expenditure exemption, § 100.80; § 100.140
+Federal election activity, § 100.24(b)(2) and (3)
+Disclaimer notice required, § 110.11(e)
+See also: ALLOCATION OF EXPENSES; FEDERAL ELECTION ACTIVITY; PARTY COMMITTEE; PUBLIC COMMUNICATION
+“SOFT MONEY”
+See: FUNDRAISING; LOCAL PARTY COMMITTEE; NATIONAL PARTY COMMITTEE; PARTY COMMITTEE; STATE PARTY COMMITTEE
+SOLE PROPRIETOR
+As Federal contractor, § 115.5
+SOLICITABLE PERSONNEL
+See: RESTRICTED CLASS
+SOLICITATION
+See: CONTRIBUTIONS; FUNDRAISING; SEPARATE SEGREGATED FUND
+SPECIAL ELECTION
+Definition, § 100.2(f)
+Report, § 104.5(h)
+See also: ELECTION
+SPOUSE
+Contributions by, § 100.51(b); § 100.71(b); § 110.1(i)(1)
+Expenditures by, § 100.110(b); § 100.130(b)
+Family of candidate, § 113.1(g)
+Loans, cosigning, § 100.52(b)(4); § 100.82(a)-(d); § 100.142(a)-(d)
+Owned by candidate jointly with, § 110.10(b)(3)
+STATE
+Definition, § 100.11
+Filing with, See: FILING
+Law
+Officeholder, See: STATE OFFICEHOLDER
+STATE OFFICEHOLDER
+Agent of, defined, § 300.2(b)(4)
+Contributions by, to federal campaign of another candidate
+Contributions to, by federal campaign of another candidate, § 113.2(d)
+Definition, § 113.1(d)
+Transfers from nonfederal campaign to federal campaign of same candidate, prohibited, § 110.3(d); § 110.8(d)(2)
+STATE ORGANIZATION
+Member of, defined, § 100.134(f); § 114.1(e)(2)
+See also: COLLECTING AGENT
+STATE PARTY COMMITTEE
+Agent of, definition, § 109.3(a); § 300.2(b)(2)
+Allocation of federal/nonfederal expenses, See: ALLOCATION OF EXPENSES
+Committees established and maintained by, § 110.3(b)(3)
+Coordinated party expenditure limits, § 109.32(b); § 109.33
+Definition, § 100.14(a)
+Designated as agent of national committee, § 109.23(b)(5); § 109.33
+Federal election activity, See: FEDERAL ELECTION ACTIVITY; PUBLIC COMMUNICATION
+Independent expenditures by, See: INDEPENDENT EXPENDITURES; PARTY COMMITTEE
+“Levin” funds, use of, See: FEDERAL ELECTION ACTIVITY; “LEVIN” FUNDS
+Local or district committee, affiliated with, § 110.3(b)(3)
+Multicandidate, See: MULTICANDIDATE COMMITTEE
+Prohibition on fundraising for and donating to certain tax-exempt organizations, § 300.37; § 300.51
+Salaries, wages and fringe benefits paid by, § 100.24(b)(3); § 106.7(c)(1) and (d)(1); § 300.33(d)
+See also: PARTY COMMITTEE
+STOCKHOLDER
+Communications with, by corporation, § 114.3
+Corporate facilities, use of by, § 114.9(a)
+Definition, § 114.1(h)
+Solicitations of, § 114.5(g) and (k); § 114.6(b) and (d); § 114.8(f) and (g)
+SUBORDINATE PARTY COMMITTEE
+Definition, § 100.14(c)
+See also: LOCAL PARTY COMMITTEE; PARTY COMMITTEE
+SUNSHINE ACT
+See: Index for ADMINISTRATIVE REGULATIONS/Sunshine Act
+TERMINATION OF COMMITTEE
+By Commission, § 102.4
+By committee, § 102.3
+Prohibited if committee has unpaid/unsettled debts, § 102.3; § 116.7(a)
+Statement regarding use of assets, § 102.3(a)(2)
+See also: DEBTS
+TESTING-THE-WATERS EXPENSES
+Contribution/expenditure exemption, pre-candidacy, § 100.72(a) and (b); § 100.131(a) and (b); § 101.3
+Polling expenses, § 106.2(a)(2); § 106.4(a)
+TRADE ASSOCIATION
+Definition, § 114.8(a)
+Employees, § 114.8(i)
+Federation of, solicitations by, § 114.8(g)
+Member of, defined, § 100.134(f); § 114.1(e)(2)
+Membership organization, defined as, § 100.134(e); § 114.1(e)(1)
+TRANSFER OF FUNDS
+Affiliation criterion, § 100.5(g)(4)(i); § 110.3(a)(3)(i)
+Campaign funds, § 110.3(c)(3) and (4); § 113.2(c)
+For investment purposes, § 103.3(a)
+Joint fundraising proceeds, § 102.6(a)(1)(iii); § 102.17(c)(7); § 110.3(c)(2)
+Office account funds, § 113.4
+Primary funds to general election campaign, § 110.3(c)(3)
+Registration requirements may be triggered by, § 102.6(a)(2); § 102.17(c)(7)(ii)
+Reporting requirements for, § 102.6(c)(7); § 102.17(c)(8); § 104.3(a)(4)(iii), (b)(1)(ii), (b)(2)(ii), (b)(3)(ii), and (b)(4)(ii); § 104.10(a)(2) and (b)(3); § 104.17(a)(2) and (b)(2); § 300.36
+To allocation account, See: ALLOCATION OF EXPENSES
+Transfer of campaign assets, § 113.1(g)(3)
+TRAVEL
+Advance of money by individual for, § 102.9(b)(2)(i)(B); § 116.5(b)
+By other means of transportation, § 100.93(d)
+Government conveyance used for, § 100.93(c); § 106.3(e)
+Reimbursed, § 116.5(b)
+Reporting of, § 100.93(i); § 104.13(a); § 106.3(a) and (b); § 116.5(e)
+Unreimbursed payments for, exempted, § 100.79; § 100.139
+TREASURER OF POLITICAL COMMITTEE
+Assistant treasurer, designation of, § 102.7(a)
+Custodian of separate segregated fund, § 114.6(d)(5)
+Forwarding contributions to, § 102.8
+Required for political committees, § 102.7(a)
+Vacancy in office, § 102.7(a) and (b)
+TRUSTEE PLAN
+Employee participation plan, § 114.11
+TRUSTS
+Personal funds of candidate, § 100.33(b)(4) and (5)
+UNAUTHORIZED COMMITTEE
+Allocation of expenses, See:ALLOCATION OF EXPENSES
+Contributions to, See: CONTRIBUTIONS
+Definition, § 100.5(f)(2)
+Internet activities by, See: INTERNET ACTIVITIES
+Leadership PAC, See: LEADERSHIP PAC
+Lobbyist/Registrant PAC, § 100.5(e)(7)
+Multicandidate, See: MULTICANDIDATE COMMITTEE
+Name of, restrictions, § 102.14(a)
+Nonconnected, See: NONCONNECTED COMMITTEE
+Polling results, purchased by, § 106.4(d)
+See also: LEADERSHIP PAC; LOCAL PARTY COMMITTEE, NATIONAL PARTY COMMITTEE; PARTY COMMITTEE; POLITICAL COMMITTEE; SEPARATE SEGREGATED FUND; STATE PARTY COMMITTEE
+UNUSED CAMPAIGN FUNDS
+See: CAMPAIGN FUNDS, USE OF
+USE OF FUNDS
+See: CAMPAIGN FUNDS, USE OF; EXPENDITURES
+VENDOR
+Commercial, See: COMMERCIAL VENDOR
+Of food/beverage, discount given by, § 100.78; § 100.138; § 114.1(a)(2)(v)
+See also: CREDITOR; DEBTS
+VENDOR DISCOUNTS
+Food and beverage, exempted contribution/expenditure, § 100.78; § 100.138; § 114.1(a)(2)(v)
+VICE PRESIDENTIAL CANDIDATE
+See: CANDIDATE FOR PRESIDENT
+VIOLATION
+Of contribution/expenditure prohibitions and limitations, § 110.9(a)
+Prohibited contributions, § 110.4
+See also: COMPLIANCE
+VOLUNTEER ACTIVITY
+Campaign materials, See: CAMPAIGN MATERIALS
+Church or community room, § 100.76; § 100.136
+Corporate/labor facilities and resources used for, § 114.2(f); § 114.9(a) and (b)
+Expenditures made by delegate/delegate committee, § 110.14(f)(1) and (i)(1)
+Food, beverage and invitations, § 100.77; § 100.137
+Legal and accounting services, See: LEGAL AND ACCOUNTING SERVICES
+Living expenses, § 100.79; § 100.139
+Personal services, § 100.74
+Residential premises, § 100.75; § 100.135
+Salary owed to committee staff converted to, § 116.6
+Travel, § 100.79; § 100.139
+Vendor discount of food/beverage, § 100.78; § 100.138; § 114.1(a)(2)(v)
+VOTER DRIVES
+As federal election activity, § 100.24(a)(2), (3) and (4) and (b)(1) and (2); § 300.33(a)
+Get-out-the-vote activities by party committee, § 100.24(a)(3) and (b)(2)(iii); § 106.7(c)(5); § 300.32(b)(1)(ii); § 300.33(a)(2)
+Voter identification activities by party committee, § 100.24(a)(4) and (b)(2)(i); § 106.7(c)(5); § 300.32(b)(1)(ii); § 300.33(a)(2)
+Voter registration activities by party committee, § 100.24(a)(2) and (b)(1); § 106.7(c)(5); § 300.32(b)(1)(i); § 300.33(a)(1)
+Candidate records and voter guides, See: VOTER GUIDES AND VOTING RECORDS
+Disclaimer notice required, § 110.11(a), (b) and (e)
+Distribution of official voting information by corporation or labor organization, § 114.4(c)(3)
+Generic, allocation of federal/nonfederal expenses for, See: ALLOCATION OF EXPENSES
+Not attributable to specific candidate, § 106.1(c)(2)
+See also: COMMUNICATIONS/ADVERTISING; FEDERAL ELECTION ACTIVITY; PARTY COMMITTEE; PUBLIC COMMUNICATION
+VOTER GUIDES AND VOTING RECORDS
+By corporation/labor organization, § 114.4(c)(4) and (5)
+Coordination with candidates, § 109.21(f)
+See also: COMMUNICATIONS/ADVERTISING
+VOTING AGE POPULATION
+Definition, § 110.18
+* This index makes occasional reference to parts 100-116 of 11 CFR, governing Federal election financing.
+ACCOUNTS
+See: CAMPAIGN DEPOSITORY
+ADJUSTMENT OF ENTITLEMENT
+See: ENTITLEMENT; PAYMENTS
+AGREEMENT
+Eligibility for payments requires, § 9003.1(a)(1)
+Submission dates for, § 9003.1(a)(2)
+See also: ELIGIBILITY
+ALLOCATION
+Alternative methods of determining compliance-related costs, § 9003.3(a)(2)(ii)(F) and (b)(7)
+Of expenditures among states, § 106.2
+Of travel expenditures, § 9004.7
+Recordkeeping, § 9003.3(a)(2)(ii)(A) and (3)
+AUDIT AND EXAMINATION
+Additional, § 9007.1(a)(2); § 9007.4
+Agreement to permit, § 9003.1(b)(6)
+Computerized records provided for, § 9003.1(b)(4); § 9003.6; § 9007.1(b)(1)
+Exit Conference, § 9007.1(b)(2)(iii)
+Investigative procedures, § 9007.1(b)(1)(v)
+Sampling, § 9007.1(f)
+See also: REPAYMENTS
+AUTHORIZED COMMITTEE
+Candidate's responsibilities, references to include, § 9002.1(d)
+Definition, § 9002.1
+Expenses incurred by, are qualified campaign expenses, § 9002.11(b)
+Expenses incurred by, in excess of entitlement, § 9012.1
+National committee may be designated as, § 9002.1(c)
+Recordkeeping by, See: RECORDKEEPING
+Reporting by, § 9003.3(a)(3)(ii) and (b)(11); § 9003.4(c); § 9006.1; § 9006.3
+Stale-dated committee checks, § 9007.6
+Support of other candidates by, § 9002.11(b)(3)
+Withdrawal of authorization, § 9002.1(b)
+See also: CANDIDATE; POLITICAL COMMITTEE
+CAMPAIGN DEPOSITORY
+Candidate agreement, § 9003.1(b)(7)
+Compliance fund, major party candidate, § 9003.3(a)(3)
+Individuals' contributions, depository for, § 9003.2(c)(6); § 9003.3(a)(3), (b)(2) and (c)(3); § 9003.4(c); § 9005.2(c)
+Loans for expenses incurred prior to receipt of funds, § 9003.4(c)
+Minor or new party candidates, § 9003.3(c)(3)
+Pledged future receipts, separate, § 100.82(e)(2); § 100.142(e)(2)
+Public funds, depository for, § 9005.2(c)
+Segregation of compliance and public funds, § 9003.3(a)(3)(i)
+CANDIDATE
+Authorized committee of, See: AUTHORIZED COMMITTEE
+Compliance, § 9003.1(b)(8)
+Credit card used by, § 9003.2(c)(8)
+Definition, § 9002.2
+Entitlement of, See: ENTITLEMENT
+Family of, § 9003.2(c)(1)
+Independent, § 9002.7
+Payments to, § 9004.4(b)(6)
+Personal funds of, § 9003.2(c)
+Support of other candidates by, § 9002.11(b)(3)
+CERTIFICATION
+Administrative record for, § 9007.7
+COMMISSION
+Definition, § 9002.3
+COMPLIANCE FUND
+See: LEGAL AND ACCOUNTING COMPLIANCE FUND
+CONTRIBUTIONS
+Allowable, § 9003.3
+Corporate/labor, prohibited, § 9003.3(a)(1)(i)(B), (b)(4) and (c)(2)
+Definition, § 9002.13
+Disgorgement of illegal, § 9007.1(f)(3)
+From family members or personal funds, § 9003.2(c)
+Legal and accounting compliance fund, § 9003.3(a)(1) and (c)(3)(iv)
+Limitations and prohibitions, § 9003.3(a)(1)(i)(B), (b)(4) and (c)(2)
+Redesignation of, § 9003.3(a)(1)
+Reporting of, § 9006.1(b)(1)(i) and (ii)
+Source of repayment, § 9007.2(a)(4)
+Used for qualified campaign expenses, See: QUALIFIED CAMPAIGN EXPENSES
+See also: LEGAL AND ACCOUNTING COMPLIANCE FUND; QUALIFIED CAMPAIGN EXPENSES
+CONVENTION FUNDING
+See: PART 9008
+DEBTS AND SETTLEMENTS
+Assignment of, to affiliated committee, § 116.2(c)(3)
+Determination of uncollectability, § 9004.9(e)
+For nonqualified expenses, § 9004.9(a)(3)
+Settlement, repayment obligations not subject to, § 116.7(c)(1)
+Used to reduce expenditures counting against limit, § 9004.4(b)(2)
+DEFICIENCY IN FUND
+Minor/new party candidate entitlement, adjusted due to, § 9004.3(b)(2)
+Payment withheld due to, § 9005.2(b)
+Sale of assets acquired for fundraising permitted if, § 9004.10
+DEFINITIONS
+Authorized committee, § 9002.1(a)
+Candidate, § 9002.2
+Capital assets, § 9004.9(d)(1)
+Cash on hand, § 9004.9(a)(2)(i)
+Closing date, § 9003.2(c)(8)
+Commission, § 9002.3
+Contribution, § 9002.13
+Eligible candidates, § 9002.4
+Expenditure report period, § 9002.12
+Fund, § 9002.5
+Immediate family, § 9003.2(c)(1)
+Major party, § 9002.6
+Minor party, § 9002.7
+New party, § 9002.8
+Payee, § 9003.5(b)(3)(i)
+Personal funds, § 9003.2(c)(3)
+Political committee, § 9002.9
+Presidential election, § 9002.10
+Purpose of campaign expense, § 9003.5(b)(3)(ii)
+Qualified campaign expense, § 9002.11
+Secretary, § 9002.14
+Winding down costs, § 9004.11
+DISBURSEMENTS
+Agreement to document, § 9003.1(b)(2)-(6)
+Disgorgement, § 9007.1(f)(3)
+Documentation required for, § 9003.5(b)
+From legal/accounting compliance fund, § 9003.3(a)(3)(ii)
+Reporting of, § 9006.1
+See also: EXPENDITURES
+DOCUMENTATION
+Candidate agreement, § 9003.1(b)(2)-(5)
+Of disbursements, § 9003.5
+See also: AGREEMENT; CERTIFICATION; RECORDKEEPING
+ELECTION
+Expenditure report period for, § 9002.12
+Presidential, defined, § 9002.10
+ELIGIBILITY
+Administrative record for determinations of, § 9007.7
+Agreement required to establish, § 9003.1
+Certification required to establish, § 9003.2
+Eligible candidates, defined, § 9002.4
+FEC certification of, to Secretary, § 9005.1
+Withdrawal terminates, § 9004.8(a)
+See also: AGREEMENT; CERTIFICATION
+ENTITLEMENT
+Adjustment of, due to deficiency in fund, § 9004.3(b)(2); § 9005.2(b)
+Expenditures exceed, § 9012.1
+Major party candidate, maximum amount of, § 9004.1; § 9004.3(b)(2) and (c)
+Payment to candidates, See: PAYMENTS
+Withdrawal of candidate affects, § 9004.8
+EXPENDITURES
+Committee policy for, § 9003.5(b)(1)(iv)
+Disposition of stale-dated committee checks, § 9007.6
+Documentation of, § 9003.1(b)(2)-(6); § 9003.5
+Expenditure report period, § 9002.12
+Legal and accounting compliance expenses, See: LEGAL AND ACCOUNTING COMPLIANCE FUND
+Limitations, exceptions, See: QUALIFIED CAMPAIGN EXPENSES
+Reporting, § 9006.1; § 9006.3
+Unauthorized, § 9012.6
+Use of credit card for, § 9003.2(c)(8)
+Use of public funds for, See: QUALIFIED CAMPAIGN EXPENSES
+FILING
+Dates, § 104.5; § 9006.2
+Electronic, required, § 9003.1(b)(11)
+See also: REPORTING
+FUNDRAISING
+See: CONTRIBUTIONS; LEGAL AND ACCOUNTING COMPLIANCE FUND
+FUNDS
+See: ENTITLEMENT; PAYMENTS; USE OF FUNDS
+GELAC FUND
+See: LEGAL AND ACCOUNTING COMPLIANCE FUND (GELAC FUND)
+GENERAL ELECTION
+See: ELECTION
+GOVERNMENT CONTRACTOR
+Contributions from, prohibited, § 9003.3(a)(1)(i)(B), (b)(4) and (c)(2)
+INVESTMENT OF PUBLIC FUNDS
+Permissible, § 9004.5
+Repayment of income/loss resulting from, § 9004.5; § 9007.2(b)(4)
+LABOR ORGANIZATION
+Contributions from, prohibited, § 9003.3(a)(1)(i)(B), (b)(4) and (c)(2)
+LEGAL AND ACCOUNTING COMPLIANCE FUND (GELAC FUND)
+Establishment of, prior to nomination, § 9003.3(a)(1)(i)
+Expenditures from, exempt from limitations, § 9003.3(a)(2)(iii)
+Recordkeeping, § 9003.3(a)(3)(ii)
+Reporting, § 9003.3(a)(3)(ii); § 9006.1(b)(2)
+Separate account required for, § 9003.3(a)(3)(i)
+Solicitations for, § 9003.3(a)(1)(i)(A) and (2)(i)(E)
+Transfers into GELAC fund, § 9003.3(a)(1)(ii)-(v)
+LOANS
+Incurred for qualified campaign expenses, § 9003.4(b)
+Public funds used to repay, § 9004.4(a)(2)
+Repayment of, § 9003.4(b)
+MAJOR PARTY
+Definition, § 9002.6
+Entitlement, § 9004.1
+Reports, See: REPORTING
+MEDIA
+MINOR PARTY
+Definition, § 9002.7
+Reports, See: REPORTING
+NATIONAL PARTY COMMITTEE
+Convention expenses in excess of entitlement, § 9012.1(b)
+Designated as candidate's principal campaign committee, § 9002.1(c)
+Expenditure limitations, § 109.32(a)
+Kickbacks given or accepted by, § 9012.5
+NET OUTSTANDING QUALIFIED CAMPAIGN EXPENSES
+Assets included in computation of, § 9004.9(d); § 9007.2(g)
+Collectability of accounts receivable, § 9004.9(e)
+Commission review of statement, § 9004.9(f)
+Computation of, § 9004.9(a) and (d)
+Determines post-election funding, § 9004.9(f)(2); § 9005.1(c)
+Exemptions from outstanding obligations, § 9004.9(a)(3)
+Statement of, required, § 9004.9
+Winding down costs included, § 9004.9(a)(1)(iii)
+See also: PAYMENTS; REPAYMENTS
+NEW PARTY
+Definition, § 9002.8
+Entitlement, § 9004.2; § 9004.3
+Reports, § 9006.1
+NONQUALIFIED CAMPAIGN EXPENSES
+See: EXPENDITURES
+NOTIFICATIONS
+See also: REPORTING
+PARTY
+See: MAJOR PARTY; MINOR PARTY; NATIONAL PARTY COMMITTEE; NEW PARTY
+PAYMENTS
+Audit may affect, § 9007.1
+Deficiency in, See: DEFICIENCY IN FUND
+FEC certification to Secretary of Treasury, § 9005.2(a)
+Future, used as loan collateral, § 100.82(e)(2); § 100.142(e)(2)
+Investment of, § 9004.5; § 9007.2(b)(4)
+Secretary of Treasury makes, § 9005.2(a) and (b)
+Unlawful use of, § 9012.3
+Use of, examples of qualified campaign expenses and non-qualified campaign expenses, § 9004.4(a)
+Withheld, if deficiency in fund, § 9005.2(b)
+See also: QUALIFIED CAMPAIGN EXPENSES; REPAYMENTS
+PERSONAL FUNDS
+Definition, § 9003.2(c)(3)
+Expended prior to expenditure report period, § 9003.4(b)(5)
+Expenditures from, by vice presidential candidate, § 9003.2(c)(4)
+Liability for repayments, § 9003.2(c)(7)
+Limitations on, § 9003.2(c)
+Reporting of, § 9006.1(b)(1)(iv)
+Source of repayment, § 9007.2(a)(4)
+POLITICAL COMMITTEE
+Definition, § 9002.9
+See also: AUTHORIZED COMMITTEE
+POST-ELECTION PAYMENTS
+See: ENTITLEMENT; PAYMENTS
+PRESIDENTIAL ELECTION CAMPAIGN FUND
+See: PAYMENTS; SECRETARY OF THE TREASURY
+PRINCIPAL CAMPAIGN COMMITTEE
+See: AUTHORIZED COMMITTEE
+PUBLIC FUNDS
+See: ENTITLEMENT; PAYMENTS; REPAYMENTS; USE OF FUNDS
+QUALIFIED CAMPAIGN EXPENSES
+Authorized committees incur, § 9002.1; § 9002.11(b)
+Burden of proof on candidate, § 9003.1(b)(1); § 9003.5(a)
+Definition, § 9002.11(a)
+Defrayal of, if candidate withdraws, § 9004.8(b)(1)
+Documentation required for, § 9003.1(b)
+Expenditures in excess of limitations, § 9007.2(b)(2)(ii)(A); § 9012.1
+Furthering election of other candidates, § 9002.11(b)(3)
+Gifts and bonuses, § 9004.4(a)(6)
+Incurred before expenditure report period, § 9002.11(c); § 9003.4(a)
+Incurred on behalf of vice presidential candidate, § 9002.11(b)(1)
+Legal and accounting compliance costs, See: LEGAL AND ACCOUNTING COMPLIANCE FUND
+Loans incurred for, § 9003.4(b)
+Media personnel, transportation and services provided to, § 9004.6
+Net outstanding, statement of, § 9004.9
+Nonqualified, See: EXPENDITURES
+Polling costs, § 9003.4(a)(1)
+Recordkeeping, § 9003.1(b)(1); § 9003.5
+Reporting, § 9006.1
+Secret Service personnel, § 9004.6
+Solicitation of contributions by major party candidate, See: DEFICIENCY IN FUND
+Unauthorized expenditures, limitations for, § 9012.6
+Use of personal funds for, § 9003.4(c)
+Use of public funds for, § 9004.4(a)
+Use of public funds for other than, § 9007.2(b)(2)
+Winding down costs, § 9004.4(a)(4); § 9004.11
+RECORDKEEPING
+Candidate agreement, § 9003.1(b)(4)
+Capital and other assets, § 9003.5(d)
+Computerized records, production of, § 9003.1(b)(4); § 9003.6
+Falsification in, § 9012.4
+Legal/accounting compliance fund, § 9003.3(a)(3) and (c)(4)
+Production of computer tapes and software, § 9003.1(b)(4)
+Qualified campaign expenses, § 9003.1(b); § 9003.3(b)(2); § 9003.5
+Retention of records, § 9003.5(c)
+REIMBURSEMENTS
+For travel by media personnel, § 9004.6
+In computing qualified campaign expenses, § 9002.11(b)(4)
+May be deposited with public funds, § 9005.3(d)
+REPAYMENTS
+Additional, § 9007.2(f)
+Administrative record for determinations, § 9007.7
+Candidate agreement to make, if required, § 9003.1(b)(6)
+Collection of, § 111.51(a)(4); § 111.52
+Determination of, § 9007.2
+Effect of failure to raise issues, § 9007.5(b)
+Interest assessed on, § 111.55; § 9007.2(d)(3); § 9007.5(c)(4)
+Liability of candidate, § 9003.2(c)(7)
+Limitation of total amount, § 9007.2(h)
+Notification of need for making, § 9007.2(a)(2)
+Petition for rehearing, § 9007.2(i); § 9007.5(a) and (b)
+Priority over other debts, § 9007.2(a)(3)
+Procedures used to determine, § 9007.2(c)
+Settlement for less than amount owed, prohibited, § 116.7(c)(1)
+Sources of, § 9007.2(a)(4)
+Stale-dated committee checks, § 9007.6
+REPORTING
+Alphabetized schedules, § 9006.3
+Amounts borrowed from primary campaign, § 9003.4(c)
+By authorized committee, Part9006
+Contributions, § 9003.3(a)(3), (b)(2) and (c)(4); § 9006.1(b)(1)(i) and (ii); § 9006.3
+Electronic filing of reports, required, § 104.18; § 9003.1(b)(11)
+Expenditures, § 9006.1(b); § 9006.3
+Falsification of reports, § 9012.4
+Filing dates, § 104.5(b); § 9006.2
+GELAC fund, § 9003.3(a)(3)(ii); § 9006.1(b)(2)
+General election expenses, § 9006.1(b)(1)
+Legal and accounting services, § 9002.11(b)(5)
+Loans from primary election account, § 9003.4(c)
+Reports required, § 9006.1(b)
+Separate reports, § 9006.1
+Travel expenses, § 9004.6(e); § 9004.7
+SECRETARY OF THE TREASURY
+Definition, § 9002.14
+FEC certification to, § 9005.1
+Payment to candidate, § 9005.2(a)
+Repayment to Treasury, See: REPAYMENTS
+SETTLEMENTS
+See: DEBTS AND SETTLEMENTS
+SOLICITATION OF CONTRIBUTIONS
+See: CONTRIBUTIONS
+STATE
+Qualification for State ballots defines candidates, § 9002.2(a)(2)
+Support of candidates for State office, § 9002.11(b)(3)
+STATE PARTY
+Expenditure limitations, § 109.32(a)
+TRANSFERS
+From GELAC fund to primary election account, § 9003.3(a)(2)(iv)
+From primary election account to GELAC fund, § 9003.3(a)(1)(ii)-(v)
+To campaign for different election, § 110.3(c)(4) and (5); § 9004.4(b)(7)
+TRAVEL
+Allocation of expenditures for, § 9004.7
+Commercial transportation used for, § 9004.7
+Computing campaign- and noncampaign-related costs, § 9004.7(b)(1) and (2)
+Corporate conveyance used, § 9004.7(b)(8)
+Government conveyance used, § 9004.7(b)(4) and (5)
+Itinerary required, § 9004.7(b)(3)
+Media personnel, transportation and services provided to, § 9004.6
+Passenger list required, § 9004.7(b)(4)
+Qualified campaign expense for campaign-related, § 9004.7(a)
+Reimbursement to government, § 9004.7(b)(5)
+Reporting of, § 9004.6(c); § 9004.7
+Secret Service, costs of, § 9003.3(a)(2)(i)(H); § 9004.6
+Spouse or family, costs for, § 9004.7(b)(6)
+Staff's costs, § 9004.7(a)
+UNAUTHORIZED COMMITTEE
+Contributions and expenditures by, § 9012.6
+USE OF FUNDS
+See also: QUALIFIED CAMPAIGN EXPENSES
+VICE PRESIDENTIAL CANDIDATE
+See: CANDIDATE
+WINDING DOWN COSTS
+Allocation of primary and general, § 9004.11(c)
+Definition, § 9004.11(a)
+Limitation of, § 9004.11(b)
+ACCOUNTS
+ADMINISTRATIVE EXPENSES
+Host committee's, defrayed by contributions, § 9008.52(b)(4)(iv)
+National committee's, defrayed by public funds, § 9008.7(a)(4)(x)
+AGREEMENTS
+By convention committee, letter of agreement, § 9008.3(a)(1) and
+By national committee, application statement, § 9008.3(a)(1) and (3)
+AUDITS AND EXAMINATIONS
+Additional, § 9008.13
+Agreement to permit, § 9008.3(a)(4)(vi)
+Computerized information required, § 9008.10(h)
+Conducted by FEC, § 9008.11; § 9008.13; § 9008.54
+Documentation of disbursements, § 9008.10
+See also: DOCUMENTATION
+Repayments based on findings of, § 9008.12(a)(1)
+BANKS
+May not donate to municipal funds, § 9008.53(a)
+May not donate to host committee, § 9008.52(a)
+May provide items of de minimis value, § 9008.9(c)
+See also: ACCOUNTS
+CANDIDATE
+Expenditure by, to attend convention, excepted from expenditure
+limitation, § 9008.8(b)(3)
+Expenses of, may not be defrayed by convention funds, § 9008.7(b)(1)
+CERTIFICATION
+By FEC to Secretary of Treasury for entitlement, § 9008.6(d)
+COMMERCIAL VENDOR
+Goods and services provided to municipal funds, § 9008.9; § 9008.53
+Goods and services provided to host committee, § 9008.9; § 9008.52(a)
+COMMISSION
+See: FEDERAL ELECTION COMMISSION
+CONTRIBUTIONS
+Excessive, repayment required, § 9008.12(b)(3)
+For legal/accounting compliance costs, § 9008.8(b)(4)(ii)
+Samples and promotional material, § 9008.9(b); § 9008.52(a)
+Vendor discounts, § 9008.9(a); § 9008.52(a); § 9008.53(a)
+CONVENTION
+See: NOMINATING CONVENTION
+CONVENTION COMMITTEE
+Audit of, by FEC, § 9008.11; § 9008.13
+Cessation of activity, § 9008.3(c)
+Contributions to, § 9008.3(a)(2); § 9008.6(a); § 9008.9
+Establishment of by national committee, requirement for
+eligibility, § 9008.3(a)(2)
+Funding, § 9008.55
+Officers of, § 9008.3(a)(3)(iv)
+Registration requirements, § 9008.3(b)(1)(i)
+Reporting requirements, § 9008.3(b)(2)
+CORPORATION
+See also: BANKS
+DEFINITIONS
+Capital asset, § 9008.10(g)(4)
+Commission, § 9008.2(a)
+Convention, § 9008.2(g)
+Convention committee, § 9008.3(a)(2)
+Convention expenses, § 9008.7(a)(4)
+Fund, § 9008.2(b)
+Host committee, § 9008.50(b)
+Major party, § 9008.2(c)
+Minor party, § 9008.2(d)
+Municipal fund, § 9008.50(c)
+National committee, § 9008.2(e)
+New party, § 9008.2(f)
+Nominating convention, § 9008.2(g)
+Other asset, § 9008.10(g)(5)
+Payee, § 9008.10(c)
+Purpose, § 9008.10(d)
+Secretary, § 9008.2(h)
+Winding down costs, § 9008.10(g)(7)
+DELEGATES
+Convention expenses paid by public funds, prohibited, § 9008.7(b)(1)
+Personal funds of, used to attend convention, § 9008.8(b)(3)
+DISBURSEMENT
+See: DOCUMENTATION; EXPENDITURES
+DOCUMENTATION
+Connection of expense to convention explained, § 9008.10(e)
+Of disbursements, § 9008.10
+Payee, defined, § 9008.10(c)
+Purpose, defined, § 9008.10(d)
+Retention of records, § 9008.10(f)
+ELIGIBILITY
+Convention committee, required, § 9008.3(a)(2)
+See also: AGREEMENTS; ENTITLEMENT
+ENTITLEMENT
+Acceptance of payment, § 9008.6(a)
+New parties, not entitled to receive payments, § 9008.1(a)
+Of major parties, § 9008.1(a); § 9008.4(a)
+Of minor parties, § 9008.1(a); § 9008.4(b)
+Private contributions, effect on, § 9008.5(b); § 9008.6(a)(2)
+To payments from fund, § 9008.4
+See also: PAYMENTS
+EXAMINATIONS
+See: AUDITS AND EXAMINATIONS
+EXPENDITURES
+FEDERAL ELECTION COMMISSION
+Authorization by, to exceed expenditure limitation, § 9008.8(a)(3)
+Certification by, to Secretary of Treasury, § 9008.6(d)
+Definition, § 9008.2(a)
+FUNDS
+See: ENTITLEMENT; PAYMENTS; USE OF FUNDS
+GOVERNMENT AGENCY
+Expenditures by, not considered expenditure subject to limit, § 9008.8(b)(2)
+Federal Election Commission, See: FEDERAL ELECTION COMMISSION
+Registration and reporting by a municipal fund of, § 9008.51
+HOST COMMITTEE
+Audit of, required, § 9008.54
+Definition, § 9008.50(b)
+Expenditures by, not subject to limit, § 9008.8(b)(1)
+Funding for, § 9008.55
+Funds, use of, § 9008.52(b)
+Registration of, § 9008.50; § 9008.51(a)
+Reporting by, § 9008.50; § 9008.51(b)
+INVESTMENT OF PUBLIC FUNDS
+Documentation required, § 9008.10(g)(2)(i)
+Permitted if income defrays convention expenses, § 9008.7(a)(5)
+Repayment of investment income, § 9008.7(b)(6)
+LEGAL AND ACCOUNTING SERVICES
+Paid for by employer, exception to expenditure limitation, § 9008.8(b)(4)(i)
+Paid for by national committee, exception to expenditure
+limitation, § 9008.8(b)(4)(ii)
+Reporting of, § 9008.8(b)(4)(iii)
+LOANS
+Included in statement of net outstanding convention expenses, § 9008.10(g)(1)(i)
+Other assets used as collateral for, § 9008.10(g)(5)
+Repayment of, with public funds, § 9008.7(a)(2) and (4)(xi)
+MAJOR PARTY
+Definition, § 9008.2(c)
+Establishment of convention committee, § 9008.3(a)(2)
+Expenditure limitations, § 9008.8(a)(1)
+Private contributions to, § 9008.3(a)(2); § 9008.6(a)(2) and (3)
+Procedures for qualifying for payments, § 9008.3(a)
+MINOR PARTY
+Definition, § 9008.2(d)
+Establishment of convention committee, § 9008.3(a)(2)
+Expenditure limitations, § 9008.8(a)(2)
+Private contributions to, § 9008.3(a)(2); § 9008.6(a)(2) and (3)
+Procedures for qualifying for payments, § 9008.3(a)
+MUNICIPAL FUND
+Definition, § 9008.50(c)
+Expenditures by, not subject to limit, § 9008.8(b)(2)
+Funding for, § 9008.55
+Funds, use of, § 9008.53(b)
+Registration of, § 9008.50; § 9008.51(a)
+Reporting by, § 9008.50; § 9008.51(b)
+NATIONAL COMMITTEE
+Definition, § 9008.2(e)
+Expenditures by, See: EXPENDITURES
+See also: USE OF FUNDS
+NET OUTSTANDING CONVENTION EXPENSES
+Capital asset, defined, § 9008.10(g)(4)
+Determination that debt is not collectible, § 9008.10(g)(6)
+Other assets, defined, § 9008.10(g)(5)
+Winding down costs, defined, § 9008.10(g)(7)
+NEW PARTY
+Definition, § 9008.2(f)
+Not entitled to public funds, § 9008.1(a)
+NOMINATING CONVENTION
+Definition, § 9008.2(g)
+Expenditure limitations, See: EXPENDITURES
+PARTY
+See: MAJOR PARTY; MINOR PARTY; NATIONAL COMMITTEE; NEW PARTY
+PAYMENTS
+Acceptance of, § 9008.6(a)(1) and (2)
+Application for, § 9008.3(a)(1) and (3)
+Bank depository for, § 9008.3(a)(4)(iii); § 9008.6(a)(3)
+Certification by Commission to Secretary of Treasury, § 9008.6(d)
+Convention committee receives, § 9008.3(a)(2); § 9008.6(a)(3)
+Date for receiving, § 9008.6(c)
+Excess, repayment of, § 9008.12(b)(1)
+Increase in certified amount, § 9008.6(b)
+Investment of, § 9008.7(a)(5)
+Limitation on, § 9008.4(c)
+Optional, § 9008.6(a)
+Private contributions affect, § 9008.6(a)(2)
+Procedure for qualifying for, § 9008.3(a)
+Repayments, See: REPAYMENTS
+Schedule for, § 9008.6(c)
+PUBLIC FUNDS
+See: ELIGIBILITY; ENTITLEMENT; PAYMENTS; REPAYMENTS; USE OF
+FUNDS
+RECORDKEEPING
+See: DOCUMENTATION
+REGISTRATION
+Convention committee, § 9008.3(b)(1)(i) and (ii)
+Government agency, § 9008.51(c)
+Host committees, § 9008.51(a)
+Municipal Funds, § 9008.51(a)
+Political party committees, § 9008.3(b)
+REPAYMENTS
+Committee agreement to make, § 9008.3(a)(4)(vi)
+Extensions of time, § 9008.15
+Notification by FEC of need for, § 9008.12(a)(2) and (3)
+Payable to U.S. Treasury, § 9008.12(a)(1)
+Petitions for rehearing determinations, § 9008.14
+Stale-dated committee checks, § 9008.16
+REPORTING
+By political parties, § 9008.3(b)
+Civil or criminal penalties paid, § 9008.7(b)(3)
+Legal and accounting fees, § 9008.8(b)(4)(iii)
+Private contributions received, § 9008.6(a)(3)
+SECRETARY OF TREASURY
+Definition, § 9008.2(h)
+FEC certifications to, for payment of entitlement, § 9008.6(d)
+Repayments made to, § 9008.12(a)(1)
+USE OF FUNDS
+Investment of funds, § 9008.7(a)(5)
+Private contributions used by national committee, § 9008.6(a)(2)
+and (3)
+* This index makes occasional reference to parts 100-116 of 11 CFR, governing Federal election financing.
+ACCOUNTS
+AGREEMENTS
+Date for submitting, § 9033.2(a)(1)
+Eligibility contingent upon, § 9033.1(a)
+Failure to comply with disclosure requirements, § 9033.9
+Joint fundraising, § 9034.8(c)(1)
+ALLOCATION
+Among states, § 106.2; § 110.8(c)
+Disputed by Commission, § 106.2(a)(1)
+Documentation, § 106.2(a)(1) and (d)
+Joint fundraising, proceeds and expenses, § 9034.8(c)(7) and (8)
+Methods of, § 106.2(b)(1) and (2)
+Of expenditures between primary and general expenditure limits, § 9034.4(e)
+Overhead expenditures, definition, § 106.2(b)(2)(iii)(D)
+Recordkeeping, § 106.2(d)
+Reporting, § 106.2(c)
+Testing-the-waters expenses, § 106.2(a)(2)
+Travel expenditures, § 9034.7
+APPEALS BY CANDIDATE COMMITTEE
+Active candidacy, § 9033.7(c)
+During audit, § 9038.1(b)(1)(iv) and (c)
+Effect of failure to raise issues, § 9038.5(b)
+Expenditure limitation exceeded, § 9033.3(b); § 9033.9
+Failure to comply with disclosure requirements, § 9033.9
+Failure to meet threshold requirements, § 9033.4(a)(2)
+Inactive candidacy, § 9033.6(c)
+Ineligibility for matching funds determination, § 9033.3(b) and (c)
+Repayments, § 9038.2(c) and (h); § 9038.5(a)
+Resubmissions, § 9036.5(e)
+Suspension of payments, § 9033.9(b) and (d)(1)
+ASSETS
+Accurate valuation of, § 9033.10(a)(6); § 9034.5(c) and (g)
+Documentation of, § 9033.11(d)
+In determining net outstanding campaign obligation, § 9034.5(c)
+Newly discovered, § 9038.2(g)
+Sale of, for fundraising purposes, § 9034.9
+Sale of, for liquidation of debts, § 9034.9(b)
+AUDITS
+Action taken by Commission after inquiry, § 9039.3(b)(4)
+Agreement to permit, § 9033.1(b)(6)
+Approval and issuance of audit report, § 9038.1(d)
+Computerized records provided for, § 9033.12; § 9038.1(b)(1)
+Copy of report, provided to committee, § 9038.1(e)(1)
+Discretionary, § 9038.1(a)(2); § 9039.3
+Eligibility for funds determined by, § 9033.1; § 9033.11
+Entrance conference, § 9038.1(b)(2)(i)
+Investigative procedures used, § 9038.1(b)(1)(v); § 9039.3(b)(4)
+Of matching fund submissions, § 9036.4(d)
+Preliminary Audit Report, § 9038.1(c)
+Public release of report, § 9038.1(e)
+Repayments determined by, § 9038.1(a)(3); § 9038.2(a)(1)
+Required, of candidate and authorized committee(s), § 9033.1(b)(7); § 9038.1(a)
+Retention of records for, § 9039.1
+Sampling used during, § 9038.1(f)
+Settlement of disputes arising during, § 9038.1(b)(2)(iv)
+Time period for candidate response, § 9038.1
+AUTHORIZED COMMITTEE
+Assets, § 9033.11(d); § 9034.4(c)
+Credit card, liability for, § 9035.2(a)(2)
+Definition, § 9032.1
+Expenses incurred in excess of limitations, § 9033.2(b)(2); § 9033.3; § 9035.1
+Payments to candidate, § 9034.4(b)(5)
+Qualified campaign expenses incurred by, § 9032.9(a)(1) and (b)
+Reports filed by, See: FILING; REPORTING
+Stale-dated checks, § 9038.6
+Withdrawal of authorization, § 9032.1(b)
+CAMPAIGN DEPOSITORY
+Agreement to furnish records of, § 9033.1(b)(4), (5) and (8)
+Change in, § 9033.1(b)(8)
+Deposit of contribution required before matching, § 9034.2(a)(3)
+Documentation of, for threshold submission, § 9036.1(b)
+Funds deposited into, § 9037.3
+Joint fundraising, separate account for, § 9034.8(c)(4)
+Vice presidential candidate's, § 103.4
+See also: ACCOUNTS; RECORDS; 11 CFR PART 103
+CANDIDATES
+Active candidacy, § 9033.7
+Appeals, See: APPEALS BY CANDIDATE COMMITTEE
+Continuation of certifications, § 9036.6
+Contributions to, See: CONTRIBUTIONS
+Definition of, § 9032.2
+Deposit of funds by, § 9037.3
+Expenditure limitations, See: EXPENDITURES
+Immediate family of, § 9035.2(b)
+Inactive candidacy, § 9033.5(a); § 9033.6
+Net outstanding campaign obligation of, § 9033.10(a)(6); § 9034.5
+Nonparticipation in primary, § 9033.5(b)
+Personal funds of, § 9035.2(a)
+Repayments, See: REPAYMENTS
+Use of credit card, § 9035.2(a)(2)
+Use of funds, See: USE OF FUNDS
+CAPITAL ASSETS
+See: ASSETS
+CERTIFICATIONS
+Administrative record for, § 9038.7
+By FEC concerning expenditure limitations, § 9033.3
+COMPLIANCE COSTS
+See: EXPENDITURES
+CONTRIBUTIONS
+Aggregation of, to presidential and vice presidential candidates, § 9035.3
+Allocation of, in joint fundraising, § 9034.8(c)(7)
+By credit or debit card, § 9034.2(b) and (c)(8)
+By internet See: INTERNET
+By money order, § 9034.2(c)(4)
+By written instrument, § 9034.2(a)(4)
+Certification of threshold amount of, § 9036.1
+Costs of soliciting, § 9035.1(c)(2)
+Deposit on receipt of, § 9034.2(a)(3)
+Documentation of excess over purchase price, § 9034.2(c)(5)
+Earmarked, § 9034.8(c)(7)(iv)
+From escrow/trust account, § 9034.2(c)(2)
+From immediate family, § 9035.2
+From joint account, § 9034.2(c)(1)
+From partnership, unincorporated business, § 9034.2(c)(3)
+Fundraising, See: FUNDRAISING; JOINT FUNDRAISING
+Matchable, See: MATCHABLE CAMPAIGN CONTRIBUTIONS
+Name of issuer, identified, § 9034.2(c)(4)(ii)
+Pre-candidacy payments by multicandidate committees, § 9034.10
+Prohibited, § 9034.3(d)-(f)
+Rejected for matching, § 9036.5(a)
+Residency requirement for those making, § 9033.2(b)(3)
+Resubmission of, § 9036.5
+Solicitation of, in determining active candidacy, § 9033.6(b)(2)
+CORPORATION
+Contributions from corporate account, nonmatchable, § 9034.3(d) and (f)
+Contributions from corporate account, prohibited, § 114.2(a); § 9034.3(e)
+CREDIT CARDS
+Contributions by, § 9034.2(b) and (c); § 9036.1(b)(7); § 9036.2(b)(1)(iii)
+DEBIT CARDS
+Contributions by, § 9034.2(b) and (c); § 9036.1(b)(7); § 9036.2(b)(1)(iii)
+DEBTS AND SETTLEMENTS
+Amount charged against expenditure limits, § 9035.1(a)(2)
+Assignment of, to affiliated committee, § 116.2(c)(3)
+Collectibility of accounts receivable, § 9034.5(d)
+Extinguishing through reallocation, § 9034.8(c)(7)(ii)
+Not a basis for entitlement, § 9034.5(b)(1)
+Settlement of bona fide dispute, § 9035.1(a)(2)
+Settlement, repayment obligations not subject to, § 116.7(c)(1)
+DEFINITIONS
+Administrative costs, § 9034.6(c)(2)
+Authorized committee, § 9032.1
+Candidacy, § 9032.2; § 9033.6; § 9033.7
+Candidate, § 9032.2
+Capital assets, § 9034.5(c)(1)
+Cash on hand, § 9034.5(a)(2)(i)
+Certifications, § 9033.2
+Closing date, § 9035.2(a)(2)
+Commission, § 9032.3
+Contribution, § 9032.4
+Eligibility requirements, Part9033
+“Essentially political,” § 9034.2(c)(6)
+Immediate family, § 9035.2(b)
+Ineligibility dates, § 9033.5
+Insufficient documentation, § 9036.3
+Matchable contributions, § 9034.2
+Matching payment account, § 9032.5
+Matching payment period, § 9032.6
+Net outstanding campaign obligations, § 9034.5(a)
+Nonmatchable contributions, § 9034.3
+Nonqualified campaign expenses, § 9034.4(b)
+Payee, § 9033.1(b)(3)(i)
+Personal funds, § 9035.2(c)
+Political committee, § 9032.8
+Political party, § 9033.2(b)(1)
+Presidential Primary Matching Payment Account, § 9032.5
+Primary election, § 9032.7
+Purpose, § 9033.11(b)(3)(ii)
+Qualified campaign expenses, § 9032.9; § 9034.4(a)
+Secretary, § 9032.10
+Seeking nomination, § 9033.2(b)(1)
+Signature, § 9034.2(c)
+State, § 9032.11
+Total deposits, § 9038.3(c)
+Voting age population, § 110.18
+Winding down costs, § 9034.4(a)(3)
+Written instrument, § 9034.2(b)
+DISBURSEMENTS
+See: EXPENDITURES; QUALIFIED CAMPAIGN EXPENSES
+DISCLOSURE
+See: REPORTING
+DOCUMENTATION
+Agreements by candidate and committee, § 9033.1(b)
+Assets, § 9033.11(d); § 9034.5(c)
+Commercial reasonableness, § 9034.5(d)
+Committee policy on disbursement, § 9033.11(b)(1)(iii)
+Disbursements, § 9033.1(b); § 9033.11
+Failure to provide, § 9038.2(b)(3)
+For credit or debit card contributions, § 9034.2(b) and (c)
+For submissions, § 9034.2(c); § 9036.1(b); § 9036.2(b)
+Qualified campaign expense, § 9033.11(a) and (b)
+Retention of records, § 9033.11(c); § 9039.1
+See also: AGREEMENTS; RECORDS; SUBMISSIONS
+ELECTION
+Contributions, See: CONTRIBUTIONS
+Definition, § 9032.7
+Participation/performance in, as factor for determining eligibility, § 9033.5(b); § 9033.8(b)
+ELIGIBILITY
+Participation in primaries, § 9033.5(b)
+Reestablishment of, § 9033.8
+Residence requirements of contributors, § 9033.2(b)(3)(ii)
+ENTITLEMENT
+After date of ineligibility, § 9034.1(b)
+Candidate entitlement, § 9034.1
+Certification to Secretary of Treasury, § 9036.1(c)
+Matchable contributions, § 9034.2; § 9034.3
+Maximum entitlement, § 9034.1(d)
+Payments after determination of ineligibility, § 9034.1(b) and (c)
+Payments after suspension, § 9033.9(d); § 9034.1(c)
+Pre-candidacy payments by multicandidate committees as in-kind contributions and qualified campaign expenses, § 9034.10
+Shortage of matching funds, § 9037.1; § 9037.2
+Threshold requirement, § 9033.4
+Use of contributions and matching payments, § 9034.4
+See also: CERTIFICATIONS, PAYMENTS
+EXAMINATIONS AND AUDITS
+See: AUDITS
+EXPENDITURES
+Aggregation of, by presidential and vice-presidential candidates, § 9035.3
+Allocation among States, See: ALLOCATION
+As factor for determining active candidacy, § 9033.6(b)(2)
+Attribution between primary and general elections, § 9034.4(e)
+By candidates in both primary and general, § 9034.4(e)
+From petty cash fund, § 9033.11(b)(2)(i)
+Independent expenditures, § 9032.1(d)
+Made by ineligible candidate, § 9033.8(c)
+Made by party, § 110.8(e)
+Made on behalf of a candidate, § 9032.1; § 9032.9(b)
+Made on behalf of vice presidential candidate, § 110.8(f)(1) and (g)
+Polling, allocation of, § 106.4; § 9034.4(e)(2)
+Pre-candidacy payments by multicandidate committees, § 9034.10
+Qualified campaign expenses, See: QUALIFIED CAMPAIGN EXPENSES
+Starting date of review of expenditures, § 9038.2(b)(2)(iii)(B)
+Transfers to other campaigns, § 9034.4(d)
+FILING
+Dates, § 104.5(b)
+Electronic, required, § 104.18
+Places of, § 108.2
+FUNDRAISING
+Allocation of expenditures made for, § 106.2(b); § 110.8(c)
+By candidates in both primary and general, § 9034.4(e)(6)
+“Donative intent” required for matching contributions, § 9034.3(i)
+Entertainment, purchase price of, § 9034.2(c)(5)
+“Essentially political” activity, admission price for, § 9034.2(c)(6)
+Expenditures exempted from State allocation, § 110.8(c)(2); § 9035.1(c)
+Joint, See: JOINT FUNDRAISING
+Sale of assets for, § 9034.9
+Sale of lottery/raffle tickets, § 9034.3(h)
+GOVERNMENT CONTRACTORS
+Contributions from, nonmatchable, § 9034.3(d) and (f)
+Contributions from, prohibited, § 115.2(a)
+HEARINGS
+See: APPEALS
+INACTIVE CANDIDACY
+Candidate shall notify FEC, § 9033.5(a)
+INELIGIBILITY
+Appeal of FEC determination, § 9033.3(b)
+Date of, § 9033.5
+For exceeding expenditure limitations, § 9033.3
+Inactive candidacy, § 9033.6
+Net outstanding campaign obligation after, § 9034.1(a) and (b); § 9034.5
+See also: ELIGIBILITY
+INTERNET
+Contributions made over, § 9034.2(b) and (c); § 9036.1(b)(7); § 9036.2(b)(1)(vii)
+INVESTIGATIONS
+See: AUDITS
+JOINT FUNDRAISING
+Aggregate contribution to, § 9034.8(c)(6) and (7)
+Agreement required, § 9034.8(c)(1)
+Allocation of contributions, § 9034.8(c)(7)
+Committee/representative/agent for, § 9034.8(b)
+Contribution limitations, § 9034.8(c)(6) and (7)
+Depository for receipts from, separate, § 9034.8(c)(4)
+Disbursements, reporting of, § 9034.8(c)(9)(ii)
+Exemptions from allocation, § 9034.8(c)(7)
+Expenditure exemption for, § 9035.1(c)
+Expenses, allocation of, § 9034.8(c)(8)
+Expenses from series, allocation of, § 9034.8(c)(8)(i)(C)
+Formula for allocation, § 9034.8(c)(1)
+Funds advanced for start-up costs, § 9034.8(c)(2)
+Notice required for solicitations, § 9034.8(c)(3)
+Procedures for, § 9034.8(c)
+Proceeds, allocation of, § 9034.8(c)(7)
+Receipts from, submitted for matching payments, § 9034.2(c)(7); § 9034.8(a)(2)(i) and (c)(7)
+Recordkeeping requirements, § 9034.8(c)(5) and (9)
+Sale of assets acquired for, § 9034.9
+Use of contributions received from, § 9034.8(a)(2)
+LABOR ORGANIZATION
+Contributions from union account, nonmatchable, § 9034.3(d) and (f)
+Contributions from union account, prohibited, § 114.2(a)
+LOANS
+Future matching payments as collateral, § 100.82(e)(2); § 100.142(e)(2)
+Not matchable, § 9034.3(b)
+Public funds may be used to repay, § 9034.4(a)(1)
+MATCHABLE CAMPAIGN CONTRIBUTIONS
+Additional submissions for, § 9036.2
+Candidate satisfies requirements for, § 9036.1(c)
+Credit or debit cards, contributions by, § 9034.2(b) and (c); § 9036.1(b)(7); § 9036.2(b)(1)(iii)
+Definition of, § 9034.2; § 9034.3
+Documentation required for matching payments, § 9034.2(c); § 9036.1(b); § 9036.2(b)
+Eligibility for, See: ELIGIBILITY
+First submission after threshold, contents of, § 9036.2(b)
+For “essentially political event,” § 9034.2(c)(6)
+Ineligibility for, See: INELIGIBILITY
+Insufficient documentation of, § 9036.3
+Joint fundraising receipts, § 9034.8(a)(2) and (c)(6)
+Must comply with Guideline for Presentation in Good Order, § 9036.1(b)(8); § 9036.2(b)
+Reattributed, § 9034.2(c)(1)(iii)
+Received after reestablishment of active candidacy, § 9034.1(c)
+Repayment of amounts in excess of entitlement, § 9038.2(b)(1)(ii) and (iii)
+Requirements, § 9034.2(a)
+Threshold submissions, § 9036.1
+See also: CONTRIBUTIONS; SUBMISSIONS
+MATCHING PAYMENT ACCOUNT
+Definition, § 9032.5
+Matching funds no longer contained, § 9038.2(b)(2)(iii)(B)
+Source of repayments, § 9034.4(c)
+See also: ACCOUNTS; PAYMENTS
+MATCHING PAYMENT PERIOD
+Audits after close of, § 9038.1
+Definition of, § 9032.6
+End of, § 9033.5(c)
+Payment of matching funds begins with, § 9036.1(c); § 9037.1
+See also: PAYMENTS
+MEDIA
+Personnel, transportation and services provided to, § 9034.6
+Production costs, not allocated, § 106.2(b)(2)(i)(F)
+Reporting of reimbursement, § 9034.6(e)
+NET OUTSTANDING CAMPAIGN OBLIGATIONS (NOCO)
+Considered in FEC determination, § 9033.10(a)(6)
+Explanation of revisions, § 9034.5(f)(2)
+Items not included on statement, § 9034.5(b)(1)
+Matching funds to defray, § 9034.1(b)
+Payments made on basis of debts, § 9038.2(b)(1)
+Revised statement in event of shortfall, § 9034.5(f)(3)
+Statement contents, § 9034.5(a), (b), (c) and (f)
+Submission of statement(s), § 9034.5(a) and (f)
+Valuation of assets, § 9034.5(g)
+Winding down costs included, § 9034.5(b)(2)
+NONMATCHABLE CONTRIBUTIONS
+See: CONTRIBUTIONS
+NOTIFICATIONS
+PAYMENTS
+Bank depository for, § 9033.1(b)(8); § 9037.3
+By committee to candidate, § 9034.4(b)(5)
+Changes in recipient information, § 9033.1(b)(8)
+Collateral for bank loan, § 100.82(e)(2); § 100.142(e)(2)
+Continuation of payments after ineligibility, § 9034.1(b)
+Entitlement to funds, § 9034.1
+Equal distribution of funds by Secretary of Treasury, § 9037.2
+Excessive, examples of, § 9038.2(b)(1)
+Limitation of, § 9034.1(d)
+Matchable campaign contributions, § 9034.2
+Matching payment account, § 9032.5
+Matching payment period, § 9032.6
+Net outstanding campaign obligations, based on, § 9033.10(a); § 9034.1
+Nonmatchable campaign contributions, § 9034.3
+Payment schedule, § 9036.1(c); § 9036.2(d)
+Post-election payments, § 9036.6
+Reimbursement to candidate for campaign expenses, § 9034.4(b)(5)
+Repayments, See: REPAYMENTS
+Secretary of the Treasury disbursements, § 9037.1; § 9037.2
+Shortfall in matching payment account, § 9036.4(c)(2); § 9037.1; § 9037.2
+Suspension of, for noncompliance, § 9033.3(b); § 9033.9
+Suspension of, right to appeal, § 9033.3(b); § 9033.10
+Termination of payments, § 9033.6; § 9034.1
+Use of, See: USE OF FUNDS
+PERSONAL FUNDS
+Definition, § 9035.2
+Limitations on, § 9035.2
+Of vice presidential candidate, § 110.8(f)(2)
+Repayments, source of, § 9034.4(c)
+PETITIONS FOR HEARING
+See: REPAYMENTS
+POLITICAL COMMITTEE
+Authorized by candidate, § 9032.1
+Contributions not matchable, § 9034.3(d)
+Definition, § 9032.8
+POLLING
+See: EXPENDITURES
+PRIMARY
+See: ELECTION
+PRIMARY MATCHING FUNDS
+See: ENTITLEMENT; PAYMENTS
+PUBLIC FUNDS
+See: ENTITLEMENT; PAYMENTS; REPAYMENTS; USE OF FUNDS
+QUALIFIED CAMPAIGN EXPENSES
+Attribution to primary/general election, § 9034.4(e)
+Authorization to make, § 9032.9(b)
+Burden of proof, § 9033.1(b)(1); § 9033.11(a)
+Certification not to exceed limitations, § 9033.2(b)(2)
+Definition, § 9032.9; § 9034.4(a)
+Documentation required to prove, § 9033.11(a) and (b); § 9034.4(b)(7)
+Gifts and bonuses, § 9034.4(a)(5)
+Limitation on, § 9035.1
+Liquidation of, § 9038.3
+Matchability contingent upon, § 9034.4(a)
+Pre-candidacy payments by multicandidate committees, § 9034.10
+Secret Service, transportation and services for, § 9034.6(a)
+Taxes, § 9034.4(a)(4)
+Termination of political activity, § 9034.4(a)(3)
+“Testing-the-waters,” § 9034.4(a)(2)
+Use of public funds for, § 9034.4(a)
+Use of public funds for other than, § 9034.4(b); § 9038.2(b)(2)
+Winding down costs, § 9034.4(a)(3); § 9034.11
+See also: EXPENDITURES
+RECEIPTS
+See: CONTRIBUTIONS; MATCHABLE CAMPAIGN CONTRIBUTIONS
+RECORDS
+Agreement to keep, § 9033.1(a) and (b)(2)-(6)
+Allocation of exempted expenditures, § 9035.1(c)
+Audit review of, § 9033.1(b)(7); § 9038.1
+Capital and other assets, requirements for, § 9033.11(d); § 9034.5(c)
+Joint fundraising, requirements for, § 9034.8(c)(5) and (9)
+Recordkeeping requirements, § 9033.11
+Retention of, § 9033.11(c); § 9039.1
+See also: DOCUMENTATION; REPORTING; SUBMISSIONS; 11 CFR PART 102
+REPAYMENTS
+Additional determinations, § 9038.2(f) and (g)
+Agreement to comply with determination, § 9033.1(b)(7)
+Appeal procedures, § 9038.2(c) and (h); § 9038.5
+Collection of, § 111.51(a)(5); § 111.52
+Exempted from limitations on personal funds, § 9035.2(a)(1)
+Inquiry resulting in, § 9039.3(b)(4)
+Liquidation of obligations, § 9038.3
+Newly discovered assets, § 9038.2(g)
+Primary obligation, over other debts, § 9038.2(a)(3)
+Settlement for less than amount owed, prohibited, § 116.7(c)(1)
+Sources of, § 9038.2(a)(4)
+Stale-dated checks, § 9038.6
+Time period for making, § 9038.2(d) and (e); § 9038.4
+REPORTING
+Allocation of expenditures by State, § 106.2(c)
+Alphabetized schedules, § 9037.4
+Appeal of FEC determination of failure to file, § 9033.9
+Compliance with requirements by candidate/committee, § 9033.1(a) and (b)(10)
+Computer-generated, § 104.2(d); § 9033.1(b)(5); § 9037.4
+Electronic filing of reports, § 104.18; § 9033.1(b)(13)
+Fundraising representative's duties, § 9034.8(b)
+Joint fundraising, receipts and disbursements, § 9034.8(c)(9)
+Location for filing, § 108.2
+Media, reimbursement for travel/services provided to, § 9034.6(e)
+Net outstanding campaign obligations, § 9034.5(a)
+Requirements, § 9033.1(b)(10)
+Review by FEC, § 9039.2; § 9039.3
+Schedule for filing, § 104.5(b)
+Travel expenses, § 9034.7(a)
+See also: QUALIFIED CAMPAIGN EXPENSES; 11 CFR PARTS 104, 105 and 108
+RESUBMISSIONS
+See: SUBMISSIONS
+REVIEW
+See: AUDITS; SUBMISSIONS
+SECRETARY OF TREASURY
+Definition, § 9032.10
+Equitable distribution of funds by, § 9037.2
+Establishment of primary matching payment account, § 9032.5
+Repayment by committee to, § 9038.2(d); § 9038.6
+STATE
+Action under State law to qualify as candidate, § 9032.2(a)
+Definition of State, § 9032.11
+Filing with Secretary of, Part108
+Preemption of State law, § 9032.9(a)(3)
+Violation of State law, § 9032.9(a)(3)
+SUBMISSIONS
+Adjustments to, § 9036.4(c)
+Audit of, § 9036.4(d)
+Credit or debit cards, § 9036.2(b)(1)(vii)
+Insufficient documentation as basis for ineligibility, § 9036.3
+Nonmatchable contribution, § 9036.4(c)(1)
+Revised NOCO statement in event of shortfall, § 9034.5(f)
+Schedule, as designated by FEC, § 9036.6
+See also: CERTIFICATIONS; CONTRIBUTIONS; NOTIFICATIONS; RECORDS
+TERMINATION OF PAYMENTS
+See: ELIGIBILITY; INELIGIBILITY; PAYMENTS
+THRESHOLD
+See: CERTIFICATIONS; ELIGIBILITY; SUBMISSIONS
+TRANSFERS
+Not qualified campaign expense, § 9034.4(b)(6)
+Of joint fundraising proceeds, § 110.3(c)(2)
+Recordkeeping required, § 102.9(b)(1); § 110.3(c)(6)(i)
+Unlimited, § 102.6(a); § 110.3(c)(1); § 113.2(c)
+When actively seeking election to more than one office, § 110.3(c)(5)(i); § 110.8(d)(2); § 9034.4(d)
+TRANSPORTATION
+Interstate, not allocable, § 106.2(c)(4)
+Intra-State, allocable, § 106.2(a)(2)
+Of media personnel, § 9034.6
+TRAVEL
+See: QUALIFIED CAMPAIGN EXPENSES
+TREASURY
+See: SECRETARY OF TREASURY
+USE OF FUNDS
+Continuing to campaign, § 9034.4(a)(3) and (b)(3)
+Depository for matching funds, § 9037.3
+Determining whether to become candidate, § 9034.4(a)(2)
+Expenses incurred during period of ineligibility, § 9034.1(c)
+Net outstanding campaign obligations, § 9034.1(b)
+State or national campaign offices, § 9034.4(e)(3)
+Terminating political activity, § 9034.4(a)(3)(i)
+Transfers to other campaigns, § 110.3(c)(5); § 110.8(d); § 9034.4(d)
+Winding down costs, § 9034.4(a)(3); § 9034.11
+VICE PRESIDENTIAL CANDIDATES
+Contributions to and expenditures by, § 9035.3
+VOTING AGE POPULATION
+Definition, § 110.18
+Used in determining expenditure limitations, § 110.8(a)(3)
+WINDING DOWN COSTS
+Allocation of primary and general elections, § 9034.11(c)
+Definition, § 9034.11(a)
+For primary paid during the general election, § 9034.11(d)
+Limitation of amount paid for with matching funds, § 9034.11(b)

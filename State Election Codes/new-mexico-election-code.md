@@ -5,7 +5,7 @@ Sections: 1
 
 ## New Mexico § NMSA-Chapter-1-Elections
 
-*Citation: New Mexico Statutes, Chapter 1 — Elections, § NMSA-Chapter-1-Elections. Last changed: 2026-08-07. Source: https://nmonesource.com/nmos/nmsa/en/4351/1/document.do*
+*Citation: New Mexico Statutes, Chapter 1 — Elections, § NMSA-Chapter-1-Elections. Last changed: 2026-09-09. Source: https://nmonesource.com/nmos/nmsa/en/4351/1/document.do*
 
 CHAPTER 1  
 Elections 
@@ -9568,7 +9568,7 @@ ch. 255, § 104, relating to general election, withdrawal of candidates, effecti
 provisions of former section, see the 2018 NMSA 1978 on NMOneSource.com. 
 1-8-10. Repealed. 
 History: 1953 Comp., § 3-8-9, enacted by Laws 1969, ch. 240, § 159; repealed by Laws 2019, 
-ch. 212, 284. 
+ch. 212, § 284. 
 ANNOTATIONS 
 Repeals. — Laws 2019, ch. 212, § 284 repealed 1-8-10 NMSA 1978, as enacted by Laws 1969, 
 ch. 240, § 159, relating to Primary Election Law, short title, effective April 3, 2019. For provisions 
@@ -13207,7 +13207,7 @@ of each political party at least three days before the county clerk prepares a v
 an election.  
 1-11-9. Repealed. 
 History: 1953 Comp., § 3-11-10, enacted by Laws 1969, ch. 240, § 219; 1985, ch. 207, § 29; 
-repealed by Laws 2011, ch. , § 110. 
+repealed by Laws 2011, ch. 137, § 110. 
 ANNOTATIONS 
 Repeals. — Laws 2011, ch. 137, § 110 repealed 1-11-9 NMSA 1978, as enacted by Laws 1969, 
 ch. 240, § 219, relating to voting machines and sealing of keys, effective July 1, 2011. For 
@@ -24409,7 +24409,7 @@ Chapter 1, Article 25 NMSA 1978 may be cited as the "Recall Act".
 History: 1953 Comp., § 77-4A-1, enacted by Laws 1977, ch. 308, § 1; 2018, ch. 79, § 89; 1978 
 Comp., § 22-7-1, recompiled and amended as § 1-25-1 by Laws 2019, ch. 212, § 159.  
 ANNOTATIONS 
-Recompilations. — Laws 2019, ch. 212, 159 recompiled and amended former 22-7-1 NMSA 
+Recompilations. — Laws 2019, ch. 212, § 159 recompiled and amended former 22-7-1 NMSA 
 1978 as 1-25-1 NMSA 1978, effective April 3, 2019. 
 The 2019 amendment, effective April 3, 2019, changed the name of the "Local School Board 
 Member Recall Act" to the "Recall Act" and deleted "Chapter 22, Article 7" and added "Chapter 
@@ -24452,7 +24452,7 @@ Comp., § 22-7-3, recompiled and amended as § 1-25-2 by Laws 2019, ch. 212, § 
  
  
 ANNOTATIONS 
-Recompilations. — Laws 2019, ch. 212, 160 recompiled and amended former 22-7-3 NMSA 
+Recompilations. — Laws 2019, ch. 212, § 160 recompiled and amended former 22-7-3 NMSA 
 1978 as 1-25-2 NMSA 1978, effective April 3, 2019. 
 The 2019 amendment, effective April 3, 2019, changed the name of the "Local School Board 
 Member Recall Act" to the "Recall Act", and defined "county clerk", "filing date", "initiation date", 
@@ -24802,7 +24802,7 @@ voter of that district within the local jurisdiction;
 official or has signed one petition page more than once; or 
 (3) is not the person whose name appears as a signer of the recall petition. 
 History: 1953 Comp., § 77-4A-10, enacted by Laws 1977, ch. 308, § 10; 1985, ch. 169, § 6; 
-1978 Comp., §22-7-10, recompiled and amended as § 1-25-9 by Laws 2019, ch. 212, § 167.  
+1978 Comp., § 22-7-10, recompiled and amended as § 1-25-9 by Laws 2019, ch. 212, § 167.  
 ANNOTATIONS 
 Recompilations. — Laws 2019, ch. 212, § 167 recompiled and amended former 22-7-10 
 NMSA 1978 as 1-25-9 NMSA 1978, effective April 3, 2019. 

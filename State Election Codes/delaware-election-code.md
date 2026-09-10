@@ -1,14 +1,29 @@
 # Delaware — Delaware Code, Title 15 — Elections
 
 Source: official text scraped from https://delcode.delaware.gov/title15/
-Sections: 287
+Sections: 303
+
+## Delaware § 100
+
+*Citation: Delaware Code, Title 15 — Elections, § 100. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c001/index.html*
+
+§
+        100. Democracy canon [Effective July 1, 2027].
+In furtherance of the purpose of this chapter, this title, and the protections for equal elections and for protected classes in the Delaware Constitution, all statutes, rules, and regulations and political subdivision charters, laws, ordinances, and rules related to the elective franchise must be construed liberally in favor of protecting and making accessible the right of people to register to vote and have their ballot cast and counted. To the extent courts are afforded discretion on any issue, including, questions concerning discovery, procedure, admissibility of evidence, or remedies, it is the policy of this State that courts must exercise that discretion, and weigh other equitable discretion, in favor of all of the following factors:
+(1) Making the fundamental right to vote and ability to participate in the democratic process more accessible to eligible voters.
+(2) Safeguarding and vindicating, to the fullest extent possible, the voting rights of protected class members, including equitable access to opportunities to register to vote, cast a vote, and the equal opportunity to elect candidates of choice.
+(3) Ensuring protected class members have full access to relief from discrimination in voting.
+85 Del. Laws, c. 421,
+                §
+              2
+;
 
 ## Delaware § 101
 
-*Citation: Delaware Code, Title 15 — Elections, § 101. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c001/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 101. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c001/index.html*
 
 §
-        101. Definitions.
+        101. Definitions [Effective until July 1, 2027].
 For purposes of this title:
 (1)  “Adjudicate” means to determine how a person intended to vote on a ballot.
 (2) a. “Ballot” means the physical or electronic document that a voter uses to identify the candidates for whom the person is voting or how the person is voting on a ballot question in a referendum election. A “ballot” may be further classified as follows:
@@ -19,7 +34,7 @@ For purposes of this title:
 5. “Voided ballot” or “spoiled ballot” means a ballot that is declared void by the voter or the Department after the ballot was issued to a voter but before the ballot was cast.
 6. “Voted ballot” means a ballot that has been cast.
 b. When used with a “ballot” , the following verbs mean as follows:
-1. “Cast” means to submit a ballot to the Department in an election with the intent that the votes indicated on the ballot be counted when the results of the election are tabulated. “Cast a vote” means to “cast a ballot” .
+1. “Cast” means to submit a ballot to the Department in an election with the intent that the votes indicated on the ballot be counted when the results of the election are tabulated. “Cast a vote” means to “cast a ballot.”
 2. “Cure” means that a voter corrects an error or omission on a ballot that if not corrected, would result in a rejected ballot.
 (3) “Ballot question” means a proposal or other question submitted to voters at a referendum election.
 (4) “Ballot stock” means a physical object intended for use as a ballot but on which the ballot has not yet been printed.
@@ -50,30 +65,27 @@ h. “Special election” means an election to fill a vacancy that is conducted 
 (21) “Party” or “political party” means any political organization which elects a state committee and officers of a state committee, by a state convention composed of delegates elected from each representative district in which the party has registered members, and which nominates candidates for electors of President and Vice-President, or nominates candidates for offices to be decided at the general election. All political parties shall be divided into 2 classes:
 a. “Major political party” means any political party which, as of December 31 of the year immediately preceding any general election year, has registered in the name of that party voters equal to at least 5 percent of the total number of voters registered in the State.
 b. “Minor political party” means any political party which does not qualify as a major political party.
-(22) “Primary ballots” means paper ballots used with ballot boxes or ballots used in voting machines.
-(23) “Principal political parties” or words equivalent thereto will be the 2 political parties which have the highest total voter registration in this State.
-(24) “Primary election” means an election at which voters registered as members of a major political party may vote to determine the nominees of that political party for the general election.
-(25) “Protective counter” means a separate counter built into the voting machine, which cannot be reset, which records the total number of movements of the operating lever.
-(26) “Question” means any proposition or other question to be submitted to the voters.
-(27) “Registered voter” means an individual on the Department’s voter registration list.
-(28) “Registration list” or “voter registration list” means the list of individuals registered with the Department to vote. The “registration list” is prepared by the Department from the voter registration records maintained in the election management system.
-(29) “Registration officers” means the registrar, assistant registrar and alternate registrars appointed by the Department as defined in this section.
-(30) “Registration record” or “voter registration record”  means the information about an individual collected by the Department and maintained in the election management system, including all of the following:
+(22) “Principal political parties” or words equivalent thereto will be the 2 political parties which have the highest total voter registration in this State.
+(23) “Protective counter” means a separate counter built into the voting machine, which cannot be reset, which records the total number of movements of the operating lever.
+(24) “Registered voter” means an individual on the Department’s voter registration list.
+(25) “Registration list” or “voter registration list” means the list of individuals registered with the Department to vote. The “registration list” is prepared by the Department from the voter registration records maintained in the election management system.
+(26) “Registration officers” means the registrar, assistant registrar and alternate registrars appointed by the Department as defined in this section.
+(27) “Registration record” or “voter registration record”  means the information about an individual collected by the Department and maintained in the election management system, including all of the following:
 a. Information collected through the individual’s voter registration application.
 b. Information collected after the individual’s initial voter registration application.
 c. If the individual has qualified to permanently vote on an absentee basis.
 d. A record of each election in which the individual has voted.
-(31) “Reports Appeals Subcommittee” or “Subcommittee” means the Reports Appeals Subcommittee of the State Board of Elections.
-(32) “Signature” means both a written signature conforming to § 302(23) of Title 1 and a digital or electronic signature that is an electronic sound, symbol or process attached to or logically associated with a document and executed or adopted by a person with the intent to sign the document as specified by the State Election Commissioner.
-(33) “State chair” means the highest executive officer of a political party of this State.
-(34) “State committee” means the regularly organized and constituted statewide governing authority of a political party in this State.
-(35) “Tabulation” means to count votes and includes all of the following:
+(28) “Reports Appeals Subcommittee” or “Subcommittee” means the Reports Appeals Subcommittee of the State Board of Elections.
+(29) “Signature” means both a written signature conforming to § 302(23) of Title 1 and a digital or electronic signature that is an electronic sound, symbol or process attached to or logically associated with a document and executed or adopted by a person with the intent to sign the document as specified by the State Election Commissioner.
+(30) “State chair” means the highest executive officer of a political party of this State.
+(31) “State committee” means the regularly organized and constituted statewide governing authority of a political party in this State.
+(32) “Tabulation” means to count votes and includes all of the following:
 a. Counting all ballots or votes.
 b. Recording the numbers of votes cast by ballots.
 c. Confirming the count of ballots or votes.
-(36) “Unaffiliated candidate” means any individual who files a declaration as a candidate for any office to be decided at the general election and who is not affiliated with any political party and has not been thus affiliated for at least 3 months prior to the filing of that individual’s declaration.
-(37) “Voting device” means equipment that allows a voter to cast a ballot and records that vote.
-(38) “Voting equipment” means equipment, including hardware, firmware, software, machines, and voting devices, that performs 1 or more of the following functions:
+(33) “Unaffiliated candidate” means any individual who files a declaration as a candidate for any office to be decided at the general election and who is not affiliated with any political party and has not been thus affiliated for at least 3 months prior to the filing of that individual’s declaration.
+(34) “Voting device” means equipment that allows a voter to cast a ballot and records that vote.
+(35) “Voting equipment” means equipment, including hardware, firmware, software, machines, and voting devices, that performs 1 or more of the following functions:
 a. Allows a voter to cast a vote.
 b. Tabulates votes.
 c. Provides a definitive voter registration list to a poll worker.
@@ -152,13 +164,17 @@ c. Provides a definitive voter registration list to a poll worker.
                 §
               1
 ;
+85 Del. Laws, c. 422,
+                §
+              1
+;
 
 ## Delaware § 101A
 
-*Citation: Delaware Code, Title 15 — Elections, § 101A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c001/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 101A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c001/index.html*
 
 §
-        101A. Purpose.
+        101A. Purpose [Effective until July 1, 2027].
 The purpose of this title is to assure the people’s right to free and equal elections, as guaranteed by our state Constitution. To that end, the full exercise of that right demands that the people be afforded the means to form political parties, nominate candidates and cast ballots for whomever they choose. At the same time, however, lengthy ballots which list a profusion of political parties and unaffiliated candidates, many of which are not serious contenders and lack even a modicum of community support, tend to create voter confusion and to clog the election machinery.
 To secure the right to free and equal elections and to preserve the integrity of the democratic political process, it is essential that an orderly system be established:
 (1) For the registration of voters and the preservation of voter registration records;
@@ -173,6 +189,193 @@ To secure the right to free and equal elections and to preserve the integrity of
 61 Del. Laws, c. 418,
                 §
                2
+;
+
+## Delaware § 101A~2
+
+*Citation: Delaware Code, Title 15 — Elections, § 101A~2. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c001/index.html*
+
+§
+        101A. Purpose [Effective July 1, 2027].
+(a) The purpose of this title is to assure the people’s right to free and equal elections, as guaranteed by our state Constitution. To that end, and in furtherance of the protections for protected classes provided by § 21 of Article 1 of the Delaware Constitution and of the power granted to the General Assembly in § 1, Article 5 of the Delaware Constitution, it is the public policy of this State to encourage participation in the elective franchise by all eligible voters to the maximum extent and ensure that eligible voters who are members of racial, color, and language-minority groups have an equal opportunity to participate in the political processes of this State, and especially to exercise the elective franchise. The full exercise of that right demands that the people be afforded the means to form political parties, nominate candidates, and cast ballots for whomever they choose. At the same time, however, lengthy ballots which list a profusion of political parties and unaffiliated candidates, many of which are not serious contenders and lack even a modicum of community support, tend to create voter confusion and to clog the election machinery.
+(b) To secure the right to free and equal elections, ensure that voters who are members of racial, color, and language-minority groups, as well as voters with disabilities, have an equal opportunity to participate, and to preserve the integrity of the democratic political process, it is essential that an orderly and equally open system be established:
+(1) For the registration of voters and the preservation of voter registration records;
+(2) To encourage public participation in political parties and to demonstrate sufficient community support of these parties by permitting voters to affiliate with the party of their choice, if they so desire, on their voter registration records;
+(3) To provide a means by which political parties and unaffiliated candidates, which have demonstrated a meaningful level of community support, may qualify for listing on the general election ballot;
+(4) For the orderly and fair selection of party nominees by primary election or political party convention, and for the filling of vacancies among such nominees;
+(5) To provide for the free exercise of the write-in vote for both politically affiliated and unaffiliated candidates who may not qualify for listing on the general election ballot;
+(6) For the conduct of primary and general elections;
+(7) For the certification of election results and the resolution of election contests;
+(8) To provide criminal penalties and civil liability for violation of the laws set forth in this title;
+(9) To provide for all such other matters, related to the electoral process, as may be set forth herein.
+61 Del. Laws, c. 418,
+                §
+               2
+;
+85 Del. Laws, c. 421,
+                §
+              2
+;
+
+## Delaware § 101~2
+
+*Citation: Delaware Code, Title 15 — Elections, § 101~2. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c001/index.html*
+
+§
+        101. Definitions [Effective July 1, 2027].
+For purposes of this title:
+(1)  “Adjudicate” means to determine how a person intended to vote on a ballot.
+(2) a. “Ballot” means the physical or electronic document that a voter uses to identify the candidates for whom the person is voting or how the person is voting on a ballot question in a referendum election. A “ballot” may be further classified as follows:
+1. “Absentee ballot” means a ballot that allows a voter to vote in an election without voting in-person at a polling place.
+2. “Primary ballot” means a ballot prepared for or used in a primary election.
+3. “Provisional ballot” means a ballot used by an individual whose eligibility to vote in that election has not been determined at the time of voting. A “provisional ballot” indicates the votes cast by an individual if the individual’s eligibility to vote is confirmed.
+4. “Rejected ballot” means a ballot that the Department determined is invalid or invalidly cast.
+5. “Voided ballot” or “spoiled ballot” means a ballot that is declared void by the voter or the Department after the ballot was issued to a voter but before the ballot was cast.
+6. “Voted ballot” means a ballot that has been cast.
+b. When used with a “ballot” , the following verbs mean as follows:
+1. “Cast” means to submit a ballot to the Department in an election with the intent that the votes indicated on the ballot be counted when the results of the election are tabulated. “Cast a vote” means to “cast a ballot.”
+2. “Cure” means that a voter corrects an error or omission on a ballot that if not corrected, would result in a rejected ballot.
+(3) “Ballot question” means a proposal or other question submitted to voters at a referendum election.
+(4) “Ballot stock” means a physical object intended for use as a ballot but on which the ballot has not yet been printed.
+(5) “Board of Elections” or “Board” means that body of individuals appointed by the Governor and confirmed by the Senate to serve or who otherwise serve as the State Board of Elections in accordance with Chapter 2 of this title, and are, as such, vested with the responsibility and power to see to the administration of the election laws of this State as more particularly defined in this title.
+(6) “Candidate” means an individual seeking public office.
+(7) “Clerk” means clerk of election.
+(8) “Commissioner” means the individual appointed as the State Election Commissioner under Chapter 3 of this title.
+(9) “County committee” means the regularly organized and constituted county committee or governing authority of a political party.
+(10) “Department” means the State Department of Elections, including the Commissioner, county directors, county deputy Directors, and Department employees. “Department” does not include the Board of Elections.
+(11) “Election” means an organized contest to select an individual to hold a specific office or to make a collective choice with respect to a specified question. “Election” may be further classified as follows:
+a. “General election” means an election of final determination with respect to 1or more offices.
+b. “Municipal election” means an election conducted under a municipal charter or under Chapter 75 of this title.
+c. “Primary election” means an election at which voters affiliated with a major political party may vote to determine the nominees of that political party for offices at a general election. When used as a noun, “primary” means “primary election.”
+d. “Primary or general election” means a primary election or a general election.
+e. “Referendum election” means an election that asks voters to indicate a choice of for or against, in response to 1 or more ballot questions, including questions about tax levies, issuing bonds, or annexation. A “referendum election” does not include the selection of a candidate for office.
+f. “Scheduled election” means an election that is conducted at a regular interval on a day specified under law.
+g. “School district election” means an election conducted under Title 14. A “school district election” may be a scheduled election to select individuals to serve on the board of a school district or a referendum election.
+h. “Special election” means an election to fill a vacancy that is conducted under a writ of election.
+(12) “Election District Record” shall no longer mean the binders which contain, among other information, voter registration record (sometimes referred to as “Blues”), and shall hereafter mean the electronic records or the print out reflecting said electronic records as designated by the Department of Elections.
+(13) “Election management system” means the computer software programs, computer modules, and databases used and managed by the Department to administer elections under this title.
+(14) “Election officers” means the inspector of election, the 2 judges of election and the clerks of election who are appointed for each election district under § 4702 of this title.
+(15) “Election policy or practice” means any qualification to be an elector, prerequisite to voting, method of election, or any other law, statute, ordinance, resolution, charter or code provision, regulation, rule, policy, practice, procedure, standard, or any other action with respect to voting, electoral or jurisdictional boundaries, or the administration or schedule of elections.
+(16) “General election year” means a year in which a general election must be held under § 1 of Article V of the Delaware Constitution.
+(17) “Independent,” “decline” or words equivalent thereto means any person who at the time of registration does not choose to be affiliated with a political party as defined in this section.
+(18) “Inspector” means inspector of elections.
+(19) “Judge” means judge of elections.
+(20) “Local office” means any political district smaller than the State, including municipal, county, state representative or state senatorial.
+(21) “Limited English proficient individuals” or “LEP individuals” means individuals who speak, read, or understand the English language less than “very well,” according to the United States Census Bureau data or data of comparable quality collected by a governmental entity, including as self-reported by such persons to a governmental entity.
+(22) “Method of election” means the manner or mechanism by which candidates are elected to a governmental body of a political subdivision, and includes any at-large, district-based, proportional, semi-proportional, or other method of election, as well as any districting or redistricting plan used to elect candidates to the governmental body.
+(23) “Mobile registration” means any voter registration sponsored or conducted by the Department of Elections outside of any office of the Department.
+(24) “Party” or “political party” means any political organization which elects a state committee and officers of a state committee, by a state convention composed of delegates elected from each representative district in which the party has registered members, and which nominates candidates for electors of President and Vice-President, or nominates candidates for offices to be decided at the general election. All political parties shall be divided into 2 classes:
+a. “Major political party” means any political party which, as of December 31 of the year immediately preceding any general election year, has registered in the name of that party voters equal to at least 5 percent of the total number of voters registered in the State.
+b. “Minor political party” means any political party which does not qualify as a major political party.
+(25) “Polarized voting” means voting in which there is a divergence in the candidate preferences, political preferences, or electoral choices, including any question submitted to the voters, of members of a protected class, including the combined preferences of a protected class comprised of 2 or more groups of voters, from the candidate preferences, political preferences, or electoral choices of members of another protected class or set of protected classes.
+(26) “Political subdivision” refers to all political districts included in the definition of “local office” except state representative or state senatorial districts. “Political subdivision” also refers to all governmental entities that administer elections or any election officers of such entity. “Political subdivision” includes a reorganized school district.
+(27) “Principal political parties” or words equivalent thereto will be the 2 political parties which have the highest total voter registration in this State.
+(28) “Protected class” means any group of individuals who are members of any racial, color or language minority, including, but not limited to, a class of 2 or more such groups, and includes individuals who are members of a minimum reporting category that has been officially recognized by the United States Census Bureau.
+(29) “Protective counter” means a separate counter built into the voting machine, which cannot be reset, which records the total number of movements of the operating lever.
+(30) “Registered voter” means an individual on the Department’s voter registration list.
+(31) “Registration list” or “voter registration list” means the list of individuals registered with the Department to vote. The “registration list” is prepared by the Department from the voter registration records maintained in the election management system.
+(32) “Registration officers” means the registrar, assistant registrar and alternate registrars appointed by the Department as defined in this section.
+(33) “Registration record” or “voter registration record”  means the information about an individual collected by the Department and maintained in the election management system, including all of the following:
+a. Information collected through the individual’s voter registration application.
+b. Information collected after the individual’s initial voter registration application.
+c. If the individual has qualified to permanently vote on an absentee basis.
+d. A record of each election in which the individual has voted.
+(34) “Reports Appeals Subcommittee” or “Subcommittee” means the Reports Appeals Subcommittee of the State Board of Elections.
+(35) “Signature” means both a written signature conforming to § 302(23) of Title 1 and a digital or electronic signature that is an electronic sound, symbol or process attached to or logically associated with a document and executed or adopted by a person with the intent to sign the document as specified by the State Election Commissioner.
+(36) “State chair” means the highest executive officer of a political party of this State.
+(37) “State committee” means the regularly organized and constituted statewide governing authority of a political party in this State.
+(38) “Tabulation” means to count votes and includes all of the following:
+a. Counting all ballots or votes.
+b. Recording the numbers of votes cast by ballots.
+c. Confirming the count of ballots or votes.
+(39) “Unaffiliated candidate” means any individual who files a declaration as a candidate for any office to be decided at the general election and who is not affiliated with any political party and has not been thus affiliated for at least 3 months prior to the filing of that individual’s declaration.
+(40) “Voting device” means equipment that allows a voter to cast a ballot and records that vote.
+(41) “Voting equipment” means equipment, including hardware, firmware, software, machines, and voting devices, that performs 1 or more of the following functions:
+a. Allows a voter to cast a vote.
+b. Tabulates votes.
+c. Provides a definitive voter registration list to a poll worker.
+15 Del. C. 1953,
+                §
+               101;
+49 Del. Laws, c. 4,
+                §
+               5
+;
+57 Del. Laws, c. 181,
+                §
+               1
+;
+57 Del. Laws, c. 567,
+                §§
+               1, 1A, 2
+;
+57 Del. Laws, c. 695,
+                §
+               1
+;
+58 Del. Laws, c. 148,
+                §§
+               1, 2
+;
+60 Del. Laws, c. 414,
+                §
+               1
+;
+60 Del. Laws, c. 446,
+                §§
+               1, 2
+;
+61 Del. Laws, c. 418,
+                §§
+               3-5
+;
+61 Del. Laws, c. 480,
+                §
+               1
+;
+70 Del. Laws, c. 186,
+                §
+               1
+;
+70 Del. Laws, c. 505,
+                §
+               1
+;
+75 Del. Laws, c. 232,
+                §§
+               1, 2
+;
+77 Del. Laws, c. 227,
+                §
+               2
+;
+78 Del. Laws, c. 304,
+                §
+               1
+;
+79 Del. Laws, c. 275,
+                §
+               1
+;
+80 Del. Laws, c. 394,
+                §
+              1
+;
+82 Del. Laws, c. 170,
+                §
+              1
+;
+85 Del. Laws, c. 313,
+                §
+              1
+;
+85 Del. Laws, c. 422,
+                §
+              1
+;
+85 Del. Laws, c. 421,
+                §
+              1
 ;
 
 ## Delaware § 102
@@ -4126,11 +4329,11 @@ Code 1915,
 
 ## Delaware § 4502
 
-*Citation: Delaware Code, Title 15 — Elections, § 4502. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c045/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 4502. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c045/index.html*
 
 §
         4502. Form and designation of ballots [For application of this section, see 83 Del. Laws, c. 353, § 6].
-(a) (1) For each election, the party emblem adopted by each political party and its name shall appear on the ballot with the names of its candidates, arranged in line with the titles of the offices for which they are contesting, along with space for the voter to write in the name of any candidate of that voter’s choice, as prescribed under § 5005A(b) of this title.
+(a) (1) For each election, the party emblem adopted by each political party and its name shall appear on the ballot with the names of its candidates, arranged in line with the titles of the offices for which they are contesting, along with space for the voter to write in the name of any candidate of that voter’s choice, as prescribed under § 5005A [repealed] of this title.
 (2) In those years in which a President and Vice President of the United States are to be elected, the ballot must be designated “Presidential, Vice Presidential, State, County, and District Ballot”; in other years, the ballot must be designated “State, County, and District Ballot”.
 (3) The names of all candidates of any party must be placed under the title and device of such party as designated in the certificate filed with the Department by the party’s authorized agent or, if none is designated, under some suitable title or device to be selected by the Department.
 (4) When a President and Vice President are to be elected, the names of the candidates for those offices must be placed at the top of the list of candidates for all offices to be voted upon.
@@ -4256,6 +4459,10 @@ JOHN DOE
               4
 ;
 83 Del. Laws, c. 353,
+                §
+              2
+;
+85 Del. Laws, c. 313,
                 §
               2
 ;
@@ -4468,56 +4675,11 @@ Repealed by 77 Del. Laws, c. 227, § 52, effective Feb. 1, 2010.
 
 ## Delaware § 4508
 
-*Citation: Delaware Code, Title 15 — Elections, § 4508. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c045/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 4508. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c045/index.html*
 
 §
-        4508. Certificates of the vote cast in each election district.
-The Department shall program the voting machine to produce at least 2 copies of the paper tape showing the number of votes cast for each candidate on each voting machine.
-21 Del. Laws, c. 38,
-                §
-               6
-; 
-      Code 1915,
-                §
-               1745; 
-      Code 1935,
-                §
-               1834;
-44 Del. Laws, c. 119,
-                §
-               5
-; 
-      15 Del. C. 1953,
-                §
-               4514;
-52 Del. Laws, c. 221,
-                §
-               4
-;
-57 Del. Laws, c. 567,
-                §
-               39
-;
-58 Del. Laws, c. 148,
-                §
-               50
-;
-59 Del. Laws, c. 54,
-                §
-               2
-;
-69 Del. Laws, c. 391,
-                §
-               1
-;
-70 Del. Laws, c. 506,
-                §
-               5
-;
-77 Del. Laws, c. 227,
-                §
-               53
-;
+        4508. Certificates of the vote cast in each election district [Transferred].
+Transferred to § 5010 of this title by 85 Del. Laws, c. 313, § 6, effective June 24, 2026.
 
 ## Delaware § 4509
 
@@ -4894,35 +5056,43 @@ The Department following an election conducted under this title shall ascertain 
 
 ## Delaware § 5000A
 
-*Citation: Delaware Code, Title 15 — Elections, § 5000A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5000A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050a/index.html*
 
 §
         5000A. Electronic voting system use [Transferred].
-82 Del. Laws, c. 170, § 34Transferred to § 5001 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
+Transferred to § 5001 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
 
 ## Delaware § 5001
 
-*Citation: Delaware Code, Title 15 — Elections, § 5001. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5001. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
 
 §
         5001. Electronic voting system use.
 An election conducted under this title must use an electronic voting system and must comply with the requirements under this chapter.
+63 Del. Laws, c. 409,
+                §
+               1
+;
 82 Del. Laws, c. 170,
                 §
-              3485 Del Laws, c 313, 2, effective June 24, 2026
+              34
+;
+85 Del. Laws, c. 313,
+                §
+              2
 ;
 
 ## Delaware § 5001A
 
-*Citation: Delaware Code, Title 15 — Elections, § 5001A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5001A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050a/index.html*
 
 §
         5001A. Requirements [Transferred].
-82 Del. Laws, c. 170, § 35Transferred to § 5002 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
+Transferred to § 5002 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
 
 ## Delaware § 5002
 
-*Citation: Delaware Code, Title 15 — Elections, § 5002. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5002. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
 
 §
         5002. Requirements.
@@ -4967,9 +5137,25 @@ c. Immediately after the polls are closed or after the operation of the voting d
 (2) Certified by the EAC, or designated federal authority, as meeting or exceeding the EAC’s voluntary voting system guidelines version 2.0.
 (3) Substantially equivalent to voting devices already in use in this State that were acquired in compliance with paragraphs (c)(1) or (c)(2) of this section.
 (d) The Department shall prepare a plan that enables a voter to cast a ballot if every voting device in the polling place fails and consequently a voter is unable to vote on a voting device in the voter’s polling place.
+63 Del. Laws, c. 409,
+                §
+               1
+;
+70 Del. Laws, c. 154,
+                §§
+               1-4
+;
+70 Del. Laws, c. 186,
+                §
+               1
+;
 82 Del. Laws, c. 170,
                 §
-              3585 Del Laws, c 313, 2, effective June 24, 2026
+              35
+;
+85 Del. Laws, c. 313,
+                §
+              2
 ;
 
 ## Delaware § 5002A
@@ -4982,7 +5168,7 @@ Transferred to § 5003 of this title by 85 Del. Laws, c. 313, § 2, effective Ju
 
 ## Delaware § 5003
 
-*Citation: Delaware Code, Title 15 — Elections, § 5003. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5003. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
 
 §
         5003. Compliance guarantee.
@@ -4991,9 +5177,25 @@ Before an electronic voting system is purchased, rented or otherwise acquired, o
 (2) The voting device against defects in labor and materials for a period equal to either of the following:
 a. Five years from the date the Department receives the voting devices.
 b. For a rented voting device, for the period of rental.
+63 Del. Laws, c. 409,
+                §
+               1
+;
+70 Del. Laws, c. 154,
+                §
+               5
+;
+70 Del. Laws, c. 186,
+                §
+               1
+;
+77 Del. Laws, c. 227,
+                §
+               2
+;
 85 Del. Laws, c. 313,
                 §
-              2, effective June 24, 2026
+              2
 ;
 
 ## Delaware § 5003A
@@ -5004,37 +5206,122 @@ b. For a rented voting device, for the period of rental.
         5003A. Use of voting devices; costs in municipal elections [Transferred].
 Transferred to § 5005 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
 
+## Delaware § 5004
+
+*Citation: Delaware Code, Title 15 — Elections, § 5004. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5004. Voting devices; software designations.
+(a) (1) No later than July 1 of each odd-numbered calendar year, the Commissioner shall designate the software and version of that software (software) that must be used on the Department’s voting devices during the next statewide general election.
+(2) Voting devices must use the software designated under paragraph (a)(1) of this section for elections held on or after September 1 of that calendar year.
+(3) Voting devices may use the software installed under paragraph (a)(2) of this section for elections held before September 1 of the next odd-numbered calendar year.
+(b) In addition to operating each voting device in compliance with the requirements under § 5003 of this title, the software designated under paragraph (a)(1) of this section must meet all of the following criteria:
+(1) Actively used in at least 2 other jurisdictions in the United States.
+(2) Certified by 1 or more of the following:
+a. The Election Assistance Commission.
+b. A voting system testing laboratory accredited pursuant to the Help America Vote Act of 2002 [52 U.S.C. § 20901 et seq.]
+(3) Approved for use by the manufacturer of the voting devices.
+(c) If there are multiple versions of software that meet the requirements under subsection (b) of this section, the Commissioner may select the software that the Commissioner determines is best suited to meet the requirements under this title after considering all of the following:
+(1) How recently each version was released.
+(2) The experiences of other jurisdictions in the United States with the software under this subsection (c).
+(3) The recommendations of the voting device manufacturer.
+(4) The recommendations of Department employees.
+(5) Any other factors that the Commissioner deems relevant.
+(d) Notwithstanding subsection (a) of this section, at any time, the Commissioner may change the designated software for the Department’s voting devices if necessary to address a material security flaw in the previously designated software.
+85 Del. Laws, c. 313,
+                §
+              2
+;
+
 ## Delaware § 5004A
 
-*Citation: Delaware Code, Title 15 — Elections, § 5004A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5004A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050a/index.html*
 
 §
         5004A. Number of voting devices per election district [Transferred].
-82 Del. Laws, c. 170, § 36Transferred to § 5006 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
+Transferred to § 5006 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
 
 ## Delaware § 5005
 
-*Citation: Delaware Code, Title 15 — Elections, § 5005. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5005. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
 
 §
-        5005. Use of voting devices; costs in municipal elections. [Repealed.]
-85 Del. Laws, c. 313,
+        5005. Use of voting devices; costs in municipal elections  [Repealed].
+63 Del. Laws, c. 409,
                 §
-              2, effective June 24, 2026
+               1
+;
+79 Del. Laws, c. 275,
+                §
+               82
+;
+repealed by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
 ;
 
 ## Delaware § 5005A
 
-*Citation: Delaware Code, Title 15 — Elections, § 5005A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5005A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050a/index.html*
 
 §
-        5005A. Printing of ballots; distribution of ballots.
-(a) [Repealed.]
-(b) (1) The party emblem which has been duly adopted by a party in accordance with law and the party name or other designation for each political party represented on the device must appear on the ballot.
-(2) The titles of offices may be arranged horizontally, with the names of candidates for an office arranged vertically under the title of the office, or the titles of offices may be arranged vertically, with the names of candidates for an office arranged horizontally opposite the title of the office, each office to occupy as many columns or rows on the voting device as the number of candidates to be elected to that office.
-(3) Except as otherwise provided under this chapter, the names of all candidates nominated by a party for an office must always appear in the row or column containing generally the names of candidates nominated by the party for other offices.
-(c) Official ballots for voting devices shall be prepared and furnished by the Department in the same manner as provided by law.
-(d) Nothing in this section shall preclude the use of an electronic device where the ballot is electronically generated and displayed or which has the capability to generate and display multiple ballots.
+        5005A. Printing of ballots; distribution of ballots [Transferred].
+Transferred to § 5007 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
+
+## Delaware § 5006
+
+*Citation: Delaware Code, Title 15 — Elections, § 5006. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5006. Number of voting devices per election district.
+(a) In general elections, the Department shall supply each polling place with at least 1 voting device for every 650 registered voters assigned to that polling place, or majority fraction thereof.
+(b) In primary and special elections, the Department shall supply each polling place with at least 1 voting device for every 800 registered voters assigned to that polling place, or majority fraction thereof.
+63 Del. Laws, c. 409,
+                §
+               1
+;
+70 Del. Laws, c. 154,
+                §§
+               6, 7
+;
+74 Del. Laws, c. 411,
+                §
+               23
+;
+82 Del. Laws, c. 170,
+                §
+              36
+;
+85 Del. Laws, c. 313,
+                §
+              2
+;
+
+## Delaware § 5006A
+
+*Citation: Delaware Code, Title 15 — Elections, § 5006A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+
+§
+        5006A. Number of official ballots to be furnished [Repealed].
+63 Del. Laws, c. 409,
+                §
+               1
+;
+70 Del. Laws, c. 154,
+                §
+               12
+;
+77 Del. Laws, c. 227,
+                §
+               69
+;
+repealed by 82 Del. Laws, c. 170, § 38, effective July 30, 2019.
+;
+
+## Delaware § 5007
+
+*Citation: Delaware Code, Title 15 — Elections, § 5007. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5007. Printing of ballots; distribution of ballots  [Repealed].
 63 Del. Laws, c. 409,
                 §
                1
@@ -5059,39 +5346,7 @@ Transferred to § 5005 of this title by 85 Del. Laws, c. 313, § 2, effective Ju
                 §
               37
 ;
-
-## Delaware § 5006
-
-*Citation: Delaware Code, Title 15 — Elections, § 5006. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050/index.html*
-
-§
-        5006. Number of voting devices per election district.
-(a) In general elections, the Department shall supply each polling place with at least 1 voting device for every 650 registered voters assigned to that polling place, or majority fraction thereof.
-(b) In primary and special elections, the Department shall supply each polling place with at least 1 voting device for every 800 registered voters assigned to that polling place, or majority fraction thereof.
-82 Del. Laws, c. 170,
-                §
-              3685 Del Laws, c 313, 2, effective June 24, 2026
-;
-
-## Delaware § 5006A
-
-*Citation: Delaware Code, Title 15 — Elections, § 5006A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
-
-§
-        5006A. Number of official ballots to be furnished [Repealed].
-63 Del. Laws, c. 409,
-                §
-               1
-;
-70 Del. Laws, c. 154,
-                §
-               12
-;
-77 Del. Laws, c. 227,
-                §
-               69
-;
-repealed by 82 Del. Laws, c. 170, § 38, effective July 30, 2019.
+repealed by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
 ;
 
 ## Delaware § 5007A
@@ -5107,27 +5362,85 @@ repealed by 82 Del. Laws, c. 170, § 38, effective July 30, 2019.
 repealed by 82 Del. Laws, c. 170, § 39, effective July 30, 2019.
 ;
 
-## Delaware § 5008A
+## Delaware § 5008
 
-*Citation: Delaware Code, Title 15 — Elections, § 5008A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5008. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
 
 §
-        5008A. Preparation of voting devices.
-(a) (1) The Department shall cause sufficient voting devices to be delivered to the proper polling places before the time appointed for the election officers to report for duty.
-(2) The Department shall certify that each voting device to be used in an election has been properly prepared and inspected by doing all of the following before each primary and general election:
-a. Confirming that the most recent federally-approved software is installed.
-b. Checking accuracy by doing the following:
+        5008. Number of official ballots to be furnished [Repealed].
+63 Del. Laws, c. 409,
+                §
+               1
+;
+70 Del. Laws, c. 154,
+                §
+               12
+;
+77 Del. Laws, c. 227,
+                §
+               69
+;
+repealed by 82 Del. Laws, c. 170, § 38, effective July 30, 2019.
+;
+
+## Delaware § 5008A
+
+*Citation: Delaware Code, Title 15 — Elections, § 5008A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+
+§
+        5008A. Preparation of voting devices [Transferred].
+Transferred to § 5010 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
+
+## Delaware § 5009
+
+*Citation: Delaware Code, Title 15 — Elections, § 5009. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5009. Substitute ballots [Repealed].
+63 Del. Laws, c. 409,
+                §
+               1
+;
+repealed by 82 Del. Laws, c. 170, § 39, effective July 30, 2019.
+;
+
+## Delaware § 5009A
+
+*Citation: Delaware Code, Title 15 — Elections, § 5009A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+
+§
+        5009A. Instruction model.
+Repealed by 70 Del. Laws, c. 154, § 18, effective July 7, 1995.
+
+## Delaware § 5010
+
+*Citation: Delaware Code, Title 15 — Elections, § 5010. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5010. Preparation of voting devices.
+(a) (1) a. The Department shall deliver the number of voting devices required under § 5006 of this title to each polling place before the time that the election officers are required to report for duty.
+b. The Department shall program each voting device delivered under paragraph (a)(1)a. of this section to produce at least 2 copies of the paper tape showing the number of votes cast on that voting device for each candidate and ballot question.
+(2) Before each election, the Department shall certify that each voting device that will be delivered to a polling place has been properly prepared and inspected by doing all of the following:
+a. Confirming that all software installed on the voting device is the software required under § 5004 of this title.
+b. Checking the accuracy of the voting device by doing all of the following:
 1. Simulating voting by entering sample votes on the voting device.
-2. Counting by hand the votes on each paper ballot from the voting device and comparing the paper ballot totals to the totals kept by the voting device electronically
-(b) The Department shall mail written notices to the State Chairperson of each party with candidates listed on the ballot, stating the time and place at which the voting device will be inspected. The State Chairperson of each such political party may designate 1 representative to be present during the inspection.
-(c) The Department shall designate at least 2 representatives of opposite political affiliation, other than the person preparing the voting devices, to do all of the following:
-(1) Certify the numbers on the voting devices and the election districts for which they are designated.
-(2) Certify that all voting devices are in proper working condition.
-(3) Certify that the voting devices are properly sealed.
+2. Counting by hand the votes on each paper ballot from the voting device and comparing the paper ballot totals to the totals kept by the voting device electronically.
+(b) [Repealed.]
+(c) (1) The Department shall designate at least 2 individuals to certify all of the following:
+a. The numbers on the voting devices and the election districts for which they are designated are correct.
+b. All of the voting devices are in proper working condition.
+c. All of the voting devices are properly sealed.
+(2) The individuals designated under paragraph (c)(1) of this section cannot have the same party affiliation, as recorded in each individual’s voter registration record.
 (d) [Repealed.]
-(e) The Department shall test all voting systems to ascertain that the voting systems will accurately count the votes cast for all offices and on all questions. Public notice of the time and place of the test of both the voting device system and the absentee ballot system must be published and a test must be conducted within 10 days before the election.
-(f) The certification required by this section is a public record and must be available at the Department.
-(g) The Department shall require that all persons with custody of the voting devices, either for delivery or storage before and after the election, shall ensure the voting devices’ safety and protection.
+(e) (1) No more than 10 days before an election, the Department shall test all voting systems, including the absentee ballot system, to confirm that the voting systems will accurately count the votes cast for all candidates and on all ballot questions.
+(2) The Department shall provide notice of the time and place of the tests under paragraph (e)(1) of this section as follows:
+a. Posting a public notice under § 10004 of Title 29.
+b. Providing a copy of the public notice to the state chairperson of each party with a candidate on the ballot.
+(f) The certification required under this section is a public record available for inspection at the Department under the Delaware Freedom of Information Act, Chapter 100 of Title 29.
+(g) The Department shall require that a person with custody of a voting device ensures the safety and protection of the voting device at all times, including all of the following:
+(1) During delivery.
+(2) Storage before the election.
+(3) Storage after the election.
 63 Del. Laws, c. 409,
                 §
                1
@@ -5140,34 +5453,38 @@ b. Checking accuracy by doing the following:
                 §
                1
 ;
+70 Del. Laws, c. 506,
+                §
+               5
+;
+77 Del. Laws, c. 227,
+                §
+               53
+;
 82 Del. Laws, c. 170,
                 §
               40
 ;
-
-## Delaware § 5009A
-
-*Citation: Delaware Code, Title 15 — Elections, § 5009A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
-
-§
-        5009A. Instruction model.
-Repealed by 70 Del. Laws, c. 154, § 18, effective July 7, 1995.
+85 Del. Laws, c. 313,
+                §
+              2
+;
 
 ## Delaware § 5010A
 
-*Citation: Delaware Code, Title 15 — Elections, § 5010A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5010A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050a/index.html*
 
 §
-        5010A. Inoperative voting devices.
-If during the conduct of an election a voting device becomes inoperative, the election officers shall seal it in such manner as to prevent further voting thereon. The Department shall maintain and hold in readiness a reasonable number of extra voting devices to be supplied to election districts where a voting device has become inoperative, and the Department shall take reasonable steps to ensure rapid delivery in such event.
-63 Del. Laws, c. 409,
-                §
-               1
-;
-82 Del. Laws, c. 170,
-                §
-              41
-;
+        5010A. Inoperative voting devices [Transferred].
+Transferred to § 5012 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
+
+## Delaware § 5011
+
+*Citation: Delaware Code, Title 15 — Elections, § 5011. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5011. Instruction model.
+Repealed by 70 Del. Laws, c. 154, § 18, effective July 7, 1995.
 
 ## Delaware § 5011A
 
@@ -5182,28 +5499,144 @@ If during the conduct of an election a voting device becomes inoperative, the el
 repealed by 82 Del. Laws, c. 170, § 42, effective July 30, 2019.
 ;
 
-## Delaware § 5012A
+## Delaware § 5012
 
-*Citation: Delaware Code, Title 15 — Elections, § 5012A. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5012. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
 
 §
-        5012A. Audits; audit discrepancy procedure.
-(a) For purposes of this section, “audit” means counting by hand the votes on each paper ballot from a voting device and comparing the paper ballot totals to the totals kept by the voting device electronically.
-(b) Within 48 hours of the certification of the results of the primary and general elections, and school board elections conducted under Title 14, the Department shall audit the results of 1 randomly selected voting device in each county and 1 randomly selected election district in the City of Wilmington.
-(c) Within 60 days of the certification of the results of the primary and general elections, and school board elections conducted under Title 14, the Department shall conduct an audit of all such elections, as follows:
-(1) The Department shall audit all results of 1 randomly selected election district in each county and 1 randomly selected election district in the City of Wilmington. An election district selected for audit under this paragraph (c)(1) of this section must be different than the election districts selected under subsection (b) and paragraph (c)(2) of this section.
-(2) The Department shall audit the results of 1 randomly selected election district in each county and 1 randomly selected election district in the City of Wilmington in 1 randomly selected statewide race. An election district selected for audit under this paragraph (c)(2) of this section must be different than the election districts selected under subsection (b) and paragraph (c)(1) of this section.
-(d) The Department shall conduct an audit under this section in public.
-(e) Within 60 days of an audit under this section, the Department shall do all of the following:
-(1) Publish a report containing the results of the audit conducted under this section.
-(2) Post the report on the Department’s website.
-(f) The Department shall promulgate regulations to govern the procedure to be used if an audit reveals a discrepancy, including all of the following:
+        5012. Inoperative voting devices.
+(a) If a voting device becomes inoperative during the conduct of an election, the election officers shall seal the voting device in a manner that prevents further voting on that voting device.
+(b) The Department shall maintain and hold in readiness a reasonable number of extra voting devices that can be supplied to election districts where a voting device has become inoperative. The Department shall take reasonable steps to ensure rapid delivery of these voting devices when needed.
+63 Del. Laws, c. 409,
+                §
+               1
+;
+82 Del. Laws, c. 170,
+                §
+              41
+;
+85 Del. Laws, c. 313,
+                §
+              2
+;
+
+## Delaware § 5012A
+
+*Citation: Delaware Code, Title 15 — Elections, § 5012A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050a/index.html*
+
+§
+        5012A. Audits; audit discrepancy procedure [Transferred].
+Transferred to § 5014 of this title by 85 Del. Laws, c. 313, § 2, effective June 24, 2026.
+
+## Delaware § 5013
+
+*Citation: Delaware Code, Title 15 — Elections, § 5013. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5013. Voting device curtains; absentee voting [Repealed].
+63 Del. Laws, c. 409,
+                §
+               1
+;
+repealed by 82 Del. Laws, c. 170, § 42, effective July 30, 2019.
+;
+
+## Delaware § 5014
+
+*Citation: Delaware Code, Title 15 — Elections, § 5014. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5014. Audits; procedures.
+(a) (1) An audit of election results under this chapter (audit) must count by hand the votes on each paper ballot from a voting device and compare the paper ballot totals to the totals kept by the voting device electronically.
+(2) An audit completed under § 5015(b) or § 5016(c) of this title must include all ballots cast in a selected election district, including ballots cast during early voting and absentee ballots.
+(b), (c) [Repealed.]
+(d) The Department shall perform all of the following at a public meeting conducted under § 10004 of Title 29:
+(1) A random selection required for an audit under § 5015, § 5016, or § 5017 of this title.
+(2) An audit under § 5015, § 5016, or § 5017 of this title.
+(e) (1) Within 60 days of an audit under this chapter, the Department shallcomplete a report that contains the results of that audit.
+(2) a. The Department shall post the report required under paragraph (e)(1) of this section on the Department’s website and submit the report to the Director and the Librarian of the Division of Legislative Services and the Delaware Public Archives.
+b. If the election results in the report were for an election held by a school district or municipality, the Department must also submit the report to the chief officer of the jurisdiction in which the election was held.
+(f) The Department shall promulgate regulations to govern the procedure to be used if an audit reveals a discrepancy that include all of the following:
 (1) The thresholds that trigger the Department or others to take a specific action.
 (2) The specific actions to be taken by the Department or others once a threshold is triggered.
 (3) The corrective actions that must be taken by the Department or others to avoid the discrepancy in the future.
 82 Del. Laws, c. 170,
                 §
               43
+;
+85 Del. Laws, c. 313,
+                §
+              2
+;
+
+## Delaware § 5015
+
+*Citation: Delaware Code, Title 15 — Elections, § 5015. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5015. Audits; elections for state or county offices.
+(a) Within 48 hours of the certification of the results of an election for a state or county office, the Department shall conduct an audit of all of the following:
+(1) One randomly selected voting device in each county where the election was held.
+(2) If the election included an election district with area in the City of Wilmington, 1 randomly selected voting device in the City of Wilmington.
+(b) Within 60 days of the certification of the results of an election for a state or county office, the Department shall conduct an audit of all of the following:
+(1) a. The results of all votes cast for all offices in 1 randomly selected election district in each county where the election was held.
+b. If the election included an election district with area in the City of Wilmington, the results for all votes cast for offices in 1 randomly selected election district in the City of Wilmington.
+(2) After an election for 1 or more statewide offices, the results of all votes cast for 1 statewide office as follows:
+a. One randomly selected election district in each county.
+b. One randomly selected election district in the City of Wilmington.
+c. The election district in New Castle County that is audited under paragraph (b)(2)a. of this section must not include area in the City of Wilmington.
+(c) (1) An election district audited under paragraph (b)(1) of this section cannot be an election district from which a voting device was selected under subsection (a) of this section.
+(2) An election district audited under paragraph (b)(2) of this section cannot be an election district from which a voting device was selected under subsection (a) or paragraph (b)(1) of this section.
+82 Del. Laws, c. 170,
+                §
+              43
+;
+85 Del. Laws, c. 313,
+                §
+              2
+;
+
+## Delaware § 5016
+
+*Citation: Delaware Code, Title 15 — Elections, § 5016. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5016. Audits; elections for City of Wilmington offices.
+(a) This section applies to elections conducted for offices in the City of Wilmington under subchapter II of Chapter 75 of this title.
+(b) Within 48 hours of the certification of the results of an election, the Department shall audit all of the results of 1 randomly selected voting device used for that election.
+(c) (1) Within 60 days of the certification of the results of an election, the Department shall audit the results of all votes cast in 1 randomly selected election district where the election was held.
+(2) An election district audited under paragraph (c)(1) of this section cannot be an election district from which the voting device was selected under subsection (b) of this section.
+82 Del. Laws, c. 170,
+                §
+              43
+;
+85 Del. Laws, c. 313,
+                §
+              2
+;
+
+## Delaware § 5017
+
+*Citation: Delaware Code, Title 15 — Elections, § 5017. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c050/index.html*
+
+§
+        5017. Audits: school district elections.
+(a) This section applies to school district elections conducted under Title 14.
+(b) After an election for a school board member, the Department shall conduct audits as follows:
+(1) Within 48 hours of the certification of the results of an election, the Department shall audit all of the results of 1 randomly selected voting device used for that election.
+(2) Within 60 days of the certification of the results of an election, the Department shall audit the results of all votes cast in 1 randomly selected polling place where the election was held.
+(3) A polling place audited under paragraph (b)(2) of this section cannot be the polling place from which the voting device was selected under paragraph (b)(1) of this section.
+(c) After a referendum election, the Department shall conduct audits as follows:
+(1) Within 48 hours of the certification of the results of an election, the Department shall audit all of the results of 1 randomly selected voting device used for that election.
+(2) Within 60 days of the certification of the results of an election, the Department shall audit the results of all votes cast in 1 randomly selected polling place where the election was held.
+(3) A polling place audited under paragraph (c)(2) of this section cannot be the polling place from which the voting device was selected under paragraph (c)(1) of this section.
+82 Del. Laws, c. 170,
+                §
+              43
+;
+85 Del. Laws, c. 313,
+                §
+              2
 ;
 
 ## Delaware § 5301
@@ -6163,15 +6596,18 @@ b. Delivering it, or causing it to be delivered, to the Department before the po
 
 ## Delaware § 5509
 
-*Citation: Delaware Code, Title 15 — Elections, § 5509. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c055/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5509. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c055/index.html*
 
 §
         5509. Procedure on receipt of ballot envelope by Department.
-(a) Upon receipt of a ballot envelope the Department, or a person authorized by the Department, shall:
-(1) Ascertain the names of each elector as they appear on the face of each ballot envelope;
-(2) Ascertain from the information on the ballot envelope the election district with whose votes the ballot within it shall be tallied; and
+(a) Upon receipt of a ballot envelope the Department shall do all of the following:
+(1) Ascertain the name of each voter as it appears on the face of each ballot envelope.
+(2) Ascertain from the information on the ballot envelope the election district with whose votes the ballot within it will be tallied.
 (3) Place the ballot envelope in a secure location until such time as it is opened and the ballot within it is counted.
-(b) No member of the Department (the director or any other person) shall open or attempt to open the ballot envelope, or change or alter or attempt to change or alter the ballot envelope, or any writing, printing or anything whatsoever thereon.
+(4) If a ballot envelope fails to comply with a requirement under § 5507 of this title, the Department shall indicate on the ballot envelope that the ballot is deficient and the reason.
+(b) No member of the Department may do any of the following:
+(1) Open or attempt to open the ballot envelope.
+(2) Except as required under paragraph (a)(4) of this section, change, alter, or attempt to change or alter the ballot envelope, including any writing or printing on the ballot envelope.
 44 Del. Laws, c. 118,
                 §
                10
@@ -6215,26 +6651,55 @@ b. Delivering it, or causing it to be delivered, to the Department before the po
                 §
                89
 ;
+85 Del. Laws, c. 313,
+                §
+              4
+;
+
+## Delaware § 5509A
+
+*Citation: Delaware Code, Title 15 — Elections, § 5509A. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c055/index.html*
+
+§
+        5509A. Curing deficient ballot envelopes; procedure.
+(a) The Department shall offer a voter an opportunity to cure a returned ballot if the voter has failed to do any of the following:
+(1) Sign the self-administered oath as required under § 5507(2) of this title.
+(2) Seal the ballot envelope as required under § 5507(3) of this title.
+(b) A voter may cure a ballot as follows:
+(1) By signing the self-administered oath.
+(2) By sealing the ballot envelope.
+(c) The Department shall attempt to notify the voter by phone or email of the deficiency under subsection (a) of this section and of the action that the voter can take to correct the deficiency.
+(d) (1) If a returned ballot is cured before the polls close on the day of the election, the ballot must be processed and included in the tabulation.
+(2) A ballot that is cured under this section has not been changed, tampered, or altered for purposes of § 5509(b) or § 5514(a)(5) of this title.
+85 Del. Laws, c. 313,
+                §
+              4
+;
 
 ## Delaware § 5510
 
-*Citation: Delaware Code, Title 15 — Elections, § 5510. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c055/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5510. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c055/index.html*
 
 §
         5510. Opening and preparing absentee ballots for tabulation.
-(a) The Department may open ballot envelopes and prepare the ballots for tabulation as set forth in this section in public meetings beginning 30 days before the day of the election. The Department shall notify each party on the ballot that they may have challengers present at the meetings. The challengers may challenge ballots as provided elsewhere in this title.
-(b) The Department shall appoint teams of election judges to fulfill the duties set forth in this section. No more than half of the judges on a team may be registered with any 1 party. A single team may not handle or process ballots or ballot envelopes for more than 1 election district at a time.
-(c) The teams shall select ballot envelopes in order of election districts within the county and check them off against the list of absentee voters. For each ballot envelope, the election judges shall ascertain whether a challenge has been made pursuant to this chapter.
+(a) (1) a. The Department may open ballot envelopes and prepare the ballots for tabulation beginning 30 days before the day of the election at public meetings conducted under § 10004 of Title 29.
+b. At the end of every day, and during any pause in the process under this section, all ballots must be placed in secure containers and stored in locked cabinets until opened in a subsequent public meeting for the completion of processing under this section.
+(2) The Department shall notify each party with a candidate on the ballot that they may have challengers present at the public meetings under paragraph (a)(1)a. of this section.
+(b) The Department shall appoint teams of election judges (election judges) to fulfill the duties under this section. No more than half of the judges on a team may have the same party affiliation, as recorded in each individual’s voter registration record.
+(c) The election judges shall select ballot envelopes in order of election districts within the county and check them off against the list of absentee voters. For each ballot envelope, the election judges shall ascertain whether a challenge has been made under this title.
 (d) Ballots that are not challenged shall then be separated from the ballot envelopes and the ballot envelopes shall be separately stored in a secure location.
-(1) If a team determines that an original ballot will not be readable by the tabulating equipment, it shall duplicate the ballot as follows:
-a. The team shall assign the same unique identifier to the original ballot and the duplicate ballot.
-b. The team shall duplicate the original ballot by marking the duplicate ballot according to the voter’s intent as shown on the ballot marked by the voter. If a team cannot determine a voter’s intent, they shall consult the county director and deputy county director for advice and guidance.
-c. After the team has duplicated any ballots necessary for an election district, the team shall put the original ballots in a separate envelope to be securely stored. The duplicate ballot shall be placed with all other ballots for the same election district for further processing.
-(2) If a ballot contains a write-in vote, the team shall record the proper notations of such votes in the election records for the election district in which an absentee voter is registered to vote.
-(e) When a team has completed the steps set forth in subsections (c) and (d) of this section, a team shall scan the ballots for tabulation using the ballot scanning devices located in the county elections office.
-(f) (1) After the completion of the process set forth in this section, the teams shall secure the ballots in a carrier envelope, seal the carrier envelope, and each member of the team shall sign the member’s name on the outside of the carrier envelope, affirming that the team sealed the envelope and that the envelope contains ballots for the election district to which the envelope is assigned. Each carrier envelope must contain absentee ballots for no more than 1 election district and only 1 carrier envelope may be filled at a time. Each signed and sealed envelope shall be placed in a secure location until such time as it is required to be moved or destroyed under § 4980 of this title or other legal process.
-(2) At the end of every day, and during any pause in the process set forth in this section, all ballots shall be secured in carrier envelopes and be stored in locked cabinets until opened in a subsequent public meeting for the completion of processing under this section.
-(g) The results of the absentee ballots shall not be extracted or reported before the polls have closed on the day of the election.
+(1) If the election judges determines that an original ballot will not be readable by the tabulating equipment, they shall duplicate the ballot as follows:
+a. The election judges shall assign the same unique identifier to the original ballot and the duplicate ballot.
+b. The election judges shall duplicate the original ballot by marking the duplicate ballot according to the voter’s intent as shown on the ballot marked by the voter. If the election judges cannot determine a voter’s intent, the election judges shall consult the county director and county deputy director for advice and guidance on how to adjudicate the votes on the ballot under § 4972 of this title.
+c. After the election judges have duplicated any ballots necessary for an election district, the election judges shall put the original ballots in a separate, secure container to be securely stored. The duplicate ballot must be placed with all other ballots for the same election district for further processing.
+(2) If a ballot contains a write-in vote, the election judges shall record the proper notations for write-in votes in the election records for the election district in which an absentee voter is registered to vote.
+(e) When the election judges have completed the steps under subsections (c) through (d) of this section, the election judges shall scan the ballots for tabulation using the ballot scanning devices located in the county elections office.
+(f) (1) After the completion of the process under this section, the election judges shall do all of the following:
+a. Secure the ballots in a secure container.
+b. Seal the secure container.
+c. Each election judge must sign their name on the outside of the secure container, affirming that the election judges sealed the container and that the container contains ballots for the election district to which the container is assigned.
+(2) A secure container under paragraph (f)(1) of this section must contain absentee ballots for no more than 1 election district and only 1 secure container may be filled at a time. Each signed and sealed container must be placed in a secure location until such time as it is required to be moved or destroyed under § 4980 of this title or other legal process.
+(g) The results of the absentee ballots must not be reported before the polls have closed on the day of the election.
 75 Del. Laws, c. 149,
                 §
                1
@@ -6266,6 +6731,10 @@ c. After the team has duplicated any ballots necessary for an election district,
 84 Del. Laws, c. 106,
                 §
               2
+;
+85 Del. Laws, c. 313,
+                §
+              4
 ;
 
 ## Delaware § 5510A
@@ -7488,12 +7957,29 @@ The State Election Commissioner, in collaboration with the Department offices, s
 
 ## Delaware § 5701
 
-*Citation: Delaware Code, Title 15 — Elections, § 5701. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5701. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5701. Superior Court as board of canvass; convening and composition of Court.
-(a) The Superior Court shall convene in each county on the second day after the general election at 10 a.m., for the performance of the duties imposed upon it by § 6 of article V of the Constitution of this State and by this chapter. Thereupon the Court, with the aid of such of its officers and such sworn assistants as it shall appoint, shall publicly ascertain the state of the election throughout the county and in the respective election districts by calculating the aggregate amount of all the votes for each office that shall have been given in all of the election districts of the county for every person voted for such office. For this purpose, the Court shall utilize the voting machine recording tapes, voting machine certificates, absentee vote tally sheets and write-in vote tally sheets for each election district provided by the Prothonotary and the Department, whose representatives shall sit as observers and assistants to the Court during said calculation of the vote.
-(b) For the purposes of this chapter, the Superior Court shall consist in New Castle County of the President Judge and the Resident Judge; in Kent County of the Resident Judge and a Judge designated by the President Judge; and in Sussex County of the Resident Judge and a Judge designated by the President Judge. For the purpose of this chapter, the Superior Court in each county, as so constituted, shall be a board of canvass for the respective counties of this State.
+(a) (1) a. The Superior Court (Court) shall convene in each county on the second day after the general election at 10 a.m., for the performance of the Court’s duties under § 6 of article V of the Delaware Constitution and under this chapter.
+b. The Court may perform the duties under this chapter with the aid of the Court’s officers and sworn assistants as appointed.
+(2) The Court shall publicly certify the results of the election for the county after tabulating all votes cast in each election district, for each individual, for each office on the ballot, using the material provided by the Department under paragraph (a)(3) of this section.
+(3) The Department shall provide the Court with all of the following for each election district in the county for the election:
+a. The report of the votes cast on each voting device used at a polling place.
+b. The voting device certificates for each polling place.
+c. Absentee vote reports.
+d. Write-in vote reports.
+e. Absentee ballots.
+f. Early voting ballots.
+g. Provisional ballots.
+(4) The Department’s representatives shall sit as observers and assistants to the Court during the tabulation of the vote under this section.
+(b) For the purposes of this chapter,
+(1) The “Superior Court” means as follows:
+a. In New Castle County, the President Judge and the Resident Judge.
+b. In Kent County, the Resident Judge and a Judge designated by the President Judge.
+c. In Sussex County, the Resident Judge and a Judge designated by the President Judge.
+(2) a. The “Superior Court” in each county, as defined under this subsection, shall be the “board of canvass” for the respective counties of this State.
+b. If a senatorial or representative district for the General Assembly is located in 2 or more counties, the Superior Court shall tabulate the votes cast under § 5715 of this title.
 Code 1852,
                 §
                402;
@@ -7530,25 +8016,26 @@ Code 1852,
                 §
                96
 ;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5702
 
-*Citation: Delaware Code, Title 15 — Elections, § 5702. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5702. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5702. Duties of Court.
-(a) Whenever the voting machine recording tapes, voting machine certificates, absentee vote tally sheets, write-in vote tally sheets and absentee ballot box for any election district are not produced when the Court convenes or whenever any voting machine is not available by 12:00 noon, the Court may issue summary process against the election officers of such election district or any other persons to bring such documents or objects forthwith into the Court or to make them available for inspection by the Court.
-(b) Whenever the documents produced do not agree or there is a complaint under oath of fraud or mistake in any such document, or if fraud, mistake or omission is apparent on the face of such document, the Court shall:
-(1) Open and examine the necessary voting machines and/or absentee ballot boxes;
-(2) Make a recount of the votes contained therein;
-(3) Correct any fraud, mistake or omission in any document or paper relating to the election.
+(a) If any of the material under § 5701(a)(3) of this title for any election district have not been produced when the Court convenes under § 5701(a)(1)a. of this title or if any voting device is not available by 12:00 noon, the Court may issue summary process against the election officers of that election district, or any other persons, to bring the documents or objects forthwith into the Court or to make them available for inspection by the Court.
+(b) Whenever the documents produced do not agree or there is a complaint under oath of fraud or mistake in any document, or if fraud, mistake, or omission is apparent on the face of a document, the Court shall do all of the following:
+(1) Examine any ballots as necessary.
+(2) Recount the votes contained in the voting material examined.
+(3) Correct any fraud, mistake, or omission in any document or paper relating to the election.
 (c) Any candidate for statewide office in a general election may apply to the Court for a recount of all the ballots cast and recorded for such office if the number of votes separating such candidate and the closest opposing candidate is less than 1,000 votes or less than one half of one percent of all votes cast for the two candidates, whichever amount is less. Such recount shall thereupon be conducted by the Court at state expense. The request for a recount under this subsection must be presented before the adjournment of the board of canvass for the election in question and any recount that takes place shall not extend beyond the petitioner’s contest.
-(d) The Court shall also receive from the Department a report of the number of absentee ballots delivered to each election district, from which it shall determine and make certain that all these ballots are recorded on the absentee vote tally sheets for each election district receiving absentee ballots, either in the total number of ballots counted or in the number of ballots rejected.
-(e) If the number of votes separating a candidate and the closest opposing candidate in an election for State Senator, State Representative, or county office is less than 1,000 votes or
-1
-/
-2
-of 1% of all votes cast for the 2 candidates, whichever is less, the Court shall recount the ballots cast in that election at state expense.
+(d) (1) The Department shall provide the Court with a report of the number of absentee ballots delivered to each election district.
+(2) The Court shall determine and make certain that all of the ballots in the report received under paragraph (d)(1) of this section are recorded on the absentee vote report for each election district receiving absentee ballots, either in the total number of ballots counted or in the number of ballots rejected.
+(e) If the number of votes separating a candidate and the closest opposing candidate in an election for State Senator, State Representative, or county office is less than 1,000 votes or 1/2 of 1% of all votes cast for the 2 candidates, whichever is less, the Court shall recount the ballots cast in that election at state expense.
 21 Del. Laws, c. 38,
                 §
                23
@@ -7590,14 +8077,18 @@ of 1% of all votes cast for the 2 candidates, whichever is less, the Court shall
                 §
               50
 ;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5703
 
-*Citation: Delaware Code, Title 15 — Elections, § 5703. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5703. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5703. Vote required for election.
-In all elections, unless it be otherwise expressly provided, a plurality or the highest number of votes shall make a choice, except where this principle is defeated by 2 or more persons having the same and the highest number of votes for the same office.
+In all elections, unless it is otherwise expressly provided, a plurality or the highest number of votes make a choice, except where this principle is defeated by 2 or more individuals receiving the same and the highest number of votes for the same office.
 Code 1852,
                 §
                300; 
@@ -7610,14 +8101,18 @@ Code 1852,
       15 Del. C. 1953,
                 §
                5703;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5704
 
-*Citation: Delaware Code, Title 15 — Elections, § 5704. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5704. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
-        5704. Votes for President and Vice-President as votes for their electors.
-The Court shall calculate the votes given for the candidates for President and Vice-President of a political party as votes given for each and all the electors of President and Vice-President of such party, the names of whom are on file with the State Election Commissioner and as certified to the Court by the State Election Commissioner, and the Court shall make its certificates accordingly in the form and manner provided by §§ 5705-5707 of this title.
+        5704. Votes for President and Vice President as votes for their electors.
+The Court shall calculate the votes given for the candidates for President and Vice President of a political party as votes cast for each and all the electors of President and Vice President of that party, the names of whom are on file with the State Election Commissioner and as certified to the Court by the State Election Commissioner, and the Court shall make its certificates accordingly, in the form and manner provided under §§ 5706 and § 5707 of this title.
 Code 1935,
                 §
                1814A;
@@ -7632,35 +8127,17 @@ Code 1935,
                 §
                20
 ;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5705
 
-*Citation: Delaware Code, Title 15 — Elections, § 5705. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5705. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
-        5705. Certificates of the results of the election; number required.
-(a) After the state of the election has been ascertained by calculating the votes, the Court shall make, under the seal of the Court, the certificates of the results of the election as provided in this section and §§ 5706 and 5707 of this title.
-(b) The number of such certificates to be prepared by the Court for each office shall be as follows:
-Electors for President and Vice-President of the United States, 3;
-Governor, 4;
-Lieutenant Governor, 4;
-Senator in the Senate of the United States, 2;
-Representative in the House of Representatives of the United States, 2;
-Attorney General, 4;
-Insurance Commissioner, 4;
-State Treasurer, 4;
-Auditor of Accounts, 4;
-Senator to the General Assembly, 2 for each Senator;
-Representative to the General Assembly, 2 for each Representative;
-Clerk of the Peace, 2;
-Register of Wills, 2;
-Recorder, 2;
-Levy Court Commissioner, 1 for each Commissioner;
-Receiver of Taxes and County Treasurer, 1;
-Sheriff, 2;
-County Executive of New Castle County, 1;
-County Council member of New Castle County, 1 for each Council member;
-County Council member of Sussex County, 1 for each Council member.
+        5705. Certificates of the results of the election; number required [Repealed].
 21 Del. Laws, c. 38,
                 §
                25
@@ -7694,68 +8171,31 @@ County Council member of Sussex County, 1 for each Council member.
                 §
               8
 ;
+repealed by 85 Del. Laws, c. 422, § 2, effective Aug. 17, 2026.
+;
 
 ## Delaware § 5706
 
-*Citation: Delaware Code, Title 15 — Elections, § 5706. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5706. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5706. Form of certificates.
-(a) The certificates of the Court of the results of the election in its county may be according to the following form:
+(a) The certificates of the Court of the results of the election in its county must be according to the following form or be substantially similar to the following form:
 The State of Delaware, ________________________________ County, ss.
-Be it Remembered, that at the general election held on the Tuesday next after the first Monday in November, in the year of our Lord Two Thousand and ________________ for ________________________________ County, according to the Constitution and laws of the State of Delaware (here insert, to wit: If the certificate be of an election of electors of President and Vice President, of Governor and Lieutenant Governor, of Senator in the Senate of the United States, of Representative in Congress, of Attorney General, of Insurance Commissioner, of State Treasurer, of Auditor of Accounts, the number in words at length of votes given for each person voted for, for such respective offices; if the certificate be of an election of Senator or Representative in the General Assembly, or, of clerk of the peace, of register of wills, of recorder, of Levy Court Commissioner or Commissioners, of receiver of taxes and county treasurer, of sheriff, of county executive, of county council member, the names of the persons elected), which is manifest by calculating and ascertaining the aggregate amount of all votes given for each person voted for in all the election districts of the county, according to the provisions made by law in this behalf.
+Be it Remembered, that at the general election held on the Tuesday next after the first Monday in November, in the year________________ for ________________________________ County, according to the Constitution and laws of the State of Delaware (here insert,  the information required under 15 Del. C. § 5706(b) for each office and the names of the individuals elected), which is manifest by tabulating of all votes cast for each individual voted for in all the election districts of the county.
 In testimony, whereof, we ________________________________ and ________________________________ constituting the Superior Court for ________________________________  
-                  ________________________________ County, who have met and ascertained the state of the election throughout the said County, as the law requires, have hereunto set our hands and caused the seal of the said Superior Court to be hereunto affixed at the Court House in said County, on this ________ day of November, A. D. ________
-(b) The manner of making the insertion may be as follows:
-In case of Electors of President and Vice President
-________ votes were given for ________________________________ for Elector
-________ votes were given for ________________________________ for Elector and so on, naming each person voted for.
-In case of Governor
-________ votes were given for ________________________________ for Governor
-________ votes were given for ________________________________ for Governor and so on, naming each person voted for.
-In case of Lieutenant Governor
-________ votes were given for ________________________________ for Lieutenant Governor
-________ votes were given for ________________________________ for Lieutenant Governor and so on, naming each person voted for.
-In case of Senator in the Senate of the United States
-________ votes were given for ________________________________ for United States Senator
-________ votes were given for ________________________________ for United States Senator and so on, naming each person voted for.
-In case of Representative to Congress
-________ votes were given for ________________________________ for Representative to Congress
-________ votes were given for ________________________________ for Representative to Congress and so on, naming each person voted for.
-In case of Attorney General
-________ votes were given for ________________________________ for Attorney General
-________ votes were given for ________________________________ for Attorney General and so on, naming each person voted for.
-In case of Insurance Commissioner
-________ votes were given for ________________________________ for Insurance Commissioner
-________ votes were given for ________________________________ for Insurance Commissioner and so on, naming each person voted for.
-In case of State Treasurer
-________ votes were given for ________________________________ for State Treasurer
-________ votes were given for ________________________________ for State Treasurer and so on, naming each person voted for.
-In case of Auditor of Accounts
-________ votes were given for ________________________________ for Auditor of Accounts
-________ votes were given for ________________________________ for Auditor of Accounts and so on, naming each person voted for.
-In case of Senators to General Assembly
-________ was duly elected Senator for the ________________________________ Senatorial District for said County in the General Assembly, (and so on, giving certificates for each Senator elected in the respective senatorial districts of the county) and was duly elected Senator for the ________________________________ Senatorial District for said County in lieu of ________________________________ late Senator for said Senatorial District of said County in the General Assembly (and so on, giving certificates for each Senator elected in lieu of any other Senator for any senatorial district for said county in the General Assembly).
-In case of Representatives to General Assembly
-________________________________ was duly elected Representative for the ________________________________ Representative District for said County in the General Assembly (and so on, giving certificates for each Representative elected in the respective representative districts of the County).
-In case of Clerk of the Peace
-________________________________ was duly elected Clerk of the Peace for ________________________________ County.
-In case of Register of Wills
-________________________________ was duly elected Register of Wills for ________________________________ County.
-In case of Recorder
-________________________________ was duly elected Recorder for ________________________________ County.
-In case of the County Executive for New Castle County
-________________________________ was duly elected County Executive for New Castle County.
-In case of County Council member for New Castle County
-________________________________ was duly elected County Council member for the ________________________________ Councilmemberic District in New Castle County; and so on, giving a certificate for each Council member elected in each Councilmemberic District in New Castle County.
-In case of County Councilmembers for Sussex County
-________________________________ was duly elected Council member for the ________________________________ Councilmemberic District in Sussex County; and so on, giving a certificate for each Council member elected in each Councilmemberic District in Sussex County.
-In case of Levy Court Commissioners for Kent County
-________________________________ was duly elected Levy Court Commissioner for ________________________________ District in said County (and so on, giving a certificate for each Levy Court Commissioner elected in each District in said County).
-In case of Receiver of Taxes and County Treasurer
-________________________________ was duly elected Receiver of Taxes and County Treasurer for ________________________________ County.
-In case of Sheriff
-________________________________ was duly elected Sheriff for ________________________________ County.
+                  ________________________________ County, who have met and certified the results of the election throughout this county, as the law requires, have hereunto set our hands and caused the seal of the said Superior Court to be hereunto affixed at the courthouse in this county, on this ________ day of November, ________
+(b) The manner of making the insertion under subsection (a) of this section is as follows:
+(1) If the certificate is of electors of President and Vice President, the number of votes cast for each Elector, as follows:
+________ votes cast for ________________________________ for Elector.
+(2) If the certificate is of an election of Governor, Lieutenant Governor, Senator in the Senate of the United States, Representative in Congress, Attorney General, Insurance Commissioner, State Treasurer, or Auditor of Accounts, the number of votes cast for each individual voted, for each office, as follows:
+________ votes were given for ________________________________ for (office)
+(3) If the certificate is of an election of Senators to the General Assembly, the name of each individual elected to the Senate, as follows:
+________ was duly elected Senator for the ________________________________ Senatorial District for said County in the General Assembly.
+(4) If the certificate is of an election of Representatives to General Assembly, the name of each individual elected to the House of Representatives, as follows:
+________ was duly elected Representative for the ________________________________ Representative District for County in the General Assembly.
+(5) a. If the certificate is of an election of a clerk of the peace, register of wills, recorder, county executive, county council member, Levy Court Commissioner, or sheriff, the name of individual elected to each office on the ballot for that election.
+b. The certificate of an election of a county council member or Levy Court Commissioner must include the district for the individual elected to each office.
 21 Del. Laws, c. 38,
                 §
                26
@@ -7801,14 +8241,19 @@ ________________________________ was duly elected Sheriff for __________________
                 §
               11
 ;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5707
 
-*Citation: Delaware Code, Title 15 — Elections, § 5707. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5707. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5707. Enclosing certificates in envelopes.
-The Court shall enclose and seal up each certificate separately in an envelope, with an endorsement thereon describing the certificate enclosed. Upon the paper enclosing the certificates of the election of Senator or Representative in the General Assembly the name of the person chosen shall be endorsed.
+(a) The Court shall enclose and seal up each certificate separately in an envelope, with an endorsement describing the certificate enclosed.
+(b) In the endorsement on an envelope enclosing the certificates of the election of Senator or Representative in the General Assembly, the Court shall include the name of the individual elected.
 21 Del. Laws, c. 38,
                 §
                25
@@ -7822,14 +8267,18 @@ The Court shall enclose and seal up each certificate separately in an envelope, 
       15 Del. C. 1953,
                 §
                5707;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5708
 
-*Citation: Delaware Code, Title 15 — Elections, § 5708. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5708. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5708. Tie vote; certificate.
-If, by reason of an equal number of votes having been cast for 2 or more persons for the office of Senator or Representative in the General Assembly, clerk of the peace, register of wills, recorder, levy court commissioner, receiver of taxes and county treasurer, sheriff, county executive or county council member, it appears to the Court that a vacancy will occur in the office, a certificate of such fact shall thereupon be made under the hands of the Court, and under its seal, which certificate shall be transmitted by the Court to the Governor, and such certificate shall be delivered as provided in § 5709 of this title.
+If, by reason of an equal number of votes having been cast for 2 or more individuals for an office, it appears to the Court that a vacancy will occur in that office, the Court shall create a certificate of this fact, under its seal, and deliver this certificate to the Governor under § 5709 of this title.
 21 Del. Laws, c. 38,
                 §
                27
@@ -7863,27 +8312,36 @@ If, by reason of an equal number of votes having been cast for 2 or more persons
                 §
               10
 ;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5709
 
-*Citation: Delaware Code, Title 15 — Elections, § 5709. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5709. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5709. Disposition of certificates by the Court.
-(a) The Court shall, within 3 days after making the certificates of the result of the election for electors of President and Vice-President, either personally or by a person deputed by it for that purpose:
-(1) Transmit, deliver and lodge the certificates of the result of the election for electors of President and Vice-President, 1 to the Governor, another to the Secretary of State, and the other to the Prothonotary of the county; and
-(2) Transmit, deliver and lodge the certificates of the result of the election for Governor, according to the directions of the Constitution in that behalf; and
-(3) Transmit, deliver and lodge 1 of the certificates of the result of the election for Lieutenant Governor to the President of the Senate, or in case of a vacancy in the office of President of the Senate, or the President of the Senate’s absence from the State, to the Secretary of State, who shall keep the same until a President of the Senate shall be chosen, to whom they shall be immediately transmitted after the President of the Senate’s election, who shall open and publish the same in the presence of the members of both Houses of the General Assembly, duplicates of which certificate shall also be immediately lodged with the Prothonotary of each county; and
-(4) Transmit, deliver and lodge 1 of each of the certificates of the result of the election for Senator, or Senators, from the State in the Senate of the United States, to the Governor, and lodge the other of such certificates in the office of the clerk of the peace of the county; and
-(5) Transmit, deliver and lodge 1 of each certificate of the result of the election for Representative, or Representatives, in the House of Representatives of the United States, to the Governor, and lodge the other certificate in the office of the clerk of the peace of the county; and
-(6) Transmit, deliver and lodge 1 certificate of the result of the election for Attorney General, for Insurance Commissioner, for State Treasurer and for Auditor of Accounts to the Governor and the other certificate in the office of the Prothonotary of the county; and
-(7) Transmit and deliver 1 certificate of the result of the election of Senator and 1 certificate of the election of Representative in the General Assembly, in the office of the Prothonotary for Kent County, and further shall deliver, on the first day of the meeting of the General Assembly after the election, the other certificate of the election of Senator to the Senate, and the other certificate of the election of Representatives to the House of Representatives; and
-(8) Transmit and deliver 1 certificate of the election of the clerk of the peace, of register of wills, of recorder, and of sheriff, to the Governor, and the other certificate to the clerk of the peace of the county, except the 1 for clerk of the peace, which shall be delivered to the Prothonotary; and
-(9) Transmit and deliver the certificate of the election of each Levy Court Commissioner or County Council member, in New Castle, Kent and Sussex Counties, to the clerk of the peace of the respective county; and
-(10) Deliver the certificate of election of the receiver of taxes and county treasurer to the clerk of the peace of the county; and
-(11) Send 1 for each of such officers to the sheriff of the county to be by that sheriff delivered to the respective parties certified to have been elected.
-(b) The Prothonotary of Kent County shall, on any day of the meeting of the General Assembly, deliver, if required, the certificates of election of Senators or of Representatives to the order of the House to which it belongs, or to the person named in the endorsement thereon.
-(c) In addition to making the disposition of the aforesaid certificates, the Court, within 3 days after making such certificates, shall, either personally or by a person designated by it for that purpose, transmit, deliver and lodge a duly executed copy of each of the aforesaid certificates with the State Election Commissioner who shall be the master repository of all such certificates.
+(a) The Court shall, within 3 days after making the certificates of the result of the election, transmit, deliver, and lodge 1 certificate of the result of the election with the State Election Commissioner and as follows:
+(1) For electors of President and Vice President, to the Governor, the Secretary of State, and the Prothonotary of the county.
+(2) a. For Governor or Lieutenant Governor, to the President of the Senate, or in case of a vacancy in the office of President of the Senate, or the President of the Senate’s absence from this State, to the Secretary of State.
+1. The Secretary of State shall keep the certificate until a President of the Senate is chosen or returns to this State.
+2. After the President of the Senate’s election or return to this State, the Secretary of State shall immediately transmit the certificate to the President of the Senate who shall open and publish the certificate in the presence of the members of both Houses of the General Assembly.
+b. The Court shall immediately lodge a copy of the certificate with the Prothonotary of each county when the certificate is delivered under paragraph (a)(2)a. of this section.
+(3) For Senator in the Senate of the United States, to the Governor, and the office of the clerk of the peace of the county.
+(4) For Representative in the House of Representatives of the United States, to the Governor, and the office of the clerk of the peace of the county.
+(5) For Attorney General, Insurance Commissioner, State Treasurer, or Auditor of Accounts, to the Governor and the office of the Prothonotary of the county.
+(6) For Senator or Representative in the General Assembly, to the office of the Prothonotary for Kent County.
+(7) a. For clerk of the peace, register of wills, recorder, or sheriff, to the Governor.
+b. For the register of wills, recorder, or sheriff, to the clerk of the peace and the sheriff of the county.
+c. For clerk of the peace, to the Prothonotary and the sheriff for the county.
+(8) For a Levy Court Commissioner or County Council member, to the clerk of the peace and the sheriff of the respective county.
+(b) (1) The first day of the meeting of the General Assembly after the election, the Prothonotary of Kent County shall deliver the certificates of election received under paragraph (a)(6) of this section as follows:
+a. For a Senator, to the Senate.
+b. For a Representative, to the House of Representatives.
+(2) The sheriff shall deliver each certificate of election received under paragraph (a)(7) or (a)(8) of this section to the individual certified as having been elected.
+(c) The State Election Commissioner is the master repository of all certificates under this section.
 21 Del. Laws, c. 38,
                 §
                28
@@ -7925,14 +8383,20 @@ If, by reason of an equal number of votes having been cast for 2 or more persons
                 §
               11
 ;
+85 Del. Laws, c. 422,
+                §
+              2
+;
 
 ## Delaware § 5710
 
-*Citation: Delaware Code, Title 15 — Elections, § 5710. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5710. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5710. Certification and proclamation by Governor of results of election of state officers.
-The Governor, after receiving the certificates of the results of the election in each county, under the seal of the Superior Court, for the office of Attorney General, Insurance Commissioner, State Treasurer and Auditor of Accounts, or any of whom shall have been voted for at the preceding general election, shall, without delay, examine the returns and declare the persons elected, and shall issue certificates of such election under the Governor’s own hand, and the same, together with the aforesaid certificates of the results of the election in each county, shall be filed in the office of the Secretary of State, and the Governor shall by proclamation make public the state of the vote by causing the same to be published in 1 or more of the public newspapers of the respective counties of this State, and shall issue commissions to the persons.
+(a) The Governor, after receiving the certificates of the results of the election in each county, for the office of Attorney General, Insurance Commissioner, State Treasurer, and Auditor of Accounts, shall examine the returns and declare each individual elected.
+(b) The Governor shall issue certificates of the election under the Governor’s own hand, and file the Governor’s certificates of the election with the certificates of the results of the election under subsection (a) of this section in the office of the Secretary of State.
+(c) The Governor shall by proclamation make public the results of the election by publishing the certificates issued under subsection (b) of this section in 1 or more of the newspapers published in thecounties of this State, and shall issue commissions to the individuals elected to office.
 21 Del. Laws, c. 38,
                 §
                32
@@ -7949,6 +8413,10 @@ The Governor, after receiving the certificates of the results of the election in
 70 Del. Laws, c. 186,
                 §
                1
+;
+85 Del. Laws, c. 422,
+                §
+              2
 ;
 
 ## Delaware § 5711
@@ -8018,11 +8486,13 @@ Code 1852,
 
 ## Delaware § 5712
 
-*Citation: Delaware Code, Title 15 — Elections, § 5712. Last changed: 2026-08-06. Source: https://delcode.delaware.gov/title15/c057/index.html*
+*Citation: Delaware Code, Title 15 — Elections, § 5712. Last changed: 2026-09-09. Source: https://delcode.delaware.gov/title15/c057/index.html*
 
 §
         5712. Representative in the Congress of the United States; announcement and certification of election.
-The Governor, after receiving the certificates, under the seal of the Superior Court, of the results of the election in each county for Representative in the Congress of the United States, shall without delay examine such certificates and declare the person elected, and shall issue certificates of such election, 1 of which the Governor shall transmit to the Secretary of State of the United States, and 1 to the person elected, under the Governor’s own hand and the Great Seal of the State. The certificates of the result of the election in each county shall be filed in the office of the Secretary of State. The Governor shall by proclamation make public the state of the vote by causing the same to be published in 1 or more of the public newspapers of this State.
+(a) The Governor, after receiving the certificates of the results of the election in each county for Representative in the Congress of the United States, shall without delay examine these certificates and declare the individual elected, and shall issue certificates of the election, 1 of which the Governor shall transmit to the Secretary of State of the United States, and 1 to the individual elected, under the Governor’s own hand and the Great Seal of the State.
+(b) The Governor shall file the certificates of the result of the election in each county under subsection (a) of this section in the office of the Secretary of State.
+(c) The Governor shall by proclamation make public the state of the vote by publishing the certificates of the results in 1 or more of the public newspapers of this State.
 Code 1852,
                 §
                414; 
@@ -8038,6 +8508,10 @@ Code 1852,
 70 Del. Laws, c. 186,
                 §
                1
+;
+85 Del. Laws, c. 422,
+                §
+              2
 ;
 
 ## Delaware § 5713

@@ -5,7 +5,7 @@ Sections: 1
 
 ## Utah § C20A_1800010118000101.pdf
 
-*Citation: Utah Code, Title 20A — Election Code, § C20A_1800010118000101.pdf. Last changed: 2026-08-06. Source: https://le.utah.gov/xcode/Title20a/C20A_1800010118000101.pdf*
+*Citation: Utah Code, Title 20A — Election Code, § C20A_1800010118000101.pdf. Last changed: 2026-09-09. Source: https://le.utah.gov/xcode/Title20a/C20A_1800010118000101.pdf*
 
 Utah Code
 Page 1
@@ -3269,19 +3269,19 @@ Enacted by Chapter 293, 2026 General Session
 20A-1-1006 Signing a petition -- Waiver of privacy status by at-risk voter.
 (1) As used in this section, "at-risk voter" means the same as that term is defined in Section
 20A-2-601.
-(2) Subject to Subsection (3), if an at-risk voter signs a petition, the voter's voter identification
-number and date of signature are subject to disclosure to the same extent, and in the same
-manner, as the voter identification number and date of signature of a voter who is not an at-risk
-voter who signs the petition.
+(2) Subject to Subsection 20A-1-1006(3), if an at-risk voter signs a petition, the voter's voter
+identification number and date of signature are subject to disclosure to the same extent, and in
+the same manner, as the voter identification number and date of signature of a voter who is not
+an at-risk voter who signs the petition.
 (3)
-(a) Subsection (2) applies only to the extent of a disclosure made in direct relation to the petition,
-including:
+(a) Subsection 20A-1-1006(2) applies only to the extent of a disclosure made in direct relation to
+the petition, including:
 (i) disclosing the voter identification number and date of signature of an at-risk voter who signed
 the petition;
 (ii) signature verification or certification for the petition; or
 (iii) removing a signature from the petition.
-(b) Except to the extent described in Subsection (3)(a), the voter registration record of an at-risk
-voter retains the classification as a private record.
+(b) Except to the extent described in Subsection 20A-1-1006(3)(a), the voter registration record
+of an at-risk voter retains the classification as a private record.
 Enacted by Chapter 102, 2026 General Session
 Chapter 2
 Voter Registration
@@ -15734,14 +15734,6 @@ is not required, but it may be used to verify your identity with voter registrat
 you choose not to provide it, your signature may not be certified as a valid signature if you
 change your address before petition signatures are certified or if the information you provide
 does not match your voter registration records.";
-         
-         
-         
-         
-         
-         
-         
-                                                           
 (g) have a final page bound to one or more signature sheets that contains the circulator
 verification sheet described in Subsection 20A-1-1004(1); and
 (h) be bound to a cover sheet that:
@@ -15761,8 +15753,6 @@ verification.
 (6) The lieutenant governor shall:
 (a) use the procedures described in Section 20A-1-1002 to determine whether a signer is a
 registered voter;
-Utah Code
-Page 337
 (b) review the proposed name and emblem to determine if they are "distinguishable" from the
 names and emblems of other registered political parties; and
 (c) certify the lieutenant governor's findings to the filing officer described in Subsection (3)(h)(iii)
@@ -15771,6 +15761,8 @@ Subsection (2)(b).
 (7)
 (a) If the lieutenant governor determines that the petition meets the requirements of this section,
 and that the proposed name and emblem are distinguishable, the lieutenant governor shall
+Utah Code
+Page 337
 authorize the filing officer described in Subsection (3)(h)(iii) to organize the prospective
 political party.
 (b) If the lieutenant governor finds that the name, emblem, or both are not distinguishable from
@@ -15808,8 +15800,6 @@ Amended by Chapter 102, 2026 General Session
 (1) Before 5 p.m. no later than March 1 of the regular general election year, the prospective
 political  party's officers or governing board shall file the names of the  party officers or
 governing board with the lieutenant governor.
-Utah Code
-Page 338
 (2) After reviewing the information and determining that all proper procedures have been
 completed, the lieutenant governor shall:
 (a) issue a certificate naming the organization as a registered political party in Utah and
@@ -15819,6 +15809,8 @@ designating its official name; and
 organization as a registered political party.
 (4) The newly registered political party shall comply with all the provisions of Utah law governing
 political parties.
+Utah Code
+Page 338
 (5)
 (a) If the newly registered political party does not hold a national party convention, the governing
 board of the political party may designate the names of the party's candidates for the offices
@@ -15852,8 +15844,6 @@ county;
 (iii) a description of the requirements for participation in party processes;
 (iv) the dates, times, and quorum of any regularly scheduled party meetings, conventions, or
 other conclaves; and
-Utah Code
-Page 339
 (v) a mechanism for making the names of delegates, candidates, and elected party officers
 available to the public shortly after they are selected;
 (b) a procedure for selecting party officers that allows active participation by party members;
@@ -15864,6 +15854,8 @@ active participation by party members;
 for the party's candidates for president and vice president of the United States; and
 (ii) a procedure for filling vacancies in the office of presidential elector because of death, refusal
 to act, failure to attend, ineligibility, or any other cause;
+Utah Code
+Page 339
 (e) a procedure for filling vacancies in the office of representative or senator or a county office, as
 described in Section 20A-1-508, because of death, resignation, or ineligibility;
 (f) a provision requiring the governor and lieutenant governor to run as a joint ticket;
@@ -15900,8 +15892,6 @@ Amended by Chapter 448, 2025 General Session
 governor.
 (1) Each state political party shall:
 (a) designate a party officer to act as liaison with:
-Utah Code
-Page 340
 (i) the lieutenant governor's office; and
 (ii) each county legislative body; and
 (b) no later than 5 p.m. on the first business day that is at least seven calendar days after the day
@@ -15911,6 +15901,8 @@ the lieutenant governor.
 (a) submit the name, address, and phone number of each officer to the lieutenant governor
 no later than 5 p.m. on the first business day that is at least seven calendar days after the
 officers are selected; and
+Utah Code
+Page 340
 (b) no later than 5 p.m. on the first business day that is at least seven calendar days after the day
 on which the party makes a change in party officers, submit the name, address, and phone
 number of each new officer to the lieutenant governor.
@@ -15942,8 +15934,6 @@ Enacted by Chapter 90, 2025 General Session
 governor, the registered political party has met that requirement if the information is signed by the
 registered political party's designated liaison or the registered political party's chair.
 Enacted by Chapter 182, 1997 General Session
-Utah Code
-Page 341
 20A-8-404 Use of public meeting buildings by political parties.
 (1) The legislative body of a county, municipality, school district, or an institution of higher
 education shall make all meeting facilities in buildings under its control available to registered
@@ -15953,6 +15943,8 @@ business day that is at least 30 calendar days before the day on which the use b
 party will take place; and
 (b) the meeting facility is not already scheduled for another purpose at the time of the proposed
 use.
+Utah Code
+Page 341
 (2) Subject to the requirements of Subsection (3), when a legislative body makes a meeting facility
 available under Subsection (1), it may establish terms and conditions for use of that meeting
 facility.
@@ -15985,8 +15977,6 @@ constitutional office, multicounty office, or county office.
 (iv) municipal or special district offices.
 (2) "Continuing political party" means the same as that term is defined in Section 20A-8-101.
 (3)
-Utah Code
-Page 342
 (a) "County office" means an elective office where the officeholder is selected by voters entirely
 within one county.
 (b) "County office" does not mean:
@@ -15996,6 +15986,8 @@ within one county.
 (iv) any municipal or special district offices; and
 (v) the office of United States Senator and United States Representative.
 (4) "Electronic candidate qualification process" means:
+Utah Code
+Page 342
 (a) as it relates to a registered political party that is not a qualified political party, the process
 for gathering signatures electronically to seek the nomination of a registered political party,
 described in:
@@ -16035,8 +16027,6 @@ from more than one county.
 (iv) the office of presidential elector;
 (v) any political party offices; or
 (vi) any municipal or special district offices.
-Utah Code
-Page 343
 (10) "Municipal office" means an elective office in a municipality.
 (11)
 (a) "Political division" means a geographic unit from which an officeholder is elected and that an
@@ -16045,6 +16035,8 @@ officeholder represents.
 legislative district, and a county prosecution district.
 (12) "Qualified political party" means a registered political party that:
 (a)
+Utah Code
+Page 343
 (i) permits a delegate for the registered political party to vote on a candidate nomination in the
 registered political party's convention remotely; or
 (ii) provides a procedure for designating an alternate delegate if a delegate is not present at the
@@ -16081,8 +16073,6 @@ general, state auditor, and state treasurer.
 Amended by Chapter 329, 2026 General Session
 Part 2
 Candidate Qualifications and Declarations of Candidacy
-Utah Code
-Page 344
 20A-9-201 Declarations of candidacy -- Candidacy for more than one office or of more than
 one political party prohibited with exceptions -- General filing and form requirements --
 Affidavit of impecuniosity.
@@ -16090,6 +16080,8 @@ Affidavit of impecuniosity.
 (a) be a United States citizen;
 (b) meet the legal requirements of that office; and
 (c) if seeking a registered political party's nomination as a candidate for elective office, state:
+Utah Code
+Page 344
 (i) the registered political party of which the individual is a member; or
 (ii) that the individual is not a member of a registered political party.
 (2)
@@ -16128,8 +16120,6 @@ officer may accept any declaration of candidacy, the filing officer shall:
 that the individual is seeking;
 (ii) require the individual to state whether the individual meets the requirements described in
 Subsection (3)(a)(i);
-Utah Code
-Page 345
 (iii) if the declaration of candidacy is for a county office, inform the individual that an individual
 who holds a county elected office may not, at the same time, hold a municipal elected office;
 and
@@ -16140,6 +16130,8 @@ trust, under authority of the United States or Utah, from being a member of the 
 (i) Before accepting a declaration of candidacy for the office of county attorney, the county clerk
 shall ensure that the individual filing that declaration of candidacy is:
 (A) a United States citizen;
+Utah Code
+Page 345
 (B) an attorney licensed to practice law in the state who is an active member in good standing
 of the Utah State Bar;
 (C) a registered voter in the county in which the individual is seeking office; and
@@ -16178,8 +16170,6 @@ with the individual's declaration:
 standing;
 (B) proof of the individual's application with the Utah State Bar, with an affidavit describing the
 status of the individual's application; or
-Utah Code
-Page 346
 (C) an affidavit describing how the individual intends to comply with the requirements for
 office of district attorney described in Subsection (3)(c)(i), before taking office.
 (iii) In addition to the requirements described in Subsection (3)(c)(ii), an individual shall also
@@ -16190,6 +16180,8 @@ provide the filing officer with the individual's license number with:
 shall ensure that the individual filing the declaration:
 (i) is a United States citizen;
 (ii) is a registered voter in the county in which the individual seeks office;
+Utah Code
+Page 346
 (iii)
 (A) has successfully met the standards and training requirements established for law
 enforcement officers under Title 53, Chapter 6, Part 2, Peace Officer Training and
@@ -16227,8 +16219,6 @@ Subsection (3), the filing officer shall:
 (a) inform the individual that:
 (i) subject to Section 20A-6-109, the individual's name will appear on the ballot as the
 individual's name is written on the individual's declaration of candidacy;
-Utah Code
-Page 347
 (ii) the individual may be required to comply with state or local campaign finance disclosure
 laws; and
 (iii) the individual is required to file a financial statement before the individual's political
@@ -16240,6 +16230,8 @@ convention under:
 financial disclosure laws for the office the individual is seeking and inform the individual that
 failure to comply will result in disqualification as a candidate and removal of the individual's
 name from the ballot;
+Utah Code
+Page 347
 (c)
 (i) provide the individual with a copy of Section 20A-7-801 regarding the Statewide Electronic
 Voter Information Website Program and inform the individual of the submission deadline
@@ -16277,8 +16269,6 @@ _____________ in the City or Town of ____, Utah, Zip Code ____ Phone No. ____; I
 not knowingly violate any law governing campaigns and elections; if filing via a designated
 agent, I will be out of the state of Utah during the entire candidate filing period; I will file all
 campaign financial disclosure reports as required by law; and I understand that failure to
-Utah Code
-Page 348
 do so will result in my disqualification as a candidate for this office and removal of my name
 from the ballot.  The mailing address that I designate for receiving official election notices is
 ___________________________.
@@ -16290,6 +16280,8 @@ Notary Public (or other officer qualified to administer oath)."; and
 (ii) require the candidate to state, in the sworn statement described in Subsection (7)(a)(i):
 (A) the registered political party of which the candidate is a member; or
 (B) that the candidate is not a member of a registered political party.
+Utah Code
+Page 348
 (b) An agent designated under Subsection 20A-9-202(1)(b) to file a declaration of candidacy may
 not sign the form described in Subsection (7)(a) or Section 20A-9-408.5.
 (8)
@@ -16327,8 +16319,6 @@ offense under this title for the purposes of assessing the penalties provided in
 (iv) The filing officer shall ensure that the affidavit of impecuniosity is printed in substantially the
 following form:
           "Affidavit of Impecuniosity
-Utah Code
-Page 349
 Individual Name
 ____________________________Address_____________________________
 Phone Number _________________
@@ -16340,6 +16330,8 @@ Signature________________________________________________ Affiant
 Subscribed and sworn to before me on ___________ (month\day\year)
          
  
+Utah Code
+Page 349
 ______________________
          
  
@@ -16373,8 +16365,6 @@ United States representative:
 Amended by Chapter 329, 2026 General Session
 20A-9-202 Declarations of candidacy for regular general elections.
 (1)
-Utah Code
-Page 350
 (a) An individual seeking to become a candidate for an elective office that is to be filled at the
 next regular general election shall:
 (i) except as otherwise provided in Subsection (1)(b), Part 5, Candidates Not Affiliated with a
@@ -16386,6 +16376,8 @@ the individual circulates nomination petitions under Section 20A-9-405; and
 declaration of candidacy with the filing officer if:
 (i) the individual is located outside of the state during the entire filing period;
 (ii) the designated agent appears in person before the filing officer;
+Utah Code
+Page 350
 (iii) the individual communicates with the filing officer using an electronic device that allows the
 individual and filing officer to see and hear each other; and
 (iv) the individual provides the filing officer with an email address to which the filing officer may
@@ -16422,8 +16414,6 @@ joint-ticket running mate.
 (ii) If a candidate for lieutenant governor is disqualified, another candidate may file to replace
 the disqualified candidate.
 (4) Before 5 p.m. no later than the last business day in August, each registered political party shall:
-Utah Code
-Page 351
 (a) certify the names of the political party's candidates for president and vice president of the
 United States to the lieutenant governor; or
 (b) provide written authorization for the lieutenant governor to accept the certification of
@@ -16436,6 +16426,8 @@ least 10 calendar days before the deadline described in Subsection 20A-9-409(4)(
 (b) If an objection is made, the clerk or lieutenant governor shall:
 (i) mail or personally deliver notice of the objection to the affected candidate immediately; and
 (ii) decide the objection within three business days after the day on which the objection is filed.
+Utah Code
+Page 351
 (c) If the clerk or lieutenant governor sustains the objection, the candidate may cure the problem
 by:
 (i)  amending the declaration or petition no later than 5 p.m. on the first business day that is at
@@ -16472,8 +16464,6 @@ names the individual as a joint-ticket running mate as a vice presidential candi
 candidacy.
 (c) A vice presidential candidate who fails to meet the requirements described in this Subsection
 (7) may not appear on the general election ballot.
-Utah Code
-Page 352
 (8) An individual filing a declaration of candidacy for president or vice president of the United
 States shall pay a filing fee of $500.
 Amended by Chapter 329, 2026 General Session
@@ -16484,6 +16474,8 @@ States from a Utah registered political party.
 (b) "Utah registered political party" means a political party that has complied with the
 requirements of Chapter 8, Political Party Formation and Procedures, to become a political
 party officially recognized by the state.
+Utah Code
+Page 352
 (2) Each presidential candidate, or the candidate's designated agent, shall file a declaration of
 candidacy with the lieutenant governor as provided in Section 20A-9-803, for participation in the
 presidential primary election.
@@ -16518,8 +16510,6 @@ a declaration of candidacy, in person with the city recorder or town clerk, duri
 filing period described in Subsection (3)(d) and the office hours described in Subsection
 10-3-301(3); and
 (ii) pay the filing fee, if one is required by municipal ordinance.
-Utah Code
-Page 353
 (b) Subject to Subsection (5)(b), an individual may designate an agent to file a declaration of
 candidacy with the city recorder or town clerk if:
 (i) the individual is located outside of the state during the entire filing period;
@@ -16532,6 +16522,8 @@ recorder or town clerk may send the individual the copies described in Subsectio
 (i) filing a nomination petition with the city recorder or town clerk during the filing period
 described in Subsection (3)(d) and the office hours described in Subsection 10-3-301(3) that
 includes signatures in support of the nomination petition of the lesser of at least:
+Utah Code
+Page 353
 (A) 25 registered voters who reside in the municipality; or
 (B) 20% of the registered voters who reside in the municipality; and
 (ii) paying the filing fee, if one is required by municipal ordinance.
@@ -16567,8 +16559,6 @@ under Subsection 20A-7-801(4)(a);
 (iv) inform the candidate that the candidate must provide the filing officer with an email address
 that the candidate actively monitors:
 (A) to receive a communication from a filing officer or an election officer; and
-Utah Code
-Page 354
 (B) if the candidate wishes to display a candidate profile on the Statewide Electronic Voter
 Information Website, to submit to the website the biographical and other information
 described in Subsection 20A-7-801(4)(a)(ii);
@@ -16582,6 +16572,8 @@ Section 20A-9-206 and inform the candidate that:
 (viii) accept the declaration of candidacy or nomination petition.
 (d) If the candidate elects to sign the pledge of fair campaign practices, the filing officer shall:
 (i) accept the candidate's pledge; and
+Utah Code
+Page 354
 (ii) if the candidate has filed for a partisan office, provide a certified copy of the candidate's
 pledge to the chair of the county or state political party of which the candidate is a member.
 (5)
@@ -16617,8 +16609,6 @@ the two-year or four-year term, the clerk shall consider the nomination to be fo
 term.
 (7)
 (a) The clerk shall verify with the county clerk that all candidates are registered voters.
-Utah Code
-Page 355
 (b) With the assistance of the county clerk, and using the procedures described in Section
 20A-1-1002, the municipal clerk shall determine whether the required number of signatures of
 registered voters appears on a nomination petition.
@@ -16630,6 +16620,8 @@ days; and
 (9) Except as provided in Subsection (10)(c), an individual may not amend a declaration of
 candidacy or nomination petition filed under this section after the candidate filing period ends.
 (10)
+Utah Code
+Page 355
 (a) A declaration of candidacy or nomination petition that an individual files under this section is
 valid unless a person files a written objection with the clerk no later than 5 p.m. on the first
 business day that is at least 10 calendar days after the last day for filing.
@@ -16665,8 +16657,6 @@ Amended by Chapter 102, 2026 General Session
 the clerk accepts a declaration of candidacy, post the following information on the website of the
 county or municipality:
 (1) the name and campaign contact information of the candidate; and
-Utah Code
-Page 356
 (2) the office that the candidate is seeking.
 Enacted by Chapter 48, 2016 General Session
 20A-9-204 Inducements not to become candidate.
@@ -16676,6 +16666,8 @@ manner or form for the purpose of inducing that other person to be, or to refrai
 being, a candidate.
 (b) It is unlawful for any person to solicit any payment, promise, or reward from another for the
 purpose of inducing that other person to be, or to refrain from or cease being, a candidate.
+Utah Code
+Page 356
 (2) Any person who violates this section is guilty of a class B misdemeanor.
 Enacted by Chapter 1, 1994 General Session
 20A-9-206 Fair campaign practices -- Voluntary pledge -- Pledge is a public record --
@@ -16710,8 +16702,6 @@ group which resorts, on behalf of my candidacy or in opposition to that of an op
 methods in violation of the letter or spirit of this pledge.  I shall accept responsibility to take firm
 action against any subordinate who violates any provision of this pledge or the laws governing
 elections.
-Utah Code
-Page 357
           I SHALL defend and uphold the right of every qualified American voter to full and equal
 participation in the electoral process.
           I, the undersigned, candidate for election to public office in the State of Utah, hereby
@@ -16724,6 +16714,8 @@ persons filing a declaration of candidacy.
 (4) A pledge that is submitted for filing by a candidate is a public record under Title 63G, Chapter 2,
 Government Records Access and Management Act.
 (5) The filing officer shall:
+Utah Code
+Page 357
 (a) accept all signed pledges that are submitted for filing; and
 (b) retain each filed pledge for public inspection for 30 calendar days after the election.
 (6) A candidate may not be required to subscribe to, endorse, or sign the pledge of fair campaign
@@ -16758,14 +16750,14 @@ the earlier of:
 (a) the next day on which the election officer mails ballots in accordance with Section
 20A-3a-202; or
 (b) two business days before the date of the election.
-Utah Code
-Page 358
 Amended by Chapter 448, 2025 General Session
 Part 4
 Primary Elections
 20A-9-401 Primary elections.
 (1) This part shall be construed liberally so as to ensure full opportunity for persons to become
 candidates and for voters to express their choice.
+Utah Code
+Page 358
 (2) This part may not be construed to govern or regulate the internal procedures of a registered
 political party.
 Enacted by Chapter 1, 1994 General Session
@@ -16796,8 +16788,6 @@ prescribed in this section.  The regular primary election is held on the date sp
 Section 20A-1-201.5.  Nothing in this section shall affect a candidate's ability to qualify for a
 regular general election's ballot as an unaffiliated candidate under Section 20A-9-501 or to
 participate in a regular general election as a write-in candidate under Section 20A-9-601.
-Utah Code
-Page 359
 (b) Each registered political party that chooses to have the names of the registered political
 party's candidates for elective office featured with party affiliation on the ballot at a regular
 general election shall comply with the requirements of this section and shall nominate the
@@ -16810,6 +16800,8 @@ this section or in Subsection 20A-9-202(4).
 (d) Unless noted otherwise, the dates in this section refer to those that occur in each even-
 numbered year in which a regular general election will be held.
 (2)
+Utah Code
+Page 359
 (a) Each registered political party, in a statement filed with the lieutenant governor, shall:
 (i) either declare the registered political party's intent to participate in the next regular primary
 election or declare that the registered political party chooses not to have the names of the
@@ -16846,8 +16838,6 @@ deadline.
 20A-9-408.3, verify signatures on nomination petitions in a transparent and orderly manner,
 no later than 14 calendar days after the day on which a candidate submits the signatures to
 the filing officer;
-Utah Code
-Page 360
 (ii) for all qualifying candidates for elective office who submit nomination petitions to the filing
 officer, issue certifications referenced in Subsection (3)(a) no later than the deadline
 described in Subsection 20A-9-201.5(2);
@@ -16860,6 +16850,8 @@ and
 clerk as applicable, use the procedures described in Section 20A-1-1002 to verify submitted
 nomination petition signatures, or use statistical sampling procedures to verify submitted
 nomination petition signatures in accordance with rules made under Subsection (3)(e).
+Utah Code
+Page 360
 (d) Notwithstanding any other provision in this Subsection (3), a candidate for lieutenant governor
 may appear on the regular primary ballot of a registered political party without submitting
 nomination petitions if the candidate files a declaration of candidacy and complies with
@@ -16895,8 +16887,6 @@ elective office; or
 candidates who receive certification under Subsection (3) for the regular primary election
 of the candidate's registered political party does not exceed the total number of candidates
 to be elected or nominated for that office.
-Utah Code
-Page 361
 (ii) A candidate who is unopposed for an elective office in the regular primary election of a
 registered political party is nominated by the party for that office without appearing on the
 primary election ballot.
@@ -16908,6 +16898,8 @@ in the same manner as for the regular general elections.
 the individual is not a member, except to the extent that the registered political party permits
 otherwise under the registered political party's bylaws.
 Amended by Chapter 329, 2026 General Session
+Utah Code
+Page 361
 20A-9-404 Municipal primary elections.
 (1)
 (a) Candidates for municipal office in all municipalities shall be nominated at a municipal primary
@@ -16942,8 +16934,6 @@ nomination of a different convention or committee.
 and may not group the same candidates on different tickets by the same party under a
 different name or emblem.
 (d)
-Utah Code
-Page 362
 (i) On or before May 31 of an odd-numbered year, a convention or committee shall prepare and
 submit to the filing officer a certificate of nomination for each individual nominated.
 (ii) The certificate of nomination shall:
@@ -16957,6 +16947,8 @@ make the nomination;
 (D) contain a statement certifying that the name of the candidate nominated by the political
 party will not appear on the ballot as a candidate for any other political party;
 (E) be signed by the presiding officer and secretary of the convention or committee; and
+Utah Code
+Page 362
 (F) contain a statement identifying the residence and post office address of the presiding
 officer and secretary and certifying that the presiding officer and secretary were officers
 of the convention or committee and that the certificates are true to the best of their
@@ -16992,8 +16984,6 @@ before the day on which the municipal party holds a convention to nominate a can
 under this Subsection (4);
 (C) is substantially similar to the form of the signature sheets described in Section 20A-7-303;
 (D) contains the name of the municipal political party using not more than five words; and
-Utah Code
-Page 363
 (E) includes the following statement on the first page of the petition in at least the same size
 type as the majority of the other statements on the page:
 "WARNING TO SIGNERS WITH PRIVATE VOTER REGISTRATION RECORDS
@@ -17007,6 +16997,8 @@ registered voter who is qualified to sign the petition.
 (i) If the number of candidates for a particular office does not exceed twice the number of
 offices to be filled at the regular municipal election, no primary election for that office shall
 be held and the candidates are considered to be nominated.
+Utah Code
+Page 363
 (ii) If the number of candidates for a particular office exceeds twice the number of offices to
 be filled at the regular municipal election, those candidates for municipal office shall be
 nominated at a municipal primary election.
@@ -17039,8 +17031,6 @@ substantially the following form:
 (a) the petition shall be printed on paper 8.5 inches long and 11 inches wide;
 (b) the petition shall be ruled with a horizontal line .75 inches from the top, with the space above
 that line blank for purposes of binding;
-Utah Code
-Page 364
 (c) the petition shall be headed by a caption stating the purpose of the petition and the name of
 the proposed candidate;
 (d) the petition shall feature the following statement in no less than eight-point, single leaded
@@ -17055,6 +17045,8 @@ publicly disclosed. This disclosure may occur even if you are an at-risk voter w
 registration record that has been classified as a private record.";
 (e) the petition shall feature 10 lines spaced .5 inches apart and consecutively numbered one
 through 10;
+Utah Code
+Page 364
 (f) the signature portion of the petition shall be divided into columns headed by the following
 titles:
 (i) Registered Voter's Printed Name;
@@ -17089,8 +17081,6 @@ verification sheet described in Subsection 20A-1-1004(1).
 (6) The lieutenant governor shall prepare and make public model nomination petition forms and
 associated instructions.
 (7) A nomination petition circulator:
-Utah Code
-Page 365
 (a) must be at least 18 years old; and
 (b) may affiliate with any political party.
 (8) It is unlawful for any person to:
@@ -17105,6 +17095,8 @@ petition; or
 vote in this state;
 (c) pay any person to sign a nomination petition; or
 (d) pay any person to circulate a nomination petition unless the payment is based on:
+Utah Code
+Page 365
 (i) an hourly rate; or
 (ii) a rate per valid signature.
 (9) Any person violating Subsection (8) is guilty of a class A misdemeanor.
@@ -17137,8 +17129,6 @@ and 20A-9-409;
 that a ballot described in Section 20A-6-301 includes each individual nominated by a qualified
 political party:
 (a) under the qualified political party's name, if any; or
-Utah Code
-Page 366
 (b) under the title of the qualified registered political party as designated by the qualified political
 party in the certification described in Subsection (1), or, if none is designated, then under
 some suitable title;
@@ -17152,6 +17142,8 @@ adjacent to the candidate's name on a mechanical ballot;
 individual who files a declaration of candidacy under Section 20A-9-407 or 20A-9-408 to run in
 a regular general election for a federal office, statewide constitutional office, multicounty office,
 or county office;
+Utah Code
+Page 366
 (9) an individual who is nominated by, or seeking the nomination of, the qualified political party is
 not required to comply with Subsection 20A-9-201(1)(c);
 (10) notwithstanding Subsection 20A-9-403(3), the qualified political party is entitled to have each
@@ -17185,8 +17177,6 @@ political party's convention process.
 member of a qualified political party who is nominated by, or who is seeking the nomination
 of, the qualified political party under this section shall be substantially as described in Section
 20A-9-408.5.
-Utah Code
-Page 367
 (3) Notwithstanding Subsection 20A-9-202(1)(a), and except as provided in Subsection
 20A-9-202(4), a member of a qualified political party who, under this section, is seeking the
 nomination of the qualified political party for an elective office that is to be filled at the next
@@ -17199,6 +17189,8 @@ Section 20A-9-201.5; and
 this section, is seeking the nomination of the qualified political party for the office of district
 attorney within a multicounty prosecution district that is to be filled at the next general election,
 shall:
+Utah Code
+Page 367
 (a) file a declaration of candidacy with the county clerk designated in the interlocal agreement
 creating the prosecution district during the applicable declaration of candidacy filing period
 described in Section 20A-9-201.5; and
@@ -17232,8 +17224,6 @@ of, the qualified political party under this section shall be substantially as d
 20A-9-408.5.
 (3) Notwithstanding Subsection 20A-9-202(1)(a), and except as provided in Subsection
 20A-9-202(4), a member of a qualified political party who, under this section, is seeking the
-Utah Code
-Page 368
 nomination of the qualified political party for an elective office that is to be filled at the next
 general election shall:
 (a) except to the extent otherwise provided in Subsection (13)(a), during the applicable
@@ -17246,6 +17236,8 @@ party under this section;
 (iii) the office for which the member is seeking to become a candidate;
 (iv) the address and telephone number of the member; and
 (v) other information required by the lieutenant governor;
+Utah Code
+Page 368
 (b) except as provided in Subsection 20A-9-202(1)(b), file a declaration of candidacy, in person,
 with the filing officer during the applicable declaration of candidacy filing period described in
 Section 20A-9-201.5; and
@@ -17281,8 +17273,6 @@ nominated by a qualified political party under this section.
 (b) A county clerk shall ensure that the information published by the county clerk under Section
 20A-5a-210 also includes the name of each candidate nominated by a qualified political party
 under this section.
-Utah Code
-Page 369
 (7) Notwithstanding Subsection 20A-5a-209(3), the ballot shall, for each candidate who is
 nominated by a qualified political party under this section, designate the qualified political party
 that nominated the candidate.
@@ -17296,6 +17286,8 @@ Subsection (12), in the following amounts:
 (i) for a statewide race, 28,000 signatures of registered voters in the state who are permitted by
 the qualified political party to vote for the qualified political party's candidates in a primary
 election;
+Utah Code
+Page 369
 (ii) except as provided in Subsection (13)(b), for a congressional district race, 7,000 signatures
 of registered voters who are residents of the congressional district and are permitted by
 the qualified political party to vote for the qualified political party's candidates in a primary
@@ -17330,8 +17322,6 @@ accordance with Section 20A-9-408.3, the election officer shall, no later than t
 calendar days after the day on which the election officer receives the signatures, or one day
 before the day on which the qualified political party holds the convention to select a nominee
 for the elective office to which the signature packets relate:
-Utah Code
-Page 370
 (i) check the name of each individual who completes the verification for a signature packet to
 determine whether each individual is at least 18 years old;
 (ii) submit the name of each individual described in Subsection (9)(c)(i) who is not at least 18
@@ -17345,6 +17335,8 @@ packet.
 (i) A registered voter who physically signs a form under Subsections (8) and (9)(b) may have
 the voter's signature removed from the form by, no later than 5 p.m. three business days
 after the day on which the member submits the signature form to the election officer,
+Utah Code
+Page 370
 submitting to the election officer a statement requesting that the voter's signature be
 removed.
 (ii) A statement described in Subsection (9)(d)(i) shall comply with the requirements described
@@ -17379,8 +17371,6 @@ until the election officer either:
 110% of the applicable signature threshold.
 (10)
 (a) This Subsection (10) applies only to the electronic candidate qualification process.
-Utah Code
-Page 371
 (b) In order for a member of the qualified political party to qualify as a candidate for the qualified
 political party's nomination for an elective office under this section, the member shall, before
 the deadline described in Subsection (12), collect signatures electronically:
@@ -17394,6 +17384,8 @@ holds the convention to select a nominee for the elective office to which the si
 relate:
 (i) check the name of each individual who completes the verification for a signature to
 determine whether each individual is at least 18 years old; and
+Utah Code
+Page 371
 (ii) submit the name of each individual described in Subsection (10)(c)(i) who is not at least 18
 years old to the attorney general and the county attorney.
 (11)
@@ -17429,8 +17421,6 @@ period beginning at 8 a.m. on the first business day of January and ending at 5 
 13, 2026; and
 (b) during the period beginning on the day on which the individual files the notice of intent to
 gather signatures and ending at the applicable deadline described in Subsection (12), on a
-Utah Code
-Page 372
 form approved by the lieutenant governor that complies with Subsection 20A-9-405(3), collect
 7,000 signatures of registered voters who are residents of the state and are permitted by
 the qualified political party to vote for the qualified political party's candidates in a primary
@@ -17442,6 +17432,8 @@ to Subsection (4)(b), the following may review a complete, unredacted candidate 
 document:
 (a) the candidate to whose nomination petition the candidate nomination document relates, or an
 individual representing the candidate's campaign;
+Utah Code
+Page 372
 (b) a candidate who is seeking to qualify for placement on the primary election ballot for the same
 office and party as the candidate to whose nomination petition the candidate nomination
 document relates, or an individual representing the candidate's campaign;
@@ -17477,8 +17469,6 @@ nomination document relates:
 nomination document for 22 months; and
 (b) no person may access or view the candidate nomination document, except:
 (i) the lieutenant governor;
-Utah Code
-Page 373
 (ii) the legislative auditor general; or
 (iii) as ordered by a court with jurisdiction.
 (6) A digital listing or report of a candidate nomination document may, only to the extent permitted
@@ -17489,6 +17479,8 @@ Enacted by Chapter 448, 2025 General Session
 (1) Beginning no later than January 1, 2026, the lieutenant governor shall, on the same website
 where a voter may track the status of a ballot returned by a voter, provide a voter information
 regarding:
+Utah Code
+Page 373
 (a) each petition to qualify a candidate for placement on a primary election ballot that the voter
 signed during the preceding six months;
 (b) whether the signature was verified or rejected; and
@@ -17521,8 +17513,6 @@ old when the individual collected the signatures.
 who has not been disclosed under Subsection (1)(c)(iv), with all information required under
 Subsection (1)(c)(iv):
 (a) the election officer shall notify the candidate;
-Utah Code
-Page 374
 (b) the candidate shall provide the information described in Subsection (1)(c)(iv) in relation to the
 individual no later than the first business day that is at least three calendar days after the day
 on which the election officer notifies the candidate under Subsection (2)(a); and
@@ -17537,6 +17527,8 @@ with Subsection (2).
 (5) An election officer shall preserve the chain of custody of all candidate signature packets and
 signature sheets in accordance with this section.
 (6) An election officer shall, upon receipt of a candidate signature packet:
+Utah Code
+Page 374
 (a) review the candidate signature packet; and
 (b) assign the candidate signature packet a unique number in the election officer's petition
 processing system, to be used to track the candidate signature packet during processing.
@@ -17569,8 +17561,6 @@ clerk shall:
 (a) Subsection 20A-9-403(3)(d);
 (b) Subsection 20A-9-405(10)(c);
 (c) Subsections 20A-9-408(9)(c), (d)(iii), and (f);
-Utah Code
-Page 375
 (d) Subsections 20A-9-408(10)(c) and (11)(c); and
 (e) Subsections 20A-9-408.3(2) through (3) and (5) through (7);
 (2) no later than one business day after the day on which the incumbent county clerk receives a
@@ -17583,6 +17573,8 @@ Enacted by Chapter 271, 2026 General Session
 20A-9-408.5 Declaration of candidacy form for qualified political party.
           The declaration of candidacy form described in Sections 20A-9-407 and 20A-9-408 shall:
 (1) be substantially as follows:
+Utah Code
+Page 375
           "State of Utah, County of ____
           I, ______________, declare my intention of becoming a candidate for the office of
 ____ as a candidate for the ____ party.  I do solemnly swear, under penalty of perjury, that:
@@ -17615,8 +17607,6 @@ Section 20A-9-408:
 (b) A qualified political party that has only one candidate qualify as a candidate for an elective
 office under Section 20A-9-408 and does not nominate a candidate for that office under
 Section 20A-9-407:
-Utah Code
-Page 376
 (i) may not participate in the primary election for that office; and
 (ii) will appear as a candidate for that office on the regular general election ballot.
 (c) A qualified political party that nominates one or more candidates for an elective office under
@@ -17631,6 +17621,8 @@ Section 20A-9-408, shall participate in the primary election for that office.
 (3) Notwithstanding Subsection (2), in an opt-in county, as defined in Section 17-62-201 or
 17-62-202, a qualified political party shall participate in the primary election for a county
 commission office if:
+Utah Code
+Page 376
 (a) there is more than one:
 (i) open position as defined in Section 17-62-201; or
 (ii) midterm vacancy as defined in Section 17-62-201; and
@@ -17656,8 +17648,6 @@ may only count the signature on the first petition that the election officer rev
 Enacted by Chapter 296, 2015 General Session
 Part 5
 Candidates not Affiliated with a Party
-Utah Code
-Page 377
 20A-9-501 Candidates not affiliated with a party -- General requirements.
 (1)
 (a) Candidates for public office who do not wish to affiliate with a registered political party may
@@ -17669,6 +17659,8 @@ an unaffiliated candidate in the same year.
 (3) The courts shall construe this part liberally so as to give unaffiliated candidates for public office
 every reasonable opportunity to make their candidacy effective.
 Amended by Chapter 21, 1994 General Session
+Utah Code
+Page 377
 20A-9-502 Certificate of nomination -- Contents -- Circulation -- Verification -- Criminal
 penalty -- Removal of petition signature.
 (1) The candidate shall:
@@ -17704,8 +17696,6 @@ the circulator verification, that:
 for the purpose of binding;
 (iii) contain the name of the proposed candidate and the words "Unaffiliated Candidate
 Certificate of Nomination Petition" printed directly below the horizontal line;
-Utah Code
-Page 378
 (iv) contain the following statement, directly under the words described in Subsection (1)(b)(iii),
 in not less than eight-point, single leaded type:
 "WARNING
@@ -17719,6 +17709,8 @@ publicly disclosed. This disclosure may occur even if you are an at-risk voter w
 registration record that has been classified as a private record.";
 (v) contain the following statement directly under the statement described in Subsection (1)(b)
 (iv):
+Utah Code
+Page 378
           "Each signer says:
           I have personally signed this petition with a holographic signature;
           I am registered to vote in Utah or intend to become registered to vote in Utah before
@@ -17754,8 +17746,6 @@ described in Subsection 20A-1-1004(1).
 (2) An agent designated to file a certificate of nomination under Subsection 20A-9-503(2)(b) or (4)
 (b) may not sign the form described in Subsection (1)(a).
 (3)
-Utah Code
-Page 379
 (a) The candidate shall circulate the nomination petition and ensure that the person in whose
 presence each signature sheet is signed:
 (i) is at least 18 years old; and
@@ -17768,6 +17758,8 @@ to the verification.
 (i) knowingly sign a certificate of nomination signature sheet:
 (A) with any name other than the person's own name;
 (B) more than once for the same candidate; or
+Utah Code
+Page 379
 (C) if the person is not registered to vote in this state and does not intend to become
 registered to vote in this state before the county clerk certifies the signatures; or
 (ii) sign the verification of a certificate of nomination signature sheet if the person:
@@ -17803,8 +17795,6 @@ the signature packet.
 (e) The candidate may supplement the signatures or amend the certificate of nomination or
 declaration of candidacy at any time on or before 5 p.m. on June 15 of the year in which the
 election will be held.
-Utah Code
-Page 380
 (f) The county clerk shall use the procedures described in Section 20A-1-1002 to determine
 whether a signer is a registered voter who is qualified to sign the signature packet.
 (6)
@@ -17817,6 +17807,8 @@ Subsection 20A-1-1003(2).
 (c) The county clerk shall use the procedures described in Subsection 20A-1-1003(3) to
 determine whether to remove an individual's signature from a signature packet after receiving
 a timely, valid statement requesting removal of the signature.
+Utah Code
+Page 380
 Amended by Chapter 102, 2026 General Session
 20A-9-503 Certificate of nomination -- Filing -- Fees.
 (1) A candidate shall, in accordance with the deadline described in Subsection 20A-9-502(5)(a):
@@ -17847,8 +17839,6 @@ sign the certificate of nomination form.
 Amended by Chapter 17, 2024 General Session
 20A-9-504 Unaffiliated candidates -- Governor and president of the United States.
 (1)
-Utah Code
-Page 381
 (a) Each unaffiliated candidate for governor shall, before 5 p.m. no later than June 15 of the
 regular general election year, select a running mate to file as an unaffiliated candidate for the
 office of lieutenant governor.
@@ -17863,6 +17853,8 @@ candidate for the office of vice president of the United States.
 candidate for vice president of the United States described in Subsection (2)(a) shall comply
 with the requirements of Subsection 20A-9-202(7).
 Amended by Chapter 17, 2024 General Session
+Utah Code
+Page 381
 Part 6
 Write-in Candidates
 20A-9-601 Qualifying as a write-in candidate.
@@ -17892,8 +17884,6 @@ to hold the office, both legally and constitutionally, if selected; I reside at 
 in the City or Town of ____, Utah, Zip Code ____, Phone No.  ____; I will not knowingly
 violate any law governing campaigns and elections; if filing via a designated agent, I will
 be out of the state of Utah during the entire candidate filing period; I will file all campaign
-Utah Code
-Page 382
 financial disclosure reports as required by law; and I understand that failure to do so
 will result in my disqualification as a candidate for this office and rejection of any votes
 cast for me.  The mailing address that I designate for receiving official election notices is
@@ -17909,6 +17899,8 @@ the president of the United States.  I do solemnly swear that: I will meet the q
 hold the office, both legally and constitutionally, if selected; I reside at _____________ in
 the City or Town of ____, State ____, Zip Code ____, Phone No.  ____; I will not knowingly
 violate any law governing campaigns and elections.  The mailing address that I designate
+Utah Code
+Page 382
 for receiving official election notices is ___________________________.  I designate
 _______________ as my vice presidential candidate.
           ____________________________________________________________________
@@ -17940,8 +17932,6 @@ Amended by Chapter 448, 2025 General Session
 20A-9-602 Write-in candidacy and voting prohibited in certain circumstances.
           In elections for county attorney or district attorney that meet the requirements of Subsections
 20A-6-302(2) and (3), a person may not file a declaration of candidacy as a write-in candidate
-Utah Code
-Page 383
 under this part and the county clerk may not count any write-in votes received for the office of
 county or district attorney.
 Amended by Chapter 317, 2013 General Session
@@ -17951,6 +17941,8 @@ Presidential Primary Election
           As used in this part, "registered political party" means a political party that has complied with the
 requirements of Chapter 8, Political Party Formation and Procedures, to become a political party
 officially recognized by the state.
+Utah Code
+Page 383
 Amended by Chapter 433, 2019 General Session
 20A-9-802 Presidential primary election established -- Other ballot items prohibited.
 (1)
@@ -17982,8 +17974,6 @@ party may vote for the registered political party's candidates; and
 (c) certify that information to the lieutenant governor no later than 5 p.m. on August 10 of the year
 before the year in which the presidential primary election will be held.
 Amended by Chapter 433, 2019 General Session
-Utah Code
-Page 384
 20A-9-802.5 Presidential primary required.
 (1) A presidential primary election shall be held under this part each year in which a presidential
 election will be held.
@@ -17996,6 +17986,8 @@ Renumbered and Amended by Chapter 433, 2019 General Session
 (1) Candidates for president of the United States who are affiliated with a registered political party
 that has elected to participate in the presidential primary election and who wish to participate in
 the primary election shall:
+Utah Code
+Page 384
 (a) file a declaration of candidacy, in person or via a designated agent, with the lieutenant
 governor between August 15 of the year before the primary election will be held and 5 p.m. on
 December 1 of the year before the primary election will be held;
@@ -18025,8 +18017,6 @@ Amended by Chapter 433, 2019 General Session
 20A-9-806 Ballots.
 (1) The lieutenant governor, together with county clerks, suppliers of election materials, and
 representatives of registered political parties, shall:
-Utah Code
-Page 385
 (a) develop manual ballots, mechanical ballots, return envelopes and provisional ballot envelopes
 to be used in a presidential primary election;
 (b) ensure that the ballots, return envelopes, and provisional ballot envelopes comply generally
@@ -18042,6 +18032,8 @@ booths, election records and supplies, and ballot boxes:
 (i) facilitate the distribution, voting, and tallying of ballots in a closed primary;
 (ii) simplify the task of poll workers, particularly in determining a voter's party affiliation;
 (iii) minimize the possibility of spoiled ballots due to voter confusion; and
+Utah Code
+Page 385
 (iv) protect against fraud.
 (b) To accomplish the requirements of this Subsection (2), the lieutenant governor, county clerks,
 suppliers of election materials, and representatives of registered political parties shall:
@@ -18067,8 +18059,6 @@ Amended by Chapter 433, 2019 General Session
 of Chapter 3a, Part 2, Voting Procedures.
 Amended by Chapter 381, 2025 General Session
 20A-9-809 Counting votes -- Canvass -- Certification of results to parties.
-Utah Code
-Page 386
 (1) Votes shall be counted, results tabulated, returns transmitted, ballots reviewed and retained,
 returns canvassed, and recounts and election contests conducted as provided in Chapter 4,
 Election Returns and Election Contests.
@@ -18080,6 +18070,8 @@ Chapter 11
 Campaign and Financial Reporting Requirements
 Part 1
 General Provisions
+Utah Code
+Page 386
 20A-11-101 Definitions.
           As used in this chapter:
 (1)
@@ -18110,8 +18102,6 @@ and
 (b) the county clerk for local school board candidates.
 (6)
 (a) "Contribution" means any of the following when done for political purposes:
-Utah Code
-Page 387
 (i) a gift, subscription, donation, loan, advance, or deposit of money or anything of value given
 to the filing entity;
 (ii) an express, legally enforceable contract, promise, or agreement to make a gift, subscription,
@@ -18129,6 +18119,8 @@ services provided without charge to the filing entity;
 (i) services provided by individuals volunteering a portion or all of their time on behalf of the
 filing entity if the services are provided without compensation by the filing entity or any other
 person;
+Utah Code
+Page 387
 (ii) money lent to the filing entity by a financial institution in the ordinary course of business;
 (iii) goods or services provided for the benefit of a political entity at less than fair market value
 that are not authorized by or coordinated with the political entity; or
@@ -18160,8 +18152,6 @@ assistance, except to the extent that the name or address of the individual or s
 unknown;
 (ii) the amount or value of the contribution or public service assistance; and
 (iii) the date the contribution or public service assistance was made; and
-Utah Code
-Page 388
 (b) for each expenditure:
 (i) the amount of the expenditure;
 (ii) the goods or services acquired by the expenditure; and
@@ -18179,6 +18169,8 @@ money for an expenditure or political issues expenditure.
 (14) "Electioneering communication" means a communication that:
 (a) has at least a value of $10,000;
 (b) clearly identifies a candidate or judge; and
+Utah Code
+Page 388
 (c) is disseminated through the Internet, newspaper, magazine, outdoor advertising facility, direct
 mailing, broadcast, cable, or satellite provider within 45 calendar days before the clearly
 identified candidate's or judge's election date.
@@ -18209,8 +18201,6 @@ office or officeholders in states other than Utah.
 United States Representative.
 (17) "Filing entity" means the reporting entity that is required to file a financial statement required
 by this chapter or Chapter 12, Part 2, Judicial Retention Elections.
-Utah Code
-Page 389
 (18) "Financial statement" includes any summary report, interim report, verified financial statement,
 or other statement disclosing contributions, expenditures, receipts, donations, or disbursements
 that is required by this chapter or Chapter 12, Part 2, Judicial Retention Elections.
@@ -18229,6 +18219,8 @@ coordinated with a filing entity.
 demographic data, voting trend data, or other information that:
 (i) is not commissioned for the benefit of a particular candidate or officeholder; and
 (ii) is offered at no cost to a candidate or officeholder.
+Utah Code
+Page 389
 (25) "Interim report" means a report identifying the contributions received and expenditures made
 since the last report.
 (26) "Legislative office" means the office of state senator, state representative, speaker of the
@@ -18259,8 +18251,6 @@ personal campaign committees, party committees, political action committees, pol
 committees, and labor organizations, as defined in Section 20A-11-1501.
 (33) "Personal campaign committee" means the committee appointed by a candidate to act for the
 candidate as provided in this chapter.
-Utah Code
-Page 390
 (34) "Personal use expenditure" has the same meaning as provided under Section 20A-11-104.
 (35)
 (a) "Political action committee" means an entity, or any group of individuals or entities within or
@@ -18278,6 +18268,8 @@ contributions or makes expenditures for political purposes.
 of its business at the same price that would be provided to the general public;
 (iii) an individual;
 (iv) individuals who are related and who make contributions from a joint checking account;
+Utah Code
+Page 390
 (v) a corporation, except a corporation a major purpose of which is to act as a political action
 committee; or
 (vi) a personal campaign committee.
@@ -18309,8 +18301,6 @@ proposed ballot proposition or an incorporation in an incorporation election; or
 assist in keeping a ballot proposition off the ballot.
 (b) "Political issues committee" does not mean:
 (i) a registered political party or a party committee;
-Utah Code
-Page 391
 (ii) any entity that provides goods or services to an individual or committee in the regular course
 of its business at the same price that would be provided to the general public;
 (iii) an individual;
@@ -18327,6 +18317,8 @@ proposition, ordinance, or other governmental action;
 legal entity;
 (D) do not receive funds for challenging or supporting the ballot proposition, ordinance, or
 other governmental action from a person other than an individual in the group; and
+Utah Code
+Page 391
 (E) do not expend a total of more than $5,000 for the purpose described in Subsection (39)(b)
 (vi)(A).
 (40)
@@ -18358,8 +18350,6 @@ express purpose of influencing the approval or the defeat of:
 (B) an incorporation petition or incorporation election;
 (iii) an express, legally enforceable contract, promise, or agreement to make any political issues
 expenditure;
-Utah Code
-Page 392
 (iv) compensation paid by a reporting entity for personal services rendered by a person without
 charge to a political issues committee; or
 (v) goods or services provided to or for the benefit of another reporting entity at less than fair
@@ -18377,6 +18367,8 @@ or election; or
 (43)
 (a) "Poll" means the survey of a person regarding the person's opinion or knowledge of an
 individual who has filed a declaration of candidacy for public office, or of a ballot proposition
+Utah Code
+Page 392
 that has legally qualified for placement on the ballot, which is conducted in person or by
 telephone, facsimile, Internet, postal mail, or email.
 (b) "Poll" does not include:
@@ -18408,8 +18400,6 @@ officeholder.
 time on behalf of an officeholder;
 (iii) money lent to an officeholder by a financial institution in the ordinary course of business;
 (iv) news coverage or any publication by the news media; or
-Utah Code
-Page 393
 (v) any article, story, or other coverage as part of any regular publication of any organization
 unless substantially all the publication is devoted to information about the officeholder.
 (48) "Receipts" means contributions and public service assistance.
@@ -18427,6 +18417,8 @@ of its candidates for any office; or
 Formation and Procedures.
 (53)
 (a) "Remuneration" means a payment:
+Utah Code
+Page 393
 (i) made to a legislator for the period the Legislature is in session; and
 (ii) that is approximately equivalent to an amount a legislator would have earned during the
 period the Legislature is in session in the legislator's ordinary course of business.
@@ -18457,8 +18449,6 @@ appointment to a state office.
 contributions and expenditures.
 (60) "Supervisory board" means the individual or group of individuals that allocate expenditures
 from a political issues committee.
-Utah Code
-Page 394
 Amended by Chapter 448, 2025 General Session
 20A-11-101.3 Detailed listing and report requirements -- Rulemaking authority.
 (1) As used in this section:
@@ -18475,6 +18465,8 @@ Amended by Chapter 448, 2025 General Session
 (ii) voter data;
 (iii) a phone bank;
 (iv) fund-raising expenses;
+Utah Code
+Page 394
 (v) campaign assistance or consulting;
 (vi) campaign technology;
 (vii) campaign management;
@@ -18506,8 +18498,6 @@ committees.
 engaged in an activity of a candidate or an officeholder;
 (vii) printed materials; or
 (viii) postage.
-Utah Code
-Page 395
 (i) "Travel expenses" includes:
 (i) political conference registration;
 (ii) airfare;
@@ -18525,6 +18515,8 @@ within one of the following categories:
 (f) loans;
 (g) office;
 (h) political support;
+Utah Code
+Page 395
 (i) return of a contribution;
 (j) signature gathering;
 (k) supplies;
@@ -18551,8 +18543,6 @@ Enacted by Chapter 18, 2014 General Session
 contribution through one or more persons with the intent that:
 (1) the contribution will ultimately be made to a filing entity specified by the original contributor or a
 designee of the original contributor; and
-Utah Code
-Page 396
 (2) by making the contribution through one or more persons, the original contributor's identity will
 not be disclosed in a manner that would be required by law.
 Enacted by Chapter 39, 2017 General Session
@@ -18569,6 +18559,8 @@ entity by electronic mail unless postal mail is requested:
 (b) The chief election officer is not required to provide notice:
 (i) to a candidate or political party of the financial statement that is due before the candidate's or
 political party's political convention;
+Utah Code
+Page 396
 (ii) of a financial statement due in connection with a public hearing for an initiative under the
 requirements of Section 20A-7-204.1; or
 (iii) to a corporation or labor organization, as defined in Section 20A-11-1501.
@@ -18599,8 +18591,6 @@ that hosts the campaign finance statement, no later than seven business days aft
 on which the lieutenant governor receives the link from:
 (A) the municipal clerk or recorder, in accordance with Subsection 10-3-208(11)(b)(ii); or
 (B) the county clerk, in accordance with Subsection 17-70-403(21)(b)(ii).
-Utah Code
-Page 397
 (5) The lieutenant governor shall provide, on the website described in Subsection (4)(b), the ability
 for an individual to search across disclosures made by all filing entities to identify contributions
 or expenditures made by a specific person.
@@ -18617,6 +18607,8 @@ Amended by Chapter 16, 2025 Special Session 1
 (B) primarily furthers a personal interest of a candidate or officeholder or a candidate's or
 officeholder's family, which interest is not connected with the performance of an activity as
 a candidate or an activity or duty of an officeholder; or
+Utah Code
+Page 397
 (ii) would likely cause the candidate or officeholder to recognize the expenditure as taxable
 income under federal or state law.
 (b) "Personal use expenditure" includes:
@@ -18647,8 +18639,6 @@ professional person;
 (xv) a payment in excess of the fair market value of the item or service purchased.
 (2) As used in this chapter, "personal use expenditure" does not include an expenditure made:
 (a) for a political purpose;
-Utah Code
-Page 398
 (b) for candidacy for public office;
 (c) to fulfill a duty or activity of an officeholder;
 (d) for a donation to a registered political party;
@@ -18667,6 +18657,8 @@ or duty of an officeholder:
 (B) served at a charitable event;
 (C) consumed, or provided to others, by a candidate while the candidate is engaged in
 campaigning;
+Utah Code
+Page 398
 (D) consumed, or provided to others, by an officeholder while the officeholder is acting in the
 capacity of an officeholder; or
 (E) provided as a gift to an individual who works on a candidate's campaign or who assists an
@@ -18695,8 +18687,6 @@ including an expense described in Subsection (2)(g)(iii);
 (xiii) an item purchased for a purpose related to a campaign or to an activity or duty of an
 officeholder;
 (h) to purchase or mail informational material, a survey, or a greeting card;
-Utah Code
-Page 399
 (i) for a donation to a charitable organization, as defined by Section 13-22-101, including
 admission to or sponsorship of an event, the primary purpose of which is charitable
 solicitation, as defined in Section 13-22-101;
@@ -18716,6 +18706,8 @@ expenses, if attendance by the guest is for a primary purpose described in Subse
 (ii) an officeholder while the officeholder is engaging in the duties of an officeholder; or
 (o) by a candidate or officeholder to purchase reasonably necessary goods, other than weapons,
 or services, for the purpose of protecting the security of the candidate or officeholder, the
+Utah Code
+Page 399
 candidate's or officeholder's family, or the candidate's or officeholder's staff, which may
 include:
 (i) a security system for use at the candidate's or officeholder's home, place of business, or
@@ -18742,8 +18734,6 @@ Amended by Chapter 95, 2026 General Session
           A person against whom the lieutenant governor imposes a fine under this chapter shall pay the
 fine no later than 5 p.m. on the last business day that is at least 30 calendar days after the day on
 which the lieutenant governor imposes the fine.
-Utah Code
-Page 400
 Amended by Chapter 448, 2025 General Session
 Part 2
 State Office Candidates - Campaign Organization
@@ -18759,6 +18749,8 @@ institution.
 deposited in a campaign account for:
 (i) a personal use expenditure; or
 (ii) an expenditure prohibited by law.
+Utah Code
+Page 400
 (c) Each state officeholder or the state officeholder's personal campaign committee shall deposit
 each contribution and public service assistance received in one or more separate campaign
 accounts in a financial institution.
@@ -18788,8 +18780,6 @@ for federal office.
 (5)
 (a) As used in this Subsection (5), "received" means the same as that term is defined in
 Subsection 20A-11-204(1)(b).
-Utah Code
-Page 401
 (b) Each state office candidate shall report to the lieutenant governor each contribution received
 by the state office candidate:
 (i) except as provided in Subsection (5)(b)(ii), within 31 calendar days after the day on which
@@ -18807,6 +18797,8 @@ shall impose a fine against the state office candidate in an amount equal to:
 (i) 10% of the amount of the contribution, if the state office candidate reports the contribution
 within 60 calendar days after the day on which the time period described in Subsection (5)
 (b) ends; or
+Utah Code
+Page 401
 (ii) 20% of the amount of the contribution, if the state office candidate fails to report the
 contribution within 60 calendar days after the day on which the time period described in
 Subsection (5)(b) ends.
@@ -18838,8 +18830,6 @@ federal office, deposits a contribution or makes an expenditure.
 (b) A state office candidate shall include on any financial statement filed in accordance with this
 part:
 (i) a contribution deposited in an account:
-Utah Code
-Page 402
 (A) since the last campaign finance statement was filed; or
 (B) that has not been reported under a statute or ordinance that governs the account; or
 (ii) an expenditure made from an account:
@@ -18854,6 +18844,8 @@ Amended by Chapter 283, 2026 General Session
 a political action committee officer.
 (1)
 (a)
+Utah Code
+Page 402
 (i) Each state office candidate shall select no more than one personal campaign committee,
 consisting of one or more persons, to receive contributions, make expenditures, and file
 reports connected with the candidate's campaign.
@@ -18885,8 +18877,6 @@ by:
 committee.
 (ii) The state office candidate shall file that replacement's name and address with the lieutenant
 governor.
-Utah Code
-Page 403
 (3) A member of a state office candidate's personal campaign committee may not make an
 expenditure of more than $1,000 unless the state office candidate or the secretary of the
 personal campaign committee authorizes the expenditure in writing.
@@ -18902,6 +18892,8 @@ regular general election year.
 has not filed the statement of dissolution and final summary report required under Section
 20A-11-205 shall continue to file a summary report on January 10 of each year.
 (2)
+Utah Code
+Page 403
 (a) Each summary report shall include the following information as of December 31 of the
 previous year:
 (i) the net balance of the last financial statement, if any;
@@ -18932,8 +18924,6 @@ all receipts and all expenditures have been reported as of December 31 of the pr
 and that there are no bills or obligations outstanding and unpaid except as set forth in that
 report.
 Amended by Chapter 74, 2019 General Session
-Utah Code
-Page 404
 20A-11-204 State office candidate and state officeholder -- Financial reporting requirements
 -- Interim reports.
 (1) As used in this section:
@@ -18949,6 +18939,8 @@ campaign, the earlier of:
 (A) the day on which the state office candidate or a member of the state office candidate's
 personal campaign committee becomes aware of the deposit and the source of the
 deposit;
+Utah Code
+Page 404
 (B) the day on which the state office candidate or a member of the state office candidate's
 personal campaign committee receives notice of the deposit and the source of the deposit
 by mail, email, text, or similar means; or
@@ -18980,8 +18972,6 @@ meets; and
 (a) the net balance of the last summary report, if any;
 (b) a single figure equal to the total amount of receipts reported on all prior interim reports, if any,
 during the calendar year in which the interim report is due;
-Utah Code
-Page 405
 (c) a single figure equal to the total amount of expenditures reported on all prior interim reports, if
 any, filed during the calendar year in which the interim report is due;
 (d) a detailed listing of:
@@ -18999,6 +18989,8 @@ reported in detail on a prior interim report;
 plus all receipts since the last summary report minus all expenditures since the last summary
 report;
 (i) a summary page in the form required by the lieutenant governor that identifies:
+Utah Code
+Page 405
 (i) beginning balance;
 (ii) total contributions and public service assistance received during the period since the last
 statement;
@@ -19027,8 +19019,6 @@ subject to interim reporting requirements until:
 (2) Each state office candidate and the candidate's personal campaign committee is active and
 subject to year-end summary reporting requirements until the candidate has filed a statement of
 dissolution with the lieutenant governor stating that:
-Utah Code
-Page 406
 (a) the state office candidate or the personal campaign committee is no longer receiving
 contributions and is no longer making expenditures;
 (b) the ending balance on the last summary report filed is zero and the balance in the separate
@@ -19044,6 +19034,8 @@ Amended by Chapter 170, 2013 General Session
 20A-11-206 State office candidate -- Failure to file reports -- Penalties.
 (1) A state office candidate who fails to file a financial statement before the deadline is subject to a
 fine imposed in accordance with Section 20A-11-1005.
+Utah Code
+Page 406
 (2) If a state office candidate fails to file an interim report described in Subsections 20A-11-204(2)
 (b) through (d), the lieutenant governor may send an electronic notice to the state office
 candidate and the political party of which the state office candidate is a member, if any, that
@@ -19074,8 +19066,6 @@ on the ballot is disqualified.
 (6) A state office candidate is not disqualified if:
 (a) the state office candidate timely files the reports described in Subsections 20A-11-204(2)(b)
 through (d) no later than 24 hours after the applicable deadlines for filing the reports;
-Utah Code
-Page 407
 (b) the reports are completed, detailing accurately and completely the information required by this
 part except for inadvertent omissions or insignificant errors or inaccuracies; and
 (c) the omissions, errors, or inaccuracies described in Subsection (6)(b) are corrected in an
@@ -19094,6 +19084,8 @@ receives the written complaint, notify the state office candidate of the violati
 complaint and direct the state office candidate to file a summary report correcting the
 problem.
 (c)
+Utah Code
+Page 407
 (i) It is unlawful for a state office candidate to fail to file or amend a summary report within
 seven calendar days after receiving notice from the lieutenant governor described in this
 Subsection (7).
@@ -19118,8 +19110,6 @@ separate accounts in a financial institution that are dedicated only to that pur
 (ii) A legislative office candidate may:
 (A) receive a contribution from a political action committee registered under Section
 20A-11-601; and
-Utah Code
-Page 408
 (B) be designated by a political action committee as an officer who has primary decision-
 making authority as described in Section 20A-11-601.
 (b) A legislative office candidate or the candidate's personal campaign committee may not use
@@ -19139,6 +19129,8 @@ making authority as described in Section 20A-11-601.
 not use money deposited in an account described in Subsection (1)(c)(i) for:
 (i) a personal use expenditure; or
 (ii) an expenditure prohibited by law.
+Utah Code
+Page 408
 (2)
 (a) A legislative office candidate may not deposit or mingle any contributions received into a
 personal or business account.
@@ -19167,8 +19159,6 @@ the contribution is received; or
 (ii) within seven business days after the day on which the contribution is received, if:
 (A) the legislative office candidate is contested in a convention and the contribution is
 received within 30 calendar days before the day on which the convention is held;
-Utah Code
-Page 409
 (B) the legislative office candidate is contested in a primary election and the contribution is
 received within 30 calendar days before the day on which the primary election is held; or
 (C) the legislative office candidate is contested in a general election and the contribution is
@@ -19189,6 +19179,8 @@ office candidate from the legislative office candidate's personal funds;
 (ii) the legislative office candidate has not previously violated Subsection (5)(c) in relation to
 a contribution paid by the legislative office candidate from the legislative office candidate's
 personal funds; and
+Utah Code
+Page 409
 (iii) the lieutenant governor determines that the failure to timely report the contribution is due
 to the legislative office candidate not understanding that the reporting requirement includes
 a contribution paid by a legislative office candidate from the legislative office candidate's
@@ -19217,8 +19209,6 @@ or federal office, deposits a contribution or makes an expenditure.
 this part:
 (i) a contribution deposited in an account:
 (A) since the last campaign finance statement was filed; or
-Utah Code
-Page 410
 (B) that has not been reported under a statute or ordinance that governs the account; or
 (ii) an expenditure made from an account:
 (A) since the last campaign finance statement was filed; or
@@ -19236,6 +19226,8 @@ has not filed the statement of dissolution and final summary report required und
 (a) Each summary report shall include the following information as of December 31 of the
 previous year:
 (i) the net balance of the last financial statement, if any;
+Utah Code
+Page 410
 (ii) a single figure equal to the total amount of receipts reported on all interim reports, if any,
 during the calendar year in which the summary report is due;
 (iii) a single figure equal to the total amount of expenditures reported on all interim reports, if
@@ -19263,8 +19255,6 @@ candidate's knowledge, all receipts and all expenditures have been reported as o
 31 of the previous year and that there are no bills or obligations outstanding and unpaid except
 as set forth in that report.
 Amended by Chapter 74, 2019 General Session
-Utah Code
-Page 411
 20A-11-303 Legislative office candidate and legislative officeholder -- Financial reporting
 requirements -- Interim reports.
 (1) As used in this section:
@@ -19284,6 +19274,8 @@ of the deposit;
 candidate's personal campaign committee receives notice of the deposit and the source of
 the deposit by mail, email, text, or similar means; or
 (C) 31 calendar days after the day on which the direct deposit occurs; or
+Utah Code
+Page 411
 (iv) for any other type of contribution, that any portion of the contribution's benefit inures to the
 legislative office candidate.
 (2) Except as provided in Subsection (3), each legislative office candidate shall file an interim
@@ -19313,8 +19305,6 @@ political party meets; and
 during the calendar year in which the interim report is due;
 (c) a single figure equal to the total amount of expenditures reported on all prior interim reports, if
 any, filed during the calendar year in which the interim report is due;
-Utah Code
-Page 412
 (d) a detailed listing of:
 (i) for a legislative office candidate, each contribution received since the last summary report
 that has not been reported in detail on a prior interim report; or
@@ -19334,6 +19324,8 @@ report;
 (ii) total contributions and public service assistance received during the period since the last
 statement;
 (iii) total contributions and public service assistance received to date;
+Utah Code
+Page 412
 (iv) total expenditures during the period since the last statement; and
 (v) total expenditures to date; and
 (j) the name of a political action committee for which the legislative office candidate or legislative
@@ -19360,8 +19352,6 @@ the candidate has filed a statement of dissolution with the lieutenant governor 
 expenditures;
 (b) the ending balance on the last summary report filed is zero and the balance in the separate
 bank account required in Section 20A-11-301 is zero; and
-Utah Code
-Page 413
 (c) a final summary report in the form required by Section 20A-11-302 showing a zero balance is
 attached to the statement of dissolution.
 (3) A statement of dissolution and a final summary report may be filed at any time.
@@ -19380,6 +19370,8 @@ member, if any, that states:
 (b) that, if the legislative office candidate fails to file the report within 24 hours after the deadline
 for filing the report, the legislative office candidate will be disqualified and the political party
 will not be permitted to replace the candidate.
+Utah Code
+Page 413
 (3)
 (a) The lieutenant governor shall disqualify a legislative office candidate and  inform the county
 clerk and other appropriate election officials that the legislative office candidate is disqualified
@@ -19408,8 +19400,6 @@ part except for inadvertent omissions or insignificant errors or inaccuracies; a
 (c) the omissions, errors, or inaccuracies described in Subsection (6)(b) are corrected in an
 amended report or the next scheduled report.
 (7)
-Utah Code
-Page 414
 (a) Within 60 calendar days after a deadline for the filing of a summary report, the lieutenant
 governor shall review each filed summary report to ensure that:
 (i) each legislative office candidate that is required to file a summary report has filed one; and
@@ -19430,6 +19420,8 @@ Subsection (7).
 misdemeanor.
 (iii) The lieutenant governor shall report all violations of Subsection  (7)(c)(i) to the attorney
 general.
+Utah Code
+Page 414
 (iv) In addition to the criminal penalty described in Subsection (7)(c)(ii), the lieutenant
 governor shall impose a civil fine of $100 against a legislative office candidate who violates
 Subsection (7)(c)(i).
@@ -19452,8 +19444,6 @@ the officeholder's capacity of a candidate for office.
 (a) Each summary report shall include the following information as of December 31 of the
 previous year:
 (i) the net balance of the last summary report, if any;
-Utah Code
-Page 415
 (ii) a single figure equal to the total amount of receipts received since the last summary report, if
 any;
 (iii) a single figure equal to the total amount of expenditures made since the last summary
@@ -19474,6 +19464,8 @@ officer who has primary decision-making authority under Section 20A-11-601.
 the previous year.
 (3) The summary report shall contain a paragraph signed by the officeholder certifying that, to the
 best of the officeholder's knowledge, all receipts and all expenditures have been reported as of
+Utah Code
+Page 415
 December 31 of the last calendar year and that there are no bills or obligations outstanding and
 unpaid except as set forth in that report.
 (4) An officeholder may:
@@ -19500,8 +19492,6 @@ assistance and is no longer making expenditures;
 bank account required by Section 20A-11-201, 20A-11-301, or 20A-11-1301 is zero; and
 (c) a final summary report in the form required by Section 20A-11-401 showing a zero balance is
 attached to the statement of dissolution.
-Utah Code
-Page 416
 (2) A statement of dissolution and a final summary report may be filed at any time.
 (3)
 (a) Each officeholder shall report to the lieutenant governor each contribution or public service
@@ -19522,6 +19512,8 @@ required by this section are filed with the lieutenant governor.
 (4) An officeholder or former officeholder may not use a contribution or public service assistance
 deposited in an account in accordance with this chapter for:
 (a) a personal use expenditure; or
+Utah Code
+Page 416
 (b) an expenditure prohibited by law.
 (5)
 (a) Except as provided in Subsection (5)(b), a former officeholder may not expend or transfer
@@ -19547,8 +19539,6 @@ the lieutenant governor discovers the violation or receives the written complain
 officeholder of the violation or written complaint and direct the officeholder to file a summary
 report correcting the problem.
 (3)
-Utah Code
-Page 417
 (a) It is unlawful for any officeholder to fail to file or amend a summary report within seven
 calendar days after receiving notice from the lieutenant governor under this section.
 (b) Each officeholder who violates Subsection (3)(a) is guilty of a class B misdemeanor.
@@ -19562,6 +19552,8 @@ Political Party Registration and Financial Reporting Requirements
           Nothing in this part requires a registered political party to report contributions and expenditures
 made to benefit federal candidates and filed with the Federal Election Commission.
 Enacted by Chapter 355, 1997 General Session
+Utah Code
+Page 417
 20A-11-505.7 Separate account for contributions for registered political party -- Anonymous
 contributions to registered political party or county political party.
 (1) A registered political party shall deposit a contribution received in one or more separate
@@ -19588,8 +19580,6 @@ any, filed during the previous year;
 (iv) a detailed listing of each contribution received since the last summary report that has not
 been reported in detail on an interim report;
 (v) for each nonmonetary contribution, the fair market value of the contribution;
-Utah Code
-Page 418
 (vi) a detailed listing of each expenditure made since the last summary report that has not been
 reported in detail on an interim report;
 (vii) for each nonmonetary expenditure, the fair market value of the expenditure; and
@@ -19608,6 +19598,8 @@ been reported as of December 31 of the previous year and that there are no bills
 outstanding and unpaid except as set forth in that report.
 Amended by Chapter 74, 2019 General Session
 20A-11-507 Political party financial reporting requirements -- Interim reports.
+Utah Code
+Page 418
 (1) The party committee of each registered political party shall file an interim report at the following
 times in any year in which there is a regular general election:
 (a) seven calendar days before the registered political party's political convention;
@@ -19636,8 +19628,6 @@ report; and
 (iv) total expenditures during the period since the last statement; and
 (v) total expenditures to date.
 (3)
-Utah Code
-Page 419
 (a) For all individual contributions of $50 or less, a single aggregate figure may be reported
 without separate detailed listings.
 (b) Two or more contributions from the same source that have an aggregate total of more than
@@ -19656,6 +19646,8 @@ to a fine imposed in accordance with Section 20A-11-1005.
 the lieutenant governor shall review each filed report to ensure that:
 (a) each political party that is required to file a report has filed one; and
 (b) each report contains the information required by this part.
+Utah Code
+Page 419
 (3) If it appears that any political party has failed to file a report required by law, if it appears that
 a filed report does not conform to the law, or if the lieutenant governor has received a written
 complaint alleging a violation of the law or the falsity of any report, the lieutenant governor shall,
@@ -19679,8 +19671,6 @@ or business account.
 Enacted by Chapter 396, 2011 General Session
 20A-11-510 County political party financial reporting requirements -- Year-end summary
 report.
-Utah Code
-Page 420
 (1) A county political party officer of a county political party that has received contributions totaling
 at least $750, or disbursed expenditures totaling at least $750, during a calendar year shall file
 a summary report by January 10 of the following year.
@@ -19701,6 +19691,8 @@ reported in detail on an interim report;
 (viii) a net balance for the year consisting of the net balance from the last summary report, if
 any, plus all receipts minus all expenditures.
 (b)
+Utah Code
+Page 420
 (i) For all individual contributions of $50 or less, a single aggregate figure may be reported
 without separate detailed listings.
 (ii) Two or more contributions from the same source that have an aggregate total of more than
@@ -19726,8 +19718,6 @@ election:
 made no expenditures during the reporting period.
 (2) Each interim report shall include the following information:
 (a) the net balance of the last financial statement, if any;
-Utah Code
-Page 421
 (b) a single figure equal to the total amount of receipts reported on all prior interim reports, if any,
 during the calendar year in which the interim report is due;
 (c) a single figure equal to the total amount of expenditures reported on all prior interim reports, if
@@ -19748,6 +19738,8 @@ report; and
 (iv) total expenditures during the period since the last statement; and
 (v) total expenditures to date.
 (3)
+Utah Code
+Page 421
 (a) For all individual contributions of $50 or less, a single aggregate figure may be reported
 without separate detailed listings.
 (b) Two or more contributions from the same source that have an aggregate total of more than
@@ -19772,8 +19764,6 @@ violation or receives the written complaint, notify the county political party o
 or written complaint and direct the county political party officer to file a financial statement
 correcting the problem.
 (4)
-Utah Code
-Page 422
 (a) A county political party that fails to file or amend a financial statement within seven calendar
 days after the day on which the county political party receives notice from the lieutenant
 governor under this section is subject to a fine of the lesser of:
@@ -19793,6 +19783,8 @@ dissolution with the lieutenant governor stating that:
 (c) a final summary report in the form required by this part showing a zero balance is filed with
 the statement of dissolution.
 (2) A statement of dissolution and a final summary report may be filed at any time.
+Utah Code
+Page 422
 (3) A registered political party or county political party shall continue to file the year-end summary
 report required by this part until the statement of dissolution and final summary report required
 by this section are filed with the lieutenant governor.
@@ -19814,8 +19806,6 @@ statement of organization with the lieutenant governor's office each year after 
 which the political action committee files an initial statement of organization:
 (i) before 5 p.m. on January 10; or
 (ii) electronically, before midnight on January 10.
-Utah Code
-Page 423
 (c) After filing an initial statement of organization, a political action committee shall, before
 January 10 each year after the year in which the political action committee files an initial
 statement of organization, file an updated statement of organization with the lieutenant
@@ -19838,6 +19828,8 @@ of organization;
 committee; or
 (iii) that is likely to mislead a potential donor regarding the individuals or entities represented by,
 or affiliated with, the political action committee.
+Utah Code
+Page 423
 (b) Within seven calendar days after the day on which a political action committee files an initial
 statement of organization, the lieutenant governor's office shall:
 (i) review the statement and determine whether a name or acronym used by the political action
@@ -19864,8 +19856,6 @@ disclosed in the political action committee's latest statement of organization:
 desist use of the name or acronym; and
 (ii) the political action committee shall immediately comply with the order described in
 Subsection (3)(d)(i).
-Utah Code
-Page 424
 (4)
 (a) The lieutenant governor may, in addition to any other penalty provided by law, impose a $100
 fine against a political action committee, or against an individual who forms a political action
@@ -19887,6 +19877,8 @@ imposed:
 class B misdemeanor.
 (c) The attorney general, or a political action committee that is harmed by the action of a political
 action committee in violation of this section, may bring an action for an injunction against the
+Utah Code
+Page 424
 violating political action committee, or an officer of the violating political action committee, to
 enforce the provisions of this section.
 (d) A political action committee may bring an action for damages against another political action
@@ -19914,8 +19906,6 @@ remaining in an account described in Subsection (6) by:
 (iv) donating the money to a political party;
 (v) donating the money to an organization that is exempt from federal income taxation under
 Section 501(c)(3) or (19), Internal Revenue Code; or
-Utah Code
-Page 425
 (vi) making another lawful expenditure of the money for a political purpose.
 (d) A political action committee shall report all money donated or expended in a financial report to
 the lieutenant governor, in accordance with the financial reporting requirements described in
@@ -19935,6 +19925,8 @@ name, address, occupation, and title of the new officer.
 (a) A person is guilty of providing false information in relation to a political action committee if the
 person intentionally or knowingly gives false or misleading material information in a statement
 of organization or the notice of change of primary officer.
+Utah Code
+Page 425
 (b) Each primary officer designated in Subsection (5)(a) or (8)(c) is guilty of accepting an unlawful
 contribution if the political action committee knowingly or recklessly accepts a contribution
 from a corporation that:
@@ -19961,8 +19953,6 @@ action committee makes an expenditure on or before the day described in Subsecti
 (A) the municipal general election; and
 (B) the regular general election.
 (b) The registered political action committee shall report:
-Utah Code
-Page 426
 (i) a detailed listing of all contributions received and expenditures made since the last
 statement; and
 (ii) for a financial statement described in Subsections (1)(a)(ii) through (v), all contributions
@@ -19983,6 +19973,8 @@ contribution;
 (iv) for each nonmonetary contribution, the fair market value of the contribution;
 (v) the name and address of each reporting entity that received an expenditure from the
 reporting political action committee, and the amount of each expenditure;
+Utah Code
+Page 426
 (vi) for each nonmonetary expenditure, the fair market value of the expenditure;
 (vii) the total amount of contributions received and expenditures disbursed by the reporting
 political action committee;
@@ -20011,8 +20003,6 @@ purpose of avoiding the financial reporting requirements of this chapter, and su
 prevail over form in determining the scope or size of a political action committee.
 (4)
 (a) As used in this Subsection (4), "received" means:
-Utah Code
-Page 427
 (i) for a cash contribution, that the cash is given to a political action committee;
 (ii) for a contribution that is a negotiable instrument or check, that the negotiable instrument or
 check is negotiated; and
@@ -20032,6 +20022,8 @@ amount of the contribution to:
 subdivision's general fund; or
 (b) an organization that is exempt from federal income taxation under Section 501(c)(3) or (19),
 Internal Revenue Code.
+Utah Code
+Page 427
 Amended by Chapter 283, 2026 General Session
 20A-11-603 Criminal penalties -- Fines.
 (1)
@@ -20057,8 +20049,6 @@ after the day on which the lieutenant governor discovers the violation or receiv
 complaint, notify the political action committee of the violation or written complaint and direct
 the political action committee to file a statement correcting the problem.
 (4)
-Utah Code
-Page 428
 (a) It is unlawful for any political action committee to fail to file or amend a statement within seven
 calendar days after the day on which the political action committee receives notice from the
 lieutenant governor under this section.
@@ -20077,6 +20067,8 @@ after the day on which the person receives the notice described in Subsection 20
 (c) The lieutenant governor shall report all violations of Subsection (5)(a) to the attorney general.
 Amended by Chapter 448, 2025 General Session
 Part 7
+Utah Code
+Page 428
 Campaign Financial Reporting by Corporations
 20A-11-701.1 Definitions.
           As used in this part, "political purposes" means an act done with the intent or in a way to
@@ -20100,8 +20092,6 @@ office:
 (i) on January 10, reporting expenditures as of December 31 of the previous year;
 (ii) seven calendar days before the state political convention for each major political party;
 (iii) seven calendar days before the regular primary election date;
-Utah Code
-Page 429
 (iv) on September 30; and
 (v) seven calendar days before the regular general election date.
 (b) The corporation shall report:
@@ -20122,6 +20112,8 @@ entity that the reporting entity is required to include in a financial statement
 this chapter, Chapter 12, Part 2, Judicial Retention Elections, Section 10-3-208, or Section
 17-70-403.
 (2) The financial statement shall include:
+Utah Code
+Page 429
 (a) the name and address of each reporting entity that received an expenditure from the
 corporation, and the amount of each expenditure;
 (b) the total amount of expenditures disbursed by the  corporation; and
@@ -20146,8 +20138,6 @@ five calendar days before the required filing date of the financial statement.
 (c) The corporation need not file a statement under this section if it made no expenditures during
 the reporting period.
 (2) That statement shall include:
-Utah Code
-Page 430
 (a) the name and address of each individual, entity, or group of individuals or entities that
 received a political issues expenditure of more than $50 from the corporation, and the amount
 of each political issues expenditure;
@@ -20168,6 +20158,8 @@ shall:
 (b) within five days after the day on which the lieutenant governor discovers the violation or
 receives the written complaint, notify the corporation of the violation or written complaint and
 direct the corporation to file a statement correcting the problem.
+Utah Code
+Page 430
 (3)
 (a) It is unlawful for any corporation to fail to file or amend a statement within seven calendar
 days after receiving notice from the lieutenant governor under this section.
@@ -20192,8 +20184,6 @@ corporation; and
 (e) the name, street address, and occupation of each member of the corporation's governing and
 advisory boards, if any.
 (3)
-Utah Code
-Page 431
 (a) A corporation shall file with the lieutenant governor's office a notice of intent to cease making
 contributions, if the corporation:
 (i) has made a contribution described in Subsection (1); and
@@ -20213,6 +20203,8 @@ Subsection (2), provide the reporting entity a written notice that includes:
 corporation makes the in-kind contribution; or
 (b) within seven business days after the day on which the corporation makes the in-kind
 contribution, if:
+Utah Code
+Page 431
 (i) the in-kind contribution is to a candidate who is contested in a convention and the
 corporation makes the in-kind contribution within 30 calendar days before the day on which
 the convention is held;
@@ -20235,8 +20227,6 @@ Political Issues Committees - Registration and Financial Reporting
 20A-11-801 Political issues committees -- Registration -- Criminal penalty for providing false
 information or accepting unlawful contribution.
 (1)
-Utah Code
-Page 432
 (a) Unless the political issues committee has filed a notice of dissolution under Subsection (4),
 each political issues committee shall file a statement of organization with the lieutenant
 governor's office:
@@ -20257,6 +20247,8 @@ making authority for the political issues committee.
 committee if the individual is not designated under Subsection (2)(a).
 (3) The statement of organization shall include:
 (a) the name and address of the political issues committee;
+Utah Code
+Page 432
 (b) the name, address, phone number, occupation, and title of the two primary officers
 designated under Subsection (2);
 (c) the name, address, occupation, and title of all other officers of the political issues committee;
@@ -20284,8 +20276,6 @@ accept a contribution from a political action committee.
 issues committee from complying with the financial reporting requirements of this chapter
 in relation to all contributions received, and all expenditures made, before, at, or after
 dissolution.
-Utah Code
-Page 433
 (d) A political issues committee shall report all money donated or expended under Subsection (4)
 (a) in a financial report to the lieutenant governor, in accordance with the financial reporting
 requirements described in this chapter.
@@ -20306,6 +20296,8 @@ statement of organization or the notice of change of primary officer.
 unlawful contribution if the political issues committee knowingly or recklessly accepts a
 contribution from a corporation that:
 (i) was organized less than 90 calendar days before the date of the general election; and
+Utah Code
+Page 433
 (ii) at the time the political issues committee accepts the contribution, has failed to file a
 statement of organization with the lieutenant governor's office as required by Section
 20A-11-704.
@@ -20333,8 +20325,6 @@ the contribution within 60 calendar days after the last day on which the politic
 committee should have reported the contribution under Subsection (7)(b).
 (d) The lieutenant governor shall:
 (i) deposit money received under Subsection (7)(c) into the General Fund; and
-Utah Code
-Page 434
 (ii) report on the lieutenant governor's website, in the location where reports relating to each
 political issues committee are available for public access:
 (A) each fine imposed by the lieutenant governor against the political issues committee;
@@ -20353,6 +20343,8 @@ year;
 (iii) seven calendar days before the regular primary election date;
 (iv) seven calendar days before the date of an incorporation election, if the political issues
 committee has received or expended funds to affect an incorporation;
+Utah Code
+Page 434
 (v) at least three calendar days before the first public hearing held as required by Section
 20A-7-204.1;
 (vi) if the political issues committee has received or expended funds in relation to an initiative or
@@ -20379,8 +20371,6 @@ contribution;
 (ii) the identification of any publicly identified class of individuals that makes a political issues
 contribution to the reporting political issues committee, and the amount of the political issues
 contribution;
-Utah Code
-Page 435
 (iii) the name and address, if known, of any political issues committee, group, or entity that
 makes a political issues contribution to the reporting political issues committee, and the
 amount of the political issues contribution;
@@ -20403,6 +20393,8 @@ that, to the best of the person's knowledge, the financial statement is accurate
 (D) total expenditures during the period since the last statement; and
 (E) total expenditures to date.
 (b)
+Utah Code
+Page 435
 (i) Political issues contributions received by a political issues committee that have a value
 of $50 or less need not be reported individually, but shall be listed on the report as an
 aggregate total.
@@ -20427,8 +20419,6 @@ the contribution:
 (a) is cash or a negotiable instrument;
 (b) exceeds $50; and
 (c) is from an unknown source.
-Utah Code
-Page 436
 (5) Within 31 calendar days after receiving a contribution that is cash or a negotiable instrument,
 exceeds $50, and is from an unknown source, a political issues committee shall disburse the
 amount of the contribution to:
@@ -20451,6 +20441,8 @@ Subsection 20A-11-802(1)(a)(vii) or (viii) is guilty of a class B misdemeanor.
 (d) The lieutenant governor shall report all violations of Subsection (1)(c) to the attorney general.
 (2) Within 60 calendar days after a deadline for the filing of the January 10 statement, the
 lieutenant governor shall review each filed statement to ensure that:
+Utah Code
+Page 436
 (a) each political issues committee that is required to file a statement has filed one; and
 (b) each statement contains the information required by this part.
 (3) If it appears that any political issues committee has failed to file the January 10 statement, if
@@ -20471,8 +20463,6 @@ misdemeanor.
 impose a civil fine of $1,000 against a political issues committee that violates Subsection (4)
 (a).
 Amended by Chapter 448, 2025 General Session
-Utah Code
-Page 437
 Part 9
 General Requirements Governing Campaign Expenditures
 Superseded 1/1/2027
@@ -20494,6 +20484,8 @@ campaign committee authorized the advertisement; or
 name of the person who paid for the advertisement and state that the advertisement is not
 authorized by any candidate or candidate's committee.
 (2)
+Utah Code
+Page 437
 (a) A person that makes an expenditure for the purpose of financing an advertisement related to
 a ballot proposition shall ensure that the advertisement complies with Subsection (2)(b) if the
 advertisement expressly advocates:
@@ -20519,8 +20511,6 @@ issues committee.
 (a) A person who is not a reporting entity and pays for an electioneering communication shall file
 a report with the lieutenant governor within 24 hours of making the payment or entering into a
 contract to make the payment.
-Utah Code
-Page 438
 (b) The report shall include:
 (i) the name and address of the person described in Subsection (4)(a);
 (ii) the name and address of each person contributing at least $100 to the person described in
@@ -20542,6 +20532,8 @@ Amended by Chapter 18, 2022 General Session
 Effective 1/1/2027
 20A-11-901 Political advertisements -- Requirement that ads designate responsibility and
 authorization -- Report to lieutenant governor -- Unauthorized use of endorsements.
+Utah Code
+Page 438
 (1)
 (a) Whenever any person makes an expenditure for the purpose of financing an advertisement
 expressly advocating for the election or defeat of a clearly identified candidate, or solicits
@@ -20566,8 +20558,6 @@ advertisement expressly advocates:
 (iii) that a voter refrain from voting on a ballot proposition; or
 (iv) that a voter vote for or against a ballot proposition.
 (b) An advertisement described in Subsection (2)(a) shall:
-Utah Code
-Page 439
 (i) if paid for by a political issues committee, clearly state that the advertisement was paid for by
 the political issues committee;
 (ii) if paid for by another person but authorized by a political issues committee, clearly state
@@ -20592,6 +20582,8 @@ the advertisement is intended to be viewed.
 (c) campaign pins, buttons, and pens; or
 (d) similar small items upon which the disclosure statement cannot be conveniently printed.
 (5)
+Utah Code
+Page 439
 (a) A person who is not a reporting entity and pays for an electioneering communication shall file
 a report with the lieutenant governor within 24 hours of making the payment or entering into a
 contract to make the payment.
@@ -20614,8 +20606,6 @@ editorially any candidate for nomination or election.
 oppose editorially any candidate for nomination or election.
 Amended by Chapter 294, 2026 General Session
 20A-11-903 Rate of charge.
-Utah Code
-Page 440
           Any person or persons accepting expenditures from a candidate or a personal campaign
 committee shall provide services and furnish goods, materials, or things of value at a rate that does
 not exceed the charges made for comparable use to any other person considering amount of use,
@@ -20634,6 +20624,8 @@ before or at the conclusion of the poll.
 (a) impose a $100 fine on a person who fails to make the disclosure required under Subsection
 (1); and
 (b) deposit the fine described in Subsection (2)(a) in the General Fund.
+Utah Code
+Page 440
 (3) A person does not violate Subsection (1) if the person is prevented from making the disclosure
 at the conclusion of the poll, because the person being surveyed terminates the survey before
 the survey is completed.
@@ -20653,8 +20645,6 @@ statement is false or unlawful.
 (1) The chief election officer shall:
 (a) make each financial statement required by this chapter or Chapter 12, Part 2, Judicial
 Retention Elections:
-Utah Code
-Page 441
 (i) open to public inspection in the office of the chief election officer; and
 (ii) available for viewing on the Internet in accordance with Section 20A-11-103;
 (b) preserve those statements for at least five years; and
@@ -20677,6 +20667,8 @@ report:
 (b).
 (e) A government officer or employee who knowingly violates Subsection (3)(d) is guilty of a class
 B misdemeanor.
+Utah Code
+Page 441
 Amended by Chapter 202, 2026 General Session
 20A-11-1004 Summary of financial reports of political action committees and corporations.
 (1) The lieutenant governor's office shall prepare a summary of each financial report submitted by
@@ -20701,8 +20693,6 @@ committee;
 that received expenditures from the corporation, and the aggregate total of expenditures
 made by the corporation to each candidate, personal campaign committee, and political
 action committee; and
-Utah Code
-Page 442
 (ii) the name of each individual, entity, or group of individuals or entities that received
 disbursements from the corporation, and the aggregate total of disbursements made by the
 corporation to each individual, entity, or group of individuals or entities;
@@ -20722,6 +20712,8 @@ entity $100 for failing to file a financial statement by the filing deadline.
 to Subsection 20A-9-201(8)(d), the chief election officer shall impose the fine against the
 candidate or treasurer, as appropriate.
 (3) The chief election officer shall deposit fines collected under this chapter in the General Fund.
+Utah Code
+Page 442
 Amended by Chapter 11, 2018 General Session
 Amended by Chapter 83, 2018 General Session
 Part 11
@@ -20743,8 +20735,6 @@ any means whatsoever.
 (c) the compensation paid to the newspaper or periodical for inserting the paid advertisement is
 not more than the regular rate charged by the newspaper or periodical for that service.
 Enacted by Chapter 1, 1995 General Session
-Utah Code
-Page 443
 20A-11-1103 False statements in relation to candidates forbidden.
           A person may not knowingly make or publish, or cause to be made or published, any false
 statement in relation to any candidate, proposed constitutional amendment, or other measure, that
@@ -20762,6 +20752,8 @@ of the synthetic media.
 (c) "Digital content provenance" means purely factual information that:
 (i) details a digital resource's creator, origin, context, history, and editing process; and
 (ii) conforms to an open industry technical standard.
+Utah Code
+Page 443
 (d) "Generative artificial intelligence" means artificial intelligence technology that is capable of
 creating content such as text, audio, image, or video based on patterns learned from large
 volumes of data rather than being explicitly programmed with rules.
@@ -20789,8 +20781,6 @@ media but not synthetic audio media;
 but not synthetic audio media;
 (c) "This audio content generated by AI," if the video includes synthetic audio media but not
 synthetic visual media; or
-Utah Code
-Page 444
 (d) "This content generated by AI," if the communication includes both synthetic audio media and
 synthetic visual media.
 (5) In addition to the requirements in Subsections (3) and (4), a creator or sponsor who publishes
@@ -20808,6 +20798,8 @@ committed.
 (b) Compliance with this section does not exempt a person from civil or criminal liability for
 violations of other applicable law.
 Enacted by Chapter 172, 2024 General Session
+Utah Code
+Page 444
 Part 12
 Political Activities of Public Entities Act
 20A-11-1201 Title.
@@ -20831,8 +20823,6 @@ filing entity;
 donation, unpaid or partially unpaid loan, advance, deposit of money, or anything of value to a
 filing entity;
 (c) any transfer of funds from another reporting entity to a filing entity;
-Utah Code
-Page 445
 (d) compensation paid by any person or reporting entity other than the filing entity for personal
 services provided without charge to the filing entity;
 (e) remuneration from:
@@ -20854,6 +20844,8 @@ that receives some or all of its revenues from:
 of value;
 (b) an express, legally enforceable contract, promise, or agreement to make any purchase,
 payment, donation, distribution, loan, advance, deposit, gift of money, or anything of value;
+Utah Code
+Page 445
 (c) a transfer of funds between a public entity and a candidate's personal campaign committee;
 (d) a transfer of funds between a public entity and a political issues committee; or
 (e) goods or services provided to or for the benefit of a candidate, a candidate's personal
@@ -20881,8 +20873,6 @@ influence, directly or indirectly, any person to refrain from voting or to vote 
 20A-7-202 or 20A-7-502.
 (14) "Proposed referendum" means a referendum proposed in an application filed under Section
 20A-7-302 or 20A-7-602.
-Utah Code
-Page 446
 (15)
 (a) "Public entity" includes the state, each state agency, each county, municipality, school district,
 special district, governmental interlocal cooperation agency, and each administrative subunit
@@ -20904,6 +20894,8 @@ or determine public policy.
 (19)
 (a) "Special district" means an entity under Title 17B, Limited Purpose Local Government Entities
 - Special Districts.
+Utah Code
+Page 446
 (b) "Special district" includes a special service district under Title 17D, Chapter 1, Special Service
 District Act.
 (20)
@@ -20928,8 +20920,6 @@ proposed initiative, or a proposed referendum.
 (4) This section does not prohibit:
 (a) a public entity from conducting research, or collecting and compiling information or arguments
 in relation to, a ballot proposition, a proposed initiative, or a proposed referendum;
-Utah Code
-Page 447
 (b) an elected or appointed official of the public entity described in Subsection (4)(a) from using
 the research, information, or arguments described in Subsection (4)(a) for the purpose of
 advocating for or against a ballot proposition, proposed initiative, or proposed referendum via
@@ -20952,6 +20942,8 @@ containing the sponsors' research, information, and arguments for or against the
 proposition, proposed initiative, or proposed referendum, if the sponsors provide a link or
 address within seven calendar days after the day on which the sponsors receive the notice
 described in Subsection (4)(c)(i); or
+Utah Code
+Page 447
 (d) a public entity from posting on the public entity's website, or any medium, a complete copy of
 a proposition information pamphlet described in Section 20A-7-401.5 or a voter information
 pamphlet.
@@ -20976,8 +20968,6 @@ of the public official;
 (b) the mass communication is sent to another public official;
 (c) the mass communication is a news release sent to a news media organization; or
 (d) the public official is legally required to mail the mass communication.
-Utah Code
-Page 448
 Enacted by Chapter 96, 2025 General Session
 20A-11-1204 Criminal penalty.
           Each public official who violates Section 20A-11-1203 is guilty of a class B misdemeanor.
@@ -20994,6 +20984,8 @@ proposed bond, a bond, or any ballot proposition; or
 opportunity to be heard, impose a civil fine against a person who violates Subsection (1) as
 follows:
 (i) up to $250 for a first violation; and
+Utah Code
+Page 448
 (ii) except as provided in Subsection (3), for each subsequent violation committed after the
 lieutenant governor imposes a fine against the person for a first violation, $1,000 multiplied
 by the number of violations committed by the person.
@@ -21021,8 +21013,6 @@ rebuttal argument that:
 (iv) a communication solely with the sponsors of an initiative or referendum;
 (v) a communication solely with a land developer for a project permitted by a local land use law
 that is challenged by a proposed referendum or a referendum; or
-Utah Code
-Page 449
 (vi) a communication solely with a person involved in a business transaction directly relating to
 a project described in Subsection (5)(d)(v).
 (6) A violation of this section does not invalidate an otherwise valid election.
@@ -21042,6 +21032,8 @@ equal access to both the opponents and proponents of the ballot proposition.
 (b) A county or municipality may not provide any information to the public about a proposed
 initiative, initiative, proposed referendum, or referendum unless the county or municipality:
 (i) provides the information in a manner required, or expressly permitted, by law; or
+Utah Code
+Page 449
 (ii) is directly providing information solely to a person or a group of people in response to a
 question asked by the person or group of people.
 (3) Nothing in this chapter prohibits a public entity from the neutral encouragement of voters to
@@ -21068,8 +21060,6 @@ proposed referendum, or referendum at a public meeting, unless the county or mun
 provides equal opportunity for persons to present opposing arguments and rebuttal
 arguments at the public meeting.
 Amended by Chapter 203, 2019 General Session
-Utah Code
-Page 450
 Part 13
 State School Board Candidates
 20A-11-1301 School board office -- Campaign finance requirements -- Candidate as a
@@ -21087,6 +21077,8 @@ making authority as described in Section 20A-11-601.
 (b) A school board office candidate may not use money deposited in an account described in
 Subsection (1)(a)(i) for:
 (i) a personal use expenditure; or
+Utah Code
+Page 450
 (ii) an expenditure prohibited by law.
 (c)
 (i) Each school board officeholder shall deposit each contribution and public service assistance
@@ -21113,8 +21105,6 @@ remaining in a campaign account, the person shall continue to file the year-end 
 required by Section 20A-11-1302 until the statement of dissolution and final summary report
 required by Section 20A-11-1304 are filed with the lieutenant governor.
 (5)
-Utah Code
-Page 451
 (a) Except as provided in Subsection (5)(b) and Section 20A-11-402, a person who is no longer a
 school board office candidate may not expend or transfer the money in a campaign account in
 a manner that would cause the former school board office candidate to recognize the money
@@ -21137,6 +21127,8 @@ received within 30 calendar days before the day on which the convention is held;
 received within 30 calendar days before the day on which the primary election is held; or
 (C) the school board office candidate is contested in a general election and the contribution is
 received within 30 calendar days before the day on which the general election is held.
+Utah Code
+Page 451
 (c) For each contribution that a school board office candidate fails to report within the time period
 described in Subsection (6)(b), the chief election officer shall impose a fine against the school
 board office candidate in an amount equal to:
@@ -21163,8 +21155,6 @@ candidate's personal funds.
 school board office candidate are available for public access:
 (A) each fine imposed by the chief election officer against the school board office candidate;
 (B) the amount of the fine;
-Utah Code
-Page 452
 (C) the amount of the contribution to which the fine relates; and
 (D) the date of the contribution.
 (7) Within 31 calendar days after the day on which a school board office candidate receives a
@@ -21186,6 +21176,8 @@ with this part:
 (ii) an expenditure made from an account:
 (A) since the last campaign finance statement was filed; or
 (B) that has not been reported under a statute or ordinance that governs the account.
+Utah Code
+Page 452
 Amended by Chapter 283, 2026 General Session
 20A-11-1302 School board office candidate -- Financial reporting requirements -- Year-end
 summary report.
@@ -21211,8 +21203,6 @@ and
 (B) a specific description of the contribution;
 (vi) a detailed listing of each expenditure made since the last summary report that has not been
 reported in detail on an interim report;
-Utah Code
-Page 453
 (vii) for each nonmonetary expenditure, the fair market value of the expenditure;
 (viii) a net balance for the year consisting of the net balance from the last summary report, if
 any, plus all receipts minus all expenditures; and
@@ -21232,6 +21222,8 @@ Amended by Chapter 74, 2019 General Session
 reporting requirements -- Interim reports.
 (1)
 (a) As used in this section, "received" means:
+Utah Code
+Page 453
 (i) for a cash contribution, that the cash is given to a school board office candidate or a member
 of the school board office candidate's personal campaign committee;
 (ii) for a contribution that is a check or other negotiable instrument, that the check or other
@@ -21259,8 +21251,6 @@ candidacy for a public office:
 (2) If a school board office candidate is a school board office candidate seeking appointment for a
 midterm vacancy, the school board office candidate:
 (a) shall file an interim report:
-Utah Code
-Page 454
 (i) for a vacancy described in Subsection 20A-1-504(1)(b)(ii)(A) or (B), no later than three
 business days before the day on which the Senate meets to consider the school board
 office candidate's nomination; or
@@ -21281,6 +21271,8 @@ during the calendar year in which the interim report is due;
 (c) a single figure equal to the total amount of expenditures reported on all prior interim reports, if
 any, filed during the calendar year in which the interim report is due;
 (d) a detailed listing of:
+Utah Code
+Page 454
 (i) for a school board office candidate, each contribution received since the last summary report
 that has not been reported in detail on a prior interim report; or
 (ii) for a school board officeholder, each contribution and public service assistance received
@@ -21309,8 +21301,6 @@ calendar days before the required filing date of the report.
 (b) Any negotiable instrument or check received by a school board office candidate or school
 board officeholder more than five calendar days before the required filing date of a report
 required by this section shall be included in the interim report.
-Utah Code
-Page 455
 Amended by Chapter 90, 2025 General Session
 Amended by Chapter 448, 2025 General Session
 20A-11-1304 School board office candidate -- Financial reporting requirements --
@@ -21329,6 +21319,8 @@ is attached to the statement of dissolution.
 (4) Each school board office candidate shall continue to file the year-end summary report required
 by Section 20A-11-1302 until the statement of dissolution and final summary report required by
 this section are filed.
+Utah Code
+Page 455
 Enacted by Chapter 355, 1997 General Session
 20A-11-1305 School board office candidate -- Failure to file statement -- Penalties.
 (1) A school board office candidate who fails to file a financial statement by the deadline is subject
@@ -21355,8 +21347,6 @@ shall:
 candidate is disqualified;
 (b) send an email notification to each voter who is eligible to vote in the school board office race
 for whom the election officer has an email address informing the voter that the school board
-Utah Code
-Page 456
 office candidate is disqualified and that votes cast for the school board office candidate will
 not be counted;
 (c) post notice of the disqualification on the election officer's website; and
@@ -21377,6 +21367,8 @@ amended report or the next scheduled report.
 governor shall review each filed summary report to ensure that:
 (i) each school board office candidate who is required to file a summary report has filed the
 report; and
+Utah Code
+Page 456
 (ii) each summary report contains the information required by this part.
 (b) If it appears that a school board office candidate has failed to file the summary report
 required by law, if it appears that a filed summary report does not conform to the law, or if
@@ -21400,8 +21392,6 @@ Subsection (7)(c)(i).
 Amended by Chapter 448, 2025 General Session
 Part 14
 Voluntary Contributions Act
-Utah Code
-Page 457
 20A-11-1401 Title.
           This part is known as the "Voluntary Contributions Act."
 Enacted by Chapter 285, 2001 General Session
@@ -21420,6 +21410,8 @@ association and union for employees of public and private sector employers.
 (iii) "Labor organization" does not include organizations governed by the National Labor
 Relations Act, 29 U.S.C. Sec. 151 et seq. or the Railroad Labor Act, 45 U.S.C. Sec. 151 et
 seq.
+Utah Code
+Page 457
 (c) "Political fund" means a separate segregated fund established by a labor organization for
 political purposes that meets the requirements of this part.
 (d) "Political purposes" means an act done with the intent or in a way to influence or tend to
@@ -21444,8 +21436,6 @@ containing money received by a labor organization as union dues;
 (c) register the political fund as a political action committee or political issues committee as
 required by this chapter.
 (3)
-Utah Code
-Page 458
 (a) Except as otherwise provided in this part, a labor organization may only make expenditures
 for political purposes from a political fund established in accordance with this part.
 (b) A labor organization may not expend union dues for political purposes or transfer union dues
@@ -21464,6 +21454,8 @@ action to require the labor organization to comply with the requirements of this
 (2) Before bringing an action under Subsection (1), the attorney general shall:
 (a) notify the labor organization in writing of the precise nature of the violation of this part; and
 (b) give the labor organization 10 calendar days to cease and desist the violation of this part.
+Utah Code
+Page 458
 (3) The attorney general may not bring an action under Subsection (1) if the labor organization:
 (a) ceases and desists from violating this part within 10 calendar days; and
 (b) provides the attorney general with written confirmation that the labor organization has ceased
@@ -21483,8 +21475,6 @@ Enacted by Chapter 389, 2010 General Session
 20A-11-1502 Campaign financial reporting of expenditures -- Filing requirements --
 Statement contents.
 (1)
-Utah Code
-Page 459
 (a) Each labor organization that has made expenditures for political purposes or political issues
 expenditures on current or proposed ballot issues that total at least $750 during a calendar
 year shall file a verified financial statement with the lieutenant governor's office:
@@ -21506,6 +21496,8 @@ of this chapter.
 issues expenditure of more than $50 from the labor organization, and the amount of each
 expenditure or political issues expenditure;
 (b) the total amount of expenditures disbursed by the labor organization; and
+Utah Code
+Page 459
 (c) a statement by the labor organization's treasurer or chief financial officer certifying the
 accuracy of the financial statement.
 Amended by Chapter 448, 2025 General Session
@@ -21530,8 +21522,6 @@ seven calendar days after receiving notice from the lieutenant governor under th
 (c) The lieutenant governor shall report all violations of Subsection (3)(a) to the attorney general.
 (d) In addition to the criminal penalty described in Subsection (3)(b), the lieutenant governor shall
 impose a civil fine of $1,000 against a labor organization that violates Subsection (3)(a).
-Utah Code
-Page 460
 Amended by Chapter 448, 2025 General Session
 Part 16
 Conflict of Interest Disclosures
@@ -21546,6 +21536,8 @@ officeholder, a member of the officeholder's immediate family, or an individual 
 the officeholder is required to disclose under the provisions of this section, if that benefit or
 detriment is distinguishable from the effects of that action on the public or on the officeholder's
 profession, occupation, or association generally.
+Utah Code
+Page 460
 (2) "Conflict of interest disclosure" means a disclosure, on the website, of all information required
 under Section 20A-11-1604.
 (3) "Entity" means a corporation, a partnership, a limited liability company, a limited partnership,
@@ -21574,8 +21566,6 @@ officeholder's immediate household, or an individual claimed as a dependent for 
 income tax purposes by the regulated officeholder.
 (7) "Income" means earnings, compensation, or any other payment made to an individual for
 gain, regardless of source, whether denominated as wages, salary, commission, pay, bonus,
-Utah Code
-Page 461
 severance pay, incentive pay, contract payment, interest, per diem, expenses, reimbursement,
 dividends, or otherwise.
 (8)
@@ -21595,6 +21585,8 @@ the state treasurer, or the attorney general.
 (12) "Website" means the Candidate and Officeholder Conflict of Interest Disclosure Website
 described in Section 20A-11-1602.5.
 Amended by Chapter 16, 2025 Special Session 1
+Utah Code
+Page 461
 20A-11-1602.5 Candidate and Officeholder Conflict of Interest Disclosure Website.
 (1) The lieutenant governor shall, in cooperation with the county clerks, establish and administer a
 Candidate and Officeholder Conflict of Interest Disclosure Website.
@@ -21620,8 +21612,6 @@ candidacy:
 (b) A candidate who fails to comply with Subsection (1)(a) shall make a complete conflict of
 interest disclosure on the website no later than 5:00 p.m. on January 10.
 (c) A candidate is not required to comply with Subsection (1)(a) if the candidate:
-Utah Code
-Page 462
 (i) currently holds the office for which the candidate is seeking reelection;
 (ii) already, that same year, filed the conflict of interest disclosure for the office described in
 Subsection (1)(c)(i), in accordance Section 20A-11-1604; and
@@ -21640,6 +21630,8 @@ Section 20A-11-1604.
 (4) The lieutenant governor shall make the complete conflict of interest disclosure made by each
 candidate available for public inspection on the website.
 Amended by Chapter 45, 2023 General Session
+Utah Code
+Page 462
 20A-11-1604 Failure to disclose conflict of interest -- Failure to comply with reporting
 requirements.
 (1)
@@ -21667,8 +21659,6 @@ State Board of Education.
 (3) A state constitutional officer shall make a complete conflict of interest disclosure on the website:
 (a)
 (i) no sooner than January 1 each year, and before January 11 each year; or
-Utah Code
-Page 463
 (ii) if the state constitutional officer takes office after January 10, within 10 calendar days after
 the day on which the state constitutional officer takes office; and
 (b) each time the state constitutional officer changes employment.
@@ -21690,6 +21680,8 @@ the member takes office; and
 (b) subject to Subsection (7):
 (i) the name and address of each of the regulated officeholder's current employers and each of
 the regulated officeholder's employers during the preceding year; and
+Utah Code
+Page 463
 (ii) for each employer described in this Subsection (6)(b), a brief description of the employment,
 including the regulated officeholder's occupation and, as applicable, job title;
 (c) for each entity in which the regulated officeholder is an owner or officer, or was an owner or
@@ -21717,8 +21709,6 @@ unpaid position on a board of directors:
 regulated officeholder holds an ownership or other financial interest that the regulated
 officeholder believes may constitute a conflict of interest, including a description of the type of
 interest held by the regulated officeholder in the property;
-Utah Code
-Page 464
 (h) subject to Subsection (7):
 (i) the name of the regulated officeholder's spouse; and
 (ii) the name of each of the regulated officeholder's spouse's current employers and each of
@@ -21740,6 +21730,8 @@ best of the regulated officeholder's knowledge; and
 regulated officeholder's spouse is an at-risk government employee, as that term is defined in
 Subsection 63G-2-303(1)(a), the regulated officeholder may request the filing officer to redact
 from the conflict of interest disclosure:
+Utah Code
+Page 464
 (i) the regulated officeholder's employment information under Subsection (6)(b); and
 (ii) the regulated officeholder's spouse's name and employment information under Subsection
 (6)(h).
@@ -21766,8 +21758,6 @@ shall impose a civil penalty of $100 against a regulated officeholder who violat
 of this section, other than Subsection (1).
 Amended by Chapter 90, 2025 General Session
 Amended by Chapter 448, 2025 General Session
-Utah Code
-Page 465
 20A-11-1605 Failure to file -- Penalties.
 (1) Within 60 calendar days after the day on which a regulated officeholder is required to file
 a conflict of interest disclosure under Subsection 20A-11-1604(3), (4) or (5), the lieutenant
@@ -21788,6 +21778,8 @@ governor determines that a violation occurred.
 than the first business day that is at least five calendar days after the day on which the
 lieutenant governor determines that a violation occurred, notify the regulated officeholder of the
 violation and direct the regulated officeholder to file an amended report correcting the problem.
+Utah Code
+Page 465
 (4)
 (a) It is unlawful for a regulated officeholder to fail to file or amend a conflict of interest disclosure
 within seven calendar days after the day on which the regulated officeholder receives the
@@ -21808,8 +21800,6 @@ Part 17
 Independent Expenditures
 20A-11-1701 Title.
           This part is known as "Independent Expenditures."
-Utah Code
-Page 466
 Enacted by Chapter 60, 2014 General Session
 20A-11-1702 Definitions.
           As used in this part:
@@ -21829,6 +21819,8 @@ making authority;
 (v) an agent of a candidate; or
 (vi) a political issues committee.
 (b) "Independent expenditure" includes:
+Utah Code
+Page 466
 (i) the cost of creating and disseminating material for a public communication, including design
 and production costs; and
 (ii) a contract or other promise to make an expenditure described in Subsection (2)(a) or (2)(b)
@@ -21854,8 +21846,6 @@ reporting party:
 (a) reports the expenditure under another part in this chapter; and
 (b) in the report described in Subsection (2)(a):
 (i) identifies the expenditure as an independent expenditure; and
-Utah Code
-Page 467
 (ii) provides the information, described in Section 20A-11-1704, in relation to the independent
 expenditure.
 Amended by Chapter 83, 2018 General Session
@@ -21875,6 +21865,8 @@ address, and phone number;
 (i) the person's name, address, and phone number; and
 (ii) the name, address, and phone number of an individual who may be contacted by the chief
 election officer in relation to the independent expenditure report; and
+Utah Code
+Page 467
 (c) for each independent expenditure made by the person during the current election cycle that
 was not reported in a previous independent expenditure report:
 (i) the date of the independent expenditure;
@@ -21902,8 +21894,6 @@ report and certify that the information contained in the report is complete and 
 (5) If a person who files an independent expenditure report previously filed an independent
 expenditure report during, or in relation to, the same election cycle that includes information,
 described in Subsection (3)(a) or (b), that has changed since the person filed the previous
-Utah Code
-Page 468
 independent expenditure report, the person shall include in the most recent independent
 expenditure report a description of the information that has changed that includes both the old
 information and the new information.
@@ -21920,6 +21910,8 @@ Enacted by Chapter 60, 2014 General Session
 (1) The chief election officer shall impose a $100 fine against an individual who fails to file an
 independent expenditure report, that includes the information required for the report, within the
 time period required by this part.
+Utah Code
+Page 468
 (2) The chief election officer shall impose a $1000 fine against a person who is not an individual
 who fails to file an independent expenditure report, that includes the information required for the
 report, within the time period required by this part.
@@ -21941,8 +21933,6 @@ retention election every sixth year.
 (2)
 (a) Each justice or judge of a court of record who wishes to retain office shall, in the year the
 justice or judge is subject to a retention election:
-Utah Code
-Page 469
 (i) file a declaration of candidacy with the lieutenant governor, or with the county clerk in the
 candidate's county of residence, within the period beginning on July 1 and ending at 5 p.m.
 on July 15 in the year of a regular general election; and
@@ -21963,6 +21953,8 @@ courts in any other county.
 (a) The lieutenant governor shall, no later than August 31 of each regular general election year:
 (i) transmit a certified list containing the names of the justices of the Supreme Court, judges
 of the Court of Appeals, judges of the Business and Chancery Court, and judges of the
+Utah Code
+Page 469
 Constitutional Court if Title 78A, Chapter 5b, Constitutional Court, takes effect as described
 in Section 78A-5b-102, declaring their candidacy to the county clerk of each county; and
 (ii) transmit a certified list containing the names of judges of other courts declaring their
@@ -21990,8 +21982,6 @@ for the term of office provided by law.
 (b) If the justice or judge does not receive more yes votes than no votes, the justice or judge is
 not retained, and a vacancy exists in the office on the first Monday in January after the regular
 general election.
-Utah Code
-Page 470
 (6) A justice or judge not retained is ineligible for appointment to the office for which the justice or
 judge was defeated until after the expiration of that term of office.
 (7)
@@ -22008,6 +21998,8 @@ Amended by Chapter 38, 2026 General Session
 Part 3
 Campaign and Financial Reporting Requirements for Judicial Retention Elections
 20A-12-301 Definitions.
+Utah Code
+Page 470
           As used in this part:
 (1)
 (a) "Contribution" means any of the following when done for political purposes:
@@ -22035,8 +22027,6 @@ expenditure from corporate funds for political purposes.
 (b) "Corporation" does not mean:
 (i) a business organization's political action committee as defined in Section 20A-11-101 or
 political issues committee as defined in Section 20A-11-101; or
-Utah Code
-Page 471
 (ii) a business entity organized as a partnership or a sole proprietorship.
 (3) "Detailed listing" means:
 (a) for each contribution:
@@ -22058,6 +22048,8 @@ anything of value made for political purposes;
 (iii) an express, legally enforceable contract, promise, or agreement to make any purchase,
 payment, donation, distribution, loan, advance, deposit, gift of money, or anything of value
 for political purposes;
+Utah Code
+Page 471
 (iv) compensation paid by a corporation or reporting entity for personal services rendered by a
 person without charge to the judge or the judge's personal campaign committee;
 (v) a transfer of funds between the judge's personal campaign committee and another judge's
@@ -22083,8 +22075,6 @@ action committee, and a political issues committee.
 (10) "Summary report" means the year-end report containing the summary of a reporting entity's
 contributions and expenditures.
 Amended by Chapter 21, 2015 General Session
-Utah Code
-Page 472
 20A-12-301.5 Disclosure of actual source or recipient required.
 (1) As used in this section, "transactional intermediary" means a person, including a credit card
 company, a financial institution, or a money transfer service, that pays or transfers money to a
@@ -22103,6 +22093,8 @@ Court, and if the judge chooses to solicit contributions or make expenditures to
 retention, the judge may establish no more than one retention election personal campaign
 committee, consisting of one or more persons, to receive contributions, make expenditures,
 and shall file reports connected with the judge's retention election campaign.
+Utah Code
+Page 472
 (b) A judge or person acting in concert with or with the knowledge of the judge may not receive
 any contributions or make any expenditures other than through the personal campaign
 committee established under this section.
@@ -22128,8 +22120,6 @@ Enacted by Chapter 166, 2001 General Session
 20A-12-303 Separate account for campaign funds -- Reporting contributions.
 (1) The judge or the judge's personal campaign committee shall deposit each contribution in one or
 more separate personal campaign accounts in a financial institution.
-Utah Code
-Page 473
 (2) The judge or the judge's personal campaign committee may not deposit or mingle any
 contributions received into a personal or business account.
 (3)
@@ -22151,6 +22141,8 @@ days after the day on which the time period described in Subsection (3)(b) ends;
 calendar days after the day on which the time period described in Subsection (3)(b) ends.
 (d) The lieutenant governor shall:
 (i) deposit money received under Subsection (3)(c) into the General Fund; and
+Utah Code
+Page 473
 (ii) report on the lieutenant governor's website, in the location where reports relating to each
 judge are available for public access:
 (A) each fine imposed by the lieutenant governor against the judge;
@@ -22176,8 +22168,6 @@ been reported in detail on the interim report;
 (iv) for each nonmonetary contribution, the fair market value of the contribution;
 (v) a detailed listing of each expenditure made since the last summary report that has not been
 reported in detail on the interim report;
-Utah Code
-Page 474
 (vi) for each nonmonetary expenditure, the fair market value of the expenditure; and
 (vii) the net balance for the year, consisting of all contributions minus all expenditures.
 (b)
@@ -22197,6 +22187,8 @@ Amended by Chapter 389, 2010 General Session
 Interim report.
 (1) The judge's personal campaign committee shall file an interim report with the lieutenant
 governor seven calendar days before the regular general election date.
+Utah Code
+Page 474
 (2) Each interim report shall include the following information:
 (a) a detailed listing of each contribution received since the last financial statement;
 (b) for each nonmonetary contribution, the fair market value of the contribution;
@@ -22222,8 +22214,6 @@ general election, the lieutenant governor shall, after making a reasonable attem
 if the report was timely filed:
 (i) inform the county clerk and other appropriate election officials who:
 (A)
-Utah Code
-Page 475
 (I) shall, if practicable, remove the name of the judge from the ballots before the ballots are
 delivered to voters; or
 (II) shall, if removing the judge's name from the ballot is not practicable, inform the voters by
@@ -22245,6 +22235,8 @@ amended report or in the next scheduled report.
 governor shall review each filed summary report to ensure that:
 (i) each judge that is required to file a summary report has filed one; and
 (ii) each summary report contains the information required by this part.
+Utah Code
+Page 475
 (b) If it appears that any judge has failed to file the summary report required by law, if it appears
 that a filed summary report does not conform to the law, or if the lieutenant governor has
 received a written complaint alleging a violation of the law or the falsity of any summary
@@ -22265,8 +22257,6 @@ Elections to Federal Offices
 Part 1
 Selection of U.S. Congressional Representatives
 20A-13-101.1 Definitions.
-Utah Code
-Page 476
           As used in this part:
 (1) "Census block" means any one of the 71,207 individual geographic areas into which the Bureau
 of the Census of the United States Department of Commerce has divided the state of Utah, to
@@ -22287,6 +22277,8 @@ Utah.
 (4) "Shapefile" means the digital vector storage format for storing geometric location and
 associated attribute information.
 Amended by Chapter 2, 2025 Special Session 1
+Utah Code
+Page 476
 20A-13-101.5 Representatives to the United States Congress -- Four representative districts
 -- When elected -- District boundaries.
 (1)
@@ -22313,8 +22305,6 @@ the Congressional block equivalency file and resulting Congressional shapefile t
 electronic component of this bill:
 (i) for purposes of nominating and electing members of the United States Congress beginning
 January 1, 2026; and
-Utah Code
-Page 477
 (ii) for all other purposes beginning January 3, 2027.
 (c) The Legislature shall ensure that the Congressional shapefile, and Congressional boundaries
 generated from the Congressional shapefile, are accessible on the Utah Legislature's
@@ -22333,6 +22323,8 @@ using:
 (A) for the block equivalency file described in Subsection 20A-13-101.5(3)(a), block
 equivalency file security code "4cb8a686520fdb1c2385e0a9812ff403" and the
 corresponding Congressional shapefile; and
+Utah Code
+Page 477
 (B) for the block equivalency file described in Subsection 20A-13-101.5(3)(b), block
 equivalency file security code "00c65d65ecbe52d5d4b89f5daa3449a2" and the
 corresponding Congressional shapefile;
@@ -22359,8 +22351,6 @@ submit the county map and data to the lieutenant governor and to the geospatial 
 review.
 (c) Within 30 calendar days after the day on which the geospatial center receives a county map
 and data from a county clerk, the geospatial center shall:
-Utah Code
-Page 478
 (i) review the county map and data to evaluate if the county map and data accurately reflect
 the boundaries of Utah's Congressional districts established by the Legislature in the
 redistricting boundary data;
@@ -22380,6 +22370,8 @@ precincts and polling places within each Utah Congressional district according t
 procedures and requirements of Section 20A-5-303.
 (b) Within five business days after approval of voting precincts and polling places by the county
 legislative body as required by Section 20A-5-303, each county clerk shall submit a voting
+Utah Code
+Page 478
 precinct map identifying the boundaries of each voting precinct within the county to the
 lieutenant governor and to the geospatial center for review.
 (c) Within 30 calendar days after the day on which the geospatial center receives a map from a
@@ -22405,8 +22397,6 @@ upon discovery of the omission, shall attach the area to the appropriate Congres
 according to the requirements of Subsections (2) and (3).
 (2) If the omitted area is surrounded by a single Congressional district, the county clerk shall attach
 the area to that district.
-Utah Code
-Page 479
 (3) If the omitted area is contiguous to two or more Congressional districts, the county clerk
 shall attach the area to the district that has the least population, as determined by the Utah
 Population Committee.
@@ -22426,6 +22416,8 @@ whether the candidate or another individual resides in a particular Congressiona
 (c) an individual who is uncertain about which Congressional district contains the individual's
 residence because the boundary in the Congressional shapefile used to establish the district
 boundary has been removed, modified, or is unable to be identified.
+Utah Code
+Page 479
 (2)
 (a) An affected party may file a written request petitioning the lieutenant governor to determine:
 (i) the precise location of the Congressional district boundary;
@@ -22452,8 +22444,6 @@ necessary; and
 particular individual resides, the lieutenant governor shall send a letter identifying that district
 by number to:
 (i) the individual;
-Utah Code
-Page 480
 (ii) the affected party who filed the petition, if different than the individual whose Congressional
 district number was identified; and
 (iii) the county clerk of the affected county.
@@ -22467,6 +22457,8 @@ United States senator to serve for a period of six years.
 Enacted by Chapter 1, 1995 General Session
 Part 3
 Presidential Electors
+Utah Code
+Page 480
 20A-13-301 Presidential elections -- Effect of vote.
 (1)
 (a) Each registered political party shall choose individuals to act as presidential electors and to
@@ -22490,8 +22482,6 @@ Amended by Chapter 448, 2025 General Session
 20A-13-302 Certificate of election.
 (1) The lieutenant governor shall transmit certificates of election to each of the electors selected
 under Section 20A-13-301:
-Utah Code
-Page 481
 (a) if the candidates for president and vice president of the United States who receive the
 highest number of votes in the state are unaffiliated candidates or write-in candidates, by the
 candidate for president; or
@@ -22510,6 +22500,8 @@ candidate or party.
 (1) The electors shall meet at the office of the lieutenant governor at the state capitol at noon of the
 first Wednesday of the January after their election, or at noon of any other day designated by
 the Congress of the United States of America.
+Utah Code
+Page 481
 (2) After convening, the electors shall perform their duties in conformity with the United States
 Constitution and laws.
 (3) Any elector who casts an electoral ballot for an individual not nominated by the individual, or by
@@ -22529,8 +22521,6 @@ assigns each of Utah's 71,207 census blocks to a particular State Board of Educa
 (3) "Board shapefile" means the electronic shapefile that:
 (a) is the resulting projection of the Board block equivalency file; and
 (b) stores the boundary of each of the 15 State Board of Education districts.
-Utah Code
-Page 482
 (4) "Census block" means any one of the 71,207 individual geographic areas into which the Bureau
 of the Census of the United States Department of Commerce has divided the state of Utah, to
 each of which the Bureau of the Census has attached a discrete population tabulation from the
@@ -22551,6 +22541,8 @@ Education district boundaries.
 of the State Board of Education districts designated in the Board block equivalency file and
 resulting Board shapefile that is the electronic component of Laws of Utah 2021, Second
 Special Session, Chapter 10:
+Utah Code
+Page 482
 (i) for purposes of nominating and electing certain members of the State Board of Education
 beginning January 1, 2022; and
 (ii) for all other purposes beginning January 2, 2023.
@@ -22574,8 +22566,6 @@ resulting Board shapefile;
 (b) If there is any inconsistency between the district maps and the Board shapefile resulting from
 the Board block equivalency file, the Board shapefile is controlling.
 Amended by Chapter 10, 2021 Special Session 2
-Utah Code
-Page 483
 20A-14-102.1 Omissions from maps -- How resolved.
 (1) If any area of the state is omitted from a State Board of Education district in the Board shapefile
 in the possession of the lieutenant governor's office, the county clerk of the affected county,
@@ -22594,6 +22584,8 @@ Amended by Chapter 10, 2021 Special Session 2
 (a) "Affected party" means:
 (i) a state school board member whose State Board of Education district boundary is uncertain
 because the feature used to establish the district boundary in the Board shapefile has
+Utah Code
+Page 483
 been removed, modified, or is unable to be identified or who is uncertain about whether the
 member or another individual resides in a particular State Board of Education district;
 (ii) a candidate for state school board whose State Board of Education district boundary is
@@ -22620,8 +22612,6 @@ area.
 the lieutenant governor receives the request, the lieutenant governor shall:
 (i) complete the review described in Subsection (2)(b); and
 (ii) make a determination.
-Utah Code
-Page 484
 (d) If the lieutenant governor determines the precise location of the State Board of Education
 district boundary, the lieutenant governor shall:
 (i) prepare a certification identifying the appropriate State Board of Education district boundary
@@ -22642,6 +22632,8 @@ Amended by Chapter 448, 2025 General Session
 responsibilities -- Maps and voting precinct boundaries.
 (1) As used in this section:
 (a) "Geospatial center" means the Utah Geospatial Resource Center.
+Utah Code
+Page 484
 (b)  "Redistricting boundary data" means the Board shapefile in the possession of the lieutenant
 governor's office.
 (2) Each county clerk shall obtain a copy of the redistricting boundary data for the clerk's county
@@ -22668,8 +22660,6 @@ boundary data; and
 (ii) resubmit the corrected county map and data to the lieutenant governor for a new review
 under this Subsection (3).
 (4)
-Utah Code
-Page 485
 (a) Subject to the requirements of this Subsection (4), each county clerk shall establish voting
 precincts and polling places within each State Board of Education district according to the
 procedures and requirements of Section 20A-5-303.
@@ -22692,6 +22682,8 @@ incorrect, the county clerk shall:
 boundary data; and
 (ii) resubmit the corrected voting precinct map to the lieutenant governor and to the geospatial
 center for a new review under this Subsection (4).
+Utah Code
+Page 485
 Amended by Chapter 448, 2025 General Session
 20A-14-103 State Board of Education members -- Term -- Requirements.
 (1) Unless otherwise provided by law and except as provided in Subsection (2):
@@ -22715,8 +22707,6 @@ to which the member was elected at the 2020 General Election; and
 was elected, in representation of District 6, which is until January 6, 2025.
 (c) If neither or both incumbent State Board of Education members in District 6 file the written
 notice described in Subsection (2)(b):
-Utah Code
-Page 486
 (i) the incumbent members may serve until January 2, 2023, in representation of the district to
 which the members were elected at the 2020 General Election;
 (ii) the lieutenant governor shall designate District 6 as an office to be filled in the 2022 General
@@ -22739,6 +22729,8 @@ member was elected or appointed; and
 which the member was elected or appointed during the member's term of office.
 (5) A State Board of Education member may not, during the member's term of office, also serve as
 an employee of the State Board of Education.
+Utah Code
+Page 486
 Amended by Chapter 329, 2026 General Session
 20A-14-104.1 State Board of Education -- Candidacy.
 (1) A person interested in becoming a candidate for the office of State Board of Education member
@@ -22758,8 +22750,6 @@ Election of Members of Local Boards of Education
 a single municipality, and the municipal legislative body, for local school districts contained
 completely within a municipality, shall divide the local school district into local school board
 districts as required under Subsection 20A-14-202(1).
-Utah Code
-Page 487
 (2) The county and municipal legislative bodies shall divide the school district so that the local
 school board districts are substantially equal in population and are as contiguous and compact
 as practicable.
@@ -22782,6 +22772,8 @@ student membership under Section 20A-14-202.
 (4) If a school district receives territory containing less than 20% of the population of the transferee
 district at the time of the last redistricting, the local school board may assign the new territory to
 one or more existing school board districts.
+Utah Code
+Page 487
 (5) Except as provided in Subsection 53G-3-302(1)(b)(ii), redistricting does not affect the right of
 any school board member to complete the term for which the member was elected.
 (6)
@@ -22807,8 +22799,6 @@ two-year terms and which will elect members to four-year terms.
 (b) All subsequent elections are for four-year terms.
 (8) Within 10 calendar days after the day of a local school board district boundary change, the
 county or municipal legislative body making the change shall send an accurate map or plat
-Utah Code
-Page 488
 of the boundary change to the Utah Geospatial Resource Center created under Section
 63A-16-505.
 (9) Subsections (4) through (7) do not apply to a redistricting that occurs under Subsection (3)(b).
@@ -22830,6 +22820,8 @@ students but fewer than 100,000 students:
 increases the board to nine members; and
 (ii) the board of education of a school district with a student population of 100,000 or more
 students comprises nine members.
+Utah Code
+Page 488
 (e) Student population is based on the October 1 student count submitted by districts to the State
 Board of Education.
 (f) If the number of members of a local school board changes under Subsection (1)(b), (c), or
@@ -22853,8 +22845,6 @@ Subsections (1)(b) through (d).
 (i) One member of the local board of education shall be elected from each local school board
 district.
 (2)
-Utah Code
-Page 489
 (a) An individual seeking election to a local school board shall have been a resident of the local
 school board district in which the person is seeking election for at least one year immediately
 preceding the day of the general election at which the board position will be filled.
@@ -22878,6 +22868,8 @@ candidacy filing period described in Section 20A-9-201.5; and
 (2)
 (a) The term of office for an individual elected to a local board of education is four years,
 beginning on the first Monday in January after the election.
+Utah Code
+Page 489
 (b) A member of a local board of education shall serve until a successor is:
 (i) elected; or
 (ii) appointed and takes or signs the constitutional oath of office.
@@ -22893,8 +22885,6 @@ Enacted by Chapter 1, 1995 General Session
 20A-14-206 Student petition for student member on local school board.
 (1) A student petition requesting that a local school board appoint a nonvoting student member to
 the board may be submitted to the board under this section.
-Utah Code
-Page 490
 (2) The petition shall have the signatures of at least 500 students regularly enrolled in high school
 in the district or at least 10% of the number of students regularly enrolled in high school in the
 district, whichever is less.
@@ -22915,6 +22905,8 @@ Chapter 15
 Convention to Ratify Amendments to the Constitution of the United States
 Part 1
 Selection of Delegates to the Convention
+Utah Code
+Page 490
 20A-15-101 Scope and application of chapter.
 (1) The procedures contained in this section govern when the Congress of the United States:
 (a) proposes an amendment to the Constitution of the United States; and
@@ -22933,8 +22925,6 @@ Enacted by Chapter 1, 1995 General Session
 ratification convention from the state at large;
 (b) ensure that the election is held at least as soon as the next regular general election occurring
 more than three months after the amendment has been proposed by Congress; and
-Utah Code
-Page 491
 (c) either call a special election or schedule the election to be held at the same time as a regular
 or municipal general election.
 (2) Unless otherwise provided in this chapter, the election shall be conducted according to the
@@ -22961,6 +22951,8 @@ name of any nominee whose stated position in the nominating petition is inconsis
 of any other nominee listed in the petition.
 (e) The first page of a nominating petition described in this section shall include the following
 statement in at least the same size type as the majority of the other statements on the page:
+Utah Code
+Page 491
 "WARNING TO SIGNERS WITH PRIVATE VOTER REGISTRATION RECORDS
 If you sign this petition, your voter identification number and the date you signed may be
 publicly disclosed. This disclosure may occur even if you are an at-risk voter with a voter
@@ -22981,8 +22973,6 @@ state.
 (5)
 (a) A voter who signs a nomination petition under this section may have the voter's signature
 removed from the petition by, no later than 5 p.m. three business days after the last day
-Utah Code
-Page 492
 for filing the petitions, submitting to the lieutenant governor a statement requesting that the
 voter's signature be removed.
 (b) A statement described in Subsection (5)(a) shall comply with the requirements described in
@@ -23008,6 +22998,8 @@ Ratification of Proposed Change in Constitution of the United States";
 (vi) no heading or names at the head of the third perpendicular column;
 (vii) in the column headed "For Ratification of Proposed Change in Constitution of the United
 States," the names of the nominees nominated as in favor of ratification;
+Utah Code
+Page 492
 (viii) in the column headed "Against Ratification of Proposed Change in Constitution of the
 United States," the names of the nominees nominated as against ratification; and
 (ix) in the column without heading, spaces permitting the voter to write in other names; and
@@ -23028,8 +23020,6 @@ make a cross-mark in the CIRCLE at the head of the list of candidates for whom y
 vote. If you do this, make no other mark.
           To vote for an individual candidate, make a cross-mark in the SQUARE immediately
 adjacent to the name.
-Utah Code
-Page 493
           To vote for a person other than candidates listed on the ballot, write in the person's name
 in blank column.
           For ratification of proposed change in Constitution of the United States.
@@ -23051,6 +23041,8 @@ Amended by Chapter 18, 2022 General Session
 Part 2
 Ratification Convention Procedures
 20A-15-201 Convening -- Vacancies -- Election of officers -- Journal of proceedings.
+Utah Code
+Page 493
 (1) The delegates to the convention shall convene at the state capitol at noon on the 28th
 calendar day after the delegates' election to pass upon the question of whether the proposed
 amendment shall be ratified.
@@ -23072,8 +23064,6 @@ amendment; and
 (a) Delegates to the ratification convention shall:
 (i) serve without pay;
 (ii) receive a per diem of $4 per day while the convention is in session; and
-Utah Code
-Page 494
 (iii) receive  mileage at the rate of 10 cents per mile for the distance necessarily traveled in
 going to and returning from the place of meeting by the most usual route.
 (b) The lieutenant governor shall pay the per diem and mileage, together with the necessary
@@ -23092,6 +23082,8 @@ Uniform Military and Overseas Voters Act
 Part 1
 General Provisions
 20A-16-102 Definitions.
+Utah Code
+Page 494
           As used in this chapter:
 (1) "Covered voter" means an individual who:
 (a) satisfies Utah's voter eligibility requirements that do not relate to residency;
@@ -23113,8 +23105,6 @@ principal place of residence in a state other than Utah; or
 (C) whose parent, legal guardian, spouse, or domestic partner established the parent's, legal
 guardian's, spouse's, or domestic partner's most recent United States principal place of
 residence in Utah.
-Utah Code
-Page 495
 (2) "Dependent" means an individual recognized as a dependent by a uniformed service.
 (3) "Federal postcard application" means the application prescribed under the Uniformed and
 Overseas Citizens Absentee Voting Act, 52 U.S.C. Sec. 20301(b)(2).
@@ -23140,6 +23130,8 @@ States; or
 (c) the National Guard.
 (10) "Uniformed-service voter" means an individual who is qualified to vote and is:
 (a) a member of the active or reserve components of the armed forces who is on active duty;
+Utah Code
+Page 495
 (b) a member of the Merchant Marine, the commissioned corps of the Public Health Service,
 or the commissioned corps of the National Oceanic and Atmospheric Administration of the
 United States;
@@ -23160,8 +23152,6 @@ election for the district where the covered voter's parent, legal guardian, spou
 partner established the parent's, legal guardian's, spouse's, or domestic partner's most recent
 United States principal place of residence in Utah.
 Amended by Chapter 215, 2023 General Session
-Utah Code
-Page 496
 Part 2
 Administration of Military and Overseas Voting
 20A-16-201 Duties of lieutenant governor.
@@ -23181,6 +23171,8 @@ jurisdiction in the state; and
 (b) to the extent reasonably possible, coordinate with other states on the development required
 by Subsection (4)(a); and
 (5) prescribe the form and content of a declaration:
+Utah Code
+Page 496
 (a) for use by a covered voter to swear or affirm specific representations pertaining to the voter's
 identity, eligibility to vote, status as a covered voter, and timely and proper completion of an
 overseas-military ballot;
@@ -23200,8 +23192,6 @@ information required by Subsection (1).
 Amended by Chapter 448, 2025 General Session
 Part 3
 Voter Registration
-Utah Code
-Page 497
 20A-16-301 Overseas voter's registration address.
           Subject to Section 20A-16-103, in registering to vote, an overseas voter who is eligible to vote in
 the state shall:
@@ -23220,6 +23210,8 @@ ballot, if the declaration is received before the day of the election.
 (b) If the declaration is received on or after the day of the election, the declaration shall be
 treated as an application to register to vote for subsequent elections.
 (3)
+Utah Code
+Page 497
 (a) The lieutenant governor shall ensure that the electronic transmission system described in
 Subsection 20A-16-201(3) is capable of accepting both a federal postcard application and any
 other approved electronic registration application sent to the appropriate election official.
@@ -23243,8 +23235,6 @@ application and any other approved electronic military-overseas ballot applicati
 appropriate election official.
 (b) The voter may use the electronic transmission system or any other approved method to apply
 for a military-overseas ballot.
-Utah Code
-Page 498
 (4) A covered voter may use the declaration accompanying a federal write-in absentee ballot as an
 application for a military-overseas ballot simultaneously with the submission of the federal write-
 in absentee ballot, if the declaration is received by the appropriate election official before the
@@ -23263,6 +23253,8 @@ Amended by Chapter 215, 2023 General Session
 (2) An application for a military-overseas ballot for a regular primary election or municipal primary
 election, whether or not timely, is effective as an application for a military-overseas ballot for the
 regular general election or municipal general election.
+Utah Code
+Page 498
 Amended by Chapter 215, 2023 General Session
 20A-16-403 Transmission of unvoted ballots.
 (1) For an election for which the state has not received a waiver pursuant to the Military and
@@ -23287,8 +23279,6 @@ ballots and balloting materials to voters, the official charged with distributin
 balloting materials shall transmit the ballot and balloting materials to the voter no later than two
 business days after the day on which the application arrives.
 Amended by Chapter 448, 2025 General Session
-Utah Code
-Page 499
 20A-16-404 Timely casting of ballot.
           Except as provided by Section 20A-1-308, to be valid, a military-overseas ballot shall be:
 (1) received by the appropriate election officer not later than the close of the polls; or
@@ -23304,6 +23294,8 @@ Amended by Chapter 215, 2023 General Session
 with Section 20A-16-404 shall be counted if the military-overseas ballot is delivered by the end
 of business on the business day before the latest deadline for completing the canvass to the
 address that the appropriate state or local election office has specified.
+Utah Code
+Page 499
 (2) If, at the time of completing a military-overseas ballot and balloting materials, the voter has
 declared under penalty of perjury as provided in Title 76, Chapter 8, Part 5, Falsification in
 Official Matters, that the ballot was timely submitted, the ballot may not be rejected on the basis
@@ -23327,8 +23319,6 @@ application has been received and accepted;
 (2) whether the voter's military-overseas ballot has been received; and
 (3) the current status of the ballot.
 Enacted by Chapter 327, 2011 General Session
-Utah Code
-Page 500
 Part 5
 Miscellaneous
 20A-16-501 Use of voter's email address.
@@ -23344,6 +23334,8 @@ location, and informing the voter of the status of the voter's ballot in accorda
 (3) The request for an email address shall:
 (a) describe the purposes for which the email address may be used;
 (b) include a statement that any other use or disclosure of the email address is prohibited; and
+Utah Code
+Page 500
 (c) describe how a voter may sign up to receive ballot status notifications via the ballot tracking
 system described in Section 20A-3a-401.5.
 (4)
@@ -23371,8 +23363,6 @@ ballot the covered voter's choice for each office to be filled and for each ball
 be contested.
 (3)
 (a) A covered voter may request a copy of an election notice.
-Utah Code
-Page 501
 (b) The election officer shall send the notice to the covered voter by facsimile, email, or regular
 mail, as the covered voter requests.
 (4) As soon as the ballot is certified, and not later than the date ballots are required to be
@@ -23390,6 +23380,8 @@ omission does not invalidate the document.
 (b) Failure to satisfy a nonsubstantive requirement, including requirements to use paper or
 envelopes of a specified size or weight, does not invalidate a document submitted under this
 chapter.
+Utah Code
+Page 501
 (c) In a write-in ballot authorized by this chapter or in a vote for a write-in candidate on a regular
 ballot, if the intention of the covered voter is discernable under this state's uniform definition
 of what constitutes a vote, an abbreviation, misspelling, or other minor variation in the form of
@@ -23413,8 +23405,6 @@ Enacted by Chapter 327, 2011 General Session
           In applying and construing this uniform act, consideration shall be given to the need to promote
 uniformity of the law with respect to its subject matter among states that enact it.
 Enacted by Chapter 327, 2011 General Session
-Utah Code
-Page 502
 20A-16-506 Relation to Electronic Signatures in Global and National Commerce Act.
           This chapter modifies, limits, and supersedes the Electronic Signatures in Global and National
 Commerce Act, 15 U.S.C. Sec. 7001 et seq., but does not modify, limit, or supersede Section
@@ -23426,6 +23416,8 @@ Political Campaign Signs
 20A-17-101 Title.
           This chapter is known as "Political Campaign Signs."
 Enacted by Chapter 238, 2014 General Session
+Utah Code
+Page 502
 20A-17-101.5 Definitions.
 As used in this chapter:
 (1) "Contact information" means:
@@ -23455,8 +23447,6 @@ Act;
 (j) a public school, including a charter school or other publicly funded school;
 (k) a state institution of higher education;
 (l) an entity that expends public funds; and
-Utah Code
-Page 503
 (m) each office, agency, or other division of an entity described in Subsections (3)(a) through (l).
 (4) "Park strip" means the area of land located between a roadway and an adjacent sidewalk.
 (5) "Political sign" means any sign that advocates:
@@ -23476,6 +23466,8 @@ private party for a meeting, convention, or similar event.
 (iii) a city street, as described in Section 72-3-104;
 (iv) a class D road, as described in Section 72-3-105; or
 (v) a rail-based fixed guideway operated by a large public transit district.
+Utah Code
+Page 503
 (b) "Roadway" includes:
 (i) the right-of-way for a roadway; and
 (ii) infrastructure appurtenant to a roadway that is owned, maintained, or controlled by:
@@ -23503,8 +23495,6 @@ described in Subsection (1) is:
 (a) the sign owner;
 (b) the person who placed the political sign, the person who directed the placement of the
 political sign, or an agent of either;
-Utah Code
-Page 504
 (c) a property owner of property or of a right-of-way adjacent to property on which the political
 sign is placed, or the property owner's agent; or
 (d) a public official or government employee who removes the political sign in accordance with
@@ -23524,6 +23514,8 @@ period described in Subsection (4); or
 (i)
 (A) the size dimensions of the political sign are equal to or greater than the size dimensions
 described in Subsection 20A-11-901(4)(a); and
+Utah Code
+Page 504
 (B) the political sign does not contain the disclosure statement described in Subsection
 20A-11-901(1) or (2); or
 (ii) the political sign is posted or displayed in a location that violates the prohibition against
@@ -23551,8 +23543,6 @@ if the person:
 (b) obtains consent to post the political sign from the person described in Subsection (2)(a).
 (3) Nothing in this section prohibits a local government entity from regulating the posting of a
 political sign under this section to prevent a traffic, pedestrian, or line-of-sight hazard.
-Utah Code
-Page 505
 Amended by Chapter 294, 2026 General Session
 20A-17-104 Safeguarding and disposing of political signs -- County and municipal locations
 -- Reimbursement from sign owner.
@@ -23570,6 +23560,8 @@ a candidate for public office or the candidate's personal campaign committee;
 a candidate for public office or the candidate's personal campaign committee; or
 (iii) using any other lawful means available to the county or municipality;
 (c) make a reasonable attempt to contact the sign owner by telephone; and
+Utah Code
+Page 505
 (d) notify the sign owner, either during a direct conversation or in a voicemail, that the sign owner
 has five business days after the date of the notice to take possession of the political sign.
 (3) If a sign owner receives the notice described in Subsection (2)(d) but does not take possession
@@ -23599,8 +23591,6 @@ municipality obtains under Subsection (2)(b).
 reimbursement for safeguarding or disposing of the political sign.
 (c) The reimbursement amount that a county or municipality may seek for a political sign
 deposited at a location described in Subsection (1) may not exceed $20 per deposit incident,
-Utah Code
-Page 506
 regardless of the number of political signs belonging to the same sign owner that are included
 in that deposit.
 (6)
@@ -23615,6 +23605,8 @@ Enacted by Chapter 294, 2026 General Session
 Chapter 18
 Article V Convention
 20A-18-101 Article V convention delegates.
+Utah Code
+Page 506
 (1) As used in this section:
 (a) "Article V application" means an application or resolution passed by the Legislature applying
 to Congress to call an Article V convention.
@@ -23644,8 +23636,6 @@ or approves the proposing of an unauthorized amendment or change to the United S
 Constitution by the convention."
 (5) The Legislature shall certify in writing to the Article V convention:
 (a) the selection of delegates and alternates;
-Utah Code
-Page 507
 (b) if a delegate is recalled, the recall and replacement of the delegate with an alternate; and
 (c) if a delegate from the state violates Subsection (2), the nullification of the action that violated
 Subsection (2).
@@ -23658,6 +23648,8 @@ General Provisions
 20A-19-101 Title.
           This chapter is known as the "Utah Independent Redistricting Commission and Standards Act."
 Enacted by Statewide Initiative -- Proposition 4, Nov. 6, 2018
+Utah Code
+Page 507
 20A-19-102 Permitted Times and Circumstances for Redistricting.
           Division of the state into congressional, legislative, and other districts, and modification of
 existing divisions, is permitted only at the following times or under the following circumstances:
@@ -23683,8 +23675,6 @@ the proposed plan to the ensemble by calculating:
 (II) for each map the simulation generates, ranking the districts from worst performance for
 the reference party to best performance for the reference party, using the partisan index;
 (III) at each rank, calculating the average vote share for the reference party;
-Utah Code
-Page 508
 (IV) for each map the simulation generates, calculating the deviations between the
 reference party's performance at each rank and the average vote share at that rank;
 (V) squaring the deviations described in Subsection (1)(a)(ii)(A)(IV);
@@ -23704,6 +23694,8 @@ the average vote share described in Subsection (1)(a)(ii)(A)(IV);
 (iii) for which the following results fail the ensemble analysis:
 (A) a result described in Subsection (1)(a)(ii)(B)(VI) that is greater than the result described in
 Subsection (1)(a)(ii)(A)(VIII) of 95% of the ensemble districts; or
+Utah Code
+Page 508
 (B) a result described in Subsection (1)(a)(ii)(B)(VI) that is greater than the result described in
 Subsection (1)(a)(ii)(A)(VIII) of 95% of the ensemble districts after culling the ensemble to
 include only redistricting plans that pass the partisan bias test, as described in Subsection
@@ -23733,8 +23725,6 @@ election and 50% of the total seats representing the degree of partisan bias; an
 bias test:
 (A) for an even number of seats, 0; or
 (B) for an odd number of seats, 0.5.
-Utah Code
-Page 509
 (e) "Partisan index" means an average of the partisan vote share:
 (i) except as provided in Subsection (1)(e)(ii), in the three immediately preceding statewide
 elections for each of the following offices:
@@ -23752,6 +23742,8 @@ election or party convention for the same general election.
 generates a representative ensemble of districting plans for comparison in an ensemble
 analysis by building redistricting plans through a step-by-step random sampling method,
 weighting and resampling the plans to reflect legal and geometric criteria.
+Utah Code
+Page 509
 (g) "Unduly favor or disfavor" in regards to Subsection (4) for purposes of a congressional map,
 means the map is asymmetrical under the measures of partisan symmetry and fails the
 mean-median difference test.
@@ -23782,8 +23774,6 @@ party under Subsection (4)(a).
 (c) A redistricting plan that is symmetrical under the measures of partisan symmetry and passes
 the mean-median difference test does not unduly favor or disfavor a political party under
 Subsection (4)(a).
-Utah Code
-Page 510
 (5) The Legislature and the Commission shall use judicial standards and the best available data
 and scientific and statistical methods, including measures of partisan symmetry, to assess
 whether a proposed redistricting plan abides by and conforms to the redistricting standards
@@ -23802,6 +23792,8 @@ a political party shall base the review on the outcomes of the following, in acc
 section:
 (a) an ensemble analysis;
 (b) the partisan bias test; and
+Utah Code
+Page 510
 (c) the mean-median difference test.
 Amended by Chapter 1, 2025 Special Session 1
 20A-19-104 Severability.
@@ -23824,8 +23816,6 @@ provided in this Section.
 (c) the speaker of the House of Representatives;
 (d) the leader of the largest minority political party in the Senate;
 (e) the leader of the largest minority political party in the House of Representatives;
-Utah Code
-Page 511
 (f) the leadership of the majority political party in the Senate, including the president of the
 Senate, jointly with the leadership of the same political party in the House of Representatives
 and the speaker of the House of Representatives if a member of that political party; and
@@ -23845,6 +23835,8 @@ five years:
 (b) voted in any political party's regular primary election or any political party's municipal primary
 election; or
 (c) been a delegate to a political party convention.
+Utah Code
+Page 511
 (6) Each commissioner:
 (a) must have been at all times an active voter, as defined in Section 20A-1-102(1), during the
 four years preceding appointment to the Commission;
@@ -23873,8 +23865,6 @@ contained in this chapter;
 and impartial manner; and
 (iv) will not engage in any effort to purposefully or unduly favor or disfavor any incumbent
 elected official, candidate or prospective candidate for elective office, or any political party.
-Utah Code
-Page 512
 (b) The Commission and the governor shall make available to the public the statements required
 under Subsection (7)(a).
 (8)
@@ -23895,6 +23885,8 @@ occurs.
 (b) If the appointing authority at the time of the vacancy is of a different political party than that
 of the appointing authority when the original appointment was made, then the corresponding
 appointing authority of the same political party in the Senate, the House, or the leadership, as
+Utah Code
+Page 512
 the case may be, as the appointing authority that made the original appointment must make
 the appointment to fill the vacancy.
 (10) If an appointing authority fails to appoint a commissioner or to fill a vacancy by the deadlines
@@ -23919,8 +23911,6 @@ procure the services of staff, legal counsel, consultants, and experts, and may 
 computers, data, software, and other equipment and resources that are necessary to carry
 out its duties effectively.
 Enacted by Statewide Initiative -- Proposition 4, Nov. 6, 2018
-Utah Code
-Page 513
 20A-19-202 Commission Code of Conduct -- Quorum -- Action by the Commission --
 Assessment of Proposed Redistricting Plans -- Open and Public Meetings -- Public
 Hearings -- Ex Parte Communications.
@@ -23943,6 +23933,8 @@ assessments described in Section 20A-19-103(4) of any redistricting plan being c
 the Commission or by the Legislature, and shall promptly make the assessments available to
 the public.
 (7)
+Utah Code
+Page 513
 (a) The Commission shall establish and maintain a website, or other equivalent electronic
 platform, to disseminate information about the Commission, including records of its meetings
 and public hearings, proposed redistricting plans, and assessments of and reports on
@@ -23968,8 +23960,6 @@ permitted under Section 20A-19-102(1)-(2) as follows:
 (vii) one in the Wasatch Front region--Davis, Morgan, Salt Lake, Tooele, or Weber County.
 (b) The Commission shall hold at least two public hearings in a first or second class county but
 not in the same county.
-Utah Code
-Page 514
 (10) Each public hearing must provide those in attendance a reasonable opportunity to submit
 written and oral comments to the Commission and to propose redistricting plans for the
 Commission's consideration.
@@ -23992,6 +23982,8 @@ the public.
 (b) A commissioner shall make the disclosure required by Subsection (12)(a) before the
 redistricting plan or element of a plan is considered by the Commission.
 Enacted by Statewide Initiative -- Proposition 4, Nov. 6, 2018
+Utah Code
+Page 514
 20A-19-203 Selection of Recommended Redistricting Plan.
 (1) The Commission shall prepare and, by the affirmative vote of at least five commissioners, adopt
 at least one and as many as three redistricting plans that the Commission determines divide the
@@ -24013,8 +24005,6 @@ the State of Utah under Subsection (2)(a), at least one plan must be supported b
 commissioner appointed under Section 20A-19-201(3)(f), and at least one plan must be
 supported by the commissioner appointed under Section 20A-19-201(3)(g).
 Enacted by Statewide Initiative -- Proposition 4, Nov. 6, 2018
-Utah Code
-Page 515
 20A-19-204 Submission of Commission's Recommended Redistricting Plans to the
 Legislature -- Consideration of Redistricting Plans by the Legislature -- Report Required if
 Legislature Enacts Other Plan.
@@ -24039,6 +24029,8 @@ Commission's recommended redistricting plan or plans.
 Supreme Court of the State of Utah to satisfy their duties under this chapter, including the
 consideration and assessment of redistricting plans, public hearings, and the selection of one or
 more recommended redistricting plans.
+Utah Code
+Page 515
 (4) The Legislature may not enact a redistricting plan or modification of any redistricting plan
 unless the plan or modification has been made available to the public by the Legislature,
 including by making it available on the Legislature's website, or other equivalent electronic
@@ -24060,8 +24052,6 @@ response to:
 submitted to the Legislature under Subsection (1); or
 (iii) the Legislature's consideration or enactment of any modification to a redistricting plan.
 Enacted by Statewide Initiative -- Proposition 4, Nov. 6, 2018
-Utah Code
-Page 516
 Part 3
 Private Right of Action for Utahns
 20A-19-301 Right of Action and Injunctive Relief.
@@ -24084,6 +24074,8 @@ or collateral in connection with obtaining any relief under this Section.
 at issue de novo.
 (5) If a plaintiff bringing an action under this Section is successful in obtaining any relief under
 Subsection (2), the court shall order the defendant in the action to promptly pay reasonable
+Utah Code
+Page 516
 compensation for actual, necessary services rendered by an attorney, consulting or testifying
 expert, or other professional, or any corporation, association, or other entity or group of
 other persons, employed or engaged by the plaintiff, and to promptly reimburse the attorney,
@@ -24108,8 +24100,6 @@ or if specifically so identified, are not likely to have evidentiary support aft
 opportunity for further investigation or discovery.
 (7) Notwithstanding Title 63G, Chapter 7, Governmental Immunity Act of Utah, a governmental
 entity named as a defendant in any action brought under this Section is not immune from such
-Utah Code
-Page 517
 action or from payment of compensation or reimbursement of expenses awarded by the court
 under Subsection (5).
 (8) Upon the issuance of a permanent injunction under Subsection (2), the Legislature may enact a
@@ -24125,6 +24115,8 @@ General Provisions
 Enacted by Chapter 288, 2020 General Session
 20A-20-102 Definitions.
           As used in this chapter:
+Utah Code
+Page 517
 (1) "Commission" means the Utah Independent Redistricting Commission created in Section
 20A-20-201.
 (2) "Committee" means the Legislature's redistricting committee.
@@ -24144,8 +24136,6 @@ process.
 Enacted by Chapter 288, 2020 General Session
 Part 2
 Commission
-Utah Code
-Page 518
 20A-20-201 Utah Independent Redistricting Commission -- Creation -- Membership -- Term --
 Quorum -- Action -- Meetings -- Staffing -- Website.
 (1)
@@ -24167,6 +24157,8 @@ Senate;
 House of Representatives;
 (f) one member appointed jointly by the president of the Senate and the speaker of the House of
 Representatives; and
+Utah Code
+Page 518
 (g) one member appointed jointly by the legislative leader of the largest minority political party
 in the Senate and the legislative leader of the largest minority political party in the House of
 Representatives.
@@ -24193,8 +24185,6 @@ the appointing authority described in Subsection (2)(e) shall make the appointme
 the appointing authority described in Subsection (2)(b) shall make the appointment.
 (e) If the appointing authority described in Subsection (2)(e) fails to timely make the appointment,
 the appointing authority described in Subsection (2)(c) shall make the appointment.
-Utah Code
-Page 519
 (f) If the appointing authority described in Subsection (2)(f) fails to timely make the appointment,
 the appointing authority described in Subsection (2)(g) shall make the appointment.
 (g) If the appointing authority described in Subsection (2)(g) fails to timely make the appointment,
@@ -24216,6 +24206,8 @@ Legislature;
 to any person appointed by the governor or Legislature to any other public office.
 (6) In addition to the qualifications described in Subsection (5), a member of the commission
 described in Subsection (2)(f) or (g):
+Utah Code
+Page 519
 (a) may not have, during the two-year period immediately preceding the member's appointment
 to the commission:
 (i) been affiliated with a political party under Section 20A-2-107;
@@ -24243,8 +24235,6 @@ governor's signature, or in the case of a veto, the date of veto override.
 service, but may receive per diem and travel expenses in accordance with:
 (i) Section 63A-3-106;
 (ii) Section 63A-3-107; and
-Utah Code
-Page 520
 (iii) rules made by the Division of Finance pursuant to Sections 63A-3-106 and 63A-3-107.
 (b) A member of the commission may decline to receive per diem or travel expenses.
 (10) The commission shall meet upon the request of a majority of the commission members or
@@ -24265,6 +24255,8 @@ Procurement Code, to fulfill the duties of the commission.
 (c) access evaluations described in Subsection 20A-20-302(8);
 (d) submit a map to the commission; and
 (e) submit comments on a map presented to, or under consideration by, the commission.
+Utah Code
+Page 520
 Amended by Chapter 344, 2021 General Session
 20A-20-202 Software and software services.
           The Office of Legislative Research and General Counsel shall, when procuring software,
@@ -24289,8 +24281,6 @@ Subsection (1).
 (iii) Title 63G, Chapter 2, Government Records Access and Management Act;
 (iv) Title 63G, Chapter 6a, Utah Procurement Code; and
 (v) Title 63J, Chapter 1, Budgetary Procedures Act.
-Utah Code
-Page 521
 (3) Subject to the requirements of Subsection 63E-1-304(2), the commission may participate in
 coverage under the Risk Management Fund created by Section 63A-4-201.
 (4)
@@ -24308,6 +24298,8 @@ code of ethics adopted under Subsection (4)(a) to be grounds to remove a member 
 commission for cause.
 Amended by Chapter 274, 2022 General Session
 Part 3
+Utah Code
+Page 521
 Proceedings
 20A-20-301 Public hearings -- Private conversations.
 (1)
@@ -24333,8 +24325,6 @@ not in the same county.
 (2) Each public hearing must provide those in attendance a reasonable opportunity to submit
 written and oral comments to the commission and to propose redistricting maps for the
 commission's consideration.
-Utah Code
-Page 522
 (3) The commission shall hold the public hearings described in Subsection (1), during the year
 following a decennial year, no later than:
 (a) October 17, if the commission receives the linked PL94-171 data on or before September 1;
@@ -24356,6 +24346,8 @@ after the day on which the Legislature appoints a committee, under Subsection 20
 (a)(ii), for a special redistricting, jointly agree on a schedule for the commission that:
 (a) reasonably ensures that the commission may complete the commission's duties in a timely
 manner, consistent with the time frame applicable to the committee and the Legislature;
+Utah Code
+Page 522
 (b) establishes deadlines for the following:
 (i) holding the public hearings described in Subsection (1);
 (ii) preparing and recommending maps under Subsection 20A-20-302(2);
@@ -24381,8 +24373,6 @@ population and the ideal district population;
 (iii) calculating the percentage difference between the population of the district with the lowest
 population and the ideal district population; and
 (iv) combining the percentage differences described in Subsections (1)(b)(ii) and (iii).
-Utah Code
-Page 523
 (2) The commission shall, no later than 14 days after the day of the final public hearing described
 in Subsection 20A-20-301(1), prepare and recommend three different maps for each map type,
 as follows:
@@ -24404,6 +24394,8 @@ commission; and
 as follows:
 (A) one of the maps shall be approved by a majority that includes the commission member
 described in Subsection 20A-20-201(2)(f); and
+Utah Code
+Page 523
 (B) one of the maps shall be approved by a majority that includes the commission member
 described in Subsection 20A-20-201(2)(g).
 (4) The commission shall ensure that:
@@ -24431,8 +24423,6 @@ following, as defined by the commission:
 (i) an incumbent elected official;
 (ii) a candidate or prospective candidate for elected office; or
 (iii) a political party.
-Utah Code
-Page 524
 (6) The commission may adopt a standard that prohibits the commission from using any of the
 following, except for the purpose of conducting an assessment described in Subsection (8):
 (a) partisan political data;
@@ -24453,6 +24443,8 @@ redistricting standards adopted by the commission.
 standards and, as determined by the commission, the best available data and scientific
 methods.
 Amended by Chapter 306, 2021 General Session
+Utah Code
+Page 524
 20A-20-303 Submission of maps to Legislature -- Consideration by Legislature.
 (1) The commission shall, no later than 14 days after the day of the final public hearing described
 in Subsection 20A-20-301(1), submit to the director of the Office of Legislative Research
@@ -24476,8 +24468,6 @@ which the commission complies with Subsection (1); and
 (5) The committee or the Legislature may, but is not required to, vote on or adopt a map submitted
 to the committee or the Legislature by the commission.
 Amended by Chapter 306, 2021 General Session
-Utah Code
-Page 525
 Chapter 21
 Electronic Signature Gathering
 Part 1
@@ -24494,6 +24484,8 @@ General Provisions
 (6) "Manual candidate qualification process" means the same as that term is defined in Section
 20A-9-101.
 (7) "Petition" means:
+Utah Code
+Page 525
 (a) as it relates to the electronic initiative process or the electronic referendum process, the
 electronic record that an individual signs to indicate the individual is in favor of placing the
 initiative or referendum on the ballot; or
@@ -24517,8 +24509,6 @@ Part 2
 Electronic Signature Gathering Requirements
 20A-21-201 Electronic signature gathering for an initiative, a referendum, or candidate
 qualification.
-Utah Code
-Page 526
 (1) After filing a petition for a statewide initiative or a statewide referendum, and before gathering
 signatures, the sponsors shall, after consulting with the Office of the Lieutenant Governor, sign
 a form provided by the Office of the Lieutenant Governor indicating whether the sponsors will
@@ -24537,6 +24527,8 @@ manually, electronically, or both.
 (ii) except as provided in Subsection (4)(a)(iii), does not store a signature or any other
 information relating to an individual signing the petition in any location other than the
 location used by the website to store the information;
+Utah Code
+Page 526
 (iii) does not, on the device, store a signature or any other information relating to an individual
 signing the petition except for the minimum time necessary to upload information to the
 website;
@@ -24566,8 +24558,6 @@ identification card to the signature-gatherer;
 identification card is the individual signing the petition;
 (iii) the signature-gatherer shall scan or enter the driver license number or state identification
 card number through the approved device; and
-Utah Code
-Page 527
 (iv) immediately after the signature-gatherer complies with Subsection (6)(a)(iii), the website
 shall determine whether the individual desiring to sign the petition is eligible to sign the
 petition;
@@ -24587,6 +24577,8 @@ upload the image to the website; and
 (B) may, at the discretion of the individual, enter the individual's date of birth or age after
 the individual clicks on the screen acknowledging that they have read and understand
 the following statement, "Birth date or age information is not required, but may be used
+Utah Code
+Page 527
 to verify your identity with voter registration records. If you choose not to provide it, your
 signature may not be verified as a valid signature if you change your address before your
 signature is verified or if the information you provide does not match your voter registration
@@ -24616,8 +24608,6 @@ identification, certify the signature if:
 (9) An individual who is a signature-gatherer may not sign a petition unless another individual acts
 as the signature-gatherer when the individual signs the petition.
          
-Utah Code
-Page 528
          
          
          
@@ -24636,6 +24626,8 @@ Subsection (10); and
 (b) if a signature certified by a county clerk under Subsection (6)(c)(ii)(A) is not timely verified in
 accordance with Subsection (10), the county clerk shall:
 (i) revoke the certification;
+Utah Code
+Page 528
 (ii) remove the signature from the posting described in Subsection 20A-7-217(4), 20A-7-315(4),
 20A-7-516(4), or 20A-7-616(4); and
 (iii) update the totals described in Subsections 20A-7-217(5)(a)(ii), 20A-7-315(5)(a)(ii),

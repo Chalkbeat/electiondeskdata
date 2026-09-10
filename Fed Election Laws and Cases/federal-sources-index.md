@@ -1,6 +1,6 @@
 # Federal election law sources — index
 
-Compiled from 'AI Search Tool inputs.xlsx' on 2026-08-26. 142 source documents (federal court cases, statutes, constitutional provisions, regulations, and agency guidance) for the VB Election Desk ClearFeed knowledge base.
+Compiled from 'AI Search Tool inputs.xlsx' on 2026-09-09. 142 source documents (federal court cases, statutes, constitutional provisions, regulations, and agency guidance) for the VB Election Desk ClearFeed knowledge base.
 
 ## Federal court cases
 

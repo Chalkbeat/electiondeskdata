@@ -1,7 +1,7 @@
 # New Hampshire — New Hampshire Revised Statutes, Title LXIII — Elections
 
 Source: official text scraped from https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII.htm
-Sections: 731
+Sections: 736
 
 ## New Hampshire § 652-1
 
@@ -256,7 +256,7 @@ Source.
 
 ## New Hampshire § 652-16-h
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 652-16-h. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/652/652-16-h.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 652-16-h. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/652/652-16-h.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -268,8 +268,9 @@ Section 652:16-h
 Electioneering means visibly displaying or audibly disseminating information that a reasonable person would believe explicitly advocates for or against any candidate, political party, or measure being voted. Electioneering includes, but is not limited to:
 I. Wearing clothing or paraphernalia that displays a candidate's name, likeness, or logo, a ballot measure's number, title, subject, or logo, a political party's name or logo, or any communication that a reasonable person would believe explicitly advocates for or against any candidate, political party, or measure. A person who is eligible to vote or register to vote in the voting district who is unable to reasonably remove or cover such clothing may wear such clothing in the polling place while actively and expeditiously engaged in the process of registering to vote or while actively and expeditiously engaged in the process of voting.
 II. Distributing or posting a card, handbill, poster, placard, picture, pin, sticker, circular, or any other form of communication that a reasonable person would believe explicitly advocates for or against any candidate, political party, or measure.
+III. Organizing or conducting surveys that are expressly or primarily political, meaning that they have a format, questions, or other characteristics that clearly indicate a preference for one or more candidates or political parties in an election or one or more policies that are reasonably anticipated to be on the ballot or otherwise at issue in an election. This paragraph shall also apply to any person identified in RSA 273-A:1, IX(b), (c), or (d).
 Source.
-2020, 36:1, eff. Jan. 1, 2020. 2025, 217:1, eff. Sept. 13, 2025.
+2020, 36:1, eff. Jan. 1, 2020. 2025, 217:1, eff. Sept. 13, 20252026, 285:3, eff. Jan. 1, 2026.
 
 ## New Hampshire § 652-17
 
@@ -700,7 +701,7 @@ Source.
 
 ## New Hampshire § 653-8
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 653-8. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/653/653-8.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 653-8. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/653/653-8.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -708,10 +709,14 @@ CHAPTER 653
 ELECTION OF OFFICERS AND DELEGATES
 Election Dates
 Section 653:8
+[RSA 653:8 effective until January 1, 2028;  see also RSA 653:8  set out below.]
 653:8 State Primary Election. –
 The state primary election shall be held on the second Tuesday in September of every even-numbered year.
+[RSA 653:8 effective January 1, 2028;  see also RSA 653:8  above.]
+653:8 State Primary Election. –
+The state primary election shall be held on the second Tuesday in June of every even-numbered year.
 Source.
-1979, 436:1, eff. July 1, 1979.
+1979, 436:1, eff. July 1, 1979. 2026, 44:1, eff. Jan. 1, 2028.
 
 ## New Hampshire § 653-9
 
@@ -774,7 +779,7 @@ Source.
 
 ## New Hampshire § 654-12
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-12. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-12.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-12. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-12.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -802,15 +807,20 @@ I. When determining the qualifications of an applicant desiring to register to v
 (1) Photo driver's license issued by any state or the federal government.
 (2) United States passport, armed services identification, or other photo identification issued by the United States government.
 (3) Photo identification issued by local or state government.
+[Paragraph I(d)(4) effective until September 8, 2026; see also paragraph I(d)(4) set out below.]
 (4) Any other evidence that reasonably establishes that it is more likely than not that the person is who they claim to be, including verification of the person's identity by the moderator or another election official.
+[Paragraph I(d)(4) effective September 8, 2026; see also paragraph I(d)(4) set out above.]
+(4) Any other evidence that reasonably establishes that it is more likely than not that the person is who they claim to be. Notwithstanding any law to the contrary, residents of a nursing home or similar facility may prove their identity through verification of identity by the administrator of the facility or by his or her designee. The administrator, or his or her designee, verifying such a person shall also sign the application. For the purposes of this section, the application of a person whose identity has been verified by an official of a nursing home or similar facility shall be treated in the same manner as the application of a person who proved his or her identity with a photo identification.
 Residents of a nursing home or similar facility may prove their identity through verification of identity by the administrator of the facility or by his or her designee. For the purposes of this section, the application of a person whose identity has been verified by an official of a nursing home or similar facility shall be treated in the same manner as the application of a person who proved his or her identity with a photo identification.
 II. The evidence described or presumptions established in paragraph I may be defeated by evidence establishing that it is more likely than not that the applicant is not qualified as a voter.
+II-a. (a) If a person claiming to be qualified to vote is unable to provide reasonable documentation establishing that the person is a citizen of the United States, at the request of such person, the supervisors of the checklist, the city or town clerk, or other authorized election official shall attempt to confirm the person's citizenship through the office of the secretary of state. The secretary of state shall make reasonable efforts to determine whether the person is a United States citizen by accessing relevant and available in-state, out-of-state, and federal databases that contain such information. However, if the request to verify citizenship status is made on election day, neither local election officials nor the secretary of state shall be required to expend such time or effort on citizenship verification as would unreasonably interfere with their other election day duties. If the person's United States citizenship is verified, the secretary of state shall notify the local election official, and the citizenship criteria for voting shall be deemed satisfied. The local official shall then note on the person's voter registration application form "U.S. citizenship verified" and shall indicate on the form the date and the basis upon which such verification was made.
+(b) If a person claiming to be qualified to vote asserts that he or she is unable due to indigency to provide documentation to establish that he or she is a United States citizen, and if efforts to verify the person's citizenship pursuant to subparagraph (a) are not successful, the city or town clerk or the secretary of state may request such person to complete a financial affidavit on a form developed for this purpose by the secretary of state. If, based upon criteria established by the secretary of state, it appears that the person qualifies as indigent, the clerk or the secretary may provide the person with a voucher sufficient to cover the cost for the person to obtain a certified copy of the person's birth certificate or other equivalent documentation to establish the person's status as a United States citizen. The person shall be specifically informed that it is the person's responsibility to communicate with the appropriate vital records agency in the state of the person's birth and to use the funds provided through the voucher to pay any required fee to obtain the person's birth certificate or equivalent proof of citizenship, and that such documentation shall be provided to the local election officials on or before the day of the election in order for the person to satisfy the citizenship criteria for voting. The secretary of state shall reimburse local municipalities for the costs of all vouchers issued by city or town clerks pursuant to this subparagraph.
 III. Any person who is applying for registration as a voter and who is currently registered to vote in a different town or ward in New Hampshire shall complete the voter registration form provided for in RSA 654:7. If the election official receiving the application confirms through the centralized voter registration database required by RSA 654:45 or other official records that the applicant was previously or is currently registered to vote in New Hampshire, the applicant shall prove identity and domicile, but shall not be required to prove his or her age or citizenship.
 IV. A person who has registered to vote in the town or ward in which the person seeks to vote prior to election day need not provide proof of citizenship, age, or domicile at the polling place on election day, but shall provide proof of identification establishing that he or she is the same person who previously registered to vote.
 V. Any dispute as to whether a person has met the requirements to register to vote or to vote shall be decided by the election official of the town or ward in charge of voter registration or in charge of the polling place if the dispute arises at the polling place. A person aggrieved by the decision of said official may take an immediate appeal to the superior court, which shall hear the appeal forthwith and shall make every reasonable effort to decide the matter as soon as possible and before the close of the polls on election day.
-VI. The department of state shall provide access to data from centralized voter registration records, records from the department of safety, and New Hampshire vital records provided in accordance with RSA 654:45 to assist voters in providing proof of citizenship, age, domicile, and identity to the city and town clerks. The secretary of state shall work with the city and town clerks to ensure access on election day at the polling location. If proof of age, citizenship, domicile, or identity information of a voter is provided pursuant to this section, it shall satisfy that registration requirement for that qualification. Absence of data shall not disqualify a person. It shall be the applicant's responsibility to provide appropriate additional proof of their qualifications as required by this chapter.
+VI. The department of state shall provide access to data from centralized voter registration records, records from the department of safety, and New Hampshire vital records provided in accordance with RSA 654:45 to assist voters in providing proof of citizenship, age, domicile, and identity to the city and town clerks. The secretary of state shall work with the city and town clerks to ensure direct or indirect access on election day at the polling location to the statewide centralized voter registration database on each state, local, and federal election day during the operating hours of that polling place. If proof of age, citizenship, domicile, or identity information of a voter is provided pursuant to this section, it shall satisfy that registration requirement for that qualification. Absence of data shall not disqualify a person. It shall be the applicant's responsibility to provide appropriate additional proof of their qualifications as required by this chapter.
 Source.
-1979, 436:1. 1990, 119:8. 1992, 287:6, 7. 1994, 4:3. 1996, 169:1. 2003, 289:29. 2006, 300:1. 2009, 278:1. 2010, 172:4, 5. 2011, 192:1. 2012, 285:3-7. 2014, 260:2-6, eff. July 28, 2014; 319:4, 8, 9, eff. Sept. 30, 2014. 2017, 205:5-9, eff. Sept. 8, 2017; 222:1, 2, eff. July 10, 2017. 2021, 111:1, eff. Sept. 7, 2021. 2024, 378:1, eff. Nov. 11, 2024. 2025, 277:3, 4, eff. Sept. 30, 2025; 277:5, eff. Feb. 1, 2026.
+1979, 436:1. 1990, 119:8. 1992, 287:6, 7. 1994, 4:3. 1996, 169:1. 2003, 289:29. 2006, 300:1. 2009, 278:1. 2010, 172:4, 5. 2011, 192:1. 2012, 285:3-7. 2014, 260:2-6, eff. July 28, 2014; 319:4, 8, 9, eff. Sept. 30, 2014. 2017, 205:5-9, eff. Sept. 8, 2017; 222:1, 2, eff. July 10, 2017. 2021, 111:1, eff. Sept. 7, 2021. 2024, 378:1, eff. Nov. 11, 2024. 2025, 277:3, 4, eff. Sept. 30, 2025; 277:5, eff. Feb. 1, 2026. 2026, 68:1, eff. July 17, 2026; 249:1, eff. July 30, 2026; 284:2, eff. Sept. 8, 2026.
 
 ## New Hampshire § 654-13
 
@@ -1263,7 +1273,7 @@ Source.
 
 ## New Hampshire § 654-32
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-32. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-32.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-32. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-32.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -1271,10 +1281,14 @@ CHAPTER 654
 VOTERS AND CHECKLISTS
 Checklists:  Additional Provisions for Primary Elections
 Section 654:32
+[RSA 654:32 effective until January 1, 2028;  see also RSA 654:32  set out below.]
 654:32 Hearings on Alterations to Party Registration. –
 Before each state or presidential primary election, the supervisors of the checklist shall be in session before each primary for the change of registration of legal voters as provided in RSA 654:34 or 654:34-a or both. Before the presidential primary, the session shall be on the Friday preceding the first day of the filing period, between 7:00 p.m. and 7:30 p.m. and at the discretion of the supervisors for extended hours. Before the state primary election, the session shall be on Tuesday before the first Wednesday in June between 7:00 p.m. and 7:30 p.m. and at the discretion of the supervisors for extended hours.
+[RSA 654:32 effective January 1, 2028;  see also RSA 654:32  above.]
+654:32 Hearings on Alterations to Party Registration. –
+Before each state or presidential primary election, the supervisors of the checklist shall be in session before each primary for the change of registration of legal voters as provided in RSA 654:34 or 654:34-a or both. Before the presidential primary, the session shall be on the Friday preceding the first day of the filing period, between 7:00 p.m. and 7:30 p.m. and at the discretion of the supervisors for extended hours. Before the state primary election, the session shall be on Tuesday before the first Friday in March between 7:00 p.m. and 7:30 p.m. and at the discretion of the supervisors for extended hours.
 Source.
-1979, 400:2; 436:1. 1981, 308:2. 1983, 273:2. 1987, 219:1. 1994, 4:4. 2003, 27:4, eff. July 1, 2003.
+1979, 400:2; 436:1. 1981, 308:2. 1983, 273:2. 1987, 219:1. 1994, 4:4. 2003, 27:4, eff. July 1, 2003. 2026, 44:2, eff. Jan. 1, 2028.
 
 ## New Hampshire § 654-33
 
@@ -1293,7 +1307,7 @@ Source.
 
 ## New Hampshire § 654-34
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-34. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-34.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-34. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-34.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -1311,7 +1325,10 @@ II. Change of registration of a voter who has been registered as an undeclared v
 (a) Any legal voter who has been registered as an undeclared voter may register as a member of the party of the voter's choice by appearing before the supervisors of the checklist for the voter's town or ward any time they meet, except as prohibited by paragraph IV, and stating to them, under oath or affirmation, if required, that the voter intends to affiliate with and generally supports the candidates of the party with which the voter offers to register, in which case the voter shall be registered as a member of such party.
 (b) A voter may also register as a member of a party at any primary by requesting to be registered as a member and voting the ballot of the party of the voter's choice. A voter may also register once again as an undeclared voter after voting in a primary as a registered member of a party by returning the card or signing the list of undeclared voters from the statewide centralized voter registration database provided for in paragraph V. If cards are used, the voter shall return the card to the person at the polls designated by the town or city clerk to accept the card. All such cards and lists shall be in the possession of the supervisors of the checklist at the close of the polls on election day.
 III. Notwithstanding any provision of paragraphs I and II to the contrary, no person who has voted in a primary may thereafter on the day of said primary change the person's party registration, unless, prior to voting in the primary, the person was registered as an undeclared voter, in which case the person may once again register as an undeclared voter, as provided in subparagraph II(b).
+[Paragraph IV effective until January 1, 2028; see also paragraph IV set out below.]
 IV. No person, who is already registered to vote, whether his party membership has been previously registered or not, shall affiliate with a party or disaffiliate from a party between the first Wednesday in June and the day before the state primary election.
+[Paragraph IV effective January 1, 2028; see also paragraph IV set out above.]
+IV. No person, who is already registered to vote, whether his or her party membership has been previously registered or not, shall affiliate with a party or disaffiliate from a party between the first Friday in March and the day before the state primary election.
 V. (a) At any primary, the supervisors of the checklist shall make available within the polling place a card or list of undeclared voters from the statewide centralized voter registration database to enable a voter who was registered as an undeclared voter but who changed registration on the day of the primary in order to vote as a registered member of a party to change registration so that the voter is registered once again as an undeclared voter. The card or list shall be in substantially the following form:
 Name ____________________________________
 (Print)
@@ -1326,7 +1343,7 @@ ______________________________________________
 Date ______________
 (b) The supervisors of the checklist, upon receipt of such a card or list, shall keep it in accordance with RSA 33-A:3-a and at the public session of supervisors of the checklist on election day shall change the party of the voter as indicated on the card or list.
 Source.
-1979, 400:3, 4; 436:1. 1981, 308:3-5. 1987, 129:2. 1993, 193:2-5. 2010, 172:8. 2011, 73:1. 2012, 113:2, 3, eff. May 31, 2012. 2018, 165:1, eff. Aug. 7, 2018.
+1979, 400:3, 4; 436:1. 1981, 308:3-5. 1987, 129:2. 1993, 193:2-5. 2010, 172:8. 2011, 73:1. 2012, 113:2, 3, eff. May 31, 2012. 2018, 165:1, eff. Aug. 7, 2018. 2026, 44:3, eff. Jan. 1, 2028.
 
 ## New Hampshire § 654-34-a
 
@@ -1592,7 +1609,7 @@ Source.
 
 ## New Hampshire § 654-45
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-45. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-45.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-45. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-45.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -1601,14 +1618,14 @@ VOTERS AND CHECKLISTS
 Centralized Voter Registration Database
 Section 654:45
 654:45 Centralized Voter Registration Database. –
-I. (a) The secretary of state is authorized to plan, develop, equip, establish, site, and maintain a statewide centralized voter registration database and communications system, hereinafter referred to as the voter database, connecting users throughout the state. The voter database shall include the current information on the voter registration forms, the accepted absentee ballot applications, the voter checklists, and voter actions as recorded on the marked checklist maintained by each city, ward, and town in the state. The database shall maintain addresses in accordance with United States Postal Service standardized addresses as described in the current USPS Publication 28.
+I. (a) The secretary of state shall plan, develop, equip, establish, site, and maintain a statewide centralized voter registration database and communications system, hereinafter referred to as the voter database, connecting users throughout the state. The voter database shall include the current information on the voter registration forms, the accepted absentee ballot applications, the voter checklists, and voter actions as recorded on the marked checklist maintained by each city, ward, and town in the state. The database shall maintain addresses in accordance with United States Postal Service standardized addresses as described in the current USPS Publication 28.
 (b) The secretary of state shall provide for a verification process that voters sharing a place and date of birth, along with a substantially similar name to include nicknames or likely maiden/married name changes, are unique voters. Should any voter appear to be a duplicate, that information shall be forwarded to the supervisors of the checklist of the cities or towns involved for review and confirmation. The supervisor of the checklist shall notify the secretary of state of the result of such review, and should the records show that a single individual may have voted more than once in any election such information shall be forwarded to the attorney general for further investigation or prosecution.
-II. Any election official in the state authorized by this chapter to have direct access to the voter database may obtain immediate electronic access to the information contained in the voter database related to individuals registered or registering to vote in the election official's jurisdiction. The office of the clerk is hereby designated as a database access point for each town or city. The secretary of state may authorize additional database access points in a town or city, including election day access points at polling places.
+II. Any election official in the state authorized by this chapter to have direct access to the voter database may obtain immediate electronic access to the information contained in the voter database related to individuals registered or registering to vote in the election official's jurisdiction. The office of the clerk is hereby designated as a database access point for each town or city. The secretary of state may authorize additional database access points in a town or city, including election day access points at polling places during the operational hours of the polling place.
 III. The voter database shall, upon certification by the secretary of state, be the official record of eligible voters for the conduct of all elections held in this state.
 IV. (a) The voter database shall have the following minimum components:
 (1) An electronic communications system that provides access for election officials from at least one point in each city and town within the state.
 (2) An interactive computer program allowing local election officials access to records contained in the database with a process to add, delete, modify, or print a voter registration record related to the election official's jurisdiction. The system shall be designed so that there can be regular updates to the database, the records reflect the name of each registered voter with no duplication, and the names of ineligible voters are removed. The system shall contain safeguards to ensure that the names of properly registered voters are not removed in error.
-(b) Voter database record data shall be verified by matching the records with those of the department of safety and the federal Social Security Administration as are required by law, and with the records of the state agency or division charged with maintaining vital records. For this purpose the voter registration record database may be linked to the state agency or division charged with maintaining vital records and the department of safety, provided that no linked agency or division may save or retain voter information or use it for purposes other than verifying the accuracy of the information to be entered or contained in the voter database. The link authorized by this subparagraph shall not allow the department of state or election officials direct access to the motor vehicle registration or driver's license records maintained by the division of motor vehicles; provided that such link shall authorize the department of state to identify voter records with out-of-state driver's license information where the record cannot be matched to an in-state driver's license obtained within the deadline provided in RSA 263:35. The secretary of state shall authorize the release of information from the voter database necessary for the department of safety to notify an individual pursuant to RSA 263:35, II. The commissioner of safety may authorize the release of information from motor vehicle registration and driver's license records to the extent that the information is necessary to department of state and department of safety cooperation in a joint notification to individuals of apparent discrepancies in their records to the extent that the information is necessary to resolve those discrepancies or to complete voter registration. The commissioner of safety and the secretary of state are authorized to enter into an agreement that establishes the services to be provided by the department of safety and the cost for those services. The department of safety shall not be required to provide any services under this subparagraph unless an agreement is in place and there are sufficient funds in the election fund to pay the cost for the services. The system shall facilitate the completion, identification, and correction of voter registration records, including but not limited to when a registered voter has died or has been disenfranchised pursuant to part I, article 11 of the New Hampshire constitution or RSA 654:5 through RSA 654:6, or when the domicile address does not match the address provided by the same individual to the department of safety or to verify citizenship for voter registration.
+(b) Voter database record data shall be verified by matching the records with those of the department of safety and the federal Social Security Administration as are required by law, and with the records of the state agency or division charged with maintaining vital records. For this purpose the voter registration record database shall be linked to the state agency or division charged with maintaining vital records and the department of safety, provided that no linked agency or division may save or retain voter information or use it for purposes other than verifying the accuracy of the information to be entered or contained in the voter database. The link authorized by this subparagraph shall not allow the department of state or election officials direct access to the motor vehicle registration or driver's license records maintained by the division of motor vehicles; provided that such link shall authorize the department of state to identify voter records with out-of-state driver's license information where the record cannot be matched to an in-state driver's license obtained within the deadline provided in RSA 263:35. The secretary of state shall provide, via a secure electronic transmission, the release of information from the voter database necessary for the department of safety to notify an individual pursuant to RSA 263:35, II. The commissioner of safety shall provide, via a secure electronic transmission, information from motor vehicle registration and driver's license records to the extent that the information is necessary to department of state and department of safety cooperation in a joint notification to individuals of apparent discrepancies in their records to the extent that the information is necessary to resolve those discrepancies or to complete voter registration. The commissioner of safety and the secretary of state shall enter into an agreement that establishes the services to be provided by the department of safety and the cost for those services. The system shall facilitate the completion, identification, and correction of voter registration records, including but not limited to when a registered voter has died or has been disenfranchised pursuant to part I, article 11 of the New Hampshire constitution or RSA 654:5 through RSA 654:6, or when the domicile address does not match the address provided by the same individual to the department of safety or to verify citizenship for voter registration.
 (c) Access by local election officials to the voter database shall be limited to the supervisors of the checklist, city registrars and deputy registrars, and town or city clerks and their deputies, as determined by the secretary of state. Access by local election officials shall be subject to the limitations of paragraph VI, and shall be limited to the records of individuals who are currently registered to vote in the official's jurisdiction and individuals who are applying to register to vote in the official's jurisdiction.
 (d) Beginning July 1, 2022, the secretary of state shall, no less than annually, cause voter records to be checked with the United States Postal Service for changes of address. All records identified as moving shall be provided to the city or town supervisors of the checklist for verification pursuant to RSA 654:39, III.
 V. The secretary of state shall:
@@ -1617,12 +1634,37 @@ V. The secretary of state shall:
 (c) Issue guidelines to implement the voter database.
 VI. The voter database shall be private and confidential and shall not be subject to RSA 91-A and RSA 654:31, nor shall it or any of the information contained therein be disclosed pursuant to a subpoena or civil litigation discovery request. The secretary of state is authorized to provide voter database record data to the administrative office of the courts to assist in the preparation of master jury lists pursuant to RSA 500-A and to the clerk of the District Court of the United States for the District of New Hampshire to assist in the preparation of federal court jury lists. The voter checklist for a town or city shall be available pursuant to RSA 654:31. Any person who discloses information from the voter database in any manner not authorized by this section shall be guilty of a misdemeanor.
 VII. The city and town clerk shall enter, maintain, and keep up to date election official contact information and polling place information as determined by the secretary of state in the statewide centralized voter registration database for use by the secretary of state in effecting election laws.
-VIII. (a) The secretary of state may enter into an agreement to share voter information or data from the statewide centralized voter registration database for the purpose of comparing duplicate voter information with other states or groups of states. The secretary of state shall only provide information that is necessary for matching duplicate voter information with other states and shall take precautions to make sure that information in the database is secure in a manner consistent with RSA 654:45, VI. The secretary of state may solicit input from the department of safety and the department of information technology and shall ensure that any information or data shared between the agencies that is of a confidential nature remains confidential.
+VIII. (a) The secretary of state may enter into an agreement to share voter information or data from the statewide centralized voter registration database for the purpose of comparing duplicate voter information with other states or groups of states. The secretary of state shall only provide information that is necessary for matching duplicate voter information with other states and shall take precautions to make sure that information in the database is secure in a manner consistent with RSA 654:45, VI. The secretary of state shall solicit input from the department of safety and the department of information technology and shall ensure that any information or data shared between the agencies that is of a confidential nature remains confidential.
 (b) The secretary of state shall investigate any duplicate matches of voters resulting from any comparisons of the statewide centralized voter registration database with other states. If the investigation results in the inability to confirm the eligibility of a person or persons who voted, or there is reason to believe a person or persons voted who were not eligible, the secretary of state shall forward the results to the attorney general for further investigation or prosecution.
-(c) Upon completion of any investigation authorized under RSA 654:45, VIII(b), the attorney general and the secretary of state shall forward a report summarizing the results of the investigation to the speaker of the house of representatives, the president of the senate, and the chairpersons of the appropriate house and senate standing committees with jurisdiction over election law.
+(c) Upon completion of any investigation authorized under RSA 654:45, VIII(b), the attorney general and the secretary of state shall forward a report summarizing the results of the investigation to the speaker of the house of representatives, the president of the senate, the majority and minority leaders of the house of representatives and the senate, and the chairpersons of the appropriate house and senate standing committees with jurisdiction over election law.
 IX. [Repealed.]
 Source.
-2003, 266:3. 2006, 305:2. 2010, 182:1, 15. 2014, 111:1, eff. Aug. 10, 2014. 2016, 175:1, eff. June 13, 2016; 270:4, eff. June 26, 2016. 2017, 222:4, 5, eff. July 10, 2017. 2018, 329:8, eff. June 25, 2018. 2021, 137:4, 5, eff. Sept. 21, 2021. 2025, 141:243, eff. July 1, 2025; 277:2, eff. Sept. 30, 2025.
+2003, 266:3. 2006, 305:2. 2010, 182:1, 15. 2014, 111:1, eff. Aug. 10, 2014. 2016, 175:1, eff. June 13, 2016; 270:4, eff. June 26, 2016. 2017, 222:4, 5, eff. July 10, 2017. 2018, 329:8, eff. June 25, 2018. 2021, 137:4, 5, eff. Sept. 21, 2021. 2025, 141:243, eff. July 1, 2025; 277:2, eff. Sept. 30, 2025. 2026, 249:2, eff. July 30, 2026.
+
+## New Hampshire § 654-45-a
+
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 654-45-a. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/654/654-45-a.htm*
+
+TITLE LXIII
+ELECTIONS
+CHAPTER 654
+VOTERS AND CHECKLISTS
+Centralized Voter Registration Database
+Section 654:45-a
+[RSA 654:45-a effective Sept. 8, 2026.]
+654:45-a Random Citizenship Audits. –
+I. In addition to reviewing records contained in state databases, the secretary of state may conduct audits of the citizenship qualifications of registered voters who submitted a qualified voter affidavit as proof of citizenship.
+II. The secretary of state shall ensure a random, statistically sound audit of such voters and publish a public report of the findings of that audit.
+III. Where the citizenship of a voter is confirmed through either the use of available state sources or an investigation supporting the audit, such confirmation shall be noted in the statewide voter registration database, and that voter shall not be subject to further audit of his or her citizenship.
+IV. If the audits reveal information of any potential non-citizens on the checklist, such information shall be submitted to the attorney general for further review and appropriate action.
+V. To carry out paragraph I of this section, the secretary of state may use data regarding individual voters with persons or entities that are not agencies of the state only if the secretary and the person or entity enter into a legally binding agreement that:
+(a) Permits retention of the data only as long as necessary to carry out the purpose of the sharing or for one year, whichever is shorter;
+(b) Prohibits further sharing or disclosure of the data without written authorization by the secretary;
+(c) Requires minimum reasonable security measures to protect the data from unauthorized access; and
+(d) Provides the state with ownership of, and direct control over, the data unless otherwise required by state or federal law.
+VI. The secretary of state shall permanently destroy all data gathered under this section that relates to an identifiable individual whose citizenship is confirmed by an audit upon such confirmation and whose citizenship is not so confirmed when the matter is finally resolved.
+Source.
+2026, 289:1, eff. Sept. 8, 2026.
 
 ## New Hampshire § 654-46
 
@@ -1912,7 +1954,7 @@ Source.
 
 ## New Hampshire § 655-14
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-14. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-14.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-14. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-14.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -1920,10 +1962,14 @@ CHAPTER 655
 NOMINATIONS
 Nominations by Primary
 Section 655:14
+[RSA 655:14 effective until January 1, 2028;  see also RSA 655:14  set out below.]
 655:14 Filing:  General Provisions. –
 The name of any person shall not be printed upon the ballot of any party for a primary unless he or she is a registered member of that party, he or she shall have met the age and domicile qualifications for the office he or she seeks at the time of the general election, he or she meets all the other qualifications at the time of filing, and he or she shall file with the appropriate official between the first Wednesday in June and the Friday of the following week a declaration of candidacy as provided in RSA 655:17.
+[RSA 655:14 effective January 1, 2028;  see also RSA 655:14  above.]
+655:14 Filing;  General Provisions. –
+The name of any person shall not be printed upon the ballot of any party for a primary unless he or she is a registered member of that party, he or she shall have met the age and domicile qualifications for the office he or she seeks at the time of the general election, he or she meets all the other qualifications at the time of filing, and he or she shall file with the appropriate official between the first Friday in March and the Friday of the following week a declaration of candidacy as provided in RSA 655:17.
 Source.
-1979, 436:1. 1981, 308:7. 1985, 121:1; 129:1. 2011, 150:3, eff. Aug. 7, 2011.
+1979, 436:1. 1981, 308:7. 1985, 121:1; 129:1. 2011, 150:3, eff. Aug. 7, 2011. 2026, 44:4, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-14-a
 
@@ -2006,7 +2052,7 @@ Section 655:15-a
 
 ## New Hampshire § 655-16
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-16. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-16.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-16. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-16.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2014,10 +2060,14 @@ CHAPTER 655
 NOMINATIONS
 Nominations by Primary
 Section 655:16
+[RSA 655:16 effective until January 1, 2028;  see also RSA 655:16  set out below.]
 655:16 Personal Filing. –
 Except for those who must file with a town or city clerk, any person who files on the last day of the filing period must do so in person before the secretary of state; provided, however, that this requirement shall not apply to the filling of vacancies by party committees. If the person must file with a town or city clerk and is filing on the last day of the filing period, he or she shall do so in person.
+[RSA 655:16 effective January 1, 2028;  see also RSA 655:16  above.]
+655:16 Personal Filing. –
+Except for those who must file with a town or city clerk, any person who files on the last day of the filing period must do so in person before the secretary of state.
 Source.
-1979, 436:1. 2009, 214:3. 2013, 14:1, eff. July 7, 2013.
+1979, 436:1. 2009, 214:3. 2013, 14:1, eff. July 7, 2013. 2026, 44:5, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-17
 
@@ -2195,7 +2245,7 @@ Section 655:20
 
 ## New Hampshire § 655-21
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-21. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-21.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-21. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-21.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2203,6 +2253,7 @@ CHAPTER 655
 NOMINATIONS
 Nominations by Primary
 Section 655:21
+[RSA 655:21 effective until January 1, 2028;  see also RSA 655:21  set out below.]
 655:21 Form. –
 Primary petitions shall be made in the following form:
 State of New Hampshire
@@ -2215,8 +2266,21 @@ Print Voter's name
 _
 Voter's Signature
 In accordance with RSA 659:34, the penalty for knowingly or purposefully providing false information when registering to vote or voting is a class A misdemeanor with a maximum sentence of imprisonment not to exceed one year and a fine not to exceed $2,000. Fraudulently registering to vote or voting is subject to a civil penalty not to exceed $5,000.
+[RSA 655:21 effective January 1, 2028;  see also RSA 655:21  above.]
+655:21 Form. –
+Primary petitions shall be made in the following form:
+State of New Hampshire
+County of ____________________ ss.
+City (Town) of ____________________
+I do hereby join in a petition for the printing on the primary ballot of the name of __________ whose domicile is in the city (town) of __________ (ward, street, and number, if in a city), in the county of __________ , for the office of __________ to be voted for on Tuesday, the __________ day of June, __________ (year), and certify that I am qualified to vote for a candidate for said office, that I am a registered member of the __________ party, and am not at this time a signer of any other similar petition for any other candidate for the above office; that my domicile is in the city (town) of __________ (ward, street, and number, if in a city), in the county of __________ . I certify that to my knowledge the above-named candidate is not a candidate for incompatible offices as defined in RSA 655:10, and that he or she is not a federal employee which makes him or her ineligible to file as a candidate for this office. I further certify that I believe the above-named person is especially qualified to fill said office.
+I hereby swear, under the penalties for voting fraud set forth below, that the information above is true and correct to the best of my knowledge and belief.
+________________________________________________________________________________
+Print Voter's name
+______________________________________________________________________
+Voter's Signature
+In accordance with RSA 659:34, the penalty for knowingly or purposefully providing false information when registering to vote or voting is a class A misdemeanor with a maximum sentence of imprisonment not to exceed one year and a fine not to exceed $2,000. Fraudulently registering to vote or voting is subject to a civil penalty not to exceed $5,000.
 Source.
-1979, 436:1. 1991, 218:3. 1998, 356:2. 2003, 289:34, eff. Sept. 1, 2003.
+1979, 436:1. 1991, 218:3. 1998, 356:2. 2003, 289:34, eff. Sept. 1, 2003. 2026, 44:6, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-22
 
@@ -2301,7 +2365,7 @@ Source.
 
 ## New Hampshire § 655-26
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-26. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-26.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-26. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-26.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2309,10 +2373,14 @@ CHAPTER 655
 NOMINATIONS
 Nominations by Primary
 Section 655:26
+[RSA 655:26 effective until January 1, 2028;  see also RSA 655:26  set out below.]
 655:26 Examination and Rejection. –
 The officer with whom primary petitions are filed shall immediately upon receipt thereof examine the same and ascertain whether they conform to the law. If found not to conform thereto or to be conflicting as provided in RSA 655:23, he shall then endorse thereon the reason why such petition cannot be accepted and shall, within 24 hours, return the same to the candidate in whose behalf it was filed. In such case, the candidate may file supplementary petitions with the official, but not later than the third Wednesday in June.
+[RSA 655:26 effective January 1, 2028;  see also RSA 655:26  above.]
+655:26 Examination and Rejection. –
+The officer with whom primary petitions are filed shall immediately upon receipt thereof examine the same and ascertain whether they conform to the law. If found not to conform thereto or to be conflicting as provided in RSA 655:23, they shall then endorse thereon the reason why such petition cannot be accepted and shall, within 24 hours, return the same to the candidate in whose behalf it was filed. In such case, the candidate may file supplementary petitions with the official, but not later than the third Friday in March.
 Source.
-1979, 436:1. 1981, 308:8, eff. Aug. 15, 1981.
+1979, 436:1. 1981, 308:8, eff. Aug. 15, 1981. 2026, 44:7, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-27
 
@@ -2395,7 +2463,7 @@ Source.
 
 ## New Hampshire § 655-31
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-31. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-31.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-31. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-31.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2403,14 +2471,18 @@ CHAPTER 655
 NOMINATIONS
 Removal of Candidates
 Section 655:31
+[RSA 655:31 effective until January1, 2028;  see also RSA 655:31  set out below.]
 655:31 Straw Candidates. –
 No person shall be a candidate for nomination at any primary unless his candidacy is bona fide and is filed for the actual purpose of personally seeking the nomination. Any candidate for nomination whose name is to be voted upon at primary election may, no later than the Wednesday after the last day for filing declarations of candidacy and primary petitions, file a petition with the ballot law commission alleging that one or more candidates for the same nomination is not a bona fide candidate. Upon receipt of such a petition, the commission shall notify in writing all candidates of that party for the same nomination of the time and place for its hearing. After such hearing, the ballot law commission shall have the power and duty to order stricken forthwith from the primary ballot the name or names of any candidate or candidates for said nomination if the commission finds that such candidate or candidates is obviously not a bona fide candidate, obviously having filed not primarily for the purpose of seeking the nomination but primarily for the purpose of drawing votes which might otherwise be cast for some other candidate for the same nomination. The decision of the commission shall be final as to questions both of law and fact, and no court shall have jurisdiction to review such decision.
+[RSA 655:31 effective January 1, 2028;  see also RSA 655:31  above.]
+655:31 Straw Candidates. –
+No person shall be a candidate for nomination at any primary unless his candidacy is bona fide and is filed for the actual purpose of personally seeking the nomination. Any candidate for nomination whose name is to be voted upon at primary election may, no later than the Friday after the last day for filing declarations of candidacy and primary petitions, file a petition with the ballot law commission alleging that one or more candidates for the same nomination is not a bona fide candidate. Upon receipt of such a petition, the commission shall notify in writing all candidates of that party for the same nomination of the time and place for its hearing. After such hearing, the ballot law commission shall have the power and duty to order stricken forthwith from the primary ballot the name or names of any candidate or candidates for said nomination if the commission finds that such candidate or candidates is obviously not a bona fide candidate, obviously having filed not primarily for the purpose of seeking the nomination but primarily for the purpose of drawing votes which might otherwise be cast for some other candidate for the same nomination. The decision of the commission shall be final as to questions both of law and fact, and no court shall have jurisdiction to review such decision.
 Source.
-1979, 436:1. 1994, 4:6, eff. May 27, 1994.
+1979, 436:1. 1994, 4:6, eff. May 27, 1994. 2026, 44:8, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-32
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-32. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-32.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-32. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-32.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2419,10 +2491,13 @@ NOMINATIONS
 Vacancies Among Primary Candidates
 Section 655:32
 655:32 No Declaration Filed. –
-I. In case no declaration shall be filed by a candidate for any nomination to be voted for at a primary, the nomination may be made by the appropriate party committee as provided in this section. The appropriate party committee shall notify the secretary of state in writing of a person it designates to fill the vacancy. The person so designated may accept the nomination by, on or before the Wednesday following the expiration of the period for filing declarations of candidacy as provided in RSA 655:14, filing with the secretary of state a declaration of candidacy as provided in RSA 655:17. Any candidate accepting a nomination under this paragraph who has already filed for an incompatible office as defined in RSA 655:10 shall withdraw the prior filing. Any vacancy created by the withdrawal of a filing may be filled pursuant to this section. If the candidate is designated for the office of governor, councilor, state senator, or state representative, he or she shall also file on or before the Wednesday following the period for filing declarations of candidacy the appropriate affidavit as provided in RSA 655:29. Any candidate so designated by a party committee who has not filed all the forms required by this section within the required period of time shall not have his or her name printed on the state primary election ballot for that office.
+[Paragraph I effective until January 1, 2028; see also paragraph I set out below.]
+I. In case no declaration shall be filed by a candidate for any nomination to be voted for at a primary, the nomination may be made by the appropriate party committee as provided in this section. The chairperson of the appropriate party committee or their designee shall notify the secretary of state in writing of a person it designates to fill the vacancy. The person so designated may accept the nomination by filing with the secretary of state a declaration of candidacy as provided in RSA 655:17 within 10 business days following the close of the candidate filing period established by RSA 655:14. Any candidate accepting a nomination under this paragraph who has already filed for an incompatible office as defined in RSA 655:10 shall withdraw the prior filing. Any vacancy created by the withdrawal of a filing may be filled pursuant to this section. If the candidate is designated for the office of governor, councilor, state senator, or state representative, he or she shall also file on or before the Wednesday following the period for filing declarations of candidacy the appropriate affidavit as provided in RSA 655:29. Any candidate so designated by a party committee who has not filed all the forms required by this section within the required period of time shall not have his or her name printed on the state primary election ballot for that office.
+[Paragraph I effective January 1, 2028; see also paragraph I set out above.]
+I. In case no declaration shall be filed by a candidate for any nomination to be voted for at a primary, the nomination may be made by the appropriate party committee as provided in this section. The chairperson of the appropriate party committee or their designee shall notify the secretary of state in writing of a person it designates to fill the vacancy. The person so designated may accept the nomination by filing with the secretary of state a declaration of candidacy as provided in RSA 655:17 within 10 business days following the close of the candidate filing period established by RSA 655:14. Any candidate accepting a nomination under this paragraph who has already filed for an incompatible office as defined in RSA 655:10 shall withdraw the prior filing. Any vacancy created by the withdrawal of a filing may be filled pursuant to this section. If the candidate is designated for the office of governor, councilor, state senator, or state representative, he or she shall also file on or before the second Friday following the period for filing declarations of candidacy the appropriate affidavit as provided in RSA 655:29. Any candidate so designated by a party committee who has not filed all the forms required by this section within the required period of time shall not have his or her name printed on the state primary election ballot for that office.
 II. For the purposes of this section, the term "appropriate party committee" shall be as defined in RSA 655:36.
 Source.
-1979, 436:1. 1985, 129:2. 1986, 86:1. 2008, 377:1, eff. Sept. 9, 2008.
+1979, 436:1. 1985, 129:2. 1986, 86:1. 2008, 377:1, eff. Sept. 9, 2008. 2026, 44:9, eff. Jan. 1, 2028; 129:1, eff. June 11, 2026; 129:2, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-33
 
@@ -2591,7 +2666,7 @@ Section 655:40-b
 
 ## New Hampshire § 655-41
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-41. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-41.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-41. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-41.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2600,10 +2675,13 @@ NOMINATIONS
 Nomination by Nomination Papers
 Section 655:41
 655:41 Certification. –
+[Paragraph I effective until January 1, 2028; see also paragraph I set out below.]
 I. Each nomination paper shall be submitted to the supervisors of the checklist of the town or ward in which the signer is domiciled or is registered, and a majority of the supervisors shall certify whether or not the signer is a registered voter in said town or ward. The supervisors of the checklist shall certify nomination papers under this section in a timely fashion, so that their certification shall be complete for each candidate, together with any objections to the nomination papers submitted, no later than 5:00 p.m. on the Wednesday 2 weeks before the primary. Each nomination paper shall be submitted to the supervisors of the checklist no later than 5:00 p.m. on the Wednesday 5 weeks before the primary.
+[Paragraph I effective January 1, 2028; see also paragraph I set out above.]
+I. Each nomination paper shall be submitted to the supervisors of the checklist of the town or ward in which the signer is domiciled or is registered, and a majority of the supervisors shall certify whether or not the signer is a registered voter in said town or ward. The supervisors of the checklist shall certify nomination papers under this section in a timely fashion, so that their certification shall be complete for each candidate, together with any objections to the nomination papers submitted, no later than 5:00 p.m. on the Friday 2 weeks before the primary. Each nomination paper shall be submitted to the supervisors of the checklist no later than 5:00 p.m. on the Friday 5 weeks before the primary.
 II. The city clerk may perform the responsibilities of the supervisors of the checklist under this section.
 Source.
-1979, 436:1. 1985, 121:7. 1993, 164:2. 1996, 36:4. 2001, 142:2, eff. Aug. 28, 2001.
+1979, 436:1. 1985, 121:7. 1993, 164:2. 1996, 36:4. 2001, 142:2, eff. Aug. 28, 2001. 2026, 44:10, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-42
 
@@ -2624,7 +2702,7 @@ Source.
 
 ## New Hampshire § 655-43
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-43. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-43.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-43. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-43.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2633,12 +2711,15 @@ NOMINATIONS
 Nomination by Nomination Papers
 Section 655:43
 655:43 Filing Deadline. –
+[Paragraph I effective until January 1, 2028; see also paragraph I set out below.]
 I. Nomination papers shall be filed with the secretary of state no later than 5:00 p.m. on the Wednesday one week before the primary. Nomination papers to be filed shall be grouped by municipality. No nomination papers shall be accepted by the secretary of state unless the candidate shall have met the age and domicile qualifications for the office he or she seeks at the time of the general election and meets all the other qualifications at the time of filing; and if a candidate for the office of governor, executive councilor, state senator, or state representative, unless the candidate shall file with the nomination papers an affidavit of qualifications as provided in RSA 655:28 and 655:29; and if a candidate for United States senator or United States representative, unless the candidate shall meet the qualifications for office under RSA 655:3 and 655:4.
+[Paragraph I effective January 1, 2028; see also paragraph I set out above.]
+I. Nomination papers shall be filed with the secretary of state no later than 5:00 p.m. on the Friday one week before the primary. Nomination papers to be filed shall be grouped by municipality. No nomination papers shall be accepted by the secretary of state unless the candidate shall have met the age and domicile qualifications for the office he or she seeks at the time of the general election and meets all the other qualifications at the time of filing; and if a candidate for the office of governor, executive councilor, state senator, or state representative, unless the candidate shall file with the nomination papers an affidavit of qualifications as provided in RSA 655:28 and 655:29; and if a candidate for United States senator or United States representative, unless the candidate shall meet the qualifications for office under RSA 655:3 and 655:4.
 II. No candidate who intends to run for any state or federal office in the state general election by means of nomination papers shall have his or her name placed on the ballot unless the candidate files a declaration of intent, as provided in RSA 655:17-a or 655:17-b, within the filing deadline required by RSA 655:14-a. Any person who files on the last day of the filing period must do so in person before the secretary of state.
 III. No political organization shall have the names of its candidates placed on the ballot unless the chairman of the organization files a declaration of intent, as provided in RSA 655:17-c, within the filing deadline for candidates established in RSA 655:14-a.
 IV. No person who filed as a candidate in the state primary election shall be eligible to have his or her name placed on the ballot for the state general election by submitting nomination papers as provided in this subdivision.
 Source.
-1979, 436:1. 1981, 531:5. 1985, 121:8. 1996, 36:6. 2001, 142:4. 2009, 214:7, eff. Sept. 13, 2009.
+1979, 436:1. 1981, 531:5. 1985, 121:8. 1996, 36:6. 2001, 142:4. 2009, 214:7, eff. Sept. 13, 2009. 2026, 44:11, eff. Jan. 1, 2028.
 
 ## New Hampshire § 655-44
 
@@ -2895,7 +2976,7 @@ Source.
 
 ## New Hampshire § 655-81
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-81. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-81.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 655-81. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/655/655-81.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -2907,7 +2988,10 @@ Section 655:81
 The nomination of candidates for the U.S. House of Representatives or for the executive council or for the state senate or for representative to the general court for special elections shall be accomplished through the holding of special election primaries. The filing of candidates for such primaries and all other matters connected with such primaries shall be the same as for primaries before a state general election except that:
 I. The special election shall be held on a Tuesday not less than 110 nor more than 124 days following the day that the governor and council declare that there shall be a special election; provided, however, that if one or more municipalities where a special election for state representative will be held have a regularly-scheduled election occurring between 80 and 180 days following the day that the governor and council declare that there shall be a special election, the governor and council shall set the date of the election to coincide with the regularly-scheduled election if a majority of the towns or wards, as represented by the city, jointly request that day; if towns or wards, as represented by the city, request that the special election coincide with regularly-scheduled elections occurring on different dates, the election shall be held on a Tuesday not less than 110 nor more than 124 days following the day that the governor and council declare that there shall be a special election; and
 II. The filing period shall start on the Monday following the date on which the governor and council declare that there shall be a special election and shall end at 5:00 p.m. on the Friday of that week; and
+[Paragraph III effective until September 8, 2026; see also paragraph III set out below.]
 III. Under RSA 655:15, the official with whom state representative candidates shall file shall be the secretary of state, except that a state representative candidate may file with the appropriate town or city clerk under RSA 655:15 or with the secretary of state during the Monday and Tuesday only of the filing period in towns and cities in which the clerk's office is open on one or both of those days, in which case the town or city clerk shall forward each declaration of candidacy to the secretary of state on the same day on which the declaration is filed; and
+[Paragraph III effective September 8, 2026; see also paragraph III set out above.]
+III. Under RSA 655:15, state representative candidates may file with the secretary of state, except that a state representative candidate may file with his or her appropriate town or city clerk under RSA 655:15, in which case the town or city clerk shall forward each declaration of candidate to the secretary of state on the same day on which the declaration is filed. During the week of filing, if the town or city clerk's office shall not be open for at least 3 days and for at least 2 hours on those days, the clerk shall post contact information for the clerk, deputy clerk, or another election official who the clerk has authorized to accept the declaration of candidacy. The clerk, deputy clerk, or other election official whose contact information is posted shall, in response to being contacted, arrange a time either on that day or within the next business day, during regular business hours of 8:00 a.m. to 5:00 p.m., to accept the declaration of candidacy. The dates and times town and city clerks' offices are open for filing during the filing period and any additional contact information shall be listed on the secretary of state's website; and
 IV. The primary shall be held 49 days prior to the special election; and
 V. Supplementary primary petitions may be filed as needed no later than 5:00 p.m. on the last day of the filing period; and
 VI. The deadline for filing nomination papers shall be no later than 5:00 p.m. on the day set for the primary; and
@@ -2917,7 +3001,7 @@ IX. The names of all candidates for a party nomination at a special election pri
 X. The publication of the result provided in RSA 659:89 shall not be required; and
 XI. The deadline for any candidate to request a recount pursuant to RSA 660:7 shall be 5:00 p.m. on the day after the election. A candidate having requested a recount pursuant to this paragraph may, no later than 5:00 p.m. on the Monday after the primary election, withdraw the request and receive a refund of any fees paid.
 Source.
-1981, 512:1. 1994, 381:6. 1996, 36:7. 2006, 32:1. 2010, 317:11; 330:2. 2012, 26:1, 2. 2014, 319:11, eff. Aug. 1, 2014.
+1981, 512:1. 1994, 381:6. 1996, 36:7. 2006, 32:1. 2010, 317:11; 330:2. 2012, 26:1, 2. 2014, 319:11, eff. Aug. 1, 2014. 2026, 293:1, eff. Sept. 8, 2026.
 
 ## New Hampshire § 655-82
 
@@ -3846,7 +3930,7 @@ Source.
 
 ## New Hampshire § 657-15
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 657-15. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/657/657-15.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 657-15. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/657/657-15.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -3856,12 +3940,16 @@ Procedure for Absence, Religious Observance, and Disability and Overseas Voting
 Section 657:15
 657:15 Sending Absentee Ballots. –
 I. When the verification required by RSA 657:12 or 657:13 has been made, the clerk shall retain the application and, without delay, personally deliver, email, or mail to the applicant the appropriate ballot and materials as described in RSA 657:7 through 657:8 or designate an assistant to deliver such materials to the applicant. The clerk's option to email an absentee ballot to a voter shall apply only to absentee ballot applications from UOCAVA voters. The clerk shall mail absentee ballots in response to verified absentee ballot requests that have been received by 12:00 p.m. on the day before the election. The clerk shall provide an absentee ballot to any voter requesting an absentee ballot in person at the clerk's office up until 5:00 p.m. on the day before the election or as may be provided elsewhere in Title LXIII. The clerk may not designate as an assistant any person who is a candidate for nomination or office or who is working for such a candidate. Any ballots sent pursuant to the provisions of this section shall be mailed or delivered only by officials from the city or town clerk's office and delivered only to the applicant. If the address to which the absent voter's ballot is sent is outside the United States or Canada, such papers shall be sent by air mail. Said clerks shall keep lists of the names and addresses, arranged by voting places, of all applicants to whom official absentee ballots have been sent, and shall identify those official absentee ballots which have been returned to the clerk and shall record the absentee voter applicant information in the statewide centralized voter registration database. The lists shall not be available for public inspection at any time without a court order.
+I-a. The secretary of state shall review absentee ballot data after each general election to identify absentee ballot requests that should be forwarded to the department of justice, election law unit for an investigative review. This review shall include requests by multiple voters that are sent to a common address. The secretary shall provide the committees of jurisdiction a report of the number and category of requests forwarded for investigative review.
+[Paragraph II effective until September 8, 2026; see also paragraph II set out below.]
 II. Candidates whose names appear on the ballot and persons bearing notarized requests or copies of notarized requests from candidates whose names appear on the ballot may obtain a list of absentee voter applicants from the clerk, excluding voters who have presented to the supervisors of the checklist valid protective orders pursuant to RSA 173-B. If requested this list shall be supplied electronically from the information in the statewide centralized voter registration database. If an electronic copy exists, it shall be provided without charge in accordance with RSA 91-A.
+[Paragraph II effective September 8, 2026; see also paragraph II set out above.]
+II. Candidates whose names appear on the ballot and persons bearing notarized requests or copies of notarized requests from candidates whose names appear on the ballot may obtain a list of absentee voter applicants from the clerk, excluding voters who have presented to the supervisors of the checklist valid protective orders pursuant to RSA 173-B. If requested this list shall be supplied electronically in a sortable spreadsheet or comma-separated values (CSV) format from the information in the statewide centralized voter registration database. If an electronic copy exists, it shall be provided without charge in accordance with RSA 91-A.
 III. Candidates whose names appear on the ballot for statewide office and persons bearing a notarized request from candidates whose names appear on the ballot for statewide office may obtain a statewide list of absentee voter applicants, excluding voters who have presented to the supervisors of the checklist valid protective orders pursuant to RSA 173-B from the secretary of state. Information on the statewide absentee voter list shall be limited to voter name and address where registered, voter ID number, voter's party, the type of election the absentee ballot was requested in, the date the absentee ballot was requested, the date the absentee ballot was sent or handed to the voter, and the date that the absentee ballot envelope was returned.
-III-a. Political parties and persons bearing notarized requests from political parties may obtain a statewide list of absentee voter applicants, excluding voters who have presented to the supervisors of the checklist valid protective orders pursuant to RSA 173-B from the secretary of state. Information on the statewide absentee voter list shall be limited to voter name, voter ID number, the date the absentee ballot was requested, and the date that the ballot was returned.
+III-a. Political parties and persons bearing notarized requests from political parties may obtain a statewide list of absentee voter applicants, excluding voters who have presented to the supervisors of the checklist valid protective orders pursuant to RSA 173-B from the secretary of state. Information on the statewide absentee voter list shall be limited to voter name, voter ID number, voter address, the date the absentee ballot was requested, and the date that the ballot was returned.
 IV. The subscription fee for providing a statewide list of absentee voters by the secretary of state under this section shall be $2,000 per election, all of which shall be deposited in the election fund under RSA 5:6-d. The secretary of state shall update the original list of absentee voters on a regular basis. The secretary of state shall provide the list requested pursuant to paragraphs III and III-a at least once per week and at least twice per week for the 4 weeks prior to the election.
 Source.
-1979, 436:1. 1986, 126:8. 1990, 119:11. 1996, 36:9. 1998, 246:3. 2003, 12:1. 2010, 182:4; 317:73. 2011, 72:2, eff. July 15, 2011. 2016, 317:3, eff. Aug. 23, 2016. 2021, 132:1, eff. Sept. 21, 2021; 187:1, eff. Oct. 9, 2021. 2023, 184:1, eff. Oct. 3, 2023. 2024, 221:1, eff. Sept. 17, 2024.
+1979, 436:1. 1986, 126:8. 1990, 119:11. 1996, 36:9. 1998, 246:3. 2003, 12:1. 2010, 182:4; 317:73. 2011, 72:2, eff. July 15, 2011. 2016, 317:3, eff. Aug. 23, 2016. 2021, 132:1, eff. Sept. 21, 2021; 187:1, eff. Oct. 9, 2021. 2023, 184:1, eff. Oct. 3, 2023. 2024, 221:1, eff. Sept. 17, 2024. 2026, 281:1, eff. July 10, 2026; 283:1, eff. Sept. 8, 2026.
 
 ## New Hampshire § 657-16
 
@@ -4152,6 +4240,28 @@ Upon election day, prior to the closing of the polls or the time set for process
 Source.
 1979, 436:1. 2010, 182:9, eff. June 21, 2010; 317:75, eff. July 18, 2010.
 
+## New Hampshire § 657-23-a
+
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 657-23-a. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/657/657-23-a.htm*
+
+TITLE LXIII
+ELECTIONS
+CHAPTER 657
+ABSENTEE VOTING
+Election Day
+Section 657:23-a
+[RSA 657:23-a effective Sept. 8, 2026.]
+657:23-a Absentee Ballot Certificate. –
+I. The secretary of state shall prepare and distribute to each town or ward clerk 2 copies of the absentee ballot certificate. When the absentee ballots are counted, the clerk shall certify on the certificate the total number of absentee ballots received, as well as all counts required under paragraph II. One copy shall be retained by the clerk for his or her records; and one copy shall be forwarded by the clerk to the secretary of state within 72 hours of the close of elections.
+II. Absentee ballots shall be counted for the following:
+(a) Total absentee ballots received by the clerk.
+(b) Total number of absentee ballots mailed/delivered by the clerk.
+(c) Total number of absentee ballots spoiled before the opening of the polls.
+(d) Total number of absentee ballots emailed to UOCAVA voters.
+(e) Total number of absentee ballots remaining before the opening of the polls.
+Source.
+2026, 299:1, eff. Sept. 8, 2026.
+
 ## New Hampshire § 657-24
 
 *Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 657-24. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/657/657-24.htm*
@@ -4428,6 +4538,32 @@ The polling place presided over by the moderator of the town or ward shall be kn
 Source.
 1979, 436:1, eff. July 1, 1979.
 
+## New Hampshire § 658-11-a
+
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 658-11-a. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/658/658-11-a.htm*
+
+TITLE LXIII
+ELECTIONS
+CHAPTER 658
+PRE-ELECTION PROCEDURE
+Additional Polling Places
+Section 658:11-a
+[RSA 658:11-a effective September 16, 2026.]
+658:11-a Minimum Number of Polling Places;  Presidential Elections. –
+I. In any general election for the office of President of the United States, each town or city shall provide no fewer than one polling location for every 15,000 registered voters as reflected on the checklist as of January 1 of the election year.
+II. A town or city seeking to operate a single polling location serving more than 15,000 registered voters shall submit a plan to the secretary of state and the attorney general for joint approval. The plan shall address, at a minimum, the following considerations:
+(a) Anticipated traffic flow to and from the polling site.
+(b) Availability of law enforcement officers or contracted personnel for traffic management.
+(c) Number of parking spaces reasonably accessible to voters.
+(d) Number of poll books and assigned election workers to assist with voter check-in.
+(e) Availability and use of electronic poll books.
+(f) Number of ballot-counting devices in operation.
+(g) Number of registration stations and election officials available for same-day registrants.
+(h) Any other factors identified by the secretary of state and the attorney general as necessary to ensure efficient voting and minimize delays.
+III. The secretary of state and the attorney general may request supplemental information as part of the review process and may condition approval on specific measures to be in place on election day.
+Source.
+2026, 7:1, eff. Sept. 16, 2026.
+
 ## New Hampshire § 658-12
 
 *Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 658-12. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/658/658-12.htm*
@@ -4550,7 +4686,7 @@ Source.
 
 ## New Hampshire § 658-2
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 658-2. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/658/658-2.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 658-2. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/658/658-2.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -4558,10 +4694,14 @@ CHAPTER 658
 PRE-ELECTION PROCEDURE
 Inspectors of Election
 Section 658:2
+[RSA 658:2 effective until January 1, 2028;  see also RSA 658:2  set out below.]
 658:2 Appointment. –
 Each state political committee of the 2 political parties which received the largest number of votes cast for governor at the last previous general election is authorized through their respective chairmen to appoint between May 15 and July 15 of each general election year 2 inspectors of election to act at each polling place. If the number of voters qualified to vote at a polling place shall exceed 2,000, said political committees may each appoint for such polling place one additional inspector for each 1,500 qualified voters or fraction thereof in excess of 2,000. By April 15 of each general election year, the secretary of state shall provide a list to the chairman of each such state political committee of the number of inspectors of election that should be appointed for each town or ward. Each such state political committee may also appoint such equal number of additional inspectors as the moderator considers necessary for the efficient conduct of the election. On or before July 15, the chairmen of said political committees shall notify the appointees and the town or ward clerk concerned as to appointments made under this authority. If any such appointments are not made by said political committees and proper notification thereof given on or before July 15, then the appointments shall be made by the selectmen of the town or ward in equal numbers from said 2 political parties.
+[RSA 658:2 effective January 1, 2028;  see also RSA 658:2  above.]
+658:2 Appointment. –
+Each state political committee of the 2 political parties which received the largest number of votes cast for governor at the last previous general election is authorized through their respective chairmen to appoint between May 15 and July 15 of each general election year 2 inspectors of election to act at each polling place. If the number of voters qualified to vote at a polling place shall exceed 2,000, said political committees may each appoint for such polling place one additional inspector for each 1,500 qualified voters or fraction thereof in excess of 2,000. By April 15 of each general election year, the secretary of state shall provide a list to the chairman of each such state political committee of the number of inspectors of election that should be appointed for each town or ward. Each such state political committee may also appoint such equal number of additional inspectors as the moderator considers necessary for the efficient conduct of the election. Between February 1 and April 30, the chairmen of said political committees shall notify the appointees and the town or ward clerk concerned as to appointments made under this authority. If any such appointments are not made by said political committees and proper notification thereof given between February 1 and April 30, then the appointments shall be made by the selectmen of the town or ward in equal numbers from said 2 political parties.
 Source.
-1979, 436:1. 1983, 426:7. 2014, 27:1. 2015, 55:1, eff. Aug. 1, 2015.
+1979, 436:1. 1983, 426:7. 2014, 27:1. 2015, 55:1, eff. Aug. 1, 2015. 2026, 44:13, eff. Jan. 1, 2028.
 
 ## New Hampshire § 658-20
 
@@ -4787,7 +4927,7 @@ Source.
 
 ## New Hampshire § 658-32
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 658-32. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/658/658-32.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 658-32. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/658/658-32.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -4795,10 +4935,14 @@ CHAPTER 658
 PRE-ELECTION PROCEDURE
 Election Day Morning Procedures
 Section 658:32
+[RSA 658:32 effective until Sept. 8, 2026;  see also RSA 658:32  set out below.]
 658:32 Pre-Election Certificate. –
 The secretary of state shall prepare and distribute to each town or ward clerk 3 copies of the pre-election certificate. When the ballots are counted, the moderator and clerk shall certify thereon the total number of ballots received. One copy shall be retained by the moderator for his or her records; one copy shall be retained by the clerk for his or her records, and one copy shall be forwarded by the clerk to the secretary of state with the election returns pursuant to RSA 659:75.
+[RSA 658:32 effective Sept. 8, 2026;  see also RSA 658:32  above.]
+658:32 Pre-Election Certificate. –
+The secretary of state shall prepare and distribute to each town or ward clerk 3 copies of the pre-election certificate. When the ballots are counted, the moderator and clerk shall certify thereon the total number of official and absentee ballots received. One copy shall be retained by the moderator for his or her records; one copy shall be retained by the clerk for his or her records, and one copy shall be forwarded by the clerk to the secretary of state with the election returns pursuant to RSA 659:75.
 Source.
-1979, 436:1. 2011, 185:1, eff. Jan. 1, 2012. 2024, 4:11, eff. Feb. 1, 2024.
+1979, 436:1. 2011, 185:1, eff. Jan. 1, 2012. 2024, 4:11, eff. Feb. 1, 2024. 2026, 299:2, eff. Sept. 8, 2026.
 
 ## New Hampshire § 658-33
 
@@ -5125,7 +5269,7 @@ Source.
 
 ## New Hampshire § 659-13
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-13. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-13.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-13. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-13.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -5136,32 +5280,36 @@ Section 659:13
 659:13 Obtaining a Ballot. –
 I. (a) A person desiring to vote shall, before being admitted to the enclosed space within the guardrail, announce his or her name and address to one of the ballot clerks who shall, if the name is found on the checklist by the ballot clerk, repeat the name and address. If the address announced by voter is different from what appears on the checklist, but is in the same town or ward, the ballot clerk shall record the change of address in red on the paper checklist and the supervisors of the checklist shall cause the centralized voter registration database to reflect the change.
 (b) The voter, unless challenged as provided for in RSA 659:27 through 659:33, shall then be asked to present proof of his or her identity meeting the requirements of paragraph II. If the voter presents such proof of identity to the ballot clerk, the ballot clerk shall give the voter one of each ballot to be voted on in that election which shall be folded as it was upon receipt from the secretary of state. The ballot clerk shall also mark the checklist using a ruler or other straight edge to ensure accuracy of the mark in order to show that the voter obtained his or her ballot. If the photo identification is an out-of-state driver's license or nondriver's identification card, the ballot clerk shall record the state of issuance on the checklist in accordance with uniform procedures developed by the secretary of state in a color designated for such entries and the supervisors of the checklist or designee shall record the state of issuance of the voter's driver's license or identification card in the statewide centralized voter registration database within 30 days of the election. The voter shall then be allowed to enter the space enclosed by the guardrail to mark and cast his or her ballot.
+[Paragraph I(c) effective until September 8, 2026; see also paragraph I(c) set out below.]
 (c)(1) If the voter does not have a valid photo identification, the ballot clerk shall direct the voter to see the supervisor of the checklist.
 (2) The supervisor of the checklist shall review the voter's qualifications and determine if the voter's identity can be verified.
+[Paragraph I(c) effective September 8, 2026; see also paragraph I(c) set out above.]
+(c)(1) If the voter does not have a valid photo identification, the ballot clerk shall direct the voter to see the supervisor of the checklist.
+(2) A moderator, clerk, supervisor, or selectman may verify a voter's identity if such moderator, clerk, supervisor, or selectman personally knows the voter.
+(3) The supervisor of the checklist shall review the voter's qualifications and determine if the voter's identity can be verified. If the supervisor of the checklist determines that the voter's qualifications and identity are established, the voter shall be allowed to vote. If the supervisor of the checklist determines that the voter's qualifications and identity have not been established, the voter shall not be allowed to vote. A voter not allowed to vote as a result of the determination of the supervisor of the checklist may take an immediate appeal to the superior court as provided in RSA 654:12, V.
+(4) A moderator, clerk, supervisor, or selectman of the checklist that verifies a voter's identity pursuant to subparagraph (2) shall be required to complete and retain the following form:
+Attestation Of Identity For A Registered Voter On Election Day
+(Note: the voter must be listed on the checklist at the voting location.)
+I ____________________ (Printed Name), in accordance with the authority granted to me in RSA 659:13, I(c) as a moderator, clerk, supervisor, or selectman of the checklist (circle one) do attest under the penalty of perjury that:
+____________________ (Printed Name of Voter) ____________________ (NH Voter Identification Number)
+Is known to me as stated here:
+____________________
+____________________ Signature ____________________ Office
+I ____________________ , in accordance with the authority granted to me in RSA 659:13, I(c) as a moderator or clerk (circle one) do attest under the penalty of perjury that I have witnessed the above attestation and believe it to be true and in accordance with the provisions of RSA 659:13, I(c) and that I did not make the attestation above.
+____________________ Signature ____________________ Office
 If the supervisor of the checklist determines that the voter's qualifications and identity are established, the voter shall be allowed to vote. If the supervisor of the checklist determines that the voter's qualifications and identity have not been established, the voter shall not be allowed to vote. A voter not allowed to vote as a result of the determination of the supervisor of the checklist may take an immediate appeal to the superior court as provided in RSA 654:12, V.
-II. (a) A valid photo identification shall show the name of the individual to whom the identification was issued, and the name shall substantially conform to the name in the individual's voter registration record; it also shall show a photograph of the individual to whom the identification was issued. The photo identification shall also have an expiration date that has not been exceeded by a period of more than 5 years , except that a voter 65 years of age or older may use an otherwise qualified form of identification without regard to expiration date, and except that student identification cards shall comply with the date requirements in subparagraph (5). The following forms of identification bearing a photograph of the voter shall satisfy the identification requirements of paragraph I:
+II. (a) A valid photo identification shall show the name of the individual to whom the identification was issued, and the name shall substantially conform to the name in the individual's voter registration record; it also shall show a photograph of the individual to whom the identification was issued. The photo identification shall also have an expiration date that has not been exceeded by a period of more than 5 years, except that a voter 65 years of age or older may use an otherwise qualified form of identification without regard to expiration date. Only the following forms of identification bearing a photograph of the voter shall satisfy the identification requirements of paragraph I:
 (1) A driver's license issued by any state or the federal government.
 (2) An identification card issued under RSA 260:21, RSA 260:21-a, or RSA 260:21-b or a nondriver's identification card issued by the motor vehicles division, department, agency, or office of any other state.
 (3) A United States armed services identification card.
 (4) A United States passport or passcard.
-(5) A valid student identification card if:
-(A) The card is issued by:
-(i) A college, university, or career school in New Hampshire and approved to operate or licensed to operate in New Hampshire.
-(ii) A public high school in New Hampshire.
-(iii) A nonpublic high school in New Hampshire accredited by a private school accrediting agency that is recognized by the department of education.
-(iv) Dartmouth College.
-(v) A college or university operated by the university system of New Hampshire or the community college system of New Hampshire.
-(B) The card has either an expiration date or an issuance date that has not been exceeded by a period of more than 5 years, except that, at all elections prior to September 1, 2018, student identification cards without a date of expiration or issuance shall be accepted.
-(6) [Repealed.]
-(7) [Repealed.]
-(b) The secretary of state shall post the lists of educational institutions provided by the commissioner of the department of education under RSA 21-N:4, VII on the department of state's website, and otherwise shall make such lists available to local election officials.
-(c) The secretary of state shall provide training for supervisors of the checklist on how the nonpublic data in the statewide centralized voter registration database may be used to satisfy voter identification requirements.
-(d) The secretary of state shall develop and make available an informational pamphlet explaining the procedure established in RSA 260:21 for obtaining a picture identification card for voter identification purposes only.
+(b) The secretary of state shall provide training for supervisors of the checklist on how the nonpublic data in the statewide centralized voter registration database may be used to satisfy voter identification requirements.
+(c) The secretary of state shall develop and make available an informational pamphlet explaining the procedure established in RSA 260:21 for obtaining a picture identification card for voter identification purposes only.
 III. [Repealed.]
 IV. [Repealed.]
 V. [Repealed.]
 Source.
-1979, 436:1. 2002, 98:1. 2006, 300:2. 2012, 284:1, 7; 289:2, 4. 2013, 278:4, 7. 2014, 131:1-3; 319:5, 6. 2015, 276:182, eff. Sept. 1, 2015 at 12:03 a.m. 2016, 71:14, eff. May 10, 2016; 82:1, eff. July 18, 2016; 190:2, eff. Aug. 2, 2016. 2017, 67:1, eff. July 1, 2018; 222:3, eff. July 10, 2017. 2018, 315:2, eff. Aug. 24, 2018. 2021, 111:2, eff. Sept. 7, 2021. 2022, 239:4-6, eff. Jan. 1, 2023. 2024, 378:6, 7, 10, IV and V, eff. Nov. 11, 2024.
+1979, 436:1. 2002, 98:1. 2006, 300:2. 2012, 284:1, 7; 289:2, 4. 2013, 278:4, 7. 2014, 131:1-3; 319:5, 6. 2015, 276:182, eff. Sept. 1, 2015 at 12:03 a.m. 2016, 71:14, eff. May 10, 2016; 82:1, eff. July 18, 2016; 190:2, eff. Aug. 2, 2016. 2017, 67:1, eff. July 1, 2018; 222:3, eff. July 10, 2017. 2018, 315:2, eff. Aug. 24, 2018. 2021, 111:2, eff. Sept. 7, 2021. 2022, 239:4-6, eff. Jan. 1, 2023. 2024, 378:6, 7, 10, IV and V, eff. Nov. 11, 2024. 2026, 20:1, eff. June 2, 2026; 243:1, eff. Aug. 31, 2026; 284:1, eff. Sept. 8, 2026.
 
 ## New Hampshire § 659-13-a
 
@@ -5980,7 +6128,7 @@ Source.
 
 ## New Hampshire § 659-44-a
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-44-a. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-44-a.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-44-a. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-44-a.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -5991,10 +6139,11 @@ Section 659:44-a
 659:44-a Electioneering by Public Employees. –
 I. No public employee, as defined in RSA 273-A:1, IX,shall electioneer while in the performance of his or her official duties.
 II. No public employee shall use government property or equipment, including, but not limited to, telephones, facsimile machines, vehicles, and computers, for electioneering.
-III. For the purposes of this section, "electioneer" means to act in any way specifically designed to influence the vote of a voter on any question or office.
-IV. Any person who violates this section shall be guilty of a misdemeanor.
+III. For the purposes of this section, "electioneer" is defined according to RSA 652:16-h.
+IV. (a) Any person who violates this section shall be guilty of a misdemeanor.
+(b) Any person who violates this provision and is not subject to the penalties imposed under subparagraph IV(a) shall be subject to a civil penalty not to exceed $1,000.
 Source.
-2003, 172:2, eff. June 18, 2003. 2016, 176:1, eff. Jan. 1, 2017.
+2003, 172:2, eff. June 18, 2003. 2016, 176:1, eff. Jan. 1, 2017. 2026, 285:1, 2, eff. Jan. 1, 2026.
 
 ## New Hampshire § 659-45
 
@@ -6279,7 +6428,7 @@ Source.
 
 ## New Hampshire § 659-58
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-58. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-58.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-58. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-58.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -6288,9 +6437,9 @@ ELECTION PROCEDURE
 Counting of Votes
 Section 659:58
 659:58 Disqualification of Officials. –
-Any election official who is also a candidate for office, other than a position of an election official, shall not be allowed to remain in the area designated for the counting of votes within the guardrail during the counting of votes for an office for which he is a candidate. Such official shall disqualify himself from election duties relating to the tabulation of votes; and the moderator shall appoint an assistant who shall take the same oath as, serve in the same capacity as, and have all the powers of the election official who is disqualified until such official may properly return. The moderator may assign any election official disqualified pursuant to this section to other duties not related to the tabulation of votes.
+Any election official who is also a candidate for office, other than a position of an election official, shall not be allowed to remain in the area designated for the counting of votes within the guardrail during the counting of ballots for which he or she is a candidate for an office other than an election official. Such official shall disqualify himself or herself from election duties relating to the tabulation of votes; and the moderator shall appoint an assistant who shall take the same oath as, serve in the same capacity as, and have all the powers of the election official who is disqualified until such official may properly return. The election official, which includes the moderator, may be within the guard rails and perform other duties of their office, or other duties the moderator may assign to the election official disqualified pursuant to this section, not related to the tabulation of votes.
 Source.
-1979, 436:1, eff. July 1, 1979. 2022, 212:2, eff. Aug. 16, 2022.
+1979, 436:1, eff. July 1, 1979. 2022, 212:2, eff. Aug. 16, 2022. 2026, 161:1, eff. Aug. 18, 2026.
 
 ## New Hampshire § 659-59
 
@@ -7026,7 +7175,7 @@ Source.
 
 ## New Hampshire § 659-97
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-97. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-97.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 659-97. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/659/659-97.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -7034,10 +7183,14 @@ CHAPTER 659
 ELECTION PROCEDURE
 Preservation of Ballots and Other Election Materials
 Section 659:97
+[RSA 659:97 effective until Jan. 1, 2027;  see also RSA 659:97  set out below.]
 659:97 Secretary of State to Prepare Containers, Sealers. –
 The secretary of state shall, before any state election, prepare and distribute to each town and ward clerk containers to be used for preserving ballots and sealers to seal each such container. He shall prepare special containers and sealers to be used for preserving any special and separate ballots for questions to voters. The secretary of state shall prescribe the size and form of such containers and sealers and shall prescribe the form of any endorsement blank printed upon the sealers, provided that the blank is in substance consistent with the provisions of RSA 659:95.
+[RSA 659:97 effective Jan. 1, 2027;  see also RSA 659:97  above.]
+659:97 Secretary of State to Prepare Containers, Sealers. –
+The secretary of state shall, before any state and federal election, prepare and distribute to each town and ward clerk secure, durable, reusable, transportable, stackable and marked containers to be used for preserving ballots with locks, tamper-evident sealers and registration or serial numbers for each marked container. The secretary of state shall prepare special durable and easily transportable containers capable of being secured and with tamper-evident sealers to be used for preserving any special and separate ballots for questions to voters. The secretary of state shall prescribe the size and form of such containers, locks and tamper-evident sealers and shall prescribe the form of any endorsement blank printed upon the sealers, provided that the blank is in substance consistent with the provisions of RSA 659:95. The secretary of state shall prepare an annual progress report and will include the number of secure containers replaced, locations, and planned container replacement for the following year.
 Source.
-1979, 436:1, eff. July 1, 1979.
+1979, 436:1, eff. July 1, 1979. 2026, 327:1, eff. Jan. 1, 2027.
 
 ## New Hampshire § 659-98
 
@@ -7843,7 +7996,7 @@ Source.
 
 ## New Hampshire § 661-9
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 661-9. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/661/661-9.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 661-9. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/661/661-9.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -7853,13 +8006,17 @@ By Office
 Section 661:9
 661:9 County Officers. –
 I. If a vacancy for a period of one year or longer occurs in the office of county sheriff, county attorney, register of deeds, or county treasurer, the members of the county convention shall fill the vacancy for the unexpired term by a majority of the ballots cast. If a vacancy for a period of less than a year occurs in any such office, the members of the county convention shall, by majority vote of the county convention, vote to either fill the vacancy or to leave the office vacant.
-II. (a) If a vacancy occurs in the office of a county commissioner, the members of the county convention, or, if the vacancy occurs in Hillsborough county, the members of the county convention representing the cities and towns in the commissioner's district, shall fill the vacancy by a majority of the ballots cast until the next biennial election of county officers. If the term filled is less than the unexpired term, then notwithstanding any provisions of RSA 653:1, VI, the commissioner district filled pursuant to this paragraph shall be added to the next biennial election ballot to be chosen by the voters of the county for a 2-year term.
+II. (a) If a vacancy occurs in the office of a county commissioner, the members of the county convention shall fill the vacancy as follows:
+(1) If voting for the commissioners in the biennial election is not by district or is not restricted to residents of the district, all of the county convention members shall vote to fill the vacancy by a majority of the ballots cast until the next biennial election of county officers.
+(2) If the commissioners of the county in the biennial elections are elected by district and voting for the commissioner is restricted to residents of the district, only members of the county convention who represent city wards or towns in the district shall be eligible to vote.
+(3) If limiting the vote to county convention members representing city wards and towns in the district results in fewer than 3 members eligible to vote for the vacancy, all members of the county convention are eligible to vote for the vacancy.
+(4) If the term filled is less than the unexpired term, then notwithstanding any provisions of RSA 653:1, VI, the commissioner district filled pursuant to this paragraph shall be added to the next biennial election ballot to be chosen by the voters of the county for the remainder of the term. The person elected shall take office at the next meeting of the county commissioners after any recount is completed.
 (b) The provisions of subparagraph (a) shall apply only where the vacancy occurred no later than 30 days preceding the printing of the ballots for the primary election.
-(c) The provisions of RSA 655:32 and RSA 655:37 relating to nominations by appropriate party committees for vacancies in an office on a primary or general election ballot, respectively, shall apply to vacancies to be filled under this paragraph.
+(c) The provisions of RSA 655:32 and RSA 655:37, relating to nominations by appropriate party committees for vacancies in an office on a primary or general election ballot, respectively, shall apply to vacancies to be filled under this paragraph.
 III. If any person holding a county office enumerated in paragraph I or II becomes temporarily absent or incapacitated, the county convention may, upon application of the county attorney or county commissioners, declare a temporary absence and fill the same for a limited period of time expressed in the appointment.
 IV. Any officer of a county, including the register of probate, may be removed by the county convention for official misconduct. Any removal under this paragraph shall be initiated by petition of a majority of the county commissioners, of the county attorney, or of a superior court judge. No officer of a county may be removed without notice of the allegations supporting the petition for removal and an opportunity to be heard by the county convention.
 Source.
-1979, 436:1. 1987, 2:1. 1995, 277:22. 1998, 342:1. 1999, 174:1. 2003, 3:2; 289:42. 2011, 92:1, eff. May 27, 2011. 2016, 178:1, eff. Aug. 2, 2016. 2017, 5:1, eff. May 30, 2017; 191:1, eff. Aug. 29, 2017.
+1979, 436:1. 1987, 2:1. 1995, 277:22. 1998, 342:1. 1999, 174:1. 2003, 3:2; 289:42. 2011, 92:1, eff. May 27, 2011. 2016, 178:1, eff. Aug. 2, 2016. 2017, 5:1, eff. May 30, 2017; 191:1, eff. Aug. 29, 2017. 2026, 48:1, eff. July 7, 2026.
 
 ## New Hampshire § 661-9-a
 
@@ -9112,7 +9269,7 @@ Source.
 
 ## New Hampshire § 663-3
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 663-3. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/663/663-3.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 663-3. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/663/663-3.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -9121,9 +9278,9 @@ QUESTIONS TO VOTERS
 Constitutional Amendments
 Section 663:3
 663:3 Form of Ballot. –
-The following words shall be printed above the constitutional amendment questions on all ballots containing such questions: "Questions Relating to Constitutional Amendments Proposed by the Convention to Revise the Constitution" or "Questions Relating to Constitutional Amendments Proposed by the Legislature to Revise the Constitution," whichever is appropriate. A constitutional question shall include, in the text of the question, the text of the article of the constitution as it is proposed to be amended, and the results of the vote taken on ordering the proposed amendment to third reading in both the senate and the house of representatives or at the constitutional convention, whichever is appropriate.
+The following words shall be printed above the constitutional amendment questions on all ballots containing such questions: "Questions Relating to Constitutional Amendments Proposed by the Convention to Revise the Constitution" or "Questions Relating to Constitutional Amendments Proposed by the Legislature to Revise the Constitution," whichever is appropriate. A constitutional question shall include, in the text of the question, the text of the article of the constitution as it is proposed to be amended, and the results of the vote taken on ordering the proposed amendment to third reading in both the senate and the house of representatives or at the constitutional convention, whichever is appropriate. In all circumstances, each constitutional amendment question shall be presented in a manner that the voter is making a single choice on a single constitutional amendment question. Under no circumstance shall a voter be asked to make a single vote on multiple constitutional amendment questions.
 Source.
-1979, 436:1. 1999, 67:1. 2013, 231:2, eff. Sept. 13, 2013.
+1979, 436:1. 1999, 67:1. 2013, 231:2, eff. Sept. 13, 2013. 2026, 121:1, eff. June 5, 2026.
 
 ## New Hampshire § 663-3-a
 
@@ -9140,6 +9297,21 @@ I. If the general court proposes the constitutional amendment, the text of the s
 II. If the constitutional convention proposes the constitutional amendment, the text of the statement for the voter's guide, if any, shall be included in the resolution proposing the constitutional amendment.
 Source.
 1999, 67:2. 2013, 231:1, eff. Sept. 13, 2013.
+
+## New Hampshire § 663-3-b
+
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 663-3-b. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/663/663-3-b.htm*
+
+TITLE LXIII
+ELECTIONS
+CHAPTER 663
+QUESTIONS TO VOTERS
+Constitutional Amendments
+Section 663:3-b
+663:3-b Notice of Constitutional Amendment Vote. –
+Every town and city clerk shall prominently display a notice prepared by the secretary of state explaining the constitutional amendment for voters and directing voters to the department of state's website for additional information. The following words for the header of the notice shall include: "Notice of Questions Relating to Constitutional Amendments Proposed by the Convention to Revise the Constitution" or "Notice of Questions Relating to Constitutional Amendments Proposed by the Legislature to Revise the Constitution," whichever is appropriate. The notice shall contain the scheduled date of the vote and other information about the constitutional amendment as described in RSA 663:3. The secretary of state shall maintain a webpage on the department of state's website providing the same information as the prepared notice. Such notice shall be displayed for at least 60 days prior to the state-wide vote on the constitutional amendment.
+Source.
+2026, 91:1, eff. July 27, 2026.
 
 ## New Hampshire § 663-4
 
@@ -9230,7 +9402,7 @@ Source.
 
 ## New Hampshire § 664-1
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-1. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-1.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-1. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-1.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -9240,8 +9412,11 @@ General Provisions
 Section 664:1
 664:1 Applicability of Chapter. –
 The provisions of this chapter shall apply to all state primary, general, and special elections, but shall only apply to presidential preference primaries as provided in this section. The provisions relating to political advertising, push polling, and enforcement, RSA 664:14 through RSA 664:22, shall additionally apply to presidential primary, city, town, school district, and village district elections.
+[RSA 664:1 effective Jan. 1, 2027;  see also RSA 664:1  above.]
+664:1 Applicability of Chapter. –
+The provisions of this chapter shall apply to all state primary, general, and special elections, but shall only apply to presidential preference primaries as provided in this section. The provisions of RSA 664:2, 664:4, VII, 664:5, III, and 664:14-22 shall apply to city, town, school district, and village district elections or meetings. The provisions relating to political advertising, push polling, and enforcement, RSA 664:14 through RSA 664:21, shall additionally apply to presidential primary elections.
 Source.
-1979, 436:1. 1989, 212:6. 1991, 387:8. 2008, 118:2, eff. June 3, 2008.
+1979, 436:1. 1989, 212:6. 1991, 387:8. 2008, 118:2, eff. June 3, 2008. 2026, 314:1, eff. Jan. 1, 2027.
 
 ## New Hampshire § 664-10
 
@@ -9269,6 +9444,26 @@ Section 664:11
 All statements and registrations filed by candidates and political committees shall be open to public inspection. Such statements and registrations shall be published on the website of the secretary of state.
 Source.
 1979, 436:1. 2006, 57:1, eff. June 23, 2006. 2024, 365:11, eff. Jan. 1, 2025.
+
+## New Hampshire § 664-11-a
+
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-11-a. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-11-a.htm*
+
+TITLE LXIII
+ELECTIONS
+CHAPTER 664
+POLITICAL EXPENDITURES AND CONTRIBUTIONS
+Reports
+Section 664:11-a
+664:11-a Candidate and State Official Security. –
+Campaign funds may be used to pay for the reasonable costs of security measures for a state candidate, state officeholder, member of their family, and employees of the candidate's campaign or the state officeholder's office, and shall not be considered personal use, so long as the security measures address ongoing dangers or threats that would not exist irrespective of the individual's status or duties as a state candidate or state officeholder. Disbursements for security measures shall be for the usual and normal charge for such goods or services. In this section, "usual and normal charge" means, in the case of goods, the price of those goods in the market in which they are ordinarily purchased, and, in the case of services, the hourly or piecework charge for the services at a commercially reasonable rate prevailing at the time the services were rendered. Such security measures include, but are not limited to:
+I. Non-structural security devices, such as security hardware, locks, alarm systems, motion detectors, and security camera systems;
+II. Structural security devices, such as wiring, lighting, gates, doors, and fencing, so long as such devices are intended solely to provide security and not to improve the property or increase its value;
+III. Security personnel and services that are bona fide, legitimate, and professional;
+IV. Cybersecurity software, devices, and services; and
+V. Training in, or for the use of, any of the security measures purchased as part of this chapter.
+Source.
+2026, 208:1, eff. Aug. 31, 2026.
 
 ## New Hampshire § 664-12
 
@@ -9540,7 +9735,7 @@ Source.
 
 ## New Hampshire § 664-2
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-2. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-2.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-2. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-2.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -9580,7 +9775,10 @@ IX. (a) "Expenditure" means any of the following that promotes the success or de
 (3) Any communication by any membership organization or corporation to its members or stockholders, if the primary purpose of that membership organization or corporation is not for the purpose of promoting the success or defeat of a candidate or candidates and measure or measures.
 (4) Any communication by any political committee member that is not made for the purpose of promoting the success or defeat of a candidate or candidates or measure or measures or political party.
 (5) Payment for incidental items, such as auto expenses and child care that the candidate chooses to pay for with personal funds.
+[Paragraph X effective until January 1, 2027; see also paragraph X set out below.]
 X. "Measure" shall mean any constitutional amendment or question that is submitted or intended to be submitted to a popular vote at an election.
+[Paragraph X effective January 1, 2027; see also paragraph X set out above.]
+X. "Measure" shall mean any constitutional amendment or question that is submitted or intended to be submitted to a popular vote.
 XI. "Independent expenditure" means the disbursement of funds for an expenditure made by a political committee or person that promotes the success or defeat of any candidate or measure that is made without cooperation or consultation with any candidate, political committee of a candidate, or any authorized agent of such candidate, and which are not made in concert with, or at the request or suggestion of any political party, candidate, political committee of a candidate, or any authorized agent of such candidate.
 XII. "Full name" means an individual's full first name, middle name or initial, if any, and full legal last name, making the identity of the contributor apparent by unambiguous reference.
 XIII. "Person's post office address" means:
@@ -9610,7 +9808,7 @@ XXVI. "Individual" means a human being.
 XXVII. "Organization" means a group of 2 or more individuals, business entities formed under state law, except those entities qualified under section 501(c)(3) of the United States Internal Revenue Code of 1986, or any other association of individuals or entities formed under state law that is not registered as a business entity.
 Source.
 Source.
-1979, 436:1. 1982, 27:1, 2. 1983, 366:1. 1991, 387:9, 10. 1994, 8:1; 216:1. 1998, 12:2. 2004, 72:1. 2007, 143:1. 2009, 50:1. 2014, 6:1, 2, eff. April 23, 2014; 279:1-4 eff. July 28, 2014. 2019, 334:1, 2, eff. Oct. 15, 2019. 2023, 118:1, eff. Aug. 29, 2023. 2024, 365:1, eff. Jan. 1, 2025.
+1979, 436:1. 1982, 27:1, 2. 1983, 366:1. 1991, 387:9, 10. 1994, 8:1; 216:1. 1998, 12:2. 2004, 72:1. 2007, 143:1. 2009, 50:1. 2014, 6:1, 2, eff. April 23, 2014; 279:1-4 eff. July 28, 2014. 2019, 334:1, 2, eff. Oct. 15, 2019. 2023, 118:1, eff. Aug. 29, 2023. 2024, 365:1, eff. Jan. 1, 2025. 2026, 314:2, eff. Jan. 1, 2027.
 
 ## New Hampshire § 664-20
 
@@ -9629,7 +9827,7 @@ Source.
 
 ## New Hampshire § 664-21
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-21. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-21.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-21. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-21.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -9653,8 +9851,10 @@ VIII. (a) Whoever violates any provision of RSA 664:14, or a provision of RSA 66
 (b) The attorney general shall notify suspected violators of this section of the state's intention to seek a civil penalty, to negotiate, and to settle with such suspected violators within the civil penalty limits established in this section without court action.
 (c) Whoever is subject to a civil penalty under this paragraph shall also be subject to the payment of restitution for damages.
 IX. Any individual, political committee, or organization responsible for reporting under RSA 664:6 and 664:7 that files a report with illegible material content shall receive a written warning for a first offense and shall be charged a civil penalty of $1,000 per offense for any subsequent offenses.
+[Paragraph X effective January 1, 2027.]
+X. If a political committee, or any foreign national, as defined in 52 U.S.C. section 30121(b) and 11 C.F.R. section 110.20(a)(3), willfully violates RSA 664:4, VI or RSA 664:5, III, then the political committee or foreign national shall pay to the secretary of state the amount of such contribution or expenditure, plus interest accrued from the date of the contribution or expenditure, as applicable, at the current prime rate of interest as published in the Wall Street Journal on the date of payment. If funds of the political committee or foreign national are insufficient, the political committee or foreign national shall pay all of its available funds to the secretary of state, and the directors, officers, or members responsible for the financial decisions of the political committee or foreign national shall be jointly and severally liable for the amount due, in addition to any other penalties that may apply from this statute.
 Source.
-1979, 436:1. 1989, 212:9. 1991, 387:27, 28. 1992, 267:2. 1994, 4:29. 2003, 266:7. 2004, 50:3. 2009, 144:226, 227. 2014, 279:11, eff. July 28, 2014. 2021, 168:8, eff. Sept. 28, 2021. 2022, 234:3, 4, eff. Jan. 1, 2023. 2024, 365:17, eff. Jan. 1, 2025.
+1979, 436:1. 1989, 212:9. 1991, 387:27, 28. 1992, 267:2. 1994, 4:29. 2003, 266:7. 2004, 50:3. 2009, 144:226, 227. 2014, 279:11, eff. July 28, 2014. 2021, 168:8, eff. Sept. 28, 2021. 2022, 234:3, 4, eff. Jan. 1, 2023. 2024, 365:17, eff. Jan. 1, 2025. 2026, 314:5, eff. Jan. 1, 2027.
 
 ## New Hampshire § 664-22
 
@@ -9721,7 +9921,7 @@ Section 664:3-a
 
 ## New Hampshire § 664-4
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-4. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-4.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-4. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-4.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -9757,8 +9957,10 @@ Unlimited
 Any other political committee or political party
 Unlimited
 VI. A partnership or labor organization may establish its own political committee, which may make contributions to a candidate, political committee, or political party, so long as the funds used by the political committee are separate from the other partnership or labor organization funds.
+[Paragraph VII effective January 1, 2027.]
+VII. By any foreign national, as defined in 52 U.S.C. section 30121(b) and 11 C.F.R. section 110.20(a)(3).
 Source.
-1979, 436:1. 1983, 415:1. 1991, 387:13, 14. 2011, 150:7, V, eff. Aug. 7, 2011. 2021, 168:3, eff. Sept. 28, 2021. 2022, 93:1, eff. Jan. 1, 2023. 2023, 79:595, eff. June 20, 2023. 2024, 365:2, eff. Jan. 1, 2025.
+1979, 436:1. 1983, 415:1. 1991, 387:13, 14. 2011, 150:7, V, eff. Aug. 7, 2011. 2021, 168:3, eff. Sept. 28, 2021. 2022, 93:1, eff. Jan. 1, 2023. 2023, 79:595, eff. June 20, 2023. 2024, 365:2, eff. Jan. 1, 2025. 2026, 314:3, eff. Jan. 1, 2027.
 
 ## New Hampshire § 664-4-a
 
@@ -9796,7 +9998,7 @@ Source.
 
 ## New Hampshire § 664-5
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-5. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-5.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-5. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-5.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -9804,13 +10006,15 @@ CHAPTER 664
 POLITICAL EXPENDITURES AND CONTRIBUTIONS
 Expenditures
 Section 664:5
+[Introductory paragraph effective until January 1, 2027;  see also introductory paragraph set out below.][Introductory paragraph effective January 1, 2027;  see also introductory paragraph set out above.]
 664:5 Prohibited Political Expenditures. –
 No expenditure or use of a contribution, tangible or intangible, shall be made for the purpose of promoting the success or defeat of any political party, measure, or candidate:
+No expenditure or use of a contribution, whether tangible or intangible, shall be made for the purpose of promoting the success or defeat of any political party, measure, or candidate:
 I. By a political committee unless the political committee meets the requirements of RSA 664:3, I.
 II. By any person, candidate, or political committee, for political advertising in any format, including, but not limited to newspaper, periodical, or on a radio or television broadcast, or on a billboard, if at a rate more or less than the applicable rates to be filed with the secretary of state.
 III. By any foreign national, as defined in 52 U.S.C. section 30121(b) and 11 C.F.R. section 110.20(a)(3).
 Source.
-1979, 436:1. 1982, 27:4. 1991, 387:15. 1997, 351:60, 63, eff. Aug. 24, 1997. 2018, 111:1, eff. May 25, 2018. 2024, 365:5, eff. Jan. 1, 2025.
+1979, 436:1. 1982, 27:4. 1991, 387:15. 1997, 351:60, 63, eff. Aug. 24, 1997. 2018, 111:1, eff. May 25, 2018. 2024, 365:5, eff. Jan. 1, 2025. 2026, 314:4, eff. Jan. 1, 2027.
 
 ## New Hampshire § 664-5-ato664-5-b
 
@@ -9838,7 +10042,7 @@ Section 664:5-c
 
 ## New Hampshire § 664-6
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-6. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-6.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 664-6. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/664/664-6.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -9847,7 +10051,7 @@ POLITICAL EXPENDITURES AND CONTRIBUTIONS
 Reports
 Section 664:6
 664:6 Reporting by Political Committees. –
-I. Any political committee whose receipts or expenditures exceed $1,000 in an election cycle shall file with the secretary of state an itemized statement, in the form prescribed by the secretary of state, signed by its chairman and treasurer. The $1,000 threshold shall not apply to political committees renewed under RSA 664:6, V; these political committees shall continue to file until a zero balance is reported. Except as provided in paragraph VIII, the statement shall detail the full name and postal address of each contributor in alphabetical order, the amount of the contribution, the date it was received, and the aggregate total for each election cycle. For contributors who, in the aggregate, donate $50 or less in an election cycle, their personal identifying information shall not be publicly available in the secretary of state's campaign finance system, and their personal identifying information shall be exempt from disclosure under RSA 91-A. Any receipts from a contributor with aggregate receipts of $50 or under shall appear on the statements as unitemized receipts. Any receipt that exceeds a contributor's aggregate total of $200 for each election cycle shall be reported with the contributor's occupation, the name of the contributor's employer, and the city or town of the contributor's principal place of business, if any. The statement shall also show each expenditure with the full name and postal address of the payee or promisee of payment, the date paid or obligated, whichever occurred first, and the specific nature and amount of each expenditure. Statements shall cover the period beginning the day after the last day covered in the prior statement period up to and including the Sunday before the statement is due, except for the statement in subparagraph (i) below which shall be inclusive through the Tuesday before the statement is due. For a candidate or a political committee of a candidate, as defined in RSA 664, where the candidate has not filed a declaration of candidacy or intent, as defined in RSA 655, for the current election cycle, only subparagraphs (a), (b), (c), and (i) apply. Statements shall be filed not later than 5:00 p.m. according to the following schedule:
+I. Any political committee whose receipts or expenditures exceed $1,000 in an election cycle shall file with the secretary of state an itemized statement, in the form prescribed by the secretary of state, signed by its chairman and treasurer. The $1,000 threshold shall not apply to political committees renewed under RSA 664:6, V; these political committees shall continue to file until a zero balance is reported. Except as provided in paragraph VIII, the statement shall detail the full name and postal address of each contributor in alphabetical order, the amount of the contribution, the date it was received, and the aggregate total for each election cycle. For contributors who, in the aggregate, donate $200 or less in an election cycle, their personal identifying information shall not be publicly available in the secretary of state's campaign finance system, and their personal identifying information shall be exempt from disclosure under RSA 91-A. Any receipts from a contributor with aggregate receipts of $200 or under shall appear on the statements as unitemized receipts. Any receipt that exceeds a contributor's aggregate total of $1,000 for each election cycle shall be reported with the contributor's occupation, the name of the contributor's employer, and the city or town of the contributor's principal place of business, if any. The statement shall also show each expenditure with the full name and postal address of the payee or promisee of payment, the date paid or obligated, whichever occurred first, and the specific nature and amount of each expenditure. Statements shall cover the period beginning the day after the last day covered in the prior statement period up to and including the Sunday before the statement is due, except for the statement in subparagraph (i) below which shall be inclusive through the Tuesday before the statement is due. For a candidate or a political committee of a candidate, as defined in RSA 664, where the candidate has not filed a declaration of candidacy or intent, as defined in RSA 655, for the current election cycle, only subparagraphs (a), (b), (c), and (i) apply. Statements shall be filed not later than 5:00 p.m. according to the following schedule:
 (a) First Wednesday in June after the state general election;
 (b) First Wednesday in December one year after the state general election;
 (c) Wednesday 12 weeks before primary election;
@@ -9863,9 +10067,9 @@ IV. Any political committee not subject to a registration fee under RSA 664:3 wh
 V. Any national political party committee of a party as defined in RSA 652:11 may make contributions or expenditures on behalf of state candidates without complying with the requirements of paragraphs I through IV, provided that the total contribution or expenditure made on behalf of a candidate or political committee in this state whether directly or indirectly does not exceed the limit for personal contributions in RSA 664:4.
 VI. The provisions of this section shall apply to a political committee for an individual candidate who is seeking a federal office whose holder is chosen by the voters of this state only. Such a committee which is required by federal law to file with the federal government reports relative to receipts and expenditures in support of such one candidate may choose to voluntarily file with the secretary of state copies of reports made to the federal government in accordance with the timetable established by federal laws for such reports.
 VII. Any political committee that is exempt from taxation under sections 501(c)(4), 501(c)(5), or 501(c)(6) of the United States Internal Revenue Code of 1986 may disclose, but shall not be required to disclose in its itemized statement of receipts, the identity of its donors. Any political committee affected by this section who chooses not to disclose the identity of its donors shall place the following disclosure on all communications to voters: "This organization has an exemption under the federal law and is not required, and chooses not, to disclose its donors."
-VIII. Campaign donations at campaign booths at fairs, festivals, or other events, donations to raffles, passing the hat, and other fundraising activities where individual donations do not exceed $25 and there is no expectation that an individual donor will exceed $50 over the campaign cycle may be summarized on the candidate's financial report by providing the name of the event, the location of the event, and the amount collected.
+VIII. Campaign donations at campaign booths at fairs, festivals, or other events, donations to raffles, passing the hat, and other fundraising activities where individual donations do not exceed $50 and there is no expectation that an individual donor will exceed $200 over the campaign cycle may be summarized on the candidate's financial report by providing the name of the event, the location of the event, and the amount collected.
 Source.
-1979, 436:1. 1982, 27:5. 1983, 89:1. 1991, 387:19-22. 1994, 8:2. 1995, 276:2. 1997, 351:61. 2007, 143:2, 3. 2013, 209:4. 2014, 279:7-10, eff. July 28, 2014. 2016, 270:1, eff. Jan. 1, 2017. 2021, 168:4, 5, 10, eff. Sept. 28, 2021. 2024, 365:6, eff. Jan. 1, 2025. 2025, 277:6, 7, eff. Sept. 30, 2025.
+1979, 436:1. 1982, 27:5. 1983, 89:1. 1991, 387:19-22. 1994, 8:2. 1995, 276:2. 1997, 351:61. 2007, 143:2, 3. 2013, 209:4. 2014, 279:7-10, eff. July 28, 2014. 2016, 270:1, eff. Jan. 1, 2017. 2021, 168:4, 5, 10, eff. Sept. 28, 2021. 2024, 365:6, eff. Jan. 1, 2025. 2025, 277:6, 7, eff. Sept. 30, 2025. 2026, 184:1, 2, eff. Aug. 18, 2026.
 
 ## New Hampshire § 664-6-a
 
@@ -10209,7 +10413,7 @@ Source.
 
 ## New Hampshire § 665-5
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 665-5. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/665/665-5.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 665-5. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/665/665-5.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -10218,13 +10422,16 @@ BALLOT LAW COMMISSION
 General Provisions
 Section 665:5
 665:5 Hearing Date. –
+[Paragraph I(intro. par.) effective until January 1, 2028; see also paragraph I(intro. par.) set out below.]
 I. If necessary, the ballot law commission shall meet on the third Thursday of September in each general election year and the third Friday following the presidential primary election in order to hear and decide:
+[Paragraph I(intro. par.) effective January 1, 2028; see also paragraph I(intro. par.) set out above.]
+I. If necessary, the ballot law commission shall meet on the third Thursday of June in each general election year and the third Friday following the presidential primary election in order to hear and decide:
 (a) Written objections filed pursuant to RSA 665:6, I and II; and
 (b) Written appeals filed pursuant to RSA 665:8, I.
 II. The ballot law commission shall meet on the fourth Monday in November in each general election year. The commission shall hear and decide all pending matters concerning the election of persons to the New Hampshire general court. At this time, the commission may also act on any other pending matters.
 III. The ballot law commission shall also meet at such other times as may be necessary as provided in RSA 655:31, RSA 665:8, II, and RSA 665:9.
 Source.
-2003, 151:8. 2009, 44:1. 2010, 317:60. 2012, 113:12, eff. May 31, 2012.
+2003, 151:8. 2009, 44:1. 2010, 317:60. 2012, 113:12, eff. May 31, 2012. 2026, 44:12, eff. Jan. 1, 2028.
 
 ## New Hampshire § 665-6
 
@@ -11812,7 +12019,7 @@ Source.
 
 ## New Hampshire § 669-5
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 669-5. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/669/669-5.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 669-5. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/669/669-5.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -11821,9 +12028,9 @@ TOWN ELECTIONS
 General Provisions
 Section 669:5
 669:5 Voters and Checklists. –
-An updated checklist shall be used at all town meetings and elections for the same purposes a checklist is used at a state election and to insure that only qualified voters participate in town meeting discussions and votes, by voice or otherwise. The supervisors shall prepare, post, and revise the checklist for a town meeting or election in the same manner as for a state election as provided in RSA 654:25-654:31, provided, however, that the session for correction shall be held on Saturday 6 to 13 days prior to the election. The supervisors shall also hold one session for correction of the checklist on the day immediately prior to the first day of the filing period for candidates for town office, as provided in RSA 669:19 or 669:42, as applicable, from 7:00 p.m. to 7:30 p.m. and at the discretion of the supervisors for extended hours.
+An updated checklist shall be used at all town meetings and elections for the same purposes a checklist is used at a state election and to insure that only qualified voters participate in town meeting discussions and votes, by voice or otherwise. The supervisors shall prepare, post, and revise the checklist for a town meeting or election in the same manner as for a state election as provided in RSA 654:25-654:31. The supervisors shall also hold one session for correction of the checklist on the day immediately prior to the first day of the filing period for candidates for town office, as provided in RSA 669:19 or 669:42, as applicable, from 7:00 p.m. to 7:30 p.m. and at the discretion of the supervisors for extended hours.
 Source.
-1979, 410:1. 1981, 571:1. 1987, 219:2. 1996, 36:11. 1998, 194:4. 2001, 272:3. 2003, 27:5, eff. July 1, 2003.
+1979, 410:1. 1981, 571:1. 1987, 219:2. 1996, 36:11. 1998, 194:4. 2001, 272:3. 2003, 27:5, eff. July 1, 2003. 2026, 93:1, eff. May 28, 2026.
 
 ## New Hampshire § 669-50
 
@@ -12679,7 +12886,7 @@ Source.
 
 ## New Hampshire § 671-18
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 671-18. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/671/671-18.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 671-18. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/671/671-18.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -12687,10 +12894,15 @@ CHAPTER 671
 SCHOOL DISTRICT ELECTIONS
 Nominations
 Section 671:18
+[RSA 671:18 effective until Sept. 8, 2026;  see also RSA 671:18  set out below.]
 671:18 Qualifications. –
 To become a candidate for any school district office, a person must be a registered voter in the district. No person holding the office of member of the school board shall at the same time hold the office of district moderator, treasurer, or auditor. No person employed on a salaried basis by a school administrative unit or by any school district within a school administrative unit shall be a school board member in any district of the school administrative unit. Salaried positions shall include, but are not limited to, the following: teacher, custodian, administrator, secretary, school bus driver (if paid by the district), school lunch worker and teacher's aide.
+[RSA 671:18 effective Sept. 8, 2026;  see also RSA 671:18  above.]
+671:18 Qualifications. –
+I. To become a candidate for any school district office, a person must be a registered voter in the district. No person shall simultaneously hold more than one of the following offices: member of school board, school district moderator, school district treasurer, school district auditor, school district clerk, or budget committee member-at-large under RSA 32:15 covering the school district, or advisory budget or finance committee member under RSA 32:24 covering the school district. No person employed on a salaried basis by a school administrative unit or by any school district within a school administrative unit shall be a school board member or budget committee member-at-large under RSA 32:15. Salaried positions shall include, but are not limited to, the following: teacher, custodian, administrator, secretary, school bus driver (if paid by the district), school lunch worker and teacher's aide.
+II. No person shall at the same time file a declaration of candidacy for any 2 or more elected offices that are incompatible under paragraph I.
 Source.
-1979, 321:1, eff. Aug. 21, 1979.
+1979, 321:1, eff. Aug. 21, 1979. 2026, 295:1, eff. Sept. 8, 2026.
 
 ## New Hampshire § 671-19
 
@@ -13055,7 +13267,7 @@ Source.
 
 ## New Hampshire § 671-6-a
 
-*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 671-6-a. Last changed: 2026-08-06. Source: https://gc.nh.gov/rsa/html/LXIII/671/671-6-a.htm*
+*Citation: New Hampshire Revised Statutes, Title LXIII — Elections, § 671-6-a. Last changed: 2026-09-09. Source: https://gc.nh.gov/rsa/html/LXIII/671/671-6-a.htm*
 
 TITLE LXIII
 ELECTIONS
@@ -13066,10 +13278,10 @@ Section 671:6-a
 671:6-a Optional Term. –
 I. At any annual school district meeting under an article in the warrant placed there by petition, the voters may vote to determine if they are in favor of having 2-year or 3-year terms for the school district clerk, moderator and treasurer. If the school district has adopted an official ballot, the clerk shall cause the following question to be printed on said ballot: "Are you in favor of changing the terms of the school district clerk, moderator and treasurer from one year to (here insert term option) years, beginning with the terms of the school district clerk, moderator and treasurer to be elected at next year's regular school district meeting?" Said question shall be printed in the form prescribed by RSA 656:13. If the school district has not adopted an official ballot, the clerk shall cause the same question to be printed upon special ballots which shall be used to determine the vote of the school district. If a majority of those voting on the question vote in favor of 2-year or 3-year terms, at the next annual meeting after the vote of approval, the school district shall elect a school district clerk, moderator and treasurer for 2-year or 3-year terms in accordance with the results of such vote.
 II. After the 2-year or 3-year terms for school district clerk, moderator and treasurer have been established, at any annual school district meeting held the year before the end of the 2-year or 3-year term, under an article in the warrant placed there by petition, the voters may vote to determine if they are in favor of changing the 2-year or 3-year terms for the school district clerk, moderator and treasurer. If the school district has adopted an official ballot, the clerk shall cause the following question to be printed on said ballot: "Are you in favor of changing the terms of the school district clerk, moderator and treasurer from (here insert term option) years to (here insert term option) year(s), beginning with the terms of the school district clerk, moderator and treasurer who shall be elected at next year's regular school district meeting?" The question shall be printed in the form prescribed by RSA 656:13. If the school district has not adopted an official ballot, the clerk shall cause the same question to be printed upon special ballots which shall be used to determine the vote of the school district. If a majority of those voting on the question vote in favor of changing the terms, at the next annual school district meeting, the voters shall elect the clerk, moderator and treasurer in accordance with the result of such vote.
-III. The terms of the school district clerk, moderator and treasurer shall all be for one year, for 2 years, or for 3 years. The terms of only one or 2 of such officers shall not be changed independently of the other one or 2 officers.
+III. The terms of the school district clerk, moderator and treasurer shall all be for one year, for 2 years, or for 3 years. The terms of only one or 2 of such officers shall not be changed independently of the other officers, except for moderators as provided under RSA 671:11-a.
 IV. The power of choosing one year, 2-year, or 3-year terms for the school district clerk, moderator and treasurer shall not extend to any other officers of the school district.
 Source.
-1981, 285:1. 1997, 176:3, eff. Aug. 11, 1997.
+1981, 285:1. 1997, 176:3, eff. Aug. 11, 1997. 2026, 70:3, eff. July 17, 2026.
 
 ## New Hampshire § 671-7
 

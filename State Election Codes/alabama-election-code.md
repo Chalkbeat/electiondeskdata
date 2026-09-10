@@ -1460,10 +1460,10 @@ At the general election to be held on the first Tuesday after the first Monday i
 
 ## Alabama § 17-14-2
 
-*Citation: Code of Alabama, Title 17 — Elections, § 17-14-2. Last changed: 2026-08-06. Source: https://alison.legislature.state.al.us/code-of-alabama*
+*Citation: Code of Alabama, Title 17 — Elections, § 17-14-2. Last changed: 2026-09-09. Source: https://alison.legislature.state.al.us/code-of-alabama*
 
 Section 17-14-2 Holding of General Election.
-General elections throughout the state shall be held for Governor, Lieutenant Governor, Attorney General, Auditor, Secretary of State, Treasurer, Commissioner of Agriculture and Industries, Chief Justice and associate justices of the Supreme Court, judges of the courts of appeals, electors for President and Vice President of the United States, United States senators, and such other officers as may be required by law to be elected by the voters of the entire state; for a member of Congress in each congressional district; public service commissioners in each congressional district, as provided in Section 37-1-3; judges of the circuit court in each judicial circuit; judges of the district courts in each district; district attorneys in each judicial circuit; a senator in each state senate district; a representative in the Legislature in each state house district; a judge of the probate court, sheriff, clerks of the circuit courts, tax assessor, tax collector, a county treasurer in counties of more than 56,000 population, as provided by law, coroner, and members of the county commission in each county, and constables in each precinct of the county.
+General elections throughout the state shall be held for Governor, Lieutenant Governor, Attorney General, Auditor, Secretary of State, Treasurer, Commissioner of Agriculture and Industries, Chief Justice and associate justices of the Supreme Court, judges of the courts of appeals, electors for President and Vice President of the United States, United States senators, and such other officers as may be required by law to be elected by the voters of the entire state; for a member of Congress in each congressional district; public service commissioners in each congressional district as provided in Section 37-1-3; judges of the circuit court in each judicial circuit; judges of the district courts in each district; district attorneys in each judicial circuit; a senator in each state senate district; a representative in the Legislature in each state house district; a judge of the probate court, sheriff, clerks of the circuit courts, tax assessor, tax collector, a county treasurer in counties of more than 56,000 population, as provided by law, coroner, and members of the county commission in each county, and constables in each precinct of the county.
 (Code 1876, §244; Code 1886, §339; Code 1896, §1574; Code 1907, §332; Code 1923, §414; Code 1940, T. 17, §66; §17-2-2; amended and renumbered by Act 2006-570, p. 1331, p. 1331, §68; Act 2026-345, §4.)
 
 ## Alabama § 17-14-3
@@ -1794,9 +1794,9 @@ Section 17-16-1 Preservation of Voted Ballot Containers and Records of Election 
 
 ## Alabama § 17-16-100
 
-*Citation: Code of Alabama, Title 17 — Elections, § 17-16-100. Last changed: 2026-08-06. Source: https://alison.legislature.state.al.us/code-of-alabama*
+*Citation: Code of Alabama, Title 17 — Elections, § 17-16-100. Last changed: 2026-09-09. Source: https://alison.legislature.state.al.us/code-of-alabama*
 
-Section 17-16-100
+Section 17-16-100 Post-Election Audit After Each County and Statewide General Election.
 (a) This section shall be known and may be cited as the Alabama Post-Election Audit Act.
 (b)(1) Notwithstanding any other law to the contrary, the judge of probate of each county shall order a post-election audit after each countywide and statewide general election of all ballots in one precinct of a countywide or statewide race selected by the canvassing board of each county as further provided in subdivision (2), which appeared on the ballot and which is not subject to a recount. Nothing in this section shall prohibit the judge of probate from ordering the audit of additional precincts and races. The order shall include the name of the precincts and the races to be audited. The order shall authorize the sheriff or other county authority to provide access to the ballot containers along with any other necessary election materials, including electronic data.
 (2) The canvassing board of each county, at noon on the second Friday after each county and statewide general election, shall select at least one precinct, excluding absentee and provisional ballots, and at least one county or statewide race to be audited by the judge of probate.
@@ -3392,9 +3392,9 @@ All voter registration, voter reidentification, and the purging of voters from t
 
 ## Alabama § 17-4-38
 
-*Citation: Code of Alabama, Title 17 — Elections, § 17-4-38. Last changed: 2026-08-06. Source: https://alison.legislature.state.al.us/code-of-alabama*
+*Citation: Code of Alabama, Title 17 — Elections, § 17-4-38. Last changed: 2026-09-09. Source: https://alison.legislature.state.al.us/code-of-alabama*
 
-Section 17-4-38 Dissemination of Information on Voter Registration.
+Section 17-4-38 Dissemination of Voter Registration Information.
 (a) The Secretary of State shall ensure that all applicants obtain requested voter lists electronically and in a timely manner. The Secretary of State shall establish procedures to allow any applicant to request and obtain voter lists in an electronic format. The Secretary of State shall not delay transmission of voter lists to any applicant.
 (b) Except as provided in this section, the Secretary of State shall charge a fee not exceeding one thousand dollars ($1,000) per electronic voter list produced. Otherwise, the reproduction cost of the electronic statewide file, or any portion thereof, shall be reasonable as determined by the Secretary of State, and a fee schedule shall be conspicuously posted on the Secretary of State’s website.
 (c)(1) The voter lists and election history information for the last 10 election cycles in which a voter participated, as contained in the statewide voter registration database in the Office of the Secretary of State, shall be accessible to any person who files an application to receive an electronic copy of a voter list and pays the required fee.
@@ -3652,10 +3652,11 @@ AMENDED BY ACT 2026-266, EFFECTIVE OCTOBER 1, 2026. SEE ACT FOR REVISED LANGUAGE
 
 ## Alabama § 17-5-15.2
 
-*Citation: Code of Alabama, Title 17 — Elections, § 17-5-15.2. Last changed: 2026-08-06. Source: https://alison.legislature.state.al.us/code-of-alabama*
+*Citation: Code of Alabama, Title 17 — Elections, § 17-5-15.2. Last changed: 2026-09-09. Source: https://alison.legislature.state.al.us/code-of-alabama*
 
-Section 17-5-15.2
-
+Section 17-5-15.2 Limitations on Certain Campaign Contributions Made by Credit Card; Reporting; Forfeiture.
+(a) No principal campaign committee, political action committee, or political party may accept any contribution made with a credit card via the Internet unless, at the time of making the contribution: (i) the person making the contribution provides to the principal campaign committee, political action committee, or political party the credit card verification value or code; and (ii) except as provided in subsection (b), the billing address associated with the credit card is located in the United States.
+(b) If the contribution under subsection (a) is made by a U.S. citizen living outside of the United States and the credit card billing address is not a location in the United States, the individual shall provide to the principal campaign committee, political action committee, or political party, at the time of making the contribution, the mailing address of the location in the United States which the individual uses for voter registration purposes. (c) The treasurer of each principal campaign committee, political action committee, and political party shall maintain the names and addresses of each person making a contribution under this section for purposes of making reports under Section 17-5-8. (d) Any credit card processor that processes credit card contributions via the Internet to a principal campaign committee, political action committee, or political party without requiring the credit card verification value or code and a zip code located in the United States or a billing address located outside the United States is subject to a forfeiture in an amount equal to the cumulative amount of the contributions.
 (Act 2026-596, §1.)
 
 ## Alabama § 17-5-16
@@ -3926,9 +3927,9 @@ A political action committee and a principal campaign committee shall maintain a
 
 ## Alabama § 17-5-6.1
 
-*Citation: Code of Alabama, Title 17 — Elections, § 17-5-6.1. Last changed: 2026-08-06. Source: https://alison.legislature.state.al.us/code-of-alabama*
+*Citation: Code of Alabama, Title 17 — Elections, § 17-5-6.1. Last changed: 2026-09-09. Source: https://alison.legislature.state.al.us/code-of-alabama*
 
-Section 17-5-6.1
+Section 17-5-6.1 Destruction of Certain Records.
 Each political action committee, principal campaign committee, or other person required to file any report or statement under this chapter may destroy any records after the expiration of four years. For purposes of this section, records include: (i) any record or account required under this chapter; and (ii) a copy of each report or statement filed under this chapter and all records relevant to the report or statement.
 (Act 2026-583, §1.)
 
@@ -3978,17 +3979,17 @@ Section 17-5-7.2 Disposal of Campaign Property.
 
 ## Alabama § 17-5-7.3
 
-*Citation: Code of Alabama, Title 17 — Elections, § 17-5-7.3. Last changed: 2026-08-06. Source: https://alison.legislature.state.al.us/code-of-alabama*
+*Citation: Code of Alabama, Title 17 — Elections, § 17-5-7.3. Last changed: 2026-09-09. Source: https://alison.legislature.state.al.us/code-of-alabama*
 
-Section 17-5-7.3
-Notwithstanding Section 17-5-7.2, a member of the Legislature who, on or before January 1, 2026, acquired property described in Section 17-5-7.2(a), to furnish his or her office in the Alabama State House located on South Union Street in Montgomery, in preparation for the demolition of the building, may dispose of such property by donation or in any other manner, without the need to account for its value pursuant to Section 17-5-7.2.
+Section 17-5-7.3 Disposal of State House Office Furnishings Purchased with Campaign Funds.
+Notwithstanding Section 17-5-7.2, a member of the Legislature who, on or before January 1, 2026, acquired property described in Section 17-5-7.2(a) to furnish his or her office in the Alabama State House located on South Union Street in Montgomery, in preparation for the demolition of the building, may dispose of such property by donation or in any other manner, without the need to account for its value pursuant to Section 17-5-7.2.
 (Act 2026-210, §2.)
 
 ## Alabama § 17-5-7.4
 
-*Citation: Code of Alabama, Title 17 — Elections, § 17-5-7.4. Last changed: 2026-08-06. Source: https://alison.legislature.state.al.us/code-of-alabama*
+*Citation: Code of Alabama, Title 17 — Elections, § 17-5-7.4. Last changed: 2026-09-09. Source: https://alison.legislature.state.al.us/code-of-alabama*
 
-Section 17-5-7.4
+Section 17-5-7.4 Use of Campaign Funds for Certain Security Measures.
 (a) In addition to the use of campaign contributions for the purposes listed in Section 17-5-7, campaign contributions may be used to pay, or reimburse the state or any county or municipality, for security expenses to protect the safety of a candidate, an elected official, or an immediate family or staff member of a candidate or an elected official. For purposes of this section, “security expenses” include all of the following:
 (1) Reasonable costs of cybersecurity such as data removal services that find and remove personal information of a candidate, elected official, or immediate family or staff member of the candidate or elected official from data brokers and websites, and other online sources.
 (2) Reasonable costs of installing and monitoring nonstructural security devices, including home security hardware, locks, alarm systems, motion detectors, and security cameras, provided the security devices are intended to provide security and not to improve or increase the value of the property.

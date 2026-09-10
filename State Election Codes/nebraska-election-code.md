@@ -4161,11 +4161,10 @@ Laws 2025, LB521, § 27.
 
 ## Nebraska § 32-309
 
-*Citation: Nebraska Revised Statutes, Chapter 32 — Elections, § 32-309. Last changed: 2026-08-06. Source: https://nebraskalegislature.gov/laws/statutes.php?statute=32-309*
+*Citation: Nebraska Revised Statutes, Chapter 32 — Elections, § 32-309. Last changed: 2026-09-09. Source: https://nebraskalegislature.gov/laws/statutes.php?statute=32-309*
 
 32-309.
 Repealed. Laws 2025, LB521, § 87.
-Source
 
 ## Nebraska § 32-310
 
@@ -8073,11 +8072,10 @@ The expression of a preference for President by those voting at primary election
 
 ## Nebraska § 32-705
 
-*Citation: Nebraska Revised Statutes, Chapter 32 — Elections, § 32-705. Last changed: 2026-08-06. Source: https://nebraskalegislature.gov/laws/statutes.php?statute=32-705*
+*Citation: Nebraska Revised Statutes, Chapter 32 — Elections, § 32-705. Last changed: 2026-09-09. Source: https://nebraskalegislature.gov/laws/statutes.php?statute=32-705*
 
 32-705.
 Repealed. Laws 2025, LB521, § 87.
-Source
 
 ## Nebraska § 32-706
 

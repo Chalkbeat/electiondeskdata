@@ -1,11 +1,11 @@
 # Northern Mariana Islands — Commonwealth Code, Title 1, Division 6 — Elections
 
-Source: official text scraped from https://cnmilaw.org/pdf/cmc_section/T1/6001.pdf
+Source: official text scraped from https://cnmilaw.gov/docs/cmc_section/T1/6001.pdf
 Sections: 162
 
 ## Northern Mariana Islands § 6001.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6001.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6001.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6001.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6001.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -53,7 +53,7 @@ be in existence at the date this Act becomes effective.
 
 ## Northern Mariana Islands § 6002.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6002.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6002.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6002.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6002.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -69,7 +69,7 @@ VIII, § 3 (legislative authority to prescribe election procedures).
 
 ## Northern Mariana Islands § 6003.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6003.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6003.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6003.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6003.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -223,7 +223,7 @@ tion laws.
 
 ## Northern Mariana Islands § 6004.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6004.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6004.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6004.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6004.pdf*
 
 T ITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -291,7 +291,7 @@ promotes less confusion and results in greater percentage of valid votes.
 
 ## Northern Mariana Islands § 6005.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6005.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6005.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6005.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6005.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -303,7 +303,7 @@ Source: PL 12-18, § 2 (6005).
 
 ## Northern Mariana Islands § 6006.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6006.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6006.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6006.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6006.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -315,7 +315,7 @@ Source: PL 12-18, § 2 (6006).
 
 ## Northern Mariana Islands § 6007.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6007.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6007.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6007.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6007.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -332,7 +332,7 @@ comment to 1 CMC § 6003 regarding PL 13-57.
 
 ## Northern Mariana Islands § 6101.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6101.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6101.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6101.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6101.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -345,7 +345,7 @@ Source: DL 5-19, § 4, modified; repealed and reenacted by PL 12-18, § 2
 
 ## Northern Mariana Islands § 6102.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6102.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6102.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6102.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6102.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -360,7 +360,7 @@ Source: PL 12-18, § 2 (6102).
 
 ## Northern Mariana Islands § 6103.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6103.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6103.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6103.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6103.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -386,7 +386,7 @@ savings clause provisions.
 
 ## Northern Mariana Islands § 6104.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6104.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6104.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6104.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6104.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -400,7 +400,7 @@ fied as 1 CMC § 6103.
 
 ## Northern Mariana Islands § 6105.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6105.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6105.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6105.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6105.pdf*
 
 TITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -470,7 +470,7 @@ public on issues or questions that will be placed on the ballot.
 
 ## Northern Mariana Islands § 6106.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6106.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6106.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6106.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6106.pdf*
 
 TITLE 1: GOVERNMENT 
  D IVISION 6: ELECTIONS 
@@ -514,7 +514,7 @@ meeting using a telephone, video, or other electronic means.
 
 ## Northern Mariana Islands § 6107.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6107.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6107.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6107.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6107.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -526,7 +526,7 @@ Source: DL 5-19, § 4, modified; repealed and reenacted by PL 12 -18, § 2
 
 ## Northern Mariana Islands § 6108.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6108.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6108.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6108.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6108.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -541,7 +541,7 @@ Source: DL 5-19, § 4, modified; repealed and ree nacted by PL 12 -18, § 2
 
 ## Northern Mariana Islands § 6109.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6109.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6109.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6109.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6109.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -584,7 +584,7 @@ word “commission’s” in subsection (d) pursuant to 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § 6110.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6110.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6110.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6110.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6110.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -598,7 +598,7 @@ Source: PL 12-18, § 2 (6110).
 
 ## Northern Mariana Islands § 6111.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6111.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6111.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6111.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6111.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -622,7 +622,7 @@ Source: PL 12-18, § 2 (6111).
 
 ## Northern Mariana Islands § 6201.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6201.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6201.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6201.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6201.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -661,7 +661,7 @@ PL 12-18 became effective on September 14, 2000.
 
 ## Northern Mariana Islands § 6202.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6202.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6202.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6202.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6202.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -681,7 +681,7 @@ is similar to the former § 6203.
 
 ## Northern Mariana Islands § 6203.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6203.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6203.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6203.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6203.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -722,7 +722,7 @@ is similar to the former § 6204.
 
 ## Northern Mariana Islands § 6204.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6204.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6204.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6204.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6204.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -760,7 +760,7 @@ Commission Comment: See N.M.I. Const. art. VII, § 3.
 
 ## Northern Mariana Islands § 6205.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6205.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6205.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6205.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6205.pdf*
 
 TITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -893,7 +893,7 @@ voting concerns.
 
 ## Northern Mariana Islands § 6206.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6206.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6206.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6206.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6206.pdf*
 
 T ITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -972,7 +972,7 @@ governor-elect and lieutenant governor-elect.
 
 ## Northern Mariana Islands § 6207.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6207.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6207.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6207.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6207.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1018,7 +1018,7 @@ tion (c) amended by PL 17-11 § 5 (August 12, 2010).
 
 ## Northern Mariana Islands § 6208.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6208.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6208.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6208.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6208.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1097,7 +1097,7 @@ the word “Education” in subsection (c) pursuant to 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § 6209.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6209.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6209.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6209.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6209.pdf*
 
 T ITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -1167,7 +1167,7 @@ II of the Commonwealth Constitution.
 
 ## Northern Mariana Islands § 6210.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6210.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6210.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6210.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6210.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1184,7 +1184,7 @@ Source: DL 5-19, § 8, modified; repealed and reenacted by PL 12 -18, § 2
 
 ## Northern Mariana Islands § 6211.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6211.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6211.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6211.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6211.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1233,7 +1233,7 @@ The Commission modified this section pursuant to 1 CMC § 3806(f) and (e).
 
 ## Northern Mariana Islands § 6212.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6212.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6212.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6212.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6212.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1264,7 +1264,7 @@ Commission Comment: The Commission modified this section pursuant to
 
 ## Northern Mariana Islands § 6213.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6213.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6213.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6213.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6213.pdf*
 
 TITLE 1:  GOVERNMENT 
 DIVISION 6: ELECTIONS 
@@ -1371,7 +1371,7 @@ on November 23, 2016.
 
 ## Northern Mariana Islands § 6214.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6214.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6214.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6214.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6214.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1383,7 +1383,7 @@ Commission Comment:  Section 6214 is similar to the former § 6212
 
 ## Northern Mariana Islands § 6215.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6215.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6215.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6215.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6215.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1461,7 +1461,7 @@ section (e) pursuant to 1 CMC § 3806(f).
 
 ## Northern Mariana Islands § 6216.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6216.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6216.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6216.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6216.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1480,7 +1480,7 @@ to 1 CMC § 3806(f).
 
 ## Northern Mariana Islands § 6217.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6217.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6217.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6217.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6217.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1499,7 +1499,7 @@ Source: PL 17-16 § 3 (September 24, 2010).
 
 ## Northern Mariana Islands § 6218.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6218.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6218.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6218.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6218.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1518,7 +1518,7 @@ Source: PL 17-16 § 3 (September 24, 2010).
 
 ## Northern Mariana Islands § 6219.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6219.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6219.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6219.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6219.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1532,7 +1532,7 @@ Source: PL 17-16 § 3 (September 24, 2010).
 
 ## Northern Mariana Islands § 6220.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6220.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6220.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6220.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6220.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1557,7 +1557,7 @@ and changed capitalization pursuant to 1 CMC § 3806(c) and (f).
 
 ## Northern Mariana Islands § 6221.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6221.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6221.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6221.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6221.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1576,7 +1576,7 @@ Source: PL 17-11 § 26 (August 12, 2010).
 
 ## Northern Mariana Islands § 6222.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6222.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6222.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6222.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6222.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1597,7 +1597,7 @@ Source: PL 17 -11 § 26 (August 12, 2010); (a) amended by  PL 17 -16 § 5
 
 ## Northern Mariana Islands § 6223.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6223.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6223.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6223.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6223.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1611,7 +1611,7 @@ Source: PL 17-11 § 26 (August 12, 2010).
 
 ## Northern Mariana Islands § 6224.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6224.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6224.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6224.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6224.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1637,7 +1637,7 @@ to 1 CMC § 3806(f).
 
 ## Northern Mariana Islands § 6301.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6301.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6301.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6301.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6301.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1653,7 +1653,7 @@ Source: PL 12-18, § 2 (6301).
 
 ## Northern Mariana Islands § 6302.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6302.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6302.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6302.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6302.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1668,7 +1668,7 @@ Source: PL 12-18, § 2 (6302).
 
 ## Northern Mariana Islands § 6303.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6303.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6303.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6303.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6303.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1713,7 +1713,7 @@ actively.
 
 ## Northern Mariana Islands § 6304.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6304.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6304.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6304.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6304.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1736,7 +1736,7 @@ comment to 1 CMC § 6205.
 
 ## Northern Mariana Islands § 6305.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6305.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6305.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6305.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6305.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1753,7 +1753,7 @@ Source: PL 12-18, § 2 (6305).
 
 ## Northern Mariana Islands § 6306.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6306.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6306.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6306.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6306.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1770,7 +1770,7 @@ Source: PL 12-18, § 2 (6306).
 
 ## Northern Mariana Islands § 6307.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6307.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6307.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6307.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6307.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1785,7 +1785,7 @@ Source: PL 12-18, § 2 (6307).
 
 ## Northern Mariana Islands § 6308.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6308.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6308.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6308.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6308.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1808,7 +1808,7 @@ Commission inserted a comma after the word “citizen” pursuant to 1 CMC §
 
 ## Northern Mariana Islands § 6309.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6309.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6309.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6309.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6309.pdf*
 
 TITLE 1: GOVERNMENT 
  DIVISION 6: ELECTIONS 
@@ -1838,7 +1838,7 @@ it a person from running for more than one public office in any election.
 
 ## Northern Mariana Islands § 6321.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6321.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6321.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6321.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6321.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1866,7 +1866,7 @@ quired by Public Law 12-18.
 
 ## Northern Mariana Islands § 6322.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6322.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6322.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6322.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6322.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1879,7 +1879,7 @@ Commission Comment:  Section 6322 is similar to the former § 6312
 
 ## Northern Mariana Islands § 6323.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6323.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6323.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6323.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6323.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1898,7 +1898,7 @@ Commission Comment:  Section 6323 is similar to the former § 6313
 
 ## Northern Mariana Islands § 6324.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6324.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6324.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6324.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6324.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1912,7 +1912,7 @@ Commission Comment:  Section 6324 is similar to the former § 6314
 
 ## Northern Mariana Islands § 6325.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6325.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6325.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6325.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6325.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1927,7 +1927,7 @@ Commission Comment:  Section 6325 is similar to the former § 6315
 
 ## Northern Mariana Islands § 6331.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6331.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6331.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6331.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6331.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1956,7 +1956,7 @@ quired by Public Law 12-18.
 
 ## Northern Mariana Islands § 6332.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6332.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6332.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6332.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6332.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1970,7 +1970,7 @@ Commission Comment:  Section 6332 is similar to the former § 6322
 
 ## Northern Mariana Islands § 6333.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6333.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6333.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6333.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6333.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -1985,7 +1985,7 @@ Commission Comment:  Section 6333 is similar to the former § 6323
 
 ## Northern Mariana Islands § 6334.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6334.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6334.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6334.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6334.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2000,7 +2000,7 @@ Commission Comment:  Section 6334 is similar to the former § 6324
 
 ## Northern Mariana Islands § 6341.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6341.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6341.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6341.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6341.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2029,7 +2029,7 @@ this section. For more information regarding PL 17-11, see comment to 1 CMC
 
 ## Northern Mariana Islands § 6342.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6342.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6342.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6342.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6342.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2062,7 +2062,7 @@ quired by Public Law 12-18.
 
 ## Northern Mariana Islands § 6343.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6343.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6343.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6343.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6343.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2080,7 +2080,7 @@ Commission Comment:  Section 6343 is similar to the former § 6334
 
 ## Northern Mariana Islands § 6344.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6344.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6344.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6344.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6344.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2105,7 +2105,7 @@ Commission Comment:  Section 6344 is similar to the former § 6335
 
 ## Northern Mariana Islands § 6345.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6345.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6345.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6345.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6345.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2129,7 +2129,7 @@ word “senatorial” in subsection (a).
 
 ## Northern Mariana Islands § 6346.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6346.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6346.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6346.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6346.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2157,7 +2157,7 @@ to 1 CMC § 3806(e) and (g).
 
 ## Northern Mariana Islands § 6351.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6351.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6351.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6351.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6351.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2171,7 +2171,7 @@ Source: PL 12-55, § 3 (6351).
 
 ## Northern Mariana Islands § 6360.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6360.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6360.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6360.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6360.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2196,7 +2196,7 @@ this Act is to establish procedures for the election of the delegate.
 
 ## Northern Mariana Islands § 6361.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6361.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6361.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6361.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6361.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2209,7 +2209,7 @@ Source: PL 16-13, § 2(6361).
 
 ## Northern Mariana Islands § 6362.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6362.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6362.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6362.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6362.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2226,7 +2226,7 @@ Source: PL 16 -13, §  2(6362); (b) amended PL 17 -11 § 13 (August 12,
 
 ## Northern Mariana Islands § 6363.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6363.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6363.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6363.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6363.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2238,7 +2238,7 @@ Source: PL 16-13, § 2(6363).
 
 ## Northern Mariana Islands § 6364.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6364.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6364.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6364.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6364.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2249,7 +2249,7 @@ Source: PL 16-13, § 2(6364).
 
 ## Northern Mariana Islands § 6365.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6365.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6365.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6365.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6365.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2270,7 +2270,7 @@ for clarity.
 
 ## Northern Mariana Islands § 6366.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6366.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6366.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6366.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6366.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2282,7 +2282,7 @@ Source: PL 16-13, § 2(6366).
 
 ## Northern Mariana Islands § 6367.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6367.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6367.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6367.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6367.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2296,7 +2296,7 @@ Source: PL 16-13, § 2(6367).
 
 ## Northern Mariana Islands § 6368.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6368.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6368.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6368.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6368.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2307,7 +2307,7 @@ Source: PL 16-13, § 2(6368).
 
 ## Northern Mariana Islands § 6369.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6369.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6369.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6369.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6369.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2316,7 +2316,7 @@ Source: PL 16-13, § 2 (6369).
 
 ## Northern Mariana Islands § 6370.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6370.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6370.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6370.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6370.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2325,7 +2325,7 @@ Source: PL 16-13, § 2 (6370).
 
 ## Northern Mariana Islands § 6401.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6401.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6401.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6401.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6401.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2348,7 +2348,7 @@ Source: PL 12-18, § 2 (6401).
 
 ## Northern Mariana Islands § 6402.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6402.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6402.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6402.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6402.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2367,7 +2367,7 @@ Source: PL 12-18, § 2 (6402).
 
 ## Northern Mariana Islands § 6403.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6403.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6403.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6403.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6403.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2391,7 +2391,7 @@ Source: PL 12-18, § 2 (6403).
 
 ## Northern Mariana Islands § 6404.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6404.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6404.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6404.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6404.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2404,7 +2404,7 @@ Source: PL 12-18, § 2 (6404).
 
 ## Northern Mariana Islands § 6405.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6405.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6405.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6405.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6405.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2417,7 +2417,7 @@ Source: PL 12-18, § 2 (6405).
 
 ## Northern Mariana Islands § 6406.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6406.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6406.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6406.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6406.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2429,7 +2429,7 @@ Source: PL 12-18, § 2 (6406).
 
 ## Northern Mariana Islands § 6407.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6407.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6407.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6407.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6407.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2443,7 +2443,7 @@ Source: PL 12-18, § 2 (6407).
 
 ## Northern Mariana Islands § 6408.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6408.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6408.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6408.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6408.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2456,7 +2456,7 @@ Source: PL 12-18, § 2 (6408).
 
 ## Northern Mariana Islands § 6409.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6409.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6409.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6409.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6409.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2474,7 +2474,7 @@ Source: PL 12-18, § 2 (6409).
 
 ## Northern Mariana Islands § 6410.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6410.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6410.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6410.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6410.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2486,7 +2486,7 @@ Source: PL 12-18, § 2 (6410).
 
 ## Northern Mariana Islands § 6411.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6411.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6411.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6411.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6411.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2498,7 +2498,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6411).
 
 ## Northern Mariana Islands § 6412.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6412.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6412.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6412.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6412.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2508,7 +2508,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6412).
 
 ## Northern Mariana Islands § 6413.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6413.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6413.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6413.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6413.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2530,7 +2530,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6413).
 
 ## Northern Mariana Islands § 6414.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6414.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6414.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6414.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6414.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2567,7 +2567,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6414).
 
 ## Northern Mariana Islands § 6421.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6421.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6421.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6421.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6421.pdf*
 
 T ITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -2636,7 +2636,7 @@ tained severability and savings clause provisions.
 
 ## Northern Mariana Islands § 6422.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6422.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6422.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6422.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6422.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2649,13 +2649,13 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6422).
 
 ## Northern Mariana Islands § 6423.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6423.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6423.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6423.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6423.pdf*
 
 [PDF text extraction failed — 9,694 bytes, sha256=2e93ddf7ee87f25dca88736f897449057b264086a84bf8384f6acb74bfddf213]
 
 ## Northern Mariana Islands § 6424.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6424.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6424.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6424.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6424.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2675,7 +2675,7 @@ Commission Comment: The text of former Section 6341 (source: DL 5-19,
 
 ## Northern Mariana Islands § 6425.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6425.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6425.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6425.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6425.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2688,7 +2688,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6425).
 
 ## Northern Mariana Islands § 6426.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6426.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6426.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6426.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6426.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2705,7 +2705,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6426).
 
 ## Northern Mariana Islands § 6427.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6427.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6427.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6427.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6427.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2721,7 +2721,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6427).
 
 ## Northern Mariana Islands § 6428.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6428.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6428.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6428.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6428.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2733,7 +2733,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6428).
 
 ## Northern Mariana Islands § 6429.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6429.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6429.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6429.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6429.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2747,7 +2747,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6429).
 
 ## Northern Mariana Islands § 6430.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6430.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6430.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6430.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6430.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2758,7 +2758,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6430).
 
 ## Northern Mariana Islands § 6501.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6501.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6501.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6501.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6501.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2779,7 +2779,7 @@ Commission Comment: The Commission modified this section pursuant to
 
 ## Northern Mariana Islands § 6502.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6502.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6502.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6502.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6502.pdf*
 
 TITLE 1: GOVERNMENT 
  DIVISION 6: ELECTIONS 
@@ -2821,7 +2821,7 @@ drafting marks pursuant 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § 6503.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6503.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6503.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6503.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6503.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2835,7 +2835,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6503).
 
 ## Northern Mariana Islands § 6504.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6504.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6504.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6504.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6504.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2852,7 +2852,7 @@ be a grammatical and contextual typographical error in the original text.
 
 ## Northern Mariana Islands § 6505.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6505.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6505.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6505.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6505.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2872,7 +2872,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6505).
 
 ## Northern Mariana Islands § 6506.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6506.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6506.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6506.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6506.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2891,7 +2891,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6506).
 
 ## Northern Mariana Islands § 6507.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6507.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6507.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6507.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6507.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2907,7 +2907,7 @@ Source: PL 12-18, § 2 (6507).
 
 ## Northern Mariana Islands § 6508.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6508.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6508.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6508.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6508.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2919,7 +2919,7 @@ Source: PL 12-18, § 2 (6508).
 
 ## Northern Mariana Islands § 6509.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6509.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6509.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6509.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6509.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2968,7 +2968,7 @@ rected dashes in subsection (b) to commas pursuant to 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § 6510.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6510.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6510.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6510.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6510.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -2999,7 +2999,7 @@ Source: PL 17-11 § 16 (August 12, 2010).
 
 ## Northern Mariana Islands § 6521.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6521.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6521.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6521.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6521.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3025,7 +3025,7 @@ Commission Comment:  Section 6521 et seq., is similar to the former
 
 ## Northern Mariana Islands § 6522.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6522.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6522.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6522.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6522.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3041,7 +3041,7 @@ Source: PL 12-18, § 2 (6522).
 
 ## Northern Mariana Islands § 6523.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6523.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6523.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6523.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6523.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3057,7 +3057,7 @@ Source: PL 12-18, § 2 (6523).
 
 ## Northern Mariana Islands § 6524.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6524.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6524.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6524.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6524.pdf*
 
 TITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -3127,7 +3127,7 @@ semi-colon in subsection (d)(1) to correct a manifest error.
 
 ## Northern Mariana Islands § 6525.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6525.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6525.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6525.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6525.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3155,7 +3155,7 @@ Source: PL 12-18, § 2 (6525).
 
 ## Northern Mariana Islands § 6526.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6526.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6526.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6526.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6526.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3171,7 +3171,7 @@ Source: PL 12-18, § 2 (6526).
 
 ## Northern Mariana Islands § 6527.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6527.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6527.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6527.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6527.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3187,7 +3187,7 @@ Source: PL 12-18, § 2 (6527).
 
 ## Northern Mariana Islands § 6528.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6528.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6528.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6528.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6528.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3266,7 +3266,7 @@ See comment to 1 CMC § 6205 for more information regarding PL 17-16.
 
 ## Northern Mariana Islands § 6529.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6529.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6529.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6529.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6529.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3280,7 +3280,7 @@ Source: PL 18-46 § 3(k) (Apr. 23, 2014).
 
 ## Northern Mariana Islands § 6601.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6601.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6601.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6601.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6601.pdf*
 
 TITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -3313,7 +3313,7 @@ from § 6601 et seq., to § 6901 et seq., by the Commission.
 
 ## Northern Mariana Islands § 6602.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6602.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6602.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6602.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6602.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3327,7 +3327,7 @@ PL 17-11 § 20 (August 12, 2010).
 
 ## Northern Mariana Islands § 6603.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6603.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6603.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6603.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6603.pdf*
 
 TITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -3354,7 +3354,7 @@ PL 17-11 § 21 (August 12, 2010).
 
 ## Northern Mariana Islands § 6604.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6604.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6604.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6604.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6604.pdf*
 
 TITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -3374,7 +3374,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6604).
 
 ## Northern Mariana Islands § 6605.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6605.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6605.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6605.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6605.pdf*
 
 TITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -3402,7 +3402,7 @@ amended and (d) added by PL 17-11 § 22 (August 12, 2010), modified.
 
 ## Northern Mariana Islands § 6606.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6606.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6606.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6606.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6606.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3414,7 +3414,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6606).
 
 ## Northern Mariana Islands § 6607.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6607.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6607.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6607.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6607.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3430,7 +3430,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6607).
 
 ## Northern Mariana Islands § 6608.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6608.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6608.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6608.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6608.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3448,7 +3448,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6608).
 
 ## Northern Mariana Islands § 6609.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6609.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6609.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6609.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6609.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3467,7 +3467,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6609).
 
 ## Northern Mariana Islands § 6610.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6610.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6610.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6610.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6610.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3480,7 +3480,7 @@ Source: Repealed and reenacted by PL 12-18, § 2 (6610).
 
 ## Northern Mariana Islands § 6701.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6701.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6701.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6701.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6701.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3497,7 +3497,7 @@ Commission Comment:  Section 6701 et seq., is similar to the former
 
 ## Northern Mariana Islands § 6702.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6702.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6702.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6702.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6702.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3511,7 +3511,7 @@ Source: PL 12-18, § 2 (6702).
 
 ## Northern Mariana Islands § 6703.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6703.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6703.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6703.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6703.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3526,7 +3526,7 @@ Source: PL 12-18, § 2 (6703).
 
 ## Northern Mariana Islands § 6704.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6704.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6704.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6704.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6704.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3542,7 +3542,7 @@ Source: PL 12-18, § 2 (6704).
 
 ## Northern Mariana Islands § 6705.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6705.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6705.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6705.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6705.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3565,7 +3565,7 @@ See the comment to 1 CMC § 6528 regarding PL 15-52.
 
 ## Northern Mariana Islands § 6706.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6706.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6706.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6706.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6706.pdf*
 
 TITLE 1: GOVERNMENT 
  DIVISION 6: ELECTIONS 
@@ -3612,7 +3612,7 @@ Island under this exemption.
 
 ## Northern Mariana Islands § 6901.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6901.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6901.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6901.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6901.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3634,7 +3634,7 @@ prises part 1 of this division.
 
 ## Northern Mariana Islands § 6902.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6902.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6902.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6902.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6902.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3649,7 +3649,7 @@ Source: PL 3-53, § 2; renumbered.
 
 ## Northern Mariana Islands § 6903.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6903.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6903.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6903.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6903.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3664,7 +3664,7 @@ Source: PL 3-53, § 3; renumbered.
 
 ## Northern Mariana Islands § 6904.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6904.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6904.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6904.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6904.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3687,7 +3687,7 @@ Source: PL 3-53, § 4; renumbered.
 
 ## Northern Mariana Islands § 6905.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6905.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6905.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6905.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6905.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3701,7 +3701,7 @@ Source: PL 3-53, § 7; renumbered.
 
 ## Northern Mariana Islands § 6906.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6906.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6906.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6906.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6906.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3735,7 +3735,7 @@ Source: PL 3-53, § 6; renumbered.
 
 ## Northern Mariana Islands § 6907.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6907.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6907.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6907.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6907.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3752,7 +3752,7 @@ Source: PL 3-53, § 8; renumbered.
 
 ## Northern Mariana Islands § 6908.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6908.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6908.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6908.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6908.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3763,7 +3763,7 @@ Source: PL 3-53, § 5; renumbered.
 
 ## Northern Mariana Islands § 6909.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6909.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6909.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6909.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6909.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3776,7 +3776,7 @@ Source: PL 3-53, § 9; renumbered.
 
 ## Northern Mariana Islands § 6910.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6910.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6910.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6910.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6910.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3799,7 +3799,7 @@ other changes, set forth in the Commission comment to 1 CMC § 2001.
 
 ## Northern Mariana Islands § 6921.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6921.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6921.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6921.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6921.pdf*
 
 T ITLE 1: GOVERNMENT  
  D IVISION 6: ELECTIONS 
@@ -3912,7 +3912,7 @@ Commonwealth Election Commission.
 
 ## Northern Mariana Islands § 6922.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6922.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6922.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6922.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6922.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -3952,7 +3952,7 @@ mayors” to correct a manifest error in subsection (c) pursuant to 1  CMC
 
 ## Northern Mariana Islands § 6923.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6923.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6923.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6923.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6923.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -4003,7 +4003,7 @@ error in subsection (c) pursuant to 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § 6924.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6924.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6924.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6924.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6924.pdf*
 
 TITLE 1: GOVERNMENT  
  DIVISION 6: ELECTIONS 
@@ -4017,7 +4017,7 @@ chapter” pursuant to 1 CMC § 3806(d).
 
 ## Northern Mariana Islands § 6930.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6930.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6930.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6930.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6930.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4053,7 +4053,7 @@ for a violation of a certain provision of the Act.
 
 ## Northern Mariana Islands § 6931.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6931.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6931.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6931.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6931.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4082,7 +4082,7 @@ the section title, pursuant to 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § 6932.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6932.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6932.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6932.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6932.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4097,7 +4097,7 @@ Source: PL 19-11 § 3(103) (Oct. 15, 2015).
 
 ## Northern Mariana Islands § 6933.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6933.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6933.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6933.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6933.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4134,7 +4134,7 @@ the section title, pursuant to 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § 6934.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6934.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6934.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6934.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6934.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4153,7 +4153,7 @@ Source: PL 19-11 § 3(105) (Oct. 15, 2015).
 
 ## Northern Mariana Islands § 6935.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6935.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6935.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6935.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6935.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4165,7 +4165,7 @@ Source: PL 19-11 § 3(106) (Oct. 15, 2015).
 
 ## Northern Mariana Islands § 6936.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6936.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6936.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6936.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6936.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4181,7 +4181,7 @@ Source: PL 19-11 § 3(106) (Oct. 15, 2015).
 
 ## Northern Mariana Islands § 6937.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6937.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6937.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6937.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6937.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4201,7 +4201,7 @@ Source: PL 19-11 § 3(108) (Oct. 15, 2015).
 
 ## Northern Mariana Islands § 6938.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6938.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6938.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6938.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6938.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4217,7 +4217,7 @@ CMC § 6931(d)” pursuant to 1 CMC § 3806(c).
 
 ## Northern Mariana Islands § 6939.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6939.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/cmc_section/T1/6939.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § 6939.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.gov/docs/cmc_section/T1/6939.pdf*
 
 TITLE 1: GOVERNMENT  
 DIVISION 6: ELECTIONS 
@@ -4243,7 +4243,7 @@ to a period in the section title, pursuant to 1 CMC § 3806(g).
 
 ## Northern Mariana Islands § sourcetble.pdf
 
-*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § sourcetble.pdf. Last changed: 2026-08-06. Source: https://cnmilaw.org/pdf/source/sourcetble.pdf*
+*Citation: Commonwealth Code, Title 1, Division 6 — Elections, § sourcetble.pdf. Last changed: 2026-09-10. Source: https://cnmilaw.gov/docs/source/sourcetble.pdf*
 
 NORTHERN MARIANA ISLANDS 
 COMMONWEALTH CODE 
@@ -4251,41 +4251,40 @@ PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE
  
 1 
  
-Public and Local Law Source Reference Table 
-Last Updated as of April 22, 2026 
+Public and Local Law  
+Archived Reference Table 
  
 Northern Mariana Islands (Commonwealth) Public Laws ...................................................................................... 2 
-24th Legislature .......................................................................................................................................................... 2 
-23rd Legislature .......................................................................................................................................................... 6 
-22nd Legislature .......................................................................................................................................................... 8 
-21st Legislature ........................................................................................................................................................ 10 
-20th Legislature ........................................................................................................................................................ 23 
-19th Legislature ........................................................................................................................................................ 26 
-18th Legislature ........................................................................................................................................................ 31 
-17th Legislature ........................................................................................................................................................ 38 
-16th Legislature ........................................................................................................................................................ 45 
-15th Legislature ........................................................................................................................................................ 50 
-14th Legislature ........................................................................................................................................................ 72 
-13th Legislature ........................................................................................................................................................ 83 
-12th Legislature ........................................................................................................................................................ 87 
-11th Legislature ........................................................................................................................................................ 99 
-10th Legislature ...................................................................................................................................................... 114 
-9th Legislature ........................................................................................................................................................ 125 
-8th Legislature ........................................................................................................................................................ 130 
-7th Legislature ........................................................................................................................................................ 137 
-6th Legislature ........................................................................................................................................................ 140 
-5th Legislature ........................................................................................................................................................ 148 
-4th Legislature ........................................................................................................................................................ 151 
-3rd Legislature ........................................................................................................................................................ 157 
-2nd Legislature ........................................................................................................................................................ 206 
-1st Legislature ........................................................................................................................................................ 209 
-Northern Mariana Islands (Commonwealth) Local Laws: First Senatorial District (Rota) ............................. 214 
+23rd Legislature .......................................................................................................................................................... 2 
+22nd Legislature .......................................................................................................................................................... 4 
+21st Legislature .......................................................................................................................................................... 6 
+20th Legislature ........................................................................................................................................................ 19 
+19th Legislature ........................................................................................................................................................ 22 
+18th Legislature ........................................................................................................................................................ 27 
+17th Legislature ........................................................................................................................................................ 34 
+16th Legislature ........................................................................................................................................................ 41 
+15th Legislature ........................................................................................................................................................ 46 
+14th Legislature ........................................................................................................................................................ 68 
+13th Legislature ........................................................................................................................................................ 79 
+12th Legislature ........................................................................................................................................................ 83 
+11th Legislature ........................................................................................................................................................ 95 
+10th Legislature ...................................................................................................................................................... 110 
+9th Legislature ........................................................................................................................................................ 121 
+8th Legislature ........................................................................................................................................................ 126 
+7th Legislature ........................................................................................................................................................ 133 
+6th Legislature ........................................................................................................................................................ 136 
+5th Legislature ........................................................................................................................................................ 144 
+4th Legislature ........................................................................................................................................................ 147 
+3rd Legislature ........................................................................................................................................................ 153 
+2nd Legislature ........................................................................................................................................................ 202 
+1st Legislature ........................................................................................................................................................ 205 
+Northern Mariana Islands (Commonwealth) Local Laws: First Senatorial District (Rota)  ............................. 210 
 Northern Mariana Islands (Commonwealth) Local Laws: Second Senatorial District (Tinian and Aguiguan)
- ................................................................................................................................................................................... 217 
+ ................................................................................................................................................................................... 213 
 Northern Mariana Islands (Commonwealth) Local Laws: Third Senatorial District (Saipan and Northern 
-Islands) ..................................................................................................................................................................... 222 
+Islands) ..................................................................................................................................................................... 218 
  
-  
+ 
 NORTHERN MARIANA ISLANDS 
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
@@ -4308,304 +4307,6 @@ strikeout type =  repealed section
 underlined type =  renumbered section 
 italics type =  corrected section 
  
- 
- 
-24th Legislature 
-PL PL 
-§ 
-Codified at  Date 
-24-30 § 8 4 CMC § 1996 Mar. 27, 
-2026 
-24-30 § 7 4 CMC § 1995 Mar. 27, 
-2026 
-24-30 § 6 4 CMC § 1994 Mar. 27, 
-2026 
-24-30 § 5 4 CMC § 1993 Mar. 27, 
-2026 
-24-30 § 4 4 CMC § 1992 Mar. 27, 
-2026 
-24-30 § 3 4 CMC § 1991 Mar. 27, 
-2026 
-24-29 § 3 3 CMC § 13103 Mar. 20, 
-2026 
-24-29 § 3 3 CMC § 13102 Mar. 20, 
-2026 
-24-29 § 3 3 CMC § 13101 Mar. 20, 
-2026 
-24-28 § 3 4 CMC § 1313 Mar. 19, 
-2026 
-24-28 § 2 4 CMC § 1208 Mar. 19, 
-2026 
-24-27 § 2 4 CMC § 4205 Mar. 18, 
-2026 
-24-26 § 2 6 CMC § 5312 Mar. 18, 
-2026 
-24-25 § 6 7 CMC § 2809 Mar. 12, 
-226 
-24-25 § 5 7 CMC § 2806 Mar. 12, 
-226 
-24-25 § 4 7 CMC § 2805 Mar. 12, 
-226 
-24-25 § 3 7 CMC § 2803 Mar. 12, 
-226 
-24-25 § 2 7 CMC § 2801 Mar. 12, 
-226 
-24-24 § 3 9 CMC § 5607 Mar. 12, 
-2026 
-24-24 § 2 9 CMC § 1103 Mar. 12, 
-2026 
-24-23 § 2 9 CMC § 2116 Mar. 11, 
-2026 
-24-22 § 3 3 CMC § 27106 Jan. 8, 
-2026 
-24-22 § 3 3 CMC § 27105 Jan. 8, 
-2026 
-24-22 § 3 3 CMC § 27104 Jan. 8, 
-2026 
-NORTHERN MARIANA ISLANDS 
-COMMONWEALTH CODE 
-PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
- 
-3 
- 
-24-22 § 3 3 CMC § 27103 Jan. 8, 
-2026 
-24-22 § 3 3 CMC § 27102 Jan. 8, 
-2026 
-24-22 § 3 3 CMC § 27101 Jan. 8, 
-2026 
-24-18 § 3 1 CMC § 82702 Nov. 26, 
-2025 
-24-18 § 3 1 CMC § 82701 Nov. 26, 
-2025 
-24-15 § 4 6 CMC § 3119 Oct. 21, 
-2025 
-24-15 § 3 6 CMC § 3113 Oct. 21, 
-2025 
-24-12 § 5 2 CMC § 3535 Sept. 11, 
-2025 
-24-12 § 4 2 CMC § 3534 Sept. 11, 
-2025 
-24-12 § 3 2 CMC § 3533 Sept. 11, 
-2025 
-24-12 § 2 2 CMC § 3532 Sept. 11, 
-2025 
-24-10 § 3 3 CMC § 11105 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11104 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11103 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11102 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10108 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10107 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10105 Aug. 5, 
-2025 
-PL PL 
-§ 
-Codified at  Date 
-24-18 § 3 1 CMC § 82702 Nov. 26, 
-2025 
-24-18 § 3 1 CMC § 82701 Nov. 26, 
-2025 
-24-15 § 4 6 CMC § 3119 Oct. 21, 
-2025 
-24-15 § 3 6 CMC § 3113 Oct. 21, 
-2025 
-24-12 § 5 2 CMC § 3535 Sept. 11, 
-2025 
-24-12 § 4 2 CMC § 3534 Sept. 11, 
-2025 
-24-12 § 3 2 CMC § 3533 Sept. 11, 
-2025 
-24-12 § 2 2 CMC § 3532 Sept. 11, 
-2025 
-24-10 § 3 3 CMC § 11105 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11104 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11103 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11102 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10108 Aug. 5, 
-2025 
-NORTHERN MARIANA ISLANDS 
-COMMONWEALTH CODE 
-PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
- 
-4 
- 
-24-10 § 3 3 CMC § 10107 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10105 Aug. 5, 
-2025 
-PL PL 
-§ 
-Codified at  Date 
-24-18 § 3 1 CMC § 82702 Nov. 26, 
-2025 
-24-18 § 3 1 CMC § 82701 Nov. 26, 
-2025 
-24-15 § 4 6 CMC § 3119 Oct. 21, 
-2025 
-24-15 § 3 6 CMC § 3113 Oct. 21, 
-2025 
-24-12 § 5 2 CMC § 3535 Sept. 11, 
-2025 
-24-12 § 4 2 CMC § 3534 Sept. 11, 
-2025 
-24-12 § 3 2 CMC § 3533 Sept. 11, 
-2025 
-24-12 § 2 2 CMC § 3532 Sept. 11, 
-2025 
-24-10 § 3 3 CMC § 11105 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11104 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11103 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 11102 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10108 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10107 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10105 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 10102 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1615 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1614 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1613 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1611 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1605 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1604 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1602 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1601 Aug. 5, 
-2025 
-24-10 § 3 3 CMC § 1347 Aug. 5, 
-2025 
-24-10 § 2 3 CMC § 10102 Aug. 5, 
-2025 
-24-09 § 2 1 CMC § 2053 Aug. 5, 
-2025 
-24-08 § 10 6 CMC § 4102 Aug. 5, 
-2025 
-24-08 § 9 6 CMC § 1320 Aug. 5, 
-2025 
-NORTHERN MARIANA ISLANDS 
-COMMONWEALTH CODE 
-PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
- 
-5 
- 
-24-08 § 8 6 CMC § 1317 Aug. 5, 
-2025 
-24-08 § 7 6 CMC § 1314 Aug. 5, 
-2025 
-24-08 § 6 6 CMC § 1310 Aug. 5, 
-2025 
-24-08 § 5 6 CMC § 1309 Aug. 5, 
-2025 
-24-08 § 4 6 CMC § 1308 Aug. 5, 
-2025 
-24-08 § 3 6 CMC § 1307 Aug. 5, 
-2025 
-24-08 § 2 6 CMC § 1306 Aug. 5, 
-2025 
-24-07 § 4 4 CMC § 4269 Jul. 24, 
-2025 
-24-07 § 3 4 CMC § 4269 Jul. 24, 
-2025 
-24-07 § 2 4 CMC § 4266 Jul. 24, 
-2025 
-24-06 § 3 1 CMC § 2500 Jul. 24, 
-2025 
-24-06 § 3 1 CMC § 2499 Jul. 24, 
-2025 
-24-06 § 3 1 CMC § 2498 Jul. 24, 
-2025 
-24-06 § 3 1 CMC § 2497 Jul. 24, 
-2025 
-24-06 § 3 1 CMC § 2496 Jul. 24, 
-2025 
-24-06 § 3 1 CMC § 2495 Jul. 24, 
-2025 
-24-06 § 3 1 CMC § 2494 Jul. 24, 
-2025 
-24-05 § 3 4 CMC 51137 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51136 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51134 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51131 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51127 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51126 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51121 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51120 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51109 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51108 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51107 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51106 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51105 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51102 Jul. 22, 
-2025 
-24-05 § 3 4 CMC 51101 Jul. 22, 
-2025 
-NORTHERN MARIANA ISLANDS 
-COMMONWEALTH CODE 
-PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
- 
-6 
- 
-24-05 § 2 4 CMC 1933 Jul. 22, 
-2025 
-24-05 § 2 4 CMC 1717 Jul. 22, 
-2025 
-24-05 § 2 4 CMC 1402 Jul. 22, 
-2025 
-24-05 § 2 4 CMC 1307 Jul. 22, 
-2025 
-24-05 § 2 4 CMC 1305 Jul. 22, 
-2025 
-24-04 § 2 2 CMC § 2174 Jul. 17, 
-2025 
-24-03 § 2 4 CMC  § 7901-
-7921 
-Jun. 12, 
-2025 
-24-02 § 6 4 CMC § 51922 Jun. 5, 
-2025 
-24-02 § 5 4 CMC § 51921 Jun. 5, 
-2025 
-24-02 § 4 4 CMC § 51920 Jun. 5, 
-2025 
-24-02 § 3 4 CMC § 51915 Jun. 5, 
-2025 
-24-02 § 2 4 CMC § 51902 Jun. 5, 
-2025 
  
  
 23rd Legislature 
@@ -4651,7 +4352,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-7 
+3 
  
 23-32 § 2 3 CMC § 2701 Jan. 10, 
 2025 
@@ -4739,7 +4440,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-8 
+4 
  
 23-07 § 2 6 CMC § 3205 Aug. 1, 
 2023 
@@ -4812,7 +4513,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-9 
+5 
  
 22-34 § 2 9 CMC § 2101(d) Jan. 31, 
 2023 
@@ -4889,7 +4590,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-10 
+6 
  
 21st Legislature 
 21-44 § 2 2 CMC § 43104(a)(5) 
@@ -4947,7 +4648,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-11 
+7 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5005,7 +4706,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-12 
+8 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5063,7 +4764,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-13 
+9 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5121,7 +4822,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-14 
+10 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5179,7 +4880,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-15 
+11 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5237,7 +4938,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-16 
+12 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5296,7 +4997,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-17 
+13 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5354,7 +5055,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-18 
+14 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5413,7 +5114,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-19 
+15 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5472,7 +5173,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-20 
+16 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5532,7 +5233,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-21 
+17 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5590,7 +5291,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-22 
+18 
  
 21-44 § 2 2 CMC § 43104(a)(5) 
 21-43 § 2 1 CMC § 2653 
@@ -5649,7 +5350,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-23 
+19 
  
 20th Legislature 
 PL PL § Codified at 
@@ -5708,7 +5409,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-24 
+20 
  
 20-66 § 2 4 CMC §§ 53001–53076 
 20-66 § 3 6 CMC § 3177 (meant § 
@@ -5765,7 +5466,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-25 
+21 
  
 20-34 § 2 4 CMC § 2308 
 20-33 § 2 1 CMC §§ 25301–25302 
@@ -5821,7 +5522,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-26 
+22 
  
 20-02 § 2 1 CMC § 425(z) 
 20-01 § 2 2 CMC § 2112 
@@ -5857,7 +5558,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-27 
+23 
  
 19-77 § 2 4 CMC § 3103 
 19-76 § 2 4 CMC §§ 2201 –2303, 
@@ -5920,7 +5621,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-28 
+24 
  
 19-56 § 6 4 CMC § 7301(d) 
 19-56 § 7 3 CMC 2824(w) 
@@ -5986,7 +5687,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-29 
+25 
  
 19-42 § 11 3 CMC § 2523 
 19-42 § 12 6 CMC § 2301(a)(3) 
@@ -6046,7 +5747,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-30 
+26 
  
 19-23 § 2 4 CMC § 50202(b)–(d) 
  
@@ -6104,7 +5805,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-31 
+27 
  
 19-07 § 4 1 CMC § 2269 
 19-06 § 2 9 CMC § 8201(o), (p) 
@@ -6188,7 +5889,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-32 
+28 
  
 PL PL § Codified at 
  
@@ -6288,7 +5989,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-33 
+29 
  
 PL PL § Codified at 
 18-56 § 5 1 CMC § 8243(a) 
@@ -6366,7 +6067,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-34 
+30 
  
 PL PL § Codified at 
  
@@ -6453,7 +6154,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-35 
+31 
  
 PL PL § Codified at 
 18-42 § 2 1 CMC § 2653 
@@ -6509,7 +6210,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-36 
+32 
  
 PL PL § Codified at 
 18-34 § 3(7602) 4 CMC § 7602 
@@ -6565,7 +6266,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-37 
+33 
  
 PL PL § Codified at 
 18-30 § 4 6 CMC § 3156(a)(6) 
@@ -6622,7 +6323,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-38 
+34 
  
 PL PL § Codified at 
 18-04 § 4 3 CMC § 5101 - 5134 
@@ -6680,7 +6381,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-39 
+35 
  
 17-83 § 3 4 CMC § 5590-5595 
 17-83 § 3 4 CMC § 5590-5595 
@@ -6737,7 +6438,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-40 
+36 
  
 17-57 § 2(a)(101)  2 CMC § 5631(b) 
 17-57 § 2(b)  2 CMC § 5634 
@@ -6802,7 +6503,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-41 
+37 
  
 17-45 § 2(A)  9 CMC § 2201(b)  
 17-45 § 2(B) 9 CMC § 2205(d) 
@@ -6859,7 +6560,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-42 
+38 
  
 17-35 § 3(2813)  3 CMC § 2873 
 17-35 § 3(2814)  3 CMC § 2874 
@@ -6917,7 +6618,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-43 
+39 
  
 17-19 § 2(2842) 3 CMC § 2852 
 17-19 § 2(2843) 3 CMC § 2853 
@@ -6973,7 +6674,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-44 
+40 
  
 17-10 § 5  2 CMC § 1314(d)(e) 
 17-10 § 6  2 CMC § 1326 
@@ -7031,7 +6732,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-45 
+41 
  
 17-01 § 5(Q)(3)(b)  3 CMC § 4932(a) 
 17-01 § 5(Q)(3)(c)  3 CMC § 4935(a) 
@@ -7087,7 +6788,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-46 
+42 
  
 16-52 § 5 6 CMC § 9107(a) 
 16-51 § 5 1 CMC § 7103(n) 
@@ -7143,7 +6844,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-47 
+43 
  
 16-47 § 17 6 CMC § 5136 
 16-47 § 18 6 CMC § 5137 
@@ -7199,7 +6900,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-48 
+44 
  
 16-43 § 2(c)  1 CMC § 6213(h) 
 16-43 § 2(d)  1 CMC § 6206(a)(7) 
@@ -7255,7 +6956,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-49 
+45 
  
 16-17 § 6 4 CMC § 8191(h) 
 16-17 § 7 4 CMC § 8194 
@@ -7311,7 +7012,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-50 
+46 
  
 16-13 § 3(c)  1 CMC § 6341 
 16-09 § 2(a) 4 CMC § 8402(c) 
@@ -7385,7 +7086,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-51 
+47 
  
 15-
 127 
@@ -7487,7 +7188,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-52 
+48 
  
 15-
 115 
@@ -7589,7 +7290,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-53 
+49 
  
 15-
 108 
@@ -7692,7 +7393,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-54 
+50 
  
 15-
 091 
@@ -7794,7 +7495,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-55 
+51 
  
 15-
 088 
@@ -7896,7 +7597,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-56 
+52 
  
 15-
 088 
@@ -7998,7 +7699,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-57 
+53 
  
 15-
 082 
@@ -8101,7 +7802,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-58 
+54 
  
 15-
 069 
@@ -8205,7 +7906,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-59 
+55 
  
 15-
 055 
@@ -8308,7 +8009,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-60 
+56 
  
 15-
 050 
@@ -8411,7 +8112,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-61 
+57 
  
 15-
 046 
@@ -8513,7 +8214,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-62 
+58 
  
 15-
 038 
@@ -8615,7 +8316,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-63 
+59 
  
 15-
 035 
@@ -8717,7 +8418,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-64 
+60 
  
 15-
 035 
@@ -8819,7 +8520,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-65 
+61 
  
 15-
 029 
@@ -8921,7 +8622,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-66 
+62 
  
 15-
 022 
@@ -9023,7 +8724,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-67 
+63 
  
 15-
 022 
@@ -9126,7 +8827,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-68 
+64 
  
 15-
 017 
@@ -9228,7 +8929,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-69 
+65 
  
 15-
 016 
@@ -9330,7 +9031,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-70 
+66 
  
 15-
 013 
@@ -9432,7 +9133,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-71 
+67 
  
 15-
 002 
@@ -9534,7 +9235,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-72 
+68 
  
 15-
 002 
@@ -9621,7 +9322,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-73 
+69 
  
 14-89 § 2 3 CMC § 4434(i)(1)(C) 
 14-89 § 3 3 CMC § 1307 
@@ -9678,7 +9379,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-74 
+70 
  
 14-66 § 3 2 CMC § 4324(c) 
 14-65 § 2 4 CMC § 5171 
@@ -9734,7 +9435,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-75 
+71 
  
 14-62 § 2(2316) 3 CMC § 2316 
 14-62 § 2(2317) 3 CMC § 2317 
@@ -9790,7 +9491,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-76 
+72 
  
 14-37 § 3 3 CMC § 1341 
 14-37 § 3 3 CMC § 1341 
@@ -9846,7 +9547,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-77 
+73 
  
 14-35 § 4 4 CMC § 1814 
 14-35 § 4(1814) 4 CMC § 1814 
@@ -9902,7 +9603,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-78 
+74 
  
 14-35 § 4(1875) 4 CMC § 1876 
 14-35 § 4(1876) 4 CMC § 1877 
@@ -9958,7 +9659,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-79 
+75 
  
 14-35 § 4(1954) 4 CMC § 18164 
 14-35 § 4 4 CMC § 1900 
@@ -10014,7 +9715,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-80 
+76 
  
 14-27 § 3(a) 1 CMC § 2701 
 14-27 § 3(b) 1 CMC § 2702(a), (f) 
@@ -10071,7 +9772,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-81 
+77 
  
 14-11 § 3 4 CMC § 4801 
 14-11 § 2(101) 4 CMC § 4802 
@@ -10127,7 +9828,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-82 
+78 
  
 14-11 § 2(802) 4 CMC § 4902 
 14-11 § 2(803) 4 CMC § 4903 
@@ -10184,7 +9885,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-83 
+79 
  
 14-09 § 3(1505) 6 CMC § 1465 
 14-09 § 3(1506) 6 CMC § 1466 
@@ -10242,7 +9943,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-84 
+80 
  
 13-60 § 4 1 CMC § 8352(a),(c) 
 13-60 § 4 1 CMC § 
@@ -10299,7 +10000,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-85 
+81 
  
 13-52 § 11 4 CMC § 3432 
 13-52 § 12 4 CMC § 3424 
@@ -10356,7 +10057,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-86 
+82 
  
 13-34 § 4(103) 1 CMC § 20134 
 13-34 § 4(102) 1 CMC § 20133 
@@ -10412,7 +10113,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-87 
+83 
  
 13-25 § 1(3)(sec. 12) 2 CMC § 4749 
 13-25 § 1(3)(sec. 13) 2 CMC § 4750 
@@ -10468,7 +10169,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-88 
+84 
  
 12-82 § 5(1318) 6 CMC § 1318 
 12-82 § 6(1319) 6 CMC § 1319 
@@ -10524,7 +10225,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-89 
+85 
  
 12-71 § 2(b) 1 CMC § 2802(c) 
 12-71 § 2(c) 1 CMC § 2804(h) 
@@ -10581,7 +10282,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-90 
+86 
  
 12-56 § 5 6 CMC § 5313(f) 
 12-56 § 6 6 CMC § 5315 
@@ -10638,7 +10339,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-91 
+87 
  
 12-39 § 1(b)(8310) 4 CMC § 8426 
 12-39 § 1(b)(8311) 4 CMC § 8427 
@@ -10694,7 +10395,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-92 
+88 
  
 12-36 § 1 4 CMC § 60139 
 12-36 § 1 4 CMC § 60140 
@@ -10751,7 +10452,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-93 
+89 
  
 12-26 § 8 7 CMC § 2906 
 12-26 § 9 7 CMC § 2907 
@@ -10807,7 +10508,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-94 
+90 
  
 12-19 § 3 8 CMC § 1233 
 12-19 § 2(101) 8 CMC § 1901 
@@ -10863,7 +10564,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-95 
+91 
  
 12-18 § 2 1 CMC § 6203 
 12-18 § 2 1 CMC § 6204 
@@ -10919,7 +10620,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-96 
+92 
  
 12-18 § 2(6004) 1 CMC § 6004 
 12-18 § 2(6005) 1 CMC § 6005 
@@ -10975,7 +10676,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-97 
+93 
  
 12-18 § 2(6402) 1 CMC § 6402 
 12-18 § 2(6403) 1 CMC § 6403 
@@ -11031,7 +10732,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-98 
+94 
  
 12-18 § 2(6703) 1 CMC § 6703 
 12-18 § 2(6704) 1 CMC § 6704 
@@ -11087,7 +10788,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-99 
+95 
  
 12-02 § 2(b) 1 CMC § 121 
 11th Legislature 
@@ -11188,7 +10889,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-100 
+96 
  
 11-
 114 
@@ -11290,7 +10991,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-101 
+97 
  
 11-
 104 
@@ -11392,7 +11093,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-102 
+98 
  
 11-
 099 
@@ -11496,7 +11197,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-103 
+99 
  
 11-
 088 
@@ -11598,7 +11299,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-104 
+100 
  
 11-
 075 
@@ -11700,7 +11401,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-105 
+101 
  
 11-
 064 
@@ -11802,7 +11503,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-106 
+102 
  
 11-
 056 
@@ -11904,7 +11605,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-107 
+103 
  
 11-
 052 
@@ -12006,7 +11707,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-108 
+104 
  
 11-
 040 
@@ -12108,7 +11809,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-109 
+105 
  
 11-
 040 
@@ -12210,7 +11911,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-110 
+106 
  
 11-
 034 
@@ -12312,7 +12013,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-111 
+107 
  
 11-
 025 
@@ -12414,7 +12115,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-112 
+108 
  
 11-
 018 
@@ -12516,7 +12217,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-113 
+109 
  
 11-
 014 
@@ -12618,7 +12319,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-114 
+110 
  
 11-
 003 
@@ -12684,7 +12385,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-115 
+111 
  
 10-77 § 5 3 CMC § 1322 
 10-76 § 1 1 CMC § 8248 
@@ -12740,7 +12441,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-116 
+112 
  
 10-58 § 3 3 CMC § 1602 
 10-58 § 4 3 CMC § 1603 
@@ -12801,7 +12502,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-117 
+113 
  
 10-44 § 7 4 CMC § 5901 
 10-44 § 7 4 CMC § 5902 
@@ -12857,7 +12558,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-118 
+114 
  
 10-26 § 3 1 CMC § 3601 
 10-26 § 4(a) 1 CMC § 3602 
@@ -12918,7 +12619,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-119 
+115 
  
 10-07 Ch. 1 § 1 (§ 
 1.22) 
@@ -13020,7 +12721,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-120 
+116 
  
 10-07 Ch. 6 § 1 (§ 
 6.03) 
@@ -13122,7 +12823,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-121 
+117 
  
 10-07 Ch. 7 § 1 (§ 
 7.40) 
@@ -13224,7 +12925,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-122 
+118 
  
 10-07 Ch. 8 § 1 (§ 
 8.55) 
@@ -13326,7 +13027,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-123 
+119 
  
 10-07 Ch. 13 § 1 (§ 
 13.24) 
@@ -13428,7 +13129,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-124 
+120 
  
 10-07 Ch. 15 § 1 (§ 
 15.10) 
@@ -13509,7 +13210,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-125 
+121 
  
 9th Legislature 
 09-74 § 1 4 CMC § 9414 
@@ -13566,7 +13267,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-126 
+122 
  
 09-59 § 2 4 CMC § 1202 
 09-58 § 2 4 CMC § 1708 
@@ -13622,7 +13323,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-127 
+123 
  
 09-48 § 9 4 CMC § 9408 
 09-48 § 10 4 CMC § 9409 
@@ -13678,7 +13379,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-128 
+124 
  
 09-25 § 512 1 CMC § 8327 
 09-25 § 513 1 CMC § 8245 
@@ -13779,7 +13480,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-129 
+125 
  
 09-22 Ch. 5 § 1 (§ 
 1506) 
@@ -13867,7 +13568,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-130 
+126 
  
 09-15 § 2 6 CMC § 3306 
 09-14 § 2 4 CMC § 1933 
@@ -13924,7 +13625,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-131 
+127 
  
 08-42 § 8 8 CMC § 1406 
 08-42 § 9 8 CMC § 1407 
@@ -13980,7 +13681,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-132 
+128 
  
 08-38 § 11 3 CMC § 2561 
 08-38 § 12 3 CMC § 2562 
@@ -14036,7 +13737,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-133 
+129 
  
 08-32 § 2 (§ 4917(b) -
 (d)) 
@@ -14094,7 +13795,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-134 
+130 
  
 08-27 § 19 1 CMC § 1615 
 08-27 § 20 1 CMC § 1616 
@@ -14150,7 +13851,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-135 
+131 
  
 08-18 § 4 3 CMC § 1302 
 08-18 § 5 3 CMC § 1305 
@@ -14206,7 +13907,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-136 
+132 
  
 08-11 § 1 (§ 8440) 1 CMC § 8540 
 08-11 § 1 (§ 8441) 1 CMC § 8541 
@@ -14262,7 +13963,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-137 
+133 
  
 08-03 § 2 4 CMC § 6206 
 08-03 § 2 4 CMC § 6210 
@@ -14318,7 +14019,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-138 
+134 
  
 07-43 § 5(b) 1 CMC § 9708 
 07-43 § 5(c) 1 CMC § 9709 
@@ -14374,7 +14075,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-139 
+135 
  
 07-33 § 7 9 CMC § 2301 
 07-33 § 8 9 CMC § 2302 
@@ -14430,7 +14131,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-140 
+136 
  
 07-22 § 23 8 CMC § 1817 
 07-19 § 2 4 CMC § 1805 
@@ -14486,7 +14187,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-141 
+137 
  
 06-46 § 18 1 CMC § 2157 
 06-46 § 19 1 CMC § 2353 
@@ -14542,7 +14243,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-142 
+138 
  
 06-41 § 15 1 CMC § 8392 
 06-41 § 16 1 CMC § 8317 
@@ -14598,7 +14299,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-143 
+139 
  
 06-33 § 1 (§ 9309) 4 CMC § 9309 
 06-33 § 1 (§ 9310) 4 CMC § 9310 
@@ -14654,7 +14355,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-144 
+140 
  
 06-32 § 1 (§ 7253) 2 CMC § 7253 
 06-32 § 1 (§ 7254) 2 CMC § 7254 
@@ -14710,7 +14411,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-145 
+141 
  
 06-25 § 3 (§ 3304) 1 CMC § 3304 
 06-25 § 3 (§ 3305) 1 CMC § 3305 
@@ -14766,7 +14467,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-146 
+142 
  
 06-17 Ch. 2 § 8329 1 CMC § 8329 
 06-17 Ch. 2 § 83210 1 CMC § 8330 
@@ -14822,7 +14523,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-147 
+143 
  
 06-13 § 2 (§ 1221) 2 CMC § 1221 
 06-13 § 2 (§ 1222) 2 CMC § 1222 
@@ -14878,7 +14579,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-148 
+144 
  
 06-10 § 1562 3 CMC § 1164 
 06-10 § 1563 3 CMC § 1165 
@@ -14936,7 +14637,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-149 
+145 
  
 05-43 § 4 4 CMC § 3216 
 05-41 § 1 2 CMC § 4131 
@@ -14992,7 +14693,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-150 
+146 
  
 05-31 § 410 1 CMC § 8251 
 05-31 § 411 1 CMC § 8227 
@@ -15048,7 +14749,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-151 
+147 
  
 05-09 § 312 Ch. 2 1 CMC § 7407 
 05-08 § 1 2 CMC § 4461 
@@ -15104,7 +14805,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-152 
+148 
  
 04-64 § 206 1 CMC § 7404 
 04-63 § 1 4 CMC § 10203 
@@ -15160,7 +14861,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-153 
+149 
  
 04-53 § 4 4 CMC § 3214 
 04-53 § 5 4 CMC § 3215 
@@ -15216,7 +14917,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-154 
+150 
  
 04-47 § 1 (§ 8141) 4 CMC § 8141 
 04-47 § 1 (§ 8142) 4 CMC § 8142 
@@ -15272,7 +14973,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-155 
+151 
  
 04-38 § 11 8 CMC § 1711 
 04-38 § 12 8 CMC § 1712 
@@ -15328,7 +15029,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-156 
+152 
  
 04-32 § 13 1 CMC § 8250 
 04-27 § 1(d) 3 CMC § 3003 
@@ -15384,7 +15085,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-157 
+153 
  
 04-10 § 3(a)-(p) 2 CMC § 2203 
 04-10 § 4(a)-(e) 2 CMC § 2204 
@@ -15458,7 +15159,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-158 
+154 
  
 03-
 107 
@@ -15560,7 +15261,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-159 
+155 
  
 03-
 106 
@@ -15662,7 +15363,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-160 
+156 
  
 03-
 106 
@@ -15764,7 +15465,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-161 
+157 
  
 03-
 106 
@@ -15866,7 +15567,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-162 
+158 
  
 03-
 105 
@@ -15968,7 +15669,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-163 
+159 
  
 03-
 104 
@@ -16070,7 +15771,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-164 
+160 
  
 03-
 104 
@@ -16172,7 +15873,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-165 
+161 
  
 03-
 104 
@@ -16274,7 +15975,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-166 
+162 
  
 03-
 104 
@@ -16376,7 +16077,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-167 
+163 
  
 03-
 093 
@@ -16478,7 +16179,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-168 
+164 
  
 03-
 091 
@@ -16580,7 +16281,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-169 
+165 
  
 03-
 086 
@@ -16682,7 +16383,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-170 
+166 
  
 03-
 086 
@@ -16784,7 +16485,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-171 
+167 
  
 03-
 083 
@@ -16886,7 +16587,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-172 
+168 
  
 03-
 079 
@@ -16994,7 +16695,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-173 
+169 
  
 03-
 072 
@@ -17102,7 +16803,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-174 
+170 
  
 03-
 071 
@@ -17204,7 +16905,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-175 
+171 
  
 03-
 071 
@@ -17308,7 +17009,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-176 
+172 
  
 03-
 068 
@@ -17410,7 +17111,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-177 
+173 
  
 03-
 067 
@@ -17512,7 +17213,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-178 
+174 
  
 03-
 064 
@@ -17622,7 +17323,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-179 
+175 
  
 03-
 061 
@@ -17728,7 +17429,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-180 
+176 
  
 03-
 061 
@@ -17830,7 +17531,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-181 
+177 
  
 03-
 061 
@@ -17932,7 +17633,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-182 
+178 
  
 03-
 061 
@@ -18034,7 +17735,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-183 
+179 
  
 03-
 061 
@@ -18136,7 +17837,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-184 
+180 
  
 03-
 060 
@@ -18238,7 +17939,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-185 
+181 
  
 03-
 056 
@@ -18340,7 +18041,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-186 
+182 
  
 03-
 056 
@@ -18442,7 +18143,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-187 
+183 
  
 03-
 056 
@@ -18544,7 +18245,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-188 
+184 
  
 03-
 056 
@@ -18646,7 +18347,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-189 
+185 
  
 03-
 056 
@@ -18748,7 +18449,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-190 
+186 
  
 03-
 056 
@@ -18850,7 +18551,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-191 
+187 
  
 03-
 056 
@@ -18952,7 +18653,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-192 
+188 
  
 03-
 056 
@@ -19054,7 +18755,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-193 
+189 
  
 03-
 056 
@@ -19156,7 +18857,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-194 
+190 
  
 03-
 056 
@@ -19258,7 +18959,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-195 
+191 
  
 03-
 056 
@@ -19360,7 +19061,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-196 
+192 
  
 03-
 056 
@@ -19462,7 +19163,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-197 
+193 
  
 03-
 056 
@@ -19564,7 +19265,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-198 
+194 
  
 03-
 053 
@@ -19666,7 +19367,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-199 
+195 
  
 03-
 050 
@@ -19768,7 +19469,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-200 
+196 
  
 03-
 046 
@@ -19870,7 +19571,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-201 
+197 
  
 03-
 039 
@@ -19972,7 +19673,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-202 
+198 
  
 03-
 030 
@@ -20074,7 +19775,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-203 
+199 
  
 03-
 029 
@@ -20176,7 +19877,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-204 
+200 
  
 03-
 025 
@@ -20278,7 +19979,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-205 
+201 
  
 03-
 023 
@@ -20380,7 +20081,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-206 
+202 
  
 03-
 011 
@@ -20475,7 +20176,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-207 
+203 
  
 02-51 § 7 2 CMC § 5106 
 02-51 § 8 2 CMC § 5107 
@@ -20531,7 +20232,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-208 
+204 
  
 02-48 § 40 2 CMC § 2190 
 02-19 § 1 1 CMC § 2353 
@@ -20587,7 +20288,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-209 
+205 
  
 02-06 § 6(c) 3 CMC § 3303 
 02-06 § 7(c)-(e) 3 CMC § 3003 
@@ -20643,7 +20344,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-210 
+206 
  
 01-42 § 7 2 CMC § 4338 
 01-41 § 1 1 CMC § 422 
@@ -20699,7 +20400,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-211 
+207 
  
 01-20 § 1 4 CMC § 9211 
 01-20 § 2 4 CMC § 9212 
@@ -20755,7 +20456,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-212 
+208 
  
 01-08 Ch. 1 § 3 1 CMC § 2053 
 01-08 Ch. 2 § 1 1 CMC § 2101 
@@ -20811,7 +20512,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-213 
+209 
  
 01-08 Ch. 11 § 3 1 CMC § 2553 
 01-08 Ch. 11 § 4 1 CMC § 2554 
@@ -20869,7 +20570,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-214 
+210 
  
 01-06 § 12 3 CMC § 4131 
 01-06 §§ 13 - 18 3 CMC § 4132 
@@ -20967,7 +20668,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-215 
+211 
  
 RLL RLL § Codified at 
 Local 
@@ -21083,7 +20784,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-216 
+212 
  
 RLL RLL § Codified at 
 16-07 § 2 1 CMC § 433(c) 
@@ -21179,7 +20880,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-217 
+213 
  
 RLL RLL § Codified at 
 07-09 § 1 10 CMC § 1501 
@@ -21279,7 +20980,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-218 
+214 
  
 TLL TLL § Codified at 
 Local 
@@ -21409,7 +21110,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-219 
+215 
  
 TLL TLL § Codified at 
 Local 
@@ -21539,7 +21240,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-220 
+216 
  
 TLL TLL § Codified at 
 Local 
@@ -21671,7 +21372,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-221 
+217 
  
 TLL TLL § Codified at 
 Local 
@@ -21761,7 +21462,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-222 
+218 
  
 TLL TLL § Codified at 
 15-02 § 4 10 CMC § 20202 
@@ -21855,7 +21556,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-223 
+219 
  
 SLL SLL § Codified at 
 21-15 § 2 10 CMC § 3511 
@@ -21950,7 +21651,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-224 
+220 
  
 SLL SLL § Codified at 
 15-29 § 3 10 CMC § 3511 -
@@ -22046,7 +21747,7 @@ NORTHERN MARIANA ISLANDS
 COMMONWEALTH CODE 
 PUBLIC AND LOCAL LAW SOURCE REFERENCE TABLE 
  
-225 
+221 
  
 SLL SLL § Codified at 
 09-12 § 5 10 CMC § 3702 

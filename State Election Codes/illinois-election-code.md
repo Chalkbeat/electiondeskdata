@@ -83,7 +83,7 @@ is compiled at 10 ILCS 120/)
 
 ## Illinois § 10 ILCS 5/Art. 1 heading
 
-*Citation: Illinois Compiled Statutes, Chapter 10 — Elections, § 10 ILCS 5/Art. 1 heading. Last changed: 2026-08-06. Source: https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Election Code.&ActID=170&ChapterID=3&ChapAct=10+ILCS+5%2F&SeqStart=100000&SeqEnd=2950000*
+*Citation: Illinois Compiled Statutes, Chapter 10 — Elections, § 10 ILCS 5/Art. 1 heading. Last changed: 2026-09-09. Source: https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Election Code.&ActID=170&ChapterID=3&ChapAct=10+ILCS+5%2F&SeqStart=100000&SeqEnd=2950000*
 
 (10 ILCS 5/Art. 1 heading)
 ARTICLE 1.
@@ -389,7 +389,7 @@ The members of the Task Force shall serve without compensation. All appointments
 (g) This Section is repealed on January 1, 2028.
 (Source: P.A. 103-562, eff. 11-17-23; 104-434, eff. 11-21-25.)
 (10 ILCS 5/1-21)
-(Section scheduled to be repealed on July 1, 2026)
+(Section scheduled to be repealed on July 1, 2027)
 Sec. 1-21.
 Public Financing of Judicial Elections Task Force.
 (a) The Public Financing of Judicial Elections Task Force is hereby created for the purposes described in subsection (b). Members of the Task Force shall be appointed as follows:
@@ -419,12 +419,12 @@ public financing of political campaigns, both for judicial office and generally;
 (7) any other factors that the Task Force determines
 are related to the public financing of elections in this State.
 The Task Force shall also suggest changes to current law that would be necessary to facilitate public financing of candidates for judicial office.
-(c) The Task Force shall complete its study no later than June 30, 2024 and shall report its findings to the Governor and the General Assembly as soon as possible after the study is complete.
+(c) The Task Force shall complete its study no later than July 1, 2027 and shall report its findings to the Governor and the General Assembly as soon as possible after the study is complete.
 (d) The members shall serve without compensation but may be reimbursed for their expenses incurred in performing their duties. If a vacancy occurs on the Task Force, it shall be filled according to the guidelines of the initial appointment.
 (e) The State Board of Elections shall provide staff and administrative support to the Task Force.
 (f) As used in this Section, "judicial office" means nomination, election, or retention to the Supreme Court, the Appellate Court, or the Circuit Court.
-(g) This Section is repealed on July 1, 2026.
-(Source: P.A. 103-467, eff. 8-4-23; 104-10, eff. 6-16-25.)
+(g) This Section is repealed on July 1, 2027.
+(Source: P.A. 103-467, eff. 8-4-23; 104-10, eff. 6-16-25; 104-532, eff. 6-26-26.)
 (10 ILCS 5/1-21.5)
 Sec. 1-21.5.
 Continuation and validation of Illinois Elections and Infrastructure Integrity Task Force.
@@ -483,7 +483,7 @@ designee.
 (d) The Task Force is dissolved, and this Section is repealed, on July 1, 2027.
 (Source: P.A. 104-10, eff. 6-16-25; 104-434, eff. 11-21-25.)
 (10 ILCS 5/1-23)
-(Section scheduled to be repealed on July 1, 2026)
+(Section scheduled to be repealed on January 1, 2027)
 Sec. 1-23.
 Ranked-Choice and Voting Systems Task Force.
 (a) The Ranked-Choice and Voting Systems Task Force is created. The purpose of the Task Force is to review voting systems and the methods of voting, including ranked-choice voting, that could be authorized by law. The Task Force shall have the following duties:
@@ -495,7 +495,7 @@ use of a voting system, including the standards adopted by the U.S. Election Ass
 election authorities would be able to accommodate alternative methods of voting, including, but not limited to, ranked-choice voting.
 (4) Make recommendations or suggestions for changes
 to the Election Code or administrative rules for certification of voting systems in Illinois to accommodate alternative methods of voting, including ranked-choice voting.
-(b) On or before June 30, 2025, the Task Force shall publish a final report of its findings and recommendations. The report shall, at a minimum, detail findings and recommendations related to the duties of the Task Force and the following:
+(b) On or before January 1, 2027, the Task Force shall publish a final report of its findings and recommendations. The report shall, at a minimum, detail findings and recommendations related to the duties of the Task Force and the following:
 (1) the process used in Illinois to certify voting
 systems, including which systems can conduct ranked-choice voting; and
 (2) information about the voting system used by
@@ -514,8 +514,8 @@ at least 2 members with knowledge and experience administering elections.
 (d) Appointments to the Task Force shall be made within 30 days after the effective date of this amendatory Act of the 103rd General Assembly. Members shall serve without compensation.
 (e) The Task Force shall meet at the call of a co-chair at least quarterly to fulfill its duties. At the first meeting of the Task Force, the Task Force shall elect one co-chair from the members appointed by the Senate President and one co-chair from the members appointed by the Speaker of the House of Representatives.
 (f) The State Board of Elections shall provide administrative support for the Task Force.
-(g) This Section is repealed, and the Task Force is dissolved, on July 1, 2026.
-(Source: P.A. 103-467, eff. 8-4-23; 103-563, eff. 11-17-23; 104-10, eff. 6-16-25.)
+(g) This Section is repealed, and the Task Force is dissolved, on January 1, 2027.
+(Source: P.A. 103-467, eff. 8-4-23; 103-563, eff. 11-17-23; 104-10, eff. 6-16-25; 104-532, eff. 6-26-26.)
 (10 ILCS 5/1-24)
 Sec. 1-24.
 (Repealed).
@@ -8047,7 +8047,7 @@ Election authorities that have adopted for use Direct Recording Electronic Votin
 
 ## Illinois § 10 ILCS 5/Art. 1A heading
 
-*Citation: Illinois Compiled Statutes, Chapter 10 — Elections, § 10 ILCS 5/Art. 1A heading. Last changed: 2026-08-06. Source: https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Election Code.&ActID=170&ChapterID=3&ChapAct=10+ILCS+5%2F&SeqStart=2950000&SeqEnd=6850000*
+*Citation: Illinois Compiled Statutes, Chapter 10 — Elections, § 10 ILCS 5/Art. 1A heading. Last changed: 2026-09-09. Source: https://www.ilga.gov/legislation/ILCS/details?MajorTopic=GOVERNMENT&Chapter=ELECTIONS&ActName=Election Code.&ActID=170&ChapterID=3&ChapAct=10+ILCS+5%2F&SeqStart=2950000&SeqEnd=6850000*
 
 (10 ILCS 5/Art. 1A heading)
 ARTICLE 1A.
@@ -8777,6 +8777,8 @@ The words "register to vote online at (enter URL)" shall be bolded and of a dist
 (f) The State Board of Elections may adopt any rules necessary to enforce this Section or comply with the Electronic Registration Information Center Membership Agreement.
 (Source: P.A. 102-558, eff. 8-20-21; 103-600, eff. 7-1-24.)
 (10 ILCS 5/1A-50)
+(Text of Section before amendment by P.A. 104-695
+)
 Sec. 1A-50.
 The ERIC Operations Trust Fund.
 The ERIC Operations Trust Fund (Trust Fund) is created as a nonappropriated trust fund to be held outside of the State treasury, with the State Treasurer as ex officio custodian. The Trust Fund shall be financed by a combination of private donations and by appropriations by the General Assembly. The Board may accept from all sources, contributions, grants, gifts, bequeaths, legacies of money, and securities to be deposited into the Trust Fund. All deposits shall become part of the Trust Fund corpus. Moneys in the Trust Fund are not subject to appropriation and shall be used by the Board solely for the costs and expenses related to the participation in the Electronic Registration Information Center pursuant to this Code.
@@ -8784,6 +8786,12 @@ All gifts, grants, assets, funds, or moneys received by the Board for the purpos
 The ERIC Operations Trust Fund is not subject to sweeps, administrative chargebacks, or any other fiscal or budgetary maneuver that would in any way transfer any amounts from the ERIC Operations Trust Fund into any other fund of the State.
 On July 1, 2025, or as soon thereafter as practical, the State Comptroller shall direct and the State Treasurer shall transfer the remaining balance from the ERIC Operations Trust Fund into the Elections Special Projects Fund. Upon completion of the transfer, the ERIC Operations Trust Fund is dissolved, and any future deposits due to that Fund and any outstanding obligations or liabilities of that Fund pass to the Elections Special Projects Fund.
 (Source: P.A. 104-2, eff. 6-16-25.)
+(Text of Section after amendment by P.A. 104-695
+)
+Sec. 1A-50.
+Electronic Registration Information Center.
+All gifts, grants, assets, funds, or moneys received by the Board for the purpose of participation in the Electronic Registration Information Center shall be deposited into the Elections Special Projects Fund and shall be used by the Board solely for the costs and expenses related to the participation in the Electronic Registration Information Center pursuant to this Code.
+(Source: P.A. 104-2, eff. 6-16-25; 104-695, eff. 1-1-27.)
 (10 ILCS 5/1A-55)
 (Text of Section from P.A. 100-587 and P.A. 102-1)
 Sec. 1A-55.

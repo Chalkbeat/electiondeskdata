@@ -1,7 +1,7 @@
 # Missouri — Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections
 
 Source: official text scraped from https://revisor.mo.gov/main/OneChapter.aspx?chapter=115
-Sections: 377
+Sections: 365
 
 ## Missouri § 115.003
 
@@ -1252,33 +1252,6 @@ and
 (L. 1977 H.B. 101 § 6.010, A.L. 1980 S.B. 734, A.L. 1983 S.B. 234, A.L. 1986 H.B. 1676, A.L. 1995 H.B. 484, et al., A.L. 1996 H.B. 1557 & 1489, A.L. 1997 S.B. 132, A.L. 2003 H.B. 511, A.L. 2018 S.B. 592, A.L. 2026 H.B. 1871 merged with H.B. 1940)
 Severability clause, see § 1.1003
 
-## Missouri § 115.125~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.125~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.125&bid=35761&hl=*
-
-115.125.
-Notice of election, when given — facsimile transmission used when, exceptions — late notification, procedure. —
-1.  Not later than 5:00 p.m. on the tenth Tuesday prior to any election, except a special election to decide an election contest, tie vote or an election to elect seven members to serve on a school board of a district pursuant to section
-162.241
-, or a delay in notification pursuant to subsection 3 of this section, or pursuant to the provisions of section
-115.399
-, the officer or agency calling the election shall notify the election authorities responsible for conducting the election.  The notice shall be in writing, shall specify the name of the officer or agency calling the election and shall include a certified copy of the legal notice to be published pursuant to subsection 2 of section
-115.127
-.  The notice and any other information required by this section may, with the prior notification to the election authority receiving the notice, be accepted by facsimile transmission prior to 5:00 p.m. on the tenth Tuesday prior to the election, provided that the original copy of the notice and a certified copy of the legal notice to be published shall be received in the office of the election authority within three business days from the date of the facsimile transmission.
-2.  In lieu of a certified copy of the legal notice to be published pursuant to subsection 2 of section
-115.127
-, each notice of a special election to fill a vacancy shall include the name of the office to be filled, the date of the election and the date by which candidates must be selected or filed for the office.  Not later than the sixth Tuesday prior to any special election to fill a vacancy called by a political subdivision or special district, the officer or agency calling the election shall certify a sample ballot to the election authorities responsible for conducting the election.
-3.  Except as provided for in sections
-115.247
-and
-115.359
-, if there is no additional cost for the printing or reprinting of ballots or if the political subdivision or special district calling for the election agrees to pay any printing or reprinting costs, a political subdivision or special district may, at any time after certification of the notice of election required in subsection 1 of this section, but no later than 5:00 p.m. on the eighth Tuesday before the election, be permitted to make late notification to the election authority pursuant to court order, which, except for good cause shown by the election authority in opposition thereto, shall be freely given upon application by the political subdivision or special district to the circuit court of the area of such subdivision or district.  No court shall have the authority to order an individual or issue be placed on the ballot less than eight weeks before the date of the election.
-­­--------
-(L. 1977 H.B. 101 §
-6.010
-, A.L. 1980 S.B. 734, A.L. 1983 S.B. 234, A.L. 1986 H.B. 1676, A.L. 1995 H.B. 484, et al., A.L. 1996 H.B. 1557 & 1489, A.L. 1997 S.B. 132, A.L. 2003 H.B. 511, A.L. 2018 S.B. 592)
-Effective 11-07-18
-
 ## Missouri § 115.127
 
 *Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.127. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.127&bid=60113&hl=*
@@ -1315,41 +1288,6 @@ but no later than 5:00 p.m. on the eighth Tuesday before the election, withdraw 
 (L. 1977 H.B. 101 § 6.015, A.L. 1978 H.B. 971, A.L. 1979 S.B. 275, A.L. 1982 S.B. 526, A.L. 1983 H.B. 713 Revision merged with S.B. 234, A.L. 1988 H.B. 933, et al., A.L. 1989 H.B. 316, A.L. 1993 S.B. 31, A.L. 1996 H.B. 1557 & 1489, A.L. 1997 S.B. 132, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511 merged with S.B. 136, A.L. 2018 S.B. 592, A.L. 2021 H.B. 271, A.L. 2026 H.B. 1871 merged with H.B. 1940)
 *Word "twice" does not appear in original rolls of H.B. 1940, 2026.
 Severability clause, see § 1.1003
-
-## Missouri § 115.127~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.127~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.127&bid=50036&hl=*
-
-115.127.
-Notice of election, how, when given — striking names or issues from ballot, requirements — declaration of candidacy, filing date, when, notice requirements — candidate withdrawing, ballot reprinting, cost, how paid. —
-1.  Except as provided in subsection 4 of this section, upon receipt of notice of a special election to fill a vacancy submitted pursuant to subsection 2 of section
-115.125
-, the election authority shall cause legal notice of the special election to be published in a newspaper of general circulation in its jurisdiction.  The notice shall include the name of the officer or agency calling the election, the date and time of the election, the name of the office to be filled and the date by which candidates must be selected or filed for the office.  Within one week prior to each special election to fill a vacancy held in its jurisdiction, the election authority shall cause legal notice of the election to be published in two newspapers of different political faith and general circulation in the jurisdiction.  The legal notice shall include the date and time of the election, the name of the officer or agency calling the election and a sample ballot.  If there is only one newspaper of general circulation in the jurisdiction, the notice shall be published in the newspaper within one week prior to the election.  If there are two or more newspapers of general circulation in the jurisdiction, but no two of opposite political faith, the notice shall be published in any two of the newspapers within one week prior to the election.
-2.  Except as provided in subsections 1 and 4 of this section and in sections
-115.521
-,
-115.549
-and
-115.593
-, the election authority shall cause legal notice of each election held in its jurisdiction to be published.  The notice shall be published in two newspapers of different political faith and qualified pursuant to
-chapter 493
-which are published within the bounds of the area holding the election.  If there is only one so-qualified newspaper, then notice shall be published in only one newspaper.  If there is no newspaper published within the bounds of the election area, then the notice shall be published in two qualified newspapers of different political faith serving the area.  Notice shall be published twice, the first publication occurring in the second week prior to the election, and the second publication occurring within one week prior to the election.  Each such legal notice shall include the date and time of the election, the name of the officer or agency calling the election and a sample ballot; and, unless notice has been given as provided by section
-115.129
-, the second publication of notice of the election shall include the location of polling places.  The election authority may provide any additional notice of the election it deems desirable.
-3.  The election authority shall print the official ballot as the same appears on the sample ballot, and no candidate's name or ballot issue which appears on the sample ballot or official printed ballot shall be stricken or removed from the ballot except on death of a candidate or by court order, but in no event shall a candidate or issue be stricken or removed from the ballot less than eight weeks before the date of the election.
-4.  In lieu of causing legal notice to be published in accordance with any of the provisions of this chapter, the election authority in jurisdictions which have less than seven hundred fifty registered voters and in which no newspaper qualified pursuant to
-chapter 493
-is published, may cause legal notice to be mailed during the second week prior to the election, by first class mail, to each registered voter at the voter's voting address.  All such legal notices shall include the date and time of the election, the location of the polling place, the name of the officer or agency calling the election and a sample ballot.
-5.  If the opening date for filing a declaration of candidacy for any office in a political subdivision or special district is not required by law or charter, the opening filing date shall be 8:00 a.m., the seventeenth Tuesday prior to the election.  If the closing date for filing a declaration of candidacy for any office in a political subdivision or special district is not required by law or charter, the closing filing date shall be 5:00 p.m., the fourteenth Tuesday prior to the election.  The political subdivision or special district calling an election shall, before the seventeenth Tuesday,  prior to any election at which offices are to be filled, notify the general public of the opening filing date, the office or offices to be filled, the proper place for filing and the closing filing date of the election.  Such notification may be accomplished by legal notice published in at least one newspaper of general circulation in the political subdivision or special district.
-6.  Except as provided for in sections
-115.247
-and
-115.359
-, if there is no additional cost for the printing or reprinting of ballots or if the candidate agrees to pay any printing or reprinting costs, a candidate who has filed for an office or who has been duly nominated for an office may, at any time after the certification of the notice of election required in subsection 1 of section
-115.125
-but no later than 5:00 p.m. on the eighth Tuesday before the election, withdraw as a candidate pursuant to a court order, which, except for good cause shown by the election authority in opposition thereto, shall be freely given upon application by the candidate to the circuit court of the area of such candidate's residence.
-­­--------
-(L. 1977 H.B. 101 § 6.015, A.L. 1978 H.B. 971, A.L. 1979 S.B. 275, A.L. 1982 S.B. 526, A.L. 1983 H.B. 713 Revision merged with S.B. 234, A.L. 1988 H.B. 933, et al., A.L. 1989 H.B. 316, A.L. 1993 S.B. 31, A.L. 1996 H.B. 1557 & 1489, A.L. 1997 S.B. 132, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511 merged with S.B. 136, A.L. 2018 S.B. 592, A.L. 2021 H.B. 271)
 
 ## Missouri § 115.129
 
@@ -1400,23 +1338,6 @@ or section
 ­­--------
 (L. 1977 H.B. 101 § 7.010, A.L. 1979 S.B. 275, A.L. 1982 H.B. 1600, A.L. 1983 S.B. 44 & 45, A.L. 1993 H.B. 23, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
-
-## Missouri § 115.133~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.133~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.133&bid=5986&hl=*
-
-115.133.
-Qualifications of voters.  —
-1.  Except as provided in subsection 2 of this section, any citizen of the United States who is a resident of the state of Missouri and seventeen years and six months of age or older shall be entitled to register and to vote in any election which is held on or after his eighteenth birthday.
-2.  No person who is adjudged incapacitated shall be entitled to register or vote.  No person shall be entitled to vote:
-(1)  While confined under a sentence of imprisonment;
-(2)  While on probation or parole after conviction of a felony, until finally discharged from such probation or parole; or
-(3)  After conviction of a felony or misdemeanor connected with the right of suffrage.
-3.  Except as provided in federal law or federal elections and in section
-115.277
-, no person shall be entitled to vote if the person has not registered to vote in the jurisdiction of his or her residence prior to the deadline to register to vote.
-­­--------
-(L. 1977 H.B. 101 § 7.010, A.L. 1979 S.B. 275, A.L. 1982 H.B. 1600, A.L. 1983 S.B. 44 & 45, A.L. 1993 H.B. 23, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511)
 
 ## Missouri § 115.135
 
@@ -1592,8 +1513,7 @@ Are you a citizen of the United States?
 Will you be 18 years of age on or before election day?
 ☐ YES
 ☐ NO
-IF YOU CHECKED “NO” IN RESPONSE TO EITHER OF THESE QUESTIONS, DO NOT COMPLETE THIS FORM.
-IF YOU ARE SUBMITTING THIS FORM BY MAIL AND ARE REGISTERING FOR THE FIRST TIME, PLEASE SUBMIT A COPY OF A CURRENT, VALID PHOTO IDENTIFICATION. IF YOU DO NOT SUBMIT SUCH INFORMATION, YOU WILL BE REQUIRED TO PRESENT ADDITIONAL IDENTIFICATION UPON VOTING FOR THE FIRST TIME SUCH AS A BIRTH CERTIFICATE, A NATIVE AMERICAN TRIBAL DOCUMENT, OTHER PROOF OF UNITED STATES CITIZENSHIP, A VALID MISSOURI DRIVER'S LICENSE OR OTHER FORM OF PERSONAL IDENTIFICATION.
+IF YOU CHECKED “NO” IN RESPONSE TO EITHER OF THESE QUESTIONS, DO NOT COMPLETE THIS FORM. IF YOU ARE SUBMITTING THIS FORM BY MAIL AND ARE REGISTERING FOR THE FIRST TIME, PLEASE SUBMIT A COPY OF A CURRENT, VALID PHOTO IDENTIFICATION. IF YOU DO NOT SUBMIT SUCH INFORMATION, YOU WILL BE REQUIRED TO PRESENT ADDITIONAL IDENTIFICATION UPON VOTING FOR THE FIRST TIME SUCH AS A BIRTH CERTIFICATE, A NATIVE AMERICAN TRIBAL DOCUMENT, OTHER PROOF OF UNITED STATES CITIZENSHIP, A VALID MISSOURI DRIVER'S LICENSE OR OTHER FORM OF PERSONAL IDENTIFICATION.
 _______________________ Township (or Ward)
 _______________________ Name
 _______________________ Precinct
@@ -1601,24 +1521,16 @@ _______________________ Home Address
 _______________________ Required Personal Identification   Information
 _______________________ City ZIP
 _______________________ Date of Birth
-_______________________ Place of Birth 
-(Optional)
-_______________________ Telephone Number 
-(Optional)
+_______________________ Place of Birth (Optional)
+_______________________ Telephone Number (Optional)
 _______________________ Mother's Maiden Name (Optional)
 _______________________ Occupation (Optional)
-_______________________ Last Place Previously 
-Registered
-_______________________ Last four digits of Social Security Number
-(Required for registration unless no Social Security Number exists for Applicant)
-_______________________ Under What Name
- 
-_______________________ When
+_______________________ Last Place Previously Registered
+_______________________ Last four digits of Social Security Number (Required for registration unless no Social Security Number exists for Applicant)
+_______________________ Under What Name _______________________ When
 Remarks:
-Political Party Affiliation
-(OPTIONAL:  You shall be unaffiliated unless you designate an affiliation.)
-I am a citizen of the United States and a resident of the state of Missouri. I have not been adjudged incapacitated by any court of law. If I have been convicted of a felony or of a misdemeanor connected with the right of suffrage, I have had the voting disabilities resulting from such conviction removed pursuant to law. I do solemnly swear that all statements made on this card are true to the best of my knowledge and belief.
-I UNDERSTAND THAT IF I REGISTER TO VOTE KNOWING THAT I AM NOT LEGALLY ENTITLED TO REGISTER, I AM COMMITTING A CLASS ONE ELECTION OFFENSE AND MAY BE PUNISHED BY IMPRISONMENT OF NOT MORE THAN FIVE YEARS OR BY A FINE OF BETWEEN TWO THOUSAND FIVE HUNDRED DOLLARS AND TEN THOUSAND DOLLARS OR BY BOTH SUCH IMPRISONMENT AND FINE.
+Political Party Affiliation (OPTIONAL:  You shall be unaffiliated unless you designate an affiliation.)
+I am a citizen of the United States and a resident of the state of Missouri. I have not been adjudged incapacitated by any court of law. If I have been convicted of a felony or of a misdemeanor connected with the right of suffrage, I have had the voting disabilities resulting from such conviction removed pursuant to law. I do solemnly swear that all statements made on this card are true to the best of my knowledge and belief. I UNDERSTAND THAT IF I REGISTER TO VOTE KNOWING THAT I AM NOT LEGALLY ENTITLED TO REGISTER, I AM COMMITTING A CLASS ONE ELECTION OFFENSE AND MAY BE PUNISHED BY IMPRISONMENT OF NOT MORE THAN FIVE YEARS OR BY A FINE OF BETWEEN TWO THOUSAND FIVE HUNDRED DOLLARS AND TEN THOUSAND DOLLARS OR BY BOTH SUCH IMPRISONMENT AND FINE.
 _______________________ Signature of Voter
 _______________________ Date
 _______________________ Signature of Election Official
@@ -2073,33 +1985,70 @@ Effective 1-01-78
 
 ## Missouri § 115.193
 
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.193. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.193&bid=6021&hl=*
+*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.193. Last changed: 2026-09-09. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.193&bid=6021&hl=*
 
-115.193.
-Name stricken from register, conditions — notice, method, contents — improper removal from records, may be permitted to vote — inactive voter designation. —
-1.  Upon completion of a canvass as provided for in this chapter, a registered voter's name shall not be removed from the list of registered voters on the ground that the voter has changed residence unless:
-(1) The voter confirms in writing that the voter has changed residence to a place outside the election authority's jurisdiction in which the voter is registered; or
-(2)  The voter fails to respond to a notice described in this section and has not voted in an election during the period beginning on the date of the notice and ending on the day after the date of the second general election that occurs after the date of the notice.
-2.  The notice referred to in subsection 1, subdivision (2) of this section shall contain a postage prepaid and preaddressed return card, sent by forwardable mail, on which the voter may state the voter's current address.
-3.  The notice shall also contain the following statements:
-"(1)  Any voter who has not changed his or her residence, or has changed residence but remained in the same election authority's jurisdiction, shall return the card not later than the fourth Wednesday prior to the next election.  If the card is not returned by this date, oral or written affirmation of the voter's address may be required at the polling place before the voter will be permitted to vote in an election during the period beginning on the date of the notice and ending on the day after the date of the second general election that occurs after the date of the notice.  Any voter who does not vote in an election during that period, will have his or her name removed from the list of eligible voters;
-(2)  For additional information on registering to vote, contact the election authority located in the county of your current residence.  If you reside in the City of St. Louis, contact the St. Louis City election board."
-4.  If the election authority believes that the name of any voter was improperly removed from the registration records, it may, by telephone or in writing on election day, authorize election judges to permit the voter to vote.  The voter may be required to execute an affidavit of qualification on a form prescribed by the election authority before being permitted to vote.
-5.  An election authority may designate any voter as an inactive voter if the election authority receives from the United States Postal Service notification that the voter no longer resides at the address last known to the election authority and no forwarding address is available, or the voter fails to respond to the notice authorized in subdivision (2) of subsection 1 of this section within thirty days after the election authority sends such notice.  Such voter may be designated as an inactive voter only until:
-(1)  The voter returns such notice to the election authority;
-(2)  The voter provides the election authority with his or her new address pursuant to the provisions of this chapter;
-(3)  The voter provides a written affirmation that the voter has not changed residence; or
-(4)  The election authority receives sufficient information to remove the voter from the list of registered voters pursuant to this section or section
-115.165
-, or return the voter to the active list of registered voters in the jurisdiction.
-6.  An election authority may exclude inactive voters to determine only:
-(1)  The number of ballots to be printed pursuant to section
-115.247
-;
-(2)  The proportional costs of elections; or
-(3)  Mailing information to registered voters.
-­­--------
-(L. 1977 H.B. 101 § 7.335, A.L. 1982 S.B. 526, A.L. 1994 H.B. 1411, A.L. 1997 S.B. 132)
+☰ Revisor of Missouri
+Constitution
+Committee
+Publications
+Other Links
+Help / FAQ
+Appendices and Tables
+Are you double clicking links? Don't if you are.
+This can be caused if you are trying to access a:
+Section, Chapter, Title, etc. that does NOT exist.
+The system thinks you are a
+roBOT
+even though you may not be one.
+If you are following a link on an external page have their webmaster check their link out.
+The system tracks cumulative accesses by IP address, as well as recent accesses.
+Recent accesses are tracked over a thirty second interval.
+If the time between accesses is shorter than one second multiple times in that thirty second interval you might see this page.
+If you routinely see this page and you are NOT a BOT please let us know(
+WebMaster@LR.mo.gov
+)
+Describe what you were doing prior to seeing this page and include
+'Your info'
+from below.
+Trying to access pages that don't exist will be directed here.
+Your info (include with email)
+RecTime: 9 Sep 2026,  20:21:37
+RecSecs: 25.8
+IP Addr: 66.119.50.202
+Speeding: 0
+Recent: 35
+Total: 107
+NO FISHING!
+Click here for the
+Reorganization Act of 1974 - or - Concurrent Resolutions Having Force & Effect of Law
+In accordance with Section
+3.090
+, the language of statutory sections enacted during a legislative session are updated and available on this website
+on the effective date of such enacted statutory section.
+Other Information
+Recent Sections
+Editorials
+May Be Cited As
+Tables & Forms
+Multiple Enact
+Repeal & Transfer
+Definitions
+End Report
+Site changes
+Pictures
+Contact
+Other Links
+Legislative Research
+Oversight
+MOLIS
+Library
+MO WebMasters
+Missouri Senate
+MO.gov
+Missouri House
+Errors / suggestions - WebMaster@LR.mo.gov
+History and Fun Facts
+©Missouri Legislature, all rights reserved.
 
 ## Missouri § 115.195
 
@@ -2320,16 +2269,6 @@ At least fourteen days prior to an election and no less than one week prior to a
 ­­--------
 (L. 1977 H.B. 101 § 8.030, A.L. 2002 S.B. 675, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
-
-## Missouri § 115.233~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.233~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.233&bid=6035&hl=*
-
-115.233.
-Testing of automatic tabulating equipment, when done, procedure.  —
-Within fourteen days prior to an election at which an electronic voting system is to be used, the election authority shall have the automatic tabulating equipment tested to ascertain that the equipment is in compliance with the law and that it will correctly count the votes cast for all offices and on all questions.  At least forty-eight hours prior to the test, notice of the time and place of the test shall be mailed to each independent and new party candidate and the chairman of the county committee of each established political party named on the ballot.  The test shall be observed by at least two persons designated by the election authority, one from each major political party, and shall be open to representatives of the political parties, candidates, the news media and the public.  The test shall be conducted by processing a preaudited group of ballots.  If any error is detected, the cause shall be ascertained and corrected, and an errorless count shall be made before the tabulating equipment is approved.
-­­--------
-(L. 1977 H.B. 101 § 8.030, A.L. 2002 S.B. 675)
 
 ## Missouri § 115.235
 
@@ -2664,47 +2603,6 @@ and the election authority shall, if satisfied that the applicant is entitled to
 (L. 1977 H.B. 101 § 9.005, A.L. 1982 S.B. 526, A.L. 1986 H.B. 1471, et al., A.L. 1993 S.B. 31, A.L. 1995 H.B. 484, et al., A.L. 1997 S.B. 132, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511, A.L. 2013 S.B. 116, A.L. 2015 S.B. 34 & 105, A.L. 2020 S.B. 631, A.L. 2022 H.B. 1878, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
 
-## Missouri § 115.277~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.277~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.277&bid=51444&hl=*
-
-115.277.
-Persons eligible to vote absentee — reasons — voting procedure.  —
-1.  A registered voter of this state may cast an absentee ballot in person at a location designated by the election authority for all candidates and issues for which such voter is eligible to vote at the polling place if such voter expects to be prevented from going to the polls to vote on election day due to one of the reasons listed in subsection 3 of this section.  A registered voter casting a ballot under the provisions of this subsection shall provide a form of personal photo identification that is consistent with subsection 1 of section
-115.427
-.  Beginning on the second Tuesday prior to an election, a reason listed under subsection 3 of this section shall not be required, provided that, the provisions of section
-1.140
-to the contrary notwithstanding, this sentence and section
-115.427
-shall be nonseverable, and if any provision of section
-115.427
-is for any reason held to be invalid, such decision shall invalidate this sentence.
-2.  Except as provided in subsections 4, 5, and 6 of this section, a registered voter of this state may cast an absentee ballot not in person at a location designated by the election authority for all candidates and issues for which such voter would be eligible to vote at the polling place if such voter expects to be prevented from going to the polls to vote on election day due to one of the reasons listed in subsection 3 of this section.  An absentee ballot that is not requested and completed in person at the office of the election authority with a form of personal photo identification that is consistent with subsection 1 of section
-115.427
-shall have the statement on the ballot envelope notarized as required under section
-115.283
-, except that absentee ballots requested under subdivisions (2) and (5) of subsection 3 of this section shall not require notarization.  This subsection shall apply only in the case of absentee ballots that are not cast in person.
-3.  A voter may request an absentee ballot for any of the following reasons:
-(1)  Absence on election day from the jurisdiction of the election authority in which such voter is registered to vote;
-(2)  Incapacity or confinement due to illness or physical disability on election day, including a person who is primarily responsible for the physical care of a person who is incapacitated or confined due to illness or disability and resides at the same address;
-(3)  Religious belief or practice;
-(4)  Employment as:
-(a)  An election authority, as a member of an election authority, or by an election authority at a location other than such voter's polling place;
-(b)  A first responder;
-(c)  A health care worker; or
-(d)  A member of law enforcement;
-(5)  Incarceration, provided all qualifications for voting are retained;
-(6)  Certified participation in the address confidentiality program established under sections
-589.660 to 589.681
-because of safety concerns.
-4.  Any covered voter who is eligible to register and vote in this state may vote in any election for federal office, statewide office, state legislative office, or statewide ballot initiatives by submitting a federal postcard application to apply to vote by absentee ballot or by submitting a federal postcard application at the polling place even though the person is not registered.  A federal postcard application submitted by a covered voter pursuant to this subsection shall also serve as a voter registration application under section
-115.908
-and the election authority shall, if satisfied that the applicant is entitled to register, place the voter's name on the voter registration file.  Each covered voter may vote by absentee ballot or, upon submitting an affidavit that the person is qualified to vote in the election, may vote at the person's polling place.
-5.  Any interstate former resident may vote by absentee ballot for presidential and vice presidential electors.
-6.  Any new resident may vote by absentee ballot for presidential and vice presidential electors after registering to vote in such resident's new jurisdiction of residence.
-­­--------
-(L. 1977 H.B. 101 § 9.005, A.L. 1982 S.B. 526, A.L. 1986 H.B. 1471, et al., A.L. 1993 S.B. 31, A.L. 1995 H.B. 484, et al., A.L. 1997 S.B. 132, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511, A.L. 2013 S.B. 116, A.L. 2015 S.B. 34 & 105, A.L. 2020 S.B. 631, A.L. 2022 H.B. 1878)
-
 ## Missouri § 115.279
 
 *Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.279. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.279&bid=51445&hl=*
@@ -2953,33 +2851,6 @@ _____________________  _____________________  Voter's Address
 (L. 1996 H.B. 1557 & 1489 § 2, A.L. 1997 S.B. 132, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511, A.L. 2018 S.B. 592, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
 
-## Missouri § 115.284~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.284~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.284&bid=35771&hl=*
-
-115.284.
-Absentee voting process for permanently disabled persons established — election authority, duties — application, form — list of qualified voters established. —
-1.  There is hereby established an absentee voting process to assist persons with permanent disabilities in the exercise of their voting rights.
-2.  The local election authority shall send an application to participate in the absentee voting process set out in this section to any registered voter residing within the election authority's jurisdiction upon request.
-3.  Upon receipt of a properly completed application, the election authority shall enter the voter's name on a list of voters qualified to participate as absentee voters pursuant to this section.
-4.  The application to participate in the absentee voting process shall be in substantially the following form:
-­
-State of _________
-County (City) of _________
-I, _________ (print applicant's name), declare that I am a resident and registered voter of _________ County, Missouri, and am permanently disabled. I hereby request that my name be placed on the election authority's list of voters qualified to participate as absentee voters pursuant to section 115.284, and that I be delivered an absentee ballot application for each election in which I am eligible to vote.
-_____________________  Signature of Voter
-_____________________  _____________________  Voter's Address
-­
-5.  Not earlier than ten weeks before an election but prior to the fourth Tuesday prior to an election, the election authority shall deliver to each voter qualified to participate as absentee voters pursuant to this section an absentee ballot application if the voter is eligible to vote in that election.  If the voter returns the absentee request application to the election authority not later than 5:00 p.m. on the second Wednesday before an election and has retained the necessary qualifications to vote, the election authority shall provide the voter with an absentee ballot pursuant to this chapter.
-6.  The election authority shall remove from the list of voters qualified to participate as absentee voters pursuant to this section any voter who:
-(1)  Asks to be removed from the list;
-(2)  Dies;
-(3)  Becomes disqualified from voting pursuant to this chapter; or
-(4)  No longer resides at the address of his or her voter registration.
-­­--------
-(L. 1996 H.B. 1557 & 1489 § 2, A.L. 1997 S.B. 132, A.L. 2002 S.B. 675, A.L. 2003 H.B. 511, A.L. 2018 S.B. 592)
-Effective 11-07-18
-
 ## Missouri § 115.285
 
 *Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.285. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.285&bid=51447&hl=*
@@ -3211,30 +3082,6 @@ Printed Name of Candidate
 ­­--------
 (L. 2015 S.B. 104, A.L. 2016 H.B. 1477 merged with S.B. 786, A.L. 2017 S.B. 111, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
-(2024)  Under this section, any person who has previously pleaded guilty to a felony offense under Missouri law is not a qualified candidate for elective public office and is ineligible to be on an election ballot, notwithstanding a gubernatorial pardon.  A gubernatorial pardon under Article IV, Section 7 of the Missouri Constitution extinguishes the fact of a felony conviction, but does not erase the fact of a felony guilty plea.  Fletcher v. Young, 689 S.W.3d 161 (Mo.banc).
-
-## Missouri § 115.306~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.306~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.306&bid=34682&hl=*
-
-115.306.
-Disqualification as candidate for elective public office, when — filing of affidavit, contents — tax delinquency, effect of. —
-1.  No person shall qualify as a candidate for elective public office in the state of Missouri who has been found guilty of or pled guilty to a felony under the federal laws of the United States of America or to a felony under the laws of this state or an offense committed in another state that would be considered a felony in this state.
-2.  (1)  Any person who files as a candidate for election to a public office shall be disqualified from participation in the election for which the candidate has filed if such person is delinquent in the payment of any state income taxes, personal property taxes, municipal taxes, real property taxes on the place of residence, as stated on the declaration of candidacy, or if the person is a past or present corporate officer of any fee office that owes any taxes to the state.
-(2)  Each potential candidate for election to a public office, except candidates for a county or city committee of a political party, shall file an affidavit with the department of revenue and include a copy of the affidavit with the declaration of candidacy required under section
-115.349
-.  Such affidavit shall be in substantially the following form:
-­
-AFFIRMATION OF TAX PAYMENTS AND BONDING REQUIREMENTS:
-I hereby declare under penalties of perjury that I am not currently aware of any delinquency in the filing or payment of any state income taxes, personal property taxes, municipal taxes, real property taxes on the place of residence, as stated on the declaration of candidacy, or that I am a past or present corporate officer of any fee office that owes any taxes to the state, other than those taxes which may be in dispute.  I declare under penalties of perjury that I am not aware of any information that would prohibit me from fulfilling any bonding requirements for the office for which I am filing.
-__________________
-Candidate's Signature
-__________________
-Printed Name of Candidate
-­
-(3)  Upon receipt of a complaint alleging a delinquency of the candidate in the filing or payment of any state income taxes, personal property taxes, municipal taxes, real property taxes on the place of residence, as stated on the declaration of candidacy, or if the person is a past or present corporate officer of any fee office that owes any taxes to the state, the department of revenue shall investigate such potential candidate to verify the claim contained in the complaint.  If the department of revenue finds a positive affirmation to be false, the department shall contact the secretary of state, or the election official who accepted such candidate's declaration of candidacy, and the potential candidate.  The department shall notify the candidate of the outstanding tax owed and give the candidate thirty days to remit any such outstanding taxes owed which are not the subject of dispute between the department and the candidate.  If the candidate fails to remit such amounts in full within thirty days, the candidate shall be disqualified from participating in the current election and barred from refiling for an entire election cycle even if the individual pays all of the outstanding taxes that were the subject of the complaint.
-­­--------
-(L. 2015 S.B. 104, A.L. 2016 H.B. 1477 merged with S.B. 786, A.L. 2017 S.B. 111)
 (2024)  Under this section, any person who has previously pleaded guilty to a felony offense under Missouri law is not a qualified candidate for elective public office and is ineligible to be on an election ballot, notwithstanding a gubernatorial pardon.  A gubernatorial pardon under Article IV, Section 7 of the Missouri Constitution extinguishes the fact of a felony conviction, but does not erase the fact of a felony guilty plea.  Fletcher v. Young, 689 S.W.3d 161 (Mo.banc).
 
 ## Missouri § 115.307
@@ -4446,106 +4293,6 @@ to review, to delay the effective date or to disapprove and annul a rule are sub
 Severability clause, see § 1.1003
 (2020)  Affidavit requirement of section is misleading and contradictory, thus violating the voters' right to equal protection and the fundamental right to vote under the Missouri Constitution.  Priorities USA v. State, 591 S.W.3d 448 (Mo.banc).
 
-## Missouri § 115.427~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.427~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.427&bid=51455&hl=*
-
-115.427.
-Personal photo identification, requirements — provisional ballot, when — form of certificate — notice requirements — nondriver's license provided, when — report — precinct register requirements — mark in lieu of signature, when. —
-1.  Persons seeking to vote in a public election shall establish their identity and eligibility to vote at the polling place or, if voting absentee in person under section
-115.277
-, at the office of the election authority or other authorized location designated by the election authority by presenting a form of personal photo identification to election officials.  No form of personal photo identification other than the forms listed in this section shall be accepted to establish a voter's qualifications to vote.  Forms of personal photo identification that satisfy the requirements of this section are any one of the following:
-(1)  Nonexpired Missouri driver's license;
-(2)  Nonexpired or nonexpiring Missouri nondriver's license;
-(3)  A document that satisfies all of the following requirements:
-(a)  The document contains the name of the individual to whom the document was issued, and the name substantially conforms to the most recent signature in the individual's voter registration record;
-(b)  The document shows a photograph of the individual;
-(c)  The document includes an expiration date, and the document is not expired, or, if expired, the document expired after the date of the most recent general election; and
-(d)  The document was issued by the United States or the state of Missouri; or
-(4)  Any identification containing a photograph of the individual which is issued by the Missouri National Guard, the United States Armed Forces, including the Space Force, or the United States Department of Veteran Affairs to a member or former member of the Missouri National Guard or the United States Armed Forces, including the Space Force, and that is not expired or does not have an expiration date.
-2.  (1)  An individual who appears at a polling place without a form of personal identification described in subsection 1 of this section and who is otherwise qualified to vote at that polling place shall be allowed to cast a provisional ballot.  The election judges shall make a notation on the provisional ballot envelope to indicate that the voter's identity was not verified.
-(2)  No person shall be entitled to receive a provisional ballot until such person has completed a provisional ballot affidavit on the provisional ballot envelope.  All provisional ballots shall be marked with a conspicuous stamp or mark that makes them distinguishable from other ballots.
-(3)  The provisional ballot envelope shall be completed by the voter for use in determining the voter's eligibility to cast a ballot.
-3.  The provisional ballot envelope shall provide a place for the voter's name, address, date of birth, and last four digits of his or her Social Security number, followed by a certificate in substantially the following form:
-­
-I do solemnly swear that I am the person identified above and the information provided is correct.  I understand that my vote will not be counted unless:
-(1)  (a)  I return to this polling place today between 6:00 a.m. and 7:00 p.m. and provide one of the following forms of identification:
-a.  Nonexpired Missouri driver's license;
-b.  Nonexpired or nonexpiring Missouri nondriver's license;
-c.  A document that satisfies all of the following requirements:
-(i)  The document contains my name, in substantially the same form as the most recent signature on my voter registration record;
-(ii)  The document contains my photograph;
-(iii)   The document contains an expiration date and is not expired, or if expired, the document expired after the date of the most recent general election; and
-(iv)  The document was issued by the United States or the state of Missouri; or
-d.  Identification containing my photograph issued to me by the Missouri National Guard, the United States Armed Forces, including Space Force, or the United States Department of Veteran Affairs as a member or former member of the Missouri National Guard or the United States Armed Forces that is not expired or does not have an expiration date; or
-(b)  The election authority verifies my identity by comparing my signature on this envelope to the signature on file with the election authority and determines that I was eligible to cast a ballot at this polling place; and
-(2)  This provisional ballot otherwise qualifies to be counted under the laws of the State of Missouri.
-__________________
-____________________
-Signature of Voter
-Date
-__________________
-____________________
-Signature of Election Officials
-­
-­­
-­
-Once voted, the provisional ballot shall be sealed in the provisional ballot envelope and placed in a separate secured container by the election judge.
-4.  The provisional ballot cast by such voter shall not be counted unless:
-(1)  (a)  The voter returns to the polling place during the uniform polling hours established by section
-115.407
-and provides a form of personal identification that allows the election judges to verify the voter's identity as provided in subsection 1 of this section; or
-(b)  The election authority verifies the identity of the individual by comparing that individual's signature to the signature on file with the election authority and determines that the individual was eligible to cast a ballot at the polling place where the ballot was cast; and
-(2)  The provisional ballot otherwise qualifies to be counted under section
-115.430
-.
-5.  The secretary of state shall provide notice of the personal photo identification requirements described in subsection 1 of this section on the official state internet website of the secretary of state.
-6.  (1)  Notwithstanding the provisions of section
-136.055
-and section
-302.181
-to the contrary, the state and all fee offices shall provide one nondriver's license at no cost to any otherwise qualified voter who does not already possess such identification and who desires the identification for voting.
-(2)  This state and its agencies shall provide one copy of each of the following, free of charge, if needed by an individual seeking to obtain a form of personal photo identification described in subsection 1 of this section in order to vote:
-(a)  A birth certificate;
-(b)  A marriage license or certificate;
-(c)  A divorce decree;
-(d)  A certificate of decree of adoption;
-(e)  A court order changing the person's name;
-(f)  A Social Security card reflecting an updated name; and
-(g)  Naturalization papers or other documents from the United States Department of State proving citizenship.
-­­
-­
-Any individual seeking one of the above documents in order to obtain a form of personal photo identification described in subsection 1 of this section for voting may request the secretary of state to facilitate the acquisition of such documents.  The secretary of state shall pay any fee or fees charged by another state or its agencies, or any court of competent jurisdiction in this state or any other state, or the federal government or its agencies, in order to obtain any of the above documents from such state or the federal government.
-(3)  Any applicant who requests a nondriver's license for voting shall not be required to pay a fee.  The state of Missouri shall pay the legally required fees for any such applicant.  The department of revenue and a local election authority may enter into a contract that allows the local election authority to assist the department in issuing nondriver's license photo identifications.
-7.  The director of the department of revenue shall, by January first of each year, prepare and deliver to each member of the general assembly a report documenting the number of individuals who have requested and received a nondriver's license photo identification for the purposes of voting under this section.  The report shall also include the number of persons requesting a nondriver's license for purposes of voting under this section, but not receiving such license, and the reason for the denial of the nondriver's license.
-8.  The precinct register shall serve as the voter identification certificate.  The following form shall be printed at the top of each page of the precinct register:
-­
-VOTER'S IDENTIFICATION CERTIFICATE
-Warning: It is against the law for anyone to vote, or attempt to vote, without having a lawful right to vote.
-PRECINCT
-WARD OR TOWNSHIP ______
-GENERAL (SPECIAL, PRIMARY) ELECTION
-Held ______, 20______
-Date
-I hereby certify that I am qualified to vote at this election by signing my name and verifying my address by signing my initials next to my address.
-­
-9.  The secretary of state shall promulgate rules to effectuate the provisions of this section.
-10.  Any rule or portion of a rule, as that term is defined in section
-536.010
-, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
-chapter 536
-and, if applicable, section
-536.028
-.  This section and
-chapter 536
-are nonseverable and if any of the powers vested with the general assembly pursuant to
-chapter 536
-to review, to delay the effective date or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2002, shall be invalid and void.
-11.  If any voter is unable to sign his name at the appropriate place on the certificate or computer printout, an election judge shall print the name and address of the voter in the appropriate place on the precinct register, the voter shall make his mark in lieu of signature, and the voter's mark shall be witnessed by the signature of an election judge.
-­­--------
-(L. 1977 H.B. 101 § 11.045, A.L. 1983 S.B. 234, A.L. 1993 S.B. 31, A.L. 2002 S.B. 675, A.L. 2006 S.B. 1014 & 730, A.L. 2016 H.B. 1631 §§ 115.427 and B, A.L. 2022 H.B. 1878)
-(2020)  Affidavit requirement of section is misleading and contradictory, thus violating the voters' right to equal protection and the fundamental right to vote under the Missouri Constitution.  Priorities USA v. State, 591 S.W.3d 448 (Mo.banc).
-
 ## Missouri § 115.429
 
 *Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.429. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.429&bid=35782&hl=*
@@ -4569,7 +4316,7 @@ Effective 8-28-18 (S.B. 975 & 1024 Revision); 11-07-18 (S.B. 592)
 
 ## Missouri § 115.430
 
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.430. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.430&bid=60121&hl=*
+*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.430. Last changed: 2026-09-09. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.430&bid=60121&hl=*
 
 115.430.
 Provisional ballots, used when, exceptions, procedure, counted when, how — rulemaking authority — free access system established — provisional ballot only used, when — no jurisdiction in state courts to extend polling hours. —
@@ -4608,7 +4355,7 @@ __________________
 (Signature of Voter)
 __________________
 (Current Address)
-Subscribed and affirmed before me this ______ day of ______, 20______
+Subscribed and affirmed before me this ______ day of ______, 20____
 __________________
 (Signature of Election Official)
 ­
@@ -4670,111 +4417,6 @@ may vote only by using a provisional ballot, and such provisional ballot shall b
 ­­--------
 (L. 2002 S.B. 675 § 1, A.L. 2003 H.B. 511, A.L. 2006 S.B. 1014 & 730, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
-
-## Missouri § 115.430~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.430~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.430&bid=6148&hl=*
-
-115.430.
-Provisional ballots, used when, exceptions, procedure, counted when, how — rulemaking authority — free access system established — provisional ballot only used, when — no jurisdiction in state courts to extend polling hours. —
-1.  This section shall apply to primary and general elections where candidates for federal or statewide offices are nominated or elected and any election where statewide issue or issues are submitted to the voters.
-2.  (1)  A voter claiming to be properly registered in the jurisdiction of the election authority and eligible to vote in an election, but whose eligibility at that precinct cannot be immediately established upon examination of the precinct register, shall be entitled to vote a provisional ballot after providing a form of personal identification required pursuant to section
-115.427
-or upon executing an affidavit under section
-115.427
-, or may vote at a central polling place as established in section
-115.115
-where the voter may vote his or her appropriate ballot for his or her precinct of residence upon verification of eligibility or vote a provisional ballot if eligibility cannot be determined.  The provisional ballot provided to a voter under this section shall be the ballot provided to a resident of the voter's precinct determined by reference to the affidavit provided for in this section.  If the voter declares that the voter is eligible to vote and the election authority determines that the voter is eligible to vote at another polling place, the voter shall be directed to the correct polling place or a central polling place as established by the election authority pursuant to subsection 5 of section
-115.115
-.  If the voter refuses to go to the correct polling place or a central polling place, the voter shall be permitted to vote a provisional ballot at the incorrect polling place, but such ballot shall not be counted if the voter was not eligible to vote at that polling place.
-(2)  The following steps shall be taken to establish a voter's eligibility to vote at a polling place:
-(a)  The election judge shall examine the precinct register as provided in section
-115.425
-.  If the voter is registered and eligible to vote at the polling place, the voter shall receive a regular ballot;
-(b)  If the voter's eligibility cannot be immediately established by examining the precinct register, the election judge shall contact the election authority.  If the election authority cannot immediately establish that the voter is registered and eligible to vote at the polling place upon examination of the Missouri voter registration system, or if the election judge is unable to make contact with the election authority immediately, the voter shall be notified that the voter is entitled to a provisional ballot.
-(3)  The voter shall have the duty to appear and vote at the correct polling place.  If an election judge determines that the voter is not eligible to vote at the polling place at which a voter presents himself or herself, and if the voter appears to be eligible to vote at another polling place, the voter shall be informed that he or she may cast a provisional ballot at the current polling place or may travel to the correct polling place or a central polling place, as established by the election authority under subsection 5 of section
-115.115
-, where the voter may cast a regular ballot or provisional ballot if the voter's eligibility still cannot be determined.  Provisional ballots cast at a polling place shall be counted only if the voter was eligible to vote at such polling place as provided in subsection 5 of this section.
-(4)  For a voter requesting an absentee ballot in person, such voter shall be entitled to cast a provisional ballot when the voter's eligibility cannot be immediately established upon examination of the precinct registers or the Missouri voter registration system.
-(5)  Prior to accepting any provisional ballot at the polling place, the election judges shall determine that the information provided on the provisional ballot envelope by the provisional voter is consistent with the identification provided by such person under section
-115.427
-.
-3.  (1)  No person shall be entitled to receive a provisional ballot until such person has completed a provisional ballot affidavit on the provisional ballot envelope.
-(2)  The secretary of state shall produce appropriate sizes of provisional ballot envelopes and distribute them to each election authority according to their tabulating system.  All provisional ballot envelopes shall be printed on a distinguishable color of paper that is different from the color of the regular ballot.  The provisional ballot envelope shall be in the form required by subsection 4 of this section.  All provisional ballots shall be marked with a conspicuous stamp or other distinguishing mark that makes them readily distinguishable from the regular ballots.
-(3)  Once voted, the provisional ballot shall be placed and sealed in a provisional ballot envelope.
-4.  The provisional ballot in its envelope shall be deposited in the ballot box.  The provisional ballot envelope shall be completed by the voter for use in determining eligibility.  The provisional ballot envelope specified in this section shall contain a voter's certificate which shall be in substantially the following form:
-­
-STATE OF ______
-COUNTY OF ______
-I do solemnly swear (or affirm) that my name is ______; that my date of birth is ______; that the last four digits of my Social Security Number are ______; that I am registered to vote in ______ County or City (if a City not within a County), Missouri; that I am a qualified voter of said County (or City not within a County); that I am eligible to vote at this polling place; and that I have not voted in this election.
-I understand that if the above-provided information is not correct and the election authority determines that I am not registered and eligible to vote, my vote will not be counted. I further understand that knowingly providing false information is a violation of law and subjects me to possible criminal prosecution.
-__________________
-(Signature of Voter)
-__________________
-(Current Address)
-Subscribed and affirmed before me this ______ day of ______, 20______
-__________________
-(Signature of Election Official)
-­
-­­
-­
-The voter may provide additional information to further assist the election authority in determining eligibility, including the place and date the voter registered to vote, if known.
-5.  (1)  Prior to counting any provisional ballot, the election authority shall determine if the voter is registered and eligible to vote and if the vote was properly cast.  The eligibility of provisional votes shall be determined according to the requirements for a voter to cast a ballot in the election as set forth in sections
-115.133
-and
-115.135
-.  A
-provisional voter ballot
-shall not be eligible to be counted until the election authority has determined that:
-(a)  The voter cast such provisional ballot at a polling place established for the voter or the central polling place established by the election authority under subsection 5 of section
-115.115
-;
-(b)  The individual who cast the provisional ballot is an individual registered to vote in the respective election at the polling place where the ballot was cast;
-(c)  The voter did not otherwise vote in the same election by regular ballot, absentee ballot, or otherwise; and
-(d)  The information on the provisional ballot envelope is found to be correct, complete, and accurate.
-(2)  When the ballot boxes are delivered to the election authority from the polling places, the receiving teams shall separate the provisional ballots from the rest of the ballots and place the sealed provisional ballot envelopes in a separate container.  Teams of election authority employees or teams of election judges with each team consisting of one member of each major political party shall photocopy each provisional ballot envelope, such photocopy to be used by the election authority to determine provisional voter eligibility.  The sealed provisional ballot envelopes shall be placed by the team in a sealed container and shall remain therein until tabulation.
-(3)  To determine whether a provisional ballot is valid and entitled to be counted, the election authority shall examine its records and verify that the provisional voter is properly registered and eligible to vote in the election.  If the provisional voter has provided information regarding the registration agency where the provisional voter registered to vote, the election authority shall make an inquiry of the registration agency to determine whether the provisional voter is properly registered and eligible to vote in the election.
-(4)  If the election authority determines that the provisional voter is registered and eligible to vote in the election, the election authority shall provide documentation verifying the voter's eligibility.  Such documentation shall be noted on the copy of the provisional ballot envelope and shall contain substantially the following information:
-(a)  The name of the provisional voter;
-(b)  The name of the reviewer;
-(c)  The date and time; and
-(d)  A description of evidence found that supports the voter's eligibility.
-(5)  The local election authority shall record on a provisional ballot acceptance/rejection list the provisional ballot identification number and a notation marking it as accepted.
-(6)  If the election authority determines that the provisional voter is not registered or eligible to vote in the election, the election authority shall provide documentation verifying the voter's ineligibility.  Such documentation shall be noted on the copy of the provisional ballot envelope and shall contain substantially the following information:
-(a)  The name of the provisional voter;
-(b)  The name of the reviewer;
-(c)  The date and time;
-(d)  A description of why the voter is ineligible.
-(7)  The local election authority shall record on a provisional ballot acceptance/rejection list the provisional ballot identification number and notation marking it as rejected.
-(8)  If rejected, a photocopy of the envelope shall be made and used by the election authority as a mail-in voter registration.  The actual provisional ballot envelope shall be kept as ballot material, and the copy of the envelope shall be used by the election authority for registration record keeping.
-6.  All provisional ballots cast by voters whose eligibility has been verified as provided in this section shall be counted in accordance with the rules governing ballot tabulation.  Provisional ballots shall not be counted until all provisional ballots are determined either eligible or ineligible and all provisional ballots must be processed before the election is certified.  The provisional ballot shall be counted only if the election authority determines that the voter is registered and eligible to vote.  Provisional ballots voted in the wrong polling place shall not be counted.  If the voter is not registered but is qualified to register for future elections, the affidavit shall be considered a mail-in application to register to vote pursuant to this chapter.
-7.  (1)  After the election authority completes its review of the provisional voter's eligibility under subsection 5 of this section, the election authority shall deliver the provisional ballots and copies of the provisional ballot envelopes that include eligibility information to bipartisan counting teams, which may be the board of verification, for review and tabulation.  The election authority shall maintain a record of such delivery.  The record shall include the number of ballots delivered to each team and shall include a signed receipt from two judges, one from each major political party.  The election authority shall provide each team with a ballot box and material necessary for tabulation.
-(2)  If the person named on the provisional ballot affidavit is found to have been properly qualified and registered to cast a ballot in the election and the provisional ballot otherwise qualifies to be counted under the provisions of this section, the envelope shall be opened, and the ballot shall be placed in a ballot box to be counted.
-(3)  If the person named on the provisional ballot affidavit is found not to have been properly qualified and registered to cast a ballot in the election or if the election authority is unable to determine such person's right to vote, the envelope containing the provisional ballot shall not be opened, and the person's vote shall not be counted.  The members of the team shall follow the procedures set forth in subsection 5 of this section for rejected provisional ballots.
-(4)  The votes shall be tallied and the returns made as provided in sections
-115.447 to 115.525
-for paper ballots. After the vote on all ballots assigned to a team have been counted, the ballots, ballot envelopes, and copies of ballot envelopes with the eligibility information provided by the election authority shall be enclosed in sealed containers marked "Voted provisional ballots and ballot envelopes from the election held ______, 20______".  All rejected provisional ballots, ballot envelopes, and copies of ballot envelopes with the eligibility information provided by the election authority shall be enclosed in sealed containers marked "Rejected provisional ballots and ballot envelopes from the election held ______, 20______".  On the outside of each voted ballot and rejected ballot container, each member of the team shall write their name and all such containers shall be returned to the election authority.  Upon receipt of the returns and ballots, the election authority shall tabulate the provisional votes.
-8.  Challengers and watchers, as provided by sections
-115.105
-and
-115.107
-, may be present during all times that the bipartisan counting teams are reviewing or counting the provisional ballots, the provisional ballot envelopes, or copies of the provisional ballot envelopes that include eligibility information provided by the election authority.  Challengers and watchers shall be permitted to observe the determination of the eligibility of all provisional ballots.  The election authority shall notify the county chair of each major political party of the time and location when bipartisan counting teams will be reviewing or counting the provisional ballots, the provisional ballot envelopes, or the copies of the provisional ballot envelopes that include the eligibility information provided by the election authority.
-9.  The certificate of ballot cards shall:
-(1)  Reflect the number of provisional envelopes delivered; and
-(2)  Reflect the number of sealed provisional envelopes with voted ballots deposited in the ballot box.
-10.  In counties where the voting system does not utilize a paper ballot, the election authority shall provide the appropriate provisional ballots to each polling place.
-11.  The secretary of state may promulgate rules for purposes of ensuring the uniform application of this section.  No rule or portion of a rule promulgated pursuant to the authority of this section shall become effective unless it has been promulgated pursuant to
-chapter 536
-.
-12.  The secretary of state shall design and provide to the election authorities the envelopes and forms necessary to carry out the provisions of this section.
-13.  Pursuant to the Help America Vote Act of 2002, the secretary of state shall ensure a free access system is established, such as a toll-free number or an internet website, that any individual who casts a provisional ballot may access to discover whether the vote of that individual was counted, and, if the vote was not counted, the reason that the vote was not counted.  At the time an individual casts a provisional ballot, the election authority shall give the voter written information that states that any individual who casts a provisional ballot will be able to ascertain under such free access system whether the vote was counted, and if the vote was not counted, the reason that the vote was not counted.
-14.  In accordance with the Help America Vote Act of 2002, any individual who votes in an election as a result of a court order or any other order extending the time established for closing the polls in section
-115.407
-may vote only by using a provisional ballot, and such provisional ballot shall be separated and held apart from other provisional ballots cast by those not affected by the order.  Such ballots shall not be counted until such time as the ballots are determined to be valid.  No state court shall have jurisdiction to extend the polling hours established by law, including section
-115.407
-.
-­­--------
-(L. 2002 S.B. 675 § 1, A.L. 2003 H.B. 511, A.L. 2006 S.B. 1014 & 730)
 
 ## Missouri § 115.431
 
@@ -4970,33 +4612,6 @@ prior to 5:00 p.m. on the second Friday immediately preceding the election day.�
 ­­--------
 (L. 1977 H.B. 101 § 12.015, A.L. 1979 S.B. 275, A.L. 1983 S.B. 234, A.L. 1997 S.B. 132, A.L. 1999 H.B. 676, A.L. 2002 S.B. 675, A.L. 2006 S.B. 1014 & 730, A.L. 2008 H.B. 1311, A.L. 2014 H.B. 1136, A.L. 2018 S.B. 592 merged with S.B. 975 & 1024 Revision, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
-
-## Missouri § 115.453~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.453~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.453&bid=35783&hl=*
-
-115.453.
-Procedure for counting votes for candidates.  —
-Election judges shall count votes for all candidates in the following manner:
-(1)  No candidate shall be counted as voted for, except a candidate before whose name a distinguishing mark appears preceding the name and a distinguishing mark does not appear in the square preceding the name of any candidate for the same office in another column.  Except as provided in this subdivision and subdivision (2) of this section, each candidate with a distinguishing mark preceding his or her name shall be counted as voted for;
-(2)  If distinguishing marks appear next to the names of more candidates for an office than are entitled to fill the office, no candidate for the office shall be counted as voted for.  If more than one candidate is to be nominated or elected to an office, and any voter has voted for the same candidate more than once for the same office at the same election, no votes cast by the voter for the candidate shall be counted;
-(3)  No vote shall be counted for any candidate that is not marked substantially in accordance with the provisions of this section.  The judges shall count votes marked substantially in accordance with this section and section
-115.456
-when the intent of the voter seems clear.  Regulations promulgated by the secretary of state shall be used by the judges to determine voter intent.  No ballot containing any proper votes shall be rejected for containing fewer marks than are authorized by law;
-(4)  Write-in votes shall be counted only for candidates for election to office who have filed a declaration of intent to be a write-in candidate for election to office with the proper election authority, who shall then notify the proper filing officer of the write-in candidate prior to 5:00 p.m. on the second Friday immediately preceding the election day; except that, write-in votes shall be counted only for candidates for election to state or federal office who have filed a declaration of intent to be a write-in candidate for election to state or federal office with the secretary of state pursuant to section
-115.353
-prior to 5:00 p.m. on the second Friday immediately preceding the election day.  No person who filed as a party or independent candidate for nomination or election to an office may, without withdrawing as provided by law, file as a write-in candidate for election to the same office for the same term.  No candidate who files for nomination to an office and is not nominated at a primary election may file a declaration of intent to be a write-in candidate for the same office at the general election.  When declarations are properly filed with the secretary of state, the secretary of state shall promptly transmit copies of all such declarations to the proper election authorities for further action pursuant to this section.  The election authority shall furnish a list to the election judges and counting teams prior to election day of all write-in candidates who have filed such declaration.  This subdivision shall not apply to elections wherein candidates are being elected to an office for which no candidate has filed.  No person shall file a declaration of intent to be a write-in candidate for election to any municipal office unless such person is qualified to be certified as a candidate under section
-115.306
-;
-(5)  Write-in votes shall be cast and counted for a candidate without party designation.  Write-in votes for a person cast with a party designation shall not be counted.  Except for candidates for political party committees, no candidate shall be elected as a write-in candidate unless such candidate receives a separate plurality of the votes without party designation regardless of whether or not the total write-in votes for such candidate under all party and without party designations totals a majority of the votes cast;
-(6)  When submitted to the election authority, each declaration of intent to be a write-in candidate for the office of United States president shall include the name of a candidate for vice president and the name of nominees for presidential elector equal to the number to which the state is entitled.  At least one qualified resident of each congressional district shall be nominated as presidential elector.  Each such declaration of intent to be a write-in candidate shall be accompanied by a declaration of candidacy for each presidential elector in substantially the form set forth in subsection 3 of section
-115.399
-.  Each declaration of candidacy for the office of presidential elector shall be subscribed and sworn to by the candidate before the election official receiving the declaration of intent to be a write-in, notary public or other officer authorized by law to administer oaths.
-­­--------
-(L. 1977 H.B. 101 §
-12.015
-, A.L. 1979 S.B. 275, A.L. 1983 S.B. 234, A.L. 1997 S.B. 132, A.L. 1999 H.B. 676, A.L. 2002 S.B. 675, A.L. 2006 S.B. 1014 & 730, A.L. 2008 H.B. 1311, A.L. 2014 H.B. 1136, A.L. 2018 S.B. 592 merged with S.B. 975 & 1024 Revision)
-Effective 8-28-18 (S.B. 975 & 1024 Revision); 11-07-18 (S.B. 592)
 
 ## Missouri § 115.455
 
@@ -6537,38 +6152,6 @@ The following offenses, and any others specifically so described by law, shall b
 (L. 1977 H.B. 101 § 15.020, A.L. 1982 S.B. 526, A.L. 1985 H.B. 620, A.L. 2003 H.B. 511, A.L. 2018 S.B. 592, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
 
-## Missouri § 115.637~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.637~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.637&bid=35788&hl=*
-
-115.637.
-Class four election offenses.  —
-The following offenses, and any others specifically so described by law, shall be class four election offenses and are deemed misdemeanors not connected with the exercise of the right of suffrage.  Conviction for any of these offenses shall be punished by imprisonment of not more than one year or by a fine of not more than two thousand five hundred dollars or by both such imprisonment and fine:
-(1)  Stealing or willfully concealing, defacing, mutilating, or destroying any sample ballots that may be furnished by an organization or individual at or near any voting place on election day, except that this subdivision shall not be construed so as to interfere with the right of an individual voter to erase or cause to be erased on a sample ballot the name of any candidate and substituting the name of the person for whom he or she intends to vote; or to dispose of the received sample ballot;
-(2)  Printing, circulating, or causing to be printed or circulated, any false and fraudulent sample ballots which appear on their face to be designed as a fraud upon voters;
-(3)  Purposefully giving a printed or written sample ballot to any qualified voter which is intended to mislead the voter;
-(4)  On the part of any candidate for election to any office of honor, trust, or profit, offering or promising to discharge the duties of such office for a less sum than the salary, fees, or emoluments as fixed by law or promising to pay back or donate to any public or private interest any portion of such salary, fees, or emolument as an inducement to voters;
-(5)  On the part of any canvasser appointed to canvass any registration list, willfully failing to appear, refusing to continue, or abandoning such canvass or willfully neglecting to perform his duties in making such canvass or willfully neglecting any duties lawfully assigned to him or her;
-(6)  On the part of any employer, making, enforcing, or attempting to enforce any order, rule, or regulation or adopting any other device or method to prevent an employee from engaging in political activities, accepting candidacy for nomination to, election to, or the holding of, political office, holding a position as a member of a political committee, soliciting or receiving funds for political purpose, acting as chairman or participating in a political convention, assuming the conduct of any political campaign, signing, or subscribing his or her name to any initiative, referendum, or recall petition, or any other petition circulated pursuant to law;
-(7)  On the part of any person authorized or employed to print official ballots, or any person employed in printing ballots, giving, delivering, or knowingly permitting to be taken any ballot to or by any person other than the official under whose direction the ballots are being printed, any ballot in any form other than that prescribed by law, or with unauthorized names, with names misspelled, or with the names of candidates arranged in any way other than that authorized by law;
-(8)  On the part of any election authority or official charged by law with the duty of distributing the printed ballots, or any person acting on his or her behalf, knowingly distributing or causing to be distributed any ballot in any manner other than that prescribed by law;
-(9)  Any person having in his or her possession any official ballot, except in the performance of his or her duty as an election authority or official, or in the act of exercising his or her individual voting privilege;
-(10)  Willfully mutilating, defacing, or altering any ballot before it is delivered to a voter;
-(11)  On the part of any election judge, being willfully absent from the polls on election day without good cause or willfully detaining any election material or equipment and not causing it to be produced at the voting place at the opening of the polls or within fifteen minutes thereafter;
-(12)  On the part of any election authority or official, willfully neglecting, refusing, or omitting to perform any duty required of him or her by law with respect to holding and conducting an election, receiving and counting out the ballots, or making proper returns;
-(13)  On the part of any election judge, or party watcher or challenger, furnishing any information tending in any way to show the state of the count to any other person prior to the closing of the polls;
-(14)  On the part of any voter, except as otherwise provided by law, allowing his or her ballot to be seen by any person with the intent of letting it be known how he or she is about to vote or has voted, or knowingly making a false statement as to his or her inability to mark a ballot;
-(15)  On the part of any election judge, disclosing to any person the name of any candidate for whom a voter has voted;
-(16)  Interfering, or attempting to interfere, with any voter inside a polling place;
-(17)  On the part of any person at any registration site, polling place, counting location or verification location, causing any breach of the peace or engaging in disorderly conduct, violence, or threats of violence whereby such registration, election, count or verification is impeded or interfered with;
-(18)  Exit polling, surveying, sampling, electioneering, distributing election literature, posting signs or placing vehicles bearing signs with respect to any candidate or question to be voted on at an election on election day inside the building in which a polling place is located or within twenty-five feet of the building's outer door closest to the polling place, or, on the part of any person, refusing to remove or permit removal from property owned or controlled by such person, any such election sign or literature located within such distance on such day after request for removal by any person;
-(19)  Stealing or willfully defacing, mutilating, or destroying any campaign yard sign on private property, except that this subdivision shall not be construed to interfere with the right of any private property owner to take any action with regard to campaign yard signs on the owner's property and this subdivision shall not be construed to interfere with the right of any candidate, or the candidate's designee, to remove the candidate's campaign yard sign from the owner's private property after the election day.
-­­--------
-(L. 1977 H.B. 101 §
-15.020
-, A.L. 1982 S.B. 526, A.L. 1985 H.B. 620, A.L. 2003 H.B. 511, A.L. 2018 S.B. 592)
-Effective 11-07-18
-
 ## Missouri § 115.639
 
 *Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.639. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.639&bid=6261&hl=*
@@ -6638,17 +6221,6 @@ No contribution or expenditure of public funds shall be made directly by any off
 ­­--------
 (L. 1988 H.B. 933, et al. § 1, A.L. 2021 H.B. 271 merged with S.B. 86, A.L. 2026 H.B. 1871)
 Severability clause, see § 1.1003
-(2022) Section regulates the use of public funds, not the speech of political subdivision officials, and thus does not violate the First Amendment.  City of Maryland Heights v. State, 638 S.W.3d 895 (Mo.banc).
-
-## Missouri § 115.646~2
-
-*Citation: Missouri Revised Statutes, Chapter 115 — Election Authorities and Conduct of Elections, § 115.646~2. Last changed: 2026-08-06. Source: https://revisor.mo.gov/main/PageSelect.aspx?section=115.646&bid=49862&hl=*
-
-115.646.
-Public funds expenditure by political subdivision officer or employee, prohibited — personal appearances permitted — violation, penalty. —
-No contribution or expenditure of public funds shall be made directly by any officer, employee or agent of any political subdivision, including school districts and charter schools, to advocate, support, or oppose the passage or defeat of any ballot measure or the nomination or election of any candidate for public office, or to direct any public funds to, or pay any debts or obligations of, any committee supporting or opposing such ballot measures or candidates.  This section shall not be construed to prohibit any public official of a political subdivision, including school districts and charter schools, from making public appearances or from issuing press releases concerning any such ballot measure.  Any purposeful violation of this section shall be punished as a class four election offense.
-­­--------
-(L. 1988 H.B. 933, et al. § 1, A.L. 2021 H.B. 271 merged with S.B. 86)
 (2022) Section regulates the use of public funds, not the speech of political subdivision officials, and thus does not violate the First Amendment.  City of Maryland Heights v. State, 638 S.W.3d 895 (Mo.banc).
 
 ## Missouri § 115.650

@@ -14943,7 +14943,7 @@ En. 37-132 by Sec. 18, Ch. 342, L. 1977; R.C.M. 1947, 37-132; amd. Sec. 4, Ch. 4
 
 ## Montana § 13-27-408
 
-*Citation: Montana Code Annotated, Title 13 — Elections, § 13-27-408. Last changed: 2026-08-06. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0270/part_0040/section_0080/0130-0270-0040-0080.html*
+*Citation: Montana Code Annotated, Title 13 — Elections, § 13-27-408. Last changed: 2026-09-09. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0270/part_0040/section_0080/0130-0270-0040-0080.html*
 
 MCA Contents
 TITLE 13
@@ -14958,10 +14958,10 @@ Rejection Of Improper Arguments
 13-27-408
 . Rejection of improper arguments.
 The secretary of state shall reject, with the approval of the attorney general, an argument or other matter held to contain obscene, vulgar, profane, scandalous, libelous, or defamatory matter; any language that in any way incites, counsels, promotes, or advocates hatred, abuse, violence, or hostility toward, or that tends to cast ridicule or shame upon, a group of persons by reason of race, color, religion, or sex, as defined in
-1-1-201
+1-1-209
 ; or any matter not allowed to be sent through the mail. Such arguments may not be filed or printed in the voter information pamphlet.
 History:
-En. 37-133 by Sec. 19, Ch. 342, L. 1977; R.C.M. 1947, 37-133(1); amd. Sec. 5, Ch. 685, L. 2023.
+En. 37-133 by Sec. 19, Ch. 342, L. 1977; R.C.M. 1947, 37-133(1); amd. Sec. 5, Ch. 685, L. 2023; amd. Sec. 7, Ch. 778, L. 2025.
 
 ## Montana § 13-27-409
 
@@ -17505,7 +17505,7 @@ En. Sec. 13, Ch. 481, L. 2007; Sec. 13-27-210, MCA 2021; redes. 13-27-611 by Cod
 
 ## Montana § 13-35-301
 
-*Citation: Montana Code Annotated, Title 13 — Elections, § 13-35-301. Last changed: 2026-08-06. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0350/part_0030/section_0010/0130-0350-0030-0010.html*
+*Citation: Montana Code Annotated, Title 13 — Elections, § 13-35-301. Last changed: 2026-09-09. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0350/part_0030/section_0010/0130-0350-0030-0010.html*
 
 MCA Contents
 TITLE 13
@@ -17526,12 +17526,12 @@ I will defend and uphold the right of every qualified American voter to full and
 I will conduct my campaign without the use of personal vilification, character defamation, whispering campaigns, libel, slander, or scurrilous attacks on my opposition or my opposition's personal or family life.
 I will not use campaign material of any sort that misrepresents, distorts, or otherwise falsifies the facts, nor will I use malicious or unfounded accusations that aim at creating or exploiting doubts, without justification, as to the loyalty and patriotism of my opposition.
 I will not make any appeal to prejudice based on race, sex, as defined in
-1-1-201
+1-1-209
 , creed, or national origin.
 I will not undertake or condone any dishonest or unethical practice that tends to corrupt or undermine our American system of free elections or that hampers or prevents the full and free expression of the will of the voters.
-Insofar as is possible, I will immediately and publicly repudiate support deriving from any individual or group that resorts, on behalf of my candidacy or in opposition to that of my opponent, to the methods and tactics that I have pledged not to use or condone."
+Insofar as is possible, I will immediately and publicly repudiate support deriving from any individual or group that resorts, on behalf of my candidacy or in opposition to that of my opponent, to the methods and tactics that I have pledged not to use or condone.
 History:
-En. Sec. 1, Ch. 475, L. 1979; amd. Sec. 101, Ch. 56, L. 2009; amd. Sec. 6, Ch. 685, L. 2023.
+En. Sec. 1, Ch. 475, L. 1979; amd. Sec. 101, Ch. 56, L. 2009; amd. Sec. 6, Ch. 685, L. 2023; amd. Sec. 8, Ch. 778, L. 2025.
 
 ## Montana § 13-35-302
 
@@ -21067,7 +21067,7 @@ En. Sec. 6, Ch. 198, L. 2019.
 
 ## Montana § 13-38-201
 
-*Citation: Montana Code Annotated, Title 13 — Elections, § 13-38-201. Last changed: 2026-08-06. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0380/part_0020/section_0010/0130-0380-0020-0010.html*
+*Citation: Montana Code Annotated, Title 13 — Elections, § 13-38-201. Last changed: 2026-09-09. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0380/part_0020/section_0010/0130-0380-0020-0010.html*
 
 MCA Contents
 TITLE 13
@@ -21082,7 +21082,7 @@ Election Or Appointment Of Committee Representatives At Primary -- Vacancies -- 
 13-38-201
 . Election or appointment of committee representatives at primary -- vacancies -- tie votes.
 (1) Each political party shall appoint or elect at each primary election one person of each sex, as defined in
-1-1-201
+1-1-209
 , to serve as committee representatives for each election precinct. The committee representatives must be residents and registered voters of the precinct. An individual may not be appointed or elected to serve as a committee representative for more than one political party during the same 2-year term.
 (2)	If a political party chooses to appoint precinct committee representatives, the political party shall make the appointments as provided in the party's rules.
 (3)	If a political party chooses to elect precinct committee representatives, the party may:
@@ -21104,7 +21104,7 @@ and subsection (4) of this section.
 13-38-101
 , a vacancy in a precinct committee representative position must be filled by the party governing body as provided in its rules.
 History:
-En. Sec. 72, Ch. 368, L. 1969; R.C.M. 1947, 23-3401; amd. Sec. 2, Ch. 367, L. 2003; amd. Sec. 88, Ch. 414, L. 2003; amd. Sec. 136, Ch. 56, L. 2009; amd. Sec. 75, Ch. 242, L. 2011; amd. Sec. 1, Ch. 268, L. 2011; amd. Sec. 61, Ch. 336, L. 2013; amd. Sec. 3, Ch. 420, L. 2015; amd. Sec. 7, Ch. 685, L. 2023; amd. Sec. 1, Ch. 217, L. 2025; amd. Sec. 1, Ch. 715, L. 2025.
+En. Sec. 72, Ch. 368, L. 1969; R.C.M. 1947, 23-3401; amd. Sec. 2, Ch. 367, L. 2003; amd. Sec. 88, Ch. 414, L. 2003; amd. Sec. 136, Ch. 56, L. 2009; amd. Sec. 75, Ch. 242, L. 2011; amd. Sec. 1, Ch. 268, L. 2011; amd. Sec. 61, Ch. 336, L. 2013; amd. Sec. 3, Ch. 420, L. 2015; amd. Sec. 7, Ch. 685, L. 2023; amd. Sec. 1, Ch. 217, L. 2025; amd. Sec. 1, Ch. 715, L. 2025; amd. Sec. 9, Ch. 778, L. 2025.
 
 ## Montana § 13-38-202
 
@@ -21134,7 +21134,7 @@ En. Sec. 73, Ch. 368, L. 1969; R.C.M. 1947, 23-3402; amd. Sec. 137, Ch. 56, L. 2
 
 ## Montana § 13-38-203
 
-*Citation: Montana Code Annotated, Title 13 — Elections, § 13-38-203. Last changed: 2026-08-06. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0380/part_0020/section_0030/0130-0380-0020-0030.html*
+*Citation: Montana Code Annotated, Title 13 — Elections, § 13-38-203. Last changed: 2026-09-09. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0380/part_0020/section_0030/0130-0380-0020-0030.html*
 
 MCA Contents
 TITLE 13
@@ -21150,7 +21150,9 @@ Powers And Duties Of County And City Central Committees -- Role Of State Central
 . Powers and duties of county and city central committees -- role of state central committee where no county central committee exists.
 (1) The county and city central committee may:
 (a)	make rules for the government of its political party in each county not inconsistent with any of the provisions of the election laws of this state or the rules of its state political party;
-(b)	elect two county members of the state central committee, one of each gender, elect the members of the congressional committee, and fill all vacancies and make rules in their jurisdiction.
+(b)	elect two county members of the state central committee, one of each gender, as provided in
+1-1-209
+, elect the members of the congressional committee, and fill all vacancies and make rules in their jurisdiction.
 (2)	If there is no county central committee, the state central committee shall appoint a county central committee.
 (3)	Meetings of a central committee that is filling an election vacancy pursuant to
 13-10-326
@@ -21163,7 +21165,7 @@ or
 must be made available for public inspection on request.
 (4)	County and city central committees are not public agencies of the state. The documents of the county and city central committees are not public records.
 History:
-En. Sec. 74, Ch. 368, L. 1969; amd. Sec. 25, Ch. 365, L. 1977; R.C.M. 1947, 23-3403; amd. Sec. 138, Ch. 56, L. 2009; amd. Sec. 1, Ch. 671, L. 2023.
+En. Sec. 74, Ch. 368, L. 1969; amd. Sec. 25, Ch. 365, L. 1977; R.C.M. 1947, 23-3403; amd. Sec. 138, Ch. 56, L. 2009; amd. Sec. 1, Ch. 671, L. 2023; amd. Sec. 10, Ch. 778, L. 2025.
 
 ## Montana § 13-38-204
 
@@ -21187,7 +21189,7 @@ En. Sec. 75, Ch. 368, L. 1969; R.C.M. 1947, 23-3404.
 
 ## Montana § 13-38-205
 
-*Citation: Montana Code Annotated, Title 13 — Elections, § 13-38-205. Last changed: 2026-08-06. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0380/part_0020/section_0050/0130-0380-0020-0050.html*
+*Citation: Montana Code Annotated, Title 13 — Elections, § 13-38-205. Last changed: 2026-09-09. Source: https://mca.legmt.gov/bills/mca/title_0130/chapter_0380/part_0020/section_0050/0130-0380-0020-0050.html*
 
 MCA Contents
 TITLE 13
@@ -21201,14 +21203,16 @@ Part 2. Committee Structure
 Organization And Operation Of County And City Central Committees
 13-38-205
 . Organization and operation of county and city central committees.
-(1) The county central committee shall meet prior to the state convention of its political party and organize by electing a presiding officer and one or more vice presiding officers. The gender of the presiding officer and the vice presiding officer may not be the same. The county central committee shall elect a secretary and other officers as necessary. It is not necessary for the officers to be precinct committee representatives.
+(1) The county central committee shall meet prior to the state convention of its political party and organize by electing a presiding officer and one or more vice presiding officers. The gender, as provided in
+1-1-209
+, of the presiding officer and the vice presiding officer may not be the same. The county central committee shall elect a secretary and other officers as necessary. It is not necessary for the officers to be precinct committee representatives.
 (2)	The committee may select managing or executive committees and authorize subcommittees to exercise all powers conferred upon the county, city, state, and congressional central committees by the election laws of this state.
 (3)	The presiding officer of the county central committee shall call the county convention and not less than 4 days before the date of the county convention shall publish the call in a newspaper published at the county seat and mail or e-mail a copy of the call to each precinct committee representative. If party rules permit the use of a proxy, a proxy may not be recognized unless it is held by an elector of the precinct of the committee representative executing it.
 (4)	The county presiding officer of the party shall preside at the county convention. No person other than a duly elected or appointed committee representative or officer of the committee is entitled to participate in the proceedings of the committee.
 (5)	If a committee representative is absent, the convention may fill the vacancy by appointing some qualified elector of the party, resident in the precinct, to represent the precinct in the convention.
 (6)	The county convention shall elect delegates and alternate delegates to the state convention under rules of the state party. The presiding officer and secretary of the county convention shall issue and sign certificates of election of the delegates.
 History:
-En. Sec. 76, Ch. 368, L. 1969; amd. Sec. 1, Ch. 216, L. 1973; amd. Sec. 26, Ch. 365, L. 1977; R.C.M. 1947, 23-3405; amd. Sec. 139, Ch. 56, L. 2009; amd. Sec. 2, Ch. 671, L. 2023; amd. Sec. 1, Ch. 202, L. 2025.
+En. Sec. 76, Ch. 368, L. 1969; amd. Sec. 1, Ch. 216, L. 1973; amd. Sec. 26, Ch. 365, L. 1977; R.C.M. 1947, 23-3405; amd. Sec. 139, Ch. 56, L. 2009; amd. Sec. 2, Ch. 671, L. 2023; amd. Sec. 1, Ch. 202, L. 2025; amd. Sec. 11, Ch. 778, L. 2025.
 
 ## Montana § 13-4-101
 

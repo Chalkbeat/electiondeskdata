@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.ncleg.gov/Laws/GeneralStatuteSections/Chapter163
 Sections: 981
+Currency: General Statutes include changes through S.L. 2026-30; S.L. 2026-60 changes to Chapter 163 pending codification (checked 2026-09-10).
 
 ## North Carolina § 163-1
 

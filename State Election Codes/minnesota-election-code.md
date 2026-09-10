@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.revisor.mn.gov/statutes/part/ELECTIONS
 Sections: 1155
+Currency: 2025 Minnesota Statutes; the 2026 edition is not yet posted by the Revisor (expected late summer/fall 2026) (checked 2026-09-10).
 
 ## Minnesota § 200.01
 

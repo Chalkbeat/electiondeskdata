@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.oklegislature.gov/OK_Statutes/CompleteTitles/os26.rtf
 Sections: 475
+Currency: Oklahoma Legislature per-title compilation last updated November 18 2025 (2025 session); 2026 session acts (most effective Nov 1 2026) pending the annual Nov–Dec regeneration (checked 2026-09-10).
 
 ## Oklahoma § 1-101
 

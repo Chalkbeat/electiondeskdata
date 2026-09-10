@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://codes.ohio.gov/ohio-revised-code/title-35
 Sections: 415
+Currency: Live official codes.ohio.gov — per-section effective dates through June 2026 (checked 2026-09-10).
 
 ## Ohio § 3501.01
 

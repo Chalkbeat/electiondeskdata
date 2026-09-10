@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://leginfo.legislature.ca.gov/faces/codesTOCSelected.xhtml?tocCode=ELEC&tocTitle=+++Elections+Code+-+ELEC
 Sections: 356
+Currency: Live official leginfo database — current as maintained (checked 2026-09-10).
 
 ## California § lawCode=ELEC&division=0.5.&title=&part=&chapter=1.&article=
 

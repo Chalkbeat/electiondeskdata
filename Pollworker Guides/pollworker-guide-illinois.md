@@ -2,11 +2,11 @@
 
 Official poll-worker manuals and training resources for Illinois, compiled for the VB Election Desk knowledge base from 'Pollworker Guides.xlsx'.
 
-## Illinois State Board of Elections — Election Judge Training
+## Illinois State Board of Elections — 2026 Precinct Election Manual (Updated 2/09/2026)
 
 - **Resource category:** Direct manual, guide, or training-resource page
-- **Availability / limitations:** Official state page; local authorities conduct training.
-- **Source:** https://www.mcleancountyil.gov/DocumentCenter/View/31814/2026precinctelectionmanual (fetched 2026-09-09)
+- **Availability / limitations:** State Board's own hosting of the statewide manual (replaces the McLean County copy issued 1/07/2026). Verified 2026-09-10.
+- **Source:** https://www.elections.il.gov/Downloads/ElectionOperations/PDF/2026PrecinctElectionManual.pdf (fetched 2026-09-10)
 
 ### Full text
 
@@ -18,7 +18,7 @@ MANUAL
  
 Issued by the 
 Illinois State Board of Elections 
-1/07/2026 
+Updated 2/09/2026 
  
  
  
@@ -346,9 +346,11 @@ determine that the polling place has become too overcrowded with pollwatchers so
 the orderly conduct of elections, and may limit such pollwatchers in accordance with the Election Code. 
 See the Pollwatchers Guide for more information. (10 ILCS 5/7-34, 17-23, 18-6) 
  
+ 
+ 
+6  
 SIGNATURE VERIFICATION RECORD 
 Additional records which allow election judges to check the signatures and addresses of voters applying 
-6  
 to vote. Some jurisdictions use binder cards; other jurisdictions have replaced the binder cards with 
 scanned signatures on separate signature rosters, lists, pre- printed applications, or electronic 
 pollbooks. Whichever records are used, it is important to remember that two election judges, one from 
@@ -359,6 +361,7 @@ A representation of names of offices and candidates and statements of measures t
 near as possible to the form on which they will appear on the official ballot or marking device on Election 
 Day. The specimen ballot also contains the party and position number where applicable.  
 (10 ILCS 5/24B-2, 24B-18, 24C-18) 
+ 
  
 STEP BY STEP PROCEDURES 
 The steps below are a hybrid of statutorily mandated items and of best practice recommendations. If 
@@ -393,11 +396,11 @@ also have supplies for provisional voting.
 The judges administer the oath of office to each other and each judge signs the oath. (10 ILCS 
 5/13-8, 14-7) The signed oath is returned to the election authority on election night along with 
 other supplies and ballots. 
+7  
  
 A badge is worn by each judge during the entire day. The following information should be on 
 each badge: (1) clearly states it is authorized by the county clerk; (2) identifies the individual as 
 an election judge; and (3) contains a unique identifier that consists of the precinct number and 
-7  
 assigns the judge of election a single letter. (10 ILCS 5/13-6.1, 14-5.1) 
  
 5. PREPARE THE TABULATOR AND DIRECT RECORDING ELECTRONIC (DRE) OR 
@@ -439,13 +442,15 @@ to attach the pen must be long enough to allow the voter to write with ease. Som
 issue a specialized pen to each voter when the voter receives their ballot from the ballot 
 distribution judge. 
  
+ 
+ 
+8  
 8. DISPLAY SIGNS 
 Display signs, instruction cards, and specimen ballots in the following manner: 
  
 a. The Polling Place Entrance Sign should be placed on the outside entrance door 
 of the building where the polling place is located. (10 ILCS 5/7- 41(c), 17-29(b)) If 
 this is not possible, the polling place sign should be placed to the left or to the right 
-8  
 of the polling place entrance door. This sign must be placed in a manner that clearly 
 identifies the entrance.  If an alternate accessible entrance is necessary, that 
 entrance should also be identified. 
@@ -488,13 +493,13 @@ sheets must agree with those on the specimen ballot. In addition, the election j
 an operational check of the tabulating equipment before the polls open. The judges of election 
 must ensure that the totals are all zeros in the count column on the tabulating unit.  
 (10 ILCS 5/24B-8, 24B-10.1, 24C-8) 
+9  
  
 12. SIGN CERTIFICATION 
 Each judge must sign the “Certificate of Inspection” form and the zero tape, certifying  the ballot 
 sheets are correct and that the tabulating equipment has the vote totals set to zero.  
 (10 ILCS 5/24B-8, 24B-10.1, 24C-8) 
  
-9  
 13. COUNT THE BALLOT SHEETS OF EACH BALLOT STYLE 
 The judges must account for every ballot sheet of each ballot style. Count the ballot sheets for 
 all open packages. Do not open sealed packages of ballot sheets until they are needed. 
@@ -536,13 +541,13 @@ provisionally. See pages 29 and 30 for further information on provisional voting
 Station 1: Application Judge 
  
 1. APPLICATION TO VOTE 
+10  
 In the General Primary Election, ask the voter to state their name, address, and the party 
 ballot the voter wishes to vote. The judge at the first station marks the application to indicate 
 the voter’s party affiliation. In some jurisdictions, the ballot applications are color-coded for each 
 established political party. A voter can vote for candidates for one political party only. In some 
 areas, nonpartisan candidates or public questions may be voted on in a primary election. A voter, 
 wishing to vote for nonpartisan candidates or for public questions  only does not declare party 
-10  
 affiliation and may request a nonpartisan ballot only. (10 ILCS 5/7-44) 
  
 In the General Election, ask the voter to state their name and address, then give the voter 
@@ -586,13 +591,13 @@ A voter who applied for registration by mail and did not provide the election au
 does not have either of those; 
  
 2. Verification by the last 4 digits of the person’s social security number; 
+11  
  
 3. A copy of a current and valid photo identification, or a copy of a current utility bill, bank 
 statement, paycheck, government check; or, 
  
 4. Other federal, State, or local government document that shows the person’s name 
 and address; and, 
-11  
  
 5. A person may also demonstrate “sufficient proof of identity” by submitting a valid photo 
 ID card issued by a college or university accompanied by either a copy of the 
@@ -602,6 +607,26 @@ If the voter fails to present identification at the polling place they may be el
 vote a provisional ballot.  Contact your election authority on how these voters will be 
 identified or “flagged” in your election materials.  
 (10 ILCS 5/1A-16, 4-105, 5-105, 6-105, 18A-5(a)(4)) 
+Note: Mobile ID is now available for Illinois residents. However, for voter registration 
+purposes, election authorities and election judges are not required to accept this as a form 
+of identification. 
+ 
+Election authorities and election judges who choose to accept mobile IDs presented by 
+voters can do so by using the Illinois Mobile ID Check app from the Apple Store. The app is 
+currently only available to iPhone users. When a voter needs to present their mobile ID, the 
+election judge will: 
+• Open the Illinois Mobile ID Check app on their iPhone, 
+• Tap the “verify” button, 
+• Present their iPhone to the voter  
+• The voter holds their device near the top of the election judge’s iPhone, 
+• The voter will confirm the information that is being requested by the election judge, and 
+the details will appear on the election judge’s iPhone. 
+The election judge accepting the mobile ID will only see the voter’s photo and confirmation 
+that they are over 21 years old. No other information is shared from the voter’s mobile ID to 
+the judge. To share the additional information required, the voter wil l need to click the 
+information icon on the top right-hand corner of their screen and open the card information. 
+The voter’s legal name, address, date of birth, etc. will be viewable, and they can present 
+this to the election judge who is completing their voter registration. 
  
 4. HAVE THE VOTER COMPLETE THE APPLICATION/ASSISTANCE IN VOTING 
 The voter signs their name and address on the application. If the application is not pre- printed, 
@@ -615,6 +640,7 @@ If a voter with a disability declares upon oath properly witnessed that they nee
 reason of blindness, physical disability or an inability to read, write, or speak English, the voter 
 can be assisted by 2 election judges of different political  parties or a person of the voter’s 
 choosing. The person providing assistance may not be an agent of the voter’s employer or union. 
+12  
 The judges mark the “Assisted in Voting” square on the application. The voter and the 
 person(s) giving assistance must complete and SIGN an “Assisted Voter Affidavit” before 
 the voter is allowed to vote. (10 ILCS 5/7-48, 17-14) 
@@ -642,7 +668,6 @@ booth. (10 ILCS 5/24B-5.1, 24C-5.1)
 (For specific information on giving instructions, see “Instruction and Assistance” starting on page 
 32.) 
  
-12  
 7. PASS THE APPLICATION ON 
 The judge at Station #1 passes the voter’s application to the two judges, one of each political 
 party, working with the signature verification records.
@@ -664,6 +689,7 @@ If there are any questions regarding the qualifications of the person applying t
 10. MARK VOTER’S RECORD 
 After establishing that the signature and address match and that the person was not issued a 
 vote by mail ballot, a grace period ballot or an early voting ballot, the verification judges check 
+13  
 that the person has not voted earlier in the day. If the person has not already voted, one of the 
 verification judges marks the voter’s record to show that the voter is voting in this election. 
 Obviously, if the voter has already voted they cannot be allowed to vote again. The voter’s card 
@@ -690,9 +716,6 @@ authority. (10 ILCS 5/4-21, 5-28.1, 6-31.1)
 One of the verification judges must initial the voter’s application and return it to the voter, or pass 
 it to the judge at Station #3. The voter's application should only be initialed after it is determined 
 that the voter is qualified to vote and that the ballot style code is on the application. 
-13  
- 
- 
 Station 3: Ballot Distribution Judge 
 If the voter is to be issued a provisional ballot, please refer to provisional voting pages 29 and 30. 
 13. CHECK APPLICATION AND PLACE IT ON THE SPINDLE 
@@ -712,6 +735,7 @@ your election authority.
 15. INITIAL BALLOT SHEET 
 After spindling the voter’s application, initial the appropriate ballot sheet in the space provided. 
 Do not pre-initial ballot sheets. Check the ballot sheet for marks or smudges in the voting area 
+14  
 since these may cause unintentional votes. Remember, if you have more than one ballot style 
 be sure to give the correct ballot sheet to each voter. (10 ILCS 5/17-9) 
  
@@ -733,11 +757,10 @@ ballot. Place the spoiled ballot in the “Before 7:00 P.M.” envelope for spoi
 jurisdictions, individual "Spoiled Ballot envelopes" are provided for any voter that spoils their 
 ballot. In these jurisdictions, the voter will place their own spoiled ballot in the "Spoiled Ballot 
 envelope", seal the envelope, and return the entire sealed envelope to the election judge. In 
-jurisdictions using Direct Recording Electronic Voting Systems, if a voting device has been 
-enabled for voting bu t the voter leaves the polling place without casting a ballot, two judges of 
+jurisdictions using Dir ect Recording Electronic Voting Systems, if a voting device has been 
+enabled for voting but the voter leaves the polling place without casting a ballot, two judges of 
 election, one from each of the two major political parties, shall spoil the ballot.  
   (10 ILCS 5/17-11, 24B-6, 24C-6, 24C-12) 
-14  
 Compare the number of spindled applications against ballots processed through the tabulator every 
 hour. 
  
@@ -761,6 +784,7 @@ sleeve/cover in the proper manner.
 At the option of the election authority, the ballot sheets may be fed into the tabulator by the voters 
 under the direct supervision of the election judges. If the judge’s initials are visible, the voter 
 inserts the ballot sheet into the entry slot of the tabulator. If any ballot is not initialed, it shall be 
+15  
 marked on the back “Defective,” initialed by all judges immediately under the word “Defective,” 
 and not counted. The election judges shall place an initialed blank official ballot in the place of 
 the defective ballot, so that the count of the ballot to be counted on the automatic tabulating 
@@ -784,8 +808,6 @@ Please note that provisional ballots are not to be inserted into the tabulator n
 compartment/emergency bin, but are to be inserted into separate securable container(s). (See 
 Provisional Voting on pages 29-30.) 
  
- 
-15  
 20. BALLOT SHEETS RETURNED BY TABULATOR AND OTHER PROBLEMS 
 Occasionally, a ballot sheet may not be accepted by the tabulator. This can happen when the 
 voter overvotes, undervotes, or when the tabulator cannot read the ballot sheet. Generally, 
@@ -808,6 +830,7 @@ the voter needs to know why the ballot was returned;
 d. Do not look at the voted ballot. The secrecy of the ballot shall be maintained. 
  
 After the printed message identifies the problem with the ballot, choose one of the following 
+16  
 options for correcting it: 
  
 a. Have voter attempt to insert the ballot sheet into the entry slot again; 
@@ -835,7 +858,6 @@ A true duplicate copy shall be made of the damaged/defective ballot in the prese
 and substituted for the damaged/defective ballot. Two judges, one from each political party, 
 make a duplicate ballot sheet following the steps in “Remaking Ballot Sheets” on page 36.  
 (10 ILCS 5/24B-10, 24B-10.1, 24B-14) 
-16  
 22. AT 6:30 P.M. 
 At 6:30 p.m., announce in a loud, clear voice that the polls will close in one half hour.  
 (10 ILCS 5/7-39, 17-2) 
@@ -857,6 +879,7 @@ close and lock the door.
  
 2. ALLOW ONLY AUTHORIZED PERSONS TO REMAIN IN POLLS 
 After the last vote has been cast, only the following people are allowed to remain in the polling 
+17  
 place: 
  
 a. Election judges assigned to the polling place 
@@ -883,7 +906,6 @@ P.M.” envelope. Seal the envelope and have each judge sign their name across t
 in such a way that if the flap is opened, the signatures will be disturbed. Record the number of 
 spoiled ballot sheets for each ballot type on the “Statement of Ballots” form. (10 ILCS 5/24B-
 10.1) 
-17  
  
 6. OPEN BALLOT BOX 
 If the tabulator is being used by more than one precinct, separate the ballots by precinct. Each 
@@ -906,6 +928,7 @@ ballot sheet is marked “Excess - Not Counted” and initialed by the judges. P
 ballot sheets in the “After 7:00 P.M.” envelope for excess ballots. Write the number of excess 
 ballot sheets, by ballot style, on the outside of the envelope and enter this number on the 
 “Statement of Ballots” form. (10 ILCS 5/17-18, 24B-10, 24B-10.1) (If excess ballots have been 
+18  
 removed, the remaining will have to be re-tabulated. See #12.) 
  
 Note: If you have questions on re-tabulation, contact your election authority. See #12 for more 
@@ -932,7 +955,6 @@ in vote is valid:
 a. The name written on the line is the name of a candidate who has filed a 
 “Declaration of Intent to be a Write- in Candidate,” for that office. A listing of those 
 names is provided by the election authority.  
-18  
 (10 ILCS 5/17-16.1, 18-9.1, 24B- 6, 24B-10.1, 24C-7) 
  
 b. There is a valid mark in the designated area. 
@@ -955,6 +977,7 @@ If the write-in is invalid, check the ballot sheet to determine if the office wh
 has been overvoted. To check for an overvote, do the following: 
  
 a. Use the ballot sheet to determine the number of votes allowable for the office in 
+19  
 question. 
  
 b. Count the number of votes for that office. If the total number of votes cast and the 
@@ -981,7 +1004,6 @@ Follow the instructions from your election authority if re- tabulation is necess
 ballot sheets are remade after  the polls close, or if any ballot sheet is removed because it is 
 “defective,” (that is, the ballot sheet is missing the judges initials or has an identifying mark), the 
 ballot sheets must be re-tabulated. Contact and follow the specific instructions from your election 
-19  
 authority as how to proceed. (10 ILCS 5/24B-10, 24B-10.1) 
  
 13. COUNT THE DEFECTIVE BALLOT SHEETS 
@@ -1004,6 +1026,7 @@ across the sealed flap. (10 ILCS 5/24B-10, 24B-10.1)
 16. RECORD THE NUMBER OF DAMAGED AND OVERVOTED BALLOTS 
 Write the number of damaged and overvoted ballot sheets for each ballot style in the appropriate 
 spaces on the “Statement of Ballots” form. (10 ILCS 5/24B-10, 24B-10.1) 
+20  
  
 17. UNUSED BALLOT SHEETS 
 Count the number of unused ballot sheets for each ballot style and record this number in the 
@@ -1029,7 +1052,6 @@ Unlock the panel of the tabulator to make the keyboard available. Press “Print
 date and sign the final results tape (which may be connected to the morning zero tape). Place 
 this tape in the transfer case (or place designated by your election authority).  
 (10 ILCS 5/24B-10, 24B-10.1, 24C-12) 
-20  
 22. POLLWATCHER RESULTS TAPES 
 As mentioned above, one copy of the final results tape must be generated by the tabulator for 
 return to the election authority via transfer case. A second copy of the results tape must be 
@@ -1052,6 +1074,7 @@ Any voted ballot sheets stored in a separately sealed container which cannot be 
 without breaking the seal must be returned to the election authority. If a single tabulator is used 
 for several precincts, each precinct should separate the ballots in a separate sealed container. 
 (10 ILCS 5/24B-10, 24B-10.1, 24B-15) 
+21  
  
 All other election materials are to be placed in the appropriate envelopes: 
 a. The “After 7:00 P.M.” envelope for defective ballots. 
@@ -1075,8 +1098,7 @@ Do not throw anything away.
 27. DELIVER BALLOT RETURN BOX AND TABULATOR 
 Two judges, one from each political party, immediately transport the ballot sheets and any 
 medium containing the ballots from each precinct, tabulator, and other designated supplies to 
-21  
-the receiving station. Election judges selected to deliver ballot sheets, the tabulator, and other 
+the receiving station. Election judges selected to deliver ballot sheet s, the tabulator, and other 
 supplies to the election authority must be entitled to vote. (This prohibits high school students 
 appointed under Articles 13 & 14 of the Election  Code from serving as a supply return/delivery 
 judge). Ballot sheet containers that are not properly signed and sealed will not be accepted until 
@@ -1097,6 +1119,7 @@ in the polling place (10 ILCS 5/7-34,17-8, 17-14, 17-23, 18-6):
 1. Election judges assigned to the polling place; 
  
 2. Voters while voting 
+22  
  
 3. Person providing assistance to voter with signed affidavit/oath; 
  
@@ -1122,7 +1145,6 @@ polls close to observe closing procedures. (10 ILCS 5/7- 34, 17-23, 18-6)
 Precinct, ward, and township committeepersons, precinct captains, “checkers,” and candidates have 
 no official function in the polling place. To remain in the polling place, these individuals must have valid 
 pollwatcher credentials. Local election officials (municipal clerks, township clerks, etc.) must also have 
-22  
 valid pollwatcher credentials in order to remain in the polling place. (10 ILCS 5/7-34, 17-23, 18-6) 
  
 POLLWATCHERS 
@@ -1145,9 +1167,9 @@ The actions of candidates in the polling place are governed by the same privileg
 apply to pollwatchers. Each candidate/pollwatcher must be a registered voter in the State of Illinois. All 
 candidates/pollwatchers must also have proper credentials. A candidate seeking office in a district or 
 municipality encompassing two or more counties shall be admitted to any and all polling places 
+23  
 throughout those jurisdictions, with the properly issued credentials from the jurisdiction where the 
-candidate seeks election, without regard to the county in which the candidate is personally registered
-. 
+candidate seeks election, without regard to the county in which the candidate is personally registered. 
 (10 ILCS 5/7-34, 17-23, 18-6) 
  
 POLLWATCHER CREDENTIALS 
@@ -1159,8 +1181,7 @@ election authority after the polls close.
 In order to be valid, pollwatcher credentials must contain the following information: 
  
 1. The real or facsimile signature of the election authority or the Illinois State Board of 
-Elections;
- 
+Elections; 
 2. The real or facsimile signature of the candidate, state or local party chairperson, the 
 presiding officer of a civic organization, or the chairperson of a group of proponents for or 
 opponents to a public question; 
@@ -1172,7 +1193,6 @@ NUMBER OF POLLWATCHERS
 The number of pollwatchers allowed in the precinct/polling place at any given time is limited by law. 
 Individuals acting as pollwatchers may come and go throughout the day as long as they do not interfere 
 with the election process. In addition, pollwatchers may be substituted for during the course of the day 
-23  
 as long as the number of pollwatchers in the polling place (at one time) does not exceed the number 
 allowed by law. 
  
@@ -1199,34 +1219,8 @@ chart of the number of pollwatchers allowed in each precinct/polling place on th
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 24  
+ 
  
 NUMBER OF POLLWATCHERS ALLOWED IN EACH 
 PRECINCT/POLLING PLACE AT ANY GIVEN TIME 
@@ -1290,7 +1284,7 @@ or interests the investigation or prosecution of election frauds, and which shal
 name and address, and the name and address of its principal officers with the proper election 
 authority at least 40 days before the election. (10 ILCS 5/7-34, 17-23, 18-6, 19-10, 19A-60) 
 **Each State nonpartisan civic organization within the county or political subdivision shall be entitled to 
-appoint one pollwatcher  per precinct, provided that no more than 2 pollwatchers appointed by State 
+appoint one pollwatcher per precinct, provided that no more than 2 pollwatchers appointed by State 
 nonpartisan civic organizations shall be present in a polling place at the same time.  
 (10 ILCS 5/7-34, 17-23, 18-6, 19-10, 19A-60) 
  
@@ -1316,7 +1310,7 @@ remain in the polling place until all other procedures and processes are complet
 pollwatchers may leave and re-enter only in case of necessity. 
  
 At no time may any pollwatcher be so close to the judges that the pollwatcher interferes with the orderly 
-conduct of the election, and no pollwatchers  should be seated at the election judges’ stations. 
+conduct of the election, and no pollwatchers should be seated at the election judges’ stations. 
 Pollwatchers are not allowed to touch any election supplies or materials. A pollwatcher may courteously 
 call the judges’ attention to any incorrect procedures or apparent violations of the Election Code. 
  
@@ -1354,8 +1348,8 @@ time or is in an unusual location.
 • Unusual curiosity: someone asking questions beyond the normal scope of questions that a 
 voter/pollwatcher/media would ask (i.e. if election judges have shift changes, about the 
 building, etc.). 
-26  
 • Unusual observations: someone paying an odd amount of attention to structures in the building 
+26  
 beyond a normal interest, “loitering without explanation” especially in places where peoples’ 
 views are obscured, taking notes by the tabulator or having an electronic device out by the 
 tabulator. 
@@ -1385,9 +1379,9 @@ Registration records are sometimes misfiled. Therefore, before challenging the p
 search the materials thoroughly. If you have reason to believe the person is registered but cannot locate 
 a signature record, call the election authority to verify the registration. (10 ILCS 5/4-22, 5-29, 6-66) 
 VOTER CODING 
-The name and address of each registered voter in the precinct has  been coded to indicate which 
+The name and address of each registered voter in the precinct has been coded to indicate which 
 governmental units the voter is entitled to vote for. This coding will appear either on the verification 
-record or on a separate list of voters. The election authority will provide the judges with information 
+record or on a separate list of voters. The election aut hority will provide the judges with information 
 regarding the system of coding being used and explain exactly what the code means in terms of which 
 ballot style the voter is entitled to vote. The voter codes will correspond to the ballot styles to be voted 
 in each precinct. 
@@ -1401,8 +1395,8 @@ request that an additional “Voter Code Correction” sheet be filled out.
 AFFIDAVITS 
 An affidavit is a sworn statement made in writing. During elections, an affidavit can be made before an 
 election judge. Under certain circumstances, a person may be required to sign one or more affidavits 
-27  
 (in addition to their application for ballot) before being permitted to vote. These affidavits may also 
+27  
 require supporting affidavits. 
  
 When a voter completes and signs an affidavit, mark the “Voted by Affidavit” square on the application. 
@@ -1450,8 +1444,8 @@ to find out about grace period registration and voting, and the guidelines are d
 (10 ILCS 5/4-16, 5-23, 6-54) 
 NAME ON POLL SHEET ONLY 
 A person whose name is on the poll sheet, but whose name is not on the signature verification record, 
-28  
 may vote after completing the appropriate affidavit, which must be accompanied by a supporting 
+28  
 affidavit. Two supporting affidavits are required in jurisdictions with populations of more than 500,000. 
 (10 ILCS 5/4-15, 4-22, 5-29, 6-66) 
  
@@ -1499,8 +1493,8 @@ assistance. (10 ILCS 5/7-48, 17-14)
  
 VOTER REQUESTS CANCELLATION OF VOTE BY MAIL BALLOT 
 If the voter wishes to cancel their vote by mail ballot, but does not have the ballot, they can complete 
-29  
 an affidavit specifying the ballot was never received or that they completed and returned the ballot and 
+29  
 were informed that the election authority did not receive it. If they surrender the vote by mail ballot, or a 
 portion of a damaged ballot, they do not need to complete the affidavit. (10 ILCS 5/17-9, 18-5) 
  
@@ -1547,8 +1541,8 @@ of the completed affidavit given to the voter.
 information (provided by a person who casts a provisional ballot) that the person believes 
 supports their claim that they are a duly registered voter and qualified to vote in the 
 election. If the provisional voter does not have the necessary documentation, they must 
-30  
 provide the election authority with the documentation within seven days of the election. 
+30  
 6. The voter will vote the ballot, place it in the “Provisional Ballot Envelope,” seal the 
 envelope, and return it to the election judges. All “Provisional Ballot Envelopes” will be 
 deposited into a separate securable container identified and utilized for sealed provisional 
@@ -1593,9 +1587,29 @@ The requirements for grace period registration and voting are:
 individual will be 18 as of the following general election; 
 • Resident of the precinct at least 30 days prior to Election Day; and 
 • Two forms of valid identification. 
-(10 ILCS 5/4-10, 5-9, 6-37) 
+ (10 ILCS 5/4-10, 5-9, 6-37) 
  
+Note: Mobile ID is now available for Illinois residents. However, for voter registration purposes, 
 31  
+election authorities and election judges are not required to accept this as a form of identification. 
+ 
+Election authorities and election judges  who choose to accept mobile IDs presented by voter 
+registrants can do so by using the Illinois Mobile ID Check app from the Apple Store. The app is 
+currently only available to iPhone users. When a voter registration applicant needs to present their 
+mobile ID, the election judge will: 
+• Open the Illinois Mobile ID Check app on their iPhone, 
+• Tap the “verify” button, 
+• Present their iPhone to the applicant  
+• The applicant holds their device near the top of the election judge’s iPhone, 
+• The applicant will confirm the information that is being requested by the election judge, and the 
+details will appear on the election judge’s iPhone. 
+The election judge accepting the mobile ID will only see the applicant’s photo and confirmation that 
+they are over 21 years old. No other information is shared from the applicant’s mobile ID to the 
+election judge. To share the additional information required for registering to vote, the applicant will 
+need to click the information icon on the top right -hand corner of their screen and open the card 
+information. The applicant’s legal name, address, date of birth, et c. will be viewable, and they can 
+present this to the election judge who is completing their voter registration. 
+ 
 WHO MAY NOT VOTE? 
 The following individuals may not vote at the polling place: 
  
@@ -1622,6 +1636,11 @@ election and who refuse the opportunity to register through grace period registr
 The above individuals may submit a provisional ballot. See page 29-30 for guidelines on provisional 
 voting. 
  
+ 
+ 
+ 
+ 
+32  
 CHALLENGING A PERSON’S RIGHT TO VOTE 
  
 WHO MAY CHALLENGE? 
@@ -1644,7 +1663,6 @@ to be.
  
 3. The voter has already voted. 
  
-32  
 4. There is no record that the person is registered and the person refuses the opportunity to register 
 through grace period registration. 
  
@@ -1671,7 +1689,8 @@ Use a demonstrator ballot sheet (not an official ballot sheet) to instruct the v
  
 1. Explain to the voter that the specialized pen provided in each booth is used for voting and 
 show the voter the sample shown on the Instruction Card. Actual demonstrations should be 
-given only on demonstrator ballot sheets. Explain that the votes will not r ecord accurately 
+33  
+given only on demonstrator ballot sheets. Explain that the votes will not record accurately 
 unless the specialized pen (if applicable) is used to mark  the ballot sheet. Tell the voter that 
 smudges and stray marks may interfere with the proper counting of the ballot. Under no 
 circumstances may a judge indicate how to vote for a particular candidate or influence 
@@ -1693,7 +1712,6 @@ No instructions may be given after the voter has entered the voting booth.
 A voter may request instruction on how to complete a write- in vote. In this case, show the voter the 
 space on the ballot sheet provided for write- in votes and explain what is required for a write- in vote to 
 be valid. A voter may request to view the list of valid write-in candidates for the election; however, they 
-33  
 should not be permitted to bring the sheet into the ballot booth (see “Write-in Votes” on page 36). 
  
 GIVING ASSISTANCE 
@@ -1721,6 +1739,7 @@ A qualified voter who needs assistance because of blindness, physical disability
 write English sufficiently to cast their ballot, shall receive assistance upon their request. Before receiving 
 assistance, a voter must sign or make their mark on an affidavit stating their specific disability. Before 
 giving assistance, the individual(s) providing the assistance must also sign the Assisted Voter Affidavit. 
+34  
 Prior to entering the voting booth, the person providing the assistance (if other than 2 election 
 judges) shall be presented with written instructions on how assistance shall be provided.  
 (10 ILCS 5/17-14) 
@@ -1740,7 +1759,6 @@ in the person’s ear. If full understanding is doubtful, write a note to the pe
 • Greet a person who is visually impaired by verbally letting the person know who and where you 
 are. You may wish to verbally explain the procedures as well. Provide a guiding device such as 
 a ruler or card for signing forms. When offering walking assistance, allow the person to take your 
-34  
 arm and tell them if you are approaching steps or inclines. 
 • Be aware that support animals that assist people with disabilities should be admitted into all 
 buildings. Such animals are highly trained and need no special care other than that provided by 
@@ -1760,11 +1778,12 @@ which allow for entrance to,  use of, and exit from  polling places  by elderly 
 disabilities. In instances where elderly voters or voters with disabilities have received prior approval to 
 vote outside the polling place due to the structural features of the building, a ballot shall be delivered to 
 the voter. After it is determined that the voter is qualified to vote, two election judges deliver a ballot, a 
-marking device, and a portable voting booth (or other enclosure that w ill allow secrecy in marking the 
+marking device, and a portable voting booth (or other enclosure that will allow secrecy in marking the 
 ballot) to the voter and allow the voter to vote in secrecy. In no case shall such voting take place more 
 than 50 feet from the entrance to the polling place. Pollwatchers shall be permitted to accompany the 
 judges and observe the procedure. (10 ILCS 5/1-3, 7-47.1(b), 17-13, 17-23, 18-6) 
  
+35  
 Curbside Voting 
 Election authorities may establish curbside voting for individuals to cast a ballot during early voting or 
 on Election Day. An election authority's curbside voting program shall designate at least 2 election 
@@ -1786,7 +1805,6 @@ BALLOT MARKS
 VALID MARKS 
 A valid mark is an intentional darkening or selection of a designated area on the ballot sheet. For those 
 jurisdictions which use a “fill in the oval” type marking, a valid mark is one which simply fills in a pre-
-35  
 printed oval on the ballot sheet. Polling place instruction cards provide instructions on the proper way 
 to mark a ballot. (10 ILCS 5/16-9, 24B-9.1, 24C-10) 
  
@@ -1810,6 +1828,8 @@ the voter to vote, based on the totality of the circumstances, including but not
 pattern or frequency of markings on other ballot positions from the same ballot sheet. 
 (10 ILCS 5/24B-9.1(b)) 
  
+ 
+36  
 IDENTIFYING MARKS/DEFECTIVE BALLOTS 
 Any mark placed anywhere on the ballot which serves to identify it from other ballots or furnishes a 
 means of evasion of the law relative to secrecy, is an “identifying mark”. After removing the ballot 
@@ -1832,7 +1852,6 @@ If the voter wishes to vote for a declared write-in candidate, the voter may wri
 candidate in the space provided on the ballot sheet, using the same apparatus used to record votes for 
 candidates whose names appear on the ballot. In order for the write-in vote to be valid, the voter must 
 write the name of the candidate in the space provided below the slated candidates for the office and 
-36  
 properly mark the ballot according to the instructions posted on the instruction card in the polling place. 
 All write-in votes are to be cast on the ballot sheet. 
 The election judges are required to count write- in votes only for those candidates who had filed a 
@@ -1853,6 +1872,7 @@ the write-in vote will be counted. (See McCreery v. Burnsmier, 293 Ill. 43, 48 (
 PRINTING OR WRITING THE CANDIDATE’S NAME 
 A valid write-in vote must be hand-written, and the use of stickers, pasters or a rubber stamp by a voter 
 does not constitute a valid write-in vote. (See Blackman v. Stone, 101 F.2d 500, 504 (7th Cir. 1939)). 
+37  
  
  
  
@@ -1869,8 +1889,6 @@ in. (10 ILCS 5/24B-10.1)
 REMAKING PROCEDURES 
 If any ballot is damaged, defective or overvoted so that it cannot be properly counted, two judges, one 
 from each political party, remake a duplicate ballot sheet. (10 ILCS 5/24B-10, 24B-10.1, 24B-14) 
-
-37  
  
 The suggested remaking procedures are as follows: 
  
@@ -1893,12 +1911,24 @@ duplicated ballot sheets have been marked.
  
 Likewise, the first pair of overvoted ballot sheets are marked “Overvoted Ballot No. 1,” and 
 “Duplicated Overvoted Ballot No. 1.” Continue the process until all duplicated overvoted ballots 
+
+38  
 are marked and numbered consecutively. Use a pen with red ink to identify the ballot sheets. 
 6. Both judges must make sure to initial both the original ballot sheet and the duplicated ballot 
 sheet. 
 7. Place the original (defective) ballot sheet(s) in the envelope for duplicated ballots and place the 
 duplicated ballot sheet in the ballot return box with the other valid ballot sheets. 
 If you have questions about re-tabulation, contact your election authority. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  

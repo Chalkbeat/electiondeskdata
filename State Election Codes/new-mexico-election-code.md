@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://nmonesource.com/nmos/nmsa/en/4351/1/document.do
 Sections: 1
+Currency: NMSA 1978 (Compilation Commission) current through the Second Session of the 57th Legislature (2026) (checked 2026-09-10).
 
 ## New Mexico § NMSA-Chapter-1-Elections
 

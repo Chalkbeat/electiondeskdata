@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://leg.colorado.gov/agencies/office-legislative-legal-services/colorado-revised-statutes
 Sections: 1
+Currency: Colorado Revised Statutes 2026 (OLLS) — current with the 2026 Second Regular Session (checked 2026-09-10).
 
 ## Colorado § title-01
 

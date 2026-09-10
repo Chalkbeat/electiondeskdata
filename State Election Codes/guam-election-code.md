@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://col.guamcourts.gov/sites/default/files/3gc001.pdf
 Sections: 19
+Currency: Guam Code Annotated (Compiler of Laws) updated through P.L. 38-133 (June 4 2026) (checked 2026-09-10).
 
 ## Guam § 03gc003.pdf
 

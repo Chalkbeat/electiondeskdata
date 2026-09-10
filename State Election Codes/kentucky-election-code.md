@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=37579
 Sections: 626
+Currency: KRS includes enactments through the 2026 Regular Session (updated 09/10/2026) (checked 2026-09-10).
 
 ## Kentucky § 27288
 

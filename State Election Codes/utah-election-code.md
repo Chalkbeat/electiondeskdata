@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://le.utah.gov/xcode/Title20a/C20A_1800010118000101.pdf
 Sections: 1
+Currency: Utah Code current version (le.utah.gov, PDFs generated 2026-09-01) — 2026 General Session incorporated (checked 2026-09-10).
 
 ## Utah § C20A_1800010118000101.pdf
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://sdlegislature.gov/api/Statutes/Statute/12
 Sections: 854
+Currency: Live official SDLRC database — 2026 session laws present (eff. Mar 26 2026) (checked 2026-09-10).
 
 ## South Dakota § 12-1-1
 

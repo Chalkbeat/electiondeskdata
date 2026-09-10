@@ -6,7 +6,7 @@ Official poll-worker manuals and training resources for Missouri, compiled for t
 
 - **Resource category:** Basic information describing pollworker qualifications.
 - **Availability / limitations:** Text-based webpage. No statewide guide or manual provided.
-- **Source:** https://www.sos.mo.gov/pollworker/faqs (fetched 2026-09-09)
+- **Source:** https://www.sos.mo.gov/pollworker/faqs (fetched 2026-09-10)
 - **Capture note:** Web page captured as text; follow the source URL for any linked documents.
 
 ### Full text

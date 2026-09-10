@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.akleg.gov/basis/statutes.asp?media=print&secStart=15.05.001&secEnd=15.05.999
 Sections: 17
+Currency: Alaska Statutes 2025 edition (akleg.gov); 2026 session laws not yet incorporated per the edition label (checked 2026-09-10).
 
 ## Alaska § 15.05
 

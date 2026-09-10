@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.azleg.gov/arsDetail/?title=16
 Sections: 359
+Currency: ARS updated through the 57th Legislature 1st Regular Session (2025); publisher states the 2nd Regular Session (2026) update follows the Sept 12 2026 general effective date (checked 2026-09-10).
 
 ## Arizona § 16-1001
 

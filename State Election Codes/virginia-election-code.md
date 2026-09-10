@@ -1,21 +1,24 @@
 # Virginia — Code of Virginia, Title 24.2 — Elections
 
-Source: official text scraped from https://law.lis.virginia.gov/CSV/CoVTitle_24.2.csv
-Sections: 546
+Source: official text scraped from https://law.lis.virginia.gov/vacode/title24.2/
+Sections: 565
+Currency: Code of Virginia via the Law Library's HTML — 2026 Regular Session amendments present; source migrated from the bulk CSV (last regenerated Aug 2025) (checked 2026-09-10).
 
 ## Virginia § 24.2-100
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-100. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-100/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-100. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-100/*
 
-§ 24.2-100. Applicability of title
+§ 24.2-100
+. Applicability of title.
 The provisions of this title shall apply to all elections held in this Commonwealth except as is otherwise provided by general law.
 Code 1950, § 24-176; 1970, c. 462, § 24.1-95; 1980, c. 639; 1993, c. 641.
 
 ## Virginia § 24.2-1000
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1000. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1000/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1000. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1000/*
 
-§ 24.2-1000. Intimidation and threats toward election officials; penalty
+§ 24.2-1000
+. Intimidation and threats toward election officials; penalty.
 A. Any person who, by bribery, intimidation, threats, coercion, or other means in violation of the election laws willfully and intentionally hinders or prevents, or attempts to hinder or prevent, an election official or the employee of an election official from administering elections pursuant to this title is guilty of a Class 5 felony.
 B. For purposes of this section:
 "Election official" includes members of the State Board of Elections, the Commissioner of Elections, members of local electoral boards, general registrars, deputy registrars, and officers of election.
@@ -30,18 +33,33 @@ Code 1950, § 24-191; 1970, c. 462, § 24.1-264; 1993, c. 641; 2021, Sp. Sess. I
 
 ## Virginia § 24.2-1001
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1001. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1001/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1001. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1001/*
 
-§ 24.2-1001. Willful neglect or corrupt conduct
+§ 24.2-1001
+. Willful neglect or corrupt conduct.
 A. If any officer of election, member of an electoral board, or other person on whom any duty is enjoined by law relative to any election, is guilty of willful neglect of his duty, he shall be guilty of a Class 1 misdemeanor.
 B. If any person listed in subsection A is guilty of any corrupt conduct in the execution of his duty, he shall be guilty of a Class 5 felony.
 Code 1950, § 24-212; 1970, c. 462, § 24.1-266; 1991, c. 710; 1993, c. 641.
 
+## Virginia § 24.2-1001.1
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1001.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1001.1/*
+
+§ 24.2-1001.1
+. Failure or refusal to certify election; civil penalty.
+In addition to any other penalties provided by law, any member of an electoral board who fails or refuses to certify the results of an election is subject to a civil penalty in an amount not exceeding $1,000. Such civil penalty shall be payable to the Voter Education and Outreach Fund established pursuant to §
+24.2-131
+.
+2026, c.
+60
+.
+
 ## Virginia § 24.2-1002
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1002. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1002/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1002. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1002/*
 
-§ 24.2-1002. Interference with registration
+§ 24.2-1002
+. Interference with registration.
 Any person who, by threats or force, interferes with or attempts to interfere with (i) any registrar in the discharge of his duty, (ii) any person applying to register or declining to apply to register, or (iii) any person going to or leaving a registration location as defined in Article 3 (§
 24.2-411
 et seq.) of Chapter 4 of this title or a polling place, or (iv) any person going to or leaving any other location at which persons offer mail applications under Article 3.1 (§
@@ -53,9 +71,10 @@ Code 1950, § 24-116; 1970, c. 462, § 24.1-265; 1984, c. 480, § 24.1-49.01; 19
 
 ## Virginia § 24.2-1002.01
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1002.01. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1002.01/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1002.01. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1002.01/*
 
-§ 24.2-1002.01. Destruction of, or failure to mail or deliver, voter registration application; penalty
+§ 24.2-1002.01
+. Destruction of, or failure to mail or deliver, voter registration application; penalty.
 If any person (i) agrees to mail or deliver a signed voter registration application to the voter registrar or other appropriate person authorized to receive the application and (ii) intentionally interferes with the applicant's effort to register either by destroying the application or by failing to mail or deliver the application in a timely manner, he shall be guilty of a Class 1 misdemeanor. The mailing or delivery of an application shall be deemed timely for the purposes of this section if it is mailed or delivered within 10 days of the applicant's signature or in accordance with the provisions of §
 24.2-416.4
 for processing before the closing of the registration records for the pending election whichever comes first. This section shall not apply to any state or local government employee acting in his official capacity. If any person intentionally solicits multiple registrations from any one person or intentionally falsifies a registration application, he shall be guilty of a Class 5 felony.
@@ -71,9 +90,10 @@ for processing before the closing of the registration records for the pending el
 
 ## Virginia § 24.2-1002.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1002.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1002.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1002.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1002.1/*
 
-§ 24.2-1002.1. Unlawful disclosure or use of social security number or part thereof
+§ 24.2-1002.1
+. Unlawful disclosure or use of social security number or part thereof.
 Any person who discloses or makes any use of the social security number, or any part thereof, of any applicant for voter registration, except as authorized by law for official use, shall be guilty of a Class 5 felony.
 1996, cc.
 72
@@ -85,9 +105,10 @@ Any person who discloses or makes any use of the social security number, or any 
 
 ## Virginia § 24.2-1003
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1003. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1003/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1003. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1003/*
 
-§ 24.2-1003. Campaigning at registration locations
+§ 24.2-1003
+. Campaigning at registration locations.
 Any person who gives or tenders any campaign or referendum materials to, or solicits or attempts to influence the vote of, any person while he is at any registration location as defined in Article 3 (§
 24.2-411
 et seq.) of Chapter 4 of this title knowing that such person is there for the purpose of registration, shall be guilty of a Class 3 misdemeanor. Nothing in this section shall prohibit the distribution of campaign or referendum materials outside any building in which a registration activity is being conducted.
@@ -99,9 +120,10 @@ et seq.) of Chapter 4 of this title knowing that such person is there for the pu
 
 ## Virginia § 24.2-1004
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1004. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1004/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1004. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1004/*
 
-§ 24.2-1004. Illegal voting and registrations
+§ 24.2-1004
+. Illegal voting and registrations.
 A. Any person who wrongfully deposits a ballot in the ballot container or casts a vote on any voting equipment, is guilty of a Class 1 misdemeanor.
 B. Any person who intentionally (i) votes more than once in the same election, whether those votes are cast in Virginia or in Virginia and any other state or territory of the United States, (ii) procures, assists, or induces another to vote more than once in the same election, whether those votes are cast in Virginia or in Virginia and any other state or territory of the United States, (iii) votes knowing that he is not qualified to vote where and when the vote is to be given, or (iv) procures, assists, or induces another to vote knowing that such person is not qualified to vote where and when the vote is to be given is guilty of a Class 6 felony.
 C. Any person who intentionally (i) registers to vote at more than one residence address at the same time, whether such registrations are in Virginia or in Virginia and any other state or territory of the United States, or (ii) procures, assists, or induces another to register to vote at more than one address at the same time, whether such registrations are in Virginia or in Virginia and any other state or territory of the United States, is guilty of a Class 6 felony. This subsection shall not apply to any person who, when registering to vote, changing the address at which he is registered, transferring his registration, or assisting another in registering, changing his address, or transferring his registration, provides the information required by §
@@ -138,9 +160,10 @@ Code 1950, §§ 24-450, 24-451; 1970, c. 462, § 24.1-268; 1993, c. 641; 2001, c
 
 ## Virginia § 24.2-1005
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1005. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1005/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1005. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1005/*
 
-§ 24.2-1005. Intimidation of voters; civil cause of action
+§ 24.2-1005
+. Intimidation of voters; civil cause of action.
 A. Any person who intimidates, threatens, or coerces, or attempts to intimidate, threaten, or coerce, any other person in giving his vote or ballot or who intimidates, threatens, or coerces, or attempts to intimidate, threaten, or coerce a voter to deter or prevent him from voting is guilty of a Class 1 misdemeanor.
 B. In addition to the criminal penalty provided in subsection A, such actions shall also create a cause of action. A voter who is intimidated, threatened, or coerced by another person in violation of subsection A shall be entitled to institute an action for preventative relief, including an application for a permanent or temporary injunction, restraining order, or other order, against such person. The action shall be instituted in the circuit court of the locality where the violation occurred. In any such action, the court may, in its discretion, allow a private plaintiff a reasonable attorney fee as part of the costs, if such plaintiff is the prevailing party.
 C. This section applies to any election and to any method used by a political party for selection of its nominees and for selection of delegates to its conventions and meetings.
@@ -152,9 +175,10 @@ C. This section applies to any election and to any method used by a political pa
 
 ## Virginia § 24.2-1005.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1005.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1005.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1005.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1005.1/*
 
-§ 24.2-1005.1. Communication of false information to registered voter
+§ 24.2-1005.1
+. Communication of false information to registered voter.
 A. It shall be unlawful for any person to communicate to a registered voter, by any means, false information, knowing the same to be false, intended to impede the voter in the exercise of his right to vote. The provisions of this section shall apply to information only about the date, time, and place of the election, or the voter's precinct, polling place, or voter registration status, or the location of a voter satellite office or the office of the general registrar.
 B. Any person who violates the provisions of this section is guilty of a Class 1 misdemeanor.
 Such violation may be prosecuted either in the jurisdiction from which the communication was made or in the jurisdiction in which the communication was received.
@@ -169,9 +193,10 @@ C. In addition to the criminal penalty provided in subsection B, a violation of 
 
 ## Virginia § 24.2-1005.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1005.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1005.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1005.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1005.2/*
 
-§ 24.2-1005.2. Interference with voting
+§ 24.2-1005.2
+. Interference with voting.
 A. Any person acting under the color of law who, contrary to an official policy or procedure, fails to permit, or refuses to permit, a qualified voter to vote, including a voter who is confined while awaiting trial or for having been convicted of a misdemeanor, or who willfully fails or refuses to tabulate, count, or report the vote of a qualified voter, is subject to a civil penalty in an amount not exceeding $1,000 for each affected voter. Such civil penalties shall be payable to the Voter Education and Outreach Fund established pursuant to §
 24.2-131
 .
@@ -186,9 +211,10 @@ B. Any person who furnishes a ballot to a person who he knows cannot understand 
 
 ## Virginia § 24.2-1006
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1006. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1006/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1006. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1006/*
 
-§ 24.2-1006. Advice or assistance in casting ballot
+§ 24.2-1006
+. Advice or assistance in casting ballot.
 Except as provided by §
 24.2-649
 , no person shall directly or indirectly advise or assist any voter as to how he shall cast his ballot after the voter has entered the prohibited area at the polls as designated in §
@@ -198,26 +224,36 @@ Code 1950, § 24-237; 1970, c. 462, § 24.1-267; 1993, c. 641.
 
 ## Virginia § 24.2-1007
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1007. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1007/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1007. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1007/*
 
-§ 24.2-1007. Soliciting or accepting bribe to influence or procure vote
-No person shall solicit or accept directly or indirectly any money or any thing of value to influence his or another's vote in any election. Any person violating the provisions of this section shall be guilty of a Class 1 misdemeanor.
-This section applies to any election and to any method used by a political party for selection of its nominees and for selection of delegates to its conventions and meetings.
-Code 1950, §§ 24-405, 24-452; 1952, c. 4; 1970, c. 462, § 24.1-272; 1976, c. 616; 1993, c. 641.
+§ 24.2-1007
+. Soliciting or accepting bribe to influence or procure vote or registration.
+A. No person shall solicit or accept directly or indirectly any money or any thing of value (i) to influence his or another's vote in any election or (ii) in exchange for his or another's decision to register or not register to vote. Any person violating the provisions of this section is guilty of a Class 1 misdemeanor.
+B. This section shall not be construed to apply to any of the following:
+1. Transportation to or from a voting or voter registration location;
+2. Items of de minimis value that are not cash or cash equivalents;
+3. Granting time off to an employee to vote or register to vote; or
+4. Paying a person a wage to conduct a voter registration drive.
+C. This section applies to any election and to any method used by a political party for selection of its nominees and for selection of delegates to its conventions and meetings.
+Code 1950, §§ 24-405, 24-452; 1952, c. 4; 1970, c. 462, § 24.1-272; 1976, c. 616; 1993, c. 641; 2026, c.
+909
+.
 
 ## Virginia § 24.2-1008
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1008. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1008/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1008. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1008/*
 
-§ 24.2-1008. Selling, giving away, or counterfeiting ballots
+§ 24.2-1008
+. Selling, giving away, or counterfeiting ballots.
 Any person who (i) wrongfully sells or gives to any person an official ballot or copy or a facsimile of or device or plate used to reproduce such ballot or (ii) counterfeits or attempts to counterfeit the official ballot or the seal used on that ballot, shall be guilty of a Class 5 felony.
 Code 1950, § 24-239; 1970, c. 462, § 24.1-270; 1991, c. 710; 1993, c. 641.
 
 ## Virginia § 24.2-1009
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1009. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1009/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1009. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1009/*
 
-§ 24.2-1009. Stealing or tampering with ballot containers, voting or registration equipment, software, records or documents
+§ 24.2-1009
+. Stealing or tampering with ballot containers, voting or registration equipment, software, records or documents.
 Any person who (i) steals or willfully, fraudulently, or wrongfully tampers with any part of any ballot container, voting or registration equipment, records, or documents, which are used in any way within the registration or election process, (ii) steals or willfully, fraudulently, or wrongfully tampers with the software used to prepare and operate voting equipment or the software or hardware used to collect and disseminate election returns, (iii) steals or willfully, fraudulently, or wrongfully tampers with an electronic activation device or electronic data storage medium of the type used to prepare, operate or back-up electronic voting equipment, (iv) willfully, fraudulently, or wrongfully intercepts, alters or disrupts the electronic transmission of election returns or the posting of returns on the Internet, (v) fraudulently makes any entry, deletion, or alteration to any item listed in (i), or (vi) aids, abets, or permits any other person to violate the provisions of clauses (i) through (v), shall be guilty of a Class 5 felony.
 Code 1950, §§ 24-318, 24-404; 1952, c. 4; 1970, c. 462, §§ 24.1-273, 24.1-275; 1981, c. 425; 1991, c. 710; 1993, c. 641; 2003, c.
 1015
@@ -229,9 +265,11 @@ Code 1950, §§ 24-318, 24-404; 1952, c. 4; 1970, c. 462, §§ 24.1-273, 24.1-27
 
 ## Virginia § 24.2-101
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-101. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-101/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-101. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-101/*
 
-§ 24.2-101. Definitions
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-101
+. (For contingent expiration date, see Acts 2026, cc. 992 and 1081, cl. 3) Definitions.
 As used in this title, unless the context requires a different meaning:
 "Ballot scanner machine" means the electronic counting machine in which a voter inserts a marked ballot to be scanned and the results tabulated.
 "Candidate" means a person who seeks or campaigns for an office of the Commonwealth or one of its governmental units in a general, primary, or special election and who is qualified to have his name placed on the ballot for the office. "Candidate" shall include a person who seeks the nomination of a political party or who, by reason of receiving the nomination of a political party for election to an office, is referred to as its nominee. For the purposes of Chapters 8 (§
@@ -297,7 +335,7 @@ and §
 24.2-306
 , and determining the number of signatures required for candidate and voter petitions, "registered voter" shall include only persons maintained on the Virginia voter registration system with active status. For purposes of determining if a signature on a petition shall be included in the count toward meeting the signature requirements of any petition, "registered voter" shall include only persons maintained on the Virginia voter registration system (i) with active status and (ii) on inactive status who are qualified to vote for the office for which the petition was circulated.
 "Registration records" means all official records concerning the registration of qualified voters and shall include all records, lists, applications, and files, whether maintained in books, on cards, on automated data bases, or by any other legally permitted record-keeping method.
-"Residence" or "resident," for all purposes of qualification to register and vote, means and requires both domicile and a place of abode. To establish domicile, a person must live in a particular locality with the intention to remain. A place of abode is the physical place where a person dwells.
+"Residence" or "resident", for all purposes of qualification to register and vote, means and requires both domicile and a place of abode. To establish domicile, a person must live in a particular locality with the intention to remain. A place of abode is the physical place where a person dwells.
 "Special election" means any election that is held pursuant to law to fill a vacancy in office or to hold a referendum.
 "State Board" or "Board" means the State Board of Elections.
 "Virginia voter registration system" or "voter registration system" means the automated central record-keeping system for all voters registered within the Commonwealth that is maintained as provided in Article 2 (§
@@ -365,12 +403,161 @@ Code 1950, §§ 24-17, 24-18, 24-18.2, 24-22, 24-23, 24-44, 24-136, 24-137, 24-1
 ,
 515
 .
+§
+24.2-101
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Definitions.
+As used in this title, unless the context requires a different meaning:
+"Ballot scanner machine" means the electronic counting machine in which a voter inserts a marked ballot to be scanned and the results tabulated.
+"Candidate" means a person who seeks or campaigns for an office of the Commonwealth or one of its governmental units in a general, primary, or special election and who is qualified to have his name placed on the ballot for the office. "Candidate" shall include a person who seeks the nomination of a political party or who, by reason of receiving the nomination of a political party for election to an office, is referred to as its nominee. For the purposes of Chapters 8 (§
+24.2-800
+et seq.), 9.3 (§
+24.2-945
+et seq.), and 9.5 (§
+24.2-955
+et seq.), "candidate" shall include any write-in candidate. However, no write-in candidate who has received less than 15 percent of the votes cast for the office shall be eligible to initiate an election contest pursuant to Article 2 (§
+24.2-803
+et seq.) of Chapter 8. For the purposes of Chapters 9.3 (§
+24.2-945
+et seq.) and 9.5 (§
+24.2-955
+et seq.), "candidate" shall include any person who raises or spends funds in order to seek or campaign for an office of the Commonwealth, excluding federal offices, or one of its governmental units in a party nomination process or general, primary, or special election; and such person shall be considered a candidate until a final report is filed pursuant to Article 3 (§
+24.2-947
+et seq.) of Chapter 9.3.
+"Central absentee voter precinct" means a precinct established pursuant to §
+24.2-712
+for the processing of absentee ballots for the county or city or any combination of precincts within the county or city.
+"Constitutional office" or "constitutional officer" means a county or city office or officer referred to in Article VII, § 4 of the Constitution of Virginia: clerk of the circuit court, attorney for the Commonwealth, sheriff, commissioner of the revenue, and treasurer.
+"Department of Elections" or "Department" means the state agency headed by the Commissioner of Elections.
+"Direct recording electronic machine" or "DRE" means the electronic voting machine on which a voter touches areas of a computer screen, or uses other control features, to mark a ballot and his vote is recorded electronically.
+"Election" means a general, primary, or special election.
+"Election district" means the territory designated by proper authority or by law which is represented by an official elected by the people, including the Commonwealth, a congressional district, a General Assembly district, or a district for the election of an official of a county, city, town, or other governmental unit.
+"Electoral board" or "local electoral board" means a board appointed pursuant to §
+24.2-106
+to administer elections for a county or city. The electoral board of the county in which a town or the greater part of a town is located shall administer the town's elections.
+"Entrance of polling place" or "entrance to polling place" means an opening in the wall used for ingress to a structure.
+"General election" means an election held in the Commonwealth on the Tuesday after the first Monday in November or on the first Tuesday in May for the purpose of filling offices regularly scheduled by law to be filled at those times.
+"General registrar" means the person appointed by the electoral board of a county or city pursuant to §
+24.2-110
+to be responsible for all aspects of voter registration, in addition to other duties prescribed by this title. When performing duties related to the administration of elections, the general registrar is acting in his capacity as the director of elections for the locality in which he serves.
+"Incarceration" means confinement inside the physical boundaries of a state correctional facility or local correctional facility, as those terms are defined §
+53.1-1
+, for 24 hours a day. "Incarceration" does not include any period of probation, parole, or post-release supervision, or of confinement in a community correctional facility, as that term is defined in §
+53.1-1
+.
+"Machine-readable ballot" means a tangible ballot that is marked by a voter or by a system or device operated by a voter, is available for verification by the voter at the time the ballot is cast, and is then fed into and scanned by a separate counting machine capable of reading ballots and tabulating results.
+"Officer of election" means a person appointed by an electoral board pursuant to §
+24.2-115
+to serve at a polling place for any election.
+"Paper ballot" means a tangible ballot that is marked by a voter and then manually counted.
+"Party" or "political party" means an organization of citizens of the Commonwealth which, at either of the two preceding statewide general elections, received at least 10 percent of the total vote cast for any statewide office filled in that election. The organization shall have a state central committee and an office of elected state chairman which have been continually in existence for the six months preceding the filing of a nominee for any office.
+"Person with a disability" means a person with a disability as defined in §
+51.5-40.1
+.
+"Polling place" means the structure that contains the one place provided for each precinct at which the qualified voters who are residents of the precinct may vote.
+"Precinct" means the territory designated by the governing body of a county, city, or town to be served by one polling place.
+"Primary" or "primary election" means an election held for the purpose of selecting a candidate to be the nominee of a political party for election to office.
+"Printed ballot" means a tangible ballot that is printed on paper and includes both machine-readable ballots and paper ballots.
+"Qualified voter" means a person who is entitled to vote pursuant to the Constitution of Virginia and who is (i) 18 years of age on or before the day of the election or qualified pursuant to §
+24.2-403
+or subsection D of §
+24.2-544
+, (ii) a resident of the Commonwealth and of the precinct in which he offers to vote, and (iii) a registered voter. Whether a signature should be counted towards satisfying the signature requirement of any petition shall be determined based on the signer of the petition's qualification to vote. For purposes of determining if a signature on a petition shall be included in the count toward meeting the signature requirements of any petition, "qualified voter" shall include only persons maintained on the Virginia voter registration system (a) with active status and (b) with inactive status who are qualified to vote for the office for which the petition was circulated.
+"Qualified voter in a town" means a person who is a resident within the corporate boundaries of the town in which he offers to vote, duly registered in the county of his residence, and otherwise a qualified voter.
+"Referendum" means any election held pursuant to law to submit a question to the voters for approval or rejection.
+"Registered voter" means any person who is maintained on the Virginia voter registration system. All registered voters shall be maintained on the Virginia voter registration system with active status unless assigned to inactive status by a general registrar in accordance with Chapter 4 (§
+24.2-400
+et seq.). For purposes of applying the precinct size requirements of §
+24.2-307
+, calculating election machine requirements pursuant to Article 3 (§
+24.2-625
+et seq.) of Chapter 6, mailing notices of local election district, precinct or polling place changes as required by subdivision 13 of §
+24.2-114
+and §
+24.2-306
+, and determining the number of signatures required for candidate and voter petitions, "registered voter" shall include only persons maintained on the Virginia voter registration system with active status. For purposes of determining if a signature on a petition shall be included in the count toward meeting the signature requirements of any petition, "registered voter" shall include only persons maintained on the Virginia voter registration system (i) with active status and (ii) on inactive status who are qualified to vote for the office for which the petition was circulated.
+"Registration records" means all official records concerning the registration of qualified voters and shall include all records, lists, applications, and files, whether maintained in books, on cards, on automated data bases, or by any other legally permitted record-keeping method.
+"Release from incarceration" means release from confinement inside the physical boundaries of a state correctional facility or local correctional facility, as those terms are defined §
+53.1-1
+; however, the release to the custody of an out-of-state correctional facility or federal detention center shall not be deemed a release from incarceration for purposes of this title.
+"Residence" or "resident," for all purposes of qualification to register and vote, means and requires both domicile and a place of abode. To establish domicile, a person must live in a particular locality with the intention to remain. A place of abode is the physical place where a person dwells.
+"Special election" means any election that is held pursuant to law to fill a vacancy in office or to hold a referendum.
+"State Board" or "Board" means the State Board of Elections.
+"Virginia voter registration system" or "voter registration system" means the automated central record-keeping system for all voters registered within the Commonwealth that is maintained as provided in Article 2 (§
+24.2-404
+et seq.) of Chapter 4.
+"Voting system" means the electronic voting and counting machines used at elections, including direct recording electronic machines (DRE), ballot scanner machines, and on-demand ballot printing systems and ballot marking devices used to manufacture or mark ballots to be cast by voters on electronic voting and counting machines.
+Code 1950, §§ 24-17, 24-18, 24-18.2, 24-22, 24-23, 24-44, 24-136, 24-137, 24-172, 24-346; 1956, c. 378; 1963, Ex. Sess., c. 2; 1964, c. 592; 1970, c. 462, §§ 24.1-1, 24.1-41, 24.1-42, 24.1-93; 1971, Ex. Sess., cc. 119, 205, 265; 1972, c. 620; 1973, c. 30; 1974, c. 428; 1975, c. 515; 1977, cc. 30, 490; 1978, c. 778; 1982, c. 650; 1983, c. 461; 1989, c. 322; 1991, 1st Sp. Sess., c. 12; 1993, c. 641; 1996, cc.
+72
+,
+73
+; 1997, c.
+801
+; 1998, c.
+866
+; 2001, c.
+719
+; 2002, c.
+487
+; 2003, c.
+1015
+; 2005, c.
+384
+; 2006, cc.
+205
+,
+787
+,
+892
+; 2007, c.
+311
+; 2008, c.
+880
+; 2009, cc.
+865
+,
+870
+,
+874
+; 2010, c.
+707
+; 2013, cc.
+542
+,
+684
+; 2014, cc.
+540
+,
+576
+; 2015, c.
+740
+; 2016, cc.
+18
+,
+492
+; 2020, c.
+294
+; 2021, Sp. Sess. I, c.
+471
+; 2022, cc.
+125
+,
+126
+; 2024, cc.
+191
+,
+515
+; 2026, cc.
+992
+,
+1081
+.
 
 ## Virginia § 24.2-101.01
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-101.01. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-101.01/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-101.01. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-101.01/*
 
-§ 24.2-101.01. Certified mail; subsequent mail or notices may be sent by regular mail
+§ 24.2-101.01
+. Certified mail; subsequent mail or notices may be sent by regular mail.
 Whenever in this title the State Board is required to send any mail or notice by certified mail and such mail or notice is sent certified mail, return receipt requested, then any subsequent, identical mail or notice that is sent by the State Board may be sent by regular mail.
 2011, c.
 566
@@ -378,9 +565,10 @@ Whenever in this title the State Board is required to send any mail or notice by
 
 ## Virginia § 24.2-101.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-101.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-101.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-101.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-101.1/*
 
-§ 24.2-101.1. Implementation of certain laws; special elections
+§ 24.2-101.1
+. Implementation of certain laws; special elections.
 All laws enacted at a regular session of the General Assembly shall take effect as provided in §
 1-214
 except that the implementation of any change to this title shall not become effective for a special election held at a time other than a general election if the writ for the special election was issued prior to the effective date of the law.
@@ -390,9 +578,10 @@ except that the implementation of any change to this title shall not become effe
 
 ## Virginia § 24.2-1010
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1010. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1010/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1010. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1010/*
 
-§ 24.2-1010. Unauthorized possession or duplication of voting equipment key or electronic activation device
+§ 24.2-1010
+. Unauthorized possession or duplication of voting equipment key or electronic activation device.
 Any unauthorized person found in possession of any voting equipment key or electronic activation device of the type used to prepare or operate voting equipment or any unauthorized person who duplicates a voting equipment key or electronic activation device shall be guilty of a Class 1 misdemeanor.
 Code 1950, § 24-318; 1970, c. 462, § 24.1-275; 1991, c. 710; 1993, c. 641; 2004, cc.
 993
@@ -402,17 +591,19 @@ Code 1950, § 24-318; 1970, c. 462, § 24.1-275; 1991, c. 710; 1993, c. 641; 200
 
 ## Virginia § 24.2-1011
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1011. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1011/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1011. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1011/*
 
-§ 24.2-1011. Ballot not to be carried away
+§ 24.2-1011
+. Ballot not to be carried away.
 It shall be unlawful for any person to carry the official ballot furnished him by the officers of the election further than the voting booth, and should he, after receiving the ballot, conclude not to vote, he shall immediately return the ballot to the officers. Any person who (i) carries an official ballot or copy thereof beyond or away from the voting booth, except to the officers of election, or (ii) votes any ballot except the ballot received from the officers of election, shall be guilty of a Class 1 misdemeanor.
 Code 1950, § 24-236; 1970, c. 462, § 24.1-269; 1993, c. 641.
 
 ## Virginia § 24.2-1012
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1012. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1012/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1012. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1012/*
 
-§ 24.2-1012. Offenses as to absent voters
+§ 24.2-1012
+. Offenses as to absent voters.
 Any person who knowingly aids or abets or attempts to aid or abet a violation of the absentee voting procedures prescribed in §
 24.2-649
 and Chapter 7 (§
@@ -426,9 +617,10 @@ Code 1950, § 24-345; 1956, c. 382; 1970, c. 462, § 24.1-274; 1993, c. 641; 200
 
 ## Virginia § 24.2-1013
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1013. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1013/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1013. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1013/*
 
-§ 24.2-1013. Repealed
+§ 24.2-1013
+. Repealed.
 Repealed by Acts 2006, cc.
 787
 and
@@ -437,18 +629,20 @@ and
 
 ## Virginia § 24.2-1014
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1014. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1014/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1014. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1014/*
 
-§ 24.2-1014. Repealed
+§ 24.2-1014
+. Repealed.
 Repealed by Acts 2002, c.
 487
 .
 
 ## Virginia § 24.2-1014.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1014.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1014.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1014.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1014.1/*
 
-§ 24.2-1014.1. Repealed
+§ 24.2-1014.1
+. Repealed.
 Repealed by Acts 2006, cc.
 787
 and
@@ -457,41 +651,46 @@ and
 
 ## Virginia § 24.2-1015
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1015. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1015/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1015. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1015/*
 
-§ 24.2-1015. Conspiracy against rights of citizens under this title
+§ 24.2-1015
+. Conspiracy against rights of citizens under this title.
 If two or more persons conspire to injure, oppress, threaten, intimidate, prevent, or hinder any citizen of this Commonwealth in the free exercise or enjoyment of any right or privilege secured to him by the provisions of this title, or because of his having so exercised such right, they shall be guilty of a Class 5 felony.
 1970, c. 462, § 24.1-278; 1991, c. 710; 1993, c. 641.
 
 ## Virginia § 24.2-1016
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1016. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1016/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1016. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1016/*
 
-§ 24.2-1016. False statements; penalties
+§ 24.2-1016
+. False statements; penalties.
 Any willfully false material statement or entry made by any person in any statement, form, or report required by this title shall constitute the crime of election fraud and be punishable as a Class 5 felony. Any preprinted statement, form, or report shall include a statement of such unlawful conduct and the penalty provided in this section.
 Code 1950, § 24-68; 1952, c. 341; 1958, c. 576; 1960, c. 288; 1962, c. 536; 1970, c. 462, §§ 24.1-48, 24.1-279; 1971, Ex. Sess., c. 205; 1972, c. 620; 1974, c. 428; 1975, c. 515; 1977, c. 490; 1978, c. 778; 1980, c. 639; 1989, c. 138; 1992, c. 433; 1993, c. 641.
 
 ## Virginia § 24.2-1017
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1017. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1017/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1017. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1017/*
 
-§ 24.2-1017. Penalties when not specifically provided elsewhere
+§ 24.2-1017
+. Penalties when not specifically provided elsewhere.
 Any conduct made unlawful by this title, for which no punishment has been otherwise provided, shall be a Class 1 misdemeanor.
 Code 1950, § 24-455; 1970, c. 462, § 280; 1993, c. 641.
 
 ## Virginia § 24.2-1018
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1018. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1018/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1018. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1018/*
 
-§ 24.2-1018. Immunity of witnesses
+§ 24.2-1018
+. Immunity of witnesses.
 No witness called by the court or attorney for the Commonwealth and giving evidence for the prosecution, either before a grand jury or the court in any prosecution under this title, shall ever be proceeded against for any offense made penal by the provisions of this title and committed by him at or in connection with the events germane to the matter being prosecuted; but such witness shall be compelled to testify, and for refusing to answer questions, he may be punished for contempt by the court.
 Code 1950, § 24-449; 1954, c. 347; 1970, c. 462, § 24.1-281; 1993, c. 641.
 
 ## Virginia § 24.2-1019
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1019. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-1019/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-1019. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter10/section24.2-1019/*
 
-§ 24.2-1019. Complaints and allegations concerning election law offenses
+§ 24.2-1019
+. Complaints and allegations concerning election law offenses.
 Any complaint or allegation concerning unlawful conduct under this title shall be filed with the attorney for the Commonwealth of the county or city in which the alleged violation occurred. In the case of a complaint or allegation concerning the filing of a false statement in a voter registration application, the violation shall be deemed to have occurred in the county or city where the applicant sought to be registered.
 1983, c. 461, § 24.1-282; 1993, c. 641; 1999, c.
 374
@@ -499,9 +698,10 @@ Any complaint or allegation concerning unlawful conduct under this title shall b
 
 ## Virginia § 24.2-102
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-102. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-102/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-102. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-102/*
 
-§ 24.2-102. Appointment; terms; Commissioner of Elections; prohibited activities
+§ 24.2-102
+. Appointment; terms; Commissioner of Elections; prohibited activities.
 A. The State Board of Elections is continued and shall consist of five members appointed by the Governor from the qualified voters of the Commonwealth, subject to confirmation by the General Assembly. In the appointment of the Board, representation shall be given to each of the political parties having the highest and next highest number of votes in the Commonwealth for Governor at the last preceding gubernatorial election. Three Board members shall be of the political party that cast the highest number of votes for Governor at that election. When the Governor was not elected as the candidate of a political party, representation shall be given to each of the political parties having the highest and next highest number of members of the General Assembly at the time of the appointment and three Board members shall be of the political party having the highest number of members in the General Assembly. Each political party entitled to an appointment may make and file recommendations with the Governor for the appointment. Its recommendations shall contain the names of at least three qualified voters of the Commonwealth. Appointments shall be made with due consideration of geographical representation, and no two Board members shall reside in the same congressional district.
 After the initial staggering of terms, Board members shall serve terms of four years, which shall begin on February 1 of the year of the appointment. Vacancies shall be filled for the unexpired terms. No member shall be eligible for more than two successive four-year terms. A member appointed for an unexpired term may be appointed for the two succeeding four-year terms.
 Each year the Governor shall designate one Board member to be the chair of the Board and one Board member to be the vice-chair. The chair and vice-chair shall be members of opposite political parties.
@@ -524,16 +724,25 @@ Code 1950, §§ 24-24, 24-345.10; 1952, c. 509; 1956, c. 392; 1970, c. 462, § 2
 
 ## Virginia § 24.2-103
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-103. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-103/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-103. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-103/*
 
-§ 24.2-103. Powers and duties in general; report
+§ 24.2-103
+. Powers and duties in general; report.
 A. The State Board, through the Department of Elections, shall supervise and coordinate the work of the county and city electoral boards and of the registrars to obtain uniformity in their practices and proceedings and legality and purity in all elections. Its supervision shall ensure that major risks to election integrity are (i) identified and assessed and (ii) addressed as necessary to promote election uniformity, legality, and purity. It shall make rules and regulations and issue instructions and provide information consistent with the election laws to the electoral boards and registrars to promote the proper administration of election laws. Electoral boards and registrars shall provide information requested by the State Board and shall follow (a) the elections laws and (b) the rules and regulations of the State Board insofar as they do not conflict with Virginia or federal law. The State Board shall post on the Internet within three business days any rules or regulations made by the State Board. Upon request and at a reasonable charge not to exceed the actual cost incurred, the State Board shall provide to any requesting political party or candidate, within three days of the receipt of the request, copies of any instructions or information provided by the State Board to the local electoral boards and registrars.
 B. The State Board, through the Department of Elections, shall ensure that the members of the electoral boards are properly trained to carry out their duties by offering training annually, or more often, as it deems appropriate, and without charging any fees to the electoral boards for the training.
 C. The State Board, through the Department of Elections, shall conduct a certification program for the general registrars and shall require each general registrar to receive certification through such program from the Department within 12 months of his initial appointment or any subsequent reappointment. The State Board may grant a waiver requested by a local electoral board to extend, on a case-by-case basis, this deadline by up to three months. The State Board shall develop a training curriculum for the certification program and standards for completing the program and maintaining certification, including required hours of annual training. No fees shall be charged to a general registrar for any required training as part of the certification program. The State Board shall review the certification program every four years, or more often as it deems appropriate.
 D. The State Board shall set the training standards for the officers of election and shall develop standardized training programs for the officers of election to be conducted by the local electoral boards and the general registrars. Training of the officers of election shall be conducted and certified as provided by §
 24.2-115.2
 . The State Board shall provide standardized training materials for such training and shall also offer on the Department of Elections website a training course for officers of election. The content of the online training course shall be consistent with the standardized training programs developed pursuant to this section. The State Board shall review the standardized training materials and the content of the online training course every two years in the year immediately following a general election for federal office.
-E. The State Board may institute proceedings pursuant to § 24.2-234.1 for the removal of any member of an electoral board or general registrar who fails to discharge the duties of his office in accordance with law. Such action shall require a recorded majority vote of the Board.
+E. The State Board may institute proceedings pursuant to §
+24.2-234.1
+for the removal of any member of an electoral board or general registrar by a recorded majority vote of the Board after a public hearing on related matters.
+The State Board shall institute proceedings against any member of an electoral board who neglects or refuses to carry out any clear ministerial duty of the office in accordance with law.
+The State Board may remove any member of an electoral board or general register by a recorded two-thirds majority vote of all its members after a public hearing on related matters. Such decision shall be final and shall be subject to judicial review only in accordance with the Administrative Process Act (§
+2.2-4000
+et seq.).
+The State Board shall prescribe standards and procedures for the conduct of public hearings conducted pursuant to this subsection.
+An electoral board member or general registrar may be removed or have removal proceedings instituted against him pursuant to this subsection for (i) neglect of a clear, ministerial duty of the office, misuse of the office, or incompetence in the performance of the duties of the office where such neglect, misuse, or incompetence has a material adverse effect upon the conduct of the office or (ii) an unambiguous indication of a future refusal or failure to carry out the duties of the office where such refusal or failure would likely have a material adverse effect upon the conduct of the office.
 F. The State Board may petition a circuit court or the Supreme Court, whichever is appropriate, for a writ of mandamus or prohibition, or other available legal relief, for the purpose of ensuring that elections are conducted as provided by law.
 G. The Department of Elections shall supervise its own staff to assure that no member of its staff shall serve (i) as the chairman of a political party or other officer of a state-, local-, or district-level political party committee or (ii) as a paid or volunteer worker in the campaign of a candidate for nomination or election to an office filled by election in whole or in part by the qualified voters of the Commonwealth.
 H. The Department of Elections shall employ a Director of Operations who shall be responsible for managing the day-to-day operations at the Department of Elections and ensuring (i) fulfillment of the Department's mission and responsibilities; (ii) compliance with state and federal election laws and regulations; and (iii) compliance with the Department's business, administrative, and financial policies. This position shall be a full-time classified position subject to the Virginia Personnel Act (§
@@ -579,13 +788,18 @@ Code 1950, §§ 24-24, 24-25, 24-345.10, 24-345.11; 1952, c. 509; 1956, c. 392; 
 256
 ,
 257
+; 2026, cc.
+60
+,
+1032
 .
 
 ## Virginia § 24.2-103.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-103.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-103.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-103.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-103.1/*
 
-§ 24.2-103.1. Duties of Department of Elections related to redistricting
+§ 24.2-103.1
+. Duties of Department of Elections related to redistricting.
 A. Upon receipt of any ordinance and Geographic Information System (GIS) map sent pursuant to §
 24.2-304.3
 or
@@ -600,9 +814,10 @@ B. The Department shall maintain and make available on its official website maps
 
 ## Virginia § 24.2-103.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-103.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-103.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-103.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-103.2/*
 
-§ 24.2-103.2. Duties of the Department of Elections related to accessible absentee voting
+§ 24.2-103.2
+. Duties of the Department of Elections related to accessible absentee voting.
 The Department shall make available to all localities a tool to allow a voter with a visual impairment or print disability to electronically and accessibly receive and mark his absentee ballot using screen reader assistive technology. The Department shall develop instructions regarding the use and availability of such tool, including instructions on making the tool available to voters and counting ballots voted with such tool.
 2021, Sp. Sess. I, cc.
 255
@@ -614,9 +829,10 @@ The Department shall make available to all localities a tool to allow a voter wi
 
 ## Virginia § 24.2-104
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-104. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-104/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-104. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-104/*
 
-§ 24.2-104. Requesting assistance for attorney for the Commonwealth; investigative committees
+§ 24.2-104
+. Requesting assistance for attorney for the Commonwealth; investigative committees.
 A. The Attorney General shall have full authority to do whatever is necessary or appropriate to enforce the election laws or prosecute violations thereof. The Attorney General shall exercise the authority granted by this section to conduct an investigation, prosecute a violation, assure the enforcement of the elections laws, and report the results of the investigation to the State Board.
 B. When the State Board is of the opinion that the public interest will be served, it may request the Attorney General, or other attorney designated by the Governor for such purpose, to assist the attorney for the Commonwealth of any jurisdiction in which election laws have been violated. When the State Board makes its request pursuant to a unanimous vote of all members, the Attorney General, or other attorney designated by the Governor, shall exercise the authority granted by this section to conduct an investigation, prosecute a violation, assure the enforcement of the election laws, and report the results of the investigation to the State Board. The Attorney General, or the other attorney designated by the Governor, shall have full authority to do whatever is necessary or appropriate to enforce the election laws or prosecute violations thereof.
 C. The attorney for the Commonwealth or a member of the electoral board of any county or city may make a request, in writing, that the Attorney General appoint a committee to make an immediate investigation of the election practices in that city or county, accompanied by a statement under oath that substantial violations of this title have allegedly occurred which may alter or have altered the outcome of an election. On receipt of the request and statement, the Attorney General shall forthwith appoint a committee of two or more persons qualified to make the investigation. Members, officers, and employees of the Board, local electoral boards, and registrars' offices shall not serve on the committee but may provide assistance to the committee.
@@ -631,9 +847,10 @@ Code 1950, § 24-27; 1970, c. 462, § 24.1-21; 1989, c. 111; 1993, c. 641; 2002,
 
 ## Virginia § 24.2-104.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-104.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-104.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-104.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-104.1/*
 
-§ 24.2-104.1. Civil actions by Attorney General
+§ 24.2-104.1
+. Civil actions by Attorney General.
 A. Whenever the Attorney General has reasonable cause to believe that a violation of an election law has occurred and that the rights of any voter or group of voters have been affected by such violation, the Attorney General may commence a civil action in the appropriate circuit court for appropriate relief.
 B. In such civil action, the court may:
 1. Award such preventive relief, including a permanent or temporary injunction, restraining order, or other order against the person responsible for a violation of this title, as is necessary to assure the full enjoyment of the rights granted by this title.
@@ -650,9 +867,10 @@ C. The court or jury may award such other relief to the aggrieved person as the 
 
 ## Virginia § 24.2-105
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-105. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-105/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-105. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-105/*
 
-§ 24.2-105. Prescribing various forms
+§ 24.2-105
+. Prescribing various forms.
 A. The State Board shall prescribe appropriate forms and records for the registration of voters, conduct of elections, and implementation of this title, which shall be used throughout the Commonwealth.
 B. The State Board shall prescribe voting and election materials in languages other than English for use by a county, city, or town that is subject to the requirements of §
 24.2-128
@@ -672,9 +890,10 @@ Code 1950, § 24-28; 1968, c. 97; 1970, c. 462, § 24.1-22; 1971, Ex. Sess., c. 
 
 ## Virginia § 24.2-105.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-105.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-105.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-105.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-105.1/*
 
-§ 24.2-105.1. Election and voter participation information on the Internet
+§ 24.2-105.1
+. Election and voter participation information on the Internet.
 The Department shall provide information for voters on its website, including (i) the role of and contact information for the State Board, the Department of Elections, local electoral boards, and general registrars; (ii) how and where to register to vote; (iii) how and where to vote, including information about absentee voting, polling hours, Virginia's voter identification requirements and acceptable forms of identification, the casting of ballots, and a means for voters to find their polling place; and (iv) any laws, regulations, policies, or forms pertaining to any of the information in clauses (i), (ii), and (iii). The website shall also allow a voter to review his current voter registration information and voting history that is kept in the statewide voter registration database.
 The Department shall furnish lists of candidates for all elections in the Commonwealth, and information on proposed constitutional amendments and statewide referenda prepared pursuant to §§
 30-19.9
@@ -699,9 +918,10 @@ At a minimum, the Department shall provide a version of its website in which all
 
 ## Virginia § 24.2-105.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-105.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-105.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-105.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-105.2/*
 
-§ 24.2-105.2. Acceptance of payments
+§ 24.2-105.2
+. Acceptance of payments.
 Any credit or debit card used to pay for any voter list must be in the name of a person or organization authorized to receive such list pursuant to §
 24.2-405
 .
@@ -715,9 +935,10 @@ Any credit or debit card used to pay for any voter list must be in the name of a
 
 ## Virginia § 24.2-106
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-106. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-106/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-106. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-106/*
 
-§ 24.2-106. Appointment and terms; vacancies; chairman and secretary; certain prohibitions; training
+§ 24.2-106
+. Appointment and terms; vacancies; chairman and secretary; certain prohibitions; training.
 A. There shall be in each county and city an electoral board composed of three members who shall be qualified voters of such county or city. The members shall be appointed by the chief judge of the judicial circuit for the county or city or that judge's designee. Such designee shall be any other judge who sits in the judicial circuit. Any vacancy occurring on a board shall be filled by the same authority for the unexpired term.
 In the event of the temporary absence, or disability that precludes the performance of duties, of one or more members that prevents attaining a quorum, the chief judge or his designee, for good cause, may appoint, on a meeting-to-meeting basis, a temporary member to the electoral board. The temporary appointee must be eligible for appointment and to the extent practicable maintain representation of political parties under this section.
 The clerk of the circuit court shall send to the State Board a copy of each order making an appointment to an electoral board.
@@ -763,9 +984,10 @@ Code 1950, §§ 24-29, 24-32, 24-33, 24-42; 1970, c. 462, § 24.1-29; 1971, Ex. 
 
 ## Virginia § 24.2-106.01
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-106.01. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-106.01/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-106.01. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-106.01/*
 
-§ 24.2-106.01. Description of duties and responsibilities; required affirmation
+§ 24.2-106.01
+. Description of duties and responsibilities; required affirmation.
 A. The State Board, with the cooperation of the local electoral boards and general registrars, shall develop a description of the duties and responsibilities of the local electoral boards and update such description as needed. Such description shall include the statutory and regulatory duties and responsibilities of the electoral boards, prohibited activities of the electoral boards and members of electoral boards, and the qualifications and disqualifications of members of electoral boards.
 B. The Department shall provide to the clerks of the circuit courts, the chairmen of the state and district political party committees, the general registrars, and the local electoral boards the description developed pursuant to subsection A. Such description shall be provided no later than the first day of December each year.
 C. Each person nominated for appointment to a local electoral board shall certify that he has read the description developed pursuant to this section and affirm prior to his appointment pursuant to §
@@ -777,9 +999,10 @@ that he will faithfully discharge all duties and responsibilities set forth in t
 
 ## Virginia § 24.2-106.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-106.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-106.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-106.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-106.1/*
 
-§ 24.2-106.1. Prohibiting the solicitation in public buildings of signatures for nominating petitions by electoral board members and employees
+§ 24.2-106.1
+. Prohibiting the solicitation in public buildings of signatures for nominating petitions by electoral board members and employees.
 No member of an electoral board or their office staff shall solicit or assist in the solicitation of signatures for nominating petitions for candidates for public office in any public building owned or leased by the county or city served by the electoral board.
 2003, c.
 271
@@ -787,10 +1010,11 @@ No member of an electoral board or their office staff shall solicit or assist in
 
 ## Virginia § 24.2-107
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-107. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-107/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-107. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-107/*
 
-§ 24.2-107. Meetings; quorum; notice; account of proceedings; seal; records open to inspection
-The electoral board of each city and county shall meet during the first week in February of the year in which it is to appoint officers of election pursuant to §
+§ 24.2-107
+. Meetings; quorum; notice; account of proceedings; seal; records open to inspection.
+A. The electoral board of each city and county shall meet during the first week in February of the year in which it is to appoint officers of election pursuant to §
 24.2-115
 and during the month of March each year at the time set by the board and at any other time on the call of any board member. Two members shall constitute a quorum. Notice of each meeting shall be given to all board members either by the secretary or the member calling the meeting at least three business days prior to the meeting except in the case of an emergency as defined in §
 2.2-3701
@@ -798,17 +1022,24 @@ and during the month of March each year at the time set by the board and at any 
 2.2-3707
 . All meetings shall be conducted in accordance with the requirements of the Virginia Freedom of Information Act (§
 2.2-3700
-et seq.) unless otherwise provided by this section. Notwithstanding the public notice requirements of §
+et seq.) unless otherwise provided by this section.
+Notwithstanding the public notice requirements of §
 2.2-3707
 , two or more members of an electoral board may meet on election day to discuss a matter concerning that day's election, where such matter requires resolution on that day, and an effort has been made by all available means to give notice of the meeting to all board members. The presence of two or more board members while the ballots, election materials, or voting equipment are being prepared, current or potential polling places are being inspected, or election officials are being trained, or a telephone call between two board members preparing for a meeting, shall not constitute a meeting provided that no discussion or deliberation takes place that would otherwise constitute a meeting.
-The secretary shall keep an accurate account of all board proceedings in a minute book, including all appointments and removals of general registrars and officers of election. The secretary shall keep in his custody the duly adopted seal of the board.
-Minutes of meetings that are required to be recorded pursuant to §
+B. The secretary shall keep an accurate account of all board proceedings in a minute book, including all appointments and removals of general registrars and officers of election. The secretary shall keep in his custody the duly adopted seal of the board.
+C. Minutes of meetings that are required to be recorded pursuant to §
 2.2-3707
 shall be posted on the website of the electoral board or the official website for the county or city, when such means are available. Minutes of meetings shall be posted as soon as possible but no later than one week prior to the following meeting of the electoral board.
-Books, papers, and records of the board shall be open to public inspection and copying whenever the general registrar's office is open for business either at the office of the board or the office of the general registrar. The general registrar shall determine a reasonable charge, not to exceed the fee authorized pursuant to subdivision A 8 of §
+D. Books, papers, and records of the board shall be open to public inspection and copying whenever the general registrar's office is open for business either at the office of the board or the office of the general registrar. The general registrar shall determine a reasonable charge, not to exceed the fee authorized pursuant to subdivision A 8 of §
 17.1-275
-, to be paid for copies made from the books, papers, and records of the board.
-No election record containing an individual's social security number, or any part thereof, shall be made available for inspection or copying by anyone. The State Board of Elections shall prescribe procedures for local electoral boards and general registrars to make the information in certificates of candidate qualification available in a manner that does not reveal social security numbers or any parts thereof.
+, to be paid for copies made from the books, papers, and records of the board. No election record containing an individual's social security number, or any part thereof, shall be made available for inspection or copying by anyone. The State Board of Elections shall prescribe procedures for local electoral boards and general registrars to make the information in certificates of candidate qualification available in a manner that does not reveal social security numbers or any parts thereof.
+E. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as a meeting place for the local electoral board, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as a meeting place for the local electoral board.
 Code 1950, §§ 24-34, 24-43; 1970, c. 462, § 24.1-30; 1978, c. 778; 1979, c. 27; 1982, c. 290; 1993, c. 641; 1994, c.
 656
 ; 2003, c.
@@ -825,13 +1056,16 @@ Code 1950, §§ 24-34, 24-43; 1970, c. 462, § 24.1-30; 1978, c. 778; 1979, c. 2
 395
 ; 2016, c.
 403
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-108
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-108. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-108/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-108. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-108/*
 
-§ 24.2-108. Compensation and expenses of members
+§ 24.2-108
+. Compensation and expenses of members.
 The General Assembly shall establish a compensation and expense plan in the general appropriation act for the secretaries and members of the electoral boards. The governing body for the county or city of each electoral board shall pay compensation, expenses, and mileage in accordance with the plan and be reimbursed annually as authorized by the act. The reasonable costs of electoral board members attending annual training programs provided by the State Board shall be included in the expense plan for electoral boards.
 Each electoral board member shall submit a written claim for mileage and expenses authorized by the plan. The claim, when filed and found to be correct, shall be paid by the county or city. The county or city shall pay claims for mileage at the rate payable to members of the General Assembly.
 The governing body of any county or city may pay to the secretary of the electoral board any additional allowance for expenses it deems appropriate and may pay to a full-time secretary any additional compensation it deems appropriate.
@@ -842,15 +1076,23 @@ Code 1950, §§ 24-37, 24-38, 24-40, 24-41; 1952, c. 540; 1956, c. 658; 1958, c.
 
 ## Virginia § 24.2-109
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-109. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-109/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-109. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-109/*
 
-§ 24.2-109. Appointment and removal of general registrar and officers of election; powers and duties in general
+§ 24.2-109
+. Appointment and removal of general registrar; appointment of officers of election; powers and duties in general.
 A. Each electoral board shall appoint the general registrar for its city or county and officers of election for each precinct who shall serve in all elections, including town elections, as provided in this chapter. The secretary of the electoral board shall promptly notify each appointee of his appointment.
-The electoral board by a recorded majority vote may (i) institute proceedings pursuant to § 24.2-234.1 for the removal of any general registrar who fails to discharge the duties of his office according to law or (ii) remove from office, on notice, any officer of election who fails to discharge the duties of his office according to law.
-The electoral board shall remove from office, on notice, any general registrar who fails to receive or maintain certification as required by the State Board pursuant to subsection C of §
+B. The electoral board may institute proceedings pursuant to §
+24.2-234.1
+for the removal of any general registrar by a recorded majority vote of the Board after a public hearing on related matters.
+The electoral board may remove a general registrar by a recorded unanimous vote of all its members after a public hearing on related matters. A registrar who is so removed may file a notice of appeal to the State Board within three business days. Upon receipt of a properly filed appeal, the State Board shall schedule a public hearing on the matter as soon as practicable. Upon consideration of the appeal, the State Board may reverse the decision of the electoral board by a recorded two-thirds majority vote of all its members. Such decision shall be final and not subject to appeal. A general registrar who is removed by a unanimous vote of the electoral board shall remain in office until the expiration of the deadline to file a notice of appeal or, if the notice of appeal is properly filed, until the State Board renders a final decision upholding the decision of the electoral board.
+The State Board shall prescribe standards and procedures for the conduct of public hearings conducted pursuant to this subsection.
+A general registrar may be removed or have removal proceedings instituted against him pursuant to this subsection for (i) neglect of a clear, ministerial duty of the office, misuse of the office, or incompetence in the performance of the duties of the office where such neglect, misuse, or incompetence has a material adverse effect upon the conduct of the office or (ii) an unambiguous indication of a future refusal or failure to carry out the duties of the office where such refusal or failure would likely have a material adverse effect upon the conduct of the office.
+C. The electoral board shall remove from office, on notice, any general registrar who fails to receive or maintain certification as required by the State Board pursuant to subsection C of §
 24.2-103
 .
-B. The electoral board shall perform the duties assigned by this title including, but not limited to, the preparation of ballots, the administration of absentee ballot provisions, the conduct of the election, and the ascertaining of the results of the election.
+D. The electoral board shall perform the duties assigned by this title, including the conduct of the election and the ascertaining and certification of the results of the election. Such duties are a clear ministerial duty of the office and nondiscretionary, and the neglect of any such duty, or the refusal to perform such duty in accordance with law, shall be grounds for removal pursuant to §
+24.2-234.1
+.
 Code 1950, §§ 24-30, 24-35, 24-36, 24-52, 24-52.1, 24-55, 24-61, 24-65, 24-66, 24-118.1, 24-199; 1954, c. 691; 1962, c. 475; 1964, c. 608; 1968, cc. 97, 141; 1970, c. 462, §§ 24.1-32, 24.1-34, 24.1-43; 1973, c. 30; 1974, c. 428; 1975, c. 515; 1976, c. 12; 1978, c. 778; 1980, c. 639; 1981, c. 425; 1982, cc. 290, 650; 1983, c. 511; 1984, c. 480; 1985, c. 197; 1986, c. 558; 1988, c. 528; 1989, c. 227; 1993, c. 641; 2004, cc.
 27
 ,
@@ -861,13 +1103,18 @@ Code 1950, §§ 24-30, 24-35, 24-36, 24-52, 24-52.1, 24-55, 24-61, 24-65, 24-66,
 256
 ,
 257
+; 2026, cc.
+60
+,
+1032
 .
 
 ## Virginia § 24.2-109.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-109.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-109.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-109.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-109.1/*
 
-§ 24.2-109.1. Performance review of general registrars
+§ 24.2-109.1
+. Performance review of general registrars.
 The electoral board shall conduct an annual performance review of the general registrar for years ending June 30, 2006, and thereafter. The electoral board shall complete the review by August 1 of each year, retain a copy of the performance review, and provide a summary of the review to the State Board. The performance review shall be conducted in accordance with the format and forms provided by the State Board.
 2004, cc.
 27
@@ -879,9 +1126,10 @@ The electoral board shall conduct an annual performance review of the general re
 
 ## Virginia § 24.2-110
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-110. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-110/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-110. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-110/*
 
-§ 24.2-110. Appointment, qualifications, and term of general registrar; vacancies; certain prohibitions
+§ 24.2-110
+. Appointment, qualifications, and term of general registrar; vacancies; certain prohibitions.
 A. Each electoral board shall meet in the month of May or June in 2007, and every four years thereafter, and shall appoint a general registrar, who shall be a qualified voter of the county or city for which he is appointed unless such county or city has a population of 50,000 or less. In the case of a city that is wholly contained within one county, the city electoral board may appoint a qualified voter of that county to serve as city general registrar. General registrars shall serve four-year terms beginning July 1, 2007, and each fourth year thereafter, and continue in office until a successor is appointed and qualifies.
 The electoral board shall fill any vacancy in the office of general registrar for the unexpired term. The electoral board shall declare vacant and fill the office of the general registrar if the appointee fails to qualify and deliver a copy of his oath to the secretary of the electoral board within 30 days after he has been notified of his appointment.
 B. No general registrar shall hold any other office, by election or appointment, while serving as general registrar; however, with the consent of the electoral board, he may undertake other duties which do not conflict with his duties as general registrar. General registrars shall not serve as officers of election. The election or appointment of a general registrar to any other office shall vacate the office of the general registrar.
@@ -917,9 +1165,10 @@ Code 1950, §§ 24-30, 24-35, 24-36, 24-52, 24-52.1, 24-53, 24-55, 24-61, 24-65,
 
 ## Virginia § 24.2-111
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-111. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-111/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-111. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-111/*
 
-§ 24.2-111. Compensation and expenses of general registrars
+§ 24.2-111
+. Compensation and expenses of general registrars.
 The General Assembly shall establish a compensation plan in the general appropriation act for the general registrars. The governing body for the county or city of each general registrar shall pay compensation in accordance with the plan and be reimbursed annually as authorized in the act. The governing body shall be required to provide benefits to the general and deputy registrars and staff as provided to other employees of the locality, and shall be authorized to supplement the salary of the general registrar to the extent provided in the act.
 Each locality shall pay the reasonable expenses of the general registrar, including reimbursement for mileage at the rate payable to members of the General Assembly. In case of a dispute, the State Board shall approve or disapprove the reimbursement. Reasonable expenses include, but are not limited to, costs for (i) an adequately trained registrar's staff, including training in the use of computers and other technology to the extent provided to other local employees with similar job responsibilities, and reasonable costs for the general registrar to receive and maintain certification as required by the State Board pursuant to subsection C of §
 24.2-103
@@ -936,9 +1185,10 @@ Code 1950, §§ 24-52, 24-52.1, 24-55, 24-61, 24-65, 24-66, 24-118.1; 1954, c. 6
 
 ## Virginia § 24.2-112
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-112. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-112/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-112. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-112/*
 
-§ 24.2-112. Deputy registrars; employees
+§ 24.2-112
+. Deputy registrars; employees.
 A. The electoral board of each county and city shall determine the number of deputy registrars to serve in the office of the general registrar, including any to serve full-time.
 In Russell County, there shall be at least one full-time deputy registrar who shall serve in the office of the general registrar.
 In any county or city whose population is over 15,500, there shall be at least one deputy registrar who shall serve at least one day each week in the office of the general registrar.
@@ -975,18 +1225,20 @@ Code 1950, § 24-58; 1970, c. 462, § 24.1-45; 1973, c. 30; 1974, c. 428; 1975, 
 
 ## Virginia § 24.2-113
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-113. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-113/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-113. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-113/*
 
-§ 24.2-113. Repealed
+§ 24.2-113
+. Repealed.
 Repealed by Acts 2018, c.
 464
 , cl. 2.
 
 ## Virginia § 24.2-114
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-114. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-114/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-114. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-114/*
 
-§ 24.2-114. Duties and powers of general registrar
+§ 24.2-114
+. Duties and powers of general registrar.
 In addition to the other duties required by this title, the general registrar, and the deputy registrars acting under his supervision, shall:
 1. Maintain the office of the general registrar and establish and maintain additional public places for voter registration in accordance with the provisions of §
 24.2-412
@@ -1065,9 +1317,10 @@ Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94,
 
 ## Virginia § 24.2-115
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-115. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-115/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-115. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-115/*
 
-§ 24.2-115. Appointment, qualifications, and terms of officers of election
+§ 24.2-115
+. Appointment, qualifications, and terms of officers of election.
 A. Each electoral board at its regular meeting in the first week of February of the year in which the terms of officers of election are scheduled to expire shall appoint officers of election. Their terms of office shall begin on March 1 following their appointment and continue, at the discretion of the electoral board, for a term not to exceed three years or until their successors are appointed. The general registrar shall prepare and submit to the electoral board a plan to ensure that adequate numbers of trained officers of election are available to serve in each election.
 Not less than three competent citizens shall be appointed for each precinct. However, a precinct having more than 4,000 registered voters shall have not less than five officers of election serving for a presidential election, and the electoral board shall appoint additional officers as needed to satisfy this requirement. Insofar as practicable, each officer shall be a qualified voter of the precinct he is appointed to serve, but in any case a qualified voter of the Commonwealth. In appointing the officers of election, representation shall be given to each of the two political parties having the highest and next highest number of votes in the Commonwealth for Governor at the last preceding gubernatorial election. The representation of the two parties shall be equal at each precinct having an even number of officers and shall vary by no more than one at each precinct having an odd number of officers. If practicable, officers shall be appointed from lists of nominations filed by the political parties entitled to appointments. The party shall file its nominations with the secretary of the electoral board at least 10 days before February 1 each year. The electoral board may appoint additional citizens who do not represent any political party to serve as officers. If practicable, no more than one-third of the total number of officers appointed for each precinct may be citizens who do not represent any political party.
 B. Officers of election shall serve for all elections held in their respective precincts during their terms of office unless a substitute is required to be appointed pursuant to §
@@ -1136,9 +1389,10 @@ Code 1950, §§ 24-30, 24-193, 24-195, 24-199; 1950, p. 164; 1970, c. 462, §§ 
 
 ## Virginia § 24.2-115.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-115.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-115.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-115.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-115.1/*
 
-§ 24.2-115.1. Officers of election; hours of service
+§ 24.2-115.1
+. Officers of election; hours of service.
 The electoral board or general registrar may provide that the officers of election for one or more precincts may be assigned to work all or a portion of the time that the precinct is open on election day or reassigned to another precinct for the remaining portion of election day, as needed. Any officer of election assisting with the closing of the precinct and reporting the results of the votes at the precinct shall be required to report to the precinct at least one hour prior to the closing of the precinct. However, the chief officer and the assistant chief officer, appointed pursuant to §
 24.2-115
 to represent the two political parties, shall be on duty at all times. The electoral board or general registrar may provide for the administration of the oath of office provided for in §
@@ -1172,9 +1426,10 @@ to be kept with the pollbook at times convenient for officers of election assign
 
 ## Virginia § 24.2-115.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-115.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-115.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-115.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-115.2/*
 
-§ 24.2-115.2. Officers of election; required training
+§ 24.2-115.2
+. Officers of election; required training.
 A. Each officer of election shall receive training consistent with the standards set by the State Board pursuant to §
 24.2-103
 . This training shall be conducted by the electoral boards and general registrars, using the standardized training programs and materials developed by the State Board for this purpose. However, any electoral board and general registrar may instead require that the officers of election complete the online training course provided by the State Board pursuant to subsection D of §
@@ -1194,9 +1449,10 @@ C. Following any training conducted pursuant to this section, the electoral boar
 
 ## Virginia § 24.2-116
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-116. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-116/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-116. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-116/*
 
-§ 24.2-116. Compensation of officers; volunteer officers
+§ 24.2-116
+. Compensation of officers; volunteer officers.
 The governing body of each county, city, or town shall pay its officers of election at least $75 for each full day's service rendered on each election day. In addition, the governing body shall pay each officer $10 and mileage at the rate payable to members of the General Assembly for each time he delivers pollbooks and ballots to the polling place and each time he delivers returns and ballots to the appropriate official after the polls close. Jurisdictions may increase the salary of the officers collecting and delivering materials by at least $10 and the equivalent of mileage expenses from the furthest polling place in the locality in lieu of calculating the mileage and extra pay required by this section.
 An officer of election may waive compensation and serve as an unpaid volunteer officer. Unpaid volunteer officers shall possess the qualifications and fulfill the requirements that apply to paid officers of election.
 Code 1950, §§ 24-207 through 24-209; 1950, p. 245; 1956, c. 235; 1968, c. 141; 1970, c. 462, § 24.1-107; 1972, c. 620; 1974, c. 428; 1993, c. 641; 2003, c.
@@ -1207,9 +1463,10 @@ Code 1950, §§ 24-207 through 24-209; 1950, p. 245; 1956, c. 235; 1968, c. 141;
 
 ## Virginia § 24.2-117
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-117. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-117/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-117. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-117/*
 
-§ 24.2-117. Request for removal of officer of election
+§ 24.2-117
+. Request for removal of officer of election.
 A candidate may require the removal of an officer of election for the election in which he is a candidate by a request in writing, filed at least seven days before the election with the electoral board appointing the officer, on the grounds that the officer is the spouse, parent, grandparent, sibling, child, or grandchild of an opposing candidate. A member of the electoral board may also request the removal of an officer of election whom he knows to be the spouse, parent, grandparent, sibling, child, or grandchild of a candidate in the election by a request in writing, filed at least seven days before the election with the electoral board. Upon receipt of a timely written request pursuant to this section, the electoral board shall ensure that a substitute is appointed to serve for that election.
 1982, c. 650, § 24.1-105.1; 1993, c. 641; 2014, c.
 410
@@ -1221,26 +1478,29 @@ A candidate may require the removal of an officer of election for the election i
 
 ## Virginia § 24.2-118
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-118. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-118/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-118. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-118/*
 
-§ 24.2-118. Appointments when officers fail to serve
+§ 24.2-118
+. Appointments when officers fail to serve.
 If an officer of election is absent or unable to serve and the polls have been open for one hour, the remaining officers of election shall appoint a substitute officer of election for the precinct. The substitute officer shall possess the same qualifications and, after taking the requisite oath, have the same powers as officers appointed by an electoral board.
 Code 1950, § 24-197; 1970, c. 462, § 24.1-108; 1993, c. 641.
 
 ## Virginia § 24.2-118.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-118.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-118.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-118.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-118.1/*
 
-§ 24.2-118.1. Repealed
+§ 24.2-118.1
+. Repealed.
 Repealed by Acts 2020, c.
 838
 , cl. 2.
 
 ## Virginia § 24.2-119
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-119. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-119/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-119. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-119/*
 
-§ 24.2-119. Restrictions on persons holding other offices serving as member of electoral board, registrar, or officer of election
+§ 24.2-119
+. Restrictions on persons holding other offices serving as member of electoral board, registrar, or officer of election.
 No person, nor the deputy of any person, who is employed by or holds any office or post of profit or emolument, or who holds any elective office of profit or trust, under the governments of the United States, the Commonwealth, or any county, city, or town, shall be appointed a member of the electoral board or general registrar. No person, nor the deputy or the employee of any person, who holds any elective office of profit or trust under the government of the United States, the Commonwealth, or any county, city, or town of the Commonwealth, shall be appointed a deputy registrar or officer of election.
 Code 1950, §§ 24-31, 24-198; 1970, c. 462, § 24.1-33; 1971, Ex. Sess., c. 204; 1986, c. 248; 1993, c. 641; 2022, c.
 140
@@ -1248,9 +1508,10 @@ Code 1950, §§ 24-31, 24-198; 1970, c. 462, § 24.1-33; 1971, Ex. Sess., c. 204
 
 ## Virginia § 24.2-119.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-119.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-119.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-119.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-119.1/*
 
-§ 24.2-119.1. Prohibition on discrimination in employment; penalty
+§ 24.2-119.1
+. Prohibition on discrimination in employment; penalty.
 Any person who serves as a member of a local electoral board, a deputy general registrar, or an officer of election shall neither be discharged from employment nor have any adverse personnel action taken against him, nor shall he be required to use sick leave or vacation time, as a result of his absence from employment due to his service at a polling place on election day or at a meeting of the electoral board following the election to ascertain the results of such election pursuant to §
 24.2-671
 , provided that he gave reasonable notice to his employer of such service. No such person who serves for four or more hours, including travel time, on his day of service shall be required to start any work shift that begins on or after 5:00 p.m. on the day of his service or begins before 3:00 a.m. on the day following the day of his service. Any employer violating the provisions of this section shall be guilty of a Class 3 misdemeanor.
@@ -1262,9 +1523,10 @@ Any person who serves as a member of a local electoral board, a deputy general r
 
 ## Virginia § 24.2-120
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-120. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-120/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-120. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-120/*
 
-§ 24.2-120. Oath of office
+§ 24.2-120
+. Oath of office.
 The oath of office for the members of the electoral board, registrars, and officers of election shall be the oath stated in Article II, § 7, of the Constitution. Each member of the electoral board, registrar, and officer of election shall take and sign the oath before performing the duties of his office.
 Each member of an electoral board and general registrar shall file the original signed oath in the clerk's office of the circuit court of his county or city. The general registrar shall file a copy with the secretary of his electoral board.
 The oath of office for deputy and substitute registrars, officers of election, and voting equipment custodians may be administered by a general registrar or a notary as well as by persons authorized to administer oaths under §
@@ -1285,9 +1547,10 @@ Code 1950, §§ 24-29, 24-30, 24-32, 24-33, 24-42, 24-52, 24-52.1, 24-55, 24-61,
 
 ## Virginia § 24.2-121
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-121. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-121/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-121. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-121/*
 
-§ 24.2-121. Defense of the electoral board, its members, and the general registrar staff; appointment of counsel
+§ 24.2-121
+. Defense of the electoral board, its members, and the general registrar staff; appointment of counsel.
 If any electoral board, any of its members, any general registrar, or any employee of or paid deputy to a registrar is made defendant in any civil action arising out of the performance of his official duties, and does not have legal defense provided under applicable insurance coverage, the officer, employee, or deputy may apply to the Virginia Division of Risk Management to assign counsel for his defense in the action. In such case, and regardless of whether or not the civil action seeks monetary damages, the Division shall obtain one or more attorneys to defend such action, which attorney may be the Attorney General, the attorney for the Commonwealth of the particular locality served by the defendant, or one or more private attorneys as may be appropriate. In the case of any private attorney, the Division shall determine the appropriate rate of compensation. All private attorneys' fees and any expenses incurred in the defense of the action shall be paid from the treasury of the Commonwealth of Virginia.
 1986, c. 558, § 24.1-31.1; 1990, c. 201; 1993, c. 641; 2005, cc.
 492
@@ -1299,9 +1562,10 @@ If any electoral board, any of its members, any general registrar, or any employ
 
 ## Virginia § 24.2-122
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-122. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-122/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-122. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-122/*
 
-§ 24.2-122. Status of members of electoral boards, registrars, and officers of election
+§ 24.2-122
+. Status of members of electoral boards, registrars, and officers of election.
 Members of electoral boards, registrars, and officers of election shall serve the Commonwealth and its localities in administering the election laws. They shall be deemed to be employees of the county or city in which they serve except as otherwise specifically provided by state law.
 A county or city may retain officers of election as independent contractors.
 Deputy registrars who agree to serve without pay are not state or local employees for any purpose.
@@ -1313,9 +1577,10 @@ Code 1950, §§ 24-30, 24-199; 1970, c. 462, § 24.1-32; 1975, c. 515; 1978, c. 
 
 ## Virginia § 24.2-123
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-123. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-123/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-123. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-123/*
 
-§ 24.2-123. Requirements for registration and voting; prohibition on use of power of attorney
+§ 24.2-123
+. Requirements for registration and voting; prohibition on use of power of attorney.
 No action undertaken to fulfill any requirement of this title to register or vote shall be valid or complete when the action is based on the exercise of a power of attorney, or other writing, in which any principal shall have vested any power or authority in an attorney-in-fact or other agent.
 1995, cc.
 192
@@ -1325,9 +1590,10 @@ No action undertaken to fulfill any requirement of this title to register or vot
 
 ## Virginia § 24.2-124
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-124. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-124/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-124. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-124/*
 
-§ 24.2-124. Repealed
+§ 24.2-124
+. Repealed.
 Repealed by Acts 2021, Sp. Sess. I, cc.
 528
 and
@@ -1336,9 +1602,10 @@ and
 
 ## Virginia § 24.2-124.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-124.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-124.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-124.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1/section24.2-124.1/*
 
-§ 24.2-124.1. Acceptance of certain gifts and funding prohibited
+§ 24.2-124.1
+. Acceptance of certain gifts and funding prohibited.
 The State Board, the Department, each local electoral board, and all offices of the general registrar shall not solicit, accept, use, or dispose of any money, grants, property, or services given by a private individual or nongovernmental entity for the purpose of funding voter education and outreach programs, voter registration programs, or any other expense incurred in the conduct of elections.
 This section shall not be construed to prohibit (i) the operation of a polling place or voter satellite office in a facility furnished by a private individual or nongovernmental entity that otherwise meets the requirements for polling places provided in §§
 24.2-310
@@ -1355,63 +1622,117 @@ or (ii) acceptance of a federal government grant funded in whole or part by dona
 
 ## Virginia § 24.2-125
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-125. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-125/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-125. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-125/*
 
-§ 24.2-125. Definitions
-For purposes of this chapter, "protected class" means a group of citizens protected from discrimination based on race or color or membership in a language minority group.
+§ 24.2-125
+. Short title; definitions.
+A. This chapter may be cited as the "Voting Rights Act of Virginia."
+B. For purposes of this chapter,
+"Protected class" means a group of citizens protected from discrimination based on race or color or membership in a language minority group.
+"Racially polarized voting" means the extent to which the candidate preferences of members of a protected class and other voters in the jurisdiction have diverged in elections for the office at issue and other offices in which the voters have been presented with a choice between candidates who are members of the protected class and candidates who are not members of the protected class.
 2021, Sp. Sess. I, cc.
 528
 ,
 533
+; 2026, c.
+717
 .
 
 ## Virginia § 24.2-126
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-126. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-126/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-126. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-126/*
 
-§ 24.2-126. Vote denial or dilution
-A. No voting qualification or prerequisite to voting or standard, practice, or procedure shall be imposed or applied by the state or any locality in a manner that results in a denial or abridgement of the right of any citizen of the United States to vote based on race or color or membership in a language minority group.
-B. A violation of subsection A is established if, on the basis of the totality of circumstances, it is shown that the political processes leading to nomination or election in the state or a locality are not equally open to participation by members of a protected class in that its members have less opportunity than other members of the electorate to participate in the political processes or to elect representatives of their choice. The extent to which members of a protected class have been elected to office in the state or locality is one circumstance that may be considered.
+§ 24.2-126
+. Voter suppression prohibited.
+A. No voting qualification or prerequisite to voting, law, ordinance, rule, standard, practice, or procedure shall be enacted or implemented by the state or any locality in a manner that results in, is likely to result in, or is intended to result in a denial or abridgement of the right of members of a protected class to vote.
+B. A violation of subsection A is established if, on the basis of the totality of circumstances, it is shown that the challenged qualification, law, ordinance, rule, standard, practice, or procedure results in, is likely to result in, or is intended to result in a material disparity between members of a protected class and other eligible voters in regards to voter participation, access to voting opportunities, or the opportunity or ability to participate in the political process.
 C. Nothing in this section shall be construed to establish a right to have members of a protected class elected in numbers equal to their proportion in the population.
 2021, Sp. Sess. I, cc.
 528
 ,
 533
+; 2026, c.
+717
+.
+
+## Virginia § 24.2-126.1
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-126.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-126.1/*
+
+§ 24.2-126.1
+. Vote dilution prohibited.
+A. The governing body of any locality shall not impose or apply any method of election in a manner that has the effect of impairing the equal opportunity or ability of members of a protected class to nominate or elect candidates of their choice or to influence the outcome of an election as a result of diluting or abridging the vote of members of that protected class.
+B. A violation of subsection A is established when it is shown that either (i) local elections exhibit racially polarized voting that disparately impairs the equal opportunity or ability of members of a protected class to nominate or elect candidates of their choice or to influence the outcome of an election or (ii) based on the totality of the circumstances, the equal opportunity or ability of members of a protected class to nominate or elect candidates of their choice or to influence the outcome of an election is impaired.
+C. The fact that members of a protected class are not geographically compact or concentrated shall not preclude a finding of racially polarized voting or a violation of subsection A but may be a factor in determining whether an appropriate remedy exists to mitigate the impairment.
+D. Where there is evidence that the members of more than one protected class are politically cohesive in the locality, members of each of those protected classes may be combined and the court shall consider only the combined electoral preferences of those protected classes in determining whether racially polarized voting exists in the locality or if a violation of subsection A has occurred. Evidence that sub-groups within a protected class have different voting patterns shall not be considered.
+E. Evidence concerning the cause of, or reason for, the occurrence of racially polarized voting is not relevant to the determination of whether it exists, and evidence that voting patterns and election outcomes could be explained by factors other than racially polarized voting shall not be considered.
+F. Evidence concerning projected changes in population or demographics shall not be considered in the determination if a violation of subsection A has occurred but may be a factor in determining whether an appropriate remedy exists to mitigate the impairment.
+2026, c.
+717
+.
+
+## Virginia § 24.2-126.2
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-126.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-126.2/*
+
+§ 24.2-126.2
+. Determining whether a violation has occurred; factors to consider.
+A. In determining whether, under the totality of the circumstances, a violation of §
+24.2-126
+or 24.2-126.1 has occurred with respect to a protected class, a court may consider one or more of the following factors: (i) the history of discrimination affecting members of the protected class; (ii) the extent to which members of the protected class are disadvantaged or otherwise bear the effects of past public or private discrimination in education, employment, housing, criminal justice, or other areas that hinder the ability of members of the protected class to participate effectively in the political process; (iii) the extent to which members of the protected class have been elected to office; (iv) the extent to which candidates who are members of the protected class have faced barriers to accessing the ballot, receiving financial support, or receiving any other support for campaigns for elective office; (v) the extent to which members of the protected class vote at lower rates than other eligible voters; (vi) the use of overt or subtle racial appeals in political campaigns or by government officials; (vii) the lack of responsiveness by elected officials to the particularized needs of members of the protected class; (viii) the use of any voting qualification, law, ordinance, rule, standard, practice, or procedure that may enhance the dilutive effects of the challenged action; (ix) whether the challenged qualification, law, ordinance, rule, standard, practice, or procedure was designed to advance, and does materially advance, a compelling governmental interest that is substantiated and supported by evidence; and (x) any other factors the court may deem relevant. No one factor is dispositive or necessary to establish that a violation of §
+24.2-126
+or 24.2-126.1 has occurred, nor shall any specified number or combination of factors be required to establish such a violation.
+B. In determining whether a violation of §
+24.2-126
+or 24.2-126.1 has occurred with respect to a protected class, a court shall not consider (i) the number of members of the protected class who are not burdened by the challenged qualification, law, ordinance, rule, standard, practice, or procedure; (ii) the degree to which the challenged qualification, law, ordinance, rule, standard, practice, or procedure was in widespread use at an earlier date or is currently in use in other states and jurisdictions; (iii) the availability of other forms of voting that are not impacted by the challenged qualification, law, ordinance, rule, standard, practice, or procedure to all eligible voters, including members of the protected class; and (iv) mere invocation of governmental interests in voter confidence or prevention of fraud.
+C. Evidence concerning the intent of voters, elected officials, or the political subdivision to discriminate against members of a protected class is not required for a finding that a violation of §
+24.2-126
+or 24.2-126.1 has occurred.
+2026, c.
+717
 .
 
 ## Virginia § 24.2-127
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-127. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-127/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-127. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-127/*
 
-§ 24.2-127. Impairment of voting rights of registered voters
-Nothing in this chapter shall be construed to deny, impair, or otherwise adversely affect the right to vote of any registered voter.
+§ 24.2-127
+. Interpretation of chapter.
+All statutes, rules and regulations, and local laws and ordinances relating to the right to vote shall be construed or applied liberally in favor of protecting the right of voters to have their ballot cast and counted, ensuring that eligible voters are not impaired in registering to vote, and ensuring that voters who are members of a protected class have equitable access to opportunities to exercise the right of suffrage. Nothing in this chapter shall be construed to deny, impair, or otherwise adversely affect the right to vote of any registered voter.
 2021, Sp. Sess. I, cc.
 528
 ,
 533
+; 2026, c.
+717
 .
 
 ## Virginia § 24.2-128
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-128. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-128/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-128. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-128/*
 
-§ 24.2-128. Minority language accessibility
-A. The State Board shall designate a county, city, or town as a covered locality if it determines, in consultation with the Director of the Census, on the basis of the 2010 American Community Survey census data and subsequent American Community Survey data in five-year increments, or comparable census data, that (i) more than five percent of the citizens of voting age of such county, city, or town are members of a single language minority and are unable to speak or understand English adequately enough to participate in the electoral process; (ii) more than 10,000 of the citizens of voting age of such county, city, or town are members of a single language minority and are unable to speak or understand English adequately enough to participate in the electoral process; or (iii) in the case of a county, city, or town containing all or any part of an Indian reservation, more than five percent of the American Indian citizens of voting age within the Indian reservation are members of a single language minority and are unable to speak or understand English adequately enough to participate in the electoral process.
-B. Whenever a covered locality provides any voting or election materials, it shall provide such materials in the language of the applicable minority group as well as in the English language. For purposes of this requirement, "voting or election materials" means registration or voting notices, forms, instructions, assistance, voter information pamphlets, ballots, sample ballots, candidate qualification information, and notices regarding changes to local election districts, precincts, or polling places. For purposes of this requirement, "registration notices" means any notice of voter registration approval, denial, or cancellation required by the provisions of Chapter 4 (§
+§ 24.2-128
+. Minority language accessibility.
+A. The State Board shall designate a county, city, or town as a covered locality if it determines, in consultation with the Director of the Census, on the basis of the 2010 American Community Survey census data and subsequent American Community Survey data in five-year increments, or comparable census data, that (i) more than three percent of the citizens of voting age of such county, city, or town are members of a single language minority and are unable to speak or understand English adequately enough to participate in the electoral process; (ii) more than 5,000 of the citizens of voting age of such county, city, or town are members of a single language minority and are unable to speak or understand English adequately enough to participate in the electoral process; or (iii) in the case of a county, city, or town containing all or any part of an Indian reservation, more than three percent of the American Indian citizens of voting age within the Indian reservation are members of a single language minority and are unable to speak or understand English adequately enough to participate in the electoral process.
+B. Whenever a covered locality provides any voting or election materials, it shall provide such materials in the language of the applicable minority group as well as in the English language. Such materials shall be of an equal quality to the corresponding English-language materials, produced at the same time as the corresponding English-language materials, and convey the intent and essential meaning of the original English language text or communication. Materials that are translated solely by an automated translation service are presumed to be insufficient to completely convey intent and essential meaning. For purposes of this requirement, "voting or election materials" means registration or voting notices, forms, instructions, assistance, voter information pamphlets, ballots, sample ballots, candidate qualification information, and notices regarding changes to local election districts, precincts, or polling places. For purposes of this requirement, "registration notices" means any notice of voter registration approval, denial, or cancellation required by the provisions of Chapter 4 (§
 24.2-400
 et seq.). A covered locality may distribute such materials in the preferred language identified by the voter.
-C. The Attorney General, or any qualified voter who is a member of a language minority group for whom a covered locality is required to provide voting or election materials in such language, may institute a cause of action in the circuit court of the covered locality to compel the provision of the voting or election materials in the language of the applicable minority group. In such action, the court may, in its discretion, allow a private plaintiff a reasonable attorney fee as part of the costs, if such plaintiff is the prevailing party.
+C. The Attorney General, or any qualified voter who is a member of a language minority group for whom a covered locality is required to provide voting or election materials in such language, or any organization that assists members of the language minority group or whose membership includes members of the language minority group may institute a cause of action in the circuit court of the covered locality to compel the provision of the voting or election materials in the language of the applicable minority group. In such action, the court may, in its discretion, allow a private plaintiff a reasonable attorney fee as part of the costs, if such plaintiff is the prevailing party.
+D. The Department shall post on its website by no later than September 1, 2026, a list of the localities designated as a covered locality pursuant to subsection A and the minority languages in which each such covered locality is required to provide voting or election materials pursuant to subsection B. The Department of Elections shall update such list as necessary to maintain accuracy.
 2021, Sp. Sess. I, cc.
 528
 ,
 533
+; 2026, c.
+717
 .
 
 ## Virginia § 24.2-129
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-129. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-129/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-129. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-129/*
 
-§ 24.2-129. Covered practices; actions required prior to enactment or administration
+§ 24.2-129
+. Covered practices; actions required prior to enactment or administration.
 A. For the purposes of this section:
 "Certification of no objection" means a certification issued by the Attorney General that there is no objection to the enactment or administration of a covered practice by a locality because the covered practice neither has the purpose or effect of denying or abridging the right to vote based on race or color or membership in a language minority group nor will result in the retrogression in the position of members of a racial or ethnic group with respect to their effective exercise of the electoral franchise.
 "Covered practice" means:
@@ -1424,38 +1745,40 @@ A. For the purposes of this section:
 B. Prior to enacting or seeking to administer any voting qualification or prerequisite to voting, or any standard, practice, or procedure with respect to voting, that is a covered practice, the governing body shall cause to be published on the official website for the locality the proposed covered practice and general notice of opportunity for public comment on the proposed covered practice. The governing body shall also publicize the notice through press releases and such other media as will best serve the purpose and subject involved. Such notice shall be made at least 45 days in advance of the last date prescribed in the notice for public comment.
 Public comment shall be accepted for a period of no fewer than 30 days. During this period, the governing body shall afford interested persons an opportunity to submit data, views, and arguments in writing by mail, fax, or email, or through an online public comment forum on the official website for the locality if one has been established. The governing body shall conduct at least one public hearing during this period to receive public comment on the proposed covered practice.
 The governing body may make changes to the proposed covered practice in response to public comment received. If doing so, the revised covered practice shall be published and public comment shall be accepted in accordance with this subsection, except the public comment period shall be no fewer than 15 days.
-C. Following the public comment period or periods prescribed in subsection B, the governing body shall publish the final covered practice, which shall include a plain English description of the practice and the text of an ordinance giving effect to the practice, maps of proposed boundary changes, or other relevant materials, and notice that the covered practice will take effect in 30 days. During this 30-day waiting period, any person who will be subject to or affected by the covered practice may challenge in the circuit court of the locality where the covered practice is to be implemented the covered practice as (i) having the purpose or effect of denying or abridging the right to vote on the basis of race or color or membership in a language minority group or (ii) resulting in the retrogression in the position of members of a racial or ethnic group with respect to their effective exercise of the electoral franchise. In such action, the court may, in its discretion, allow a private plaintiff a reasonable attorney fee as part of the costs, if such plaintiff is the prevailing party.
+C. Following the public comment period or periods prescribed in subsection B, the governing body shall publish the final covered practice, which shall include a plain English description of the practice and the text of an ordinance giving effect to the practice, maps of proposed boundary changes, or other relevant materials, and notice that the covered practice will take effect in 30 days. During this 30-day waiting period, any person who will be subject to or affected by the covered practice, or any organization whose membership includes persons who will be subject to or affected by the covered practice, may challenge in the circuit court of the locality where the covered practice is to be implemented the covered practice as (i) having the purpose or effect of denying or abridging the right to vote on the basis of race or color or membership in a language minority group or (ii) resulting in the retrogression in the position of members of a racial or ethnic group with respect to their effective exercise of the electoral franchise. In such action, the court may, in its discretion, allow a private plaintiff a reasonable attorney fee as part of the costs, if such plaintiff is the prevailing party.
 D. The governing body of a locality seeking to administer or implement a covered practice, in lieu of following the provisions of subsections B and C, may submit the proposed covered practice to the Office of the Attorney General for issuance of a certification of no objection. Such practice shall not be given effect until the Attorney General has issued such certification. A certification of no objection shall be deemed to have been issued if the Attorney General does not interpose an objection within 60 days of the governing body's submission or if, upon good cause shown and to facilitate an expedited approval within 60 days of the governing body's submission, the Attorney General has affirmatively indicated that no such objection will be made. An affirmative indication by the Attorney General that no objection will be made or the absence of an objection to the covered practice by the Attorney General shall not bar a subsequent action to enjoin enforcement of such qualification, prerequisite, standard, practice, or procedure.
 2021, Sp. Sess. I, cc.
 528
 ,
 533
+; 2026, c.
+717
 .
 
 ## Virginia § 24.2-130
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-130. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-130/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-130. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-130/*
 
-§ 24.2-130. At-large method of election; limitations; violations; remedies
-A. An at-large method of election, including one that combines at-large elections with district- or ward-based elections, shall not be imposed or applied by the governing body of any locality in a manner that impairs the ability of members of a protected class, as defined in §
-24.2-125
-, to elect candidates of its choice or its ability to influence the outcome of an election, as a result of the dilution or the abridgement of the rights of voters who are members of a protected class.
-B. A violation of subsection A is established if it is shown that racially polarized voting occurs in local elections and that this, in combination with the method of election, dilutes the voting strength of members of a protected class. For purposes of this subsection, "racially polarized voting" refers to the extent to which the candidate preferences of members of the protected class and other voters in the jurisdiction have differed in recent elections for the office at issue and other offices in which the voters have been presented with a choice between candidates who are members of the protected class and candidates who are not members of the protected class. A finding of racially polarized voting or a violation of subsection A shall not be precluded by the fact that members of a protected class are not geographically compact or concentrated in a locality. Proof of an intent on the part of voters or elected officials to discriminate against members of a protected class shall not be required to prove a violation of subsection A.
-C. Any voter who is a member of a protected class, as defined in §
-24.2-125
-, and who resides in a locality where a violation of this section is alleged shall be entitled to initiate a cause of action in the circuit court of the county or city in which the locality is located. In such action, the court may, in its discretion, allow a private plaintiff a reasonable attorney fee as part of the costs, if such plaintiff is the prevailing party.
-D. Upon a finding of a violation of this section, the court shall implement appropriate remedies that are tailored to remedy the violation.
+§ 24.2-130
+. Causes of action; standing; remedies.
+A. Any individual aggrieved by a violation of this chapter, any organization whose membership includes members of a protected class or individuals aggrieved by a violation of this chapter, any organization whose mission would be frustrated by a violation of this chapter, or any organization that would expend resources in order to fulfill its mission as a result of a violation of this chapter, shall be entitled to initiate a cause of action in the circuit court of the county or city in which the locality where the violation is alleged to have occurred is located.
+B. In an action related to a districting or redistricting plan, any individual with standing to challenge any single district in such plan shall be deemed to have standing to challenge the districting or redistricting plan as a whole.
+C. In an action brought pursuant to this section, the court may, in its discretion, allow a private plaintiff a reasonable attorney fee as part of the costs, if such plaintiff is the prevailing party.
+D. Upon a finding of a violation of this chapter, the court shall implement appropriate remedies that are tailored to remedy the violation.
 2021, Sp. Sess. I, cc.
 528
 ,
 533
+; 2026, c.
+717
 .
 
 ## Virginia § 24.2-131
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-131. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-131/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-131. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter1.1/section24.2-131/*
 
-§ 24.2-131. Voter Education and Outreach Fund
+§ 24.2-131
+. Voter Education and Outreach Fund.
 There is hereby created in the state treasury a special nonreverting fund to be known as the Voter Outreach and Education Fund, referred to in this section as "the Fund." The Fund shall be established on the books of the Comptroller. All penalties and charges directed to this fund by §
 24.2-104.1
 and all other funds from any public or private source directed to the Fund shall be paid into the state treasury and credited to the Fund. Interest earned on moneys in the Fund shall remain in the Fund and be credited to it. Any moneys remaining in the Fund, including interest thereon, at the end of each fiscal year shall not revert to the general fund but shall remain in the Fund. Moneys in the Fund shall be used solely for the purposes of educating voters and persons qualified to be voters on the rights ensured to them pursuant to federal and state constitutional and statutory law and remedies. Expenditures and disbursements from the Fund shall be made by the State Treasurer on warrants issued by the Comptroller upon written request signed by the Secretary of Administration or his designee.
@@ -1467,58 +1790,65 @@ and all other funds from any public or private source directed to the Fund shall
 
 ## Virginia § 24.2-200
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-200. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-200/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-200. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-200/*
 
-§ 24.2-200. When terms to begin
+§ 24.2-200
+. When terms to begin.
 The terms of all officers chosen at a November general election shall begin on the January 1 succeeding their election unless otherwise provided in this chapter. Notwithstanding any other provision of law, the terms of all officers elected at a May general election shall begin on the July 1 succeeding their election. They shall continue to discharge the duties of their respective offices until their successors qualify.
 Code 1950, §§ 24-142, 24-169; 1970, c. 462, § 24.1-73; 1993, c. 641.
 
 ## Virginia § 24.2-201
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-201. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-201/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-201. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-201/*
 
-§ 24.2-201. When term of officer elected to fill vacancy commences and expires
+§ 24.2-201
+. When term of officer elected to fill vacancy commences and expires.
 The term of office of any person chosen at a special election to fill a vacancy in any public office shall commence as soon as he shall qualify and give bond, if bond is required, and shall continue for the unexpired term of such office. Any person so elected shall qualify and give bond, if bond is required, no later than thirty days following the date on which the special election was held.
 Code 1950, § 24-144; 1970, c. 462, § 24.1-75; 1982, c. 146; 1993, c. 641.
 
 ## Virginia § 24.2-202
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-202. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-202/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-202. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-202/*
 
-§ 24.2-202. Repealed
+§§ 24.2-202 through 24.2-205
+. Repealed.
 Repealed by Acts 2024, c.
 801
 , cl. 2, effective July 1, 2024.
 
 ## Virginia § 24.2-206
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-206. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-206/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-206. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-206/*
 
-§ 24.2-206. Election and term of United States Senators
+§ 24.2-206
+. Election and term of United States Senators.
 The qualified voters of the Commonwealth shall elect its members of the United States Senate at the general election held in November next preceding the expiration of each member's respective term of office, for terms of six years to begin on the January 3 following their election.
 Code 1950, § 24-1; 1970, c. 462, § 24.1-2; 1993, c. 641.
 
 ## Virginia § 24.2-207
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-207. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-207/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-207. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-207/*
 
-§ 24.2-207. Filling vacancies in Senate
+§ 24.2-207
+. Filling vacancies in Senate.
 When any vacancy occurs in the representation of the Commonwealth of Virginia in the United States Senate, the Governor shall issue a writ of election to fill the vacancy for the remainder of the unexpired term. The election shall be held on the next succeeding November general election date or, if the vacancy occurs within 120 days prior to that date, on the second succeeding November general election date. The Governor may make a temporary appointment to fill the vacancy until the qualified voters fill the same by election.
 Code 1950, § 24-2; 1970, c. 462, § 24.1-3; 1993, c. 641.
 
 ## Virginia § 24.2-208
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-208. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-208/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-208. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-208/*
 
-§ 24.2-208. Election and term of members of House of Representatives
+§ 24.2-208
+. Election and term of members of House of Representatives.
 The qualified voters of each congressional district shall elect one member of the United States House of Representatives at the general election in November 1994, and every second year thereafter, for the term of two years to begin on the January 3 following his election.
 Code 1950, § 24-5; 1970, c. 462, § 24.1-6; 1993, c. 641.
 
 ## Virginia § 24.2-209
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-209. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-209/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-209. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-209/*
 
-§ 24.2-209. Filling vacancies in House of Representatives
+§ 24.2-209
+. Filling vacancies in House of Representatives.
 When any vacancy occurs in the representation of the Commonwealth of Virginia in the House of Representatives, or when a representative-elect dies or resigns, the Governor shall issue a writ of election to fill the vacancy. Upon receipt of written notification by a representative or representative-elect of his resignation as of a stated date, the Governor may immediately issue a writ to call the election. The representative's or representative-elect's resignation shall not be revocable after the date stated by him for his resignation or after the forty-fifth day before the date set for the special election.
 Code 1950, § 24-6; 1970, c. 462, § 24.1-7; 1983, c. 461; 1993, c. 641; 2003, c.
 1015
@@ -1528,20 +1858,126 @@ Code 1950, § 24-6; 1970, c. 462, § 24.1-7; 1983, c. 461; 1993, c. 641; 2003, c
 645
 .
 
+## Virginia § 24.2-209.1
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-209.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-209.1/*
+
+§ 24.2-209.1
+. Agreement Among the States to Elect the President by National Popular Vote; form of compact.
+The Agreement Among the States to Elect the President by National Popular Vote is enacted into law and entered into with all other jurisdictions legally joining therein in the form substantially as follows:
+ARTICLE I. Membership.
+Any state of the United States and the District of Columbia may become a member of this agreement by enacting this agreement.
+ARTICLE II. Right of the People in Member States to Vote for President and Vice President.
+Each member state shall conduct a statewide popular election for President and Vice President of the United States.
+ARTICLE III. Manner of Appointing Presidential Electors in Member States.
+Prior to the time set by law for the meeting and voting by the presidential electors, the chief election official of each member state shall determine the number of votes for each presidential slate in each state of the United States and in the District of Columbia in which votes have been cast in a statewide popular election and shall add such votes together to produce a "national popular vote total" for each presidential slate.
+The chief election official of each member state shall designate the presidential slate with the largest national popular vote total as the "national popular vote winner."
+The presidential elector certifying official of each member state shall certify the appointment in that official's own state of the elector slate nominated in that state in association with the national popular vote winner.
+At least six days before the day fixed by law for the meeting and voting by the presidential electors, each member state shall make a final determination of the number of popular votes cast in the state for each presidential slate and shall communicate an official statement of such determination within 24 hours to the chief election official of each other member state.
+The chief election official of each member state shall treat as conclusive an official statement containing the number of popular votes in a state for each presidential slate made by the day established by federal law for making a state's final determination conclusive as to the counting of electoral votes by Congress.
+In event of a tie for the national popular vote winner, the presidential elector certifying official of each member state shall certify the appointment of the elector slate nominated in association with the presidential slate receiving the largest number of popular votes within that official's own state.
+If, for any reason, the number of presidential electors nominated in a member state in association with the national popular vote winner is less than or greater than that state's number of electoral votes, the presidential candidate on the presidential slate that has been designated as the national popular vote winner shall have the power to nominate the presidential electors for that state, and that state's presidential elector certifying official shall certify the appointment of such nominees.
+The chief election official of each member state shall immediately release to the public all vote counts or statements of votes as they are determined or obtained.
+This article shall govern the appointment of presidential electors in each member state in any year in which this agreement is, on July 20, in effect in states cumulatively possessing a majority of the electoral votes.
+ARTICLE IV. Other Provisions.
+This agreement shall take effect when states cumulatively possessing a majority of the electoral votes have enacted this agreement in substantially the same form and the enactments by such states have taken effect in each state.
+Any member state may withdraw from this agreement, except that a withdrawal occurring six months or less before the end of a President's term shall not become effective until a President or Vice President shall have been qualified to serve the next term.
+The chief executive of each member state shall promptly notify the chief executive of all other states of when this agreement has been enacted and has taken effect in that official's state, when the state has withdrawn from this agreement, and when this agreement takes effect generally.
+This agreement shall terminate if the electoral college is abolished.
+If any provision of this agreement is held invalid, the remaining provisions shall not be affected.
+ARTICLE V. Definitions.
+For purposes of this agreement:
+"Chief election official" shall mean the state official or body that is authorized to certify the total number of popular votes for each presidential slate.
+"Chief executive" shall mean the governor of a state of the United States or the mayor of the District of Columbia.
+"Elector slate" shall mean a slate of candidates who have been nominated in a state for the position of presidential elector in association with a presidential slate.
+"Presidential elector" shall mean an elector for President and Vice President of the United States.
+"Presidential elector certifying official" shall mean the state official or body that is authorized to certify the appointment of the state's presidential electors.
+"Presidential slate" shall mean a slate of two persons, the first of whom has been nominated as a candidate for President of the United States and the second of whom has been nominated as a candidate for Vice President of the United States, or any legal successors to such persons, regardless of whether both names appear on the ballot presented to the voter in a particular state.
+"State" shall mean a state of the United States and the District of Columbia.
+"Statewide popular election" shall mean a general election in which votes are cast for presidential slates by individual voters and counted on a statewide basis.
+2026, cc.
+715
+,
+716
+.
+§
+24.2-209.1
+. Agreement Among the States to Elect the President by National Popular Vote; form of compact.
+The Agreement Among the States to Elect the President by National Popular Vote is enacted into law and entered into with all other jurisdictions legally joining therein in the form substantially as follows:
+ARTICLE I. Membership.
+Any state of the United States and the District of Columbia may become a member of this agreement by enacting this agreement.
+ARTICLE II. Right of the People in Member States to Vote for President and Vice President.
+Each member state shall conduct a statewide popular election for President and Vice President of the United States.
+ARTICLE III. Manner of Appointing Presidential Electors in Member States.
+Prior to the time set by law for the meeting and voting by the presidential electors, the chief election official of each member state shall determine the number of votes for each presidential slate in each state of the United States and in the District of Columbia in which votes have been cast in a statewide popular election and shall add such votes together to produce a "national popular vote total" for each presidential slate.
+The chief election official of each member state shall designate the presidential slate with the largest national popular vote total as the "national popular vote winner."
+The presidential elector certifying official of each member state shall certify the appointment in that official's own state of the elector slate nominated in that state in association with the national popular vote winner.
+At least six days before the day fixed by law for the meeting and voting by the presidential electors, each member state shall make a final determination of the number of popular votes cast in the state for each presidential slate and shall communicate an official statement of such determination within 24 hours to the chief election official of each other member state.
+The chief election official of each member state shall treat as conclusive an official statement containing the number of popular votes in a state for each presidential slate made by the day established by federal law for making a state's final determination conclusive as to the counting of electoral votes by Congress.
+In event of a tie for the national popular vote winner, the presidential elector certifying official of each member state shall certify the appointment of the elector slate nominated in association with the presidential slate receiving the largest number of popular votes within that official's own state.
+If, for any reason, the number of presidential electors nominated in a member state in association with the national popular vote winner is less than or greater than that state's number of electoral votes, the presidential candidate on the presidential slate that has been designated as the national popular vote winner shall have the power to nominate the presidential electors for that state, and that state's presidential elector certifying official shall certify the appointment of such nominees.
+The chief election official of each member state shall immediately release to the public all vote counts or statements of votes as they are determined or obtained.
+This article shall govern the appointment of presidential electors in each member state in any year in which this agreement is, on July 20, in effect in states cumulatively possessing a majority of the electoral votes.
+ARTICLE IV. Other Provisions.
+This agreement shall take effect when states cumulatively possessing a majority of the electoral votes have enacted this agreement in substantially the same form and the enactments by such states have taken effect in each state.
+Any member state may withdraw from this agreement, except that a withdrawal occurring six months or less before the end of a President's term shall not become effective until a President or Vice President shall have been qualified to serve the next term.
+The chief executive of each member state shall promptly notify the chief executive of all other states of when this agreement has been enacted and has taken effect in that official's state, when the state has withdrawn from this agreement, and when this agreement takes effect generally.
+This agreement shall terminate if the electoral college is abolished.
+If any provision of this agreement is held invalid, the remaining provisions shall not be affected.
+ARTICLE V. Definitions.
+For purposes of this agreement:
+"Chief election official" shall mean the state official or body that is authorized to certify the total number of popular votes for each presidential slate.
+"Chief executive" shall mean the governor of a state of the United States or the mayor of the District of Columbia.
+"Elector slate" shall mean a slate of candidates who have been nominated in a state for the position of presidential elector in association with a presidential slate.
+"Presidential elector" shall mean an elector for President and Vice President of the United States.
+"Presidential elector certifying official" shall mean the state official or body that is authorized to certify the appointment of the state's presidential electors.
+"Presidential slate" shall mean a slate of two persons, the first of whom has been nominated as a candidate for President of the United States and the second of whom has been nominated as a candidate for Vice President of the United States, or any legal successors to such persons, regardless of whether both names appear on the ballot presented to the voter in a particular state.
+"State" shall mean a state of the United States and the District of Columbia.
+"Statewide popular election" shall mean a general election in which votes are cast for presidential slates by individual voters and counted on a statewide basis.
+2026, cc.
+715
+,
+716
+.
+
+## Virginia § 24.2-209.2
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-209.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-209.2/*
+
+§ 24.2-209.2
+. Appointment of presidential electors pursuant to Agreement.
+When the Agreement Among the States to Elect the President by National Popular Vote (Agreement) governs the appointment of presidential electors for a presidential election as provided in the ninth clause of Article III of that Agreement, as provided for in § 24.2-209.1, the provisions of that Agreement shall supersede any conflicting provisions of the laws of the Commonwealth.
+2026, cc.
+715
+,
+716
+.
+§
+24.2-209.2
+. Appointment of presidential electors pursuant to Agreement.
+When the Agreement Among the States to Elect the President by National Popular Vote (Agreement) governs the appointment of presidential electors for a presidential election as provided in the ninth clause of Article III of that Agreement, as provided for in § 24.2-209.1, the provisions of that Agreement shall supersede any conflicting provisions of the laws of the Commonwealth.
+2026, cc.
+715
+,
+716
+.
+
 ## Virginia § 24.2-210
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-210. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-210/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-210. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-210/*
 
-§ 24.2-210. Election and term of Governor, Lieutenant Governor, and Attorney General
+§ 24.2-210
+. Election and term of Governor, Lieutenant Governor, and Attorney General.
 The qualified voters of the Commonwealth shall elect the Governor, Lieutenant Governor, and Attorney General at the general election in November 1997, and every fourth year thereafter for terms of four years, to commence on the Saturday after the second Wednesday in January following their election.
 The person having the highest number of votes for each office shall be declared elected. If two or more have the highest and an equal number of votes for an office, one of them shall be chosen for the office by a majority of the total membership of the General Assembly.
 Code 1950, §§ 24-148, 24-149; 1962, c. 536; 1970, c. 462, §§ 24.1-80, 24.1-81; 1971, Ex. Sess., cc. 119, 131; 1993, c. 641.
 
 ## Virginia § 24.2-211
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-211. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-211/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-211. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-211/*
 
-§ 24.2-211. Discharge of duties when office of Governor is vacant or Governor is disabled
+§ 24.2-211
+. Discharge of duties when office of Governor is vacant or Governor is disabled.
 When the Governor-elect is disqualified, resigns, or dies following his election but prior to taking office, the Lieutenant Governor-elect shall succeed to the office of Governor for the full term. When the Governor-elect fails to assume office for any other reason, the Lieutenant Governor-elect shall serve as acting Governor.
 Whenever the Governor transmits to the President pro tempore of the Senate and the Speaker of the House of Delegates his written declaration that he is unable to discharge the powers and duties of his office and until he transmits to them a written declaration to the contrary, such powers and duties shall be discharged by the Lieutenant Governor as acting Governor.
 Whenever the Attorney General, the President pro tempore of the Senate, and the Speaker of the House of Delegates, or a majority of the total membership of the General Assembly, transmit to the Clerk of the Senate and the Clerk of the House of Delegates their written declaration that the Governor is unable to discharge the powers and duties of his office, the Lieutenant Governor shall immediately assume the powers and duties of the office as acting Governor.
@@ -1552,41 +1988,46 @@ Code 1950, § 24-150; 1960, c. 488; 1970, c. 462, § 24.1-82; 1971, Ex. Sess., c
 
 ## Virginia § 24.2-212
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-212. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-212/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-212. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-212/*
 
-§ 24.2-212. Discharge of duties when office of Lieutenant Governor vacant
+§ 24.2-212
+. Discharge of duties when office of Lieutenant Governor vacant.
 When a vacancy occurs in the office of Lieutenant Governor, the duties of that office shall be discharged by the President pro tempore of the Senate, but he shall not by reason thereof be deprived of his right to act and vote as a member of the Senate.
 Code 1950, § 24-152; 1970, c. 462, § 24.1-84; 1973, c. 30; 1993, c. 641.
 
 ## Virginia § 24.2-213
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-213. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-213/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-213. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-213/*
 
-§ 24.2-213. Filling vacancy in office of Attorney General
+§ 24.2-213
+. Filling vacancy in office of Attorney General.
 If a vacancy occurs in the office of Attorney General during the session of the General Assembly, the General Assembly shall fill the vacancy by a majority vote of the total membership. If a vacancy occurs during a recess of the General Assembly, the Governor shall appoint a successor to serve for the remainder of the unexpired term or until the end of thirty days after the commencement of the next session of the General Assembly, whichever happens first. At that next session, the General Assembly shall fill the vacancy by election by a majority vote of the total membership for the unexpired portion of the term.
 Code 1950, § 24-153; 1970, c. 462, § 24.1-85; 1993, c. 641.
 
 ## Virginia § 24.2-214
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-214. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-214/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-214. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-214/*
 
-§ 24.2-214. Election and term of Senators
+§ 24.2-214
+. Election and term of Senators.
 The members of the Senate of Virginia shall be elected at the general election in November 1995, and every four years thereafter for terms of four years, to begin on the second Wednesday in January succeeding their election.
 Code 1950, § 24-13; 1970, c. 462, § 24.1-13; 1993, c. 641.
 
 ## Virginia § 24.2-215
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-215. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-215/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-215. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-215/*
 
-§ 24.2-215. Election and term of members of the House of Delegates
+§ 24.2-215
+. Election and term of members of the House of Delegates.
 The members of the House of Delegates shall be elected at the general election in November 1995, and every two years thereafter for terms of two years, to begin on the second Wednesday in January succeeding their election.
 Code 1950, § 24-11; 1958, c. 333; 1970, c. 462, § 24.1-11; 1993, c. 641.
 
 ## Virginia § 24.2-216
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-216. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-216/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-216. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-216/*
 
-§ 24.2-216. Filling vacancies in the General Assembly
+§ 24.2-216
+. Filling vacancies in the General Assembly.
 When a vacancy occurs in the membership of the General Assembly during the recess of the General Assembly or when a member-elect to the next General Assembly dies, resigns, or becomes legally incapacitated to hold office prior to its meeting, the Governor shall issue a writ of election to fill the vacancy. If the vacancy occurs during the session of the General Assembly, the Speaker of the House of Delegates or the President pro tempore of the Senate, as the case may be, shall issue the writ unless the respective house by rule or resolution shall provide otherwise. Upon receipt of written notification by a member or member-elect of his resignation as of a stated date, the Governor, Speaker, or President Pro Tempore, as the case may be, may immediately issue the writ to call the election. The writ shall be issued within 30 days of the vacancy or receipt of notification of the vacancy, whichever comes first. If the vacancy occurs or will occur between December 10 and March 1, the writ shall order the special election to be held no more than 30 days from the date of such vacancy. The member's or member-elect's resignation shall not be revocable after the date stated by him for his resignation or after the forty-fifth day before the date set for the special election.
 The writ shall be directed to the secretaries of the electoral boards and the general registrars of the respective counties and cities composing the district for which the election is to be held.
 Notwithstanding any provision of law to the contrary, no election to fill a vacancy shall be ordered or held if the general or special election at which it is to be called is scheduled within 75 days of the end of the term of the office to be filled.
@@ -1606,9 +2047,10 @@ Code 1950, § 24-16; 1970, c. 462, § 24.1-16; 1983, c. 461; 1993, c. 641; 2003,
 
 ## Virginia § 24.2-217
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-217. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-217/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-217. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-217/*
 
-§ 24.2-217. Election and terms of constitutional officers
+§ 24.2-217
+. Election and terms of constitutional officers.
 The qualified voters of each county shall elect a sheriff, an attorney for the Commonwealth, a treasurer, and a commissioner of the revenue at the general election in November 1995, and every four years thereafter unless a county has adopted an optional form of government which provides that the office be abolished or a county's charter so provides. The qualified voters of each city, unless its charter provides otherwise, shall elect a sheriff, an attorney for the Commonwealth, a treasurer, and a commissioner of the revenue at the general election in November 1997, and every four years thereafter. All shall hold office for a term of four years beginning the January 1 next succeeding their election.
 The qualified voters of the several counties shall elect a clerk of the circuit court of the county at the general election in November 1999, and every eight years thereafter. The qualified voters of each city having a circuit court shall elect a clerk of the circuit court at the November 1995, general election and every eight years thereafter. They shall hold office for a term of eight years beginning the January 1 next succeeding their election.
 If a county and city share any of the offices to which this section applies, the qualified voters of the city shall cast their votes for that office according to the schedule set forth above for counties.
@@ -1616,9 +2058,10 @@ Code 1950, §§ 24-154, 24-155, 24-161, 24-162, 24-167; 1970, c. 462, §§ 24.1-
 
 ## Virginia § 24.2-218
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-218. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-218/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-218. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-218/*
 
-§ 24.2-218. Election and term of county supervisors
+§ 24.2-218
+. Election and term of county supervisors.
 A. The qualified voters of each county election district shall elect one or more supervisors at the general election in November 1995, and every four years thereafter for terms of four years, except as provided in §
 24.2-219
 or as provided by law for those counties having the optional form of government under the provisions of Article 2 (§
@@ -1631,9 +2074,10 @@ Code 1950, § 24-157; 1968, c. 639; 1970, c. 462, § 24.1-88; 1971, Ex. Sess., c
 
 ## Virginia § 24.2-219
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-219. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-219/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-219. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-219/*
 
-§ 24.2-219. Alternative for biennial county supervisor elections and staggered terms
+§ 24.2-219
+. Alternative for biennial county supervisor elections and staggered terms.
 A. The governing body of any county may by ordinance provide that the county board of supervisors be elected biennially for staggered four-year terms.
 In lieu of an ordinance by the board of supervisors, the registered voters of the county may file a petition with the circuit court of the county requesting that a referendum be held on the question of whether the county board of supervisors should be elected biennially for staggered four-year terms. The petition shall be signed by registered voters equal in number to at least ten percent of the number registered in the county on the January 1 preceding its filing.
 The court pursuant to §§
@@ -1663,9 +2107,10 @@ Code 1950, § 24-157; 1968, c. 639; 1970, c. 462, § 24.1-88; 1971, Ex. Sess., c
 
 ## Virginia § 24.2-220
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-220. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-220/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-220. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-220/*
 
-§ 24.2-220. Reversion to quadrennial elections
+§ 24.2-220
+. Reversion to quadrennial elections.
 The governing body of any county, by ordinance, may repeal an ordinance previously adopted to provide for the election of the board of supervisors biennially for staggered four-year terms and provide for the election of the board of supervisors quadrennially for four-year terms. The qualified voters of the county, by petition and referendum in accordance with the requirements and procedures set forth in §
 24.2-219
 , may repeal an ordinance of the board or a referendum previously adopted which authorized the election of the board of supervisors biennially for four-year terms. The question in the referendum to rescind shall be:
@@ -1677,9 +2122,10 @@ Code 1950, § 24-157; 1968, c. 639; 1970, c. 462, § 24.1-88; 1971, Ex. Sess., c
 
 ## Virginia § 24.2-221
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-221. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-221/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-221. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-221/*
 
-§ 24.2-221. Time and frequency of referenda on election and term of supervisors
+§ 24.2-221
+. Time and frequency of referenda on election and term of supervisors.
 A referendum as provided in §
 24.2-219
 or §
@@ -1689,9 +2135,10 @@ Code 1950, § 24-157; 1968, c. 639; 1970, c. 462, § 24.1-88; 1971, Ex. Sess., c
 
 ## Virginia § 24.2-222
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-222. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-222/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-222. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-222/*
 
-§ 24.2-222. Election and terms of mayor and council for cities and towns
+§ 24.2-222
+. Election and terms of mayor and council for cities and towns.
 A. The qualified voters of each city and town shall elect a mayor, if so provided by charter, and a council for the terms provided by charter. Notwithstanding any other provision of law, general or special, in a city or town that imposes district-based or ward-based residency requirements for members of the city or town council, the member elected from each district or ward shall be elected by the qualified voters of that district or ward and not by the locality at large.
 B. Except as provided in §
 24.2-222.1
@@ -1704,9 +2151,10 @@ Code 1950, §§ 24-160, 24-168; 1970, c. 462, § 24.1-90; 1971, Ex. Sess., c. 11
 
 ## Virginia § 24.2-222.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-222.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-222.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-222.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-222.1/*
 
-§ 24.2-222.1. Alternative election of mayor and council at November general election in cities and towns
+§ 24.2-222.1
+. Alternative election of mayor and council at November general election in cities and towns.
 A. Notwithstanding the provisions of §
 24.2-222
 , and notwithstanding any contrary provisions of a city or town charter, the council of a city or town may provide by ordinance that the mayor, if an elected mayor is provided for by charter, and council shall be elected at the November general election date of any cycle as designated in the ordinance, for terms to commence January 1. No such ordinance shall be adopted between January 1 and the May general election date of the year in which city or town elections regularly are scheduled to be held therein.
@@ -1731,9 +2179,10 @@ D. In any city or town that elects its council biennially or quadrennially and t
 
 ## Virginia § 24.2-223
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-223. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-223/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-223. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-223/*
 
-§ 24.2-223. Election and term of school board members
+§ 24.2-223
+. Election and term of school board members.
 In any county, city or town wherein members of the school board are elected, pursuant to Article 7 (§
 22.1-57.1
 et seq.) of Chapter 5 of Title 22.1, elections shall be held to coincide with the election of members of the governing body at the regular general election in November or the regular general election in May, as the case may be. Elected school board members shall serve terms that are the same as those of the governing body, to commence on January 1 following their election or July 1 following their election, as the case may be.
@@ -1746,25 +2195,28 @@ Notwithstanding any other provision of law, general or special, in a locality th
 
 ## Virginia § 24.2-224
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-224. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-224/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-224. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-224/*
 
-§ 24.2-224. Local elections not otherwise provided for
+§ 24.2-224
+. Local elections not otherwise provided for.
 The election to any public office required to be filled by the qualified voters of any county, city, town, or election district for which an election time is not provided by law shall be held at the general election immediately preceding the time provided for the term of such office to commence.
 Code 1950, § 24-143; 1970, c. 462, § 24.1-74; 1993, c. 641.
 
 ## Virginia § 24.2-225
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-225. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-225/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-225. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-225/*
 
-§ 24.2-225. Applicability
+§ 24.2-225
+. Applicability.
 This article applies to vacancies in any elected constitutional or local office if there is no other statutory or charter provision for filling a vacancy in the office. Further provisions within this article which specifically override other statutory or charter provisions shall prevail.
 Code 1950, § 24-145; 1958, c. 621; 1970, c. 462, § 24.1-76; 1975, c. 515; 1976, c. 616; 1977, c. 490; 1984, c. 480; 1993, c. 641.
 
 ## Virginia § 24.2-226
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-226. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-226/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-226. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-226/*
 
-§ 24.2-226. Election to fill vacancy
+§ 24.2-226
+. Election to fill vacancy.
 A. A vacancy in any elected local office, whether occurring when for any reason an officer-elect does not take office or occurring after an officer begins his term, shall be filled as provided by §
 24.2-228
 or for constitutional officers as provided in §
@@ -1800,9 +2252,10 @@ Code 1950, §§ 24-145, 24-147.1; 1958, c. 621; 1970, c. 462, §§ 24.1-76, 24.1
 
 ## Virginia § 24.2-227
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-227. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-227/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-227. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-227/*
 
-§ 24.2-227. Interim appointment by court until vacancy filled by election for certain offices
+§ 24.2-227
+. Interim appointment by court until vacancy filled by election for certain offices.
 When a vacancy occurs in any local elected office other than a constitutional office, local governing body, or an elected school board, a majority of the judges of the judicial circuit for the county or city in which it occurs shall make an interim appointment to the office until the vacancy can be filled by special election. The senior judge shall make the appointment if a majority of the judges cannot agree. The chief or senior deputy, if there is one in the office, shall perform all the duties of the office until the person appointed to fill the vacancy has qualified. The person so appointed shall hold office until the qualified voters fill the vacancy by election and the person so elected has qualified.
 Code 1950, § 24-145; 1958, c. 621; 1970, c. 462, § 24.1-76; 1975, c. 515; 1976, c. 616; 1977, c. 490; 1984, c. 480; 1993, c. 641; 1996, c.
 873
@@ -1814,9 +2267,10 @@ Code 1950, § 24-145; 1958, c. 621; 1970, c. 462, § 24.1-76; 1975, c. 515; 1976
 
 ## Virginia § 24.2-228
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-228. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-228/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-228. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-228/*
 
-§ 24.2-228. Interim appointment to local governing body or elected school board; elected mayor
+§ 24.2-228
+. Interim appointment to local governing body or elected school board; elected mayor.
 A. When a vacancy occurs in a local governing body or an elected school board, the remaining members of the body or board, respectively, within 45 days of the office becoming vacant, may appoint a qualified voter of the election district in which the vacancy occurred to fill the vacancy. At least seven days prior to making such interim appointment, the body or board shall hold a public meeting in accordance with §
 2.2-3707
 at which the body or board shall announce the names of all persons being proposed for the interim appointment and shall make available for inspection each person's resume and any other materials required by the body or board. If a majority of the remaining members of the body or board cannot agree, or do not act, the judges of the circuit court of the county or city may make the appointment.
@@ -1849,9 +2303,10 @@ before attending the first meeting of the governing body or school board held af
 
 ## Virginia § 24.2-228.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-228.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-228.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-228.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-228.1/*
 
-§ 24.2-228.1. Election to fill vacancy in constitutional office
+§ 24.2-228.1
+. Election to fill vacancy in constitutional office.
 A. Notwithstanding any provision of a charter to the contrary, a vacancy in any elected constitutional office, whether occurring when for any reason an officer-elect does not take office or occurring after an officer begins his term, shall be filled by special election, except as provided in subsection B. Within 15 days of the occurrence of the vacancy, the governing body of the county or city in which the vacancy occurs shall petition the circuit court to issue a writ of election to fill the vacancy as set forth in Article 5 (§
 24.2-681
 et seq.) of Chapter 6. Either upon receipt of the petition or on its own motion, the court shall promptly issue the writ ordering the election for a date determined pursuant to §
@@ -1891,9 +2346,10 @@ G. The absence from the county or city of a constitutional officer by reason of 
 
 ## Virginia § 24.2-229
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-229. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-229/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-229. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-229/*
 
-§ 24.2-229. Appointees to qualify and give bond in thirty days
+§ 24.2-229
+. Appointees to qualify and give bond in thirty days.
 All officers appointed to fill vacancies shall qualify and give bond, if bond is required, within thirty days after their appointment in like manner as provided in §§
 15.2-1522
 and
@@ -1903,9 +2359,10 @@ Code 1950, § 24-146; 1970, c. 462, § 24.1-77; 1975, c. 515; 1993, c. 641.
 
 ## Virginia § 24.2-229.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-229.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-229.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-229.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-229.1/*
 
-§ 24.2-229.1. Legitimacy of votes by appointees
+§ 24.2-229.1
+. Legitimacy of votes by appointees.
 All votes cast prior to July 1, 2010, by persons duly appointed to fill a vacancy pursuant to this article, including votes appropriating money in excess of $500, imposing taxes, or authorizing the borrowing of moneys, are hereby validated and confirmed as the lawful vote of an elected member of the governing body.
 2010, c.
 624
@@ -1913,9 +2370,10 @@ All votes cast prior to July 1, 2010, by persons duly appointed to fill a vacanc
 
 ## Virginia § 24.2-230
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-230. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-230/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-230. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-230/*
 
-§ 24.2-230. Applicability of article; certain exceptions
+§ 24.2-230
+. Applicability of article; certain exceptions.
 This article shall apply to all elected or appointed Commonwealth, constitutional, and local officers, except officers for whose removal the Constitution of Virginia specifically provides.
 However, an appointed officer shall be removed from office only by the person or authority who appointed him unless he is sentenced for a crime as provided for in §
 24.2-231
@@ -1939,9 +2397,10 @@ or to officers of election who may be removed from office by the local electoral
 
 ## Virginia § 24.2-231
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-231. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-231/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-231. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-231/*
 
-§ 24.2-231. Forfeiture of office by person sentenced for commission of certain crimes
+§ 24.2-231
+. Forfeiture of office by person sentenced for commission of certain crimes.
 Any person holding any public office of honor, profit, or trust in this Commonwealth who is convicted of a felony or any offense for which registration is required as defined in §
 9.1-902
 and for whom all rights of appeal under Virginia law have expired, shall by such final conviction forfeit his office or post and thereafter may not act therein under his previous election or appointment. A pardon which may be afterwards granted him shall not void the forfeiture.
@@ -1951,25 +2410,31 @@ Code 1950, § 2.1-36; 1966, c. 677; 1975, cc. 515, 595, § 24.1-79.3; 1993, c. 6
 
 ## Virginia § 24.2-232
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-232. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-232/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-232. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-232/*
 
-§ 24.2-232. Vacancy occurring when officer determined "mentally incompetent" (incapacitated)
-A person who is determined to be incapacitated in a judicial proceeding as provided for in Chapter 20 (§
+§ 24.2-232
+. Vacancy occurring when officer adjudicated to lack capacity to understanding voting.
+The office of any person who is adjudicated to lack the capacity to understand the act of voting in a judicial proceeding as provided for in Chapter 20 (§
 64.2-2000
-et seq.) of Title 64.2 shall be deemed for purposes of Article II, Section 1 of the Constitution of Virginia and this title to be "mentally incompetent" as that term is used in those provisions. The office of any person who is so determined to be incapacitated, shall become vacant and the vacancy filled in the manner provided by law. Notwithstanding the provisions of Chapter 20 (§
+et seq.) of Title 64.2 shall become vacant and the vacancy filled in the manner provided by law. Notwithstanding the provisions of Chapter 20 (§
 64.2-2000
 et seq.) of Title 64.2, however, any officer shall have a jury trial unless it is waived by him or for him by his counsel of record.
 1975, cc. 515, 595, § 24.1-79.4; 1993, c. 641; 1997, c.
 921
 ; 1998, c.
 582
+; 2026, cc.
+442
+,
+443
 .
 
 ## Virginia § 24.2-233
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-233. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-233/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-233. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-233/*
 
-§ 24.2-233. Removal of elected and certain appointed officers by courts
+§ 24.2-233
+. Removal of elected and certain appointed officers by courts.
 Upon petition, a circuit court may remove from office any elected officer or officer who has been appointed to fill an elective office, residing within the jurisdiction of the court:
 1. For neglect of a clear, ministerial duty of the office, misuse of the office, or incompetence in the performance of the duties of the office when that neglect of duty, misuse of office, or incompetence in the performance of duties has a material adverse effect upon the conduct of the office;
 2. Upon conviction of a misdemeanor pursuant to Article 1 (§
@@ -2022,9 +2487,10 @@ Any person removed from office under the provisions of subdivision 2, 3, or 4 ma
 
 ## Virginia § 24.2-234
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-234. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-234/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-234. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-234/*
 
-§ 24.2-234. Removal of officer appointed for a term certain
+§ 24.2-234
+. Removal of officer appointed for a term certain.
 Any officer appointed to an office for a term established by law may be removed from office, under the provisions of §
 24.2-233
 , upon a petition filed with the circuit court in whose jurisdiction the officer resides signed by the person or a majority of the members of the authority who appointed him, if the appointing person or authority is not given the unqualified power of removal.
@@ -2040,9 +2506,10 @@ Any officer appointed to an office for a term established by law may be removed 
 
 ## Virginia § 24.2-234.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-234.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-234.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-234.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-234.1/*
 
-§ 24.2-234.1. Removal of members of local electoral boards and general registrars
+§ 24.2-234.1
+. Removal of members of local electoral boards and general registrars.
 A. Any member of a local electoral board may be removed from office by the circuit court in whose jurisdiction he resides upon a petition signed by a majority of the members of the State Board as provided in §
 24.2-103
 . The circuit court shall proceed with such removal in accordance with the provisions of §
@@ -2066,9 +2533,10 @@ C. Any member of a local electoral board or general registrar against whom a pet
 
 ## Virginia § 24.2-235
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-235. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-235/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-235. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-235/*
 
-§ 24.2-235. Procedure
+§ 24.2-235
+. Procedure.
 A. A petition for the removal of an officer shall be on a form prescribed by the State Board of Elections and shall state with reasonable accuracy and detail the grounds or reasons for removal and shall be signed by the person or persons making it under penalties of perjury. The petition shall be filed together with either (i) three paper copies or (ii) an electronic copy. The clerk shall promptly provide a paper or electronic copy of the petition to the officer who is the subject of the removal petition, the attorney for the Commonwealth, and, for a removal petition filed pursuant to §
 24.2-233
 , the general registrar. If the subject of the petition is the attorney for the Commonwealth, the Chief Justice of the Supreme Court of Virginia shall appoint an alternate attorney for the Commonwealth to receive the copy of the petition.
@@ -2112,9 +2580,10 @@ to consider the removal of the officer. If upon trial it is determined by clear 
 
 ## Virginia § 24.2-236
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-236. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-236/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-236. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-236/*
 
-§ 24.2-236. Suspension from office pending hearing and appeal
+§ 24.2-236
+. Suspension from office pending hearing and appeal.
 In the event of a judicial proceeding under §
 24.2-231
 ,
@@ -2138,9 +2607,10 @@ In the event of a judicial proceeding under §
 
 ## Virginia § 24.2-237
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-237. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-237/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-237. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-237/*
 
-§ 24.2-237. Who to represent Commonwealth; trial by jury; appeal
+§ 24.2-237
+. Who to represent Commonwealth; trial by jury; appeal.
 The attorney for the Commonwealth shall represent the Commonwealth in all proceedings under this article. If the proceeding is against the attorney for the Commonwealth, the court shall appoint an attorney to represent the Commonwealth. The Commonwealth and the officer shall be the only parties to the action. Any officer proceeded against shall have the right to demand a trial by jury. The Commonwealth and the officer shall each have the right to appeal to the Court of Appeals upon the record made in the trial court and the Court of Appeals shall consider and determine such cases.
 1975, cc. 515, 595, § 24.1-79.9; 1993, c. 641; 2021, Sp. Sess. I, c.
 489
@@ -2152,9 +2622,10 @@ The attorney for the Commonwealth shall represent the Commonwealth in all procee
 
 ## Virginia § 24.2-238
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-238. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-238/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-238. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2/section24.2-238/*
 
-§ 24.2-238. Costs
+§ 24.2-238
+. Costs.
 A. If a judicial proceeding under this article is dismissed in favor of the officer, the court in its discretion may require the state agency or political subdivision that the officer serves to pay court costs or reasonable attorney fees, or both, for the officer.
 B. No person who signs a petition for the removal of an official pursuant to §
 24.2-233
@@ -2173,9 +2644,10 @@ or who circulates such a petition (i) shall be liable for any costs associated w
 
 ## Virginia § 24.2-240
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-240. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-240/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-240. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2.1/section24.2-240/*
 
-§ 24.2-240. Qualifications of electors; oath
+§ 24.2-240
+. Qualifications of electors; oath.
 Each nominated elector selected pursuant to this article shall, at the time of his nomination and until the conclusion of the day electors cast their votes in the Electoral College, be a citizen of the United States and a legal resident of the Commonwealth, and shall subscribe to an oath, which shall be notarized, that he is, in fact, a citizen of the United States and a legal resident of the Commonwealth, and that he will, if elected, cast his ballot in the Electoral College for the candidates for President and Vice President of the United States as set forth in subsection A or B of § 24.2-241 or pursuant to § 24.2-242, as applicable, or as such political party or group of qualified voters may direct in the event of the death, withdrawal, or disqualification of a candidate of that party or group. The State Board shall also be furnished, if it requests, with satisfactory evidence that any individual undertaking to act as an elector under this chapter is, in fact, qualified and duly and properly authorized to do so.
 2024, c.
 801
@@ -2183,9 +2655,10 @@ Each nominated elector selected pursuant to this article shall, at the time of h
 
 ## Virginia § 24.2-241
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-241. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-241/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-241. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2.1/section24.2-241/*
 
-§ 24.2-241. State Board to be furnished names of nominated electors selected by political parties; certain national conventions; vacancies
+§ 24.2-241
+. State Board to be furnished names of nominated electors selected by political parties; certain national conventions; vacancies.
 A. In elections for President and Vice President of the United States, the appropriate chairman or secretary of each political party as defined in §
 24.2-101
 shall furnish to the State Board by noon on the seventy-fourth day before the presidential election (i) the names of the individuals nominated to be electors by the party at its convention held for that purpose, with the total number of its nominated electors equaling the whole number of senators and representatives to which the Commonwealth at that time is entitled in the Congress of the United States, together with the names of the political party and of the candidates for President and Vice President for whom the nominated electors are required to vote in the Electoral College, and (ii) a copy of the subscribed and notarized oath required by § 24.2-240.
@@ -2197,9 +2670,10 @@ C. In the event of the death, withdrawal, or disqualification of a candidate of 
 
 ## Virginia § 24.2-242
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-242. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-242/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-242. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2.1/section24.2-242/*
 
-§ 24.2-242. How other groups may submit names of electors; oaths of electors
+§ 24.2-242
+. How other groups may submit names of electors; oaths of electors.
 A. A group of qualified voters, not constituting a political party as defined in §
 24.2-101
 , may have the names of nominated electors selected by them, which shall include one elector residing in each congressional district and two from the Commonwealth at large, printed upon the official ballot to be used in the election of electors for President and Vice President by filing a petition pursuant to this section.
@@ -2220,19 +2694,28 @@ The State Board shall develop procedures for the conduct of such an appeal. The 
 
 ## Virginia § 24.2-243
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-243. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-243/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-243. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2.1/section24.2-243/*
 
-§ 24.2-243. Electors for President and Vice President
-The qualified voters of the Commonwealth shall choose the Commonwealth's electors for President and Vice President of the United States at the general election in November 2024 and every fourth year thereafter. Each voter shall vote for a number of electors that equals the whole number of senators and representatives to which the Commonwealth at the time is entitled in the Congress of the United States.
+§ 24.2-243
+. Electors for President and Vice President.
+A. Balloting for the Commonwealth's electors for President and Vice President of the United States shall occur at the general election in November 2028 and every fourth year thereafter. The number of electors to be appointed shall equal the whole number of senators and representatives to which the Commonwealth at the time is entitled in the Congress of the United States.
+B. The manner of appointing such electors shall be as follows:
+1. When the Agreement Among the States to Elect the President by National Popular Vote does not govern the appointment of presidential electors, a vote cast for a presidential-vice-presidential slate shall be deemed to be a vote for each of the elector candidates nominated by the political party or group of qualified voters that nominated that presidential-vice-presidential slate. The Commonwealth's electors for President and Vice President of the United States shall be the elector candidates who receive the highest number of votes in the Commonwealth in the balloting conducted pursuant to subsection A.
+2. When the Agreement Among the States to Elect the President by National Popular Vote governs the appointment of the Commonwealth's presidential electors, the Commonwealth's electors shall be the elector candidates determined in accordance with the procedures of § 24.2-209.1 using the number of votes in the balloting for President conducted pursuant to subsection A.
 2024, c.
 801
+; 2026, cc.
+715
+,
+716
 .
 
 ## Virginia § 24.2-244
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-244. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-244/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-244. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2.1/section24.2-244/*
 
-§ 24.2-244. Convening of electors; filling vacancies; how electors required to vote
+§ 24.2-244
+. Convening of electors; filling vacancies; how electors required to vote.
 A. The electors shall convene at the Capitol building in the capital city of the Commonwealth at noon on the first Tuesday after the second Wednesday in December following their election.
 B. Those electors present shall immediately fill, by ballot and by a plurality of votes, any vacancy due to death, withdrawal, disqualification, failure or inability to attend, or other cause. When all electors are present and any vacancies have been filled, they shall proceed to perform the duties required of such electors by the Constitution and laws of the United States.
 C. Electors selected by the state convention of any political party as defined in §
@@ -2248,9 +2731,10 @@ shall be deemed to vacate the office of elector. Such vacancy shall be filled im
 
 ## Virginia § 24.2-245
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-245. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-245/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-245. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2.1/section24.2-245/*
 
-§ 24.2-245. Election of electors and meeting when Congress prescribes a different day
+§ 24.2-245
+. Election of electors and meeting when Congress prescribes a different day.
 If Congress establishes a different day for choosing electors, or appoints a different day for their meeting to give their votes, then the election shall be held and the meeting of the electors shall take place on those days.
 2024, c.
 801
@@ -2258,9 +2742,10 @@ If Congress establishes a different day for choosing electors, or appoints a dif
 
 ## Virginia § 24.2-246
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-246. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-246/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-246. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter2.1/section24.2-246/*
 
-§ 24.2-246. Pay of electors
+§ 24.2-246
+. Pay of electors.
 Each elector shall receive the sum of $50 per day while actually engaged in the discharge of his official duties and the same mileage as is allowed to members of the General Assembly.
 2024, c.
 801
@@ -2268,99 +2753,110 @@ Each elector shall receive the sum of $50 per day while actually engaged in the 
 
 ## Virginia § 24.2-300
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-300. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-300/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-300. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-300/*
 
-§ 24.2-300. Repealed
+§§ 24.2-300 through 24.2-301.1
+. Repealed.
 Repealed by Acts 2004, c.
 1000
 .
 
 ## Virginia § 24.2-302
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-302. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-302/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-302. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-302/*
 
-§ 24.2-302. Repealed
+§ 24.2-302
+. Repealed.
 Repealed by Acts 2001, Sp. Sess. I, c.
 7
 , cl. 2, effective July 19, 2001.
 
 ## Virginia § 24.2-302.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-302.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-302.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-302.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-302.1/*
 
-§ 24.2-302.1. Repealed
+§ 24.2-302.1
+. Repealed.
 Repealed by Acts 2012, c.
 1
 , cl. 2, effective January 25, 2012.
 
 ## Virginia § 24.2-302.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-302.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-302.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-302.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-302.2/*
 
-§ 24.2-302.2. Repealed
+§ 24.2-302.2
+. Repealed.
 Repealed by Acts 2023, c.
 455
 , cl. 2.
 
 ## Virginia § 24.2-303
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-303. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-303/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-303. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-303/*
 
-§ 24.2-303. Repealed
+§ 24.2-303
+. Repealed.
 Repealed by Acts 2001, Sp. Sess. I, c.
 2
 .
 
 ## Virginia § 24.2-303.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-303.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-303.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-303.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-303.1/*
 
-§ 24.2-303.1. Repealed
+§§ 24.2-303.1, 24.2-303.2
+. Repealed.
 Repealed by Acts 2011, Sp. Sess. I, c.
 1
 , cl. 2, effective April 29, 2011.
 
 ## Virginia § 24.2-303.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-303.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-303.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-303.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-303.3/*
 
-§ 24.2-303.3. Repealed
+§ 24.2-303.3
+. Repealed.
 Repealed by Acts 2023, c.
 455
 , cl. 2.
 
 ## Virginia § 24.2-304
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304/*
 
-§ 24.2-304. Repealed
+§ 24.2-304
+. Repealed.
 Repealed by Acts 2001, Sp. Sess. I, c.
 1
 .
 
 ## Virginia § 24.2-304.01
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.01. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.01/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.01. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.01/*
 
-§ 24.2-304.01. Repealed
+§§ 24.2-304.01, 24.2-304.02
+. Repealed.
 Repealed by Acts 2011, Sp. Sess. I, c.
 1
 , cl. 2, effective April 29, 2011.
 
 ## Virginia § 24.2-304.03
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.03. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.03/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.03. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.03/*
 
-§ 24.2-304.03. Repealed
+§ 24.2-304.03
+. Repealed.
 Repealed by Acts 2023, c.
 455
 , cl. 2.
 
 ## Virginia § 24.2-304.04
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.04. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.04/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.04. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.04/*
 
-§ 24.2-304.04. Standards and criteria for congressional and state legislative districts
+§ 24.2-304.04
+. Standards and criteria for congressional and state legislative districts.
 Every congressional and state legislative district shall be constituted so as to adhere to the following criteria:
 1. Districts shall be so constituted as to give, as nearly as is practicable, representation in proportion to the population of the district. A deviation of no more than five percent shall be permitted for state legislative districts.
 2. Districts shall be drawn in accordance with the requirements of the Constitution of the United States, including the Equal Protection Clause of the Fourteenth Amendment, and the Constitution of Virginia; federal and state laws, including the federal Voting Rights Act of 1965, as amended; and relevant judicial decisions relating to racial and ethnic fairness.
@@ -2381,9 +2877,10 @@ for this purpose.
 
 ## Virginia § 24.2-304.05
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.05. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.05/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.05. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.05/*
 
-§ 24.2-304.05. Legal boundaries of congressional and state legislative districts
+§ 24.2-304.05
+. Legal boundaries of congressional and state legislative districts.
 A. There shall be 11 Virginia members of the United States House of Representatives elected from 11 congressional districts, and each district is entitled to one representative. The district numbers and boundaries of the 11 congressional districts shall be those designated in the block equivalency file and resulting shapefile that is the electronic version of the districts established pursuant to Article II, § 6-A of the Constitution of Virginia and Chapter 62 (§
 30-391
 et seq.) of Title 30.
@@ -2400,15 +2897,17 @@ D. The block equivalency files and shapefiles for a congressional, senate, or Ho
 
 ## Virginia § 24.2-304.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.1/*
 
-§ 24.2-304.1. At-large and district elections; reapportionment and redistricting of districts or wards; limits
+§ 24.2-304.1
+. At-large and district elections; reapportionment and redistricting of districts or wards; limits.
 A. Except as otherwise specifically limited by general law or special act, the governing body of each county, city, or town may provide by ordinance for the election of its members on any of the following bases: (i) at large from the county, city, or town; (ii) from single-member or multi-member districts or wards, or any combination thereof; or (iii) from any combination of at-large, single-member, and multi-member districts or wards. A change in the basis for electing the members of the governing body shall not constitute a change in the form of county government.
 B. If the members are elected from districts or wards and other than entirely at large from the locality, the districts or wards shall be composed of contiguous and compact territory and shall be so constituted as to give, as nearly as is practicable, representation in proportion to the population of the district or ward. In 1971 and every 10 years thereafter, the governing body of each such locality shall reapportion the representation among the districts or wards, including, if the governing body deems it appropriate, increasing or diminishing the number of such districts or wards, in order to give, as nearly as is practicable, representation on the basis of population.
 C. For the purposes of redistricting and reapportioning representation in 2021 and every 10 years thereafter, the governing body of a county, city, or town shall use the most recent decennial population figures for such county, city, or town from the United States Bureau of the Census, as adjusted by the Division of Legislative Services pursuant to §
 24.2-314
 . The census data for these redistricting and apportionment purposes will not include any population figure that is not allocated to specific census blocks within the Commonwealth, even though that population may have been included in the apportionment population figures of the Commonwealth for the purpose of allocating United States House of Representatives seats among the states.
-D. Notwithstanding any other provision of general law or special act, the governing body of a county, city, or town shall not reapportion the representation in the governing body at any time other than that required following the decennial census, except as (i) provided by law upon a change in the boundaries of the county, city, or town that results in an increase or decrease in the population of the county, city, or town of more than one percent, (ii) the result of a court order, (iii) the result of a change in the form of government, or (iv) the result of an increase or decrease in the number of districts or wards other than at-large districts or wards. The foregoing provisions notwithstanding, the governing body subsequent to the decennial redistricting may adjust district or ward boundaries in order that the boundaries might coincide with state legislative or congressional district boundaries; however, no adjustment shall affect more than five percent of the population of a ward or district or 250 persons, whichever is lesser. If districts created by a reapportionment enacted subsequent to a decennial reapportionment are invalid under the provisions of this subsection, the immediately preexisting districts shall remain in force and effect until validly reapportioned in accordance with law.
+D. Notwithstanding any other provision of general law or special act, the governing body of a county, city, or town shall not reapportion the representation in the governing body at any time other than that required following the decennial census, except as (i) provided by law upon a change in the boundaries of the county, city, or town that results in an increase or decrease in the population of the county, city, or town of more than one percent; (ii) the result of a court order; (iii) the result of a change in the form of government; or (iv) the result of an increase or decrease in the number of districts or wards other than at-large districts or wards. The foregoing provisions notwithstanding, the governing body subsequent to the decennial redistricting may adjust district or ward boundaries in order that the boundaries might coincide with state legislative or congressional district boundaries; however, no adjustment shall affect more than five percent of the population of a ward or district or 250 persons, whichever is lesser. If districts created by a reapportionment enacted subsequent to a decennial reapportionment are invalid under the provisions of this subsection, the immediately preexisting districts shall remain in force and effect until validly reapportioned in accordance with law.
+E. Notwithstanding the provisions of subsection A, any local government charter, or any other provision of law, general or special, for municipal elections held after July 1, 2026, every locality with a population of 400,000 or greater shall elect its members of the governing body by individual single-member districts. A governing body's presiding officer may be elected at large.
 1995, c.
 249
 ; 2000, c.
@@ -2425,13 +2924,16 @@ D. Notwithstanding any other provision of general law or special act, the govern
 1229
 ,
 1265
+; 2026, c.
+862
 .
 
 ## Virginia § 24.2-304.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.2/*
 
-§ 24.2-304.2. Governing body authorized to expend funds for reapportionment
+§ 24.2-304.2
+. Governing body authorized to expend funds for reapportionment.
 The governing body of each county, city, or town is authorized to expend funds and employ persons as it may deem necessary to carry out the responsibilities relating to reapportionment provided by law.
 1995, c.
 249
@@ -2439,9 +2941,10 @@ The governing body of each county, city, or town is authorized to expend funds a
 
 ## Virginia § 24.2-304.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.3/*
 
-§ 24.2-304.3. Recording reapportionment ordinance; notice requirements
+§ 24.2-304.3
+. Recording reapportionment ordinance; notice requirements.
 A copy of the ordinance reapportioning representation in the governing body of a county, city, or town, including a description of the boundaries and a map showing the boundaries of the districts or wards, shall be recorded in the official minutes of the governing body.
 The clerk of the county, city, or town shall send a certified copy of the ordinance, including a description of the boundaries and a Geographic Information System (GIS) map showing the boundaries of the districts or wards, to the local electoral board, the Secretary of the Commonwealth, the Department of Elections, and the Division of Legislative Services. Any county, city, or town that does not have GIS capabilities may request the Department of Elections to create on its behalf a GIS map showing the boundaries of the districts or wards as set out in the ordinance, and the Department of Elections shall create such a map.
 1995, c.
@@ -2454,9 +2957,10 @@ The clerk of the county, city, or town shall send a certified copy of the ordina
 
 ## Virginia § 24.2-304.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.4/*
 
-§ 24.2-304.4. Mandamus action for failure to reapportion districts or wards
+§ 24.2-304.4
+. Mandamus action for failure to reapportion districts or wards.
 Whenever the governing body of any county, city or town fails to perform the duty of reapportioning the representation on the governing body among the districts or wards of the county, city, or town, or fails to change the boundaries of districts or wards, as prescribed by law, mandamus shall lie in favor of any citizen of such county, city, or town, to compel the performance of such duty.
 Whenever the governing body of any county, city or town changes the boundaries, or increases or diminishes the number of districts or wards, or reapportions the representation in the governing body as prescribed by law, the action shall not be subject to judicial review, unless it is alleged that the representation is not proportional to the population of the district or ward. If such allegation is made in a bill of complaint filed in the circuit court for the county, city or town, the court shall determine whether the action of the governing body complies with the constitutional requirements for redistricting and reapportionment. Appeals from the court's decision shall be as in any other suit.
 1995, c.
@@ -2465,9 +2969,10 @@ Whenever the governing body of any county, city or town changes the boundaries, 
 
 ## Virginia § 24.2-304.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.5/*
 
-§ 24.2-304.5. Notification of certain civil actions
+§ 24.2-304.5
+. Notification of certain civil actions.
 Any county, city, or town made a defendant in any civil action challenging the legality of its election district boundaries shall immediately notify the Attorney General of the pending civil action for review pursuant to §
 2.2-508
 .
@@ -2477,9 +2982,10 @@ Any county, city, or town made a defendant in any civil action challenging the l
 
 ## Virginia § 24.2-304.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-304.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-304.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-304.6/*
 
-§ 24.2-304.6. Effect of reapportionment on appointments and terms of local officers, school board and planning commission members
+§ 24.2-304.6
+. Effect of reapportionment on appointments and terms of local officers, school board and planning commission members.
 County, city, or town officers, including members of the school board or planning commission, in office on the effective date of a reapportionment or redistricting ordinance, shall complete their terms of office, regardless of loss of residency in a particular district due to reapportionment or redistricting.
 1995, c.
 249
@@ -2487,9 +2993,10 @@ County, city, or town officers, including members of the school board or plannin
 
 ## Virginia § 24.2-305
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-305. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-305/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-305. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-305/*
 
-§ 24.2-305. Composition of election districts and precincts
+§ 24.2-305
+. Composition of election districts and precincts.
 A. Each election district and precinct shall be composed of compact and contiguous territory and shall have clearly defined and clearly observable boundaries.
 B. A "clearly observable boundary" shall include (i) any named road or street, (ii) any road or highway which is a part of the federal, primary, or secondary state highway system, (iii) any river, stream, or drainage feature shown as a polygon boundary on the TIGER/line files of the United States Bureau of the Census, or (iv) any other natural or constructed or erected permanent physical feature which is shown on an official map issued by the Virginia Department of Transportation, on a United States Geological Survey topographical map, or as a polygon boundary on the TIGER/line files of the United States Bureau of the Census. No property line or subdivision boundary shall be deemed to be a clearly observable boundary unless it is marked by a permanent physical feature that is shown on an official map issued by the Virginia Department of Transportation, on a United States Geological Survey topographical map, or as a polygon boundary on the TIGER/line files of the United States Bureau of the Census.
 1986, c. 593, § 24.1-40.7; 1990, c. 500; 1992, c. 425; 1993, c. 641; 2001, c.
@@ -2498,9 +3005,10 @@ B. A "clearly observable boundary" shall include (i) any named road or street, (
 
 ## Virginia § 24.2-306
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-306. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-306/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-306. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-306/*
 
-§ 24.2-306. Changes not to be enacted within 60 days of general election; notice requirements
+§ 24.2-306
+. Changes not to be enacted within 60 days of general election; notice requirements.
 A. No change in any local election district, precinct, or polling place shall be enacted within 60 days next preceding any general election. Notice shall be published prior to enactment in a newspaper having general circulation in the election district or precinct once a week for two successive weeks. The published notice shall state where descriptions and maps of proposed boundary and polling place changes may be inspected.
 B. Notice of any adopted change in any election district, town, precinct, or polling place other than in the location of the office of the general registrar shall be mailed to all registered voters whose election district, town, precinct, or polling place is changed at least 30 days prior to the next general, special, or primary election in which the voters will be voting in the changed election district, town, precinct, or polling place.
 Notice of a change in the location of a polling place shall also be posted, to the extent practicable, at the location last used for such polling place on the day of the first primary election and first general election conducted in the new location. This notice shall also include information on how voters may find their polling place.
@@ -2540,9 +3048,10 @@ Code 1950, §§ 24-49 through 24-51; 1970, c. 462, § 24.1-39; 1971, Ex. Sess., 
 
 ## Virginia § 24.2-307
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-307. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-307/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-307. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-307/*
 
-§ 24.2-307. Requirements for county and city precincts
+§ 24.2-307
+. Requirements for county and city precincts.
 The governing body of each county and city shall establish by ordinance as many precincts as it deems necessary. Each governing body is authorized to increase or decrease the number of precincts and alter precinct boundaries subject to the requirements of this chapter.
 At the time any precinct is established, it shall have no more than 5,000 registered voters. The general registrar shall notify the governing body whenever the number of voters who voted in a precinct in an election for President of the United States exceeds 4,000. Within six months of receiving the notice, the governing body shall proceed to revise the precinct boundaries, and any newly established or redrawn precinct shall have no more than 5,000 registered voters.
 At the time any precinct is established, each precinct in a county shall have no fewer than 100 registered voters and each precinct in a city shall have no fewer than 500 registered voters.
@@ -2558,9 +3067,10 @@ Code 1950, §§ 24-45, 24-46; 1954, c. 375; 1956, c. 378; 1962, cc. 185, 536; 19
 
 ## Virginia § 24.2-308
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-308. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-308/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-308. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-308/*
 
-§ 24.2-308. Requirements for town precincts
+§ 24.2-308
+. Requirements for town precincts.
 There shall be one precinct for each town unless the council by ordinance establishes more than one precinct.
 Each town precinct shall be wholly contained within any election district used for the election of one or more council or school board members.
 The council shall establish by ordinance one polling place for each precinct.
@@ -2568,36 +3078,39 @@ Code 1950, § 24-171; 1970, c. 462, § 24.1-92; 1978, c. 778; 1980, c. 639; 1981
 
 ## Virginia § 24.2-309
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-309. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-309/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-309. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-309/*
 
-§ 24.2-309. Establishment of precinct with less than minimum number of voters; conduct of elections where all voters do not have same choice of candidates
+§ 24.2-309
+. Establishment of precinct with less than minimum number of voters; conduct of elections where all voters do not have same choice of candidates.
 A precinct may be established with fewer than the minimum number of registered voters required by this article if a larger precinct cannot be established in which all persons are voting at any general election for the same candidates for the governing body and school board of the county or city, House of Delegates, state Senate, and United States House of Representatives. The governing body may select a polling place within one mile of the boundaries of that precinct if a suitable polling place is not available within that precinct.
 The State Board shall make regulations setting procedures by which elections may be conducted in precincts in which all voters do not have the same choice of candidates at a general election.
 1971, Ex. Sess., c. 264, § 24.1-40; 1993, c. 641.
 
 ## Virginia § 24.2-309.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-309.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-309.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-309.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-309.1/*
 
-§ 24.2-309.1. Repealed
+§ 24.2-309.1
+. Repealed.
 Repealed by Acts 2001, c.
 614
 .
 
 ## Virginia § 24.2-309.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-309.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-309.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-309.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-309.2/*
 
-§ 24.2-309.2. Election precincts; prohibiting precinct changes for specified period of time
-No county, city, or town shall create, divide, abolish, or consolidate any precincts, or otherwise change the boundaries of any precinct, effective during the period from February 1, 2019, to May 15, 2021, except as (i) provided by law upon a change in the boundaries of the county, city, or town, (ii) the result of a court order, (iii) the result of a change in the form of government, or (iv) the result of an increase or decrease in the number of local election districts other than at-large districts. Any ordinance required to comply with the requirements of §
+§ 24.2-309.2
+. Election precincts; prohibiting precinct changes for specified period of time.
+No county, city, or town shall create, divide, abolish, or consolidate any precincts, or otherwise change the boundaries of any precinct, effective during the period from February 1, 2026, to June 19, 2026, except as (i) provided by law upon a change in the boundaries of the county, city, or town, (ii) the result of a court order, (iii) the result of a change in the form of government, or (iv) the result of an increase or decrease in the number of local election districts other than at-large districts. Any ordinance required to comply with the requirements of §
 24.2-307
-shall be adopted on or before February 1, 2019.
+shall be adopted on or before February 1, 2026.
 If a change in the boundaries of a precinct is required pursuant to clause (i), (ii), (iii), or (iv), the county, city, or town shall comply with the applicable requirements of law, including §§
 24.2-304.3
 and
 30-395
 , and send copies of the ordered or enacted changes to the State Board of Elections and the Division of Legislative Services.
-This section shall not prohibit any county, city, or town from adopting an ordinance revising precinct boundaries after January 1, 2021. However, no revisions in precinct boundaries shall be implemented in the conduct of elections prior to May 15, 2021.
+This section shall not prohibit any county, city, or town from adopting an ordinance revising precinct boundaries after January 1, 2026. However, no revisions in precinct boundaries shall be implemented in the conduct of elections prior to June 19, 2026.
 2008, c.
 112
 ; 2018, cc.
@@ -2608,13 +3121,16 @@ This section shall not prohibit any county, city, or town from adopting an ordin
 56
 ; 2022, Sp. Sess. I, c.
 1
+; 2026, c.
+7
 .
 
 ## Virginia § 24.2-310
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-310. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-310/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-310. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-310/*
 
-§ 24.2-310. Requirements for polling places
+§ 24.2-310
+. Requirements for polling places.
 A. The polling place for each precinct shall be located within the county or city and either within the precinct or within one mile of the precinct boundary, unless a waiver has been granted pursuant to subsection G. The polling place for a county precinct may be located within a city (i) if the city is wholly contained within the county election district served by the precinct or (ii) if the city is wholly contained within the county and the polling place is located on property owned by the county. The polling place for a town precinct may be located within one mile of the precinct and town boundary. For town elections held in November, the town shall use the polling places established by the county for its elections.
 B. The governing body of each county, city, and town shall provide funds to enable the general registrar to provide adequate facilities at each polling place for the conduct of elections. Each polling place shall be located in a public building whenever practicable. If more than one polling place is located in the same building, each polling place shall be located in a separate room or separate and defined space.
 C. Polling places shall be accessible to qualified voters as required by the provisions of the Virginians with Disabilities Act (§
@@ -2666,9 +3182,10 @@ Code 1950, §§ 24-45, 24-46, 24-171, 24-179 through 24-181; 1954, c. 375; 1956,
 
 ## Virginia § 24.2-310.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-310.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-310.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-310.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-310.1/*
 
-§ 24.2-310.1. Polling places; additional requirement
+§ 24.2-310.1
+. Polling places; additional requirement.
 The requirement stated in this section shall be in addition to requirements stated in §§
 24.2-307
 ,
@@ -2680,9 +3197,10 @@ The requirement stated in this section shall be in addition to requirements stat
 
 ## Virginia § 24.2-311
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-311. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-311/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-311. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-311/*
 
-§ 24.2-311. Effective date of decennial redistricting measures; elections following decennial redistricting
+§ 24.2-311
+. Effective date of decennial redistricting measures; elections following decennial redistricting.
 A. Legislation enacted to accomplish the decennial redistricting of congressional and General Assembly districts required by Article II, § 6 of the Constitution of Virginia shall take effect immediately. Members of Congress and the General Assembly in office on the effective date of the decennial redistricting legislation shall complete their terms of office. The elections for their successors shall be held at the November general election next preceding the expiration of the terms of office of the incumbent members and shall be conducted on the basis of the districts set out in the legislation to accomplish the decennial redistricting. However, (i) if the decennial redistricting of congressional districts has not been enacted and approved for implementation pursuant to § 5 of the United States Voting Rights Act of 1965 before January 1 of the year of the election for statewide office, the previously enacted congressional districts shall remain in effect for the purpose of meeting the petition signature requirements set out in §§
 24.2-242
 ,
@@ -2710,9 +3228,10 @@ E. In the event of a conflict between the provisions of a decennial redistrictin
 
 ## Virginia § 24.2-312
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-312. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-312/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-312. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-312/*
 
-§ 24.2-312. Effective date of other redistricting measures; elections following annexation
+§ 24.2-312
+. Effective date of other redistricting measures; elections following annexation.
 A. Any redistricting, other than the decennial redistricting, of any county, city, or town shall be effective at midnight December 31 of the year in which the redistricting occurs.
 B. Members of county, city, and town governing bodies in office when any such redistricting measure is adopted shall complete their terms of office. The elections for their successors shall be held at the general election next preceding the expiration of the terms of office of the incumbent members and shall be conducted on the basis of the districts set out in the measures to accomplish the redistricting.
 C. When a county has been redistricted as a result of annexation and the redistricting occurs in the year of a regularly scheduled November general election for members of the county's board of supervisors, the November general election shall be conducted from the newly established districts so long as the redistricting measure has been adopted prior to March 15 of the year of the election.
@@ -2723,9 +3242,10 @@ D. When a city or town has been redistricted as a result of annexation and the r
 
 ## Virginia § 24.2-313
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-313. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-313/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-313. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-313/*
 
-§ 24.2-313. Rescheduling of certain local elections following the decennial redistricting of districts for the governing body
+§ 24.2-313
+. Rescheduling of certain local elections following the decennial redistricting of districts for the governing body.
 A. Notwithstanding any other provision of law to the contrary, elections for members of the governing body or school board of any county, city, or town that would be held on a regularly scheduled date for a general election, but are delayed because the decennial redistricting plan of such county, city, or town is not precleared by the Attorney General of the United States pursuant to § 5 of the federal Voting Rights Act at least thirty days prior to the general election, shall be held as provided in this section, unless otherwise provided by a court of competent jurisdiction. In the event the Attorney General grants preclearance at least thirty days prior to the general election, the election shall be held as scheduled and shall be conducted from the newly established districts. The provisions of this section shall not apply to any county, city, or town election scheduled to be held entirely on an at-large basis.
 B. In each such county, city, or town, such election shall be held on the first Tuesday (i) that is more than sixty days after the Attorney General of the United States issues a letter stating that he interposes no objection to a decennial redistricting plan approved and submitted by the county, city, or town; (ii) that is not the scheduled date of a primary election; and (iii) that is not within the sixty days before or the thirty-five days after a primary or general election.
 C. Independent candidates for such rescheduled elections shall qualify in the manner provided by §§
@@ -2751,44 +3271,78 @@ G. The term of members of any governing body affected by this act that would oth
 
 ## Virginia § 24.2-314
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-314. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-314/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-314. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter3/section24.2-314/*
 
-§ 24.2-314. Population data; reallocation of prison populations
+§ 24.2-314
+. Population data; reallocation of certain populations.
 A. Persons incarcerated in federal correctional facilities and in state and local correctional facilities, as those terms are defined in §
 53.1-1
-, shall be counted and reallocated for redistricting and reapportionment purposes in accordance with the provisions of this section and the following:
-1. A person incarcerated in a federal, state, or local correctional facility whose address at the time of incarceration was located within the Commonwealth shall be deemed to reside at such address.
-2. A person incarcerated in a federal, state, or local correctional facility whose address at the time of incarceration was located outside of the Commonwealth or whose address at the time of incarceration cannot be determined shall be deemed to reside at the location of the facility in which he is incarcerated.
+, or persons civilly committed to a facility operated by the Department of Behavioral Health and Developmental Services pursuant to Chapter 9 (§
+37.2-900
+et seq.) of Title 37.2 shall be counted and reallocated for redistricting and reapportionment purposes in accordance with the provisions of this section and the following:
+1. A person incarcerated in a federal, state, or local correctional facility or a person civilly committed to a facility operated by the Department of Behavioral Health and Developmental Services pursuant to Chapter 9 (§
+37.2-900
+et seq.) of Title 37.2 whose address at the time of incarceration or civil commitment was located within the Commonwealth shall be deemed to reside at such address.
+2. A person incarcerated in a federal, state, or local correctional facility or a person civilly committed to a facility operated by the Department of Behavioral Health and Developmental Services pursuant to Chapter 9 (§
+37.2-900
+et seq.) of Title 37.2 whose address at the time of incarceration or civil commitment was located outside of the Commonwealth or whose address at the time of incarceration or civil commitment cannot be determined shall be deemed to reside at the location of the facility in which he is incarcerated or civilly committed.
 B. By July 1 of any year in which the decennial census is taken, the Department of Corrections and the State Board of Local and Regional Jails shall provide to the Division of Legislative Services, in a format specified by the Division of Legislative Services, the following information for each person who was incarcerated in a state or local correctional facility on April 1 of that year:
 1. A unique identifier, other than his name or offender identification number, assigned by the Department of Corrections or the State Board of Local and Regional Jails for this purpose;
 2. His residential street address at the time of incarceration, or other legal residence, if known;
 3. His race, his ethnicity as identified by him, and whether he is 18 years of age or older; and
 4. The street address of the correctional facility in which he was incarcerated on April 1 of that year.
-C. The Division of Legislative Services shall request each agency operating a federal correctional facility in the Commonwealth that incarcerates persons convicted of a criminal offense to provide to the Division of Legislative Services by July 1 of any year in which the decennial census is taken a record containing the information specified in subsection B for each person who was incarcerated in the facility on April 1 of that year. Any person incarcerated in a federal correctional facility for whom a record is not received by the Division of Legislative Services shall be deemed to have an address at the time of incarceration that cannot be determined.
-D. The Division of Legislative Services shall prepare adjusted population data, including race and ethnicity data, in a manner that reflects the inclusion of incarcerated persons in the population count of the locality in which he is deemed to reside pursuant to subdivision A 1 or 2.
+C. By July 1 of any year in which the decennial census is taken, the Department of Behavioral Health and Developmental Services shall provide to the Division of Legislative Services, in a format specified by the Division of Legislative Services, the following information for each person who was civilly committed to a facility operated by the Department of Behavioral Health and Developmental Services pursuant to Chapter 9 (§
+37.2-900
+et seq.) of Title 37.2 on April 1 of that year:
+1. A unique identifier, other than his name, assigned by the Department of Behavioral Health and Developmental Services for this purpose;
+2. His residential street address at the time of commitment, or other legal residence, if known;
+3. His race, his ethnicity as identified by him, and whether he is 18 years of age or older; and
+4. The street address of the facility in which he was civilly committed on April 1 of that year.
+D. The Division of Legislative Services shall request each agency operating a federal correctional facility in the Commonwealth that incarcerates persons convicted of a criminal offense to provide to the Division of Legislative Services by July 1 of any year in which the decennial census is taken a record containing the information specified in subsection B for each person who was incarcerated in the facility on April 1 of that year. Any person incarcerated in a federal correctional facility for whom a record is not received by the Division of Legislative Services shall be deemed to have an address at the time of incarceration that cannot be determined.
+E. The Division of Legislative Services shall prepare adjusted population data, including race and ethnicity data, in a manner that reflects the inclusion of incarcerated and civilly committed persons in the population count of the locality in which he is deemed to reside pursuant to subdivision A 1 or 2.
 This adjusted population data shall be used for purposes of redistricting and reapportionment and shall be the basis for congressional, state Senate, House of Delegates, and local government election districts. This adjusted population data shall not be used in the distribution of any federal or state aid.
-E. The Division of Legislative Services shall make the adjusted population data available no later than 30 days following receipt of population data from the United States Bureau of the Census pursuant to P.L. 94-171. In making this data available, the Division of Legislative Services shall ensure no information regarding a specific incarcerated person's address at the time of incarceration is made public.
+F. The Division of Legislative Services shall make the adjusted population data available no later than 30 days following receipt of population data from the United States Bureau of the Census pursuant to P.L. 94-171. In making this data available, the Division of Legislative Services shall ensure no information regarding a specific incarcerated or civilly committed person's address at the time of incarceration or commitment is made public.
 2020, cc.
 759
 ,
 1229
 ,
 1265
+; 2026, cc.
+551
+,
+552
 .
 
 ## Virginia § 24.2-400
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-400. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-400/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-400. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-400/*
 
-§ 24.2-400. Persons entitled to register and vote
+§ 24.2-400
+. Persons entitled to register and vote.
 Any person who is not registered to vote, but would otherwise be a qualified voter, is entitled to register to vote as provided in this chapter. Any person who is registered to vote and is a qualified voter shall be entitled to vote in the precinct where he resides.
 Code 1950, §§ 24-17, 24-22, 24-23; 1963, Ex. Sess., c. 2; 1970, c. 462, § 24.1-41; 1971, Ex. Sess., cc. 205, 265; 1974, c. 428; 1977, c. 490; 1978, c. 778; 1993, c. 641.
 
+## Virginia § 24.2-400.1
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-400.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-400.1/*
+
+§ 24.2-400.1
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Persons entitled to register and vote; restoration of rights.
+Any person who is convicted of a felony and sentenced to a period of incarceration for such felony conviction shall not be entitled to register to vote or to vote for the duration of the period of incarceration, but he shall be invested with all political rights lost as a result of the felony conviction upon release from incarceration and shall be entitled to register to vote as provided in this chapter.
+2026, cc.
+992
+,
+1081
+.
+
 ## Virginia § 24.2-401
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-401. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-401/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-401. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-401/*
 
-§ 24.2-401. Persons moving from precinct
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-401
+. (Effective until July 1, 2027) Persons moving from precinct.
 A person who is qualified to vote except for having moved his residence from one precinct to another within the Commonwealth may vote in the precinct from which he has moved in the following November general election and any intervening election unless his registration has been transferred or cancelled as provided in this chapter. In addition, a person may continue to vote in the precinct from which he has moved through the ensuing second general election for federal office, provided that (i) he has moved his residence from one precinct to another in the same registrar's jurisdiction and the same congressional district; (ii) he has failed to respond to the notice provided in §
 24.2-428
 ; (iii) his registration has not been transferred or cancelled as provided in this chapter; and (iv) he has affirmed orally or in writing his new address before an officer of election at the polling place.
@@ -2799,21 +3353,36 @@ Code 1950, §§ 24-17, 24-22, 24-23; 1963, Ex. Sess., c. 2; 1970, c. 462, § 24.
 ; 1997, c.
 346
 .
+§
+24.2-401
+. (Effective July 1, 2027) Persons moving from precinct.
+A person who is qualified to vote except for having moved his residence from one precinct to another within the Commonwealth may vote in the precinct from which he has moved in the following November general election and any intervening election unless his registration has been transferred or cancelled as provided in this chapter. In addition, a person may continue to vote in the precinct from which he has moved through the ensuing second general election for federal office, provided that (i) he has moved his residence from one precinct to another in the same registrar's jurisdiction and the same congressional district; (ii) he has failed to respond to the notice provided in § 24.2-410.4; (iii) his registration has not been transferred or cancelled as provided in this chapter; and (iv) he has affirmed orally or in writing his new address before an officer of election at the polling place.
+Code 1950, §§ 24-17, 24-22, 24-23; 1963, Ex. Sess., c. 2; 1970, c. 462, § 24.1-41; 1971, Ex. Sess., cc. 205, 265; 1974, c. 428; 1977, c. 490; 1978, c. 778; 1993, c. 641; 1996, cc.
+72
+,
+73
+; 1997, c.
+346
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-402
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-402. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-402/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-402. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-402/*
 
-§ 24.2-402. Persons moving from Commonwealth fewer than thirty days before presidential election
+§ 24.2-402
+. Persons moving from Commonwealth fewer than thirty days before presidential election.
 A person who is qualified to vote except for having moved his residence from the Commonwealth after the thirtieth day preceding a presidential election may vote in the precinct from which he has moved only in that election and only for electors of President and Vice President of the United States.
 The officers of election shall deliver to any person who asks to vote under this section the paper ballot for electors of President and Vice President of the United States and no other ballot. The ballot shall be voted, handled, and counted with other like ballots in accordance with the provisions of this title.
 Code 1950, §§ 24-17, 24-22, 24-23; 1963, Ex. Sess., c. 2; 1970, c. 462, § 24.1-41; 1971, Ex. Sess., cc. 119, 205, 265, § 24.1-41.1; 1974, c. 428; 1977, c. 490; 1978, c. 778; 1993, c. 641.
 
 ## Virginia § 24.2-403
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-403. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-403/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-403. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-403/*
 
-§ 24.2-403. Persons under 18 years of age
+§ 24.2-403
+. Persons under 18 years of age.
 Any person who is otherwise qualified and will be 18 years of age on or before the day of the next general election shall be permitted to register in advance and also vote in any intervening primary or special election. Notwithstanding any other provision of law to the contrary, any person who is otherwise qualified and will be 18 years of age on or before the day of the next November general presidential election shall be permitted to register in advance of and also vote in any intervening presidential primary and any other primary held on the same day as the presidential primary.
 Code 1950, §§ 24-17, 24-22, 24-23; 1963, Ex. Sess., c. 2; 1970, c. 462, § 24.1-41; 1971, Ex. Sess., cc. 205, 265; 1974, c. 428; 1977, c. 490; 1978, c. 778; 1993, c. 641; 2004, c.
 481
@@ -2823,9 +3392,10 @@ Code 1950, §§ 24-17, 24-22, 24-23; 1963, Ex. Sess., c. 2; 1970, c. 462, § 24.
 
 ## Virginia § 24.2-403.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-403.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-403.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-403.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-403.1/*
 
-§ 24.2-403.1. Preregistration of persons 16 years of age or older
+§ 24.2-403.1
+. Preregistration of persons 16 years of age or older.
 Any person who is otherwise qualified and is 16 years of age or older, but who will not be 18 years of age on or before the day of the next general election, may preregister to vote. This preregistration shall not entitle a person 16 years of age or older to vote in any election except as provided in §
 24.2-403
 .
@@ -2835,9 +3405,11 @@ Any person who is otherwise qualified and is 16 years of age or older, but who w
 
 ## Virginia § 24.2-404
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-404/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-404/*
 
-§ 24.2-404. Duties of Department of Elections
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-404
+. (For contingent expiration date, see Acts 2026, cc. 992 and 1081, cl. 3) Duties of Department of Elections.
 A. The Department of Elections shall provide for the continuing operation and maintenance of a central recordkeeping system, the Virginia voter registration system, for all voters registered in the Commonwealth.
 In order to operate and maintain the system, the Department shall:
 1. Maintain a complete, separate, and accurate record of all registered voters in the Commonwealth. Such system shall automatically register a person who has preregistered pursuant to §
@@ -2849,45 +3421,34 @@ or reaching 18 years of age, whichever comes first. Such system shall also assig
 3. Provide to each general registrar voter confirmation documents for newly registered voters, including voters who were automatically registered pursuant to subdivision 1, and for notice to registered voters on the system of changes and corrections in their registration records and polling places.
 4. Require the general registrars to delete from the record of registered voters the name of any voter who (i) is deceased, (ii) is no longer qualified to vote in the county or city where he is registered due to removal of his residence, (iii) has been convicted of a felony, (iv) has been adjudicated incapacitated, (v) is known not to be a United States citizen by reason of reports from the Department of Motor Vehicles pursuant to §
 24.2-410.1
-or from the Department of Elections based on information received from the Systematic Alien Verification for Entitlements Program (SAVE Program) pursuant to subsection E, or (vi) is otherwise no longer qualified to vote as may be provided by law. Such action shall be taken no later than 30 days after notification from the Department. The Department shall promptly provide the information referred to in this subdivision, upon receiving it, to general registrars.
-5. Retain on the system for four years a separate record for registered voters whose names have been deleted, with the reason for deletion.
-6. Retain on the system permanently a separate record for information received regarding deaths, felony convictions, and adjudications of incapacity pursuant to §§
+or from the Department of Elections based on information received from the Systematic Alien Verification for Entitlements Program (SAVE Program) pursuant to subsection E, or (vi) is otherwise no longer qualified to vote as may be provided by law.
+5. Create a cancellation record, or direct the general registrars to create a record, to be retained on the system for at least four years, for each registered voter whose registration is cancelled, with the reason for cancellation. In accordance with the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.) and 52 U.S.C. § 20507(i), such cancellation records shall be made available for public inspection and copying.
+6. Create a record, or direct the general registrars to create a record, to be retained on the system for at least four years, for each person whose application to register to vote is denied, including those persons who apply to register to vote under the provisions of §
+24.2-420.1
+, with the reason for the denial. In accordance with the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.), such rejection records shall be made available for public inspection and copying.
+7. Retain on the system permanently a separate record for information received regarding deaths, felony convictions, and adjudications of incapacity pursuant to §§
 24.2-408
 through
 24.2-410
 .
-7. Provide to each general registrar, at least 16 days prior to a general or primary election and three days prior to a special election, an alphabetical list of all registered voters in each precinct or portion of a precinct in which the election is being held in the county, city, or town. These precinct lists shall be used as the official lists of qualified voters and shall constitute the pollbooks. The Department shall provide instructions for the division of the pollbooks and precinct lists into sections to accommodate the efficient processing of voter lines at the polls. Prior to any general, primary, or special election, the Department shall provide any general registrar, upon his request, with a separate electronic list of all registered voters in the registrar's county or city. If electronic pollbooks are used in the locality or electronic voter registration inquiry devices are used in precincts in the locality, the Department shall provide a regional or statewide list of registered voters to the general registrar of the locality. The Department shall determine whether regional or statewide data is provided. Neither the pollbook nor the regional or statewide list of registered voters shall include the day and month of birth of the voter, but shall include the voter's year of birth.
-8. Acquire by purchase, lease, or contract equipment necessary to execute the duties of the Department.
-9. Use any source of information that may assist in carrying out the purposes of this section. All agencies of the Commonwealth shall cooperate with the Department in procuring and exchanging identification information for the purpose of maintaining the voter registration system. The Department may share any information that it receives from another agency of the Commonwealth with any Chief Election Officer of another state for the maintenance of the voter registration system.
-10. Cooperate with other states and jurisdictions to develop systems to compare voters, voter history, and voter registration lists to ensure the accuracy of the voter registration rolls, to identify voters whose addresses have changed, to prevent duplication of registration in more than one state or jurisdiction, and to determine eligibility of individuals to vote in Virginia.
-11. Reprint and impose a reasonable charge for the sale of any part of Title 24.2, lists of precincts and polling places, statements of election results by precinct, and any other items required of the Department by law. Receipts from such sales shall be credited to the Board for reimbursement of printing expenses.
-B. The Department shall be authorized to provide for the production, distribution, and receipt of information and lists through the Virginia voter registration system by any appropriate means including, but not limited to, paper and electronic means. The Virginia Freedom of Information Act (§
+8. Provide to each general registrar, at least 16 days prior to a general or primary election and three days prior to a special election, an alphabetical list of all registered voters in each precinct or portion of a precinct in which the election is being held in the county, city, or town. These precinct lists shall be used as the official lists of qualified voters and shall constitute the pollbooks. The Department shall provide instructions for the division of the pollbooks and precinct lists into sections to accommodate the efficient processing of voter lines at the polls. Prior to any general, primary, or special election, the Department shall provide any general registrar, upon his request, with a separate electronic list of all registered voters in the registrar's county or city. If electronic pollbooks are used in the locality or electronic voter registration inquiry devices are used in precincts in the locality, the Department shall provide a regional or statewide list of registered voters to the general registrar of the locality. The Department shall determine whether regional or statewide data is provided. Neither the pollbook nor the regional or statewide list of registered voters shall include the day and month of birth of the voter, but shall include the voter's year of birth.
+9. Acquire by purchase, lease, or contract equipment necessary to execute the duties of the Department.
+10. Use any source of information that may assist in carrying out the purposes of this section. All agencies of the Commonwealth shall cooperate with the Department in procuring and exchanging identification information for the purpose of maintaining the voter registration system. The Department may share any information that it receives from another agency of the Commonwealth with any Chief Election Officer of another state for the maintenance of the voter registration system.
+11. In accordance with the provisions of § 24.2-410.3, cooperate with other states and jurisdictions to develop systems to compare voters, voter history, and voter registration lists to ensure the accuracy of the voter registration rolls, to identify voters whose addresses have changed, to prevent duplication of registration in more than one state or jurisdiction, and to determine eligibility of individuals to vote in Virginia.
+12. Reprint and impose a reasonable charge for the sale of any part of Title 24.2, lists of precincts and polling places, statements of election results by precinct, and any other items required of the Department by law. Receipts from such sales shall be credited to the Board for reimbursement of printing expenses.
+B. The Department shall be authorized to provide for the production, distribution, and receipt of information and lists through the Virginia voter registration system by any appropriate means including paper and electronic means. The Virginia Freedom of Information Act (§
 2.2-3700
 et seq.) shall not apply to records about individuals maintained in this system.
-C. The State Board shall institute procedures to ensure that each requirement of this section is fulfilled. As part of its procedures, the State Board shall provide that the general registrar shall mail notice of any cancellation pursuant to clause (v) of subdivision A 4 to the person whose registration is cancelled.
+C. The State Board shall institute procedures to ensure that each requirement of this section is fulfilled.
 D. The State Board shall promulgate rules and regulations to ensure the uniform application of the law for determining a person's residence.
-E. The Department shall apply to participate in the Systematic Alien Verification for Entitlements Program (SAVE Program) operated by U.S. Citizenship and Immigration Services of the U.S. Department of Homeland Security for the purposes of verifying that voters listed in the Virginia voter registration system are United States citizens. Upon approval of the application, the Department shall enter into any required memorandum of agreement with U.S. Citizenship and Immigration Services. The State Board shall promulgate rules and regulations governing the use of the immigration status and citizenship status information received from the SAVE Program.
-F. The Department shall report annually by October 1 for the preceding 12 months ending August 31 to the Committees on Privileges and Elections on each of its activities undertaken to maintain the Virginia voter registration system and the results of those activities. The Department's report shall be governed by the provisions of §
-2.2-608
-and shall encompass activities undertaken pursuant to subdivisions A 9 and 10 and subsection E and pursuant to §§
-24.2-404.3
-,
-24.2-404.4
-,
-24.2-408
-,
-24.2-409
-,
-24.2-409.1
-,
-24.2-410
-,
-24.2-410.1
-,
-24.2-427
-, and
-24.2-428
-. This report shall contain the methodology used in gathering and analyzing the data. The Commissioner of Elections shall certify that the data included in the report is accurate and reliable.
+E. The Department shall apply to participate in the Systematic Alien Verification for Entitlements Program (SAVE Program) operated by U.S. Citizenship and Immigration Services of the U.S. Department of Homeland Security for the sole purpose of individually verifying the current citizenship status of persons who provided documents pursuant to subsection E of §
+46.2-328.1
+. Upon approval of the application, the Department shall enter into any required memorandum of agreement with U.S. Citizenship and Immigration Services. The State Board shall promulgate rules and regulations governing the use of the immigration status and citizenship status information received from the SAVE Program. The Department shall not (i) use information received from the SAVE Program as the sole reason for rejecting a registration application, (ii) upload lists of registered voters to the SAVE Program for verifying citizenship status in bulk, or (iii) transfer any information to the U.S. Department of Homeland Security or any subdivision thereof beyond the minimum information necessary to use the SAVE Program for the purpose permitted by this subsection.
+F. Prior to entering into or terminating a memorandum of understanding, or modifying the terms of an existing memorandum of understanding, with any third party for the exchange of voter registration data for any purpose, the Commissioner of Elections shall submit the proposed memorandum of understanding, the reason for termination, or the proposed modifications, as appropriate, to the State Board for review and approval. Approval of such memorandum of understanding, or termination thereof, or modifications thereto, shall require a vote of two-thirds of the State Board. However, the provisions of this subsection do not apply to any data sharing agreements established between the Department and any other entity mandated by law to exchange data with the Department in order to operate and maintain the Virginia voter registration system.
 1970, c. 462, § 24.1-23; 1971, Ex. Sess., c. 119; 1972, c. 620; 1973, c. 30; 1974, cc. 369, 428; 1975, c. 515; 1976, c. 616; 1978, c. 778; 1983, c. 348; 1993, c. 641; 1997, c.
 801
 ; 2000, cc.
@@ -2938,13 +3499,119 @@ and shall encompass activities undertaken pursuant to subdivisions A 9 and 10 an
 217
 ; 2023, c.
 785
+; 2026, cc.
+1038
+,
+1120
+.
+§
+24.2-404
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Duties of Department of Elections.
+A. The Department of Elections shall provide for the continuing operation and maintenance of a central recordkeeping system, the Virginia voter registration system, for all voters registered in the Commonwealth.
+In order to operate and maintain the system, the Department shall:
+1. Maintain a complete, separate, and accurate record of all registered voters in the Commonwealth. Such system shall automatically register a person who has preregistered pursuant to §
+24.2-403.1
+upon that person becoming eligible for registration under §
+24.2-403
+or reaching 18 years of age, whichever comes first. Such system shall also assign a unique identifier to each voter registered in the system.
+2. Require the general registrars to enter the names of all registered voters into the system and to change or correct registration records as necessary.
+3. Provide to each general registrar voter confirmation documents for newly registered voters, including voters who were automatically registered pursuant to subdivision 1, and for notice to registered voters on the system of changes and corrections in their registration records and polling places.
+4. Require the general registrars to delete from the record of registered voters the name of any voter who (i) is deceased, (ii) is no longer qualified to vote in the county or city where he is registered due to removal of his residence, (iii) has been convicted of a felony and sentenced to a period of incarceration, (iv) has been adjudicated to lack the capacity to understand the act of voting, (v) is known not to be a United States citizen by reason of reports from the Department of Motor Vehicles pursuant to §
+24.2-410.1
+or from the Department of Elections based on information received from the Systematic Alien Verification for Entitlements Program (SAVE Program) pursuant to subsection E, or (vi) is otherwise no longer qualified to vote as may be provided by law.
+5. Create a cancellation record, or direct the general registrars to create a record, to be retained on the system for at least four years, for each registered voter whose registration is cancelled, with the reason for cancellation. In accordance with the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.) and 52 U.S.C. § 20507(i), such cancellation records shall be made available for public inspection and copying.
+6. Create  a record, or direct the general registrars to create a record, to be  retained on the system for at least four years, for each person whose application to register to vote is denied, including those persons who  apply to register to vote under the provisions of §
+24.2-420.1
+, with the reason for the denial. In accordance with the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.), such rejection records shall be made available for public inspection and copying.
+7. Retain on the system permanently a separate record for information received regarding deaths, felony convictions, and adjudications of incapacity pursuant to §§
+24.2-408
+through
+24.2-410
+.
+8. Provide to each general registrar, at least 16 days prior to a general or primary election and three days prior to a special election, an alphabetical list of all registered voters in each precinct or portion of a precinct in which the election is being held in the county, city, or town. These precinct lists shall be used as the official lists of qualified voters and shall constitute the pollbooks. The Department shall provide instructions for the division of the pollbooks and precinct lists into sections to accommodate the efficient processing of voter lines at the polls. Prior to any general, primary, or special election, the Department shall provide any general registrar, upon his request, with a separate electronic list of all registered voters in the registrar's county or city. If electronic pollbooks are used in the locality or electronic voter registration inquiry devices are used in precincts in the locality, the Department shall provide a regional or statewide list of registered voters to the general registrar of the locality. The Department shall determine whether regional or statewide data is provided. Neither the pollbook nor the regional or statewide list of registered voters shall include the day and month of birth of the voter, but shall include the voter's year of birth.
+9. Acquire by purchase, lease, or contract equipment necessary to execute the duties of the Department.
+10. Use any source of information that may assist in carrying out the purposes of this section. All agencies of the Commonwealth shall cooperate with the Department in procuring and exchanging identification information for the purpose of maintaining the voter registration system. The Department may share any information that it receives from another agency of the Commonwealth with any Chief Election Officer of another state for the maintenance of the voter registration system.
+11. In accordance with the provisions of § 24.2-410.3, cooperate with other states and jurisdictions to develop systems to compare voters, voter history, and voter registration lists to ensure the accuracy of the voter registration rolls, to identify voters whose addresses have changed, to prevent duplication of registration in more than one state or jurisdiction, and to determine eligibility of individuals to vote in Virginia.
+12. Reprint and impose a reasonable charge for the sale of any part of Title 24.2, lists of precincts and polling places, statements of election results by precinct, and any other items required of the Department by law. Receipts from such sales shall be credited to the Board for reimbursement of printing expenses.
+B. The Department shall be authorized to provide for the production, distribution, and receipt of information and lists through the Virginia voter registration system by any appropriate means including paper and electronic means. The Virginia Freedom of Information Act (§
+2.2-3700
+et seq.) shall not apply to records about individuals maintained in this system.
+C. The State Board shall institute procedures to ensure that each requirement of this section is fulfilled.
+D. The State Board shall promulgate rules and regulations to ensure the uniform application of the law for determining a person's residence.
+E. The Department shall apply to participate in the Systematic Alien Verification for Entitlements Program (SAVE Program) operated by U.S. Citizenship and Immigration Services of the U.S. Department of Homeland Security for the sole purpose of individually verifying the current citizenship status of persons who provided documents pursuant to subsection E of §
+46.2-328.1
+. Upon approval of the application, the Department shall enter into any required memorandum of agreement with U.S. Citizenship and Immigration Services. The State Board shall promulgate rules and regulations governing the use of the immigration status and citizenship status information received from the SAVE Program. The  Department shall not (i) use information received from the SAVE Program  as the sole reason for rejecting a registration application, (ii)  upload lists of registered voters to the SAVE Program for verifying  citizenship status in bulk, or (iii) transfer any information to the  U.S. Department of Homeland Security or any subdivision thereof beyond the minimum information necessary to use the SAVE Program for the purpose permitted by this subsection.
+F. Prior to entering into or terminating a memorandum of understanding, or modifying the terms of an existing memorandum of understanding, with any third party for the exchange of voter registration data for any purpose, the Commissioner of Elections shall submit the proposed memorandum of understanding, the reason for termination, or the proposed modifications, as appropriate, to the State Board for review and approval. Approval of such memorandum of understanding, or termination thereof, or modifications thereto, shall require a vote of two-thirds of the State Board. However, the provisions of this subsection do not apply to any data sharing agreements established between the Department and any other entity mandated by law to exchange data with the Department in order to operate and maintain the Virginia voter registration system.
+1970, c. 462, § 24.1-23; 1971, Ex. Sess., c. 119; 1972, c. 620; 1973, c. 30; 1974, cc. 369, 428; 1975, c. 515; 1976, c. 616; 1978, c. 778; 1983, c. 348; 1993, c. 641; 1997, c.
+801
+; 2000, cc.
+510
+,
+554
+; 2003, c.
+1015
+; 2004, c.
+428
+; 2005, c.
+378
+; 2006, cc.
+243
+,
+926
+,
+940
+; 2008, c.
+379
+; 2009, cc.
+865
+,
+870
+,
+874
+; 2011, c.
+528
+; 2012, c.
+686
+; 2013, cc.
+425
+,
+686
+,
+725
+; 2014, c.
+452
+; 2015, c.
+740
+; 2018, c.
+460
+; 2020, cc.
+1064
+,
+1065
+; 2021, Sp. Sess. I, c.
+217
+; contingently amended by 2023, c.
+785
+; 2026, cc.
+992
+,
+1038
+,
+1081
+,
+1120
 .
 
 ## Virginia § 24.2-404.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-404.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-404.1/*
 
-§ 24.2-404.1. Commissioner of Elections to serve as state coordinator for the administration of the National Voter Registration Act
+§ 24.2-404.1
+. Commissioner of Elections to serve as state coordinator for the administration of the National Voter Registration Act.
 The Commissioner of Elections shall be the chief state election officer responsible for the coordination of state responsibilities under the National Voter Registration Act (52 U.S.C. § 20501 et seq.).
 1996, cc.
 72
@@ -2956,9 +3623,10 @@ The Commissioner of Elections shall be the chief state election officer responsi
 
 ## Virginia § 24.2-404.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-404.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-404.2/*
 
-§ 24.2-404.2. Repealed
+§ 24.2-404.2
+. Repealed.
 Repealed by Acts 2003, cc.
 20
 and
@@ -2967,21 +3635,25 @@ and
 
 ## Virginia § 24.2-404.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-404.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-404.3/*
 
-§ 24.2-404.3. Duty of Department of Elections; verification of registered voter lists
+§ 24.2-404.3
+. (Repealed effective July 1, 2027) Duty of Department of Elections; verification of registered voter lists.
 On or before October 1 of each year, the Department shall conduct a match of the Virginia registered voter lists with the list of deceased persons maintained by the Social Security Administration.
 2009, c.
 492
 ; 2015, c.
 740
-.
+; 2026, c.
+1120
+, cl. 2.
 
 ## Virginia § 24.2-404.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-404.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-404.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-404.4/*
 
-§ 24.2-404.4. Exchange of registered voter lists with other states
+§ 24.2-404.4
+. (Repealed effective July 1, 2027) Exchange of registered voter lists with other states.
 A. Pursuant to its authority under subsection A of §
 24.2-405
 and subsections B and C of §
@@ -3001,13 +3673,16 @@ C. The Department shall compare the data received pursuant to subsections A and 
 740
 ; 2018, c.
 460
-.
+; 2026, c.
+1120
+, cl. 2.
 
 ## Virginia § 24.2-405
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-405. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-405/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-405. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-405/*
 
-§ 24.2-405. Lists of registered voters
+§ 24.2-405
+. Lists of registered voters.
 A. The Department of Elections shall provide, at a reasonable price, lists of registered voters for their districts to (i) candidates for election or political party nomination to further their candidacy, (ii) political party committees or officials thereof for political purposes only, (iii) political action committees that have filed a current statement of organization with the Department of Elections pursuant to §
 24.2-949.2
 , or with the Federal Elections Commission pursuant to federal law, for political purposes only, (iv) incumbent officeholders to report to their constituents, (v) nonprofit organizations that promote voter participation and registration for that purpose only, and (vi) commissioners of the revenue, as defined in §
@@ -3067,9 +3742,10 @@ E. No recipient of a list furnished under this section shall publish on the Inte
 
 ## Virginia § 24.2-406
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-406. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-406/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-406. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-406/*
 
-§ 24.2-406. Lists of persons voting at elections
+§ 24.2-406
+. Lists of persons voting at elections.
 A. The Department of Elections shall furnish, at a reasonable price, lists of persons who voted at any primary, special, or general election held in the four preceding years to (i) candidates for election or political party nomination to further their candidacy, (ii) political party committees or officials thereof for political purposes only, (iii) political action committees that have filed a current statement of organization with the Department of Elections pursuant to §
 24.2-949.2
 or with the Federal Elections Commission pursuant to federal law, for political purposes only, (iv) incumbent officeholders to report to their constituents, and (v) members of the public or a nonprofit organization seeking to promote voter participation and registration by means of a communication or mailing without intimidation or pressure exerted on the recipient, for that purpose only. Such lists shall be furnished to no one else and shall be used only for campaign and political purposes and for reporting to constituents. Unless such lists are not available due to a pending recount or election contest, the general registrar shall submit the list of persons who voted to the Department of Elections within 14 days after each election. The general registrars of localities using nonelectronic pollbooks shall submit the list of persons who voted to the Department of Elections within seven days after the pollbooks are released from the possession of the clerk of court. The Department of Elections shall make available such lists no later than seven days after receiving them from the general registrar.
@@ -3112,9 +3788,10 @@ D. Any list furnished under this section shall contain the post office box addre
 
 ## Virginia § 24.2-407
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-407. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-407/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-407. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-407/*
 
-§ 24.2-407. Statement for persons receiving lists of persons registered or voting; penalties
+§ 24.2-407
+. Statement for persons receiving lists of persons registered or voting; penalties.
 Any person receiving lists pursuant to §
 24.2-405
 ,
@@ -3142,9 +3819,10 @@ Signature of Purchaser ______________________________."
 
 ## Virginia § 24.2-407.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-407.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-407.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-407.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-407.1/*
 
-§ 24.2-407.1. Prohibition on disclosure of social security numbers or parts thereof
+§ 24.2-407.1
+. Prohibition on disclosure of social security numbers or parts thereof.
 It shall be unlawful for any person who has obtained, under §
 24.2-405
 or
@@ -3164,11 +3842,52 @@ or any prior law, a list of persons registered or voting which contained social 
 712
 .
 
+## Virginia § 24.2-407.2
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-407.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-407.2/*
+
+§ 24.2-407.2
+. (Effective July 1, 2027) Security of the Virginia voter registration system.
+A. The State Board shall promulgate regulations and standards necessary to ensure the security and integrity of the Virginia voter registration system and the supporting technologies utilized by the counties and cities to maintain and record registrant information. The State Board shall, in consultation with representatives of local government information technology professionals and general registrars, update the security standards at least annually. Such review shall be completed by November 30 each year.
+B. The electoral board of each county and city that utilizes supporting technologies to maintain and record registrant information shall develop and annually update written plans and procedures to ensure the security and integrity of those supporting technologies. All plans and procedures shall be in compliance with the security standards established by the State Board pursuant to subsection A. Each electoral board shall report annually by March 1 to the Department of Elections on its security plans and procedures. The general registrar and the Department of Elections shall provide assistance to the electoral board, upon request by the electoral board.
+C. In accordance with the process prescribed by the State Board, the Department of Elections may limit access to the Virginia voter registration system by any county or city that has failed to comply with the provisions of subsection B or the security standards established by the State Board pursuant to subsection A. Such access shall be limited as necessary in order to address and resolve any security risks or to enforce compliance with the provisions of subsection B or the security standards established by the State Board. Prior to limiting access to the Virginia voter registration system by any county or city, the Department of Elections shall provide notice to the county or city of the failure to comply with the provisions of subsection A or B and the county or city shall have seven days to correct any deficiencies. The Department of Elections may provide technical assistance to any county or city upon request by the county or city.
+D. Records of the State Board or of a local electoral board, to the extent such records describe protocols for maintaining the security of the Virginia voter registration system and the supporting technologies utilized to maintain and record registrant information, the release of which would compromise the security of the Virginia voter registration system, shall be confidential and excluded from inspection and copying under the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.).
+E. The State Board or a local electoral board may hold a closed meeting pursuant to the provisions of the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.) for the purpose of discussing protocols for maintaining the security of the Virginia voter registration system and the supporting technologies utilized to maintain and record registrant information, where discussion of such matters in open meeting would compromise the security of the Virginia voter registration system. Nothing in this subsection shall be construed to authorize a closed meeting to discuss any breach of security of the Virginia voter registration system.
+F. Nothing in this section shall be construed to prohibit the release of information concerning any breach of security of the Virginia voter registration system.
+2026, c.
+1120
+.
+
+## Virginia § 24.2-407.3
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-407.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-407.3/*
+
+§ 24.2-407.3
+. (Effective July 1, 2027) Duty of Department of Elections; list maintenance activities; annual review; report.
+A. Upon receipt of any list, record, or other information provided pursuant to this article, the Department shall compare the contents of such list or record to the list of all registered voters maintained on the voter registration system to identify registration records containing information that matches information on the list or record received. A potential match of a registration record with information on a list or record received shall not be grounds for cancellation of the registration record if there is not, at a minimum, a match of the full Social Security number or a match of the Virginia Department of Motor Vehicles customer identifier number.
+B. When comparing a registration record with information on a list or record received pursuant to this article, the Department shall determine the confidence score for any potential match in accordance with regulations promulgated by the State Board for such purpose. In promulgating regulations for establishing a confidence score for potential matches, the State Board shall account for differences in data sources and shall establish a threshold score that shall be met to begin the cancellation process. A voter's registration record with a confidence score that meets or exceeds the threshold score set by regulation shall be transmitted to the appropriate general registrar and the general registrars shall use such information to carry out their duties in accordance with §
+24.2-427
+.
+C. The Department shall conduct an annual review of all sources of data utilized pursuant to this article for list maintenance activities in the preceding 12-month period for the purpose of determining the validity, completeness, accuracy, and reliability of the data received from each source and any delays to processing data from any source because the data or the source was determined to be inaccurate, unreliable, or otherwise compromising the accuracy and integrity of the voter records maintained in the Virginia voter registration system. The results of such review shall be included in the Department's report required pursuant to subsection D.
+D. The Department shall report annually by August 1 for the preceding 12 months ending June 30 to the House and Senate Committees on Privileges and Elections on each of its activities undertaken to maintain the Virginia voter registration system and the results of those activities. The Department's report shall be governed by the provisions of §
+2.2-608
+and shall encompass activities undertaken pursuant to this article and Article 5 (§ 24.2-426.1 et seq.). This report shall contain the methodology used in gathering and analyzing the data. The Commissioner of Elections shall certify that the data included in the report is accurate and reliable.
+E. The State Board shall promulgate regulations governing (i) the criteria for evaluating data sources, including the methodology to be utilized to analyze and determine the accuracy and reliability of a data source, and (ii) any requirements for delaying the processing of data from any source that is determined to be inaccurate, unreliable, or otherwise compromises the accuracy and integrity of the voter records maintained in the Virginia voter registration system.
+2026, c.
+1120
+.
+
 ## Virginia § 24.2-408
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-408. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-408/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-408. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-408/*
 
-§ 24.2-408. State Registrar of Vital Records to transmit weekly lists of decedents to Department of Elections
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-408
+. (Effective until July 1, 2027) State Registrar of Vital Records to transmit weekly lists of decedents to Department of Elections.
 The State Registrar of Vital Records shall transmit to the Department of Elections by electronic means a weekly list of all persons 17 years of age or older who have died in the Commonwealth subsequent to its previous weekly list. The lists shall be in a format specified by the Department and shall contain the deceased's name; address; county, city, or town of residence; social security number, if any; and date and place of his birth and of his death. The Department shall maintain a permanent record of the information in the lists as part of the voter registration system, and the general registrars shall use the information in the lists to carry out their duties pursuant to §
 24.2-427
 . Information in the lists shall be confidential and consistent with the requirements of §
@@ -3183,12 +3902,35 @@ The State Registrar of Vital Records shall transmit to the Department of Electio
 ,
 28
 .
+§
+24.2-408
+. (Effective July 1, 2027) Lists of deceased voters; State Registrar of Vital Records; Social Security Administration.
+A. The State Registrar of Vital Records shall transmit to the Department of Elections by electronic means a weekly list of all persons 17 years of age or older who have died in the Commonwealth subsequent to its previous weekly list. The lists shall be in a format specified by the Department and shall contain, at a minimum, the following identification information for each person included on the list: (i) his last name, including any other last name used; (ii) his first name; (iii) his middle name or initial, if any; (iv) his date and place of birth; (v) his social security number, if any; (vi) his last known address of residence, including the county, city, or town; and (vii) his date and place of death.
+B. On or before July 1 of each year, the Department shall conduct a match of the Virginia registered voter lists with the list of deceased persons maintained by the Social Security Administration.
+C. The Department shall compare the contents of such lists to identify record matches in accordance with § 24.2-407.3, and the general registrars shall have access to the information in the lists necessary to carry out their duties pursuant to §
+24.2-427
+. The Department shall maintain a permanent record of the information in the lists as part of the voter registration system. Information in the lists shall be confidential and consistent with the requirements of §
+32.1-271
+.
+1970, c. 462, § 24.1-25; 1972, c. 620; 1975, c. 515; 1993, c. 641; 1999, c.
+117
+; 2015, c.
+740
+; 2022, cc.
+4
+,
+28
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-409
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-409. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-409/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-409. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-409/*
 
-§ 24.2-409. Central Criminal Records Exchange to transmit lists of felony convictions to Department of Elections
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-409
+. (For contingent expiration date, see Acts 2026, cc. 992 and 1081, cl. 3) Central Criminal Records Exchange to transmit lists of felony convictions to Department of Elections.
 The Central Criminal Records Exchange shall transmit to the Department of Elections by electronic means (i) a monthly list of all persons convicted of a felony during the preceding month and (ii) an annual list of all persons who have been convicted of a felony, regardless of when the conviction occurred. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain the convicted person's name; address; county, city, or town of residence; social security number, if any; date and place of birth; and date of conviction. The Department shall maintain a permanent record of the information in the lists as part of the voter registration system. Upon receipt of the monthly list, the Department shall compare, on a monthly basis, the contents of the list to the list of all registered voters maintained on the voter registration system and shall notify the appropriate general registrar of the felony conviction of any registered voter. Upon receipt of the annual list, the Department shall compare the contents of the list to the list of all registered voters maintained on the voter registration system and shall notify the appropriate general registrar of the felony conviction of any registered voter. The general registrars shall have access to the information in the lists to carry out their duties pursuant to §
 24.2-427
 .
@@ -3199,12 +3941,91 @@ The Central Criminal Records Exchange shall transmit to the Department of Electi
 ; 2015, c.
 740
 .
+§
+24.2-409
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Department of State Police to transmit lists of felony convictions to Department of Elections.
+A. Each month, the Department of State Police shall transmit to the Department of Elections by electronic means a list of all persons convicted of a felony and sentenced to a period of incarceration during the preceding month. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain, at a minimum, the following identification information for each person included on the list: (i) his last name, including any other last name used; (ii) his first name, including any other name used; (iii) his middle name or initial; (iv) his date and place of birth; (v) his social security number, if any; (vi) his last known address of residence, including the county, city, or town, and (vii) the date of conviction.
+B. Upon receipt of the monthly list, the Department of Elections shall compare the contents of the list to the list of all registered voters maintained on the voter registration system and shall notify the appropriate general registrar of any registered voter who has been convicted of a felony and sentenced to a period of incarceration.
+C. On or before July 1 of each year, the Department of State Police shall transmit to the Department of Elections by electronic means a list of all persons convicted of a felony and sentenced to a period of incarceration, regardless of when the conviction occurred. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain, at a minimum, the information required in clauses (i) through (vi) of subsection A for monthly lists. Upon receipt of the annual list, the Department shall compare the contents of the list to the list of all registered voters maintained on the voter registration system and shall notify the appropriate general registrar of the felony conviction of any registered voter. The general registrars shall have access to the information in the lists to carry out their duties pursuant to §
+24.2-427
+.
+1970, c. 462, § 24.1-26; 1972, c. 620; 1975, c. 515; 1993, c. 641; 1999, c.
+117
+; 2013, c.
+491
+; 2015, c.
+740
+; 2026, cc.
+992
+,
+1081
+.
+§
+24.2-409
+. (Effective July 1, 2027, if the contingency in Acts   2026, cc. 992 and 1081, cl. 3 is met) Lists of persons convicted of felonies; Department of State Police.
+A. Each month the Department of State Police shall transmit to the Department of Elections by electronic means a list of all persons whose final disposition was a felony conviction that was reported to the Department of State Police and who were sentenced to a period of incarceration for such felony conviction during the preceding month. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain, at a minimum, the following identification information for each person included on the list: (i) his last name, including any other last name used; (ii) his first name; (iii) his middle name or initial, if any; (iv) his date and place of birth; (v) his social security number, if any; (vi) his Department of Motor Vehicles customer identifier number, if any; (vii) his last known address of residence, including the county, city, or town; and (viii) the offenses for which he was convicted and the date of conviction for each.
+B. Upon receipt of the monthly list, the Department of Elections shall compare the contents of the list to the list of all registered voters maintained on the voter registration system to identify record matches in accordance with § 24.2-407.3. The general registrars shall have access to the information in the lists necessary to carry out their duties pursuant to §
+24.2-427
+.
+C. On or before July 1 of each year, the Department of State Police shall transmit to the Department of Elections by electronic means a list of all persons convicted of a felony, regardless of when the conviction occurred. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain, at a minimum, the information required in clauses (i) through (viii) of subsection A for monthly lists. Upon receipt of the annual list, the Department shall compare the contents of the list to the list of all registered voters maintained on the voter registration system to identify record matches in accordance with § 24.2-407.3. The general registrars shall have access to the information in the lists necessary to carry out their duties pursuant to §
+24.2-427
+.
+D. The Department shall maintain as part of the voter registration system a permanent record of the information in the lists received pursuant to this section.
+1970, c. 462, § 24.1-26; 1972, c. 620; 1975, c. 515; 1993, c. 641; 1999, c.
+117
+; 2013, c.
+491
+; 2015, c.
+740
+; 2026, cc.
+992
+,
+1081
+,
+1120
+.
+§
+24.2-409
+. (Effective July 1, 2027, if the contingency in Acts   2026, cc. 992 and 1081, cl. 3 is not met) Lists of persons convicted of felonies; Department of State Police.
+A. Each month the Department of State Police shall transmit to the Department of Elections by electronic means a list of all persons whose final disposition was a felony conviction that was reported to the Department of State Police during the preceding month. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain, at a minimum, the following identification information for each person included on the list: (i) his last name, including any other last name used; (ii) his first name; (iii) his middle name or initial, if any; (iv) his date and place of birth; (v) his social security number, if any; (vi) his Department of Motor Vehicles customer identifier number, if any; (vii) his last known address of residence, including the county, city, or town; and (viii) the offenses for which he was convicted and the date of conviction for each.
+B. Upon receipt of the monthly list, the Department of Elections shall compare the contents of the list to the list of all registered voters maintained on the voter registration system to identify record matches in accordance with § 24.2-407.3. The general registrars shall have access to the information in the lists necessary to carry out their duties pursuant to §
+24.2-427
+.
+C. On or before July 1 of each year, the Department of State Police shall transmit to the Department of Elections by electronic means a list of all persons convicted of a felony, regardless of when the conviction occurred. The list shall be in a format mutually agreed upon by the Commissioner of Elections and the Department of State Police and shall contain, at a minimum, the information required in clauses (i) through (viii) of subsection A for monthly lists. Upon receipt of the annual list, the Department shall compare the contents of the list to the list of all registered voters maintained on the voter registration system to identify record matches in accordance with § 24.2-407.3. The general registrars shall have access to the information in the lists to carry out their duties pursuant to §
+24.2-427
+.
+1970, c. 462, § 24.1-26; 1972, c. 620; 1975, c. 515; 1993, c. 641; 1999, c.
+117
+; 2013, c.
+491
+; 2015, c.
+740
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-409.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-409.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-409.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-409.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-409.1/*
 
-§ 24.2-409.1. Department of Elections to transmit information pertaining to persons convicted of a felony in federal court
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-409.1
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Department of Elections to transmit information pertaining to persons convicted of a felony in federal court.
+Upon receipt of a notice of a felony conviction and imposition of a sentence of incarceration sent by a United States attorney pursuant to the National Voter Registration Act (52 U.S.C. § 20501 et seq.), the Department shall notify the appropriate general registrar of the conviction and sentence of incarceration.
+1996, cc.
+72
+,
+73
+; 2015, c.
+740
+; 2026, cc.
+992
+,
+1081
+.
+§
+24.2-409.1
+. (For contingent expiration date, see Acts 2026, cc. 992 and 1081, cl. 3) Department of Elections to transmit information pertaining to persons convicted of a felony in federal court.
 Upon receipt of a notice of a felony conviction sent by a United States attorney pursuant to the National Voter Registration Act (52 U.S.C. § 20501 et seq.), the Department shall notify the appropriate general registrar of the conviction.
 1996, cc.
 72
@@ -3214,29 +4035,129 @@ Upon receipt of a notice of a felony conviction sent by a United States attorney
 740
 .
 
+## Virginia § 24.2-409.2
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-409.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-409.2/*
+
+§ 24.2-409.2
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Information regarding pending releases from incarceration; deadlines for transmittal, processing.
+A. The Department of Corrections and the Compensation Board shall transmit to the Department of Elections certain information related to a person who has been released from incarceration as follows:
+1. For any person released in the period beginning on the first day of a month through the fifteenth day of that month, not later than the sixteenth day of such month; and
+2. For any person released in the period beginning on the sixteenth day of a month through the last day of that month, not later than the first day of the following month.
+Such information shall be in a format specified by the Department of Elections and shall include, if available, the incarcerated person's name; address; county, city, or town of residence; social security number; date and place of birth; and date of release from incarceration.
+B. Upon the receipt of information transmitted pursuant to subsection A, the Department of Elections shall promptly process the information and make all necessary updates in the Virginia voter registration system to permit a formerly incarcerated person to register to vote.
+Contingently enacted by 2026, c.
+1081
+.
+
 ## Virginia § 24.2-410
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-410/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-410/*
 
-§ 24.2-410. Clerks of circuit courts to furnish lists of certain adjudications
-The clerk of each circuit court shall furnish monthly to the Department of Elections a complete list of all persons adjudicated incapacitated pursuant to Chapter 20 (§
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-410
+. (For contingent expiration date, see Acts 2026, cc. 992 and 1081, cl. 3) Clerks of circuit courts to furnish lists of certain adjudications.
+The clerk of each circuit court shall furnish monthly to the Department of Elections a complete list of all persons adjudicated to lack the capacity to understand the act of voting pursuant to Chapter 20 (§
 64.2-2000
-et seq.) of Title 64.2 or whose incapacity has been recognized pursuant to §
+et seq.) of Title 64.2 or whose lack of capacity to understand the act of voting has been recognized pursuant to §
 64.2-2115
-, and therefore "mentally incompetent" for purposes of this title unless the court order specifically provides otherwise, during the preceding month or a statement that no adjudications have occurred that month. The list shall contain each such person's name; address; county, city, or town of residence; social security number, if any; date and place of birth; and date of adjudication. The Commissioner of Elections and the Executive Secretary shall determine the procedure for furnishing such lists, which may be by electronic means. The Department shall transmit the information from the list to the appropriate general registrars.
+during the preceding month or a statement that no adjudications have occurred that month. The list shall contain each such person's name; address; county, city, or town of residence; social security number, if any; date and place of birth; and date of adjudication. The Commissioner of Elections and the Executive Secretary shall determine the procedure for furnishing such lists, which may be by electronic means. The Department shall transmit the information from the list to the appropriate general registrars.
 1976, c. 616, § 24.1-26.1; 1993, c. 641; 1998, c.
 582
 ; 2011, c.
 518
 ; 2015, c.
 740
+; 2026, cc.
+442
+,
+443
+.
+§
+24.2-410
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Clerks of circuit courts to furnish lists of certain adjudications.
+The clerk of each circuit court shall furnish monthly to the Department of Elections a complete list of all persons adjudicated to lack the capacity to understand the act of voting pursuant to Chapter 20 (§
+64.2-2000
+et seq.) of Title 64.2 or whose lack of capacity to understand the act of voting has been recognized pursuant to §
+64.2-2115
+during the preceding month or a statement that no adjudications have occurred that month. The list shall contain each such person's name; address; county, city, or town of residence; social security number, if any; date and place of birth; and date of adjudication. The Commissioner of Elections and the Executive Secretary shall determine the procedure for furnishing such lists, which may be by electronic means. The Department shall transmit the information from the list to the appropriate general registrars.
+1976, c. 616, § 24.1-26.1; 1993, c. 641; 1998, c.
+582
+; 2011, c.
+518
+; 2015, c.
+740
+; 2026, cc.
+442
+,
+443
+,
+992
+,
+1081
+.
+§
+24.2-410
+. (Effective July 1, 2027, if the contingency in Acts 2026, cc. 992 and 1081, cl. 3 is met) Lists of certain adjudications; clerks of circuit courts.
+A. Each month, the clerk of each circuit court shall transmit to the Department of Elections by electronic means a complete list of all persons who have been adjudicated to lack the capacity to understand the act of voting  pursuant to Chapter 20 (§
+64.2-2000
+et seq.) of Title 64.2 or whose lack of capacity to understand the act of voting has been recognized pursuant to §
+64.2-2115
+during the preceding month. If no such adjudications have occurred that month, the clerk shall transmit to the Department instead a statement that no adjudications have occurred that month. The list shall contain, at a minimum, the following identification information for each such person included on the list: (i) his last name, including any other last name used; (ii) his first name; (iii) his middle name or initial, if any; (iv) his last known address of residence, including the county, city, or town; (v) his social security number, if any; (vi) his Department of Motor Vehicles customer identifier number, if any; (vii) his date and place of birth; and (viii) the date of his adjudication.
+B. Upon receipt of the monthly list, the Department shall compare the contents of the list to the list of all registered voters maintained on the voter registration system to identify record matches in accordance with § 24.2-407.3. The general registrars shall have access to the information in the lists necessary to carry out their duties pursuant to §
+24.2-427
+.
+C. The Department shall maintain as part of the voter registration system a permanent record of the information in the lists received pursuant to this section.
+1976, c. 616, § 24.1-26.1; 1993, c. 641; 1998, c.
+582
+; 2011, c.
+518
+; 2015, c.
+740
+; 2026, cc.
+442
+,
+443
+,
+992
+,
+1081
+,
+1120
+.
+§
+24.2-410
+. (Effective July 1, 2027, if the contingency in Acts 2026, cc. 992 and 1081, cl. 3 is not met) Lists of certain adjudications; clerks of circuit courts.
+A. Each month, the clerk of each circuit court shall transmit to the Department of Elections by electronic means a complete list of all persons who have been adjudicated to lack the capacity to understand the act of voting  pursuant to Chapter 20 (§
+64.2-2000
+et seq.) of Title 64.2 or whose lack of capacity to understand the act of voting has been recognized pursuant to §
+64.2-2115
+during the preceding month. If no such adjudications have occurred that month, the clerk shall transmit to the Department instead a statement that no adjudications have occurred that month. The list shall contain, at a minimum, the following identification information for each such person included on the list: (i) his last name, including any other last name used; (ii) his first name; (iii) his middle name or initial, if any; (iv) his last known address of residence, including the county, city, or town; (v) his social security number, if any; (vi) his Department of Motor Vehicles customer identifier number, if any; (vii) his date and place of birth; and (viii) the date of his adjudication.
+B. Upon receipt of the monthly list, the Department shall compare the contents of the list to the list of all registered voters maintained on the voter registration system to identify record matches in accordance with § 24.2-407.3. The general registrars shall have access to the information in the lists necessary to carry out their duties pursuant to §
+24.2-427
+.
+C. The Department shall maintain as part of the voter registration system a permanent record of the information in the lists received pursuant to this section.
+1976, c. 616, § 24.1-26.1; 1993, c. 641; 1998, c.
+582
+; 2011, c.
+518
+; 2015, c.
+740
+; 2026, cc.
+442
+,
+443
+,
+1120
 .
 
 ## Virginia § 24.2-410.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-410.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-410.1/*
 
-§ 24.2-410.1. Citizenship status; Department of Motor Vehicles to furnish lists of noncitizens
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-410.1
+. (Effective until July 1, 2027) Citizenship status; Department of Motor Vehicles to furnish lists of noncitizens.
 A. The Department of Motor Vehicles shall include on the application for any document, or renewal thereof, issued pursuant to the provisions of Chapter 3 (§
 46.2-300
 et seq.) of Title 46.2 a statement asking the applicant if he is a United States citizen. Information on citizenship status shall not be a determinative factor for the issuance of any document pursuant to the provisions of Chapter 3 (§
@@ -3263,12 +4184,47 @@ et seq.) of Title 46.2.
 ,
 1246
 .
+§
+24.2-410.1
+. (Effective July 1, 2027) Lists of noncitizens; Department of Motor Vehicles.
+A. The Department of Motor Vehicles shall include on the application for any document, or renewal thereof, issued pursuant to the provisions of Chapter 3 (§
+46.2-300
+et seq.) of Title 46.2 a statement asking the applicant if he is a United States citizen. Information on citizenship status shall not be a determinative factor for the issuance of any document pursuant to the provisions of Chapter 3 (§
+46.2-300
+et seq.) of Title 46.2.
+B. The Department of Motor Vehicles shall furnish monthly to the Department of Elections a complete list of all persons who have indicated a noncitizen status to the Department of Motor Vehicles in obtaining any document, or renewal thereof, issued pursuant to the provisions of Chapter 3 (§
+46.2-300
+et seq.) of Title 46.2. Such list shall contain, at a minimum, the following identification information for each person included on the list: (i) his last name, including any other last name used; (ii) his first name; (iii) his middle name or initial, if any; (iv) his date and place of birth; (v) his social security number, if any; (vi) his Department of Motor Vehicles customer identifier number, if any; and (vii) his last known address of residence, including the county, city, or town.
+C. Upon receipt of the monthly list, the Department of Elections shall compare the contents of the list to the list of all registered voters maintained in the voter registration system to identify record matches in accordance with § 24.2-407.3. The general registrars shall have access to the information in the lists necessary to carry out their duties pursuant to §
+24.2-427
+. Information in the lists shall be confidential and available only for official use by the Department of Elections and general registrars.
+D. For the purposes of this section, the Department of Motor Vehicles is not responsible for verifying the claim of any applicant who indicates United States citizen status when applying for any document, or renewal thereof, issued pursuant to the provisions of Chapter 3 (§
+46.2-300
+et seq.) of Title 46.2.
+2006, cc.
+926
+,
+940
+; 2015, c.
+740
+; 2020, cc.
+908
+,
+909
+,
+1227
+,
+1246
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-410.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-410.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-410.2/*
 
-§ 24.2-410.2. Security of the Virginia voter registration system
+§ 24.2-410.2
+. (Repealed effective July 1, 2027) Security of the Virginia voter registration system.
 A. The State Board shall promulgate regulations and standards necessary to ensure the security and integrity of the Virginia voter registration system and the supporting technologies utilized by the counties and cities to maintain and record registrant information. The State Board shall, in consultation with representatives of local government information technology professionals and general registrars, update the security standards at least annually. Such review shall be completed by November 30 each year.
 B. The electoral board of each county and city that utilizes supporting technologies to maintain and record registrant information shall develop and annually update written plans and procedures to ensure the security and integrity of those supporting technologies. All plans and procedures shall be in compliance with the security standards established by the State Board pursuant to subsection A. Each electoral board shall report annually by March 1 to the Department of Elections on its security plans and procedures. The general registrar and the Department of Elections shall provide assistance to the electoral board, upon request by the electoral board.
 C. In accordance with the process prescribed by the State Board, the Department of Elections may limit access to the Virginia voter registration system by any county or city that has failed to comply with the provisions of subsection B or the security standards established by the State Board pursuant to subsection A. Such access shall be limited as necessary in order to address and resolve any security risks or to enforce compliance with the provisions of subsection B or the security standards established by the State Board. Prior to restricting access to Virginia voter registration system by any county or city, the Department of Elections shall provide notice to the county or city of the failure to comply with the provisions of subsection A or B and the county or city shall have seven days to correct any deficiencies. The Department of Elections may provide technical assistance to any county or city upon request by the county or city.
@@ -3281,13 +4237,89 @@ et seq.) for the purpose of discussing protocols for maintaining the security of
 F. Nothing in this section shall be construed to prohibit the release of information concerning any breach of security of the Virginia voter registration system.
 2019, c.
 426
+; 2026, c.
+1120
+, cl. 2.
+
+## Virginia § 24.2-410.3
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-410.3/*
+
+§ 24.2-410.3
+. (Effective July 1, 2027) Exchange of registered voter lists with other states.
+A. The Department of Elections shall (i) request voter registration information and lists of persons voting at primaries and elections, if available, from the states bordering the Commonwealth and (ii) utilize data regarding voter registration and lists of persons voting at primaries and elections received through list comparisons with other states in order to identify duplicate registrations, voters who no longer reside in the Commonwealth, and other persons who are no longer entitled to be registered as part of its duty to maintain the overall accuracy of the voter registration system.
+B. The Department shall compare the data received pursuant to subsection A with the state voter registration list to identify record matches in accordance with § 24.2-407.3. The Department shall include in its report to the House and Senate Committees on Privileges and Elections, required by § 24.2-407.3, the progress of activities conducted under this section, including the number of duplicate registrations found to exist and the procedures that the Department and general registrars are following to eliminate duplicate registrations from the Virginia registered voter lists.
+C. The Department shall not utilize any data received pursuant to subsection A for list maintenance purposes when such data file does not include a unique identifier for each individual whose information is contained in the data file. For purposes of this subsection, a "unique identifier" means an individual's full social security number or Virginia Department of Motor Vehicles customer identifier number, or any data field or combination of data fields that can be reliably linked to a single individual.
+2026, c.
+1120
+.
+
+## Virginia § 24.2-410.4
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-410.4/*
+
+§ 24.2-410.4
+. (Effective July 1, 2027) Regular periodic review of registration records; confirmation notification process.
+A. In accordance with the National Voter Registration Act of 1993 (52 U.S.C. § 20501 et seq.), the Department of Elections shall establish a voter list maintenance program using the change of address information supplied by the United States Postal Service through its licensees, or by other reliable sources, to identify voters whose addresses may have changed. Any such program shall be regular and periodic and shall be conducted at least annually. The program shall be completed not later than 90 days prior to the date of a federal primary or federal general election.
+B. If it appears from information provided by the United States Postal Service or by other reliable sources that a voter has moved to a different address in the same county or city in which the voter is currently registered, the Department shall provide to the general registrar the information necessary to change the registration records to show the new address, and the Department or the general registrar shall send to the new address of the voter by forwardable mail, a notice of the change, along with a postage prepaid, pre-addressed return card by which the voter may verify or correct the address information.
+C. If it appears from information provided by the United States Postal Service or by other reliable sources that a voter has moved to a different address not in the same county or city, the Department or the general registrar shall send to the last known address of the voter by forwardable mail, a notice on a form prescribed by the Department, along with a postage prepaid and pre-addressed return card on which the voter may verify or correct the address information or state his current address.
+D. The registered voter shall complete and sign the return card subject to felony penalties for making false statements pursuant to §
+24.2-1016
+and shall return such card to the general registrar within 30 days of it being sent.
+E. The general registrar shall correct his registration records from the information obtained from the return card. If the information indicates that the registered voter has moved to another general registrar's jurisdiction within the Commonwealth, the general registrar shall transfer the registration record, along with the return card, to the appropriate general registrar who shall treat the request for a change of address as a request for transfer and shall send a voter registration card as confirmation of the transfer to the voter pursuant to §
+24.2-424
+.
+2026, c.
+1120
+.
+
+## Virginia § 24.2-410.5
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-410.5/*
+
+§ 24.2-410.5
+. (Effective July 1, 2027) Placement of inactive status; other initiating events for confirmation notification process.
+A. If a registered voter who has been sent a return card pursuant to § 24.2-410.4 does not return such card within 30 days of it being sent to the voter, the registered voter's name shall be placed on inactive status. A registered voter's failure to receive the notice shall not affect the validity of the inactivation.
+B. The general registrars shall follow the confirmation notification process set forth in § 24.2-410.4 if:
+1. A registered voter provides an address on a candidate or referendum petition that differs from the address for the voter on the voter registration system; or
+2. Any of the following documents were sent to a registered voter and are returned by the United States Postal Service as undeliverable:
+a. An acknowledgment of registration;
+b. An acknowledgment of transfer to a new address;
+c. An absentee ballot or application for an absentee ballot sent or provided in accordance with Chapter 7 (§
+24.2-700
+et seq.);
+d. Notification to a voter after a precinct reassignment;
+e. Notification of a change of address sent to a voter in accordance with subsection B of § 24.2-410.4; or
+f. Any official voter registration or election mail.
+2026, c.
+1120
+.
+
+## Virginia § 24.2-410.6
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-410.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-410.6/*
+
+§ 24.2-410.6
+. (Effective July 1, 2027) Return of registered voter to active status; cancellation after period of inactivity.
+A. In accordance with the National Voter Registration Act of 1993 (52 U.S.C. § 20501 et seq.), a registered voter shall be returned to active status from inactive status if, during the period beginning on the date the voter was assigned to inactive status and ending on the day of the second general election for federal office thereafter, the voter:
+1. Notifies the general registrar of a change of address within the county or city;
+2. Responds to a confirmation notice with information that the voter continues to reside at the registration address;
+3. Votes or attempts to vote in a primary or a special or general election and, if necessary, corrects the registration record; or
+4. Transfers his registration to another county or city within the Commonwealth pursuant to §
+24.2-424
+or subsection E of § 24.2-410.4.
+B. In accordance with the National Voter Registration Act of 1993 (52 U.S.C. § 20501 et seq.), a registered voter assigned inactive status shall have his voter registration canceled if, during the period beginning on the date the voter was assigned to inactive status and ending on the day of the second general election for federal office thereafter, the voter fails to take an action set out in subdivisions A 1 through 4.
+C. The general registrar shall post at the courthouse or have published in a newspaper of general circulation in his county or city a list of names of persons whose registration has been canceled pursuant to this section. The general registrar shall deliver or mail, obtaining a certificate of mailing, a certified copy of the list to the chairman of each political party in his county or city.
+2026, c.
+1120
 .
 
 ## Virginia § 24.2-411
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-411/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-411/*
 
-§ 24.2-411. Office of the general registrar
+§ 24.2-411
+. Office of the general registrar.
 A. Each local governing body shall furnish the general registrar with a clearly marked and suitable office which shall be the principal office for voter registration. The office shall be owned or leased by the city or county, or by the state for the location of Department of Motor Vehicles facilities, adequately furnished, and located within the city or within the county or a city in which the county courthouse is located. The governing body shall provide property damage liability and bodily injury liability coverage for the office and shall furnish the general registrar with necessary postage, stationery, equipment, and office supplies. The telephone number shall be listed in the local telephone directory separately or under the local governmental listing under the designation "Voter Registration."
 No private business enterprise shall be conducted in the general registrar's office.
 B. The general registrar's office in all counties and cities shall be open a minimum of five days each week, except as provided in subsection C.
@@ -3299,6 +4331,13 @@ C. The general registrar may close the office of the general registrar (i) for o
 , or (d) on a deadline specified in the Campaign Finance Disclosure Act of 2006 (§
 24.2-945
 et seq.).
+D. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as the principal office of the general registrar, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as the principal office for voter registration.
 Code 1950, §§ 24-52, 24-52.1, 24-55, 24-59 through 24-61, 24-65, 24-66, 24-71 through 24-76, 24-90, 24-93, 24-94, 24-101, 24-111, 24-118.1; 1954, c. 691; 1958, c. 576; 1962, cc. 422, 475, 536; 1963, Ex. Sess., c. 2; 1964, c. 608; 1968, cc. 97, 141; 1970, c. 462, §§ 24.1-43, 24.1-46, 24.1-49; 1972, c. 620; 1973, c. 30; 1974, c. 428; 1975, c. 515; 1976, cc. 12, 616; 1978, c. 778; 1979, c. 329; 1980, c. 639; 1981, c. 425; 1982, cc. 290, 650; 1983, cc. 398, 511; 1984, c. 480; 1985, cc. 197, 530; 1986, c. 558; 1988, cc. 305, 528; 1989, c. 743; 1991, cc. 42, 136; 1993, c. 641; 1997, cc.
 650
 ,
@@ -3313,13 +4352,16 @@ Code 1950, §§ 24-52, 24-52.1, 24-55, 24-59 through 24-61, 24-65, 24-66, 24-71 
 13
 ; 2018, c.
 539
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-411.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-411.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-411.1/*
 
-§ 24.2-411.1. Repealed
+§ 24.2-411.1
+. Repealed.
 Repealed by Acts 2020, cc.
 908
 and
@@ -3328,9 +4370,10 @@ and
 
 ## Virginia § 24.2-411.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-411.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-411.2/*
 
-§ 24.2-411.2. State-designated voter registration agencies
+§ 24.2-411.2
+. State-designated voter registration agencies.
 A. The following agencies are designated as voter registration agencies in compliance with the National Voter Registration Act (52 U.S.C. § 20501 et seq.) and shall provide voter registration opportunities at their state, regional, or local offices, depending upon the point of service:
 1. Agencies whose primary function is to provide public assistance, including agencies that provide benefits under the Temporary Assistance for Needy Families program; Special Supplemental Food Program for Women, Infants, and Children; Medicaid program; or Food Stamps program;
 2. Agencies whose primary function is to provide state-funded programs primarily engaged in providing services to persons with disabilities;
@@ -3384,9 +4427,10 @@ H. Each state-designated voter registration agency shall maintain such statistic
 
 ## Virginia § 24.2-411.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-411.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-411.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-411.3/*
 
-§ 24.2-411.3. Registration of Department of Motor Vehicles customers
+§ 24.2-411.3
+. Registration of Department of Motor Vehicles customers.
 A. Each person coming into an office of the Department of Motor Vehicles or accessing its website in order to (i) apply for, replace, or renew a driver's license or other document issued under Chapter 3 (§
 46.2-300
 et seq.) of Title 46.2 except driver privilege cards or permits issued pursuant to §
@@ -3421,9 +4465,10 @@ D. The Department of Elections shall use the information transmitted to determin
 
 ## Virginia § 24.2-412
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-412. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-412/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-412. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-412/*
 
-§ 24.2-412. Other locations and times for voter registration
+§ 24.2-412
+. Other locations and times for voter registration.
 A. In addition to voter registration locations provided for in §§
 24.2-411
 ,
@@ -3454,10 +4499,11 @@ Code 1950, §§ 24-74 through 24-76, 24-78; 1963, Ex. Sess., c. 2; 1970, c. 462,
 
 ## Virginia § 24.2-413
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-413. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-413/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-413. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-413/*
 
-§ 24.2-413. Accessible registration locations
-The office of the general registrar, and each agency, business, and establishment set for registration pursuant to §§
+§ 24.2-413
+. Additional registration locations; accessibility requirements; prohibited conduct.
+A. The office of the general registrar, and each agency, business, and establishment set for registration pursuant to §§
 24.2-411.2
 and
 24.2-411.3
@@ -3469,6 +4515,13 @@ et seq.), the Voting Accessibility for the Elderly and Handicapped Act (52 U.S.C
 In the selection of additional registration sites as provided in §
 24.2-412
 , consideration shall be given to accessibility so that a reasonable number of accessible sites are provided and the requirements of the above cited Acts are met.
+B. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, while the building or part thereof is being used as an additional registration site, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of the additional registration site.
 Code 1950, §§ 24-52, 24-52.1, 24-55, 24-61, 24-65, 24-66, 24-118.1; 1954, c. 691; 1962, c. 475; 1964, c. 608; 1968, cc. 97, 141; 1970, c. 462, § 24.1-43; 1973, c. 30; 1974, c. 428; 1975, c. 515; 1976, c. 12; 1978, c. 778; 1981, c. 425; 1982, c. 290; 1983, c. 511; 1984, c. 480; 1985, c. 197; 1986, c. 558; 1988, c. 528; 1993, c. 641; 1996, cc.
 72
 ,
@@ -3479,13 +4532,16 @@ Code 1950, §§ 24-52, 24-52.1, 24-55, 24-61, 24-65, 24-66, 24-118.1; 1954, c. 6
 908
 ,
 909
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-414
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-414. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-414/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-414. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-414/*
 
-§ 24.2-414. Final registration day
+§ 24.2-414
+. Final registration day.
 Each general registrar shall hold a final day of registration on the day before the registration records close under §
 24.2-416
 for every election held in his jurisdiction. On the final day of registration, the principal office of the general registrar shall be open a minimum of eight hours. The registrar shall make a list by name of any persons in line at the time of closing and shall permit those persons to complete an application to register or to make any necessary changes to their registration records.
@@ -3499,9 +4555,10 @@ Code 1950, §§ 24-74 through 24-76, 24-78; 1963, Ex. Sess., c. 2; 1970, c. 462,
 
 ## Virginia § 24.2-414.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-414.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-414.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-414.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-414.1/*
 
-§ 24.2-414.1. Closing time of registration sites on final day
+§ 24.2-414.1
+. Closing time of registration sites on final day.
 The principal office of the registrar shall close for voter registration purposes at 5:00 p.m. on the final day of registration.
 2013, c.
 680
@@ -3509,9 +4566,10 @@ The principal office of the registrar shall close for voter registration purpose
 
 ## Virginia § 24.2-415
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-415. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-415/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-415. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-415/*
 
-§ 24.2-415. Notice of times and locations for registration
+§ 24.2-415
+. Notice of times and locations for registration.
 A. The general registrar shall give notice of the date, hours, and locations for registration on the final day of registration at least 10 days before each final day. The notice for the final day shall be posted on the official website of the county or city and published at least once in a newspaper of general circulation in the county or city, if one is available.
 At least three days' advance notice shall be given for other times and locations for voter registration. This notice shall be posted on the official website of the county or city, and published at least once in a newspaper of general circulation in the county or city, or announced at least twice on a television station serving the county or city, if one is available.
 B. Notice shall not be required for (i) the regular office hours for the general registrar's office or any other office normally staffed by one or more registrars, (ii) any office or location offering voter registration services or forms in the normal course of its daily business, or (iii) any other location at which mail applications are offered under Article 3.1 (§
@@ -3531,9 +4589,10 @@ Code 1950, §§ 24-74 through 24-76, 24-78; 1963, Ex. Sess., c. 2; 1970, c. 462,
 
 ## Virginia § 24.2-415.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-415.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-415.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-415.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-415.1/*
 
-§ 24.2-415.1. Persons authorized to receive voter registration applications
+§ 24.2-415.1
+. Persons authorized to receive voter registration applications.
 A. Any designated employee of a state-designated voter registration agency or Armed Forces recruitment office shall be authorized to receive a voter registration application when hand delivered by the applicant during the hours that the office is open.
 B. The registration date for a valid voter registration application that has been hand delivered is the date when received by any general registrar or any person authorized to receive voter registration applications pursuant to subsection A.
 1996, cc.
@@ -3548,9 +4607,10 @@ B. The registration date for a valid voter registration application that has bee
 
 ## Virginia § 24.2-416
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416/*
 
-§ 24.2-416. Closing registration records before elections
+§ 24.2-416
+. Closing registration records before elections.
 A. In any county, city, or town in which an election is being held, the registration records shall be closed for the purpose of registering voters on the election day and during the period in advance of the election as provided in this section. The registration records shall be closed during the 10 days before a primary or general election. If the registration records have not been closed previously for a primary or general election, they shall be closed during the six days before a special election called by the Governor, Speaker of the House of Delegates, or President pro tempore of the Senate, or pursuant to rule or resolution of either house of the General Assembly and during the 10 days before any other special election.
 B. In the event that a failure of the Virginia online voter registration system occurs prior to the close of registration records pursuant to this section, the Governor shall have the authority to order the online voter registration system to be available for registration activities after the date for closing the registration records for a period of time equal to the amount of time during which the online voter registration system was unavailable for registration activities, rounded up to the nearest whole day, plus an additional day to allow for voter education efforts. During this period, persons shall be permitted to register in person and mail voter registration applications shall be accepted.
 Code 1950, §§ 24-82, 24-83.1; 1962, c. 536; 1970, c. 462, § 24.1-50; 1973, c. 30; 1975, c. 515; 1993, c. 641; 2008, c.
@@ -3565,9 +4625,10 @@ Code 1950, §§ 24-82, 24-83.1; 1962, c. 536; 1970, c. 462, § 24.1-50; 1973, c.
 
 ## Virginia § 24.2-416.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416.1/*
 
-§ 24.2-416.1. Voter registration by mail
+§ 24.2-416.1
+. Voter registration by mail.
 A person may apply to register to vote by mail by completing and returning a mail voter registration application form in the manner and time provided by law.
 1996, cc.
 72
@@ -3589,9 +4650,10 @@ A person may apply to register to vote by mail by completing and returning a mai
 
 ## Virginia § 24.2-416.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416.2/*
 
-§ 24.2-416.2. Mail voter registration application forms
+§ 24.2-416.2
+. Mail voter registration application forms.
 Notwithstanding the provisions of §§
 24.2-418
 and
@@ -3614,9 +4676,10 @@ Each state form shall be accompanied by the following statement featured promine
 
 ## Virginia § 24.2-416.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416.3/*
 
-§ 24.2-416.3. Distribution of mail voter registration application forms
+§ 24.2-416.3
+. Distribution of mail voter registration application forms.
 A. Subject to the conditions set forth in §
 24.2-416.6
 , the Department of Elections shall make available to any individual or group a reasonable number of mail voter registration application forms.
@@ -3650,9 +4713,10 @@ et seq.) of Title 23.1. The State Council of Higher Education for Virginia shall
 
 ## Virginia § 24.2-416.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416.4/*
 
-§ 24.2-416.4. Return of mail voter registration applications
+§ 24.2-416.4
+. Return of mail voter registration applications.
 A. Notwithstanding the provisions of §
 24.2-416
 , a mail voter registration application returned through the United States Postal Service shall be deemed to have been made as of the date of the postmark affixed to such application by the United States Postal Service. If no such postmark is affixed or if the postmark affixed by the United States Postal Service is illegible or bears no date, such application shall be deemed to have been timely if received through the United States mail no later than five days following the time for the closing of the registration books pursuant to §
@@ -3673,9 +4737,10 @@ by 5:00 p.m. on the final day of registration provided for in §
 
 ## Virginia § 24.2-416.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416.5/*
 
-§ 24.2-416.5. Social security number or parts thereof not to be disclosed
+§ 24.2-416.5
+. Social security number or parts thereof not to be disclosed.
 Any person assisting an applicant with the completion or return of a mail voter registration application shall not copy, disclose or make any use of the social security number, or any part thereof, of the applicant except as authorized by law for official use.
 1996, cc.
 72
@@ -3687,9 +4752,10 @@ Any person assisting an applicant with the completion or return of a mail voter 
 
 ## Virginia § 24.2-416.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416.6/*
 
-§ 24.2-416.6. Registration by and instructions for voter registration drives; compensation prohibitions
+§ 24.2-416.6
+. Registration by and instructions for voter registration drives; compensation prohibitions.
 Whenever the Department of Elections, local electoral board, or general registrar's office furnishes individuals or groups multiple copies of the voter registration application, it shall provide accompanying instructions that contain a copy and explanation of §
 24.2-1002.01
 and the penalty for destruction of, or failure to mail or deliver, voter registration applications that have been signed. Any like instructions furnished to the public by whatever means shall contain a copy and explanation of §
@@ -3710,9 +4776,10 @@ No individual or group shall compensate its volunteers or employees on the basis
 
 ## Virginia § 24.2-416.7
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.7. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-416.7/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-416.7. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-416.7/*
 
-§ 24.2-416.7. Application for voter registration by electronic means
+§ 24.2-416.7
+. Application for voter registration by electronic means.
 A. Notwithstanding any other provision of law, a person who is qualified to register to vote may apply to register to vote by electronic means as authorized by the State Board by completing an electronic registration application.
 B. Notwithstanding any other provision of law, a registered voter may satisfy the requirements of §§
 24.2-423
@@ -3749,9 +4816,10 @@ H. The Department of Elections may use additional security measures approved by 
 
 ## Virginia § 24.2-417
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-417. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-417/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-417. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-417/*
 
-§ 24.2-417. Persons to be registered
+§ 24.2-417
+. Persons to be registered.
 Each registrar shall register every resident of his county or city who has the qualifications required by the Constitution of Virginia and this title and who applies for registration or transfer of his registration from another county or city in the Commonwealth at the time and in the manner required by law.
 Any person, once properly registered, shall remain registered unless his registration is cancelled pursuant to Article 5 (§
 24.2-427
@@ -3766,9 +4834,10 @@ Code 1950, §§ 24-67, 24-68; 1952, c. 341; 1958, c. 576; 1960, c. 288; 1962, c.
 
 ## Virginia § 24.2-417.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-417.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-417.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-417.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-417.1/*
 
-§ 24.2-417.1. Registration residence requirements; presumptions in certain cases
+§ 24.2-417.1
+. Registration residence requirements; presumptions in certain cases.
 In determining the residence as defined in §
 24.2-101
 and the domicile and place of abode of a participant in the American Conservation and Youth Service Corps provided for by federal law (42 U.S.C. § 12655 et seq.), there shall be a presumption that a participant in the Corps who was domiciled and had a place of abode in Virginia at the time of entering the Corps continues to be domiciled and retains the same place of abode unless the participant expressly states otherwise.
@@ -3783,9 +4852,127 @@ and domicile and place of abode of a military or merchant marine spouse or depen
 
 ## Virginia § 24.2-418
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-418. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-418/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-418. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-418/*
 
-§ 24.2-418. Application for registration
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-418
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Application for registration.
+A. Each applicant to register shall provide, subject to felony penalties for making false statements pursuant to §
+24.2-1016
+, the information necessary to complete the application to register. Unless physically disabled, he shall sign the application. The application to register shall be only on a form or forms prescribed by the State Board.
+The form of the application to register shall require the applicant to provide the following information: full name; gender; date of birth; social security number, if any; whether the applicant is presently a United States citizen; address of residence in the precinct; place of last previous registration to vote; whether the applicant has ever been adjudicated to lack the capacity to understand the act of voting, and if so, whether the applicant's capacity has been reestablished; and whether the applicant is serving a sentence of incarceration for a felony conviction at the time the application is completed. The form shall contain a statement that whoever votes more than once in any election in the same or different jurisdictions is guilty of a Class 6 felony. Unless directed by the applicant or as permitted in §
+24.2-411.2
+or
+24.2-411.3
+, the registration application shall not be pre-populated with information the applicant is required to provide.
+The form of the application to register shall request that the applicant provide his telephone number and email address, but no application shall be denied for failure to provide such information.
+B. The form shall permit any individual, as follows, or member of his household, to furnish, in addition to his residence street address, a post office box address located within the Commonwealth to be included in lieu of his street address on the lists of registered voters and persons who voted, which are furnished pursuant to §§
+24.2-405
+and
+24.2-406
+, on voter registration records made available for public inspection pursuant to §
+24.2-444
+, or on lists of absentee voter applicants furnished pursuant to §
+24.2-706
+or
+24.2-710
+. The voter shall comply with the provisions of §
+24.2-424
+for any change in the post office box address provided under this subsection.
+1. Any active or retired law-enforcement officer, as defined in §
+9.1-101
+and in 5 U.S.C. § 8331(20), but excluding officers whose duties relate to detention as defined in 5 U.S.C. § 8331(20);
+2. Any person granted a protective order issued by or under the authority of any court of competent jurisdiction, including but not limited to courts of the Commonwealth of Virginia;
+3. Any person who has furnished a signed written statement by the person that he is in fear for his personal safety from another person who has threatened or stalked him;
+4. Any person participating in the address confidentiality program pursuant to §
+2.2-515.2
+;
+5. Any active or retired federal or Virginia justice, judge, or magistrate and any active or retired attorney employed by the United States Attorney General or Virginia Attorney General;
+6. Any person who has been approved to be a foster parent pursuant to Chapter 9 (§
+63.2-900
+et seq.) of Title 63.2;
+7. Any person who is or has been one of the Commonwealth's electors for President and Vice President of the United States;
+8. Any person who is or has been a member of the State Board of Elections, the Commissioner of Elections, an employee of the Department of Elections, a member of a local electoral board pursuant to §
+24.2-106
+, a general registrar pursuant to §
+24.2-110
+, a deputy registrar or employee in the office of the general registrar pursuant to §
+24.2-112
+, or an officer of election pursuant to §
+24.2-115
+; and
+9. Any person who is or has been an elected official.
+C. If the applicant formerly resided in another state, the general registrar shall send the information contained in the applicant's registration application to the appropriate voter registration official or other authority of another state where the applicant formerly resided, as prescribed in subdivision 15 of §
+24.2-114
+.
+Code 1950, §§ 24-28, 24-68; 1952, c. 341; 1958, c. 576; 1960, c. 288; 1962, c. 536; 1968, c. 97; 1970, c. 462, §§ 24.1-22, 24.1-48; 1971, Ex. Sess., cc. 205, 247; 1972, c. 620; 1974, c. 428; 1975, c. 515; 1977, c. 490; 1980, c. 639; 1989, c. 138; 1992, c. 433; 1993, c. 641; 1994, c.
+250
+; 1995, c.
+314
+; 1996, c.
+251
+; 1997, cc.
+346
+,
+801
+; 2001, cc.
+612
+,
+626
+; 2004, c.
+184
+; 2009, cc.
+318
+,
+865
+,
+870
+,
+874
+; 2010, cc.
+795
+,
+812
+; 2012, c.
+491
+; 2013, c.
+465
+; 2015, c.
+740
+; 2016, cc.
+630
+,
+633
+; 2019, c.
+342
+; 2020, cc.
+710
+,
+857
+,
+908
+,
+909
+; 2023, cc.
+801
+,
+802
+; 2024, cc.
+309
+,
+787
+; 2026, cc.
+228
+,
+229
+,
+992
+,
+1081
+.
+§
+24.2-418
+. (For contingent expiration date, see Acts 2026, cc. 992 and 1081, cl. 3) Application for registration.
 A. Each applicant to register shall provide, subject to felony penalties for making false statements pursuant to §
 24.2-1016
 , the information necessary to complete the application to register. Unless physically disabled, he shall sign the application. The application to register shall be only on a form or forms prescribed by the State Board.
@@ -3890,12 +5077,125 @@ Code 1950, §§ 24-28, 24-68; 1952, c. 341; 1958, c. 576; 1960, c. 288; 1962, c.
 ,
 787
 .
+§
+24.2-418
+. (Effective January 1, 2027, if contingency in Acts 2026, cc. 992 and 1081, cl. 3 is not met) Application for registration.
+A. Each applicant to register shall provide, subject to felony penalties for making false statements pursuant to §
+24.2-1016
+, the information necessary to complete the application to register. Unless physically disabled, he shall sign the application. The application to register shall be only on a form or forms prescribed by the State Board.
+The form of the application to register shall require the applicant to provide the following information: full name; gender; date of birth; social security number, if any; whether the applicant is presently a United States citizen; address of residence in the precinct; place of last previous registration to vote; and whether the applicant has ever been adjudicated incapacitated and disqualified to vote or convicted of a felony, and if so, whether the applicant's right to vote has been restored. The form shall contain a statement that whoever votes more than once in any election in the same or different jurisdictions is guilty of a Class 6 felony. Unless directed by the applicant or as permitted in §
+24.2-411.2
+or
+24.2-411.3
+, the registration application shall not be pre-populated with information the applicant is required to provide.
+The form of the application to register shall request that the applicant provide his telephone number and email address, but no application shall be denied for failure to provide such information.
+B. The form shall permit any individual, as follows, or member of his household, to furnish, in addition to his residence street address, a post office box address located within the Commonwealth to be included in lieu of his street address on the lists of registered voters and persons who voted, which are furnished pursuant to §§
+24.2-405
+and
+24.2-406
+, on voter registration records made available for public inspection pursuant to §
+24.2-444
+, or on lists of absentee voter applicants furnished pursuant to §
+24.2-706
+or
+24.2-710
+. The voter shall comply with the provisions of §
+24.2-424
+for any change in the post office box address provided under this subsection.
+1. Any active or retired law-enforcement officer, as defined in §
+9.1-101
+and in 5 U.S.C. § 8331(20), but excluding officers whose duties relate to detention as defined in 5 U.S.C. § 8331(20);
+2. Any person granted a protective order issued by or under the authority of any court of competent jurisdiction, including but not limited to courts of the Commonwealth of Virginia;
+3. Any person who has furnished a signed written statement by the person that he is in fear for his personal safety from another person who has threatened or stalked him;
+4. Any person participating in the address confidentiality program pursuant to §
+2.2-515.2
+;
+5. Any active or retired federal or Virginia justice, judge, or magistrate and any active or retired attorney employed by the United States Attorney General or Virginia Attorney General;
+6. Any person who has been approved to be a foster parent pursuant to Chapter 9 (§
+63.2-900
+et seq.) of Title 63.2;
+7. Any person who is or has been one of the Commonwealth's electors for President and Vice President of the United States;
+8. Any person who is or has been a member of the State Board of Elections, the Commissioner of Elections, an employee of the Department of Elections, a member of a local electoral board pursuant to §
+24.2-106
+, a general registrar pursuant to §
+24.2-110
+, a deputy registrar or employee in the office of the general registrar pursuant to §
+24.2-112
+, or an officer of election pursuant to §
+24.2-115
+.
+9. Any person who is or has been an elected official.
+C. If the applicant formerly resided in another state, the general registrar shall send the information contained in the applicant's registration application to the appropriate voter registration official or other authority of another state where the applicant formerly resided, as prescribed in subdivision 15 of §
+24.2-114
+.
+Code 1950, §§ 24-28, 24-68; 1952, c. 341; 1958, c. 576; 1960, c. 288; 1962, c. 536; 1968, c. 97; 1970, c. 462, §§ 24.1-22, 24.1-48; 1971, Ex. Sess., cc. 205, 247; 1972, c. 620; 1974, c. 428; 1975, c. 515; 1977, c. 490; 1980, c. 639; 1989, c. 138; 1992, c. 433; 1993, c. 641; 1994, c.
+250
+; 1995, c.
+314
+; 1996, c.
+251
+; 1997, cc.
+346
+,
+801
+; 2001, cc.
+612
+,
+626
+; 2004, c.
+184
+; 2009, cc.
+318
+,
+865
+,
+870
+,
+874
+; 2010, cc.
+795
+,
+812
+; 2012, c.
+491
+; 2013, c.
+465
+; 2015, c.
+740
+; 2016, cc.
+630
+,
+633
+; 2019, c.
+342
+; 2020, cc.
+710
+,
+857
+,
+908
+,
+909
+; 2023, cc.
+801
+,
+802
+; 2024, cc.
+309
+,
+787
+; 2026, cc.
+228
+,
+229
+.
 
 ## Virginia § 24.2-418.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-418.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-418.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-418.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-418.1/*
 
-§ 24.2-418.1. Receipt for voter registration applicants
+§ 24.2-418.1
+. Receipt for voter registration applicants.
 A. The state form for the application to register to vote shall contain a receipt that shall be given to the applicant upon his completion of the form. The receipt shall be completed by the person receiving the form from the applicant and shall include the following information: the name of the office, group, or person receiving the registration application; the date that the office, group, or person received the registration application from the applicant; and the phone number of the general registrar or the toll-free phone number of the Department of Elections that the applicant may call to confirm his registration.
 B. The requirement to complete the receipt as provided in subsection A shall not be applicable when a completed form is mailed directly to or completed in the office of a general registrar or the Department.
 2008, c.
@@ -3904,11 +5204,26 @@ B. The requirement to complete the receipt as provided in subsection A shall not
 740
 .
 
+## Virginia § 24.2-418.2
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-418.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-418.2/*
+
+§ 24.2-418.2
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Registration bv persons previously incarcerated; safety net.
+A. Any person who was convicted of a felony and sentenced to a period of incarceration for such felony conviction shall be entitled to register to vote once released from incarceration. When registering to vote, such person shall not be required to present evidence, including a court order or other documentation, that he is entitled to register to vote.
+B. If the Virginia voter registration system indicates an applicant who was previously incarcerated is ineligible to register to vote due to his sentence of incarceration for a felony conviction, but the applicant is otherwise qualified, the general registrar shall promptly notify the applicant. Notice shall be in writing and shall inform the applicant that he may provide documentation stating that he has been released from incarceration for a specified felony conviction in order to be registered to vote. Such an applicant who provides documentation stating that he has been released from incarceration for a specified felony conviction shall be registered to vote.
+2026, cc.
+992
+,
+1081
+.
+
 ## Virginia § 24.2-419
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-419. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-419/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-419. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-419/*
 
-§ 24.2-419. Extended time for certain persons to register by mail
+§ 24.2-419
+. Extended time for certain persons to register by mail.
 The registration application of the following persons may accompany an application for an absentee ballot and shall be on a form prescribed by the State Board, on a federal postcard application, or on a federal write-in absentee ballot:
 1. Any member of a uniformed service, as defined in §
 24.2-452
@@ -3932,18 +5247,20 @@ Code 1950, § 24-68; 1952, c. 341; 1958, c. 576; 1960, c. 288; 1962, c. 536; 197
 
 ## Virginia § 24.2-420
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-420. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-420/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-420. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-420/*
 
-§ 24.2-420. Repealed
+§ 24.2-420
+. Repealed.
 Repealed by Acts 1995, c.
 296
 .
 
 ## Virginia § 24.2-420.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-420.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-420.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-420.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-420.1/*
 
-§ 24.2-420.1. Extended time for persons to register in person
+§ 24.2-420.1
+. Extended time for persons to register in person.
 A. Notwithstanding the provisions of §
 24.2-416
 , any person who is qualified to register to vote shall be entitled to register in person up to and including the day of the election at the office of the general registrar in the locality in which such person resides or at the polling place for the precinct in which such person resides.
@@ -3962,9 +5279,10 @@ B. The Department shall prescribe procedures for the addition of persons registe
 
 ## Virginia § 24.2-421
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-421. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-421/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-421. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-421/*
 
-§ 24.2-421. Repealed
+§ 24.2-421
+. Repealed.
 Repealed by Acts 1997, cc.
 523
 and
@@ -3973,9 +5291,10 @@ and
 
 ## Virginia § 24.2-422
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-422. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-422/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-422. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-422/*
 
-§ 24.2-422. Appeal of person denied registration
+§ 24.2-422
+. Appeal of person denied registration.
 A. Within five days after the denial of an application to register, the general registrar shall notify the applicant of the denial. Notice shall be given in writing and by email or telephone if such information was provided by the applicant.
 The general registrar shall send a new application for registration to the applicant with the form prescribed in subsection B. If the applicant provided his email address on the application for registration, the general registrar may send information to that email address regarding online voter registration. The general registrar shall advise the applicant that he may complete and submit the new application, in lieu of filing an appeal, if the reason stated for denial is that the applicant has failed to sign the application or failed to provide a required item of information on the application. If the general registrar is able to reach the applicant by telephone, corrections may be made by the applicant by telephone. Any applicant who returns a second application and whose second application is denied shall have the right to appeal provided in subsection B.
 B. A person denied registration shall have the right to appeal, without payment of writ tax or giving security for costs, to the circuit court of the county or city in which he offers to register by filing with the clerk of the court, within 10 days of being notified of the denial, a petition in writing to have his right to register determined.
@@ -4000,9 +5319,10 @@ Code 1950, § 24-112; 1970, c. 462, § 24.1-67; 1974, c. 428; 1985, c. 351; 1993
 
 ## Virginia § 24.2-423
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-423. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-423/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-423. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-423/*
 
-§ 24.2-423. Notice of change of name of registered voter
+§ 24.2-423
+. Notice of change of name of registered voter.
 Whenever a registered voter changes his legal name, either by marriage, divorce, order of court, or otherwise, the voter shall promptly notify the general registrar of the jurisdiction where he is registered. Such notice may be made in writing or on a form approved by the State Board of Elections, which may be electronic. The notice in writing may be provided by mail or by facsimile and shall be signed by the voter unless he is physically unable to sign, in which case his own mark acknowledged by a witness shall be sufficient signature. Notice may be provided by electronic means as authorized by the State Board and signed by the voter in a manner consistent with the provisions of §
 24.2-416.7
 and the Uniform Electronic Transactions Act (§
@@ -4016,9 +5336,10 @@ Code 1950, § 24-81; 1970, c. 462, § 24.1-51; 1993, c. 641; 2003, c.
 
 ## Virginia § 24.2-424
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-424. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-424/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-424. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-424/*
 
-§ 24.2-424. Change of registered voter's address within the Commonwealth; pilot project
+§ 24.2-424
+. Change of registered voter's address within the Commonwealth; pilot project.
 A. Whenever a registered voter changes his place of residence within the Commonwealth, he shall promptly notify any general registrar of the address of his new residence. Such notice may be made in person, in writing, by return of the voter registration card noting the new address, or on a form approved by the State Board of Elections, which may be electronic. The notice in writing may be provided by mail or by facsimile and shall be signed by the voter unless he is physically unable to sign, in which case his own mark acknowledged by a witness shall be sufficient signature. Notice may be provided by electronic means as authorized by the State Board and signed by the voter in a manner consistent with the provisions of §
 24.2-416.7
 and the Uniform Electronic Transactions Act (§
@@ -4054,48 +5375,57 @@ Code 1950, § 24-85; 1970, c. 462, § 24.1-52; 1971, Ex. Sess., c. 247; 1977, c.
 
 ## Virginia § 24.2-425
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-425. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-425/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-425. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-425/*
 
-§ 24.2-425. Repealed
+§ 24.2-425
+. Repealed.
 Repealed by Acts 2016, c
 857
 , cl 2
 
 ## Virginia § 24.2-426
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-426. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-426/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-426. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-426/*
 
-§ 24.2-426. Repealed
+§ 24.2-426
+. Repealed.
 Repealed by Acts 1997, c.
 805
 .
 
+## Virginia § 24.2-426.1
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-426.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-426.1/*
+
+§ 24.2-426.1
+. (For contingent effective date, see Acts 2026, cc. 992 and 1081, cl. 3) Cancellation of registration by voter.
+A. Any registered voter may cancel his registration by submitting to the general registrar a written authorization, signed by the voter, that his voter registration shall be canceled. Such cancellation authorization shall be made at least 22 days prior to an election in order to be valid in that election, unless such cancellation authorization is made in person or notarized. Within 10 days of receiving such authorization, the general registrar shall acknowledge receipt of the authorization and advise the voter by first-class mail, or in person if such authorization is made in person, that his registration has been canceled.
+B. Notice received by a general registrar from the registration official of another jurisdiction, or signed by the voter, that a registered voter has moved from the Commonwealth or that the registered voter has registered to vote outside the Commonwealth subsequent to his registration in the Commonwealth shall be considered a written authorization from the voter to have his registration canceled. Information received through a list exchange or list comparison pursuant to § 24.2-410.3 shall not be deemed to be notice for purposes of this subsection.
+2026, c.
+1120
+.
+
 ## Virginia § 24.2-427
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-427. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-427/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-427. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-427/*
 
-§ 24.2-427. Cancellation of registration by voter or for persons known to be deceased or disqualified to vote
-A. Any registered voter may cancel his registration and have his name removed from the central registration records by signing an authorization for cancellation and mailing or otherwise submitting the signed authorization to the general registrar. When submitted by any means other than when notarized or in person, such cancellation must be made at least 22 days prior to an election in order to be valid in that election. The general registrar shall acknowledge receipt of the authorization and advise the voter in person or by first-class mail that his registration has been canceled within 10 days of receipt of such authorization.
-B. The general registrar shall promptly cancel the registration of (i) all persons known by him to be deceased; (ii) all persons known by him to be disqualified to vote by reason of a felony conviction or adjudication of incapacity; (iii) all persons known by him not to be United States citizens by reason of reports from the Department of Motor Vehicles pursuant to §
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-427
+. (For contingent expiration date, see Acts 2026, cc. 992 and 1081, cl. 3) Cancellation of registration for persons known to be deceased or disqualified to vote.
+A. The general registrar shall promptly cancel the registration of all persons known by him to be deceased or disqualified to vote in accordance with the provisions of this section. A voter's registration may be canceled at any time during the year in which the general registrar discovers that the person is no longer entitled to be registered. The general registrar shall provide notice of any cancellation to the person whose registration is canceled, by mail to the address listed in the voter's registration record and by email to the email address provided on the voter's registration application, if one was provided.
+B. Upon receipt of a report from the Department of Motor Vehicles pursuant to §
 24.2-410.1
 or from the Department of Elections based on information received from the Systematic Alien Verification for Entitlements Program (SAVE Program) pursuant to subsection E of §
 24.2-404
-and in accordance with the requirements of subsection C; (iv) all persons for whom a notice has been received, signed by the voter, or from the registration official of another jurisdiction that the voter has moved from the Commonwealth; and (v) all persons for whom a notice has been received, signed by the voter, or from the registration official of another jurisdiction that the voter has registered to vote outside the Commonwealth, subsequent to his registration in Virginia. The notice received in clauses (iv) and (v) shall be considered as a written request from the voter to have his registration cancelled. A voter's registration may be cancelled at any time during the year in which the general registrar discovers that the person is no longer entitled to be registered. The general registrar shall provide notice of any cancellation to the person whose registration is cancelled, by mail to the address listed in the voter's registration record and by email to the email address provided on the voter's registration application, if one was provided.
-C. The general registrar shall mail notice promptly to all persons known by him not to be United States citizens by reason of a report from the Department of Motor Vehicles pursuant to §
-24.2-410.1
-or from the Department of Elections based on information received from the Systematic Alien Verification for Entitlements Program (SAVE Program) pursuant to subsection E of §
-24.2-404
-prior to cancelling their registrations. The notice shall inform the person of the report from the Department of Motor Vehicles or from the Department of Elections and allow the person to submit his sworn statement that he is a United States citizen within 14 days of the date that the notice was mailed. The general registrar shall cancel the registrations of such persons who do not respond within 14 days to the notice that they have been reported not to be United States citizens.
-D. The general registrar shall (i) process the Department's most recent list of persons convicted of felonies within 21 to 14 days before any primary or general election, (ii) cancel the registration of any registered voter shown to have been convicted of a felony who has not provided evidence that his right to vote has been restored, and (iii) send prompt notice to the person of the cancellation of his registration. If it appears that any registered voter has made a false statement on his registration application with respect to his having been convicted of a felony, the general registrar shall report the fact to the attorney for the Commonwealth for prosecution under §
-24.2-1016
-for a false statement made on his registration application.
-E. The general registrar may cancel the registration of any person for whom a notice has been submitted to the Department of Motor Vehicles in accordance with the Driver License Compact set out in Article 18 (§ 46.2-483 et seq.) of Chapter 3 of Title 46.2 and forwarded to the general registrar, that the voter has moved from the Commonwealth; provided that the registrar shall mail notice of such cancellation to the person at both his new address, as reported to the Department of Motor Vehicles, and the address at which he had most recently been registered in Virginia. No general registrar may cancel registrations under this authority while the registration records are closed pursuant to §
+, the general registrar shall mail notice promptly to all persons listed in the report as not being a citizen of the United States prior to cancelling the registrations of such persons. The notice shall inform the person of the report from the Department of Motor Vehicles or from the Department of Elections and allow the person to submit his sworn statement that he is a United States citizen within 14 days of the date that the notice was mailed. The general registrar shall cancel the registrations of such persons who do not respond within 14 days to the notice that they have been reported not to be United States citizens.
+C. Upon receipt of notice from the Department of Elections pursuant to §
+24.2-409
+that a registered voter has been convicted of a felony, the general registrar shall mail notice promptly to the registered voter prior to canceling such person's registration. The notice shall inform the person of the report from the Central Criminal Records Exchange and allow the person to submit his sworn statement that he has not been convicted of a felony or that, if having been convicted of a felony, his right to vote has been restored. Such statement shall be submitted to the general registrar within 14 days of the date that the notice was mailed and the registrar shall cancel the registration of any person who does not respond within such time.
+D. Upon receipt of a notice submitted to the Department of Motor Vehicles in accordance with the Driver License Compact set out in Article 18 (§ 46.2-483 et seq.) of Chapter 3 of Title 46.2 that a registered voter has moved from the Commonwealth, the general registrar may cancel the registration of such person. Prior to canceling a registration pursuant to this subsection, the general registrar shall mail notice of such cancellation to the person at both his new address, as reported to the Department of Motor Vehicles, and the address at which he had most recently been registered in Virginia. No general registrar may cancel registrations under this subsection while the registration records are closed pursuant to §
 24.2-416
-. No registrar may cancel the registration under this authority of any person entitled to register under the provisions of subsection A of §
-24.2-420.1
-, and shall reinstate the registration of any otherwise qualified voter covered by subsection A of §
-24.2-420.1
-who applies to vote within four years of the date of cancellation.
+. No registrar may cancel the registration under this authority of any person who (i) is a member of a uniformed service of the United States, as defined in §
+24.2-452
+, on active duty; (ii) resides temporarily outside of the United States; or (iii) is a spouse or dependent residing with a person listed in clause (i) or (ii), and shall reinstate the registration of any such person who is otherwise a qualified voter and who applies to vote within four years of the date of cancellation.
 Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94, 24-101, 24-111; 1958, c. 576; 1962, cc. 422, 536; 1970, c. 462, § 24.1-46(12); 1972, c. 620; 1973, c. 30; 1974, c. 428; 1976, c. 616; 1979, c. 329; 1980, c. 639; 1982, c. 650; 1983, c. 398; 1984, c. 480; 1986, c. 558; 1990, c. 193; 1993, c. 641; 1996, cc.
 72
 ,
@@ -4114,7 +5444,7 @@ Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94,
 785
 ,
 819
-; 2006, cc.
+; 2006 cc.
 926
 ,
 940
@@ -4134,13 +5464,134 @@ Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94,
 28
 ,
 318
+; 2026, cc.
+1120
+.
+§
+24.2-427
+. (Effective January 1, 2027, if contingency in  Acts 2026, cc. 992 and 1081, cl. 3 is met) Cancellation of registration for persons known to be deceased or disqualified to vote.
+A. The general registrar shall promptly cancel the registration of all persons known by him to be deceased or disqualified to vote in accordance with the provisions of this section. A voter's registration may be canceled at any time during the year in which the general registrar discovers that the person is no longer entitled to be registered. The general registrar shall provide notice of any cancellation to the person whose registration is canceled, by mail to the address listed in the voter's registration record and by email to the email address provided on the voter's registration application, if one was provided.
+B. Upon receipt of a report from the Department of Motor Vehicles pursuant to §
+24.2-410.1
+or from the Department of Elections based on information received from the Systematic Alien Verification for Entitlements Program (SAVE Program) pursuant to subsection E of §
+24.2-404
+, the general registrar shall mail notice promptly to all persons listed in the report as not being a citizen of the United States prior to cancelling the registrations of such persons. The notice shall inform the person of the report from the Department of Motor Vehicles or from the Department of Elections and allow the person to submit his sworn statement that he is a United States citizen within 14 days of the date that the notice was mailed. The general registrar shall cancel the registrations of such persons who do not respond within 14 days to the notice that they have been reported not to be United States citizens.
+C. Upon receipt of notice from the Department of Elections pursuant to § 24.2-409 that a registered voter has been convicted of a felony and sentenced to a period of incarceration, the general registrar shall mail notice promptly to the registered voter prior to canceling such person's registration. The notice shall inform the person of the report from the Central Criminal Records Exchange and allow the person to submit his sworn statement that he has not been convicted of a felony and sentenced to a period of incarceration or that, if having been convicted of a felony, he was not serving a sentence incarceration at the time the application was completed. Such statement shall be submitted to the general registrar within 14 days of the date that the notice was mailed and the registrar shall cancel the registration of any person who does not respond within such time.
+D. Upon receipt of a notice submitted to the Department of Motor Vehicles in accordance with the Driver License Compact set out in Article 18 (§ 46.2-483 et seq.) of Chapter 3 of Title 46.2 that a registered voter has moved from the Commonwealth, the general registrar may cancel the registration of such person. Prior to canceling a registration pursuant to this subsection, the general registrar shall mail notice of such cancellation to the person at both his new address, as reported to the Department of Motor Vehicles, and the address at which he had most recently been registered in Virginia. No general registrar may cancel registrations under this subsection while the registration records are closed pursuant to §
+24.2-416
+. No registrar may cancel the registration under this authority of any person who (i) is a member of a uniformed service of the United States, as defined in §
+24.2-452
+, on active duty; (ii) resides temporarily outside of the United States; or (iii) is a spouse or dependent residing with a person listed in clause (i) or (ii), and shall reinstate the registration of any such person who is otherwise a qualified voter and who applies to vote within four years of the date of cancellation.
+Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94, 24-101, 24-111; 1958, c. 576; 1962, cc. 422, 536; 1970, c. 462, § 24.1-46(12); 1972, c. 620; 1973, c. 30; 1974, c. 428; 1976, c. 616; 1979, c. 329; 1980, c. 639; 1982, c. 650; 1983, c. 398; 1984, c. 480; 1986, c. 558; 1990, c. 193; 1993, c. 641; 1996, cc.
+72
+,
+73
+; 1997, cc.
+801
+,
+805
+; 1999, c.
+851
+; 2000, c.
+857
+; 2001, c.
+634
+; 2002, cc.
+785
+,
+819
+; 2006 cc.
+926
+,
+940
+; 2007, c.
+318
+; 2008, c.
+382
+; 2012, c.
+686
+; 2013, c.
+686
+; 2015, c.
+740
+; 2022, cc.
+4
+,
+28
+,
+318
+; 2026, cc.
+992
+,
+1081
+,
+1120
+.
+§
+24.2-427
+. (Effective January 1, 2027, if contingency in  Acts 2026, cc. 992 and 1081, cl. 3 is not met) Cancellation of registration for persons known to be deceased or disqualified to vote.
+A. The general registrar shall promptly cancel the registration of all persons known by him to be deceased or disqualified to vote in accordance with the provisions of this section. A voter's registration may be canceled at any time during the year in which the general registrar discovers that the person is no longer entitled to be registered. The general registrar shall provide notice of any cancellation to the person whose registration is canceled, by mail to the address listed in the voter's registration record and by email to the email address provided on the voter's registration application, if one was provided.
+B. Upon receipt of a report from the Department of Motor Vehicles pursuant to §
+24.2-410.1
+or from the Department of Elections based on information received from the Systematic Alien Verification for Entitlements Program (SAVE Program) pursuant to subsection E of §
+24.2-404
+, the general registrar shall mail notice promptly to all persons listed in the report as not being a citizen of the United States prior to cancelling the registrations of such persons. The notice shall inform the person of the report from the Department of Motor Vehicles or from the Department of Elections and allow the person to submit his sworn statement that he is a United States citizen within 14 days of the date that the notice was mailed. The general registrar shall cancel the registrations of such persons who do not respond within 14 days to the notice that they have been reported not to be United States citizens.
+C. Upon receipt of notice from the Department of Elections pursuant to §
+24.2-409
+that a registered voter has been convicted of a felony, the general registrar shall mail notice promptly to the registered voter prior to canceling such person's registration. The notice shall inform the person of the report from the Central Criminal Records Exchange and allow the person to submit his sworn statement that he has not been convicted of a felony or that, if having been convicted of a felony, his right to vote has been restored. Such statement shall be submitted to the general registrar within 14 days of the date that the notice was mailed and the registrar shall cancel the registration of any person who does not respond within such time.
+D. Upon receipt of a notice submitted to the Department of Motor Vehicles in accordance with the Driver License Compact set out in Article 18 (§ 46.2-483 et seq.) of Chapter 3 of Title 46.2 that a registered voter has moved from the Commonwealth, the general registrar may cancel the registration of such person. Prior to canceling a registration pursuant to this subsection, the general registrar shall mail notice of such cancellation to the person at both his new address, as reported to the Department of Motor Vehicles, and the address at which he had most recently been registered in Virginia. No general registrar may cancel registrations under this subsection while the registration records are closed pursuant to §
+24.2-416
+. No registrar may cancel the registration under this authority of any person who (i) is a member of a uniformed service of the United States, as defined in §
+24.2-452
+, on active duty; (ii) resides temporarily outside of the United States; or (iii) is a spouse or dependent residing with a person listed in clause (i) or (ii), and shall reinstate the registration of any such person who is otherwise a qualified voter and who applies to vote within four years of the date of cancellation.
+Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94, 24-101, 24-111; 1958, c. 576; 1962, cc. 422, 536; 1970, c. 462, § 24.1-46(12); 1972, c. 620; 1973, c. 30; 1974, c. 428; 1976, c. 616; 1979, c. 329; 1980, c. 639; 1982, c. 650; 1983, c. 398; 1984, c. 480; 1986, c. 558; 1990, c. 193; 1993, c. 641; 1996, cc.
+72
+,
+73
+; 1997, cc.
+801
+,
+805
+; 1999, c.
+851
+; 2000, c.
+857
+; 2001, c.
+634
+; 2002, cc.
+785
+,
+819
+; 2006 cc.
+926
+,
+940
+; 2007, c.
+318
+; 2008, c.
+382
+; 2012, c.
+686
+; 2013, c.
+686
+; 2015, c.
+740
+; 2022, cc.
+4
+,
+28
+,
+318
+; 2026, cc.
+1120
 .
 
 ## Virginia § 24.2-428
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-428. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-428/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-428. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-428/*
 
-§ 24.2-428. Regular periodic review of registration records; notice to voters identified as having moved; placement on inactive status for failure to respond to notice
+§ 24.2-428
+. (Repealed effective July 1, 2027) Regular periodic review of registration records; notice to voters identified as having moved; placement on inactive status for failure to respond to notice.
 A. The Department of Elections shall establish a voter list maintenance program using the change of address information supplied by the United States Postal Service through its licensees or by other reliable sources to identify voters whose addresses may have changed. Any such program shall be regular and periodic and shall be conducted at least annually. The program shall be completed not later than ninety days prior to the date of a federal primary or federal general election.
 B. If it appears from information provided by the Postal Service or by other reliable sources that a voter has moved to a different address in the same county or city in which the voter is currently registered, the Department shall provide to the general registrar the information necessary to change the registration records to show the new address, and the Department or the general registrar shall send to the new address of the voter by forwardable mail, a notice of the change, along with a postage prepaid, pre-addressed return card by which the voter may verify or correct the address information.
 C. If it appears from information provided by the Postal Service or by other reliable sources that a voter has moved to a different address not in the same county or city, the Department or the general registrar shall send to the last known address of the voter by forwardable mail, a notice on a form prescribed by the Department, along with a postage prepaid and pre-addressed return card on which the voter may state his current address.
@@ -4158,13 +5609,16 @@ Code 1950, §§ 24-96, 24-97, 24-107; 1954, c. 690; 1962, c. 536; 1964, c. 538; 
 857
 ; 2015, c.
 740
-.
+; 2026, c.
+1120
+, cl. 2.
 
 ## Virginia § 24.2-428.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-428.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-428.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-428.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-428.1/*
 
-§ 24.2-428.1. Other procedures for assigning registered voters to inactive status
+§ 24.2-428.1
+. (Repealed effective July 1, 2027) Other procedures for assigning registered voters to inactive status.
 In addition to the voter list maintenance program provided for in §
 24.2-428
 , the general registrar and the registered voter shall follow the confirmation notification procedures set forth in subsections C through E of §
@@ -4186,13 +5640,16 @@ et seq.);
 73
 ; 2001, c.
 625
-.
+; 2026, c.
+1120
+, cl. 2.
 
 ## Virginia § 24.2-428.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-428.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-428.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-428.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-428.2/*
 
-§ 24.2-428.2. Return of registered voter to active status
+§ 24.2-428.2
+. (Repealed effective July 1, 2027) Return of registered voter to active status.
 A registered voter shall be returned to active status from inactive status if, during the period beginning on the date the voter was assigned to inactive status and ending on the day of the second general election for federal office thereafter, the voter:
 1. Notifies the general registrar of a change of address within the county or city;
 2. Responds to a confirmation notice with information that the voter continues to reside at the registration address;
@@ -4208,72 +5665,73 @@ The general registrar shall post at the courthouse or have published in a newspa
 72
 ,
 73
-.
+; 2026, c.
+1120
+, cl. 2.
 
 ## Virginia § 24.2-429
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-429. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-429/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-429. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-429/*
 
-§ 24.2-429. Maintenance of accurate registration records by general registrar; notice and hearing before cancellation
-Whenever a registered voter is alleged to be improperly registered, except for reason of removal of residence from the precinct, either by the general registrar or by any three qualified voters of the county or city who make such an allegation to the general registrar, the registrar shall post at the courthouse or publish in a newspaper of general circulation in his county or city the name of the registered voter on a list of persons whose registrations are to be cancelled by the general registrar. The list shall be certified by the registrar and delivered or sent by mail to the county or city chairman of each political party. If sent by mail, the general registrar shall obtain a certificate of mailing. In addition to the posted or published list, the general registrar shall send a notice by mail to the last known address of each registered voter on the list, stating the reasons provided by law for the cancellation, the facts on which the cancellation is based, and when the registrar, at his office during regular office hours, will hear testimony produced for or against the right of persons named in the notice to be retained on the registration records. The hearings shall be held not less than ten days after the mailing of the notice, and in no event shall be within sixty days of the general election in November or within thirty days of any other election in the county or city.
-At the hearing, the registrar shall hear the testimony produced and shall determine if the registered voter named in the notice is qualified to vote in the county or city. If the person is no longer qualified to vote, the registrar shall cancel the voter's registration. Nothing contained in this section shall prevent the registered voter from applying to the general registrar for a transfer to his proper jurisdiction, provided the registration records are not closed as provided by law. The general registrar may continue the hearing for a period of not more than thirty days in order to complete his examination. If the registered voter so challenged fails to appear and defend his right to be registered, his registration shall be cancelled by the general registrar.
-Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94, 24-97, 24-98, 24-101, 24-107, 24-108, 24-111; 1954, c. 690; 1958, c. 576; 1962, cc. 422, 536; 1964, c. 538; 1970, c. 462, §§ 24.1-46(13), 24.1-60, 24.1-61; 1972, c. 620; 1973, c. 30; 1974, c. 428; 1976, c. 616; 1979, c. 329; 1980, c. 639; 1982, c. 650; 1983, c. 398; 1984, c. 480; 1986, c. 558; 1990, c. 193; 1991, c. 10; 1993, c. 641; 1996, cc.
-72
-,
-73
-.
+§ 24.2-429
+. Repealed.
+Repealed by Acts 2026, c.
+1064
+, cl.2, effective July 1, 2026
 
 ## Virginia § 24.2-430
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-430. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-430/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-430. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-430/*
 
-§ 24.2-430. Appeal from decision of registrar
-Any person whose registration was cancelled in accordance with the decision of the general registrar pursuant to §
-24.2-429
-, shall have the right of appeal, as provided in §
-24.2-422
-, to the circuit court of the county or city in which he offers to register. Any qualified voter of the county or city shall have the same right of appeal from the decision of the general registrar refusing to cancel the registration of any person alleged to be improperly registered.
-Code 1950, §§ 24-99, 24-109; 1970, c. 462, § 24.1-62; 1993, c. 641.
+§ 24.2-430
+. Repealed.
+Repealed by Acts 2026, c.
+1064
+, cl.2, effective July 1, 2026
 
 ## Virginia § 24.2-431
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-431. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-431/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-431. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-431/*
 
-§ 24.2-431. Petition to court objecting to registration
-In addition to challenging a voter's registration before the general registrar, any three qualified voters may file with the circuit court of the county or city in which they are registered, a petition stating their objections to the registration of any person whose name is on the registration records for their county or city. However, no petition may be filed if the only objection raised is based on removal of residence from the precinct.
+§ 24.2-431
+. Petition to court objecting to registration.
+A. Any three qualified voters may file with the circuit court of the county or city in which they are registered a petition stating their objections to the registration of any person whose name is on the registration records for their county or city. However, no petition may be filed if the only objection raised is based on removal of residence from the precinct.
+B. Fifteen days' notice shall be given by the petitioners to any person whose registration is objected to unless otherwise ordered by the court, and the court shall summarily proceed to determine the right of the person to registration. Any petition filed under this section shall be given precedence on the docket of the court. An order of the court concerning registration of the voter shall not be limited by the provisions of § 24.2-416 requiring the registration records to be closed.
+C. Any notice of appeal shall be filed within seven days of the circuit court's final order and all appeals under this section shall be given precedence on the docket.
 Code 1950, § 24-102; 1970, c. 462, § 24.1-63; 1993, c. 641; 1996, cc.
 72
 ,
 73
+; 2026 , c.
+1064
 .
 
 ## Virginia § 24.2-432
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-432. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-432/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-432. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-432/*
 
-§ 24.2-432. Notice to person objected to and decision of court
-Fifteen days' notice shall be given by the petitioners to any person whose registration is objected to pursuant to §
-24.2-431
-, and the court shall summarily proceed to determine the right of the person to registration. The determination shall be without the necessity of formal pleadings and in preference to all other matters on the docket. An order of the court concerning registration of the voter shall not be limited by the provisions of §
-24.2-416
-requiring the registration records to be closed.
-Code 1950, § 24-103; 1970, c. 462, § 24.1-64; 1993, c. 641.
+§ 24.2-432
+. Repealed.
+Repealed by Acts 2026, c.
+1064
+, cl.2, effective July 1, 2026
 
 ## Virginia § 24.2-433
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-433. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-433/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-433. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-433/*
 
-§ 24.2-433. Appeal from decision of court
-From the judgment of the court, an appeal shall lie, as a matter of right, to the Court of Appeals. The appeal shall be placed on the privileged docket and be heard by the next available panel of the court.
-Code 1950, § 24-104; 1970, c. 462, § 24.1-65; 1974, c. 428; 1993, c. 641; 2021, Sp. Sess. I, c.
-489
-.
+§ 24.2-433
+. Repealed.
+Repealed by Acts 2026, c.
+1064
+, cl.2, effective July 1, 2026
 
 ## Virginia § 24.2-434
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-434. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-434/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-434. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-434/*
 
-§ 24.2-434. Presumption if petition not brought within six months of registration
+§ 24.2-434
+. Presumption if petition not brought within six months of registration.
 Unless the petition provided for in §
 24.2-431
 is filed within six months after the registration of any person, it shall be conclusively presumed in all proceedings where the right of such person to registration arises, by election officers and by judicial tribunals, or in election contests of any kind and character, that such person has complied with all the procedural requirements of the law in making an application for registration.
@@ -4281,19 +5739,33 @@ Code 1950, § 24-105; 1970, c. 462, § 24.1-66; 1993, c. 641.
 
 ## Virginia § 24.2-435
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-435. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-435/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-435. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-435/*
 
-§ 24.2-435. Cancellation records to be retained for specified periods
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-435
+. (Effective until July 1, 2027) Cancellation records to be retained for specified periods.
 The registration records of voters whose registration has been cancelled pursuant to this article shall be retained for two years from the date of cancellation by the general registrar. However, the registration records of voters whose registration has been cancelled because the voter has moved to another state or the voter has submitted changes to his registration records shall be retained for four years.
 Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94, 24-96, 24-101, 24-111; 1958, c. 576; 1962, cc. 422, 536; 1970, c. 462, §§ 24.1-46(12), 24.1-59; 1972, c. 620; 1973, c. 30; 1974, c. 428; 1975, c. 515; 1976, c. 616; 1979, c. 329; 1980, c. 639; 1982, c. 650; 1983, c. 398; 1984, c. 480; 1986, cc. 241, 558; 1990, cc. 193, 313; 1993, c. 641; 2003, c.
 238
 .
+§
+24.2-435
+. (Effective July 1, 2027) Records related to cancellation of registration; retention period.
+The registration records of voters whose registration has been cancelled pursuant to this article shall be retained for four years from the date of cancellation by the general registrar. The cancellation records required by subdivision A 5 of §
+24.2-404
+shall also be retained for four years from the date of cancellation by the general registrar.
+Code 1950, §§ 24-59, 24-60, 24-60.1, 24-71 through 24-73, 24-90, 24-93, 24-94, 24-96, 24-101, 24-111; 1958, c. 576; 1962, cc. 422, 536; 1970, c. 462, §§ 24.1-46(12), 24.1-59; 1972, c. 620; 1973, c. 30; 1974, c. 428; 1975, c. 515; 1976, c. 616; 1979, c. 329; 1980, c. 639; 1982, c. 650; 1983, c. 398; 1984, c. 480; 1986, cc. 241, 558; 1990, cc. 193, 313; 1993, c. 641; 2003, c.
+238
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-436
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-436. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-436/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-436. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-436/*
 
-§ 24.2-436. Repealed
+§§ 24.2-436 through 24.2-439
+. Repealed.
 Repealed by Acts 2001, cc.
 616
 and
@@ -4302,27 +5774,31 @@ and
 
 ## Virginia § 24.2-440
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-440. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-440/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-440. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-440/*
 
-§ 24.2-440. Repealed
+§§ 24.2-440 through 24.2-443
+. Repealed.
 Repealed by Acts 2012, c.
 353
 , cl. 2.
 
 ## Virginia § 24.2-443.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-443.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-443.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-443.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-443.1/*
 
-§ 24.2-443.1. Repealed
+§§ 24.2-443.1 through 24.2-443.4
+. Repealed.
 Repealed by Acts 2012, c.
 353
 , cl. 2.
 
 ## Virginia § 24.2-444
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-444. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-444/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-444. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-444/*
 
-§ 24.2-444. Duties of general registrars and Department of Elections as to voter registration records; public inspection; exceptions
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-444
+. (Effective until July 1, 2027) Duties of general registrars and Department of Elections as to voter registration records; public inspection; exceptions.
 A. Registration records shall be kept and preserved by the general registrar in compliance with §§
 2.2-3803
 ,
@@ -4365,20 +5841,65 @@ Code 1950, § 24-113; 1970, c. 462, § 24.1-56; 1993, c. 641; 1994, c.
 ; 2015, c.
 740
 .
+§
+24.2-444
+. (Effective July 1, 2027) Duties of general registrars and Department of Elections as to voter registration records; public inspection; exceptions.
+A. Registration records shall be kept and preserved by the general registrar in compliance with §§
+2.2-3803
+,
+2.2-3808
+, and
+24.2-114
+. The Department shall provide to each general registrar, for each precinct in his county or city, lists of registered voters for inspection. The lists shall contain the name, address, year of birth, gender and all election districts applicable to each registered voter. The lists shall be opened to public inspection at the office of the general registrar when the office is open for business. New lists shall be provided not less than once each year to all localities except those in which an updated list is made available electronically for public inspection, and supplements containing additions, deletions, and changes shall be provided not less than (i) weekly during the 60 days preceding any general election and (ii) monthly at other times. Notwithstanding any other provision of law regarding the retention of records, upon receipt of any new complete list, the general registrar shall destroy the obsolete list and its supplements. The Department shall provide to each general registrar lists of persons denied registration for public inspection. Such lists may be provided electronically through the Virginia voter registration system and produced in whole or in part upon a request for public inspection.
+B. The general registrars shall maintain for at least two years and shall make available for public inspection and copying and, where available, photocopying at a reasonable cost, all records concerning the implementation of programs and activities conducted for the purpose of ensuring the accuracy and currency of the registration records pursuant to §§ 24.2-410.4, 24.2-410.5, and
+24.2-427
+, including lists of the names and addresses of all persons to whom notices are sent, and information concerning whether each person has responded to the notice as of the date that inspection of the records is made.
+C. No list provided by the Department under subsection A nor any record made available for public inspection under subsection B shall contain any of the following information: (i) an individual's social security number, or any part thereof; (ii) the residence address of an individual who has furnished a post office box address in lieu of his residence address as authorized by subsection B of §
+24.2-418
+; (iii) the declination by an individual to register to vote and related records; (iv) the identity of a voter registration agency through which a particular voter is registered; or (v) the day and month of birth of an individual. No voter registration records other than the lists provided by the Department under subsection A and the records made available under subsection B shall be open to public inspection.
+Code 1950, § 24-113; 1970, c. 462, § 24.1-56; 1993, c. 641; 1994, c.
+656
+; 1996, cc.
+72
+,
+73
+; 2001, cc.
+612
+,
+626
+; 2003, c.
+1015
+; 2007, cc.
+311
+,
+318
+; 2008, c.
+379
+; 2009, c.
+318
+; 2012, c.
+353
+; 2015, c.
+740
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-445
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-445. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-445/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-445. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-445/*
 
-§ 24.2-445. Registration records controlling in event of conflict
+§ 24.2-445
+. Registration records controlling in event of conflict.
 In the event of a conflict as to whether a person is registered to vote, the registration and voting records in the possession of the general registrar shall be controlling.
 1970, c. 462, § 24.1-28; 1993, c. 641.
 
 ## Virginia § 24.2-446
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-446. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-446/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-446. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-446/*
 
-§ 24.2-446. Reconstruction of destroyed registration records
+§ 24.2-446
+. Reconstruction of destroyed registration records.
 Whenever the registration records of a county or city have been destroyed by fire or otherwise, the Department shall provide substitute active registration records obtained from the Virginia voter registration system.
 For active registration records not retrievable from the system, the general registrar shall give notice that he is reconstructing such records by posting the notice at ten places in the jurisdiction or publishing it once in a newspaper having general circulation in the jurisdiction.
 In the reconstruction, the registrar shall place on the registration records the names of all voters known by him who have been previously registered, or who can show by evidence satisfactory to the registrar that their names were on the old records and who still reside in the county or city.
@@ -4388,17 +5909,19 @@ Code 1950, § 24-91; 1970, c. 462, § 24.1-58; 1993, c. 641; 2015, c.
 
 ## Virginia § 24.2-447
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-447. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-447/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-447. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4/section24.2-447/*
 
-§ 24.2-447. Persons registered prior to this title
+§ 24.2-447
+. Persons registered prior to this title.
 Any person validly registered to vote as of December 1, 1993, shall continue to be registered subject to the provisions of this title.
 Code 1950, § 24-117; 1970, c. 462, § 24.1-69; 1993, c. 641.
 
 ## Virginia § 24.2-451
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-451. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-451/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-451. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-451/*
 
-§ 24.2-451. Short title
+§ 24.2-451
+. Short title.
 This chapter may be cited as the Uniform Military and Overseas Voters Act.
 2012, c.
 353
@@ -4406,9 +5929,10 @@ This chapter may be cited as the Uniform Military and Overseas Voters Act.
 
 ## Virginia § 24.2-452
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-452. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-452/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-452. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-452/*
 
-§ 24.2-452. Definitions
+§ 24.2-452
+. Definitions.
 As used in this chapter, unless the context requires a different meaning:
 1. "Covered voter" means:
 a. A uniformed-service voter or an overseas voter who is registered to vote in this state;
@@ -4459,9 +5983,10 @@ d. A spouse or dependent of a member referred to in this definition.
 
 ## Virginia § 24.2-453
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-453. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-453/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-453. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-453/*
 
-§ 24.2-453. Restriction of ballot eligibility
+§ 24.2-453
+. Restriction of ballot eligibility.
 To be eligible to vote in state and local elections, the application of an overseas voter who has given up his place of abode in Virginia must show that the applicant is employed overseas or the spouse or dependent of a person employed overseas.
 2012, c.
 353
@@ -4469,9 +5994,10 @@ To be eligible to vote in state and local elections, the application of an overs
 
 ## Virginia § 24.2-454
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-454. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-454/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-454. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-454/*
 
-§ 24.2-454. Elections covered
+§ 24.2-454
+. Elections covered.
 The voting procedures in this chapter apply to:
 1. A general, special, or primary election for federal office;
 2. A general, special, or primary election for statewide or state legislative office or state referendum measure; and
@@ -4484,9 +6010,10 @@ et seq.) for which absentee voting is available for other voters.
 
 ## Virginia § 24.2-455
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-455. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-455/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-455. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-455/*
 
-§ 24.2-455. Role of Commissioner of Elections
+§ 24.2-455
+. Role of Commissioner of Elections.
 A. The Commissioner of Elections is the state official responsible for implementing this chapter and Virginia's responsibilities under the Uniformed and Overseas Citizens Absentee Voting Act, 52 U.S.C. § 20301 et seq.
 B. The Commissioner shall make available to covered voters information regarding voter registration procedures for covered voters and procedures for casting military-overseas ballots. The Commissioner may delegate the responsibility under this subsection only to the state office designated in compliance with § 102(b)(1) of the Uniformed and Overseas Citizens Absentee Voting Act, 52 U.S.C. § 20302(b)(1).
 C. The Commissioner shall coordinate with local electoral boards to establish an appropriate system through which a covered voter may apply for and receive voter registration materials, military-overseas ballots, and other information under this chapter.
@@ -4502,9 +6029,10 @@ E. The Commissioner shall prescribe the form and content of a declaration for us
 
 ## Virginia § 24.2-456
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-456. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-456/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-456. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-456/*
 
-§ 24.2-456. Overseas voter's registration address
+§ 24.2-456
+. Overseas voter's registration address.
 In registering to vote, an overseas voter who is eligible to vote in this state shall use and must be assigned to the voting precinct of the address of the last place of residence of the voter in this state or, in the case of a voter described by subdivision 1 e of §
 24.2-452
 , the address of the last place of residence in this state of the parent or legal guardian of the voter. If that address is no longer a recognized residential address, the voter must be assigned an address for voting purposes.
@@ -4514,9 +6042,10 @@ In registering to vote, an overseas voter who is eligible to vote in this state 
 
 ## Virginia § 24.2-457
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-457. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-457/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-457. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-457/*
 
-§ 24.2-457. Methods of registering to vote
+§ 24.2-457
+. Methods of registering to vote.
 A. To apply to register to vote, in addition to any other approved method, a covered voter may use a federal postcard application.
 B. A covered voter may use the declaration accompanying a federal write-in absentee ballot to apply to register to vote simultaneously with the submission of the federal write-in absentee ballot, if the declaration is received by the applicable deadline for registration. If the declaration is received after that date, it must be treated as an application to register to vote for subsequent elections.
 C. The electoral board shall ensure that the system described in subsection C of §
@@ -4528,9 +6057,10 @@ is capable of accepting both a federal postcard application and any other approv
 
 ## Virginia § 24.2-458
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-458. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-458/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-458. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-458/*
 
-§ 24.2-458. Methods of applying for military-overseas ballot
+§ 24.2-458
+. Methods of applying for military-overseas ballot.
 A. A covered voter who is registered to vote in this state may apply for a military-overseas ballot using either the regular absentee ballot application in use in the voter's jurisdiction under Chapter 7 (§
 24.2-700
 et seq.) or the federal postcard application.
@@ -4554,9 +6084,10 @@ et seq.).
 
 ## Virginia § 24.2-459
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-459. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-459/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-459. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-459/*
 
-§ 24.2-459. Timeliness and scope of application for military-overseas ballot
+§ 24.2-459
+. Timeliness and scope of application for military-overseas ballot.
 An application for a military-overseas ballot is timely if received by the seventh day before the election or the last day for other voters in this state to apply for an absentee ballot for that election. An application for a military-overseas ballot for a primary election, whether or not timely, is effective as an application for a military-overseas ballot for the general election.
 2012, c.
 353
@@ -4564,9 +6095,10 @@ An application for a military-overseas ballot is timely if received by the seven
 
 ## Virginia § 24.2-460
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-460. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-460/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-460. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-460/*
 
-§ 24.2-460. Transmission of unvoted ballots
+§ 24.2-460
+. Transmission of unvoted ballots.
 A. For an election described in §
 24.2-454
 for which this state has not received a waiver pursuant to § 579 of the Military and Overseas Voter Empowerment Act, 52 U.S.C. § 20302(g)(2), not later than 45 days before the election, the election official in each jurisdiction charged with distributing a ballot and balloting materials shall transmit a ballot and balloting materials to all covered voters who by that date submit a valid military-overseas ballot application.
@@ -4580,9 +6112,10 @@ C. If a ballot application from a covered voter arrives after the jurisdiction b
 
 ## Virginia § 24.2-461
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-461. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-461/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-461. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-461/*
 
-§ 24.2-461. Federal write-in absentee ballot
+§ 24.2-461
+. Federal write-in absentee ballot.
 A covered voter may use a federal write-in absentee ballot to vote for all offices and ballot measures in an election described in §
 24.2-454
 .
@@ -4592,9 +6125,10 @@ A covered voter may use a federal write-in absentee ballot to vote for all offic
 
 ## Virginia § 24.2-462
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-462. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-462/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-462. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-462/*
 
-§ 24.2-462. Receipt of voted ballot
+§ 24.2-462
+. Receipt of voted ballot.
 A valid military-overseas ballot must be counted if it is delivered to the address that the appropriate state or local election office has specified by the close of the polls on the date of the election except as provided in §
 24.2-709
 .
@@ -4604,9 +6138,10 @@ A valid military-overseas ballot must be counted if it is delivered to the addre
 
 ## Virginia § 24.2-463
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-463. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-463/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-463. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-463/*
 
-§ 24.2-463. Declaration
+§ 24.2-463
+. Declaration.
 A military-overseas ballot must include or be accompanied by a declaration signed by the voter that a material misstatement of fact in completing the ballot may be grounds for a conviction of perjury under the laws of the United States or this state.
 2012, c.
 353
@@ -4614,9 +6149,10 @@ A military-overseas ballot must include or be accompanied by a declaration signe
 
 ## Virginia § 24.2-464
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-464. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-464/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-464. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-464/*
 
-§ 24.2-464. Confirmation of receipt of application and voted ballot
+§ 24.2-464
+. Confirmation of receipt of application and voted ballot.
 The Commissioner, in coordination with local election officials, shall implement a free-access system by which a covered voter may determine whether:
 1. The voter's federal postcard application or other registration or military-overseas ballot application has been received and accepted; and
 2. The voter's military-overseas ballot has been received and the current status of the ballot.
@@ -4628,9 +6164,10 @@ The Commissioner, in coordination with local election officials, shall implement
 
 ## Virginia § 24.2-465
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-465. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-465/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-465. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-465/*
 
-§ 24.2-465. Publication of election notice
+§ 24.2-465
+. Publication of election notice.
 At least 100 days before a regularly scheduled election and as soon as practicable before an election not regularly scheduled, the Department of Elections shall make election information available for each jurisdiction, to be used in conjunction with a federal write-in absentee ballot. The election notice must contain a list of all of the ballot measures and federal, state, and local offices that as of that date are expected to be on the ballot on the date of the election. The notice also must contain, or enable access to, specific instructions for how a voter is to indicate on the federal write-in absentee ballot the voter's choice for each office to be filled and for each ballot measure to be contested. Specific instructions may include a website address or a telephone number.
 2012, c.
 353
@@ -4640,9 +6177,10 @@ At least 100 days before a regularly scheduled election and as soon as practicab
 
 ## Virginia § 24.2-466
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-466. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-466/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-466. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-466/*
 
-§ 24.2-466. Sending and updating notices
+§ 24.2-466
+. Sending and updating notices.
 A. A covered voter may request and upon such request the Department of Elections shall provide a copy of an election notice without cost to the voter. The Department of Elections shall send the notice to the voter using the method requested and to the address provided by the voter.
 B. As soon as ballot styles are verified pursuant to §
 24.2-612
@@ -4662,9 +6200,10 @@ and updated versions of the election notice regularly available on the website.
 
 ## Virginia § 24.2-467
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-467. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-467/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-467. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-467/*
 
-§ 24.2-467. Prohibition of nonsubstantive requirements
+§ 24.2-467
+. Prohibition of nonsubstantive requirements.
 A. If a voter's mistake or omission in the completion of a document under this chapter does not prevent determining whether a covered voter is eligible to vote, the mistake or omission does not invalidate the document. Failure to satisfy a nonsubstantive requirement, such as using paper or envelopes of a specified size or weight, does not invalidate a document submitted under this chapter. In a federal write-in absentee ballot authorized by this chapter, if the intention of the voter is discernible under this state's uniform definition of what constitutes a vote, an abbreviation, misspelling, or other minor variation in the form of the name of a candidate or a political party must be accepted as a valid vote.
 B. Notarization is not required for the execution of a document under this chapter. An authentication, other than the declaration specified in §
 24.2-463
@@ -4675,9 +6214,10 @@ or the declaration on the federal postcard application and federal write-in abse
 
 ## Virginia § 24.2-468
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-468. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-468/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-468. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-468/*
 
-§ 24.2-468. Equitable relief
+§ 24.2-468
+. Equitable relief.
 A court may issue an injunction or grant other equitable relief appropriate to ensure substantial compliance with, or enforce, this chapter on application by:
 1. A covered voter alleging a grievance under this chapter; or
 2. An election official in this state.
@@ -4687,9 +6227,10 @@ A court may issue an injunction or grant other equitable relief appropriate to e
 
 ## Virginia § 24.2-469
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-469. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-469/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-469. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-469/*
 
-§ 24.2-469. Uniformity of application and constructions
+§ 24.2-469
+. Uniformity of application and constructions.
 In applying and construing this uniform act, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
 2012, c.
 353
@@ -4697,9 +6238,10 @@ In applying and construing this uniform act, consideration shall be given to the
 
 ## Virginia § 24.2-470
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-470. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-470/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-470. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter4.1/section24.2-470/*
 
-§ 24.2-470. Relation to Electronic Signatures in Global and National Commerce Act
+§ 24.2-470
+. Relation to Electronic Signatures in Global and National Commerce Act.
 This chapter modifies, limits, and supersedes the Electronic Signatures in Global and National Commerce Act, 15 U.S.C. § 7001 et seq., but does not modify, limit, or supersede § 101(c) of that act, 15 U.S.C. § 7001(c), or authorize electronic delivery of any of the notices described in § 103(b) of that act, 15 U.S.C. § 7003 (b).
 2012, c.
 353
@@ -4707,17 +6249,19 @@ This chapter modifies, limits, and supersedes the Electronic Signatures in Globa
 
 ## Virginia § 24.2-500
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-500. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-500/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-500. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-500/*
 
-§ 24.2-500. Qualification of candidates
+§ 24.2-500
+. Qualification of candidates.
 In order to qualify as a candidate for any office of the Commonwealth, or of its governmental units, a person must be qualified to vote for and hold that office. In order to hold any office of the Commonwealth or its governmental units, elective by the people, the candidate must have been a resident of the Commonwealth for one year next preceding his election and be qualified to vote for that office.
 Code 1950, § 24-132; 1970, c. 462, § 24.1-167; 1971, Ex. Sess., c. 226; 1973, c. 30; 1975, c. 515; 1976, c. 616; 1977, c. 490; 1978, c. 778; 1980, c. 639; 1982, c. 650; 1984, c. 480; 1987, Sp. Sess., c. 1; 1988, c. 469; 1990, cc. 476, 865; 1991, c. 137; 1993, c. 641.
 
 ## Virginia § 24.2-501
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-501. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-501/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-501. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-501/*
 
-§ 24.2-501. Statement of qualification as requirement of candidacy
+§ 24.2-501
+. Statement of qualification as requirement of candidacy.
 It shall be a requirement of candidacy for any office of the Commonwealth, or of its governmental units, that a person must file a written statement under oath, on a form prescribed by the State Board, that he is qualified to vote for and hold the office for which he is a candidate. Every candidate for election to statewide office, the United States House of Representatives, or the General Assembly shall file the statement with the State Board. Every candidate for any other office shall file the statement with the general registrar of the county or city where he resides. Each general registrar shall transmit to the State Board, immediately after the filing deadline, a list of the candidates who have filed statements of qualification.
 The candidate may state, as part of his statement of qualification, how he would like his name to appear on the ballot; however, all names printed on the ballot shall meet the criteria established by the State Board.
 Code 1950, § 24-132; 1970, c. 462, § 24.1-167; 1971, Ex. Sess., c. 226; 1973, c. 30; 1975, c. 515; 1976, c. 616; 1977, c. 490; 1978, c. 778; 1980, c. 639; 1982, c. 650; 1984, c. 480; 1987, Sp. Sess., c. 1; 1988, c. 469; 1990, cc. 476, 865; 1991, c. 137; 1993, c. 641; 2003, c.
@@ -4726,14 +6270,18 @@ Code 1950, § 24-132; 1970, c. 462, § 24.1-167; 1971, Ex. Sess., c. 226; 1973, 
 
 ## Virginia § 24.2-502
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-502. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-502/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-502. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-502/*
 
-§ 24.2-502. Statement of economic interests as requirement of candidacy
-It shall be a requirement of candidacy that a written statement of economic interests shall be filed by (i) a candidate for Governor, Lieutenant Governor, or Attorney General and a candidate for the Senate or House of Delegates with the State Board, (ii) a candidate for a constitutional office with the general registrar for the county or city, and (iii) a candidate for member of the governing body or elected school board of any county, city, or town with a population in excess of 3,500 persons with the general registrar for the county or city. The statement of economic interests shall be that specified in §
+§ 24.2-502
+. Statement of economic interests as requirement of candidacy.
+It shall be a requirement of candidacy that a written statement of economic interests shall be filed by a candidate for Governor, Lieutenant Governor, or Attorney General; a candidate for the Senate or House of Delegates; a candidate for a constitutional office; and a candidate for member of the governing body or elected school board of any county, city, or town with a population in excess of 3,500 persons with the Virginia Conflict of Interest and Ethics Advisory Council. The statement of economic interests shall be that specified in §
 30-111
 for candidates for the General Assembly and in §
 2.2-3117
-for all other candidates. The foregoing requirement shall not apply to a candidate for reelection to the same office who has met the requirement of annually filing a statement pursuant to §
+for all other candidates. All completed forms shall be filed electronically with the Council in accordance with the standards approved by it pursuant to §
+30-356
+. The Department shall be responsible for coordinating the electronic filing by candidates for Governor, Lieutenant Governor, Attorney General, the Senate, or the House of Delegates, and the general registrars shall be responsible for coordinating the electronic filing by candidates for constitutional offices, local governing bodies, and elected school boards.
+The requirement set forth in this section shall not apply to a candidate for reelection to the same office who has met the requirement of annually filing a statement pursuant to §
 2.2-3114
 ,
 2.2-3115
@@ -4755,13 +6303,16 @@ Code 1950, § 24-132; 1970, c. 462, § 24.1-167; 1971, Ex. Sess., c. 226; 1973, 
 829
 ,
 832
+; 2026, c.
+504
 .
 
 ## Virginia § 24.2-503
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-503. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-503/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-503. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-503/*
 
-§ 24.2-503. Deadlines for filing required statements; extensions
+§ 24.2-503
+. Deadlines for filing required statements; extensions.
 The written statements of qualification and economic interests shall be filed by (i) primary candidates not later than the filing deadline for the primary, (ii) all other candidates for city and town offices to be filled at a May general election by 7:00 p.m. on the first Tuesday in March, (iii) candidates in special elections by the time of qualifying as a candidate, and (iv) all other candidates by 7:00 p.m. on the third Tuesday in June.
 A statement shall be deemed to be timely filed if it is mailed postage prepaid to the appropriate office by registered or certified mail and if the official receipt therefor, which shall be exhibited on demand, shows mailing within the prescribed time limits.
 The State Board may grant an extension of any deadline for filing either or both written statements and shall notify all candidates who have not filed their statements of the extension. Any extension shall be granted for a fixed period of time of ten days from the date of the mailing of the notice of the extension.
@@ -4773,9 +6324,10 @@ Code 1950, § 24-132; 1970, c. 462, § 24.1-167; 1971, Ex. Sess., c. 226; 1973, 
 
 ## Virginia § 24.2-503.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-503.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-503.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-503.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-503.1/*
 
-§ 24.2-503.1. Repealed
+§ 24.2-503.1
+. Repealed.
 Repealed by Acts 2006, cc.
 787
 and
@@ -4784,9 +6336,10 @@ and
 
 ## Virginia § 24.2-504
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-504. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-504/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-504. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-504/*
 
-§ 24.2-504. Persons entitled to have name printed on ballot
+§ 24.2-504
+. Persons entitled to have name printed on ballot.
 Only a person fulfilling all the requirements of a candidate shall have his name printed on the ballot for the election. No person shall have his name printed on the ballot for more than one office at any one election. However, a candidate for federal or statewide office, or a candidate for an office being filled in a special election, may have his name printed on the ballot for two offices at an election.
 Code 1950, § 24-132; 1970, c. 462, § 24.1-167; 1971, Ex. Sess., c. 226; 1973, c. 30; 1975, c. 515; 1976, c. 616; 1977, c. 490; 1978, c. 778; 1980, c. 639; 1982, c. 650; 1984, c. 480; 1987, Sp. Sess., c. 1; 1988, c. 469; 1990, cc. 476, 865; 1991, c. 137; 1993, c. 641; 2000, cc.
 513
@@ -4796,11 +6349,30 @@ Code 1950, § 24-132; 1970, c. 462, § 24.1-167; 1971, Ex. Sess., c. 226; 1973, 
 881
 .
 
+## Virginia § 24.2-504.1
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-504.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-504.1/*
+
+§ 24.2-504.1
+. (Effective January 1, 2027) Confidentiality of personally identifiable information.
+A. The custodian of any filing made by a candidate pursuant to this chapter shall not release the address, phone number, or email address of such candidate in response to a request made under the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.) without written consent of the candidate. If written consent is not granted or if the candidate does not respond to the custodian's request within five business days, the information shall be redacted. Nothing in this section shall have any bearing upon disclosures required to be made pursuant to any court order or subpoena. No exemption from mandatory disclosure shall be construed to make records or parts of records covered by such exemption privileged under the rules of discovery.
+B. A candidate shall be permitted to provide the unique identifier assigned to him in the voter registration system pursuant to subdivision A 1 of §
+24.2-404
+in place of his residence address on any candidate filing required pursuant to this chapter.
+2026, cc.
+228
+,
+229
+.
+
 ## Virginia § 24.2-505
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-505. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-505/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-505. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-505/*
 
-§ 24.2-505. Declaration of candidacy required of independent candidates
+§ 24.2-505
+. Declaration of candidacy required of independent candidates.
 A. Any person, other than a candidate for a party nomination or a party nominee, who intends to be a candidate for any office to be elected by the qualified voters of the Commonwealth at large or of a congressional district shall file a declaration of candidacy with the State Board, on a form prescribed by the Board, designating the office for which he is a candidate. The written declaration shall be attested by two witnesses who are qualified voters of the Commonwealth or of the congressional district, or acknowledged before some officer authorized to take acknowledgements to deeds. The declaration shall be signed by the candidate, but if he is incapable of writing his proper signature then some mark adopted by him as his signature shall be acknowledged before some officer authorized to take acknowledgments to deeds.
 The State Board shall notify the respective secretaries of the appropriate electoral boards of the qualified candidates who have so filed.
 B. Any person, other than a candidate for a party nomination or party nominee, who intends to be a candidate for election to the General Assembly shall file a declaration of candidacy with the general registrar of the county or city where he resides. The declaration shall be in all respects the same as that required to be given to the State Board by statewide and congressional district candidates. The general registrar shall, within three days after receiving the declaration, (i) deliver it in person or transmit it by certified mail, along with the petitions required by §
@@ -4816,9 +6388,11 @@ Code 1950, §§ 24-130, 24-131, 24-134.1, 24-135; 1958, c. 605; 1960, c. 427; 19
 
 ## Virginia § 24.2-506
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-506. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-506/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-506. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-506/*
 
-§ 24.2-506. Petition of qualified voters required; number of signatures required; certain towns excepted
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-506
+. (Effective until January 1, 2027) Petition of qualified voters required; number of signatures required; certain towns excepted.
 A. The name of any candidate for any office, other than a party nominee, shall not be printed upon any official ballots provided for the election unless he shall file along with his declaration of candidacy a petition therefor, on a form prescribed by the State Board, signed by the number of qualified voters specified in this subsection on and after January 1 of the year in which the general election is held, or on and after the day on which the writ of election is issued in the case of a special election, and listing the residence address of each such voter. Each signature on the petition shall have been witnessed by a person who is not a minor or a felon whose voting rights have not been restored and whose affidavit to that effect appears on each page of the petition. Each such person circulating a petition who is not a legal resident of the Commonwealth shall sign a statement on the affidavit that he consents to the jurisdiction of the courts of Virginia in resolving any disputes concerning the circulation of petitions, or signatures contained therein, by that person. The signatures of qualified voters collected by a nonresident petition circulator who fails to sign such statement, or who later fails to appear or produce documents when properly served with a subpoena to do so, shall not be counted towards the minimum number of signatures required pursuant to this subsection.
 Each voter signing the petition may provide on the petition the last four digits of his social security number, if any; however, noncompliance with this requirement shall not be cause to invalidate the voter's signature on the petition.
 The minimum number of signatures of qualified voters required for candidate petitions shall be as follows:
@@ -4870,12 +6444,73 @@ Code 1950, § 24-133; 1970, c. 462, § 24.1-168; 1971, Ex. Sess., cc. 119, 247; 
 ; 2024, c.
 498
 .
+§
+24.2-506
+. (Effective January 1, 2027) Petition of qualified voters required; number of signatures required; certain towns excepted.
+A. The name of any candidate for any office, other than a party nominee, shall not be printed upon any official ballots provided for the election unless he shall file along with his declaration of candidacy a petition therefor, on a form prescribed by the State Board, signed by the number of qualified voters specified in this subsection on and after January 1 of the year in which the general election is held, or on and after the day on which the writ of election is issued in the case of a special election, and listing the residence address of each such voter. Each signature on the petition shall have been witnessed by a person who is not a minor or a felon whose voting rights have not been restored and whose affidavit to that effect appears on each page of the petition. Each such person circulating a petition who is not a legal resident of the Commonwealth shall sign a statement on the affidavit that he consents to the jurisdiction of the courts of Virginia in resolving any disputes concerning the circulation of petitions, or signatures contained therein, by that person. The signatures of qualified voters collected by a nonresident petition circulator who fails to sign such statement, or who later fails to appear or produce documents when properly served with a subpoena to do so, shall not be counted towards the minimum number of signatures required pursuant to this subsection.
+Each voter signing the petition may provide on the petition the last four digits of his social security number, if any; however, noncompliance with this requirement shall not be cause to invalidate the voter's signature on the petition.
+The minimum number of signatures of qualified voters required for candidate petitions shall be as follows:
+1. For a candidate for the United States Senate, Governor, Lieutenant Governor, or Attorney General, 10,000 signatures, including the signatures of at least 400 qualified voters from each congressional district in the Commonwealth;
+2. For a candidate for the United States House of Representatives, 1,000 signatures;
+3. For a candidate for the Senate of Virginia, 250 signatures;
+4. For a candidate for the House of Delegates or for a constitutional office, 125 signatures;
+5. For a candidate for membership on the governing body or elected school board of any county or city, 125 signatures; or if from an election district not at large containing 1,000 or fewer registered voters, 50 signatures;
+6. For a candidate for membership on the governing body or elected school board of any town that has more than 3,500 registered voters, 125 signatures; or if from a ward or other district not at large, 25 signatures;
+7. For a candidate for membership on the governing body or elected school board of any town that has at least 1,500 but not more than 3,500 registered voters, 50 signatures; or if from a ward or other district not at large, 25 signatures;
+8. For a candidate for membership on the governing body or elected school board of any town that has fewer than 1,500 registered voters, no petition shall be required;
+9. For a candidate for director of a soil and water conservation district created pursuant to Article 3 (§
+10.1-506
+et seq.) of Chapter 5 of Title 10.1, 25 signatures; and
+10. For any other candidate, 50 signatures.
+B. The State Board shall approve uniform standards by which petitions filed by a candidate for office, other than a party nominee, are reviewed to determine if the petitions contain sufficient signatures of qualified voters as required in subsection A. Such standards shall not include a requirement for a candidate for office to provide his residence address or the unique identifier assigned to the voter in the voter registration system pursuant to subdivision A 1 of §
+24.2-404
+on the petition prior to it being filed.
+The State Board of Elections, on or before January 1, 2020, shall revise its processes and associated regulations for reviewing and processing candidate petitions. Such revisions shall provide a process for checking petition signatures that includes a method for determining if a petition signature belongs to an individual whose prior registration has been canceled and the reason for such cancellation. The process shall provide for the tracking of such information associated with each petition. The process shall provide for the escalation of cases of suspected fraud to the electoral board, the State Board, or the office of the attorney for the Commonwealth, as appropriate.
+C. If a candidate, other than a party nominee, does not qualify to have his name appear on the ballot by reason of the candidate's filed petition not containing the minimum number of signatures of qualified voters for the office sought, the candidate may appeal that determination within five calendar days of the issuance of the notice of disqualification pursuant to §
+24.2-612
+or notice from the State Board that the candidate did not meet the requirements to have his name appear on the ballot.
+Appeals made by candidates for a county, city, or town office shall be filed with the electoral board. Appeals made by candidates for all other offices shall be filed with the State Board. The appeal shall be heard by the State Board or the electoral board, as appropriate, within five business days of its filing. The electoral board shall notify the State Board of any appeal that is filed with the electoral board.
+The State Board shall develop procedures for the conduct of such an appeal. The consideration on appeal shall be limited to whether or not the signatures on the petitions that were filed were reasonably rejected according to the requirements of this title and the uniform standards approved by the State Board for the review of petitions. Immediately after the conclusion of the appeal hearing, the entity conducting the appeal shall notify the candidate and, if applicable, the State Board, of its decision in writing. The decision on appeal shall be final and not subject to further appeal.
+Code 1950, § 24-133; 1970, c. 462, § 24.1-168; 1971, Ex. Sess., cc. 119, 247; 1978, c. 778; 1980, c. 639; 1982, c. 650; 1983, c. 188; 1987, c. 118; 1989, c. 141; 1992, c. 855; 1993, cc. 407, 641; 1998, cc.
+152
+,
+246
+; 2000, cc.
+232
+,
+252
+; 2001, c.
+53
+; 2003, c.
+477
+; 2010, c.
+215
+; 2012, cc.
+166
+,
+538
+; 2013, c.
+684
+; 2017, c.
+355
+; 2019, c.
+682
+; 2020, c.
+501
+; 2024, c.
+498
+; 2026, cc.
+228
+,
+229
+.
 
 ## Virginia § 24.2-507
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-507. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-507/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-507. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-507/*
 
-§ 24.2-507. Deadlines for filing declarations and petitions of candidacy
+§ 24.2-507
+. Deadlines for filing declarations and petitions of candidacy.
 For any office, declarations of candidacy and the petitions therefor shall be filed according to the following schedule:
 1. For a general election in November, by 7:00 p.m. on the third Tuesday in June;
 2. For a general election in May, by 7:00 p.m. on the first Tuesday in March;
@@ -4896,17 +6531,19 @@ Code 1950, §§ 24-130, 24-131, 24-134.1, 24-135; 1958, c. 605; 1960, c. 427; 19
 
 ## Virginia § 24.2-508
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-508. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-508/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-508. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-508/*
 
-§ 24.2-508. Powers of political parties in general
+§ 24.2-508
+. Powers of political parties in general.
 Each political party shall have the power to (i) make its own rules and regulations, (ii) call conventions to proclaim a platform, ratify a nomination, or for any other purpose, (iii) provide for the nomination of its candidates, including the nomination of its candidates for office in case of any vacancy, (iv) provide for the nomination and election of its state, county, city, and district committees, and (v) perform all other functions inherent in political party organizations.
 Code 1950, §§ 24-363, 24-364; 1970, c. 462, § 24.1-172; 1971, Ex. Sess., c. 119; 1973, c. 30; 1975, c. 515; 1978, c. 778; 1993, c. 641.
 
 ## Virginia § 24.2-509
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-509. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-509/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-509. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-509/*
 
-§ 24.2-509. Party to determine method of nominating its candidates for office; exceptions
+§ 24.2-509
+. Party to determine method of nominating its candidates for office; exceptions.
 A. The duly constituted authorities of the state political party shall have the right to determine the method by which a party nomination for a member of the United States Senate or for any statewide office shall be made. The duly constituted authorities of the political party for the district, county, city, or town in which any other office is to be filled shall have the right to determine the method by which a party nomination for that office shall be made. A method of nomination shall not be selected if such method will have the practical effect of excluding participation in the nominating process by qualified voters who are otherwise eligible to participate in the nominating process under that political party's rules but are unable to attend meetings because they are (i) a member of a uniformed service, as defined in §
 24.2-452
 , on active duty; (ii) temporarily residing outside of the United States; (iii) a student attending a school or institution of higher education; (iv) a person with a disability; or (v) a person who has a communicable disease of public health threat as defined in §
@@ -4925,15 +6562,16 @@ Code 1950, §§ 24-348, 24-361, 24-363, 24-364; 1970, c. 462, §§ 24.1-171, 24.
 
 ## Virginia § 24.2-510
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-510. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-510/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-510. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-510/*
 
-§ 24.2-510. Deadlines for parties to nominate by methods other than primary
+§ 24.2-510
+. Deadlines for parties to nominate by methods other than primary.
 For any office, nominations by political parties by methods other than a primary shall be made and completed in the manner prescribed by law according to the following schedule:
 1. For a general election in November, by 7:00 p.m. on the third Tuesday in June;
 2. For a general election in May, by 7:00 p.m. on the first Tuesday in March;
 3. For a special election held at the same time as a November general election, either (i) at least 81 days before the election or (ii) if the special election is held at the second November election after the vacancy occurred, by 7:00 p.m. on the third Tuesday in June before that November election;
 4. For a special election held at the same time as a May general election, by 7:00 p.m. on the first Tuesday in March; or
-5. For a special election held at a time other than a general election, (i) at least 60 days before the election or (ii) within five days of any writ of election or order calling a special election to be held less than 60 days after the issuance of the writ or order.
+5. For a special election held at a time other than a general election, (i) at least 60 days before the election; (ii) within five days of any writ of election or order calling a special election to be held less than 60 days after the issuance of the writ or order; or (iii) in the case of a special election to fill a vacancy in the General Assembly occurring between December 10 and March 1, within seven days of any writ of election or order calling such special election.
 In the case of all general elections a party shall nominate its candidate for any office by a nonprimary method only within the 47 days immediately preceding the primary date established for nominating candidates for the office in question. This limitation shall have no effect, however, on nominations for special elections or pursuant to §
 24.2-539
 .
@@ -4947,13 +6585,16 @@ Code 1950, §§ 24-130, 24-131, 24-134.1, 24-135, 24-363, 24-364; 1958, c. 605; 
 599
 ; 2021, Sp. Sess. I, c.
 239
+; 2026, c.
+477
 .
 
 ## Virginia § 24.2-511
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-511. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-511/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-511. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-511/*
 
-§ 24.2-511. Party chairman or official to certify candidates to State Board and general registrars; failure to certify
+§ 24.2-511
+. Party chairman or official to certify candidates to State Board and general registrars; failure to certify.
 A. The state, district, or other appropriate party chairman shall certify the name of any candidate who has been nominated by his party by a method other than a primary for any office to be elected by the qualified voters of (i) the Commonwealth at large, (ii) a congressional district or a General Assembly district, or (iii) political subdivisions jointly electing a shared constitutional officer, along with the date of the nomination of the candidate, to the State Board not later than five days after the last day for nominations to be made. The State Board shall notify the general registrars of the names of the candidates to appear on the ballot for such offices.
 B. The party chairman of the district or political subdivision in which any other office is to be filled shall certify the name of any candidate for that office who has been nominated by his party by a method other than a primary to the State Board and to the general registrars of the cities and counties in which the name of the candidate will appear on the ballot not later than five days after the last day for nominations to be made. Should the party chairman fail to make such certification, the State Board shall declare that the candidate is the nominee of the particular party and direct that his name be treated as if certified by the party chairman.
 C. In the case of a nomination for any office to be filled by a special election, the party chairman shall certify the name of any candidate (i) by the deadline to nominate the candidate or (ii) not later than five days after the deadline if it is a special election held at the second November election after the vacancy occurred.
@@ -4971,25 +6612,28 @@ Code 1950, §§ 24-134, 24-345.3; 1952, c. 509; 1954, c. 523; 1956, Ex. Sess., c
 
 ## Virginia § 24.2-512
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-512. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-512/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-512. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-512/*
 
-§ 24.2-512. Primaries to be conducted in accordance with article
+§ 24.2-512
+. Primaries to be conducted in accordance with article.
 A primary when held shall be conducted in all respects under the provisions of this article. All references in this chapter to primaries shall be deemed to mean those elections held for the purpose of nominating candidates as authorized by this article.
 Code 1950, § 24-347; 1970, c. 462, § 24.1-170; 1993, c. 641.
 
 ## Virginia § 24.2-513
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-513. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-513/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-513. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-513/*
 
-§ 24.2-513. Provisions as to general elections applicable
+§ 24.2-513
+. Provisions as to general elections applicable.
 All the provisions and requirements of the laws of this Commonwealth in relation to the holding of elections shall apply to all primaries insofar as they are consistent with this article.
 Code 1950, § 24-356; 1952, c. 4; 1964, c. 545; 1970, c. 462, § 24.1-178; 1993, c. 641.
 
 ## Virginia § 24.2-514
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-514. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-514/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-514. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-514/*
 
-§ 24.2-514. To what nominations this article applies
+§ 24.2-514
+. To what nominations this article applies.
 This article shall apply to the nomination of candidates for offices by a direct primary held on the regular dates established in §
 24.2-515
 for the conduct of primaries, and to no other nominations.
@@ -4998,9 +6642,10 @@ Code 1950, §§ 24-348, 24-361; 1970, c. 462, § 24.1-171; 1993, c. 641.
 
 ## Virginia § 24.2-515
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-515. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-515/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-515. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-515/*
 
-§ 24.2-515. Presidential election year primaries
+§ 24.2-515
+. Presidential election year primaries.
 Primaries for the nomination of candidates for offices to be voted on at the general election date in November shall be held on the third Tuesday in June next preceding such election, except that beginning with the year 2012 and in presidential election years thereafter, primaries to choose among presidential candidates may be held as provided in Article 7 (§
 24.2-544
 et seq.). Primaries for the nomination of candidates for offices to be voted on at the general election date in May shall be held on the first Tuesday in March next preceding such election.
@@ -5020,9 +6665,10 @@ Code 1950, § 24-349; 1952, c. 4; 1970, c. 462, § 24.1-174; 1971, Ex. Sess., c.
 
 ## Virginia § 24.2-515.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-515.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-515.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-515.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-515.1/*
 
-§ 24.2-515.1. Schedule for primaries in the year 2001 and each tenth year thereafter
+§ 24.2-515.1
+. Schedule for primaries in the year 2001 and each tenth year thereafter.
 Primaries for the nomination of candidates for the offices listed in Section 4 of Article VII of the Constitution of Virginia to be voted on at the general election in November 2001 and each tenth year thereafter shall be held on the third Tuesday in June next preceding such election notwithstanding any special primary schedule enacted for any other office.
 1993, c. 355, § 24.1-174.1; 1993, c. 641; 2021, Sp. Sess. I, c.
 239
@@ -5030,9 +6676,10 @@ Primaries for the nomination of candidates for the offices listed in Section 4 o
 
 ## Virginia § 24.2-516
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-516. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-516/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-516. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-516/*
 
-§ 24.2-516. Party to furnish names of chairmen and notify State Board of adoption of direct primary
+§ 24.2-516
+. Party to furnish names of chairmen and notify State Board of adoption of direct primary.
 Each political party within the Commonwealth shall furnish to the State Board the names and addresses of its state, county, and city party chairmen in January of each year, and during the remainder of the year it shall notify the Board of any changes in such names and addresses.
 At least 135 days prior to the regular date for a primary, the Board shall inquire of each state chairman and each county and city chairman whether a direct primary has been adopted. The Board shall advise each chairman that notification to the Board of the adoption of a direct primary is required and must be filed with the Board not more than 125 days and not less than 105 days before the date set for the primaries.
 Each chairman shall file timely written notice with the Board whether or not a primary has been adopted and identify each office for which a primary has been adopted. The requirement to notify the Board of the adoption of a direct primary shall be satisfied when the Board receives by the deadline (i) written notice from the appropriate party chairman or (ii) a copy of the written notice from an incumbent officeholder to his party chairman of the incumbent's selection, pursuant to §
@@ -5046,9 +6693,10 @@ Code 1950, § 24-351; 1962, c. 536; 1964, c. 545; 1970, c. 462, § 24.1-176; 197
 
 ## Virginia § 24.2-517
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-517. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-517/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-517. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-517/*
 
-§ 24.2-517. State Board to order election
+§ 24.2-517
+. State Board to order election.
 The State Board shall order the holding of a primary election in any county, city, or other district of the Commonwealth in which it is notified pursuant to §
 24.2-516
 that a primary is intended to be held. The notice ordering the primary shall be sent to the secretary of the electoral board. Within five days of the issuance of the order by the State Board, each secretary shall post a copy of the notice on the official website of the county or city, post copies of the notice at not less than 10 public places in the county or city, or have notice of the election published at least once in a newspaper of general circulation in the county or city.
@@ -5060,9 +6708,10 @@ Code 1950, § 24-352; 1952, c. 212; 1970, c. 462, § 24.1-177; 1972, c. 620; 199
 
 ## Virginia § 24.2-518
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-518. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-518/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-518. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-518/*
 
-§ 24.2-518. County and city treasurers to pay primary expenses; certain uses of machinery by party
+§ 24.2-518
+. County and city treasurers to pay primary expenses; certain uses of machinery by party.
 The treasurer of the county or city in which the elections are held shall pay the costs of primary elections.
 A political party may hold an election to select the members of its party committee at the same time and in the same places as a primary election without fee or charge for making use of the electoral machinery, provided that a primary to nominate the party's candidate for an office is in fact conducted on that primary date. Such elections for party committee members may be conducted by paper ballots or by voting machines in the discretion of the local electoral board.
 The proper political party committee shall pay the costs of using the election machinery at any other time for the purpose of conducting other nominating procedures adopted pursuant to the rules of that party, if such use is authorized by the officials having custody of the machinery.
@@ -5070,17 +6719,19 @@ Code 1950, §§ 24-349, 24-364.1; 1952, c. 4; 1958, c. 580; 1970, c. 462, §§ 2
 
 ## Virginia § 24.2-519
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-519. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-519/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-519. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-519/*
 
-§ 24.2-519. Qualification of primary candidates
+§ 24.2-519
+. Qualification of primary candidates.
 In order to qualify as a candidate at any primary, a person must be legally qualified to hold the office for which he is a candidate and be qualified to vote in the primary in which he seeks to be a candidate.
 Code 1950, § 24-369; 1970, c. 462, § 24.1-183; 1971, Ex. Sess., c. 226; 1974, c. 428; 1977, c. 490; 1993, c. 641.
 
 ## Virginia § 24.2-520
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-520. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-520/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-520. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-520/*
 
-§ 24.2-520. Declaration of candidacy required
+§ 24.2-520
+. Declaration of candidacy required.
 A candidate for nomination by primary for any office shall be required to file a written declaration of candidacy on a form prescribed by the State Board. The declaration shall include the name of the political party of which the candidate is a member, a designation of the office for which he is a candidate, and a statement that, if his name appears on the primary ballot and he is not nominated, his name is not to be printed on the ballots for that office in the succeeding general election. The declaration shall be acknowledged before some officer who has the authority to take acknowledgments to deeds, or attested by two witnesses who are qualified voters of the election district.
 Code 1950, §§ 24-370 through 24-372; 1960, c. 427; 1970, c. 462, § 24.1-184; 1978, cc. 239, 778; 1983, c. 461; 1993, c. 641; 2024, cc.
 169
@@ -5090,9 +6741,10 @@ Code 1950, §§ 24-370 through 24-372; 1960, c. 427; 1970, c. 462, § 24.1-184; 
 
 ## Virginia § 24.2-521
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-521. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-521/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-521. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-521/*
 
-§ 24.2-521. Petition required to accompany declaration; number of signatures required
+§ 24.2-521
+. Petition required to accompany declaration; number of signatures required.
 A. A candidate for nomination by primary for any office shall be required to file with his declaration of candidacy a petition for his name to be printed on the official primary ballot, on a form prescribed by the State Board, signed by the number of qualified voters specified in this section on and after January 1 of the year in which the election is held, and listing the residence address of each such voter. Each signature on the petition shall have been witnessed by a person who is not a minor or a felon whose voting rights have not been restored and whose affidavit to that effect appears on each page of the petition. Each such person circulating a petition who is not a legal resident of the Commonwealth shall sign a statement on the affidavit that he consents to the jurisdiction of the courts of Virginia in resolving any disputes concerning the circulation of petitions, or signatures contained therein, by that person. The signatures of qualified voters collected by a nonresident petition circulator who fails to sign such statement, or who later fails to appear or produce documents when properly served with a subpoena to do so, shall not be counted towards the minimum number of signatures required pursuant to subsection B.
 Each voter signing the petition may provide on the petition the last four digits of his social security number, if any; however, noncompliance with this requirement shall not be cause to invalidate the voter's signature on the petition.
 B. The minimum number of signatures of qualified voters required for primary candidate petitions shall be as follows:
@@ -5131,9 +6783,11 @@ Code 1950, § 24-373; 1952, c. 523; 1970, c. 462, § 24.1-185; 1971, Ex. Sess., 
 
 ## Virginia § 24.2-522
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-522. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-522/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-522. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-522/*
 
-§ 24.2-522. When and to whom filings to be made
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-522
+. (Effective until January 1, 2027) When and to whom filings to be made.
 A. Declarations of candidacy, petitions, and receipts indicating the payment of filing fees shall be filed not earlier than noon of the ninety-second day and not later than 5:00 p.m. of the seventy-fifth day before the primary.
 B. Except as provided in subsection C, candidates for nomination shall file their declarations, petitions, and receipts with the chairman or chairmen of the several committees of the respective parties.
 C. Any candidate for nomination for United States Senator, Governor, Lieutenant Governor, or Attorney General shall file with the State Board (i) his declaration of candidacy, (ii) the petitions for his candidacy, sealed in one or more containers to which is attached a written statement under oath by the candidate giving his name and the number of signatures on the petitions contained in the containers, and (iii) a receipt indicating the payment of his filing fee.
@@ -5147,12 +6801,31 @@ Code 1950, §§ 24-370 through 24-372, 24-374; 1960, c. 427; 1970, c. 462, §§ 
 ; 2013, c.
 443
 .
+§
+24.2-522
+. (Effective January 1, 2027) When and to whom filings to be made.
+A. Declarations of candidacy, petitions, and receipts indicating the payment of filing fees shall be filed not earlier than noon of the ninety-second day and not later than 5:00 p.m. of the seventy-fifth day before the primary; however, if the declaration of candidacy, petitions, and a receipt indicating the payment of any filing fees for an incumbent United States Senator, member of the United States House of Representatives, member of the Senate of Virginia or the House of Delegates, member of a local governing body, mayor, or constitutional officer are not filed by 5:00 p.m. on the seventy-fifth day before the primary election, or are filed but are subsequently withdrawn before 5:00 p.m. on the seventy-fifth day before the direct primary election, any person other than the person who was the incumbent on the seventy-fifth day shall have until 5:00 p.m. on the seventieth day before the election to file such documents for the respective elective office.
+B. Except as provided in subsection C, candidates for nomination shall file their declarations, petitions, and receipts with the chairman or chairmen of the several committees of the respective parties.
+C. Any candidate for nomination for United States Senator, Governor, Lieutenant Governor, or Attorney General shall file with the State Board (i) his declaration of candidacy, (ii) the petitions for his candidacy, sealed in one or more containers to which is attached a written statement under oath by the candidate giving his name and the number of signatures on the petitions contained in the containers, and (iii) a receipt indicating the payment of his filing fee.
+The State Board shall notify the state chairman of the party of the candidate of receipt of the material so filed and make the material available for pickup within 72 hours and not later than the day following the candidate filing deadline. The sealed containers containing the petitions for a candidate may be opened only by the state chairman of the party of the candidate.
+Code 1950, §§ 24-370 through 24-372, 24-374; 1960, c. 427; 1970, c. 462, §§ 24.1-184, 24.1-186; 1978, cc. 239, 778, § 24.1-186.1; 1983, c. 461; 1993, c. 641; 2003, c.
+1015
+; 2010, cc.
+449
+,
+645
+; 2013, c.
+443
+; 2026, c.
+990
+.
 
 ## Virginia § 24.2-523
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-523. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-523/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-523. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-523/*
 
-§ 24.2-523. Candidates to pay fee before filing
+§ 24.2-523
+. Candidates to pay fee before filing.
 Every candidate for nomination for any office at any primary shall, before he files his declaration of candidacy, pay a fee equal to two percent of one year's minimum salary attached to the office for which he is candidate in effect in the year in which he files.
 In case of an office for which compensation is paid in whole or in part by fees, the amount to be paid by a candidate as his contribution for the payment of the expenses of the primary shall be fixed by the proper committee of the respective parties.
 If there is no salary or fee attached to the office, the fee for primary expenses shall be five dollars. This provision includes candidates for party committees in §
@@ -5162,9 +6835,10 @@ Code 1950, §§ 24-398 through 24-400; 1970, c. 462, § 24.1-198; 1976, c. 616; 
 
 ## Virginia § 24.2-524
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-524. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-524/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-524. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-524/*
 
-§ 24.2-524. To whom fees paid; refund of fees
+§ 24.2-524
+. To whom fees paid; refund of fees.
 A. Candidates for United States Senators, for representatives in Congress, and for the offices of Governor, Lieutenant Governor, and Attorney General shall pay the primary fee to the State Board of Elections. The primary fees shall be credited by the Board to a fund to be known as the "state primary fee fund."
 The Board shall refund the fee by warrant upon the state primary fee fund in the event the prospective candidate does not become a candidate, becomes a candidate and is not opposed, or must refile for any reason. All other primary fees paid to the Board shall be paid or placed to the credit of the fund out of which the Board pays the Commonwealth's expenses for the primary.
 B. All other candidates shall pay the fee to the treasurer, or director of finance if there is no treasurer, of the city or county in which they reside. The treasurer or director of finance shall pay back the fee in the event the prospective candidate does not become a candidate, or becomes a candidate and must refile for any reason. In the event the candidate is unopposed, the State Board or the local electoral board, as appropriate, shall notify, no less than 60 days before the primary, the treasurer or director of finance to whom the fee was paid that the candidate is unopposed and shall provide the name and mailing address for returning the fee to the candidate. The treasurer or director of finance promptly shall return the fee to the candidate. All other primary fees paid a county or city treasurer or director of finance shall be paid or placed to the credit of the fund of the county or city out of which the expenses of the primary were paid by the county or city.
@@ -5179,9 +6853,10 @@ Code 1950, § 24-401; 1962, c. 462; 1971, Ex. Sess., c. 247, § 24.1-199; 1982, 
 
 ## Virginia § 24.2-525
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-525. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-525/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-525. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-525/*
 
-§ 24.2-525. Persons entitled to have name printed on ballot
+§ 24.2-525
+. Persons entitled to have name printed on ballot.
 A. Only a person meeting all the qualifications and fulfilling all the requirements of a candidate, and who has complied with the rules and regulations of his party, shall have his name printed on the ballot provided for the primary election. A person who does not file either or both written statements required by §
 24.2-503
 by the relevant deadline, or the end of the extension period if an extension has been granted pursuant to that section, shall not have his name printed on the ballot provided for the primary election.
@@ -5198,17 +6873,20 @@ Code 1950, §§ 24-369 through 24-372; 1960, c. 427; 1970, c. 462, §§ 24.1-183
 
 ## Virginia § 24.2-526
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-526. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-526/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-526. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-526/*
 
-§ 24.2-526. Primary not to be held when less than two candidates declare
+§ 24.2-526
+. Primary not to be held when less than two candidates declare.
 Whenever within the time prescribed by this article there is only one declaration of candidacy in a political party for the nomination for any office, the person filing the declaration shall be declared the nominee of the party for the office for which he has announced his candidacy and his name shall not be printed on the ballot for the primary. Whenever within the time prescribed by this article there is no declaration of candidacy in a political party for the nomination for any office, the appropriate committee of the party may provide for an alternative method of nominating a candidate.
 Code 1950, § 24-350; 1970, c. 462, § 24.1-175; 1983, c. 483; 1993, c. 641.
 
 ## Virginia § 24.2-527
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-527. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-527/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-527. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-527/*
 
-§ 24.2-527. Chairman or official to furnish State Board and general registrars with names of candidates and certify petition signature requirements met
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-527
+. (Effective until January 1, 2027) Chairman or official to furnish State Board and general registrars with names of candidates and certify petition signature requirements met.
 A. It shall be the duty of the chairman or chairmen of the several committees of the respective parties to furnish the name of any candidate for nomination for any office to be elected by the qualified voters of the Commonwealth at large or of a congressional district or of a General Assembly district to the State Board, and to furnish the name of any candidate for any other office to the State Board and to the general registrars charged with the duty of preparing and printing the primary ballots. In furnishing the name of any such candidate, the chairman shall certify that a review of the filed candidate petitions found the required minimum number of signatures of qualified voters for that office to have been met. The chairman shall also certify the order and date and time of filing for purposes of printing the ballots as prescribed in §
 24.2-529
 , provided that the State Board shall determine the order and date and time of filing for candidates for United States Senator, Governor, Lieutenant Governor, and Attorney General for such purposes. Each chairman shall comply with the provisions of this section not less than 70 days before the primary.
@@ -5226,12 +6904,37 @@ Code 1950, § 24-375; 1970, c. 462, § 24.1-187; 1976, c. 616; 1978, c. 239; 197
 ,
 492
 .
+§
+24.2-527
+. (Effective January 1, 2027) Chairman or official to furnish State Board and general registrars with names of candidates and certify petition signature requirements met.
+A. It shall be the duty of the chairman or chairmen of the several committees of the respective parties to furnish the name of any candidate for nomination for any office to be elected by the qualified voters of the Commonwealth at large or of a congressional district or of a General Assembly district to the State Board, and to furnish the name of any candidate for any other office to the State Board and to the general registrars charged with the duty of preparing and printing the primary ballots. In furnishing the name of any such candidate, the chairman shall certify that a review of the filed candidate petitions found the required minimum number of signatures of qualified voters for that office to have been met. The chairman shall also certify the order and date and time of filing for purposes of printing the ballots as prescribed in §
+24.2-529
+, provided that the State Board shall determine the order and date and time of filing for candidates for United States Senator, Governor, Lieutenant Governor, and Attorney General for such purposes. Each chairman shall comply with the provisions of this section not less than 70 days before the primary. However, if the candidate filing deadline is extended pursuant to subsection A of §
+24.2-522
+, then each chairman of any district in which a candidate deadline was extended shall comply with the provisions of this section not less than 69 days before the primary.
+B. In no case shall the individual who is a candidate for an office be the person who certifies the names of candidates for a primary for that same office. In such case the party shall designate an alternate official to certify the candidates.
+Code 1950, § 24-375; 1970, c. 462, § 24.1-187; 1976, c. 616; 1978, c. 239; 1979, c. 329; 1993, c. 641; 2006, c.
+83
+; 2010, cc.
+449
+,
+645
+; 2013, c.
+443
+; 2016, cc.
+18
+,
+492
+; 2026, c.
+990
+.
 
 ## Virginia § 24.2-528
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-528. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-528/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-528. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-528/*
 
-§ 24.2-528. No primary candidate to be nominated by convention
+§ 24.2-528
+. No primary candidate to be nominated by convention.
 No party which has adopted the method of making a nomination for an office by primary pursuant to §
 24.2-509
 shall nominate by a convention any candidate to be voted for at that primary.
@@ -5239,17 +6942,19 @@ Code 1950, § 24-366; 1970, c. 462, § 24.1-173; 1993, c. 641.
 
 ## Virginia § 24.2-529
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-529. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-529/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-529. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-529/*
 
-§ 24.2-529. Primary ballots
+§ 24.2-529
+. Primary ballots.
 The primary ballots for the several parties taking part in a primary shall be composed, arranged, printed, delivered, and provided in the same manner as the general election ballots except that at the top of each official primary ballot shall be printed in plain black type the name of the political party and the words "Primary Election." The names of the candidates for various offices shall appear on the ballot in an order determined by the priority of the time of filing for the office. In the event two or more candidates file simultaneously, the order of filing shall then be determined by lot by the electoral board or the State Board as in the case of a tie vote for the office. No write-in shall be permitted on ballots in primary elections.
 Code 1950, § 24-376; 1970, c. 462, § 24.1-188; 1971, Ex. Sess., c. 119; 1993, c. 641.
 
 ## Virginia § 24.2-530
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-530. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-530/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-530. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-530/*
 
-§ 24.2-530. Who may vote in primary
+§ 24.2-530
+. Who may vote in primary.
 All persons qualified to vote, pursuant to §§
 24.2-400
 through
@@ -5259,9 +6964,10 @@ Code 1950, § 24-367; 1970, c. 462, § 24.1-182; 1971, Ex. Sess., c. 205; 1976, 
 
 ## Virginia § 24.2-531
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-531. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-531/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-531. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-531/*
 
-§ 24.2-531. Pollbooks used during primaries
+§ 24.2-531
+. Pollbooks used during primaries.
 There shall be pollbooks in the form set forth in §
 24.2-611
 provided for use during any primary.
@@ -5277,47 +6983,51 @@ Code 1950, § 24-377; 1970, c. 462, § 24.1-189; 1980, c. 639; 1981, c. 425; 199
 
 ## Virginia § 24.2-532
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-532. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-532/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-532. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-532/*
 
-§ 24.2-532. Abstracts of votes; law-enforcement officer to obtain returns not forwarded
+§ 24.2-532
+. Abstracts of votes.
 As soon as the electoral board shall determine the persons who have received the highest number of votes for nomination to any such office, the secretary of the board shall immediately make out abstracts and certificates of the votes cast as provided in §
 24.2-675
-and forward certified copies thereof to the State Board. The secretary in addition shall place certified copies thereof in an envelope and forward them in person or by certified mail (i) for members of the House of Representatives of the United States, to the chairman of the congressional district committee, (ii) for members of the General Assembly, to the chairman of the Senate or House of Delegates district committee, and (iii) for county and city and district officers, to the chairman of the county or city. "Chairman" means the chairman of the political party under whose auspices the primary is held.
-If the abstract of votes shall not have been received by the State Board from any county or city within six days after any state primary election, the Board shall dispatch a law-enforcement officer to obtain them as provided in §
-24.2-678
+and forward certified copies thereof to the State Board. The secretary in addition shall place certified copies thereof in an envelope and forward them in person or by certified mail (i) for members of the House of Representatives of the United States, to the chairman of the congressional district committee, (ii) for members of the General Assembly, to the chairman of the Senate or House of Delegates district committee, and (iii) for county and city and district officers, to the chairman of the county or city. For purposes of this section, "chairman" means the chairman of the political party under whose auspices the primary is held.
+Code 1950, §§ 24-388, 24-390; 1952, c. 4; 1970, c. 462, §§ 24.1-191, 24.1-193; 1976, c. 616; 1993, c. 641; 2026, c.
+776
 .
-Code 1950, §§ 24-388, 24-390; 1952, c. 4; 1970, c. 462, §§ 24.1-191, 24.1-193; 1976, c. 616; 1993, c. 641.
 
 ## Virginia § 24.2-533
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-533. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-533/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-533. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-533/*
 
-§ 24.2-533. Repealed
+§ 24.2-533
+. Repealed.
 Repealed by Acts 2010, c.
 812
 , cl. 3.
 
 ## Virginia § 24.2-534
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-534. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-534/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-534. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-534/*
 
-§ 24.2-534. Returns tabulated by State Board; when nominee declared
+§ 24.2-534
+. Returns tabulated by State Board; when nominee declared.
 As soon as possible after receipt of the certified abstract and not later than fourteen days after the day of the election, the State Board shall open and tabulate the returns. Upon completion of the tabulation the Board shall declare the nominee in the manner and form as it does in general elections.
 Code 1950, § 24-389; 1952, c. 4; 1970, c. 462, § 24.1-192; 1978, c. 778; 1993, c. 641.
 
 ## Virginia § 24.2-535
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-535. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-535/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-535. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-535/*
 
-§ 24.2-535. Vote required to nominate
+§ 24.2-535
+. Vote required to nominate.
 Any candidate for party nomination to any office who receives a plurality of the votes cast by his party shall be the nominee of his party for that office and his name shall be printed on the official ballots used in the election for which the primary was held.
 Code 1950, § 24-359; 1952, c. 4; 1964, c. 616; 1970, c. 462, § 24.1-179; 1993, c. 641.
 
 ## Virginia § 24.2-536
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-536. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-536/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-536. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-536/*
 
-§ 24.2-536. Procedure when a vacancy in office occurs less than 75 days before primary date
+§ 24.2-536
+. Procedure when a vacancy in office occurs less than 75 days before primary date.
 Whenever, by reason of the death, resignation, or removal of the incumbent, a vacancy in any office occurs less than 75 but more than 45 days before the regular date for the holding of a primary, the properly constituted party authorities may permit the filing of declarations and petitions of candidacy for nomination for that office in the primary. Notice of the vacancy and the right to file declarations and petitions of candidacy for nomination to fill it shall be advertised by the party committee or committees in at least one newspaper of general circulation within the Commonwealth if it is an office filled by election by the people at large, and in the manner prescribed by the properly constituted party authorities in the case of all other offices. No declaration and petitions of candidacy shall be filed with the committee or committees until such advertisement is made, nor within 35 days prior to the date for holding the primary. Declarations and petitions of candidacy filed pursuant to this section shall comply in every respect, except for the time of filing, with the requirements established generally for such declarations and petitions in this article.
 If more than one person qualifies, the party chairman shall promptly certify their names to the State Board and the appropriate electoral boards as having qualified under the provisions of this section. The electoral boards having charge of the printing of the official ballots for the primary shall either:
 1. Cause to be printed on the ballot the name of each person so certified; or
@@ -5332,9 +7042,10 @@ Code 1950, § 24-362; 1970, c. 462, § 24.1-194; 1993, c. 641; 2010, cc.
 
 ## Virginia § 24.2-537
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-537. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-537/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-537. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-537/*
 
-§ 24.2-537. Procedure when nominee by default dies or withdraws or nomination is set aside prior to primary
+§ 24.2-537
+. Procedure when nominee by default dies or withdraws or nomination is set aside prior to primary.
 A. If any person who would have been nominated as the candidate of a political party for any office in any general election by reason of the fact that he was the only person who filed the required declaration of and petition for candidacy dies or withdraws as the party candidate, or his nomination is set aside for any reason, 45 days or more before the day on which the primary would have been held if two or more candidates had qualified, the appropriate committee of the political party shall determine the time and method of nominating its candidate for the office.
 B. If the party committee determines that the party's nominee shall be elected at the scheduled primary, any person desiring to become a candidate for nomination by the party at that primary who is otherwise qualified may file a declaration of and petition for his candidacy with the proper chairman of his party committee. No person whose nomination has been set aside for fraud knowingly participated in by the candidate, or other person who knowingly participated in such fraud, shall be deemed qualified. The declaration and petition shall comply in every respect with the requirements established generally for such declarations and petitions in this article, except that the declaration and petition shall be filed at least 35 days before the day on which the primary is to be held.
 If more than one person qualifies, the party chairman shall promptly certify their names to the State Board and the appropriate electoral boards as having qualified under the provisions of this section. The electoral boards having charge of the printing of the official ballots for the primary election shall either:
@@ -5351,9 +7062,10 @@ Code 1950, § 24-391; 1970, c. 462, § 24.1-195; 1983, c. 483; 1993, c. 641; 201
 
 ## Virginia § 24.2-538
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-538. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-538/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-538. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-538/*
 
-§ 24.2-538. Procedure when opposed candidate for nomination dies prior to primary
+§ 24.2-538
+. Procedure when opposed candidate for nomination dies prior to primary.
 If any person who is a candidate for nomination by a political party at a primary election, and who, along with one or more other candidates, has qualified to have his name printed on the official ballot for the primary, dies 45 days or more before the day on which the primary is to be held, any person otherwise qualified who desires to be a candidate at that primary may file a declaration of and petition for his candidacy with the proper chairman of his party committee. The declaration and petition shall comply in every respect with the requirements established generally for such declarations and petitions by this article, except that the declaration and petition shall be filed at least 35 days before the day on which the primary is to be held.
 The party chairman or chairmen shall promptly certify the names of every such person to the State Board and appropriate electoral boards as having qualified under the provisions of this section. Every electoral board having charge of the printing of official ballots for the primary election shall either:
 1. Cause to be printed thereon the name of every person so certified; or
@@ -5367,9 +7079,10 @@ Code 1950, § 24-392; 1970, c. 462, § 24.1-196; 1976, c. 616; 1993, c. 641; 201
 
 ## Virginia § 24.2-538.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-538.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-538.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-538.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-538.1/*
 
-§ 24.2-538.1. Procedure when pre-election withdrawal of candidacy results in unopposed primary
+§ 24.2-538.1
+. Procedure when pre-election withdrawal of candidacy results in unopposed primary.
 A. If a person who is a candidate for nomination by a political party at a primary election and who has qualified to have his name printed on the ballot for such election, submits, on or after the forty-fourth day before but prior to the Tuesday immediately preceding the primary election, a signed and notarized notice of his intent to withdraw in accordance with §
 24.2-612.2
 , and the result of such withdrawal is one remaining candidate who is now unopposed for nomination by the political party, such remaining candidate shall be declared the nominee of such political party for the office sought and the primary election shall be canceled as set forth in subsection B.
@@ -5388,9 +7101,10 @@ et seq.).
 
 ## Virginia § 24.2-539
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-539. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-539/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-539. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-539/*
 
-§ 24.2-539. Party may nominate when nominee dies, withdraws, or nomination is set aside; duty of party chairman
+§ 24.2-539
+. Party may nominate when nominee dies, withdraws, or nomination is set aside; duty of party chairman.
 Should the nominee of any party die, withdraw, or have his nomination set aside for any reason, the party may nominate to fill the vacancy in accordance with its own rules. A candidate who has been disqualified for failing to meet the filing requirements of Article 1 (§
 24.2-500
 et seq.) of this chapter shall not be renominated. No party shall renominate any person whose nomination has been set aside for fraud knowingly participated in by the candidate. The party chairman or chairmen shall promptly certify the name of any such nominee to the appropriate electoral boards and the nominee shall promptly comply with the filing requirements of Article 1 of this chapter.
@@ -5398,9 +7112,10 @@ Code 1950, §§ 24-234, 24-235, 24-365; 1952, c. 4; 1970, c. 462, §§ 24.1-110,
 
 ## Virginia § 24.2-540
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-540. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-540/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-540. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-540/*
 
-§ 24.2-540. Other parties may also nominate; independent candidates
+§ 24.2-540
+. Other parties may also nominate; independent candidates.
 Any other political party may also nominate and file the required notice of a new candidate pursuant to §
 24.2-539
 if the candidate who died, withdrew, or had his nomination set aside was unopposed by that party. A nonparty candidate shall also be permitted to file a notice of candidacy whether or not the candidate who died, withdrew, or had his nomination set aside was opposed by a nonparty or party candidate.
@@ -5413,9 +7128,10 @@ Code 1950, §§ 24-234, 24-235; 1970, c. 462, § 24.1-110; 1976, c. 616; 1980, c
 
 ## Virginia § 24.2-541
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-541. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-541/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-541. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-541/*
 
-§ 24.2-541. Printing of names on ballot
+§ 24.2-541
+. Printing of names on ballot.
 In the case (i) of a candidate who has died if the notice is filed with the proper official at least 25 days before the day on which the election is to be held or (ii) of a candidate who has withdrawn or had his nomination set aside if the notice is filed with the proper official at least 60 days before the day on which the election is to be held, the electoral board or boards having charge of the printing of the ballots for such election shall either:
 1. Cause to be printed thereon the name of every person qualifying as provided in this article; or
 2. If ballots for the election have already been printed, cause separate ballots to be printed for the office on which shall be printed the name of every person qualifying as provided in this article and of any other party or nonparty candidate for the same office who had already qualified to have his name printed on the ballot. In addition, the electoral board may cause to be stricken from the earlier printed ballots the title of the office involved and the names of all candidates for that office appearing thereon.
@@ -5427,18 +7143,20 @@ Code 1950, §§ 24-234, 24-235; 1970, c. 462, § 24.1-110; 1976, c. 616; 1980, c
 
 ## Virginia § 24.2-542
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-542. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-542/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-542. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-542/*
 
-§ 24.2-542. Repealed
+§§ 24.2-542 through 24.2-543
+. Repealed.
 Repealed by Acts 2024, c.
 801
 , cl. 2, effective July 1, 2024.
 
 ## Virginia § 24.2-544
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-544. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-544/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-544. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-544/*
 
-§ 24.2-544. Time presidential primaries to be held and completion of duties by officers of election; age qualifications for participation
+§ 24.2-544
+. Time presidential primaries to be held and completion of duties by officers of election; age qualifications for participation.
 A. Primaries for the nomination of candidates for the office of President of the United States to be voted on at the November 2012 general election and the November general election in each presidential election year thereafter shall be held on the first Tuesday in March preceding the November general election.
 B. The provisions of this title shall apply to the conduct of presidential election year primaries including the time limits applicable to notices and candidate filing deadlines and the closing of registration records before the primary. The State Board shall provide a schedule for the notices and filing deadlines by the August 1 prior to the March primary including a campaign finance disclosure report filing schedule adjusted to reflect the differences between the June date for other primaries and the March date for the presidential primary and primaries for the nomination of candidates for offices to be voted on at the general election date in May.
 C. Notwithstanding any other provision of law to the contrary, any officer of election who serves at any election held on the first Tuesday in March shall be required to complete his official duties relating to that election whether or not he has been reappointed to serve for the ensuing year.
@@ -5463,9 +7181,10 @@ D. Notwithstanding any other provision of law to the contrary, any person who is
 
 ## Virginia § 24.2-545
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-545. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-545/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-545. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-545/*
 
-§ 24.2-545. Presidential primary
+§ 24.2-545
+. Presidential primary.
 A. The duly constituted authorities of the state political party shall have the right to determine the method by which the state party will select its delegates to the national convention to choose the party's nominees for President and Vice President of the United States including a presidential primary or another method determined by the party. The state chairman shall notify the State Board of the party's determination at least 90 days before the primary date. If the party has determined that it will hold a presidential primary, each registered voter of the Commonwealth shall be given an opportunity to participate in the presidential primary of the political party, as defined in §
 24.2-101
 , subject to requirements determined by the political party for participation in its presidential primary. The requirements may include, but shall not be limited to, the signing of a pledge by the voter of his intention to support the party's candidate when offering to vote in the primary. The requirements applicable to a party's primary shall be determined at least 90 days prior to the primary date and certified to, and approved by, the State Board.
@@ -5493,19 +7212,37 @@ F. The cost of the presidential primary shall be paid by the Commonwealth pursua
 550
 .
 
+## Virginia § 24.2-546
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-546. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter5/section24.2-546/*
+
+§ 24.2-546
+. Challenges to candidate qualifications.
+A. Any legal action relating to a person's eligibility to have his name printed on the ballot for any election on the basis that such person failed to meet all qualifications or to fulfill all requirements for candidacy shall be filed in a circuit court and served on all parties (i) at least 90 days before the date of a general election; (ii) at least 65 days before the date of a primary election; (iii) at least 70 days before the date of a special election held on the same date as the general election; or (iv) for any special election held at a time other than a general election, (a) at least 55 days before the date of the special election or (b) within 10 days of any writ of election or order calling for a special election to be held less than 60 days after the issuance of the writ or order.
+B. In any district-based election where the district contains multiple circuit court jurisdictions, a legal action described by subsection A or B shall be filed in the jurisdiction that makes up the largest portion of the district by registered voters. Any legal action relating to a candidate's eligibility shall be given precedence on the docket and shall be decided by the circuit court (i) no later than 10 days before the date on which ballots for that election are made available for absentee voting or (ii) for any action filed pursuant to subsection B, within 30 days of filing. Any notice of appeal shall be filed within seven days of the circuit court's final order, and all appeals shall be given precedence on the docket.
+C. The qualifications of a candidate who was nominated at a primary election shall not be subject to a challenge on the basis of facts that were present prior to the primary election and could have been raised in a challenge to such candidate's eligibility for the primary ballot.
+D. Nothing in this section shall be construed to limit challenges to an elected official's qualification to serve based upon Article IV, § 4 of the Constitution of Virginia or §
+24.2-500
+outside of an election cycle.
+2026, c.
+882
+.
+
 ## Virginia § 24.2-600
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-600. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-600/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-600. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-600/*
 
-§ 24.2-600. Cost of elections
+§ 24.2-600
+. Cost of elections.
 The cost of conducting elections under this title shall be paid by the counties and cities, respectively. The cost of town elections shall be paid by the towns.
 Code 1950, §§ 24-172, 24-177; 1970, c. 462, §§ 24.1-93, 24.1-96; 1993, c. 641.
 
 ## Virginia § 24.2-601
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-601. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-601/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-601. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-601/*
 
-§ 24.2-601. Town election process
+§ 24.2-601
+. Town election process.
 The electoral board and general registrar of the county within which a town, or the greater part thereof, is situated shall control the election process and carry out the applicable provisions of this title concerning towns. For November elections for town offices in any town split between two or more counties, the electoral board of the county in which the lesser part of the town is located shall (i) include town offices on the ballot for the county, and (ii) report the results ascertained for those town offices to the electoral board of the county in which the greatest part of the town is located for inclusion in the results of that county pursuant to §
 24.2-671
 .
@@ -5517,9 +7254,10 @@ Code 1950, §§ 24-170, 24-172, 24-175; 1970, c. 462, §§ 24.1-91, 24.1-93; 197
 
 ## Virginia § 24.2-602
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-602. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-602/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-602. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-602/*
 
-§ 24.2-602. Exemption for ballots and election materials from certain purchasing and procurement requirements
+§ 24.2-602
+. Exemption for ballots and election materials from certain purchasing and procurement requirements.
 The provisions of Article 3, Division of Purchases and Supply, (§
 2.2-1109
 et seq.) of Chapter 11 of Title 2.2 and of Articles 1 (§
@@ -5541,11 +7279,23 @@ et seq.) of Chapter 43, Virginia Public Procurement Act, of Title 2.2 shall appl
 1010
 .
 
+## Virginia § 24.2-602.1
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-602.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-602.1/*
+
+§ 24.2-602.1
+. Electoral board members to wear identification; civil penalty.
+The Department of Elections shall issue a standardized identification badge to the acting electoral board members of each locality. The badge shall be easily readable and include the name, position, locality, and term expiration date of each electoral board member. Electoral board members shall wear their Department-issued identification badge while conducting their official duties on the day of an election. If the State Board determines that an electoral board member has knowingly violated the provisions of this section, the State Board shall assess a civil penalty in an amount not to exceed $250.
+2026, c.
+1039
+.
+
 ## Virginia § 24.2-603
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-603. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-603/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-603. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-603/*
 
-§ 24.2-603. Hours polls to be open; closing the polls
+§ 24.2-603
+. Hours polls to be open; closing the polls.
 At all elections, the polls shall be open at each polling place at 6:00 a.m. on the day of the election and closed at 7:00 p.m. on the same day except as provided for central absentee voter precincts pursuant to subsection G of §
 24.2-712
 .
@@ -5560,9 +7310,10 @@ Code 1950, §§ 24-182, 24-184; 1950, p. 462; 1958, c. 160; 1962, c. 536; 1966, 
 
 ## Virginia § 24.2-603.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-603.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-603.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-603.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-603.1/*
 
-§ 24.2-603.1. Postponement of certain elections; state of emergency
+§ 24.2-603.1
+. Postponement of certain elections; state of emergency.
 For purposes of this section, "election" means (i) any local or state referendum, (ii) any primary, special, or general election for local or state office except a general election for Governor, Lieutenant Governor, Attorney General and the General Assembly, (iii) any primary for federal office including any primary for the nomination of candidates for the office of President of the United States, or (iv) any federal special election to fill a vacancy in the United States Senate or the United States House of Representatives. In the event of a state of emergency declared by the Governor pursuant to Chapter 3.2 (§
 44-146.13
 et seq.) of Title 44 or declared by the President of the United States or the governor of another state pursuant to law and confirmed by the Governor by an executive order, the Governor may postpone an election by executive order in areas affected by the emergency to a date, notwithstanding the provisions of §
@@ -5597,13 +7348,14 @@ The State Board shall prescribe appropriate procedures to implement this section
 
 ## Virginia § 24.2-604
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-604/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-604/*
 
-§ 24.2-604. Polling places; prohibited activities; prohibited area; penalties
-A. During the times the polls are open and ballots are being counted, or within one hour of opening or after closing, it is unlawful for any person (i) to loiter or congregate within 40 feet of any entrance of any polling place; (ii) within such distance to give, tender, or exhibit any ballot, ticket, or other campaign or referendum material to any person or to solicit or in any manner attempt to influence any person in casting his vote; (iii) to hinder or delay a qualified voter in entering or leaving a polling place; or (iv) to knowingly possess any firearm as defined in §
+§ 24.2-604
+. Polling places; prohibited activities; prohibited area; penalties.
+A. During the times the polls are open and ballots are being counted, or within one hour of opening or after closing, it is unlawful for any person (i) to loiter or congregate within 40 feet of any entrance of any polling place; (ii) within such distance to give, tender, or exhibit any ballot, ticket, or other campaign or referendum material to any person or to solicit or in any manner attempt to influence any person in casting his vote; (iii) to hinder or delay a qualified voter in entering or leaving a polling place; or (iv) to (a) knowingly carry on or about his person any firearm as defined in §
 18.2-308.2:2
-within 40 feet of any building, or part thereof, used as a polling place.
-B. Prior to opening the polls, the officers of election shall post, in the area within 40 feet of any entrance to the polling place, sufficient notices that state "Prohibited Area" in two-inch type. The notices shall also state the provisions of this section in not less than 24-point type. The officers of election shall post the notices within the prohibited area to be visible to voters and the public.
+and (b) knowingly do so within 100 feet of any building, or part thereof, used as a polling place.
+B. Prior to opening the polls, the officers of election shall post, in the area within 40 feet of any entrance to the polling place, sufficient notices that state "Prohibited Area" in two-inch type, except that notice of prohibited firearm possession shall be posted in the area within 100 feet of the entrance. The notices shall also state the provisions of this section in not less than 24-point type. The officers of election shall post the notices within the prohibited area to be visible to voters and the public.
 C. It is unlawful for any authorized representative permitted in the polling place pursuant to §
 24.2-604.4
 , any voter, or any other person in the room to (i) hinder or delay a qualified voter; (ii) give, tender, or exhibit any ballot, ticket, or other campaign or referendum material to any person; (iii) solicit or in any manner attempt to influence any person in casting his vote; (iv) hinder or delay any officer of election; (v) be in a position to see the marked ballot of any other voter; or (vi) otherwise impede the orderly conduct of the election.
@@ -5611,9 +7363,9 @@ D. The provisions of subsections A and C shall not be construed to prohibit a pe
 E. This section shall not be construed to prohibit a candidate from entering any polling place on the day of the election to vote, or to visit a polling place for no longer than 10 minutes per polling place per election day, provided that he complies with the restrictions stated in subsections A, C, and D.
 F. The provisions of clause (iv) of subsection A shall not apply to (i) any law-enforcement officer or any retired law-enforcement officer qualified pursuant to subsection C of §
 18.2-308.01
-6; (ii) any person occupying his own private property that falls within 40 feet of a polling place; or (iii) an armed security officer, licensed pursuant to Article 4 (§
+6; (ii) any person occupying his own private property that falls within 100 feet of a polling place; or (iii) an armed security officer, licensed pursuant to Article 4 (§
 9.1-138
-et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 40 feet of any building, or part thereof, used as a polling place.
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as a polling place.
 G. The officers of election may require any person who is found by a majority of the officers present to be in violation of this section to remain outside of the prohibited area. Any person violating subsection A or C is guilty of a Class 1 misdemeanor.
 Code 1950, §§ 24-186, 24-188; 1970, c. 462, § 24.1-101; 1971, Ex. Sess., c. 119; 1973, c. 30; 1974, c. 428; 1975, c. 515; 1984, c. 480; 1993, cc. 413, 641; 1997, c.
 328
@@ -5663,13 +7415,16 @@ Code 1950, §§ 24-186, 24-188; 1970, c. 462, § 24.1-101; 1971, Ex. Sess., c. 1
 459
 ; 2025, c.
 584
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-604.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-604.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-604.1/*
 
-§ 24.2-604.1. Signs for special entrances to polling places
+§ 24.2-604.1
+. Signs for special entrances to polling places.
 The electoral board or the general registrar shall provide and have posted outside each polling place appropriate signs to direct people with disabilities and elderly persons to any special entrance designed for their use.
 1993, c. 160, § 24.1-97.1; 1993, c. 641; 2016, cc.
 18
@@ -5679,9 +7434,10 @@ The electoral board or the general registrar shall provide and have posted outsi
 
 ## Virginia § 24.2-604.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-604.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-604.2/*
 
-§ 24.2-604.2. Polling places; prohibited area; emergency situations
+§ 24.2-604.2
+. Polling places; prohibited area; emergency situations.
 If an emergency causes the dimensions of the prohibited area for a polling place to be perceived as increasing the risk of danger for persons outside the polling place, the electoral board may modify the distance requirements for the prohibited area, subject to the prior approval of the State Board. For purposes of this section, an "emergency" includes a state of emergency declared by the Governor pursuant to Chapter 3.2 (§
 44-146.13
 et seq.) of Title 44 or declared by the President of the United States.
@@ -5691,9 +7447,10 @@ et seq.) of Title 44 or declared by the President of the United States.
 
 ## Virginia § 24.2-604.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-604.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-604.3/*
 
-§ 24.2-604.3. Election day page program; high school students
+§ 24.2-604.3
+. Election day page program; high school students.
 A. The local electoral board, or its general registrar, may conduct a special election day page program for high school students in one or more polling places designated by the electoral board or the general registrar, which may include a central absentee voter precinct. Students shall be selected for the election day page program by the electoral board or the general registrar in cooperation with high school authorities. The program shall be designed to stimulate the pages' interest in elections and registering to vote, provide assistance to the officers of election, and ensure the safe entry and exit of elderly and disabled voters from the polling place.
 B. Each page shall receive, from a person designated by the electoral board, training on the duties, responsibilities, and prohibited conduct of election pages. Each page shall take and sign an oath as an election page, serve under the direct supervision of the chief officer of election of his assigned polling place, and observe strict impartiality at all times.
 C. Election pages may observe the electoral process and seek information from the chief officer of election and may assist in the arrangement of the voting equipment, furniture, and other materials for the conduct of the election but shall not enter any voting booth. Election pages may, at the direction and under the direct supervision of the chief officer of election, assist in the counting of unmarked ballots but shall not handle or touch ballots in any other circumstance.
@@ -5705,9 +7462,10 @@ C. Election pages may observe the electoral process and seek information from th
 
 ## Virginia § 24.2-604.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-604.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-604.4/*
 
-§ 24.2-604.4. Polling places; authorized representatives of party or candidate; prohibited activities
+§ 24.2-604.4
+. Polling places; authorized representatives of party or candidate; prohibited activities.
 A. The officers of election shall permit one authorized representative of each political party or independent candidate in a general or special election, or one authorized representative of each candidate in a primary election, to remain in the room in which the election is being conducted at all times. A representative may serve part of the day and be replaced by successive representatives. The officers of election shall have discretion to permit up to three authorized representatives of each political party or independent candidate in a general or special election, or up to three authorized representatives of each candidate in a primary election, to remain in the room in which the election is being conducted. The officers shall permit one such representative for each pollbook station. However, no more than one such representative for each pollbook station or three representatives of any political party or independent candidate, whichever number is larger, shall be permitted in the room at any one time.
 B. Each authorized representative shall be a qualified voter of any jurisdiction of the Commonwealth. No candidate whose name is printed on the ballot shall serve as a representative of a party or candidate for purposes of this section.
 Each representative shall present to the officers of election a written statement designating him to be a representative of the party or candidate that is signed by the county or city chairman of his political party, the independent candidate, or the primary candidate, as appropriate. If the county or city chairman is unavailable to sign such a written designation, such a designation may be made by the state or district chairman of the political party. However, no written designation made by a state or district chairman shall take precedence over a written designation made by the county or city chairman. Such statement, bearing the chairman's or candidate's original signature, may be photocopied, and such photocopy shall be as valid as if the copy had been signed.
@@ -5727,9 +7485,10 @@ F. The officers of election may require any person who is found by a majority of
 
 ## Virginia § 24.2-604.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-604.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-604.5/*
 
-§ 24.2-604.5. Polling places; presence of additional persons authorized
+§ 24.2-604.5
+. Polling places; presence of additional persons authorized.
 A. A local electoral board or general registrar may authorize in writing the presence in the polling place of additional neutral observers as may be deemed appropriate, except as otherwise prohibited or limited by the provisions of §
 24.2-604
 . Such observers shall comply with the restrictions in subsections A and C of §
@@ -5746,9 +7505,10 @@ B. The officers of election shall permit representatives of the news media to vi
 
 ## Virginia § 24.2-604.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-604.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-604.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-604.6/*
 
-§ 24.2-604.6. Polling places; simulated election activities
+§ 24.2-604.6
+. Polling places; simulated election activities.
 Minors may be permitted to enter a polling place on the day of the election to vote in a simulated election at that polling place, provided that the local electoral board or general registrar has determined that such polling place can accommodate simulated election activities without interference or substantial delay in the orderly conduct of the official voting process. Persons supervising or working in a simulated election in which minors vote may remain within such polling place. The local electoral board or general registrar and the chief officer for the polling place shall exercise authority over, but shall have no responsibility for the administration of, simulated election related activities at the polling place.
 2020, c.
 561
@@ -5756,17 +7516,19 @@ Minors may be permitted to enter a polling place on the day of the election to v
 
 ## Virginia § 24.2-605
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-605. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-605/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-605. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-605/*
 
-§ 24.2-605. Loudspeakers prohibited at polls; penalty
+§ 24.2-605
+. Loudspeakers prohibited at polls; penalty.
 Notwithstanding any contrary statute or ordinance of a county, city, or town, except for school purposes or in an emergency, no loudspeaker shall be used within 300 feet of a polling place on an election day. Any person violating this section shall be guilty of a Class 4 misdemeanor.
 1976, c. 616, § 24.1-96.1; 1993, c. 641.
 
 ## Virginia § 24.2-606
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-606. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-606/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-606. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-606/*
 
-§ 24.2-606. Preservation of order at elections
+§ 24.2-606
+. Preservation of order at elections.
 The officers of election, with the consent of the chief law-enforcement officer for the county or city, may designate a law-enforcement officer who shall attend at the polling place and preserve order inside and outside the polling place.
 Code 1950, § 24-189; 1970, c. 462, § 24.1-103; 1993, c. 641; 2021, Sp. Sess. I, c.
 6
@@ -5774,26 +7536,29 @@ Code 1950, § 24-189; 1970, c. 462, § 24.1-103; 1993, c. 641; 2021, Sp. Sess. I
 
 ## Virginia § 24.2-607
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-607. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-607/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-607. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-607/*
 
-§ 24.2-607. Prohibited conduct; intimidation of voters; disturbance of election; how prevented; penalties
+§ 24.2-607
+. Prohibited conduct; intimidation of voters; disturbance of election; how prevented; penalties.
 A. It shall be unlawful for any person to hinder, intimidate, or interfere with any qualified voter so as to prevent the voter from casting a secret ballot. The officers of election may order a person violating this subsection to cease such action. If such person does not promptly desist, the officers of election, or a majority of them, may order the arrest of such person by any person authorized by law to make arrests, and, by their warrant, may commit him to the county or city jail, as the case may be, for a period not exceeding twenty-four hours. Any person violating this subsection shall be guilty of a Class 1 misdemeanor.
 B. No person shall conduct himself in a noisy or riotous manner at or about the polls so as to disturb the election or insult or abuse an officer of election. Any person authorized to make arrests may forthwith arrest a person engaging in such conduct and bring him before the officers of the election, and they, by their warrant, may commit him to the county or city jail, as the case may be, for a period not exceeding twenty-four hours; but they shall permit him to vote if he is so entitled.
 Code 1950, §§ 24-190, 24-192; 1970, c. 462, § 24.1-104; 1993, c. 641.
 
 ## Virginia § 24.2-608
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-608. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-608/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-608. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-608/*
 
-§ 24.2-608. Officers to decide order of voting
+§ 24.2-608
+. Officers to decide order of voting.
 The officers of election shall promptly decide any dispute as to the order in which qualified voters may vote, deciding who first offered, or if two or more offered at the same time, selecting the one who may vote first.
 Code 1950, § 24-187; 1970, c. 462, § 24.1-102; 1993, c. 641.
 
 ## Virginia § 24.2-609
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-609. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-609/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-609. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-609/*
 
-§ 24.2-609. Voting booths
+§ 24.2-609
+. Voting booths.
 Each electoral board or general registrar shall provide at each polling place in the county or city one or more voting booths. At least one booth shall be an enclosure which permits the voter to vote by printed ballot in secret and is equipped with a writing surface, operative writing implements, and adequate lighting. Enclosures for voting equipment shall provide for voting in secret and be adequately lighted. "Voting booth" includes enclosures for voting printed ballots and for voting equipment.
 Code 1950, §§ 24-185, 24-302; 1970, c. 462, §§ 24.1-100, 24.1-212; 1971, Ex. Sess., c. 119; 1985, c. 458; 1993, c. 641; 2014, cc.
 540
@@ -5807,9 +7572,11 @@ Code 1950, §§ 24-185, 24-302; 1970, c. 462, §§ 24.1-100, 24.1-212; 1971, Ex.
 
 ## Virginia § 24.2-610
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-610. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-610/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-610. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-610/*
 
-§ 24.2-610. Materials at polling places
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-610
+. (Effective until July 1, 2027) Materials at polling places.
 A. The Department shall provide copies of this title to each member of the electoral boards and to each general registrar for each precinct in the county or city. The general registrar shall furnish a copy of this title to each precinct for the use of the officers of election on election day.
 B. Pursuant to subdivision A 7 of §
 24.2-404
@@ -5824,12 +7591,33 @@ Code 1950, §§ 24-115, 24-207 through 24-209, 24-256, 24-306; 1950, p. 245; 195
 ; 2020, c.
 297
 .
+§
+24.2-610
+. (Effective July 1, 2027) Materials at polling places.
+A. The Department shall provide copies of this title to each member of the electoral boards and to each general registrar for each precinct in the county or city. The general registrar shall furnish a copy of this title to each precinct for the use of the officers of election on election day.
+B. Pursuant to subdivision A 8 of §
+24.2-404
+, the Department shall transmit to the general registrar of each county and city pollbooks for each precinct in which the election is to be held. For each primary and general election, the general registrar shall produce and distribute a printed copy of the pollbook to each precinct. The data elements printed or otherwise provided for each voter on the pollbooks shall be uniform throughout the Commonwealth.
+C. The electoral board, general registrar, and officers of election shall comply with the requirements of this title and the instructions of the State Board to ensure that the pollbooks, ballots, voting equipment keys, and other materials and supplies required to conduct the election are delivered to the polling place before 6:00 a.m. on the day of the election and delivered to the proper official following the election.
+Code 1950, §§ 24-115, 24-207 through 24-209, 24-256, 24-306; 1950, p. 245; 1956, c. 235; 1958, c. 605; 1962, c. 536; 1968, c. 141; 1970, c. 462, §§ 24.1-57, 24.1-107, 24.1-134, 24.1-316; 1971, Ex. Sess., c. 119; 1972, cc. 620, 794; 1974, c. 428; 1975, c. 515, § 24.1-100.1; 1978, c. 778; 1981, c. 425; 1982, c. 650; 1985, c. 458; 1993, c. 641; 2003, c.
+1015
+; 2016, cc.
+18
+,
+492
+; 2020, c.
+297
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-611
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-611. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-611/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-611. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-611/*
 
-§ 24.2-611. Form and signing of pollbooks; records of persons voting; electronic pollbooks
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-611
+. (Effective until July 1, 2027) Form and signing of pollbooks; records of persons voting; electronic pollbooks.
 A. The following oath shall be on a form prescribed by the State Board, administered to all officers of election, and kept by the officers of election with the pollbook:
 "I do solemnly swear (or affirm) that I will perform the duties for this election according to law and the best of my ability, and that I will studiously endeavor to prevent fraud, deceit, and abuse in conducting this election."
 The oath shall be administered to each officer of election by the general registrar, a member of the electoral board, or an officer of election designated by the general registrar and secretary of the electoral board, who shall be so identified on the form. The oath shall be signed by each officer of election and the person administering the oath. The pollbook shall be marked to identify the election for which it is used.
@@ -5871,12 +7659,59 @@ Code 1950, § 24-257; 1970, c. 462, § 24.1-135; 1971, Ex. Sess., c. 119; 1976, 
 ; 2020, c.
 297
 .
+§
+24.2-611
+. (Effective July 1, 2027) Form and signing of pollbooks; records of persons voting; electronic pollbooks.
+A. The following oath shall be on a form prescribed by the State Board, administered to all officers of election, and kept by the officers of election with the pollbook:
+"I do solemnly swear (or affirm) that I will perform the duties for this election according to law and the best of my ability, and that I will studiously endeavor to prevent fraud, deceit, and abuse in conducting this election."
+The oath shall be administered to each officer of election by the general registrar, a member of the electoral board, or an officer of election designated by the general registrar and secretary of the electoral board, who shall be so identified on the form. The oath shall be signed by each officer of election and the person administering the oath. The pollbook shall be marked to identify the election for which it is used.
+B. The Department shall provide the pollbook pursuant to subdivision A 8 of §
+24.2-404
+. The pollbook shall (i) provide a space for the officer of election to record the name and consecutive number of the voter at the time he offers to vote and (ii) be retained in accordance with the provisions governing pollbooks in this title. The Department shall make available a numerical check sheet required to be used with pollbooks in printed form to determine the consecutive number to be recorded with the name of the voter by the officer of election. In electronic pollbooks, the consecutive number shall be entered automatically when the officer of election records that the voter has voted. When the name and number of the last qualified voter have been entered on the pollbook, the officer of election responsible for that pollbook shall sign a statement on the check sheet, or on a separate form if an electronic pollbook is used, certifying the number of qualified registrants who have voted. The Department shall provide instructions to the local electoral boards, general registrars, and officers of election for the conduct of the election and for procedures for entering a voting record for each voter and recording each voter's name, including voters unable to enter the polling place, and for verifying the accurate entry of the voting record for each registrant on the Virginia Voter Registration System. Notwithstanding any other provision of this title, for any election held on or after November 1, 2020, all pollbooks provided by the Department shall be in electronic form only.
+C. The Department shall incorporate safeguards to assure that the records of the election, including the pollbook, voter count sheets, or other alternative records, will provide promptly an accurate and secure record of those who have voted.
+D. Any locality may expend its own funds to purchase electronic pollbooks that have been approved for use in elections by the State Board.
+E. The general registrar shall produce a paper copy of the pollbook specified in subsection B for each precinct in any primary or general election.
+F. In the event that the electronic pollbooks for a precinct fail to operate properly and no alternative voter list or pollbook is available, the officers of election, in accordance with the instructions and materials approved by the State Board, shall (i) maintain a written list of the persons voting and (ii) provide to each person voting a provisional ballot to be cast as provided in §
+24.2-653
+.
+Code 1950, § 24-257; 1970, c. 462, § 24.1-135; 1971, Ex. Sess., c. 119; 1976, c. 616; 1980, c. 639; 1981, c. 425; 1993, c. 641; 1994, c.
+321
+; 1999, c.
+810
+; 2000, c.
+2
+; 2001, c.
+839
+; 2002, cc.
+66
+,
+216
+,
+785
+,
+819
+; 2003, c.
+1015
+; 2008, cc.
+88
+,
+424
+; 2010, c.
+812
+; 2011, c.
+810
+; 2020, c.
+297
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-612
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-612. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-612/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-612. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-612/*
 
-§ 24.2-612. List of offices and candidates filed with Department of Elections and checked for accuracy; when ballots printed; number required
+§ 24.2-612
+. List of offices and candidates filed with Department of Elections and checked for accuracy; when ballots printed; number required.
 Immediately after the expiration of the time provided by law for a candidate for any office to qualify to have his name printed on the official ballot and prior to printing the ballots for an election, each general registrar shall forward to the Department of Elections a list of the county, city, or town offices to be filled at the election and the names of all candidates who have filed for each office. In addition, each general registrar shall forward the name of any candidate who failed to qualify with the reason for his disqualification. On that same day, the general registrar shall also provide a copy of the notice to each disqualified candidate. The notice shall be sent by email or regular mail to the address on the candidate's certificate of candidate qualification, and such notice shall be deemed sufficient. The Department of Elections shall promptly advise the general registrar of the accuracy of the list. The failure of any general registrar to send the list to the Department of Elections for verification shall not invalidate any election.
 Each general registrar shall have printed the number of ballots he determines will be sufficient to conduct the election. Such determination shall be based on the number of active registered voters and historical election data, including voter turnout, and shall be subject to the approval by the electoral board.
 Notwithstanding any other provisions of this title, the Department of Elections may print or otherwise provide one statewide paper ballot style for each paper ballot style in use for presidential and vice-presidential electors for use only by persons eligible to vote for those offices only under §
@@ -5941,9 +7776,10 @@ Code 1950, §§ 24-213, 24-214; 1952, c. 4; 1954, c. 513; 1956, c. 395; 1970, c.
 
 ## Virginia § 24.2-612.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-612.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-612.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-612.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-612.1/*
 
-§ 24.2-612.1. Ballots; death, withdrawal, or disqualification of candidates
+§ 24.2-612.1
+. Ballots; death, withdrawal, or disqualification of candidates.
 In the case of the death, withdrawal, or disqualification of any candidate, other than a party nominee, who has qualified to have his name printed on the ballot for any election other than a presidential or primary election, the Department of Elections shall take into account the time available before the election and the status of the ballots for the election and shall have authority to direct the electoral boards on how to proceed to print the ballot without the candidate's name, correct the ballot to delete the candidate's name, or provide notice to voters of the death, withdrawal, or disqualification of the candidate. If ballots are not corrected to delete the candidate's name, the general registrar shall provide a list of candidates who have withdrawn to be posted in each polling place and to be available to the public. If election information is posted on the official website for the county or city, notice of the candidate's withdrawal shall also be posted on that website.
 The Department shall have like authority in the case of the death, withdrawal, or disqualification of a party nominee subject to the provisions of Article 5 (§
 24.2-539
@@ -5956,9 +7792,10 @@ et seq.) of Chapter 5.
 
 ## Virginia § 24.2-612.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-612.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-612.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-612.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-612.2/*
 
-§ 24.2-612.2. Notice of withdrawal of candidates
+§ 24.2-612.2
+. Notice of withdrawal of candidates.
 A candidate who has qualified to have his name printed on the ballot for an election shall not be deemed to have withdrawn from such election until he has submitted a signed and notarized notice declaring his intent to withdraw from such election and that notice has been received by the general registrar. Such notice shall be provided to the general registrar of the county or city in which the candidate resides. In the case of an election held in more than one county or city, the recipient general registrar shall notify the appropriate general registrars of the candidate's withdrawal.
 The Department shall include in its candidate guidance documents the requirements and process for candidate withdrawal.
 2017, c.
@@ -5971,9 +7808,10 @@ The Department shall include in its candidate guidance documents the requirement
 
 ## Virginia § 24.2-613
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-613. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-613/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-613. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-613/*
 
-§ 24.2-613. Form of ballot
+§ 24.2-613
+. Form of ballot.
 A. The ballots shall comply with the requirements of this title and the standards prescribed by the State Board. The names of all candidates to appear on the ballots shall be in the same font, size, and style.
 B. For elections for federal, statewide, and General Assembly offices only, each candidate who has been nominated by a political party or in a primary election shall be identified by the name of his political party. Independent candidates shall be identified by the term "Independent." For the purpose of this section, any Independent candidate may, by producing sufficient and appropriate evidence of nomination by a "recognized political party" to the State Board, have the term "Independent" on the ballot converted to that of a "recognized political party" on the ballot and be treated on the ballot in a manner consistent with the candidates nominated by political parties. For the purpose of this section, a "recognized political party" is defined as an organization that, for at least six months preceding the filing of its nominee for the office, has had in continual existence a state central committee composed of registered voters residing in each congressional district of the Commonwealth, a party plan and bylaws, and a duly elected state chairman and secretary. A letter from the state chairman of a recognized political party certifying that a candidate is the nominee of that party and also signed by such candidate accepting that nomination shall constitute sufficient and appropriate evidence of nomination by a recognized political party. The name of the political party, the name of the "recognized political party," or term "Independent" may be shown by an initial or abbreviation to meet ballot requirements.
 C. Except as provided for primary elections, the State Board shall determine by lot the order of the political parties, and the names of all candidates for a particular office shall appear together in the order determined for their parties. In an election district in which more than one person is nominated by one political party for the same office, the candidates' names shall appear alphabetically in their party groups under the name of the office, with sufficient space between party groups to indicate them as such. For the purpose of this section, except as provided for presidential elections in §
@@ -6028,9 +7866,10 @@ Code 1950, §§ 24-215, 24-217; 1970, c. 462, §§ 24.1-111, 24.1-113; 1971, Ex.
 
 ## Virginia § 24.2-614
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-614. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-614/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-614. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-614/*
 
-§ 24.2-614. Preparation and form of presidential election ballots
+§ 24.2-614
+. Preparation and form of presidential election ballots.
 As soon as practicable after the seventy-fourth day before the presidential election, the State Board shall certify to the general registrar of each county and city the form of official ballot for the presidential election which shall be uniform throughout the Commonwealth. Each general registrar shall have the official ballot printed at least 45 days preceding the election.
 The ballot shall contain the name of each political party and the party group name, if any, specified by the individuals naming electors by petition pursuant to §
 24.2-242
@@ -6054,9 +7893,10 @@ Code 1950, §§ 24-215, 24-290.4; 1952, c. 330; 1970, c. 462, §§ 24.1-111, 24.
 
 ## Virginia § 24.2-615
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-615. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-615/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-615. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-615/*
 
-§ 24.2-615. Separate questions for proposed constitutional amendments, etc.; uniform ballots
+§ 24.2-615
+. Separate questions for proposed constitutional amendments, etc.; uniform ballots.
 A separate question shall be presented for each of the following: proposed amendments to the Constitution submitted to the qualified voters at one election; proposals submitted to the qualified voters after a constitutional convention pursuant to Article XII, Section 2 of the Constitution; candidates for President, Vice President, and presidential electors; and candidates for the Congress of the United States.
 The form of the ballot shall be the same throughout the election district in which the same candidates are running to fill the same offices and throughout the district in which a question is submitted to the voters.
 Code 1950, § 24-216; 1952, c. 581; 1970, c. 462, § 24.1-112; 1971, Ex. Sess., c. 119; 1993, c. 641; 2018, c.
@@ -6065,9 +7905,10 @@ Code 1950, § 24-216; 1952, c. 581; 1970, c. 462, § 24.1-112; 1971, Ex. Sess., 
 
 ## Virginia § 24.2-616
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-616. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-616/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-616. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-616/*
 
-§ 24.2-616. Duties of printer; statement; penalty
+§ 24.2-616
+. Duties of printer; statement; penalty.
 The printer contracting with or employed by the electoral board or general registrar to print the ballots shall sign a statement before the work is commenced agreeing, subject to felony penalties for making false statements pursuant to §
 24.2-1016
 , that he will print the number of ballots requested by the electoral board or the general registrar in accordance with the instructions given by the electoral board or the general registrar; that he will print, and permit to be printed, directly or indirectly, no more than that number; that he will at once destroy all imperfect and perfect impressions other than those required to be delivered to the general registrar; that as soon as such number of ballots is printed he will distribute the type, if any, used for such work; and that he will not communicate to anyone, in any manner, the size, style, or contents of such ballots.
@@ -6080,9 +7921,10 @@ Code 1950, § 24-218; 1970, c. 462, § 24.1-114; 1976, c. 616; 1993, c. 641; 201
 
 ## Virginia § 24.2-617
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-617. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-617/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-617. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-617/*
 
-§ 24.2-617. Representative of electoral board or general registrar to be present at printing; custody of ballots; electoral board or general registrar may disclose contents, style, and size
+§ 24.2-617
+. Representative of electoral board or general registrar to be present at printing; custody of ballots; electoral board or general registrar may disclose contents, style, and size.
 The electoral board or general registrar shall designate one person to be continuously present in the room in which the ballots are printed from the start to the end of the work and ensure that the undertakings of the printer's statement are complied with strictly. For the discharge of this duty the person, other than a board member, shall receive at least $20 per day.
 As soon as the ballots are printed they shall be securely wrapped and sealed, and the designated person shall assure their delivery to the general registrar, allowing no one to examine them until delivery.
 The designated person shall sign a statement, subject to felony penalties for making false statements pursuant to §
@@ -6097,9 +7939,10 @@ Code 1950, §§ 24-219, 24-220.1, 24-221; 1970, c. 462, § 24.1-115; 1980, c. 63
 
 ## Virginia § 24.2-618
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-618. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-618/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-618. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-618/*
 
-§ 24.2-618. Delivery of ballots to electoral board or general registrar; checking and recording number
+§ 24.2-618
+. Delivery of ballots to electoral board or general registrar; checking and recording number.
 A member of the electoral board or the general registrar, or an employee of the board or general registrar designated by the electoral board or the general registrar, shall receive the ballots after they are printed and shall certify the number of ballots received. This certificate shall be filed with other materials for the election.
 Code 1950, §§ 24-223, 24-224; 1970, c. 462, § 24.1-116; 1993, c. 641; 1997, c.
 460
@@ -6111,9 +7954,10 @@ Code 1950, §§ 24-223, 24-224; 1970, c. 462, § 24.1-116; 1993, c. 641; 1997, c
 
 ## Virginia § 24.2-619
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-619. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-619/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-619. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-619/*
 
-§ 24.2-619. Sealing ballots
+§ 24.2-619
+. Sealing ballots.
 A member of the electoral board or the general registrar, or some other person designated by the electoral board or the general registrar, shall cause the seal of the board to be affixed in his presence to every ballot printed as provided in this chapter. The seal shall be on the side reverse from that on which the names of the candidates appear. The seal may be affixed on the ballot either mechanically or manually. The member of the board, general registrar, or other person designated shall sign a statement, subject to felony penalties for making false statements pursuant to §
 24.2-1016
 , that the seal of the electoral board was affixed to the ballots in his presence in the manner prescribed by law, setting forth the name of every person taking part in the affixing of the seal, and stating that he has faithfully performed his duties. His statement shall be filed with the minutes of the board. For his services in causing the seal to be affixed to the ballots, the person designated, other than a board member or general registrar, shall receive at least $20 per day.
@@ -6129,9 +7973,10 @@ Code 1950, §§ 24-225, 24-228, 24-229; 1950, p. 165; 1970, c. 462, §§ 24.1-11
 
 ## Virginia § 24.2-620
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-620. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-620/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-620. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-620/*
 
-§ 24.2-620. Dividing ballots into packages for each precinct; delivery of absentee ballots
+§ 24.2-620
+. Dividing ballots into packages for each precinct; delivery of absentee ballots.
 The electoral board or general registrar shall cause to be made, in the presence of at least one member of the board or a designee of the board, one or more packages of ballots for each precinct in the election district. Each package shall contain a number of ballots determined by the board or general registrar. Each of these packages shall be securely sealed in the presence of a member of the board or such designated person so that the ballots shall be invisible, and so that the packages cannot be readily opened without detection. On each of the packages shall be endorsed the name of the precinct for which it is intended and the number of ballots therein contained. Thereafter the packages designated for each precinct shall be delivered to the general registrar and remain in his exclusive possession until delivered by him, or by a board member, a designee of the board, or a deputy registrar, to the officers of election of each precinct as provided in §
 24.2-621
 .
@@ -6150,9 +7995,10 @@ Code 1950, §§ 24-226, 24-227; 1970, c. 462, § 24.1-119; 1971, Ex. Sess., c. 1
 
 ## Virginia § 24.2-621
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-621. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-621/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-621. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-621/*
 
-§ 24.2-621. Delivery of packages to officers; opening packages
+§ 24.2-621
+. Delivery of packages to officers; opening packages.
 Before every election the secretary of the electoral board, or another board member, board employee, or the general or a deputy registrar designated by the board, shall deliver to an officer of election of each precinct the official ballots for that precinct and obtain a receipt for the package or packages and a certificate that the seals are unbroken. If the secretary or other such designated person is unable to deliver the official ballots, another member of the board shall deliver the ballots.
 Before opening the polls, the officers of election shall open the sealed package and carefully count the ballots. If there is more than one package, additional packages shall be opened as needed and the ballots counted as provided in this section.
 Code 1950, §§ 24-230, 24-231; 1970, c. 462, §§ 24.1-120, 24.1-121; 1993, c. 641; 1997, c.
@@ -6163,9 +8009,10 @@ Code 1950, §§ 24-230, 24-231; 1970, c. 462, §§ 24.1-120, 24.1-121; 1993, c. 
 
 ## Virginia § 24.2-622
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-622. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-622/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-622. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-622/*
 
-§ 24.2-622. Unofficial sample ballots
+§ 24.2-622
+. Unofficial sample ballots.
 Sample ballots not authorized by electoral boards and provided by electoral boards or general registrars to precincts pursuant to §
 24.2-641
 are permitted to be printed and circulated, which includes publication in newspapers or on the Internet.
@@ -6195,9 +8042,10 @@ Code 1950, § 24-240; 1970, c. 462, § 24.1-122; 1974, c. 428; 1979, c. 265; 199
 
 ## Virginia § 24.2-623
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-623. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-623/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-623. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-623/*
 
-§ 24.2-623. Ballot containers to be supplied by governing bodies; construction and custody
+§ 24.2-623
+. Ballot containers to be supplied by governing bodies; construction and custody.
 The governing body of each county and city shall provide a ballot container for each precinct. The container shall have a lock and key and an opening of sufficient size to admit a single folded or unfolded ballot and no more. The containers shall be kept by the electoral boards for use in the precincts.
 Code 1950, § 24-241; 1970, c. 462, § 24.1-123; 1993, c. 641; 2003, c.
 1015
@@ -6209,9 +8057,10 @@ Code 1950, § 24-241; 1970, c. 462, § 24.1-123; 1993, c. 641; 2003, c.
 
 ## Virginia § 24.2-624
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-624. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-624/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-624. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-624/*
 
-§ 24.2-624. Opening and closing ballot containers; opening polls
+§ 24.2-624
+. Opening and closing ballot containers; opening polls.
 Immediately before the opening of the polls, an officer of election shall open the ballot containers in the presence of the political party or candidate representatives authorized to be present for the examination of voting equipment pursuant to §
 24.2-639
 , if such representatives are available. The officers shall inspect the containers to ensure that they are empty, lock them, and deliver the key to one of the officers. One of the officers shall forthwith proclaim that the polls are open. The containers shall not be opened until the close of the polls and shall then be opened for the purpose of counting the ballots therein. The containers shall be kept in view of those voting within the polling place during the hours of the election.
@@ -6221,9 +8070,10 @@ Code 1950, §§ 24-242, 24-243; 1970, c. 462, § 24.1-124; 1972, c. 620; 1993, c
 
 ## Virginia § 24.2-625
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-625. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-625/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-625. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-625/*
 
-§ 24.2-625. Application of Title 24.2 and general law
+§ 24.2-625
+. Application of Title 24.2 and general law.
 All of the provisions of this title and general law not inconsistent with the provisions of this article shall apply to elections in counties, cities, and towns adopting and using electronic voting or counting machines.
 Code 1950, § 24-315; 1970, c. 462, § 24.1-225; 1985, c. 458; 1993, c. 641; 2014, cc.
 540
@@ -6233,9 +8083,10 @@ Code 1950, § 24-315; 1970, c. 462, § 24.1-225; 1985, c. 458; 1993, c. 641; 201
 
 ## Virginia § 24.2-625.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-625.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-625.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-625.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-625.1/*
 
-§ 24.2-625.1. Voting equipment security
+§ 24.2-625.1
+. Voting equipment security.
 A. Records of the State Board of Elections or of a local electoral board, to the extent such records describe protocols for maintaining the security of ballots or voting and counting equipment, or reveal the results of risk assessments of specific local electoral procedures, the release of which would compromise the security of any election, shall be confidential and excluded from inspection and copying under the Virginia Freedom of Information Act (§
 2.2-3700
 et seq.).
@@ -6251,9 +8102,10 @@ E. Nothing in this section shall be construed to prohibit the release of informa
 
 ## Virginia § 24.2-625.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-625.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-625.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-625.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-625.2/*
 
-§ 24.2-625.2. Wireless communications at polling places
+§ 24.2-625.2
+. Wireless communications at polling places.
 There shall be no wireless communications on election day, while the polls are open, between or among voting machines within the polling place or between any voting machine within the polling place and any equipment outside the polling place. For purposes of this section, the term wireless communication shall mean the ability to transfer information via electromagnetic waves without the use of electrical conductors.
 The provisions of this section shall not apply to voting machines purchased by any locality before July 1, 2007.
 The provisions of this section shall not be construed to prohibit the operation of electronic pollbook devices at polling places on election day.
@@ -6269,9 +8121,10 @@ The provisions of this section shall not be construed to prohibit the operation 
 
 ## Virginia § 24.2-626
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-626. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-626/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-626. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-626/*
 
-§ 24.2-626. Governing bodies shall acquire electronic voting systems
+§ 24.2-626
+. Governing bodies shall acquire electronic voting systems.
 A. The governing body of each county and city shall provide for the use of electronic voting systems, of a kind approved by the State Board, at every precinct and for all elections held in the county, the city, or any part of the county or city.
 Each county and city governing body shall purchase, lease, lease purchase, or otherwise acquire such systems and may provide for the payment therefor in the manner it deems proper. Systems of different kinds may be adopted for use and be used in different precincts of the same county or city, or within a precinct or precincts in a county or city, subject to the approval of the State Board.
 B. On and after July 1, 2020, no county or city shall use any direct recording electronic machine (DRE) in elections in the county or city.
@@ -6307,9 +8160,10 @@ Code 1950, § 242-291; 1970, c. 462, § 24.1-203; 1971, Ex. Sess., c. 119; 1972,
 
 ## Virginia § 24.2-626.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-626.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-626.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-626.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-626.1/*
 
-§ 24.2-626.1. Acquisition and use of accessible voting devices
+§ 24.2-626.1
+. Acquisition and use of accessible voting devices.
 The governing body of any county or city shall provide for the use of a voting or counting system in all elections that shall:
 1. Provide for at least one voting system equipped for individuals with disabilities at each polling place, including nonvisual accessibility for the blind and visually impaired, in a manner that provides the same opportunity for access and participation (including privacy and independence) as for other voters; and
 2. Provide alternative language accessibility when required by § 203 of the Voting Rights Act of 1965 (52 U.S.C. § 10503).
@@ -6321,9 +8175,10 @@ The governing body of any county or city shall provide for the use of a voting o
 
 ## Virginia § 24.2-627
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-627. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-627/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-627. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-627/*
 
-§ 24.2-627. Electronic voting systems; number required
+§ 24.2-627
+. Electronic voting systems; number required.
 A. The governing body of any county or city that adopts for use at elections ballot scanner machines shall provide for each precinct at least one voting booth with a marking device for each 425 registered voters or portion thereof and shall provide for each precinct at least one scanner. However, each precinct having more than 4,000 registered voters shall be provided with not less than two scanners at a presidential election, unless the governing body, in consultation with the general registrar and the electoral board, determines that a second scanner is not necessary at any such precinct on the basis of voter turnout and the average wait time for voters in previous presidential elections.
 B. The local electoral board of any county or city shall be authorized to conduct any May general election, primary election, or special election held on a date other than a November general election with the number of voting systems determined by the board and the general registrar to be appropriate for each precinct, notwithstanding the provisions of subsection A.
 C. For purposes of applying this section, a general registrar may exclude persons voting absentee in his calculations, and if he does so shall send to the Department a statement of the number of voting systems to be used in each precinct. If the State Board finds that the number of voting systems is not sufficient, it may direct the general registrar to use more voting systems.
@@ -6353,9 +8208,10 @@ C. For purposes of applying this section, a general registrar may exclude person
 
 ## Virginia § 24.2-628
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-628. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-628/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-628. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-628/*
 
-§ 24.2-628. Repealed
+§ 24.2-628
+. Repealed.
 Repealed by Acts 2014, c.
 540
 , cl. 2, effective April 3, 2014, and c.
@@ -6364,9 +8220,10 @@ Repealed by Acts 2014, c.
 
 ## Virginia § 24.2-629
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-629. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-629/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-629. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-629/*
 
-§ 24.2-629. State Board approval process of electronic voting systems
+§ 24.2-629
+. State Board approval process of electronic voting systems.
 A. Any person, firm, or corporation, referred to in this article as the "vendor," manufacturing, owning, or offering for sale any electronic voting or counting machine and ballots designed to be used with such equipment may apply to the State Board, in the manner prescribed by the Board, to have examined a production model of such equipment and the ballots used with it. The Board may require the vendor to pay a reasonable application fee when he files his request for testing or certification of new or upgraded voting equipment. Receipts from such fees shall be credited to the Board for reimbursement of testing and certification expenses. In addition to any other materials that may be required, a current statement of the financial status of the vendor, including any assets and liabilities, shall be filed with the Board; if the vendor is not the manufacturer of the equipment for which application is made, such a statement shall also be filed for the manufacturer. These statements shall be exempt from the provisions of the Virginia Freedom of Information Act (§
 2.2-3700
 et seq.). The Board shall require, at a site of its choosing, a demonstration of such equipment and ballots and may require that a production model of the equipment and a supply of ballots be provided to the Board for testing purposes. The Board shall also require the vendor to provide documentation of the practices recommended by the vendor to ensure the optimum security and functionality of the system.
@@ -6422,17 +8279,19 @@ I. The Board shall have the authority to investigate, at its discretion, any vot
 
 ## Virginia § 24.2-630
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-630. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-630/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-630. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-630/*
 
-§ 24.2-630. Experimental use of approved systems
+§ 24.2-630
+. Experimental use of approved systems.
 With the approval of the State Board, the governing body of any county, city, or town may provide for the experimental use at an election in one or more election districts or precincts of a voting or counting system which it might legally adopt without a formal adoption thereof, and its use at such election shall be valid for all purposes.
 Code 1950, § 24-295; 1970, c. 462, § 24.1-206; 1985, c. 458; 1993, c. 641.
 
 ## Virginia § 24.2-631
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-631. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-631/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-631. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-631/*
 
-§ 24.2-631. Experimental use of voting systems and ballots prior to approval of the system
+§ 24.2-631
+. Experimental use of voting systems and ballots prior to approval of the system.
 The State Board is authorized to approve the experimental use of voting or counting systems and ballots for the purpose of casting and counting absentee ballots in one or more counties and cities designated by the Board (i) that have established central absentee voter election districts and (ii) whose electoral board and general registrar submit to the Board for approval a plan for the use of such system and ballots. The Board is also authorized to approve the experimental use of voting or counting systems and ballots in one or more precincts in any county or city whose electoral board and general registrar submit to the Board for approval a plan for such use. The use of such systems and ballots at an election shall be valid for all purposes.
 1980, c. 639, § 24.1-206.1; 1985, c. 458; 1993, c. 641; 2016, cc.
 18
@@ -6442,9 +8301,10 @@ The State Board is authorized to approve the experimental use of voting or count
 
 ## Virginia § 24.2-632
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-632. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-632/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-632. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-632/*
 
-§ 24.2-632. Voting equipment custodians
+§ 24.2-632
+. Voting equipment custodians.
 A. For the purpose of programming and preparing voting and counting equipment, including the programming of any electronic activation devices or data storage media used to program or operate the equipment, and maintaining, testing, calibrating, and delivering it, the electoral board and general registrar shall employ one or more persons, to be known as custodians of voting equipment. The custodians shall be fully competent, thoroughly instructed, and sworn to perform their duties honestly and faithfully, and for such purpose shall be appointed and instructed at least 30 days before each election. With the approval of the State Board, the electoral board or general registrar may contract with the voting equipment vendor or another contractor for the purpose of programming, preparing and maintaining the voting equipment. The voting equipment custodians shall instruct and supervise the vendor or contractor technicians and oversee the programming, testing, calibrating and delivering of the equipment. The vendor or contractor technicians shall be sworn to perform their duties honestly and faithfully and be informed of and subject to the misdemeanor and felony penalties provided in §§
 24.2-1009
 and
@@ -6468,9 +8328,10 @@ Code 1950, §§ 24-296, 24-299; 1970, c. 462, § 24.1-209; 1973, c. 30; 1974, c.
 
 ## Virginia § 24.2-633
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-633. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-633/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-633. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-633/*
 
-§ 24.2-633. Notice of final testing of voting system; sealing equipment
+§ 24.2-633
+. Notice of final testing of voting system; sealing equipment.
 Before the final testing of voting or counting machines for any election, the general registrar shall mail written notice (i) to the chairman of the local committee of each political party, or (ii) in a primary election, to the chairman of the local committee of the political party holding the primary, or (iii) in a city or town council election in which no candidate is a party nominee and which is held when no other election having party nominees is being conducted, to the candidates.
 The notice shall state the time and place where the machine will be tested and state that the political party or candidate receiving the notice may have one representative present while the equipment is tested.
 At the time stated in the notice, the representatives, if present, shall be afforded an opportunity to see that the equipment is in proper condition for use at the election. When a machine has been so examined by the representatives, it shall be sealed with a numbered seal in their presence, or if the machine cannot be sealed with a numbered seal, it shall be locked with a key. The representatives shall certify for each machine the number registered on the protective counter and the number on the seal. When no party or candidate representative is present, the custodian shall seal the machine as prescribed in this section in the presence of a member of the electoral board, the general registrar, or a designee of the electoral board or general registrar.
@@ -6492,9 +8353,10 @@ Code 1950, § 24-300; 1962, c. 260; 1970, c. 462, § 24.1-210; 1981, c. 425; 198
 
 ## Virginia § 24.2-634
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-634. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-634/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-634. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-634/*
 
-§ 24.2-634. Locking and securing after preparation
+§ 24.2-634
+. Locking and securing after preparation.
 When voting equipment has been properly prepared for an election, it shall be locked against voting and sealed, or if a voting or counting machine cannot be sealed with a numbered seal, it shall be locked with a key. The equipment keys and any electronic activation devices shall be retained in the custody of the general registrar and delivered to the officers of election as provided in §
 24.2-639
 . After the voting equipment has been delivered to the polling places, the general registrar shall provide ample protection against tampering with or damage to the equipment.
@@ -6516,9 +8378,10 @@ Code 1950, § 24-301; 1970, c. 462, § 24.1-211; 1985, c. 458; 1993, c. 641; 199
 
 ## Virginia § 24.2-635
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-635. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-635/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-635. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-635/*
 
-§ 24.2-635. Demonstration of equipment
+§ 24.2-635
+. Demonstration of equipment.
 In each county, city, or town in which voting or counting equipment is to be used, the electoral board or general registrar may designate times and places for the exhibition of equipment containing sample ballots, showing the title of offices to be filled, and, so far as practicable, the names of the candidates to be voted for at the next election for the purpose of informing voters who request instruction on the use of the equipment. No equipment shall be used for such instruction after being prepared and sealed for use in any election. During exhibitions, the counting mechanism, if any, of the equipment may be concealed from view.
 Code 1950, § 24-304; 1970, c. 462, § 24.1-214; 1985, c. 458; 1993, c. 641; 2003, c.
 1015
@@ -6530,9 +8393,10 @@ Code 1950, § 24-304; 1970, c. 462, § 24.1-214; 1985, c. 458; 1993, c. 641; 200
 
 ## Virginia § 24.2-636
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-636. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-636/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-636. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-636/*
 
-§ 24.2-636. Instruction as to use of equipment
+§ 24.2-636
+. Instruction as to use of equipment.
 No fewer than three nor more than 30 days before each election, the electoral board or general registrar shall instruct, or cause to be instructed, on the use of the equipment and his duties in connection therewith, each officer of election appointed to serve in the election who has not previously been so instructed. The board or the general registrar shall not permit any person to serve as an officer who is not fully trained to conduct an election properly with the equipment. This section shall not be construed to prevent the appointment of a person as an officer of election to fill a vacancy in an emergency.
 Code 1950, § 24-303; 1970, c. 462, § 24.2-213; 1972, c. 620; 1985, c. 458; 1993, c. 641; 1998, c.
 187
@@ -6544,9 +8408,10 @@ Code 1950, § 24-303; 1970, c. 462, § 24.2-213; 1972, c. 620; 1985, c. 458; 199
 
 ## Virginia § 24.2-637
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-637. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-637/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-637. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-637/*
 
-§ 24.2-637. Furniture and equipment to be at polling places
+§ 24.2-637
+. Furniture and equipment to be at polling places.
 Before the time to open the polls, each electoral board shall ensure that the general registrar has the voting and counting equipment and all necessary furniture and materials at the polling places, with counters on the voting or counting devices set at zero (000), and otherwise in good and proper order for use at the election.
 The general registrar shall have the custody of such equipment, furniture, and materials when not in use at an election and shall maintain the equipment in accurate working order and in proper repair.
 Code 1950, §§ 24-296, 24-299; 1970, c. 462, § 24.1-209; 1973, c. 30; 1974, c. 428; 1981, c. 570; 1985, c. 458; 1993, c. 641; 2016, cc.
@@ -6557,9 +8422,10 @@ Code 1950, §§ 24-296, 24-299; 1970, c. 462, § 24.1-209; 1973, c. 30; 1974, c.
 
 ## Virginia § 24.2-638
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-638. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-638/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-638. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-638/*
 
-§ 24.2-638. Voting equipment to be in plain view; officers and others not permitted to see actual voting; unlocking counter compartment of equipment, etc
+§ 24.2-638
+. Voting equipment to be in plain view; officers and others not permitted to see actual voting; unlocking counter compartment of equipment, etc.
 During the election, the exterior of the voting equipment and every part of the polling place shall be in plain view of the officers of election.
 No voting or counting machines shall be removed from the plain view of the officers of election or from the polling place at any time during the election and through the determination of the vote as provided in §
 24.2-657
@@ -6594,9 +8460,10 @@ Code 1950, § 24-305; 1962, c. 260; 1970, c. 462, § 24.1-215; 1985, c. 458; 199
 
 ## Virginia § 24.2-639
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-639. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-639/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-639. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-639/*
 
-§ 24.2-639. Duties of officers of election
+§ 24.2-639
+. Duties of officers of election.
 The officers of election of each precinct at which voting systems are used shall meet at the polling place by 5:15 a.m. on the day of the election and arrange the equipment, furniture, and other materials for the conduct of the election. The officers of election shall verify that all required equipment, ballots, and other materials have been delivered to them for the election. The officers shall post at least two instruction cards for direct recording electronic machines conspicuously within the polling place.
 The keys to the equipment and any electronic activation devices that are required for the operation of electronic voting equipment shall be delivered, prior to the opening of the polls, to the officer of election designated by the electoral board or general registrar in a sealed envelope on which has been written or printed the name of the precinct for which it is intended. The envelope containing the keys and any electronic activation devices shall not be opened until all of the officers of election for the precinct are present at the polling place and have examined the envelope to see that it has not been opened. The equipment shall remain locked against voting until the polls are formally opened and shall not be operated except by voters in voting.
 Before opening the polls, each officer shall examine the equipment and see that no vote has been cast and that the counters register zero. The officers shall conduct their examination in the presence of the following party and candidate representatives: one authorized representative of each political party or independent candidate in a general or special election, or one authorized representative of each candidate in a primary election, if such representatives are available. Each authorized representative shall be a qualified voter of any jurisdiction of the Commonwealth. Each representative, who is not himself a candidate or party chairman, shall present to the officers of election a written statement designating him to be a representative of the party or candidate and signed by the county or city chairman of his political party, the independent candidate, or the primary candidate, as appropriate. If the county or city chairman is unavailable to sign such a written designation, such a designation may be made by the state or district chairman of the political party. However, no written designation made by a state or district chairman shall take precedence over a written designation made by the county or city chairman. Such statement, bearing the chairman's or candidate's original signature, may be photocopied and such photocopy shall be as valid as if the copy had been signed.
@@ -6629,9 +8496,10 @@ Code 1950, § 24-306; 1970, c. 462, § 24.1-216; 1972, c. 620; 1985, c. 458; 199
 
 ## Virginia § 24.2-640
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-640. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-640/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-640. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-640/*
 
-§ 24.2-640. Repealed
+§ 24.2-640
+. Repealed.
 Repealed by Acts 2014, c.
 540
 , cl. 2, effective April 3, 2014, and c.
@@ -6640,9 +8508,10 @@ Repealed by Acts 2014, c.
 
 ## Virginia § 24.2-641
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-641. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-641/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-641. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-641/*
 
-§ 24.2-641. Sample ballot
+§ 24.2-641
+. Sample ballot.
 The electoral board or general registrar shall provide for each precinct in which any voting or counting machines are used two sample ballots for each ballot style in use at that precinct. Such sample ballots shall be posted for public inspection at each polling place during the day of election.
 Code 1950, § 24-298; 1970, c. 462, § 24.1-208; 1985, c. 458; 1993, c. 641; 2014, cc.
 540
@@ -6658,9 +8527,10 @@ Code 1950, § 24-298; 1970, c. 462, § 24.1-208; 1985, c. 458; 1993, c. 641; 201
 
 ## Virginia § 24.2-642
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-642. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-642/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-642. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-642/*
 
-§ 24.2-642. Inoperative equipment
+§ 24.2-642
+. Inoperative equipment.
 A. When any voting or counting machine becomes inoperative in whole or in part while the polls are open, the officers of election shall immediately notify the electoral board or general registrar. If possible, the electoral board or general registrar shall dispatch a qualified technician to the polling place to repair the inoperative machine. All repairs shall be made in the presence of two officers of election representing the two political parties or, in the case of a primary election for only one party, two officers representing that party. If the machine cannot be repaired on site, the general registrar shall, if possible, substitute a machine in good order for the inoperative machine and at the close of the polls the record of both machines shall be taken and the votes shown on their counters shall be added together in ascertaining the results of the election.
 No voting or counting machines, including inoperative machines, shall be removed from the plain view of the officers of election or from the polling place at any time during the election and through the determination of the vote as provided in §
 24.2-657
@@ -6705,9 +8575,10 @@ Code 1950, § 24-311; 1970, c. 462, § 24.1-221; 1981, c. 570; 1985, c. 458; 199
 
 ## Virginia § 24.2-643
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-643. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-643/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-643. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-643/*
 
-§ 24.2-643. Qualified voter permitted to vote; procedures at polling place; voter identification
+§ 24.2-643
+. Qualified voter permitted to vote; procedures at polling place; voter identification.
 A. After the polls are open, each qualified voter at a precinct shall be permitted to vote. The officers of election shall ascertain that a person offering to vote is a qualified voter before admitting him to the voting booth and furnishing an official ballot to him.
 B. An officer of election shall ask the voter for his full name and current residence address and the voter may give such information orally or in writing. The officer of election shall verify with the voter his full name and address and shall repeat, in a voice audible to party and candidate representatives present, the full name provided by the voter. The officer shall ask the voter to present any one of the following forms of identification: (i) his voter confirmation documents; (ii) his valid Virginia driver's license, his valid United States passport, or any other identification issued by the Commonwealth, one of its political subdivisions, or the United States, other than a driver privilege card issued under §
 46.2-328.3
@@ -6796,9 +8667,10 @@ Code 1950, §§ 24-244, 24-245, 24-248, 24-252, 24-308; 1952, c. 581; 1962, c. 5
 
 ## Virginia § 24.2-644
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-644. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-644/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-644. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-644/*
 
-§ 24.2-644. Voting by paper ballot; voting for presidential electors; write-in votes
+§ 24.2-644
+. Voting by paper ballot; voting for presidential electors; write-in votes.
 A. The qualified voter shall take the official paper ballot and enter the voting booth. After entering the voting booth, the qualified voter shall mark the ballot in accordance with the instructions for the type of ballot, for each candidate for whom he wishes to vote, leaving unmarked the name of each candidate for whom he does not wish to vote. Any ballot marked so that the intent of the voter is clear shall be counted.
 B. The qualified voter at a presidential election shall mark the ballot in accordance with the instructions for the type of ballot, for his choice of candidates for President and Vice President. His ballot so marked shall be counted as if he had marked the ballot in accordance with the instructions for the type of ballot preceding the names of the individual electors affiliated with his choice for President and Vice President. The qualified voter at a presidential election may cast a write-in vote for President and Vice President as provided in subsections C and D.
 C. At all elections except primary elections it is lawful for any voter to vote for any person other than the listed candidates for the office by writing or hand printing the person's name on the official ballot. No check or other mark shall be required to cast a valid write-in vote. Write-in votes for President and Vice President shall be counted only for candidates who have filed a joint declaration of intent to be write-in candidates for the offices with the Commissioner of Elections not less than 10 days before the date of the presidential election. The declaration of intent shall be on a form prescribed by the State Board and shall include a list of presidential electors pledged to those candidates which equals the whole number of senators and representatives to which the Commonwealth at that time is entitled in the Congress of the United States. A write-in vote cast for candidates for President and Vice President, or for a candidate for President only, shall be counted for the individual electors listed on the declaration of intent as pledged to those candidates.
@@ -6813,9 +8685,10 @@ Code 1950, §§ 24-245, 24-252, 24-290.5, 24-307; 1952, c. 581; 1962, cc. 260, 5
 
 ## Virginia § 24.2-645
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-645. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-645/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-645. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-645/*
 
-§ 24.2-645. Defaced printed ballots
+§ 24.2-645
+. Defaced printed ballots.
 If any printed ballot is unintentionally or accidentally defaced and rendered unfit for voting, the voter may deliver the defaced ballot to the officer of election and receive another. The returned ballot shall be marked spoiled by the officer of election and placed in the spoiled ballot envelope.
 Code 1950, § 24-238; 1970, c. 462, § 24.1-130; 1987, c. 349; 1993, c. 641; 2014, cc.
 540
@@ -6825,9 +8698,10 @@ Code 1950, § 24-238; 1970, c. 462, § 24.1-130; 1987, c. 349; 1993, c. 641; 201
 
 ## Virginia § 24.2-646
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-646. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-646/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-646. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-646/*
 
-§ 24.2-646. Voter folds paper ballot and hands same to officer who deposits it unopened in ballot container
+§ 24.2-646
+. Voter folds paper ballot and hands same to officer who deposits it unopened in ballot container.
 The qualified voter shall fold each paper ballot with the names of the candidates and questions on the inside and hand the folded ballot to the appropriate officer of election. The officer shall place the ballot in the ballot container without any inspection except to assure himself that only a single ballot has been tendered and that the ballot is a genuine ballot. Without looking at the printed inside of the ballot, the officer may inspect the official seal on the back of the ballot to determine if it is genuine.
 Code 1950, § 24-247; 1970, c. 462, § 24.1-131; 1993, c. 641; 2003, c.
 1015
@@ -6839,9 +8713,10 @@ Code 1950, § 24-247; 1970, c. 462, § 24.1-131; 1993, c. 641; 2003, c.
 
 ## Virginia § 24.2-646.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-646.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-646.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-646.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-646.1/*
 
-§ 24.2-646.1. Permitted use of paper ballots
+§ 24.2-646.1
+. Permitted use of paper ballots.
 The official paper ballot shall be used by a voter to cast his vote only in one of the following circumstances:
 1. The official paper ballot is the only ballot in use in the precinct.
 2. The official paper ballot is used by voters voting outside of the polling place pursuant to §
@@ -6869,9 +8744,10 @@ or for federal elections pursuant to §
 
 ## Virginia § 24.2-647
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-647. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-647/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-647. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-647/*
 
-§ 24.2-647. Voting systems; demonstration on election day
+§ 24.2-647
+. Voting systems; demonstration on election day.
 The general registrar shall provide at each polling place on election day, for the voting system in use, a model of or materials displaying a portion of its ballot face. The model or materials shall be located on the table of one of the officers or in some other place accessible to the voters. An officer of election shall instruct any voter who requests instruction before voting on the proper manner of voting. The officer may direct the voter's attention to sample ballots so that the voter may become familiar with the location of questions and names of offices and candidates.
 For ballot scanner machines, an officer of election, using a demonstration ballot and machine, shall show each voter who requests, immediately on entry to the polling place, the manner in which the ballot is to be voted.
 If any voter, after entering the voting booth, asks for further instructions concerning the manner of voting, two of the officers from different political parties shall give such instructions to him, but no officer shall in any manner request or seek to persuade or induce any such voter to vote for or against any particular ticket, candidate, or question. After giving such instructions and before the voter votes, the officers shall leave the voting booth, and the voter shall cast his ballot in secret.
@@ -6887,9 +8763,10 @@ Code 1950, § 24-309; 1970, c. 462, § 24.1-219; 1980, c. 639; 1985, c. 458; 199
 
 ## Virginia § 24.2-648
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-648. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-648/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-648. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-648/*
 
-§ 24.2-648. Write-in votes on voting equipment
+§ 24.2-648
+. Write-in votes on voting equipment.
 Write-in votes may be cast on voting equipment for any person whose name does not appear on the ballot as a candidate for the office being voted, subject to this section and the provisions of §
 24.2-644
 not in conflict with this section.
@@ -6905,9 +8782,10 @@ Code 1950, § 24-307; 1962, c. 260; 1970, c. 462, § 24.1-217; 1975, c. 515; 198
 
 ## Virginia § 24.2-649
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-649. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-649/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-649. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-649/*
 
-§ 24.2-649. Assistance for certain voters inside the polling place; penalties
+§ 24.2-649
+. Assistance for certain voters inside the polling place; penalties.
 A. Any qualified voter who requires assistance to vote by reason of physical disability or inability to read or write may, if he so requests, be assisted in voting. If he is blind, he may designate an officer of election or any other person to assist him. If he is unable to read and write or disabled for any cause other than blindness, he may designate an officer of election or some other person to assist him other than the voter's employer or agent of that employer, or officer or agent of the voter's union.
 The officer of election or other person so designated shall not enter the booth with the voter unless (i) the voter signs a request stating that he requires assistance by reason of physical disability or inability to read or write and (ii) the officer of election or other person signs a statement that he is not the voter's employer or an agent of that employer, or an officer or agent of the voter's union, and that he will act in accordance with the requirements of this section. The request and statement shall be on a single form furnished by the State Board. If the voter is unable to sign the request, his own mark acknowledged by him before an officer of election shall be sufficient signature, provided no mark shall be required of a voter who is blind. An officer of election shall advise the voter and person assisting the voter of the requirements of this section and record the name of the voter and the name and address of the person assisting him.
 The officer of election or other person so designated shall assist the qualified voter in the preparation of his ballot in accordance with his instructions and without soliciting his vote or in any manner attempting to influence his vote and shall not in any manner divulge or indicate, by signs or otherwise, how the voter voted on any office or question. If a printed ballot is used, the officer or other person so designated shall deposit the ballot in the ballot container in accordance with §
@@ -6954,9 +8832,10 @@ Code 1950, §§ 24-245, 24-251, 24-252, 24-310; 1950, c. 230; 1952, c. 581; 1962
 
 ## Virginia § 24.2-649.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-649.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-649.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-649.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-649.1/*
 
-§ 24.2-649.1. Assistance for certain voters outside of the polling place
+§ 24.2-649.1
+. Assistance for certain voters outside of the polling place.
 A. Any qualified voter who is a person with a disability or who is age 65 or older shall be entitled to vote outside of the polling place in accordance with the provisions of this section. However, during a declared state of emergency related to a communicable disease of public health threat, any voter, regardless of age or disability, shall be entitled to vote outside of the polling place in accordance with the provisions of this section. For purposes of this section, a disability shall include a permanent or temporary disability, or an injury.
 B. The area designated for voting outside of the polling place shall be within 150 feet of the entrance to the polling place. This area shall be clearly marked, and instructions on how to notify an officer of election of the voter's request to vote outside of the polling place shall be prominently displayed. The Department shall prescribe the form and content of such instructions, but in no case shall the voter be required to enter the polling place to provide such notice.
 C. A voter eligible pursuant to subsection A shall be handed a printed ballot by an officer of election. He shall mark the ballot in the officer's presence but in a secret manner and, obscuring his vote, shall return the ballot to the officer. The officer shall immediately return to the polling place and shall deposit a paper ballot in the ballot container in accordance with §
@@ -6979,58 +8858,29 @@ E. Training on providing assistance for voters outside of the polling place purs
 
 ## Virginia § 24.2-650
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-650. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-650/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-650. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-650/*
 
-§ 24.2-650. Officers to sign only official papers, etc
+§ 24.2-650
+. Officers to sign only official papers, etc.
 No officer of election shall sign or otherwise mark any paper, form, or item, other than one furnished by the State Board, his electoral board, or general registrar, at his polling place during the hours that the polls are open.
 1976, c. 616, § 24.1-132.1; 1993, c. 641.
 
 ## Virginia § 24.2-651
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-651. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-651/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-651. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-651/*
 
-§ 24.2-651. Voter who is challenged; how challenge tried
-Any qualified voter may, and the officers of election shall, challenge the vote of any person who is listed on the pollbook but is known or suspected not to be a qualified voter.
-The individual making the challenge shall complete and sign the following statement on a form provided by the State Board:
-"I do hereby state, subject to penalties for hindering, intimidating, or interfering with a qualified voter pursuant to §
-24.2-607
-, that I am a qualified voter of this Commonwealth or an officer of election and that, to the best of my knowledge, information, and belief, _______________ is not a qualified voter of this precinct by reason of (please check each of the following reasons that is applicable):
-1. The named person is not a citizen of the United States;
-2. The named person is not now 18 years of age or, in the case of a primary election or a special election held on a date other that a general election date, will not reach the age of 18 before the next general election;
-3. The named person is not a resident of the Commonwealth (or, if he has not been a resident of the Commonwealth within the preceding 30 days, he is attempting to vote for an office or issue other than electors of President and Vice President of the United States);
-4. The named person is not a resident of this precinct (or he has not been a resident of this precinct since the second preceding general federal election and has not continued to be a resident of this county or city and this congressional district);
-5. The named person is not a resident of the town in the case of a town election;
-6. The named person has been disqualified from voting by the Constitution and laws of the Commonwealth and this disqualification has not been removed by proper authority;
-7. The named person is not the identical person he represents himself to be; or
-8. The named person has voted in this election at this or another voting place (state when and where the named person previously voted in this election: _______________)."
-Upon receipt of a signed challenge from a qualified voter or officer of election, an officer of election shall explain to the challenged voter the qualifications of a voter and may examine him concerning his qualifications.
-The officers of election are hereby authorized to administer the necessary oath or affirmation to any witness brought before them to testify as to the qualifications of any person offering to vote.
-If the person being challenged insists that he is qualified and the challenge is not withdrawn, one of the officers shall give him a form containing the following statement:
-"I do hereby state, subject to felony penalties for making false statements pursuant to §
-24.2-1016
-, that I am a citizen of the United States, that I am at least 18 years of age (or will be on the __________ day of __________, _____) that I am a resident of the Commonwealth of Virginia (or that I have been a resident of this Commonwealth within the preceding 30 days and am voting only for electors of President and Vice President of the United States), and that, according to the best of my knowledge, information and belief, I am not disqualified from voting by the Constitution and laws of this Commonwealth; that my full name is _______________; that in such name I was duly registered as a voter of this precinct; that I am now or at some time since the last November general election have been an actual resident of this precinct or that I have been an actual resident of this precinct at some time since the second preceding general federal election and have been and continue to be a resident of this county or city and this congressional district; if I am voting in a town election today, that I am currently a resident of that town; that I am the identical person I represent myself to be; and that I have not voted in this election at this or any voting place and will not vote in this election at any other voting place."
-If the person challenged refuses to sign the statement, he shall not be permitted to vote. If, however, he signs the statement, he shall be permitted to vote on the voting system in use at the precinct, unless he is required to cast a provisional ballot pursuant to §
-24.2-651.1
-.
-When the voter has signed the statement and is permitted to vote, the officers of election shall mark his name on the pollbook with the first or next consecutive number from the voter count form, or shall enter that the voter has voted if the pollbook is in electronic form, and shall indicate on the pollbook that he has signed the required statement in accordance with the instructions of the State Board.
-If the envelope containing a voted absentee ballot has been properly signed by the voter, such ballot shall not be subject to challenge pursuant to this section.
-Code 1950, §§ 24-253, 24-254, 24-325; 1970, c. 462, § 24.1-133; 1971, Ex. Sess., c. 265; 1972, c. 620; 1977, c. 490; 1978, c. 778; 1980, c. 639; 1981, c. 425; 1983, c. 461; 1993, c. 641; 1997, c.
-346
-; 2003, c.
-1015
-; 2007, c.
-375
-; 2012, cc.
-838
-,
-839
-.
+§ 24.2-651
+. Repealed.
+Repealed by Acts 2026, c.
+1064
+, cl. 2, effective July 1, 2026.
 
 ## Virginia § 24.2-651.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-651.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-651.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-651.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-651.1/*
 
-§ 24.2-651.1. Voter who is shown as having already voted; provisional ballots
+§ 24.2-651.1
+. Voter who is shown as having already voted; provisional ballots.
 Any person who offers to vote, who is listed on the pollbook, and whose name is marked to indicate that he has already voted in person in the election shall cast a provisional ballot pursuant to §
 24.2-653
 . The State Board of Elections shall provide instructions to the electoral boards for the handling and counting of such provisional ballots.
@@ -7054,20 +8904,17 @@ Any person who offers to vote, who is listed on the pollbook, and whose name is 
 
 ## Virginia § 24.2-652
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-652. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-652/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-652. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-652/*
 
-§ 24.2-652. Voter whose name erroneously omitted from pollbook; provisional ballots
+§ 24.2-652
+. Voter whose name erroneously omitted from pollbook; provisional ballots.
 A. When a person offers to vote and his name does not appear on the pollbook, the officers of election shall permit him to vote only if all of the following conditions are met:
 1. An officer of election is informed by the general registrar that the voter is registered to vote, that his registration has not been cancelled, and that his name is erroneously omitted from the pollbook.
 2. The voter signs a statement, subject to felony penalties for false statements pursuant to §
 24.2-1016
-, that he is a qualified and registered voter of that precinct, a resident of that precinct, and his registration is not subject to cancellation pursuant to §§
-24.2-430
-,
+, that he is a qualified and registered voter of that precinct, a resident of that precinct, and his registration is not subject to cancellation pursuant to §
 24.2-431
-, and
-24.2-432
-; and he provides, subject to such penalties, all the information required to identify himself including the last four digits of his social security number, if any, full name including the maiden or any other prior legal name, birthdate, and complete address.
+, and he provides, subject to such penalties, all the information required to identify himself including the last four digits of his social security number, if any, full name including the maiden or any other prior legal name, birthdate, and complete address.
 3. The officer of election enters the identifying information for the voter on the pollbook.
 When the voter has signed the statement and is permitted to vote, the officers of election shall mark his name on the pollbook with the next consecutive number from the voter count form, or shall enter that the voter has voted if the pollbook is in electronic form, and shall indicate on the pollbook that he has signed the required statement in accordance with the instructions of the State Board.
 B. If the general registrar is not available or cannot state that the person is registered to vote, such person shall be allowed to vote by provisional ballot pursuant to §
@@ -7079,13 +8926,17 @@ Code 1950, § 24-95; 1970, c. 462, § 24.1-55; 1974, c. 428; 1975, c. 515; 1981,
 602
 ; 2020, c.
 735
+; 2026, c.
+1064
 .
 
 ## Virginia § 24.2-653
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-653/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-653/*
 
-§ 24.2-653. Provisional voting; procedures in polling place
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-653
+. (Effective until January 1, 2027) Provisional voting; procedures in polling place.
 A. Any person voting provisionally pursuant to subsection B of §
 24.2-643
 , §
@@ -7165,12 +9016,100 @@ C. The provisional votes submitted pursuant to subsection A, in their unopened e
 ,
 1065
 .
+§
+24.2-653
+. (Effective January 1, 2027) Provisional voting; procedures in polling place.
+A. Any person voting provisionally pursuant to subsection B of §
+24.2-643
+, §
+24.2-651.1
+, subsection B of §
+24.2-652
+, or §
+24.2-653.1
+or
+24.2-653.2
+shall be given a printed ballot and provide, subject to the penalties for making false statements pursuant to §
+24.2-1016
+, on a green envelope supplied by the Department of Elections, the identifying information required on the envelope, including the last four digits of his social security number, if any, full name including the maiden or any other prior legal name, date of birth, complete address, and signature. Such person shall be asked to present one of the forms of identification specified in subsection B of §
+24.2-643
+. If he is unable to present one of these forms of identification, he shall sign a statement, subject to felony penalties for false statements pursuant to §
+24.2-1016
+, that he is the named registered voter he claims to be. The officers of election shall note on the green envelope whether or not the voter has presented one of the specified forms of identification or signed the required statement in lieu of presenting one of the specified forms of identification. The officers of election shall enter the appropriate information for the person in the precinct provisional ballots log in accordance with the instructions of the State Board but shall not enter a consecutive number for the voter on the pollbook nor otherwise mark his name as having voted.
+The voter shall then, in the presence of an officer of election, but in a secret manner, mark the printed ballot as provided in §
+24.2-644
+and seal it in the green envelope. The envelope containing the ballot shall then promptly be placed in the ballot container by an officer of election.
+B. An officer of election, by a written notice given to the voter, shall inform him that a determination of his right to vote shall be made by the electoral board and advise the voter of the beginning time and place for the board's meeting and of the voter's right to be present at that meeting. If the voter is voting provisionally as required by §
+24.2-643
+, an officer of election, by written notice given to the voter, shall also inform him that he may submit a copy of one of the forms of identification specified in subsection B of §
+24.2-643
+or a statement, signed by him subject to felony penalties for false statements pursuant to §
+24.2-1016
+, that he is the named registered voter he claims to be to the electoral board by facsimile, electronic mail, in-person submission, or timely United States Postal Service or commercial mail delivery, to be received by the electoral board no later than 5:00 p.m. on the third day after the election.
+C. The provisional votes submitted pursuant to subsection A, in their unopened envelopes, shall be sealed in a special envelope marked "Provisional Votes," inscribed with the number of envelopes contained therein, and signed by the officers of election who counted them. All provisional votes envelopes shall be delivered either (i) to the clerk of the circuit court who shall deliver all such envelopes to the secretary of the electoral board or (ii) to the general registrar in localities in which the electoral board has directed delivery of election materials to the general registrar pursuant to §
+24.2-668
+.
+1975, c. 515, §§ 24.1-55.1, 24.1-55.2; 1982, c. 650; 1993, c. 641; 1996, c.
+8
+; 1997, cc.
+438
+,
+456
+; 2002, c.
+24
+; 2003, cc.
+984
+,
+1015
+; 2004, c.
+410
+; 2005, c.
+824
+; 2007, c.
+692
+; 2008, cc.
+110
+,
+559
+; 2010, c.
+448
+; 2012, cc.
+592
+,
+838
+,
+839
+; 2013, c.
+503
+; 2014, cc.
+486
+,
+540
+,
+576
+; 2015, cc.
+133
+,
+712
+; 2020, cc.
+735
+,
+1064
+,
+1065
+; 2026, cc.
+61
+,
+62
+.
 
 ## Virginia § 24.2-653.01
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.01. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-653.01/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.01. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-653.01/*
 
-§ 24.2-653.01. Provisional ballots; electoral boards to make determination as to validity
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-653.01
+. (Effective until September 1, 2026) Provisional ballots; electoral boards to make determination as to validity.
 A. The electoral board shall meet on the day following the election and determine whether each person having submitted a provisional vote pursuant to §
 24.2-653
 was entitled to do so as a qualified voter in the precinct in which he offered the provisional vote. In the case of persons voting provisionally pursuant to §
@@ -7210,6 +9149,13 @@ E. The certification of the results of the count together with all ballots and e
 and
 24.2-669
 .
+F. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as a meeting place for the local electoral board, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as the meeting place for the local electoral board while the electoral board meets pursuant to this section.
 2020, cc.
 735
 ,
@@ -7224,13 +9170,160 @@ and
 1065
 ; 2024, c.
 738
+; 2026, c.
+1078
+.
+§
+24.2-653.01
+. (Effective September 1, 2026, until January 1, 2027) Provisional ballots; electoral boards to make determination as to validity.
+A. The electoral board shall meet on the day following the election and determine whether each person having submitted a provisional vote pursuant to §
+24.2-653
+was entitled to do so as a qualified voter in the precinct in which he offered the provisional vote. In the case of persons voting provisionally pursuant to §
+24.2-653.3
+, the electoral board shall determine of which district the person is a qualified voter. At the meeting, the voter may request an extension of the determination of the provisional vote in order to provide information to prove that the voter is entitled to vote in the precinct pursuant to §
+24.2-401
+. The electoral board shall have the authority to grant such extensions that it deems reasonable to determine the status of a provisional vote.
+If the board is unable to determine the validity of all the provisional ballots offered in the election, or has granted any voter who has offered a provisional ballot an extension, the meeting shall stand adjourned, not to exceed 10 calendar days from the date of the election, until the board has determined the validity of all provisional ballots offered in the election.
+B. The electoral board shall permit one authorized representative of each political party or independent candidate in a general or special election or one authorized representative of each candidate in a primary election to remain in the room in which the determination is being made as an observer so long as he does not participate in the proceedings and does not impede the orderly conduct of the determination. Each authorized representative shall be a qualified voter of any jurisdiction of the Commonwealth. Each representative, who is not himself a candidate or party chairman, shall present to the electoral board a written statement designating him to be a representative of the party or candidate and signed by the county or city chairman of his political party, the independent candidate, or the primary candidate, as appropriate. If the county or city chairman is unavailable to sign such a written designation, such a designation may be made by the state or district chairman of the political party. However, no written designation made by a state or district chairman shall take precedence over a written designation made by the county or city chairman. Such statement, bearing the chairman's or candidate's original signature, may be photocopied and such photocopy shall be as valid as if the copy had been signed.
+Notwithstanding the provisions of the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.), attendance at meetings of the electoral board to determine the validity of provisional ballots shall be permitted only for the authorized representatives provided for in this subsection, for the persons whose provisional votes are being considered and their representative or legal counsel, and for appropriate staff and legal counsel for the electoral board.
+C. If the electoral board determines that such person was not entitled to vote as a qualified voter in the precinct or district in which he offered the provisional vote, is unable to determine his right to vote, or has not been provided one of the forms of identification specified in subsection B of §
+24.2-643
+, or the signed statement that the voter is the named registered voter he claims to be, the envelope containing his ballot shall not be opened and his vote shall not be counted. The general registrar shall notify in writing pursuant to §
+24.2-114
+those persons found not properly registered or whose provisional vote was not counted.
+The provisional vote shall be counted if (i) such person is entitled to vote in the precinct pursuant to §
+24.2-401
+or (ii) the Department of Elections or the voter presents proof that indicates the voter submitted an application for registration to a state-designated voter registration agency or the voter's information was transmitted by the Department of Motor Vehicles to the Department of Elections pursuant to §
+24.2-411.3
+prior to the close of registration pursuant to §
+24.2-416
+and the registrar determines that the person was qualified for registration based upon the application for registration submitted by the person pursuant to subsection B of §
+24.2-652
+.
+If the electoral board determines that such person was entitled to vote, the name of the voter shall be entered in a provisional votes pollbook and marked as having voted, the envelope shall be opened, and the ballot shall be placed in a ballot container without any inspection further than that provided for in §
+24.2-646
+.
+D. On completion of its determination, the electoral board shall proceed to count such ballots and certify the results of its count. Its certified results shall be added to those found pursuant to §
+24.2-671
+. No adjustment shall be made to the statement of results for the precinct in which the person offered to vote. However, any voter who cast a provisional ballot and is determined by the electoral board to have been entitled to vote shall have his name included on the list of persons who voted that is submitted to the Department of Elections pursuant to §
+24.2-406
+.
+If, in the processing and counting of provisional ballots, any machine-readable ballot is damaged or defective such that it cannot properly be counted by the electronic voting systems, a true duplicate copy shall be made of the damaged or defective ballot by a team of election officials representing both parties. The duplicate ballot shall be substituted for the damaged ballot. Every duplicate ballot shall be clearly labeled as such and shall bear an identifier that shall be recorded on the damaged ballot.
+E. The certification of the results of the count together with all ballots and envelopes, whether open or unopened, and other related material shall be delivered by the electoral board to the clerk of the circuit court and retained by him as provided for in §§
+24.2-668
+and
+24.2-669
+.
+F. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as a meeting place for the local electoral board, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as the meeting place for the local electoral board while the electoral board meets pursuant to this section.
+2020, cc.
+735
+,
+908
+,
+909
+,
+920
+,
+1064
+,
+1065
+; 2024, c.
+738
+; 2026, cc.
+718
+,
+1078
+.
+§
+24.2-653.01
+. (Effective January 1, 2027) Provisional ballots; electoral boards to make determination as to validity.
+A. The electoral board shall meet on the day following the election and determine whether each person having submitted a provisional vote pursuant to §
+24.2-653
+was entitled to do so as a qualified voter in the precinct in which he offered the provisional vote. In the case of persons voting provisionally pursuant to §
+24.2-653.3
+, the electoral board shall determine of which district the person is a qualified voter. At the meeting, the voter may request an extension of the determination of the provisional vote in order to provide information to prove that the voter is entitled to vote in the precinct pursuant to §
+24.2-401
+. The electoral board shall have the authority to grant such extensions that it deems reasonable to determine the status of a provisional vote.
+If the electoral board is unable to determine the validity of all the provisional ballots offered in the election, or has granted any voter who has offered a provisional ballot an extension, the meeting shall stand adjourned, not to exceed 10 calendar days from the date of the election, until the electoral board has determined the validity of all provisional ballots offered in the election.
+B. The electoral board shall permit one authorized representative of each political party or independent candidate in a general or special election or one authorized representative of each candidate in a primary election to remain in the room in which the determination is being made as an observer so long as he does not participate in the proceedings and does not impede the orderly conduct of the determination. Each authorized representative shall be a qualified voter of any jurisdiction of the Commonwealth. Each representative, who is not himself a candidate or party chairman, shall present to the electoral board a written statement designating him to be a representative of the party or candidate and signed by the county or city chairman of his political party, the independent candidate, or the primary candidate, as appropriate. If the county or city chairman is unavailable to sign such a written designation, such a designation may be made by the state or district chairman of the political party. However, no written designation made by a state or district chairman shall take precedence over a written designation made by the county or city chairman. Such statement, bearing the chairman's or candidate's original signature, may be photocopied and such photocopy shall be as valid as if the copy had been signed.
+Notwithstanding the provisions of the Virginia Freedom of Information Act (§
+2.2-3700
+et seq.), attendance at meetings of the electoral board to determine the validity of provisional ballots shall be permitted only for the authorized representatives provided for in this subsection, for the persons whose provisional votes are being considered and their representative or legal counsel, and for appropriate staff and legal counsel for the electoral board.
+C. If the electoral board determines that a person who submitted a provisional vote pursuant to §
+24.2-653
+was not entitled to vote as a qualified voter in the precinct or district in which he offered the provisional vote, is unable to determine his right to vote, or has not been provided one of the forms of identification specified in subsection B of §
+24.2-643
+or the signed statement that the voter is the named registered voter he claims to be, the envelope containing his ballot shall not be opened and his vote shall not be counted. Prior to the determination of the validity of provisional ballots by the electoral board, the registrar shall review the provisional ballot form for any material omissions. The registrar shall promptly notify the voter by telephone or by email, if available, of any such material omissions and provide the information to the voter on how to correct such omissions so that his provisional ballot may be counted. The voter shall be entitled to make such necessary corrections before noon on the Monday after the election, and his ballot shall then be counted pursuant to the procedures set forth in this section if he is found to be entitled to vote. The general registrar shall notify in writing pursuant to §
+24.2-114
+those persons found not properly registered or whose provisional vote was not counted.
+The provisional vote shall be counted if (i) such person is entitled to vote in the precinct pursuant to §
+24.2-401
+or (ii) the Department of Elections or the voter presents proof that indicates the voter submitted an application for registration to a state-designated voter registration agency or the voter's information was transmitted by the Department of Motor Vehicles to the Department of Elections pursuant to §
+24.2-411.3
+prior to the close of registration pursuant to §
+24.2-416
+and the registrar determines that the person was qualified for registration based upon the application for registration submitted by the person pursuant to subsection B of §
+24.2-652
+.
+If the electoral board determines that such person was entitled to vote, the name of the voter shall be entered in a provisional votes pollbook and marked as having voted, the envelope shall be opened, and the ballot shall be placed in a ballot container without any inspection further than that provided for in §
+24.2-646
+.
+D. On completion of its determination, the electoral board shall proceed to count such ballots and certify the results of its count. Its certified results shall be added to those found pursuant to §
+24.2-671
+. No adjustment shall be made to the statement of results for the precinct in which the person offered to vote. However, any voter who cast a provisional ballot and is determined by the electoral board to have been entitled to vote shall have his name included on the list of persons who voted that is submitted to the Department of Elections pursuant to §
+24.2-406
+.
+If, in the processing and counting of provisional ballots, any machine-readable ballot is damaged or defective such that it cannot properly be counted by the electronic voting systems, a true duplicate copy shall be made of the damaged or defective ballot by a team of election officials representing both parties. The duplicate ballot shall be substituted for the damaged ballot. Every duplicate ballot shall be clearly labeled as such and shall bear an identifier that shall be recorded on the damaged ballot.
+E. The certification of the results of the count together with all ballots and envelopes, whether open or unopened, and other related material shall be delivered by the electoral board to the clerk of the circuit court and retained by him as provided for in §§
+24.2-668
+and
+24.2-669
+.
+F. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as a meeting place for the local electoral board, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as the meeting place for the local electoral board while the electoral board meets pursuant to this section.
+2020, cc.
+735
+,
+908
+,
+909
+,
+920
+,
+1064
+,
+1065
+; 2024, c.
+738
+; 2026, cc.
+718
+,
+1018
+,
+1070
+,
+1078
 .
 
 ## Virginia § 24.2-653.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-653.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-653.1/*
 
-§ 24.2-653.1. Voters who did not receive absentee ballots; provisional ballots
+§ 24.2-653.1
+. Voters who did not receive absentee ballots; provisional ballots.
 Any person who offers to vote pursuant to §
 24.2-643
 at his proper polling place or at a central absentee voter precinct established by the governing body of the county or city where he is registered to vote, but whose name is shown on the pollbook as having applied for an absentee ballot, shall be entitled to cast a provisional ballot if, for any reason, he did not receive or has lost the absentee ballot or has chosen to not vote absentee. In such case, he shall be required to present to the officer of election a statement signed by him that he did not receive the ballot, has lost the ballot, or has not cast the ballot, subject to felony penalties for making false statements as pursuant to §
@@ -7254,9 +9347,10 @@ and the instructions of the State Board.
 
 ## Virginia § 24.2-653.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-653.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-653.2/*
 
-§ 24.2-653.2. Ballots cast after normal close of polling hours due to court-ordered extension; provisional ballots
+§ 24.2-653.2
+. Ballots cast after normal close of polling hours due to court-ordered extension; provisional ballots.
 Whenever the polling hours are extended by an order of a court of competent jurisdiction, any ballots marked after the normal polling hours by persons who were not already in line at the time the polls would have closed, notwithstanding the court order, shall be treated as provisional ballots under this section. The officers of election shall mark the green envelope for each such provisional ballot to indicate that it was cast after normal polling hours due to the court order, and when preparing the materials to deliver to the registrar or electoral board, shall separate these provisional ballots from any provisional ballots used for any other reason. The electoral board shall treat these provisional ballots as provided in §
 24.2-653.01
 ; however, the counted and uncounted provisional ballots marked after the normal polling hours shall be kept separate from all other ballots and recorded in a separate provisional ballots pollbook. The Department of Elections shall provide instructions to the electoral boards for the handling and counting of such provisional ballots pursuant to this section.
@@ -7266,9 +9360,10 @@ Whenever the polling hours are extended by an order of a court of competent juri
 
 ## Virginia § 24.2-653.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-653.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-653.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-653.3/*
 
-§ 24.2-653.3. Voters assigned to split precinct; provisional ballots
+§ 24.2-653.3
+. Voters assigned to split precinct; provisional ballots.
 A. Any voter who is assigned to a precinct that is split between two or more election districts and believes he was given a ballot for the district of which he is not a qualified voter may request, prior to casting the ballot, and shall be permitted to cast a provisional ballot for the district of which he believes he is a qualified voter and for the district in which the pollbook indicates he is registered. The provisional ballots shall be cast in accordance with the provisions of §
 24.2-653
 , except that the voter shall be given a printed ballot for the district of which he believes he is a qualified voter and for the district in which the pollbook indicates he is registered, and an envelope for each ballot, which shall be labeled with the corresponding district number. After marking each printed ballot, the voter shall seal each ballot in its corresponding envelope, and the ballot envelopes shall then be sealed in the green envelope provided for in §
@@ -7283,24 +9378,38 @@ and the instructions of the State Board.
 
 ## Virginia § 24.2-654
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-654. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-654/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-654. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-654/*
 
-§ 24.2-654. Officers to lock and seal voting equipment and ascertain vote after polls closed; statement of results
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-654
+. (Effective until September 1, 2026) Officers to lock and seal voting equipment and ascertain vote after polls closed; statement of results.
 As soon as the polls are closed, the officers of election shall lock each voting and counting machine against further voting. They shall then proceed to ascertain the vote given at the election and continue without adjournment until they declare the results of the election. They shall seal the machines.
 In ascertaining the vote, the officers of election shall complete a statement of results in duplicate on the form and in the manner prescribed by the State Board.
-Code 1950, §
-§
-24-258, 24-259, 24-312; 1966, c. 453; 1970, c. 462, §§ 24.1-136, 24.1-222; 1974, c. 428; 1979, c. 329; 1981, c. 425; 1983, c. 461; 1985, c. 458; 1993, c. 641; 2014, cc.
+Code 1950, § 24-258, 24-259, 24-312; 1966, c. 453; 1970, c. 462, §§ 24.1-136, 24.1-222; 1974, c. 428; 1979, c. 329; 1981, c. 425; 1983, c. 461; 1985, c. 458; 1993, c. 641; 2014, cc.
 540
 ,
 576
 .
+§
+24.2-654
+. (Effective September 1, 2026) Officers to lock and seal voting equipment and ascertain vote after polls closed; statement of results.
+As soon as the polls are closed, the officers of election shall lock each voting and counting machine against further voting. They shall then proceed to ascertain the vote given at the election and continue without adjournment until they declare the results of the election. They shall seal the machines.
+In ascertaining the vote, the officers of election shall complete a statement of results in duplicate on the form and in the manner prescribed by the State Board.
+In ascertaining the vote, the officers of election shall use ballot scanner machines to count machine-readable ballots. The officers shall not count machine-readable ballots by hand unless (i) the ballot scanner machine is inoperative, (ii) there is no other available scanner, and (iii) it would be unreasonable to wait for (a) the inoperative ballot scanner to be made operative or (b) an operative ballot scanner machine to be delivered to the polling place rather than hand counting the ballots.
+Code 1950, § 24-258, 24-259, 24-312; 1966, c. 453; 1970, c. 462, §§ 24.1-136, 24.1-222; 1974, c. 428; 1979, c. 329; 1981, c. 425; 1983, c. 461; 1985, c. 458; 1993, c. 641; 2014, cc.
+540
+,
+576
+; 2026, c.
+718
+.
 
 ## Virginia § 24.2-655
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-655. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-655/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-655. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-655/*
 
-§ 24.2-655. Representatives of political parties and candidates to be present on request
+§ 24.2-655
+. Representatives of political parties and candidates to be present on request.
 Before proceeding to ascertain the vote, the officers of election shall determine whether no more than two representatives of each political party having candidates in the election and one representative of each independent candidate or primary candidate request to be present while the absentee ballots are cast, votes are counted, and returns are completed.
 Each representative shall be a qualified voter of any jurisdiction in the Commonwealth and shall present to the officers of election a written statement certifying that he is an authorized representative, signed by his party chairman for the jurisdiction in which the election is held, the independent candidate, or the candidate in a primary, as appropriate. If the party chairman for the jurisdiction in which the election is held is unavailable to sign such a written designation, such a designation may be made by the state or district chairman of the political party. However, no written designation made by a state or district chairman shall take precedence over a written designation made by the party chairman for the jurisdiction in which the election is held. Such representatives shall be entitled to be present while the votes are counted and shall remain until the returns are completed.
 In case such representatives, or any of them, do not request to be present, the officers shall notify the bystanders, if any, and select one or more to be present with any available representatives of the parties or candidates so that there are as many as four bystanders and representatives present.
@@ -7315,18 +9424,20 @@ Code 1950, §§ 24-260, 24-261; 1970, c. 462, § 24.1-137; 1974, c. 428; 1993, c
 
 ## Virginia § 24.2-656
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-656. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-656/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-656. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-656/*
 
-§ 24.2-656. Repealed
+§ 24.2-656
+. Repealed.
 Repealed by Acts 2003, c.
 1015
 .
 
 ## Virginia § 24.2-657
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-657. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-657/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-657. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-657/*
 
-§ 24.2-657. Determination of vote on voting systems
+§ 24.2-657
+. Determination of vote on voting systems.
 In the presence of all persons who may be present lawfully at the time, giving full view of the voting systems or printed return sheets, the officers of election shall determine and announce the results as shown by the counters or printed return sheets, including the votes recorded for each office on the write-in ballots, and shall also announce the vote on every question. The vote as registered shall be entered on the statement of results. When completed, the statement shall be compared with the number on the counters on the equipment or on the printed return sheets. If, on any ballot scanner, the number of persons voting in the election, or the number of votes cast for any office or on any question, totals more than the number of names on the pollbooks of persons voting on the machines, then the figures recorded by the machines shall be accepted as correct. A statement to that effect shall be entered by the officers of election in the space provided on the statement of results.
 Code 1950, § 24-312; 1966, c. 453; 1970, c. 462, § 24.1-222; 1974, c. 428; 1979, c. 329; 1981, c. 425; 1983, c. 461; 1985, c. 458; 1993, c. 641; 2014, cc.
 540
@@ -7338,9 +9449,10 @@ Code 1950, § 24-312; 1966, c. 453; 1970, c. 462, § 24.1-222; 1974, c. 428; 197
 
 ## Virginia § 24.2-658
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-658. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-658/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-658. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-658/*
 
-§ 24.2-658. Machines with printed return sheets; disposition of sheets
+§ 24.2-658
+. Machines with printed return sheets; disposition of sheets.
 If machines that print returns are used, the printed inspection sheet and two copies of the printed return sheet containing the results of the election for each machine shall be inserted in the envelope containing the statement of results by the officers of election and sealed and returned as required by §
 24.2-668
 .
@@ -7356,9 +9468,10 @@ One copy of the printed return sheets shall be made available by the clerk of th
 
 ## Virginia § 24.2-659
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-659. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-659/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-659. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-659/*
 
-§ 24.2-659. Locking voting systems after election and delivering keys to clerk; printed returns as evidence
+§ 24.2-659
+. Locking voting systems after election and delivering keys to clerk; printed returns as evidence.
 A. If the voting system is secured by the use of equipment keys, after the officers of election lock and seal each machine, the equipment keys shall be enclosed in an envelope that shall be sealed and have endorsed thereon a certificate of an officer of election stating the election precinct, the number of each machine, the number on the seal, and the number of the protective counter, if one, on the machine. The sealed envelope shall be delivered by one of the officers of the election to the clerk of the circuit court where the election was held. The custodians of the voting equipment shall enclose and seal in an envelope, properly endorsed, all other keys to all voting equipment in their jurisdictions and deliver the envelope to the clerk of the circuit court by noon on the day following the election.
 B. If the voting systems are secured by the use of equipment keys or electronic activation devices that are not specific to a particular machine, after the officers of election lock and seal each machine, the equipment keys and electronic activation devices shall be enclosed in an envelope that shall be sealed and have endorsed thereon a certificate of an officer of election stating the election precinct. The sealed envelope shall be delivered by one of the officers of election to the clerk of the circuit court where the election was held.
 C. If the voting system is secured by removal of the data storage device used in that election, the officers shall remove the data storage device and proceed to lock and seal each machine. The data storage device shall be enclosed in an envelope that shall be sealed and have endorsed thereon a certificate of an officer of election stating the election precinct, the number of each machine, the number on the seal, and the number of the protective counter, if one, on the machine. The sealed envelope shall be delivered by one of the officers of election to the clerk of the circuit court where the election was held. The equipment keys used at the polls shall be sealed in a different envelope and delivered to the clerk who shall release them to the general registrar upon request or at the expiration of the time specified by subsection F.
@@ -7406,9 +9519,10 @@ Code 1950, § 24-314; 1962, c. 230; 1966, c. 453; 1970, c. 462, § 24.1-224; 197
 
 ## Virginia § 24.2-660
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-660. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-660/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-660. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-660/*
 
-§ 24.2-660. Repealed
+§ 24.2-660
+. Repealed.
 Repealed by Acts 2004, cc.
 993
 and
@@ -7417,17 +9531,19 @@ and
 
 ## Virginia § 24.2-661
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-661. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-661/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-661. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-661/*
 
-§ 24.2-661. Detection and setting aside of double ballots
+§ 24.2-661
+. Detection and setting aside of double ballots.
 After the votes on all voting and counting equipment have been determined and recorded, the officers of election shall proceed to examine and count the paper ballots to ascertain if any double ballots have been cast, and whether the number of ballots corresponds with the number of names on the pollbooks of persons who voted on paper ballots. If two or more separate ballots are found so folded together as to represent the appearance of a single ballot they shall be laid aside until the count of the ballots is completed. If, upon a comparison of the count and the number of names of such qualified voters on the pollbooks, it appears that the two or more ballots thus folded together were cast by the same qualified voter, they shall be set aside and not counted.
 Code 1950, §§ 24-262, 24-313; 1970, c. 462, §§ 24.1-138, 24.1-223; 1983, c. 461; 1985, c. 458; 1993, c. 641.
 
 ## Virginia § 24.2-662
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-662. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-662/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-662. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-662/*
 
-§ 24.2-662. Procedure when paper ballots exceed names on pollbooks
+§ 24.2-662
+. Procedure when paper ballots exceed names on pollbooks.
 If the ballots in the container exceed the number of names on the pollbooks of persons who voted on paper ballots, all ballots shall be replaced in the ballot container. Then, after the container is well shaken, an officer of election, being blindfolded, shall withdraw a sufficient number of ballots to reduce the number of ballots left in the container to the number of such names on the pollbooks. The drawn ballots shall be set aside and not counted.
 Code 1950, § 24-263; 1970, c. 462, § 24.1-139; 1983, c. 461; 1993, c. 641; 2003, c.
 1015
@@ -7435,9 +9551,10 @@ Code 1950, § 24-263; 1970, c. 462, § 24.1-139; 1983, c. 461; 1993, c. 641; 200
 
 ## Virginia § 24.2-663
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-663. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-663/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-663. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-663/*
 
-§ 24.2-663. When ballot void
+§ 24.2-663
+. When ballot void.
 If a printed ballot is found to have been voted for a greater number of names for any one office than the number of persons required to fill the office, or if the title of the office is erased, the ballot shall be considered void as to all the names designated to fill such office, but no further, and the ballot shall be counted for the other offices on the ballot. In the case of a ballot scanner machine, an election official is authorized to cause the ballot scanner to receive the ballot and count it in accordance with this section. No ballot shall be void for having been voted for fewer names than authorized.
 If any person votes, either in person or absentee, more than one time in an election, all ballots received from such person shall be void and, if possible, not counted. If one such ballot has already been cast, any additional ballots received from such person shall be void and not counted.
 Code 1950, § 24-266; 1970, c. 462, § 24.1-140; 1978, c. 778; 1993, c. 641; 2013, c.
@@ -7450,42 +9567,47 @@ Code 1950, § 24-266; 1970, c. 462, § 24.1-140; 1978, c. 778; 1993, c. 641; 201
 
 ## Virginia § 24.2-664
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-664. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-664/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-664. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-664/*
 
-§ 24.2-664. Reduction in number of ballots
+§ 24.2-664
+. Reduction in number of ballots.
 Whenever the number of ballots is reduced by fraudulent or void ballots below the number of names of qualified voters on the pollbooks who voted on paper ballots, the cause of such reduction shall be stated in the space provided on the statement of results.
 Code 1950, § 24-624; 1970, c. 462, § 24.1-141; 1981, c. 425; 1983, c. 461; 1993, c. 641.
 
 ## Virginia § 24.2-665
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-665. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-665/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-665. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-665/*
 
-§ 24.2-665. How paper ballots counted
+§ 24.2-665
+. How paper ballots counted.
 A. When the number of paper ballots to be counted has been verified, the officers shall proceed to ascertain the number of votes cast by paper ballots for each person and for and against each question. The votes on all ballots for all offices and questions shall be counted. As soon as all ballots are counted, they shall be placed in an envelope or container labeled "counted ballots." No person other than the officers of the election shall handle the ballots.
 B. Only an official ballot prepared as provided for in this title shall be counted. If any unofficial ballot is found among the official ballots, the unofficial ballot shall be put aside, not counted and appropriately noted on the statement of results.
 Code 1950, §§ 24-246, 24-265; 1950, p. 165; 1970, c. 462, § 24.1-142; 1981, c. 425; 1993, c. 641.
 
 ## Virginia § 24.2-666
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-666. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-666/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-666. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-666/*
 
-§ 24.2-666. Procedures to account for paper ballots
+§ 24.2-666
+. Procedures to account for paper ballots.
 The State Board shall prescribe appropriate forms and procedures for use by the local electoral boards, general registrars, and officers of election to account for all paper ballots, used and unused.
 1988, cc. 291, 318, § 24.1-143.1; 1993, c. 641.
 
 ## Virginia § 24.2-667
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-667. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-667/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-667. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-667/*
 
-§ 24.2-667. Completion of statement of results
+§ 24.2-667
+. Completion of statement of results.
 At the conclusion of determining the votes cast on voting devices and paper ballots, the officers of election shall verify that all required data has been accurately entered, sign both copies of the statement of results, and affirm that the statement is complete and the information thereon is true and correct.
 Code 1950, §§ 24-246, 24-265, 24-312; 1950, p. 165; 1966, c. 453; 1970, c. 462, §§ 24.1-142, 24.1-222; 1974, c. 428; 1979, c. 329; 1981, c. 425; 1983, c. 461; 1985, c. 458; 1993, c. 641.
 
 ## Virginia § 24.2-667.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-667.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-667.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-667.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-667.1/*
 
-§ 24.2-667.1. Reporting of results; absentee and provisional votes
+§ 24.2-667.1
+. Reporting of results; absentee and provisional votes.
 A. The general registrar shall report to the Department for each precinct in his locality the number and results of absentee ballots cast by voters assigned to such precinct. Results from absentee voting and voting at the precinct on election day shall be reported separately. The general registrar shall also report to the Department the number and results of absentee ballots cast early in person pursuant to §
 24.2-701.1
 separately from the number and results of all other absentee ballots. The Department shall establish standards for ascertaining and reporting such information. Such standards shall direct that all results be posted promptly and no later than 5:00 p.m. on the tenth day after the election day.
@@ -7502,9 +9624,10 @@ B. The general registrar shall report to the Department for each precinct in his
 
 ## Virginia § 24.2-668
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-668. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-668/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-668. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-668/*
 
-§ 24.2-668. Pollbooks, statements of results, and ballots to be sealed and delivered to clerk or general registrar
+§ 24.2-668
+. Pollbooks, statements of results, and ballots to be sealed and delivered to clerk or general registrar.
 A. After ascertaining the results and before adjourning, the officers shall put the pollbooks, the duplicate statements of results, and any printed inspection and return sheets in the envelopes provided by the State Board. The officers shall seal the envelopes and direct them to the clerk of the circuit court for the county or city. The pollbooks, statements, and sheets thus sealed and directed, the sealed counted ballots envelope or container, and the unused, defaced, spoiled and set aside ballots properly accounted for, packaged and sealed, shall be conveyed by one of the officers to be determined by lot, if they cannot otherwise agree, to the clerk of court by noon on the day following the election.
 The clerk shall retain custody of the pollbooks, printed ballots, and other elections materials until the time has expired for initiating a recount, contest, or other proceeding in which the pollbooks, printed ballots, and other elections materials may be needed as evidence and there is no proceeding pending. The clerk shall (i) secure all pollbooks, printed ballots and other election materials in sealed boxes; (ii) place all of the sealed boxes in a vault or room not open to the public or to anyone other than the clerk and his staff; (iii) cause such vault or room to be securely locked except when access is necessary for the clerk and his staff; and (iv) upon the initiation of a recount, certify that these security measures have been taken in whatever form is deemed appropriate by the chief judge.
 After that time the clerk shall deliver the pollbooks to the general registrar who shall return the pollbooks or transfer a copy of the electronic data to the State Board as directed by §
@@ -7540,9 +9663,10 @@ Code 1950, §§ 24-232, 24-267, 24-268, 24-270; 1970, c. 462, §§ 24.1-143, 24.
 
 ## Virginia § 24.2-669
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-669. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-669/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-669. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-669/*
 
-§ 24.2-669. Clerk to keep ballots; inspection; destruction
+§ 24.2-669
+. Clerk to keep ballots; inspection; destruction.
 The clerk to whom the counted and uncounted ballots are delivered shall, without breaking the seal, deposit them in a secure place in his office, where they shall be kept for the time required by this section. He shall not allow the ballots to be inspected except (i) by an authorized representative of the State Board or by the electoral board at the direction of the State Board to ensure the accuracy of the returns or the purity of the election, (ii) by the officers of election, and then only at the direction of the electoral board in accordance with §
 24.2-672
 when the provisions of §
@@ -7569,9 +9693,10 @@ Code 1950, §§ 24-268, 24-270; 1970, c. 462, § 24.1-144; 1973, c. 30; 1975, c.
 
 ## Virginia § 24.2-670
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-670. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-670/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-670. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-670/*
 
-§ 24.2-670. Clerk to send for books and ballots if not delivered by officers
+§ 24.2-670
+. Clerk to send for books and ballots if not delivered by officers.
 If the officers of election fail to deliver the materials to the clerk of the circuit court, or to the principal office of the general registrar, as required by §
 24.2-668
 before the time for the electoral board to meet and open the returns, the clerk of the circuit court shall dispatch, to obtain such returns, a law-enforcement officer, who shall be subject to the same penalties and entitled to the same compensation as an officer of election for such service.
@@ -7581,29 +9706,32 @@ Code 1950, § 24-269; 1970, c. 462, § 24.1-145; 1993, c. 641; 1995, c.
 
 ## Virginia § 24.2-671
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-671. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-671/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-671. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-671/*
 
-§ 24.2-671. Electoral board to meet and ascertain results; conclusiveness of results
+§ 24.2-671
+. Electoral board to meet and ascertain results; conclusiveness of results.
 A. Each electoral board shall meet at the clerk's or general registrar's office of the county or city for which they are appointed at or before 5:00 p.m. on the day after any election. The board may adjourn to another room of sufficient size in a public building to ascertain the results, and may adjourn as needed, not to exceed 10 calendar days from the date of the election unless an extension has been granted to accommodate a risk-limiting audit conducted pursuant to §
 24.2-671.2
 . Written directions to the location of any room other than the clerk's or general registrar's office where the board will meet shall be posted at the doors of the clerk's and general registrar's offices prior to the beginning of the meeting.
 If the electoral board has exercised the option provided by §
 24.2-668
 for delivery of the election materials to the office of the general registrar on the night of the election, the electoral board shall meet at the office of the general registrar at or before 5:00 p.m. on the day after any election.
-B. The board shall open the returns delivered by the officers and ascertain from the returns the total votes in the county or city, or town in a town election, for each candidate and for and against each question and complete the abstract of votes cast at such election, as provided for in §
+B. The board shall open the returns delivered by the officers and shall ascertain from such returns the total votes in the county or city, or town in a town election, for each candidate and for and against each question. The board shall complete the abstract of votes cast at such election, as provided for in §
 24.2-675
 . For any office in which no person was elected by write-in votes, and for which the total number of write-in votes for that office is less than (i) 10 percent of the total number of votes cast for that office and (ii) the total number of votes cast for the candidate receiving the most votes, the electoral board shall ascertain the total votes for each write-in candidate for the office within one week following the election. For offices for which the electoral board issues the certificate of election, the result so ascertained, signed and attested, shall be conclusive and shall not thereafter be subject to challenge except as specifically provided in Chapter 8 (§
 24.2-800
 et seq.).
 Once the result is so ascertained, the secretary of the electoral board shall deliver one copy of each statement of results to the general registrar to be available for inspection when his office is open for business. The secretary shall then return all pollbooks, any printed inspection and return sheets, and one copy of each statement of results to the clerk.
 C. A report of any changes made by the local electoral board to the unofficial results ascertained by the officers of election or any subsequent change to the official abstract of votes made by the local electoral board shall be forwarded to the State Board of Elections and the explanation of such change shall be posted on the State Board website.
-D. Each political party and each independent candidate on the ballot, or each primary candidate, shall be entitled to have representatives present when the local electoral board meets to ascertain the results of the election. Each such party and candidate shall be entitled to have at least as many representatives present as there are teams of officials working to ascertain the results, and the room in which the local electoral board meets shall be of sufficient size and configuration to allow the representatives reasonable access and proximity to view the ballots as the teams of officials work to ascertain the results. The representatives and observers lawfully present shall be prohibited from interfering with the officials in any way. It is unlawful for any person to knowingly possess any firearm as defined in §
+D. Each political party and each independent candidate on the ballot, or each primary candidate, shall be entitled to have representatives present when the local electoral board meets to ascertain the results of the election. Each such party and candidate shall be entitled to have at least as many representatives present as there are teams of officials working to ascertain the results, and the room in which the local electoral board meets shall be of sufficient size and configuration to allow the representatives reasonable access and proximity to view the ballots as the teams of officials work to ascertain the results. The representatives and observers lawfully present shall be prohibited from interfering with the officials in any way.
+E. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
 18.2-308.2:2
-within 40 feet of any building, or part thereof, used as a meeting place for the local electoral board while the electoral board meets to ascertain the results of an election, unless such person is (a) any law-enforcement officer or any retired law-enforcement officer qualified pursuant to subsection C of §
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as a meeting place for the local electoral board while the electoral board meets to ascertain the results of an election, unless such person is (a) any law-enforcement officer or any retired law-enforcement officer qualified pursuant to subsection C of §
 18.2-308.01
-6; (b) occupying his own private property that falls within 40 feet of a polling place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+6; (b) occupying his own private property that falls within 100 feet of a polling place; or (c) an armed security officer, licensed pursuant to Article 4 (§
 9.1-138
-et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 40 feet of any building, or part thereof, used as a meeting place for the local electoral board while the electoral board meets to ascertain the results of an election.
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as a meeting place for the local electoral board while the electoral board meets to ascertain the results of an election.
+F. If any local electoral board fails or refuses to perform any duty required by subsection A or B, the State Board shall be authorized to intervene and carry out such duties in accordance with law.
 Code 1950, §§ 24-271, 24-272; 1970, c. 462, § 24.1-146; 1973, c. 30; 1981, c. 425; 1991, c. 388; 1992, c. 329; 1993, c. 641; 1996, cc.
 8
 ,
@@ -7626,13 +9754,18 @@ Code 1950, §§ 24-271, 24-272; 1970, c. 462, § 24.1-146; 1973, c. 30; 1981, c.
 444
 ; 2024, c.
 738
+; 2026, cc.
+60
+,
+1078
 .
 
 ## Virginia § 24.2-671.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-671.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-671.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-671.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-671.1/*
 
-§ 24.2-671.1. Repealed
+§ 24.2-671.1
+. Repealed.
 Repealed by Acts 2022, cc.
 443
 and
@@ -7641,9 +9774,10 @@ and
 
 ## Virginia § 24.2-671.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-671.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-671.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-671.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-671.2/*
 
-§ 24.2-671.2. Risk-limiting audits
+§ 24.2-671.2
+. Risk-limiting audits.
 A. For the purposes of this section:
 "Contested race" means an election for an office where more names appear on the ballot then there are vacancies to be filled or a statewide referendum or proposed constitutional amendment.
 "Risk limit" means the largest probability that the risk-limiting audit will fail to correct an election outcome that differs from the outcome that would be found by a full manual tabulation of the votes on all ballots cast in the contested race.
@@ -7686,17 +9820,19 @@ et seq.). Nothing in this section shall be construed to limit the rights of a ca
 
 ## Virginia § 24.2-672
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-672. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-672/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-672. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-672/*
 
-§ 24.2-672. Electoral board to correct irregularities in returns of officers of election
+§ 24.2-672
+. Electoral board to correct irregularities in returns of officers of election.
 While ascertaining the results of an election, the electoral board may find that there are irregularities or informalities in the returns of the officers of election which can be cured by amending or correcting the returns. Then the board immediately shall summon, to appear before the board on the date of the summons or the next date thereafter, the officers of elections required to amend the returns so that the same may conform to the law. The summons may be executed by any person authorized by law to serve summonses for witnesses.
 Code 1950, § 24-275; 1970, c. 462, § 24.1-147; 1992, c. 329; 1993, c. 641.
 
 ## Virginia § 24.2-673
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-673. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-673/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-673. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-673/*
 
-§ 24.2-673. Candidates having highest number of votes to receive certificate of election
+§ 24.2-673
+. Candidates having highest number of votes to receive certificate of election.
 A. Except as provided in subsection B or in the case of a recount pursuant to the provisions of Chapter 8 (§
 24.2-800
 et seq.), in all elections for the choice of any officer, unless it is otherwise expressly provided, the person having the highest number of votes for any office shall be deemed to have been elected to such office and shall receive the certificate of election.
@@ -7707,26 +9843,49 @@ Code 1950, § 24-276; 1970, c. 462, § 24.1-148; 1993, c. 641; 2023, c.
 
 ## Virginia § 24.2-673.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-673.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-673.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-673.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-673.1/*
 
-§ 24.2-673.1. (Expires July 1, 2031) Ranked choice voting
+§ 24.2-673.1
+. Ranked choice voting.
 A. For purposes of this section:
 "Ranked choice voting" means a method of casting and tabulating votes in which (i) voters rank candidates in order of preference, (ii) tabulation proceeds in rounds such that in each round either a candidate or candidates are elected or the last-place candidate is defeated, (iii) votes for voters' next-ranked candidates are transferred from elected or defeated candidates, and (iv) tabulation ends when the number of candidates elected equals the number of offices to be filled. "Ranked choice voting" is known as "instant runoff voting" when electing a single office and "single transferable vote" when electing multiple offices.
-"Ranking" means the ordinal number assigned on a ballot by a voter to a candidate to express the voter's preference for that candidate. Ranking number one is the highest ranking, ranking number two is the next-highest ranking, and so on, consecutively, up to the number of candidates indicated on the ballot.
-B. Elections of members of a county board of supervisors or a city council may be conducted by ranked choice voting pursuant to this section. The decision to conduct an election by ranked choice voting shall be made, in consultation with the local electoral board and general registrar, by a majority vote of the board of supervisors or city council that the office being elected serves.
-C. The State Board may promulgate regulations for the proper and efficient administration of elections determined by ranked choice voting, including (i) procedures for tabulating votes in rounds, (ii) procedures for determining winners in elections for offices to which only one candidate is being elected and to which more than one candidate is being elected, and (iii) standards for ballots pursuant to §
+"Ranking" means the ordinal number assigned on a ballot by a voter to a candidate to express the voter's preference for that candidate. The first ranking is the highest ranking, the second ranking is the next-highest ranking, and so on, consecutively, up to the number of candidates indicated by the voter on the ballot.
+B. Elections of members of a local governing body may be conducted by ranked choice voting pursuant to this section. The decision to conduct an election by ranked choice voting shall be made, in consultation with the local electoral board and general registrar, by a majority vote of the local governing body that the office being elected serves. Any decision to conduct an election by ranked choice voting made by a local governing body shall be transmitted to the State Board, which shall provide an assessment of technical feasibility within 10 days of receipt of the decision. If the State Board assesses that implementation of the local governing body's decision is not technically feasible, the State Board's assessment shall include an explanation of those steps necessary to proceed with implementation.
+If a majority of the members of a town council vote to conduct an election for town council by ranked choice voting, the board of supervisors of the county in which the town is located may require the town to reimburse the county for costs associated with conducting the election by ranked choice voting that would not have been incurred by the county absent the town council's decision to conduct the election by ranked choice voting.
+C. The State Board shall provide standards for vote tabulating software for use with existing voting systems in elections conducted by ranked choice voting. Any person manufacturing, owning, or offering for sale any vote tabulation software designed to be used with existing voting systems may apply to the State Board, in the manner prescribed by the State Board, to have examined a production version of such software. A local governing body that makes the decision to conduct elections by ranked choice voting shall provide for the use of vote tabulating software approved by the State Board in any such elections.
+D. The State Board shall promulgate regulations for the proper and efficient administration of elections determined by ranked choice voting, including (i) procedures for tabulating and reporting votes in rounds, (ii) procedures for determining winners in elections for offices to which only one candidate is being elected and to which more than one candidate is being elected, and (iii) standards for ballots pursuant to §
 24.2-613
 , notwithstanding the provisions of subsection E of that section.
-D. The State Board may administer or prescribe standards for a voter outreach and public information program for use by any locality conducting ranked choice voting pursuant to this section.
+E. In any election conducted by ranked choice voting, final tabulation of votes shall be conducted at the meeting of the electoral board held pursuant to §
+24.2-671
+.
+F. If, in the process of tabulating final results for an election conducted by ranked choice voting, any machine readable ballot is damaged or defective so that it cannot properly be counted by the electronic voting systems, a true duplicate copy shall be made of the damaged ballot by a team of election officials representing both parties. The duplicate ballot shall be substituted for the damaged ballot. Every duplicate ballot shall be clearly labeled as such and shall bear an identifier that shall be recorded on the damaged ballot.
+G. The Department shall make public the total number and percentage of votes each candidate received in each round of the official tabulation, including votes for candidates who have withdrawn pursuant to §
+24.2-612.2
+, and ballot-level ranking data on an election-by-election basis to the extent feasible and consistent with the need to maintain voter privacy.
+H. The State Board may administer or prescribe standards for a voter outreach and public information program for use by any locality conducting ranked choice voting pursuant to this section. The State Board shall produce generalized voter education materials on ranked choice voting that shall be published on its website and shall assist any locality that has made the decision to conduct elections by ranked choice voting in developing voter education materials specific to that locality upon request.
+I. A local electoral board may request a risk-limiting audit, pursuant to subsection D of §
+24.2-671.2
+, of an election conducted by ranked choice voting. An election conducted by ranked choice voting shall not be included in any random drawing required by subsection C of §
+24.2-671.2
+.
+J. For the purposes of conducting a recount pursuant to Article 1 (§
+24.2-800
+et seq.) of Chapter 8, the State Board shall have the authority to create and modify recount procedures to the extent necessary to accommodate a recount of an election conducted by ranked choice voting. Any such risk-limiting audit shall be limited to an audit of first rankings reported by voting systems.
 2020, c.
 1054
+; 2026, cc.
+993
+,
+1062
 .
 
 ## Virginia § 24.2-674
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-674. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-674/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-674. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-674/*
 
-§ 24.2-674. Determination by lot in case of tie
+§ 24.2-674
+. Determination by lot in case of tie.
 If, prior to a recount, two or more persons have an equal number of votes for any county, city, town, or district office, and a higher number than any other person, the electoral board shall proceed publicly to determine by lot which of the candidates shall be declared elected.
 If, prior to a recount, any two or more persons have an equal number of votes and a higher number than any other person for member of the General Assembly or of the Congress of the United States, or if any two or more persons have an equal number of votes and a higher number than any other person for elector of President and Vice President of the United States, the State Board of Elections shall proceed publicly to determine by lot which of them shall be declared elected. Reasonable notice shall be given to such candidates of the time when such elections shall be so determined; and if they, or either of them, shall fail to appear in accordance with such notice, the Board shall proceed so as to determine the election in their absence.
 Any person who loses the determination by lot may petition for a recount pursuant to Article 1 (§
@@ -7738,27 +9897,35 @@ Code 1950, §§ 24-277, 24-290; 1970, c. 462, § 24.1-149; 1993, c. 641; 2020, c
 
 ## Virginia § 24.2-675
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-675. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-675/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-675. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-675/*
 
-§ 24.2-675. Abstracts of votes to be made by secretary and forwarded to State Board and to clerks
-As soon as the electoral board determines the persons who have received the highest number of votes for any office, the secretary shall make out an abstract of the votes for each of the following: Governor; Lieutenant Governor; Attorney General; members of the Senate of Virginia; members of the House of Delegates; members of the United States Senate; members of the United States House of Representatives; electors of the President and Vice President of the United States; each county office; each city office; each district office; each town office; and such others as may be required for statewide referenda. The abstracts shall contain the names of all persons receiving any vote for each office and the total number of votes received by each person or for or against each question. However, if no person was elected by write-in votes and the total number of write-in votes for any office is less than (i) 10 percent of the total number of votes cast for that office and (ii) the total number of votes cast for the candidate receiving the most votes, the abstract shall contain only the total number of write-in votes and not the number of write-in votes for each person receiving write-in votes.
-The abstracts shall be certified and signed by the electoral board, attested by the secretary, and retained by the electoral board as part of its records. A copy of each, certified under the official seal of the electoral board, shall immediately be mailed or delivered by hand to the State Board. The State Board shall require the electoral board of any county or city to correct any errors found on such abstracts prior to completing the requirements of §
+§ 24.2-675
+. Abstracts of votes to be made by secretary and forwarded to State Board and to clerks.
+A. As soon as the electoral board determines the persons who have received the highest number of votes for any office, the secretary shall make out an abstract of the votes for each of the following: Governor; Lieutenant Governor; Attorney General; members of the Senate of Virginia; members of the House of Delegates; members of the United States Senate; members of the United States House of Representatives; electors of the President and Vice President of the United States; each county office; each city office; each district office; each town office; and such others as may be required for statewide referenda. The abstracts shall contain the names of all persons receiving any vote for each office and the total number of votes received by each person or for or against each question. However, if no person was elected by write-in votes and the total number of write-in votes for any office is less than (i) 10 percent of the total number of votes cast for that office and (ii) the total number of votes cast for the candidate receiving the most votes, the abstract shall contain only the total number of write-in votes and not the number of write-in votes for each person receiving write-in votes.
+B. The electoral board shall certify and sign the abstracts, which shall then be attested by the secretary, and retained by the electoral board as part of its records. A copy of each, certified under the official seal of the electoral board, shall immediately be mailed or delivered by hand to the State Board. The State Board shall require the electoral board of any county or city to correct any errors found on such abstracts prior to completing the requirements of §
 24.2-679
 .
-One certified copy of each abstract of votes shall be forwarded (i) to the clerk of the city council or board of supervisors and recorded in its record book, (ii) for town elections, to the clerk of the town council and recorded in its minute book, and (iii) for each local referendum, to the circuit court for the locality.
+C. One certified copy of each abstract of votes shall be forwarded (i) to the clerk of the city council or board of supervisors and recorded in its record book, (ii) for town elections, to the clerk of the town council and recorded in its minute book, and (iii) for each local referendum, to the circuit court for the locality.
+D. If any local electoral board fails or refuses to perform any duty required by this section, the State Board shall be authorized to intervene and carry out any such duty in accordance with law, before proceeding to complete the requirements of §
+24.2-679
+.
 Code 1950, §§ 24-278 through 24-280; 1970, c. 462, § 24.1-150; 1972, c. 620; 1975, c. 515; 1976, c. 616; 1981, c. 425; 1993, c. 641; 1996, c.
 223
 ; 2003, c.
 1015
 ; 2018, c.
 536
+; 2026, c.
+60
 .
 
 ## Virginia § 24.2-676
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-676. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-676/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-676. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-676/*
 
-§ 24.2-676. Secretary to make out and deliver certificate of election
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-676
+. (Effective until January 1, 2027) Secretary to make out and deliver certificate of election.
 Immediately after the electoral board has determined the election results, the secretary shall make out certificates of election for each county, city, town, or district office other than an office shared by more than one county or city, or any combination thereof. The secretary shall make out the certificate for each of the persons who has the highest number of votes for the office, who has sufficient votes to be elected to a multi-member office, or, in case of a tie, who has been decided by lot to be elected. The secretary, or another board member or registrar designated by the secretary, shall deliver in person or the secretary shall transmit by certified mail the certificate to the person elected, as soon as such person has complied with the provisions of §
 24.2-948.2
 .
@@ -7767,12 +9934,30 @@ Code 1950, § 24-282; 1970, c. 462, § 24.1-151; 1972, c. 620; 1975, c. 515; 198
 ,
 892
 .
+§
+24.2-676
+. (Effective January 1, 2027) Secretary to make out and deliver certificate of election.
+Immediately after the electoral board has determined the election results, the secretary shall make out certificates of election for each county, city, town, or district office other than an office shared by more than one county or city, or any combination thereof. The secretary shall make out the certificate for each of the persons who has the highest number of votes for the office, who has sufficient votes to be elected to a multi-member office, or, in case of a tie, who has been decided by lot to be elected. The secretary, or another board member or registrar designated by the secretary, shall deliver in person or the secretary shall transmit by certified mail the certificate to the person elected, as soon as such person has complied with the provisions of §
+24.2-948.2
+. The certificate shall be delivered to the person declared to be elected with a notice that the person meets the qualifications for being granted protected voter status under the provisions of subsection B of §
+24.2-418
+. The notice shall include instructions for updating the person's voter registration to acquire such protected status.
+Code 1950, § 24-282; 1970, c. 462, § 24.1-151; 1972, c. 620; 1975, c. 515; 1980, c. 639; 1983, c. 264; 1993, c. 641; 2006, cc.
+787
+,
+892
+; 2026, cc.
+228
+,
+229
+.
 
 ## Virginia § 24.2-677
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-677. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-677/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-677. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-677/*
 
-§ 24.2-677. State Board to open and record returns; application of Freedom of Information Act
+§ 24.2-677
+. State Board to open and record returns; application of Freedom of Information Act.
 The State Board, on receipt of the certified abstracts of the votes given in the several counties and cities, shall open the abstracts and record and carefully preserve them.
 The provisions of Chapter 37 (§
 2.2-3700
@@ -7781,36 +9966,53 @@ Code 1950, § 24-283; 1970, c. 462, § 24.1-152; 1971, Ex. Sess., c. 206; 1975, 
 
 ## Virginia § 24.2-678
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-678. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-678/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-678. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-678/*
 
-§ 24.2-678. Law-enforcement officer to be sent for abstracts not forwarded
-If the State Board has not received the abstracts of votes from any county or city within 10 days after any election, it shall dispatch a law-enforcement officer to obtain a copy of the abstract from the official having charge thereof. That official shall immediately, on demand of the officer, make out and deliver to him the copy required, and the officer shall deliver the abstract to the State Board without delay.
+§ 24.2-678
+. Law-enforcement officer to be sent for abstracts not forwarded.
+If the State Board has not received the abstracts of votes from any county or city within 10 days after any election, it shall dispatch a law-enforcement officer to obtain a certified copy of the abstract from an official having charge thereof. That official shall immediately, on demand of the officer, make out and deliver to him the copy required, and the officer shall deliver the abstract to the State Board without delay. Upon receipt of such abstracts, the State Board shall proceed with its duties under §
+24.2-679
+.
 Code 1950, § 24-284; 1970, c. 462, § 24.1-153; 1993, c. 641; 2024, c.
 738
+; 2026, c.
+60
 .
 
 ## Virginia § 24.2-679
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-679. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-679/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-679. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-679/*
 
-§ 24.2-679. State Board to meet and make statement as to number of votes
+§ 24.2-679
+. State Board to meet and make statement as to number of votes.
 A. The State Board shall meet by the first Monday in December to ascertain the results of the November election. If a majority of the Board is not present or if, for any other reason, the Board is unable to ascertain the results on that day, the meeting shall stand adjourned from day to day for not more than three days until a quorum is present and the Board has ascertained the results as provided in this section.
 The Board shall examine the certified abstracts on file in its office and make statements of the whole number of votes given at any such election for members of the General Assembly, Governor, Lieutenant Governor and Attorney General, members of the United States Congress and electors of President and Vice President of the United States, and any officer shared by more than one county or city, or any combination thereof, or for so many of such officers as have been voted for at the election.
 The statement shall show, for each office and each county, city, and election district, the whole number of votes given to each candidate and to any other person elected to office. The Board members shall certify the statements to be correct and sign the statements. The Board shall then determine those persons who received the greatest number of votes and have been duly elected to each office. The Board members shall endorse and subscribe on such statements a certificate of their determination. The Board shall record each certified statement and determination in a suitable book to be kept by it in its office.
 B. The State Board shall meet as soon as possible after it receives the returns for any special election held at a time other than the November general election to ascertain the results of the special election in the manner prescribed in subsection A. If the returns have not been received within seven days of the election, the Board shall meet and adjourn from day to day until it receives the returns, ascertains the results, and makes its determination.
+C. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as a meeting place for the State Board to ascertain the results of an election, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as such a meeting place.
 Code 1950, §§ 24-285, 24-286, 24-287, 24-289; 1958, c. 605; 1962, c. 536; 1970, c. 462, §§ 24.1-154, 24.1-155; 1971, Ex. Sess., c. 206; 1974, c. 428; 1980, c. 639; 1983, c. 461; 1993, c. 641; 2015, c.
 740
 ; 2022, cc.
 443
 ,
 444
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-680
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-680. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-680/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-680. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-680/*
 
-§ 24.2-680. Certificates of election
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-680
+. (Effective until January 1, 2027) Certificates of election.
 Subject to the requirements of §
 24.2-948.2
 , the State Board shall without delay complete and transmit to each of the persons declared to be elected a certificate of his election, certified by it under its seal of office. In the election of a member of the United States Congress, it shall also forward a certificate of election to the clerk of the United States Senate or House of Representatives, as appropriate. The names of members elected to the General Assembly shall be certified by the State Board to the clerk of the House of Delegates or Senate, as appropriate. The names of the persons elected Governor, Lieutenant Governor, and Attorney General shall be certified by the State Board to the clerks of the House of Delegates and Senate. The name of any officer shared by more than one county or city, or any combination thereof, shall be certified by the State Board to the clerk of the circuit court having jurisdiction in each affected county or city. The names of the persons elected to soil and water conservation districts shall be certified by the State Board to the Director of the Department of Conservation and Recreation.
@@ -7821,20 +10023,41 @@ Code 1950, §§ 24-287, 24-289; 1970, c. 462, § 24.1-155; 1974, c. 428; 1980, c
 ,
 892
 .
+§
+24.2-680
+. (Effective January 1, 2027) Certificates of election.
+Subject to the requirements of §
+24.2-948.2
+, the State Board shall without delay complete and transmit to each of the persons declared to be elected a certificate of his election, certified by it under its seal of office. In the election of a member of the United States Congress, it shall also forward a certificate of election to the clerk of the United States Senate or House of Representatives, as appropriate. The names of members elected to the General Assembly shall be certified by the State Board to the clerk of the House of Delegates or Senate, as appropriate. The names of the persons elected Governor, Lieutenant Governor, and Attorney General shall be certified by the State Board to the clerks of the House of Delegates and Senate. The name of any officer shared by more than one county or city, or any combination thereof, shall be certified by the State Board to the clerk of the circuit court having jurisdiction in each affected county or city. The names of the persons elected to soil and water conservation districts shall be certified by the State Board to the Director of the Department of Conservation and Recreation. The certificate shall be delivered to the person declared to be elected with a notice that the person meets the qualifications for being granted protected voter status under the provisions of subsection B of §
+24.2-418
+. The notice shall include instructions for updating the person's voter registration to acquire such protected status.
+Code 1950, §§ 24-287, 24-289; 1970, c. 462, § 24.1-155; 1974, c. 428; 1980, c. 639; 1983, c. 461; 1993, c. 641; 2001, c.
+53
+; 2006, cc.
+787
+,
+892
+; 2026, cc.
+228
+,
+229
+.
 
 ## Virginia § 24.2-681
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-681. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-681/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-681. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-681/*
 
-§ 24.2-681. How special elections superintended and determined
+§ 24.2-681
+. How special elections superintended and determined.
 All special elections shall be superintended and held, notice thereof given, ballots prepared, returns made and certified, votes canvassed, results ascertained and made known, and certificates of election given, by the same officers, under the same penalties, and subject to the same regulations as prescribed for general elections, except as otherwise provided by law.
 Code 1950, § 24-140; 1970, c. 462, § 24.1-164; 1973, c. 30; 1993, c. 641.
 
 ## Virginia § 24.2-682
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-682. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-682/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-682. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-682/*
 
-§ 24.2-682. Times for special elections
+§ 24.2-682
+. Times for special elections.
 A. Notwithstanding any charter or special act to the contrary, the following provisions govern the times for holding special elections. Every special election shall be held on a Tuesday. No special election shall be held within the 55 days prior to a general or primary election. No special election shall be held on the same day as a primary election. A special election may be held on the same day as a general election.
 B. A referendum election shall be ordered at least 81 days prior to the date for which the referendum election is called.
 C. A special election to fill a vacancy in any constitutional office shall be held promptly and in accordance with the requirements of subsection A.
@@ -7854,9 +10077,10 @@ Code 1950, §§ 24-44, 24-136, 24-137, 24-138, 24-139, 24-141, 24-346; 1956, c. 
 
 ## Virginia § 24.2-683
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-683. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-683/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-683. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-683/*
 
-§ 24.2-683. Writ for special election to fill a vacancy
+§ 24.2-683
+. Writ for special election to fill a vacancy.
 Whenever the Governor, Speaker of the House, President pro tempore of the Senate, or either house of the General Assembly orders a special election, he, or the person designated to act for the house, shall issue a writ of election designating the office to be filled at the election and the time to hold the election. He shall transmit the writ to the secretary of the electoral board and the general registrar of each county or city in which the election is to be held. Each general registrar shall post a copy of the writ on the official website for the county or city or at not less than 10 public places or have notice of the election published once in a newspaper of general circulation in his jurisdiction at least 10 days before the election. If the special election is held in more than one county or city, the general registrars may act jointly to have the notice published once before the election in the affected jurisdictions.
 Whenever a special election is ordered to fill a vacancy otherwise than under the preceding paragraph, the officer ordering the election shall issue his writ of election at the time the vacancy occurs, designating the office to be filled at the election and the time and place to hold the election. He shall direct and transmit the writ to the secretary of the electoral board and the general registrar of each county or city in which the election is to be held. The general registrar, or general registrars if the election will be held in more than one county or city, shall proceed to cause public notice to be given of the election in the same manner as is required in the preceding paragraph.
 A copy of any order calling a special election to fill a vacancy shall be sent immediately to the State Board.
@@ -7870,9 +10094,10 @@ Code 1950, §§ 24-138, 24-139; 1970, c. 462, § 24.1-163; 1974, c. 428; 1975, c
 
 ## Virginia § 24.2-684
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-684. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-684/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-684. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-684/*
 
-§ 24.2-684. How referendum elections called and held, and the results ascertained and certified
+§ 24.2-684
+. How referendum elections called and held, and the results ascertained and certified.
 Notwithstanding any other provision of any law or charter to the contrary, the provisions of this section shall govern all referenda.
 No referendum shall be placed on the ballot unless specifically authorized by statute or by charter.
 Whenever any question is to be submitted to the voters of any county, city, town, or other local subdivision, the referendum shall in every case be held pursuant to a court order as provided in this section. The court order calling a referendum shall state the question to appear on the ballot in plain English as that term is defined in §
@@ -7898,9 +10123,10 @@ Code 1950, § 24-141; 1966, c. 115; 1970, c. 462, § 24.1-165; 1974, c. 428; 197
 
 ## Virginia § 24.2-684.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-684.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-684.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-684.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-684.1/*
 
-§ 24.2-684.1. Requirements for voter petitions to call for referendum elections
+§ 24.2-684.1
+. Requirements for voter petitions to call for referendum elections.
 In addition to other applicable requirements of law, the following requirements shall apply whenever a referendum election is initiated by voter petitions. The requirements of this section shall be construed to override any requirement of general or special law in conflict with this section, except requirements set out in charter provisions to govern the exercise of recall, initiative, or referendum powers in a county, city, or town.
 The requirements of this section shall apply to petitions calling for any referendum which is ordered to be held on or after January 1, 1994.
 1. Prior to circulating any petition for signature, an individual shall file a copy of the petition with the clerk of the circuit court for the county or city in which the referendum will be held. The individual shall be a qualified voter of the county or city and shall file, with the petition copy, a statement giving his name; residence address and, if different, his mailing address; and the name of the organization, if any, which he represents in circulating the petition. The copy of the petition shall be filed on or after the effective date of the law which authorizes the referendum for which the petition will be circulated. The clerk shall certify, within 10 days of such filing, that he has received and accepted the petition copy and statement.
@@ -7924,9 +10150,10 @@ The requirements of this section shall apply to petitions calling for any refere
 
 ## Virginia § 24.2-685
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-685. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-685/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-685. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-685/*
 
-§ 24.2-685. Special elections; request for abolition of constitutional offices
+§ 24.2-685
+. Special elections; request for abolition of constitutional offices.
 A. The provisions of this section shall be applicable to the holding of any referendum, elsewhere authorized by law, on the abolition of any constitutional office conducted prior to a request for a special act of the General Assembly to abolish such office.
 B. Notwithstanding any other provision of general law or any special act, no referendum subject to the provisions of this section shall be held unless:
 1. Petitions are filed with the circuit court of the county or city requesting that a referendum be held to authorize a request for a special act on the abolition of the named office;
@@ -7941,9 +10168,10 @@ E. No special act authorizing the abolition of any such office shall be consider
 
 ## Virginia § 24.2-686
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-686. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-686/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-686. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-686/*
 
-§ 24.2-686. Special elections; petition and referendum requirements; abolition of constitutional office by change in form of government
+§ 24.2-686
+. Special elections; petition and referendum requirements; abolition of constitutional office by change in form of government.
 The provisions of §
 24.2-685
 shall apply, mutatis mutandis, to any county seeking to change its form of government pursuant to Chapter 3 (§
@@ -7969,9 +10197,10 @@ An affirmative vote on the subsequent question or questions on the ballot shall 
 
 ## Virginia § 24.2-687
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-687. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-687/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-687. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter6/section24.2-687/*
 
-§ 24.2-687. Authorization for distribution of information on referendum elections
+§ 24.2-687
+. Authorization for distribution of information on referendum elections.
 A. The governing body of any county, city or town may provide for the preparation and printing of an explanation for each referendum question to be submitted to the voters of the county, city or town to be distributed at the polling places on the day of the referendum election. The governing body may have the explanation published by paid advertisement in a newspaper with general circulation in the county, city or town one or more times preceding the referendum.
 The explanation shall contain the ballot question and a statement of not more than 500 words on the proposed question. The explanation shall be presented in plain English, shall be limited to a neutral explanation, and shall not present arguments by either proponents or opponents of the proposal. The attorney for the county, city or town or, if there is no county, city or town attorney, the attorney for the Commonwealth shall prepare the explanation. "Plain English" means written in nontechnical, readily understandable language using words of common everyday usage and avoiding legal terms and phrases or other terms and words of art whose usage or special meaning primarily is limited to a particular field or profession.
 If the referendum question involves the issuance of bonds by a locality, the locality shall provide for such printed explanation. The explanation shall (i) state the estimated maximum amount of the bonds proposed to be issued, and (ii) state the proposed use of the bond proceeds, and if there is more than one use, state the proposed uses for which more than 10 percent of the total bond proceeds is expected to be used.
@@ -7992,9 +10221,10 @@ D. Any failure to comply with the provisions of this section shall not affect th
 
 ## Virginia § 24.2-700
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-700. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-700/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-700. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-700/*
 
-§ 24.2-700. Persons entitled to vote by absentee ballot
+§ 24.2-700
+. Persons entitled to vote by absentee ballot.
 Any registered voter may vote by absentee ballot in accordance with the provisions of this chapter in any election in which he is qualified to vote.
 Code 1950, § 24-319; 1952, c. 488; 1970, c. 462, § 24.1-227; 1971, Ex. Sess., c. 119; 1972, c. 620; 1974, c. 428; 1975, c. 515; 1976, c. 616; 1981, c. 425; 1983, c. 461; 1988, c. 6; 1989, c. 320; 1993, cc. 414, 641; 1995, c.
 157
@@ -8038,9 +10268,10 @@ Code 1950, § 24-319; 1952, c. 488; 1970, c. 462, § 24.1-227; 1971, Ex. Sess., 
 
 ## Virginia § 24.2-700.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-700.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-700.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-700.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-700.1/*
 
-§ 24.2-700.1. Persons entitled to vote by absentee ballot; persons confined awaiting trial or for conviction of a misdemeanor
+§ 24.2-700.1
+. Persons entitled to vote by absentee ballot; persons confined awaiting trial or for conviction of a misdemeanor.
 Any registered voter who is confined while awaiting trial or for having been convicted of a misdemeanor may vote by absentee ballot. Subject to penalties for interference with voting pursuant to §
 24.2-1005.2
 , the institution or facility in which such voter is confined shall:
@@ -8059,9 +10290,10 @@ Any registered voter who is confined while awaiting trial or for having been con
 
 ## Virginia § 24.2-701
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-701. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-701/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-701. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-701/*
 
-§ 24.2-701. Application for absentee ballot
+§ 24.2-701
+. Application for absentee ballot.
 A. The Department shall furnish each general registrar with a sufficient number of applications for official absentee ballots. The registrars shall furnish applications to persons requesting them.
 The Department shall implement a system that enables eligible persons to request and receive an absentee ballot application electronically through the Internet. Electronic absentee ballot applications shall be in a form approved by the State Board.
 Except as provided in §
@@ -8209,9 +10441,10 @@ Code 1950, § 24.1-228; 1970, c. 462, § 24.1-228.1; 1971, Ex. Sess., c. 119; 19
 
 ## Virginia § 24.2-701.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-701.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-701.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-701.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-701.1/*
 
-§ 24.2-701.1. Absentee voting in person
+§ 24.2-701.1
+. Absentee voting in person.
 A. Absentee voting in person shall be available on the forty-fifth day prior to any election and shall continue until 5:00 p.m. on the Saturday immediately preceding the election. In the case of a special election, excluding for federal offices, if time is insufficient between the issuance of the writ calling for the special election and the date of the special election, absentee voting in person shall be available as soon as possible after the issuance of the writ.
 Any registered voter offering to vote absentee in person shall provide his name and his residence address in the county or city in which he is offering to vote. After verifying that the voter is a registered voter of that county or city, the general registrar shall enroll the voter's name and address on the absentee voter applicant list maintained pursuant to §
 24.2-706
@@ -8233,7 +10466,18 @@ regarding voters who are unable to sign shall be followed when assisting a voter
 and this section.
 B. Absentee voting in person shall be available during regular business hours. The electoral board of each county and city shall provide for absentee voting in person in the office of the general registrar or a voter satellite office established pursuant to §
 24.2-701.2
-. For purposes of this chapter, such offices shall be open to the public a minimum of eight hours between the hours of 8:00 a.m. and 5:00 p.m. on the first and second Saturday immediately preceding all elections. The electoral board or general registrar may provide for absentee voting in person in such offices on Sundays. Any applicant who is in line to cast his ballot when the office of the general registrar or voter satellite office closes shall be permitted to cast his absentee ballot that day.
+. The provisions of §§
+24.2-604
+,
+24.2-604.4
+,
+24.2-605
+,
+24.2-606
+, and
+24.2-607
+prohibiting certain conduct or activities and allowing for designation of a law-enforcement officer in and around a polling place shall apply to such offices whenever absentee voting in person is available.
+For purposes of this chapter, such offices shall be open to the public (i) a minimum of eight hours between the hours of 8:00 a.m. and 5:00 p.m. on the first and second Saturday and (ii) a minimum of five hours between the hours of 11:00 a.m. and 5:00 p.m. on the second and third Sunday immediately preceding all elections. The electoral board or general registrar may provide for absentee voting in person in such offices on additional Sundays. Any applicant who is in line to cast his ballot when the office of the general registrar or voter satellite office closes shall be permitted to cast his absentee ballot that day.
 C. The general registrar may provide for the casting of absentee ballots in person pursuant to this section on voting systems. The Department shall prescribe the procedures for use of voting systems. The procedures shall provide for absentee voting in person on voting systems that have been certified and are currently approved by the State Board. The procedures shall be applicable and uniformly applied by the Department to all localities using comparable voting systems.
 D. At least two officers of election shall be present during all hours that absentee voting in person is available and shall represent the two major political parties, except in the case of a party primary, when they may represent the party conducting the primary. However, such requirement shall not apply when (i) voting systems that are being used pursuant to subsection C are located in the office of the general registrar or voter satellite office and (ii) the general registrar or a deputy registrar is present.
 E. The Department shall include absentee ballots voted in person in its instructions for the preparation, maintenance, and reporting of ballots, pollbooks, records, and returns.
@@ -8270,13 +10514,18 @@ and this section.
 204
 ; 2022, c.
 140
+; 2026, cc.
+945
+,
+1078
 .
 
 ## Virginia § 24.2-701.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-701.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-701.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-701.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-701.2/*
 
-§ 24.2-701.2. Absentee voting in person; voter satellite offices
+§ 24.2-701.2
+. Absentee voting in person; voter satellite offices.
 A. The governing body of any county or city may establish, by ordinance, voter satellite offices to be used in the locality for absentee voting in person. The governing body may establish as many offices as it deems necessary. No change in, including the creation or abolishment of, any voter satellite office shall be enacted within 60 days next preceding any general election. Notice shall be published prior to enactment in a newspaper having general circulation in the locality once a week for two successive weeks.
 B. Any voter satellite office shall be in a public building owned or leased by the county, city, or town within the county and may be in a facility that is owned or leased by the Commonwealth and used as a location for Department of Motor Vehicles facilities or as an office of the general registrar. Such location shall be deemed the equivalent of the office of the general registrar for the purposes of completing the application for an absentee ballot in person pursuant to §§
 24.2-701
@@ -8313,18 +10562,20 @@ H. A voter satellite office established pursuant to this section shall be deemed
 
 ## Virginia § 24.2-702
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-702. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-702/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-702. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-702/*
 
-§ 24.2-702. Repealed
+§ 24.2-702
+. Repealed.
 Repealed by Acts 2015, c.
 313
 , cl. 2.
 
 ## Virginia § 24.2-702.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-702.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-702.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-702.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-702.1/*
 
-§ 24.2-702.1. Federal write-in absentee ballots
+§ 24.2-702.1
+. Federal write-in absentee ballots.
 A. Notwithstanding any other provision of this title, a covered voter, as defined in §
 24.2-452
 , may use a federal write-in absentee ballot in any election. Such ballot shall be submitted and processed in the manner provided by the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. § 20301 et seq.) and this article.
@@ -8372,9 +10623,10 @@ C. This section shall not be construed to require that an absentee ballot be sen
 
 ## Virginia § 24.2-703
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-703. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-703/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-703. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-703/*
 
-§ 24.2-703. Application for absentee ballots for multiple elections for uniformed and overseas voters
+§ 24.2-703
+. Application for absentee ballots for multiple elections for uniformed and overseas voters.
 Any person who is eligible for a military-overseas ballot as defined in §
 24.2-452
 may file a single application to receive ballots for all elections in which he is eligible to vote absentee. The application shall be on a federal postcard application. An application from any person who is already registered or who is eligible for late registration under §
@@ -8404,9 +10656,11 @@ If an official reply to the application or an absentee ballot sent to the applic
 
 ## Virginia § 24.2-703.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-703.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-703.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-703.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-703.1/*
 
-§ 24.2-703.1. Permanent absentee voter list
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-703.1
+. (Effective until July 1, 2027) Permanent absentee voter list.
 A. Any registered voter shall be eligible to file a special application to receive absentee ballots for all elections in which he is eligible to vote. Such application shall be on a form approved by the State Board. The absentee ballots sent to a voter on the permanent absentee voter list shall be sent to the address in the voter's registration record, except as provided in subdivision C 1.
 B. In accordance with procedures established by the State Board, the general registrar shall retain the application, enroll the applicant on a permanent absentee voter list, and process the applicant's request for an absentee ballot for each succeeding election. The applicant shall specify by party designation the primary ballots he is requesting.
 C. The State Board shall prescribe the process by which a voter on the permanent absentee voter list may:
@@ -8424,7 +10678,7 @@ or
 789
 ,
 850
-; 2008, c.
+; 2008, c
 880
 ; 2019, cc.
 668
@@ -8435,12 +10689,42 @@ or
 ,
 1201
 .
+§
+24.2-703.1
+. (Effective July 1, 2027) Permanent absentee voter list.
+A. Any registered voter shall be eligible to file a special application to receive absentee ballots for all elections in which he is eligible to vote. Such application shall be on a form approved by the State Board. The absentee ballots sent to a voter on the permanent absentee voter list shall be sent to the address in the voter's registration record, except as provided in subdivision C 1.
+B. In accordance with procedures established by the State Board, the general registrar shall retain the application, enroll the applicant on a permanent absentee voter list, and process the applicant's request for an absentee ballot for each succeeding election. The applicant shall specify by party designation the primary ballots he is requesting.
+C. The State Board shall prescribe the process by which a voter on the permanent absentee voter list may:
+1. Request that his absentee ballot for (i) a single election or (ii) a primary election and the following general election be sent to an address other than the address on his voter registration record.
+2. Request a primary ballot for a political party other than the one he specified on his application for permanent absentee voter status for a single primary election.
+3. Change his political party selection for all succeeding primary elections.
+D. A voter shall be removed from the permanent absentee voter list if (i) the voter requests in writing to be removed from the list, (ii) the voter's registration is canceled pursuant to §
+24.2-427
+, (iii) the voter's registration is placed on inactive status pursuant to § 24.2-410.4 or 24.2-410.5, or (iv) the voter moves to a different address not in the same county or city of his registration.
+2001, cc.
+789
+,
+850
+; 2008, c
+880
+; 2019, cc.
+668
+,
+669
+; 2020, cc.
+1156
+,
+1201
+; 2026, c.
+1120
+.
 
 ## Virginia § 24.2-703.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-703.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-703.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-703.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-703.2/*
 
-§ 24.2-703.2. Replacement absentee ballots for certain disabled or ill voters; penalty
+§ 24.2-703.2
+. Replacement absentee ballots for certain disabled or ill voters; penalty.
 A person with a disability or illness who has applied for and has been sent an absentee ballot who did not receive or has lost the absentee ballot on or before the Saturday before the election may obtain a replacement absentee ballot. In such case, the voter may request a replacement absentee ballot by the close of business for the local elections office on the Saturday before election day and designate, in writing, a representative to obtain a replacement absentee ballot on his behalf from the general registrar and to return the properly completed ballot as directed by the general registrar no later than the close of polls on the day of election for which the absentee ballot is valid. The representative shall be age 18 or older and shall not be an elected official, a candidate for elected office, or the deputy, spouse, parent, or child of an elected official or candidate. The voter and representative shall complete the form prescribed by the State Board to implement the provisions of this section. The form shall include a statement signed by the voter that he did not receive the ballot or has lost the ballot. Statements on the form shall be subject to felony penalties for making false statements pursuant to §
 24.2-1016
 .
@@ -8468,9 +10752,10 @@ A person with a disability or illness who has applied for and has been sent an a
 
 ## Virginia § 24.2-704
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-704. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-704/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-704. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-704/*
 
-§ 24.2-704. Applications and ballots for persons requiring assistance in voting; penalty
+§ 24.2-704
+. Applications and ballots for persons requiring assistance in voting; penalty.
 A. The application for an absentee ballot shall provide space for the applicant to indicate that he will require assistance to vote his absentee ballot by reason of blindness, disability, or inability to read or write.
 B. On receipt of an application from an applicant who indicated that he will require assistance due to a visual impairment or print disability, the general registrar shall offer to provide to the applicant a ballot marking tool with screen reader assistive technology made available pursuant to §
 24.2-103.2
@@ -8508,10 +10793,11 @@ in providing assistance to a person who is voting absentee shall be guilty of a 
 
 ## Virginia § 24.2-705
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-705. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-705/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-705. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-705/*
 
-§ 24.2-705. Emergency applications and absentee ballots for individual emergencies
-A. Any person registered and otherwise qualified to vote may request at any time prior to 2:00 p.m. on the day preceding the election that he be permitted to vote by emergency absentee ballot with the assistance of his designated representative. The Department shall prescribe a form and the instructions for submitting such a request to the general registrar that shows that the voter requesting an emergency absentee ballot (i) was unable to apply for an absentee ballot by the deadline due to his hospitalization or illness, or the hospitalization, illness, or death of a spouse, child, or parent, or other emergency found to justify receipt of an emergency absentee ballot or (ii) will be unable to vote on election day due to his hospitalization or illness, the hospitalization, illness, or death of a spouse, child, or parent, or other emergency found to justify receipt of an emergency absentee ballot that occurred after the deadline for applying for an absentee ballot.
+§ 24.2-705
+. Emergency applications and absentee ballots for individual emergencies.
+A. Any person registered and otherwise qualified to vote may request at any time prior to 2:00 p.m. on the day preceding the election that he be permitted to vote by emergency absentee ballot with the assistance of his designated representative. The Department shall prescribe a form and the instructions for submitting such a request to the general registrar that shows that the voter requesting an emergency absentee ballot (i) was unable to apply for an absentee ballot by the deadline due to his hospitalization or illness, or the hospitalization, illness, or death of a spouse, child, or parent, or other emergency found to justify receipt of an emergency absentee ballot; (ii) will be unable to vote on election day due to his hospitalization or illness, the hospitalization, illness, or death of a spouse, child, or parent, or other emergency found to justify receipt of an emergency absentee ballot that occurred after the deadline for applying for an absentee ballot; or (iii) has applied to receive an absentee ballot by the deadline but has not received his ballot within 10 days of the election and will be unable to vote on election day due to his hospitalization or illness, the hospitalization, illness, or death of a spouse, child, or parent, or other emergency found to justify receipt of an emergency absentee ballot.
 The representative designated by a voter for purposes of this subsection shall be age 18 or older and shall not be an elected official, a candidate for elected office, or the deputy, spouse, parent, or child of an elected official or candidate.
 The requesting voter shall sign the form and state, subject to felony penalties for making false statements pursuant to §
 24.2-1016
@@ -8519,7 +10805,7 @@ The requesting voter shall sign the form and state, subject to felony penalties 
 On receipt of the completed form and a determination of the qualification of the requesting voter to vote, the general registrar shall provide, in accordance with the applicable provisions of this chapter, an absentee ballot to the designated representative for delivery to the requesting voter.
 The requesting voter shall vote the absentee ballot as provided by law and mark it in the presence of the designated representative. The designated representative shall complete a statement, subject to felony penalties for making false statements pursuant to §
 24.2-1016
-, that (i) he is the designated representative of the requesting voter; (ii) he personally delivered the ballot to the voter who applied for it; (iii) in his presence, the voter marked the ballot, the ballot was placed in the envelope provided, the envelope was sealed, and the statement on its reverse side was signed by the requesting voter; and (iv) the ballot was returned, under seal, to the general registrar at the registrar's office.
+, that (a) he is the designated representative of the requesting voter; (b) he personally delivered the ballot to the voter who applied for it; (c) in his presence, the voter marked the ballot, the ballot was placed in the envelope provided, the envelope was sealed, and the statement on its reverse side was signed by the requesting voter; and (d) the ballot was returned, under seal, to the general registrar at the registrar's office.
 The ballot shall be counted only if the ballot is received by the general registrar prior to the close of polls, and the general registrar shall deliver the ballot to the officers of election at each appropriate precinct pursuant to §
 24.2-710
 .
@@ -8555,22 +10841,27 @@ C. The Commissioner of Elections may act administratively to facilitate absentee
 1163
 ; 2021, Sp. Sess. I, c.
 471
+; 2026, c.
+761
 .
 
 ## Virginia § 24.2-705.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-705.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-705.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-705.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-705.1/*
 
-§ 24.2-705.1. Repealed
+§§ 24.2-705.1, 24.2-705.2
+. Repealed.
 Repealed by Acts 2020, c.
 1157
 , cl. 2.
 
 ## Virginia § 24.2-706
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-706. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-706/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-706. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-706/*
 
-§ 24.2-706. Duty of general registrar on receipt of application; statement of voter
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-706
+. (Effective until January 1, 2027) Duty of general registrar on receipt of application; statement of voter.
 A. On receipt of an application for an absentee ballot, the general registrar shall enroll the name and address of each registered applicant on an absentee voter applicant list that shall be maintained in the office of the general registrar with a file of the applications received. The list shall be available for inspection and copying and the applications shall be available for inspection only by any registered voter during regular office hours. Upon request and for a reasonable fee, the Department of Elections shall provide an electronic copy of the absentee voter applicant list to any political party or candidate. Such list shall be used only for campaign and political purposes. Any list made available for inspection and copying under this section shall contain the post office box address in lieu of the residence street address for any individual who has furnished at the time of registration or subsequently, in addition to his street address, a post office box address pursuant to subsection B of §
 24.2-418
 .
@@ -8583,20 +10874,17 @@ C. If the application has been properly completed and signed and the applicant i
 1. An envelope containing the folded ballot, sealed and marked "Ballot within."
 2. An envelope for resealing the marked ballot, on which envelope is printed the following:
 "Statement of Voter."
-"I do hereby state, subject to felony penalties for making false statements pursuant to §
+I do hereby state, subject to felony penalties for making false statements pursuant to §
 24.2-1016
-, that my FULL NAME is (last, first, middle); that I am now or have been at some time since last November's general election a legal resident of (STATE YOUR LEGAL RESIDENCE IN VIRGINIA including the house number, street name or rural route address, city, zip code); that I received the enclosed ballot(s) upon application to the registrar of such county or city; that I opened the envelope marked 'ballot within' and marked the ballot(s), without assistance or knowledge on the part of anyone as to the manner in which I marked it (or I am returning the form required to report how I was assisted); that I then sealed the ballot(s) in this envelope; and that I have not voted and will not vote in this election at any other time or place.
-Signature of Voter __________________________________
-Last four digits of voter's social security number _______________
-Voter's birth year _______________________
-Date ________________"
+, that my FULL NAME is (last, first, middle); that I am now or have been at some time since last November's general election a legal resident of  (STATE YOUR LEGAL RESIDENCE IN VIRGINIA including the house number, street name or rural route address, city, zip code); that I received the enclosed ballot(s) upon application to the registrar of such county or city; that I opened the envelope marked 'ballot within' and marked the ballot(s), without assistance or knowledge on the part of anyone as to the manner in which I marked it (or I am returning the form required to report how I was assisted); that I then sealed the ballot(s) in this envelope; and that I have not voted and will not vote in this election at any other time or place.
+Signature of Voter
+Last four digits of voter's social security number
+Voter's birth year
+Date"
 For elections held after January 1, 2004, instead of the envelope containing the above oath, an envelope containing the standard oath prescribed by the presidential designee under § 101(b)(7) of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. § 20301 et seq.) shall be sent to voters who are qualified to vote absentee under that Act.
 For purposes of properly completing this statement, the unique identifier assigned to the voter in the voter registration system pursuant to subdivision A 1 of §
 24.2-404
 shall be accepted in place of the last four digits of the voter's social security number for those voters whose registration includes a statement of affirmation that they have never been issued a social security number.
-When this statement has been properly completed and signed by the registered voter, his ballot shall not be subject to challenge pursuant to §
-24.2-651
-.
 3. An envelope, properly addressed and postage prepaid, for the return of the ballot to the general registrar by mail or by the applicant in person, or to a drop-off location.
 4. Printed instructions for completing the ballot and statement on the envelope and returning the ballot. Such instructions shall include information on the sites of all drop-off locations in the county or city. Whenever there is a proposed constitutional amendment or a statewide referendum to be voted on by the voters, these instructions shall also include the website address where the explanation of the proposed amendment prepared pursuant to §
 30-19.9
@@ -8714,13 +11002,164 @@ Code 1950, §§ 24-327, 24-332, 24-333, 24-345.6, 24-345.7; 1952, c. 509; 1956, 
 254
 ; 2023, c.
 785
+; 2026, c.
+1064
+.
+§
+24.2-706
+. (Effective January 1, 2027) Duty of general registrar on receipt of application; statement of voter.
+A. On receipt of an application for an absentee ballot, the general registrar shall enroll the name and address of each registered applicant on an absentee voter applicant list that shall be maintained in the office of the general registrar with a file of the applications received. The list shall include whether the application has been accepted or rejected and, if it has been rejected, the reason for rejection or, if it has been accepted, the status of the absentee ballot. The list shall be updated daily. The list shall be available for inspection and copying and the applications shall be available for inspection only by any registered voter during regular office hours. Upon request and for a reasonable fee, the Department of Elections shall provide an electronic copy of the absentee voter applicant list to any political party or candidate. Such list shall be used only for campaign and political purposes. Any list made available for inspection and copying under this section shall contain the post office box address in lieu of the residence street address for any individual who has furnished at the time of registration or subsequently, in addition to his street address, a post office box address pursuant to subsection B of §
+24.2-418
+.
+No list or application containing an individual's social security number, or any part thereof, or the individual's day and month of birth, shall be made available for inspection or copying by anyone. The Department of Elections shall prescribe procedures for general registrars to make the information in the lists and applications available in a manner that does not reveal social security numbers or parts thereof, or an individual's day and month of birth.
+B. The completion and timely delivery of an application for an absentee ballot shall be construed to be an offer by the applicant to vote in the election.
+The general registrar shall note on each application received whether the applicant is or is not a registered voter. In reviewing the application for an absentee ballot, the general registrar shall not reject the application of any individual because of an error or omission on any record or paper relating to the application, if such error or omission is not material in determining whether such individual is qualified to vote absentee. For any registered voter whose absentee ballot application is rejected, the general registrar shall enter into the voter's record in the voter registration system that such absentee ballot application has been rejected and the reason for rejection.
+C. If the application has been properly completed and signed and the applicant is a registered voter of the precinct in which he offers to vote, the general registrar shall, at the time when the printed ballots for the election are available, send by the deadline set out in §
+24.2-612
+, obtaining a certificate or other evidence of either first-class or expedited mailing or delivery from the United States Postal Service or other commercial delivery provider, or deliver to him in person in the office of the registrar, the following items and nothing else:
+1. An envelope containing the folded ballot, sealed and marked "Ballot within."
+2. An envelope for resealing the marked ballot, on which envelope is printed the following:
+"Statement of Voter."
+I do hereby state, subject to felony penalties for making false statements pursuant to §
+24.2-1016
+, that my FULL NAME is (last, first, middle); that I am now or have been at some time since last November's general election a legal resident of  (STATE YOUR LEGAL RESIDENCE IN VIRGINIA including the house number, street name or rural route address, city, zip code); that I received the enclosed ballot(s) upon application to the registrar of such county or city; that I opened the envelope marked 'ballot within' and marked the ballot(s), without assistance or knowledge on the part of anyone as to the manner in which I marked it (or I am returning the form required to report how I was assisted); that I then sealed the ballot(s) in this envelope; and that I have not voted and will not vote in this election at any other time or place.
+Signature of Voter
+Last four digits of voter's social security number
+Voter's birth year
+Date"
+For elections held after January 1, 2004, instead of the envelope containing the above oath, an envelope containing the standard oath prescribed by the presidential designee under § 101(b)(7) of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. § 20301 et seq.) shall be sent to voters who are qualified to vote absentee under that Act.
+For purposes of properly completing this statement, the unique identifier assigned to the voter in the voter registration system pursuant to subdivision A 1 of §
+24.2-404
+shall be accepted in place of the last four digits of the voter's social security number for those voters whose registration includes a statement of affirmation that they have never been issued a social security number.
+3. An envelope, properly addressed and postage prepaid, for the return of the ballot to the general registrar by mail or by the applicant in person, or to a drop-off location.
+4. Printed instructions for completing the ballot and statement on the envelope and returning the ballot. Such instructions shall include information on the sites of all drop-off locations in the county or city. Whenever there is a proposed constitutional amendment or a statewide referendum to be voted on by the voters, these instructions shall also include the website address where the explanation of the proposed amendment prepared pursuant to §
+30-19.9
+or the information about the referendum prepared pursuant to §
+30-19.10
+is posted on the Department's website.
+For federal elections held after January 1, 2004, for any voter who is required by subparagraph (b) of 52 U.S.C. § 21083 of the Help America Vote Act of 2002 to show identification the first time the voter votes in a federal election in the state, the printed instructions shall direct the voter to submit with his ballot (i) a copy of a current and valid photo identification or (ii) a copy of a current utility bill, bank statement, government check, paycheck or other government document that shows the name and address of the voter. Such individual who desires to vote by mail but who does not submit one of the forms of identification specified in this paragraph may cast such ballot by mail and the ballot shall be counted as a provisional ballot under the provisions of §
+24.2-653.01
+. The Department of Elections shall provide instructions to the electoral boards for the handling and counting of such provisional ballots pursuant to §
+24.2-653.01
+and this section.
+5. For any voter entitled to vote absentee under the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. § 20301 et seq.), information provided by the Department of Elections specific to the voting rights and responsibilities for such citizens, or information provided by the registrar specific to the status of the voter registration and absentee ballot application of such voter, may be included.
+The envelopes and instructions shall be in the form prescribed by the Department of Elections.
+D. The general registrar may contract with a third party for the printing, assembly, and mailing of the items set forth in subsection C. The general registrar shall provide to the contractor in a timely manner the names, addresses, precincts, and ballot styles of voters requesting an absentee ballot by mail. The vendor shall provide to the general registrar a report of the voters to whom the absentee ballot materials have been sent.
+E. If the applicant completes his application in person under §
+24.2-701
+at a time when the printed ballots for the election are available, he may request that the general registrar send to him by mail the items set forth in subdivisions C 1 through 4, instead of casting the ballot in person. Such request shall be made no later than 5:00 p.m. on the eleventh day prior to the election in which the applicant offers to vote, and the general registrar shall send those items to the applicant by mail, obtaining a certificate or other evidence of mailing.
+F. If the applicant is a covered voter, as defined in §
+24.2-452
+, the general registrar, at the time when the printed ballots for the election are available, shall mail by the deadline set forth in §
+24.2-612
+or deliver in person to the applicant in the office of the general registrar the items as set forth in subdivisions C 1 through 4 and, if necessary, an application for registration. A certificate or other evidence of mailing shall not be required. If the applicant requests that such items be sent by electronic transmission, the general registrar, at the time when the printed ballots for the election are available but not later than the deadline set forth in §
+24.2-612
+, shall send by electronic transmission the blank ballot, the form for the envelope for returning the marked ballot, and instructions to the voter. Such materials shall be sent using the official email address or fax number of the office of the general registrar published on the Department of Elections website. The State Board of Elections may prescribe by regulation the format of the email address used for transmitting ballots to eligible voters. A general registrar may also use electronic transmission facilities provided by the Federal Voting Assistance Program. The voted ballot shall be returned to the general registrar as otherwise required by this chapter.
+G. The circuit courts shall have jurisdiction to issue an injunction to enforce the provisions of this section upon the application of (i) any aggrieved voter, (ii) any candidate in an election district in whole or in part in the court's jurisdiction where a violation of this section has occurred, or is likely to occur, or (iii) the campaign committee or the appropriate district political party chairman of such candidate. Any person who fails to discharge his duty as provided in this section through willful neglect of duty and with malicious intent shall be guilty of a Class 1 misdemeanor as provided in subsection A of §
+24.2-1001
+.
+Code 1950, §§ 24-327, 24-332, 24-333, 24-345.6, 24-345.7; 1952, c. 509; 1956, c. 525; 1958, c. 351; 1970, c. 462, § 24.1-229; 1971, Ex. Sess., cc. 119, 247, 265; 1972, c. 620; 1974, c. 428; 1975, c. 515; 1977, c. 490; 1978, c. 778; 1980, c. 639; 1981, c. 425; 1983, c. 461; 1988, cc. 624, 691; 1993, c. 641; 1994, cc.
+633
+,
+656
+; 1996, c.
+253
+; 2000, c.
+421
+; 2001, cc.
+621
+,
+866
+; 2002, cc.
+785
+,
+819
+; 2003, cc.
+247
+,
+478
+; 2004, c.
+410
+; 2006, c.
+438
+; 2007, c.
+318
+; 2008, cc.
+106
+,
+300
+,
+379
+; 2009, cc.
+345
+,
+405
+,
+873
+; 2010, cc.
+213
+,
+316
+,
+449
+,
+538
+,
+645
+,
+812
+; 2011, cc.
+427
+,
+458
+; 2012, c.
+393
+; 2015, cc.
+313
+,
+644
+,
+645
+; 2016, cc.
+16
+,
+463
+; 2019, cc.
+668
+,
+669
+; 2020, cc.
+289
+,
+735
+,
+1149
+,
+1151
+,
+1201
+; 2021, Sp. Sess. I, cc.
+246
+,
+471
+,
+522
+; 2022, c.
+254
+; 2023, c.
+785
+; 2026, cc.
+1018
+,
+1064
 .
 
 ## Virginia § 24.2-707
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-707. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-707/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-707. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-707/*
 
-§ 24.2-707. How ballots marked and returned
+§ 24.2-707
+. How ballots marked and returned.
 A. On receipt of a mailed absentee ballot, the voter shall (i) open the sealed envelope marked "ballot within" and (ii) mark and refold the ballot, as provided in §§
 24.2-644
 and
@@ -8787,10 +11226,21 @@ Code 1950, §§ 24-334, 24-337; 1956, c. 525; 1970, c. 462, § 24.1-232; 1972, c
 
 ## Virginia § 24.2-707.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-707.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-707.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-707.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-707.1/*
 
-§ 24.2-707.1. Drop-off locations for return of absentee ballots
-A. The general registrar of each county or city shall establish at the office of the general registrar and each voter satellite office in operation for an election a drop-off location for the purpose of allowing the deposit of completed absentee ballots for such election. On the day of the election, there shall also be a drop-off location at each polling place in operation for the election. The general registrar may establish additional drop-off locations within the county or city as he deems necessary. All drop-off locations shall be accessible; be on public property, unless located at a polling place; and otherwise comply with any criteria for drop-off locations set by the Department.
+§ 24.2-707.1
+. Drop-off locations for return of absentee ballots.
+A. The general registrar of each county or city shall establish at the office of the general registrar and each voter satellite office in operation for an election a drop-off location for the purpose of allowing the deposit of completed absentee ballots for such election. On the day of the election, there shall also be a drop-off location at each polling place in operation for the election. The general registrar may establish additional drop-off locations within the county or city as he deems necessary. All drop-off locations shall be accessible; be on public property, unless located at a polling place; and otherwise comply with any criteria for drop-off locations set by the Department. The provisions of §§
+24.2-604
+,
+24.2-604.4
+,
+24.2-605
+,
+24.2-606
+, and
+24.2-607
+prohibiting certain conduct or activities, and allowing for designation of a law-enforcement officer, in and around a polling place shall apply to drop-off locations.
 B. The Department shall set standards for the establishment and operation of drop-off locations, including necessary security requirements. The Department shall submit such standards annually by October 1 to the Chairmen of the House and Senate Committees on Privileges and Elections, the Senate Committee on Finance and Appropriations, and the House Committee on Appropriations.
 C. Not later than 55 days prior to any election, the general registrar shall post notice of the sites of the drop-off locations in the locality in the office of the general registrar and on the official website of the county or city. Such notice shall remain in the office of the general registrar and on the official website of the county or city for the duration of the period during which absentee ballots may be returned.
 D. Absentee ballots shall be collected from drop-off locations in accordance with the instructions provided by the Department. Such instructions shall include chain of custody requirements and recordkeeping requirements. Absentee ballots shall be collected at least daily by (i) two officers of election or electoral board members representing the two major political parties where practicable or (ii) two employees from the office of the general registrar, unless the drop-off location is in the office of the general registrar, in which case the general registrar or a deputy general registrar may collect the absentee ballots.
@@ -8800,13 +11250,16 @@ D. Absentee ballots shall be collected from drop-off locations in accordance wit
 522
 ; 2022, c.
 140
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-708
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-708. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-708/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-708. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-708/*
 
-§ 24.2-708. Return of unused ballots; voting by applicant who did not receive or lost ballot; defaced ballots
+§ 24.2-708
+. Return of unused ballots; voting by applicant who did not receive or lost ballot; defaced ballots.
 A. Any person who has applied for and received an absentee ballot may choose not to vote absentee and shall be entitled to cast a ballot in accordance with the provisions of this subsection.
 1. The voter may, prior to the day of the election, return the ballot to the general registrar (i) unopened in the sealed envelope in which it was sent to him or (ii) opened and unmarked.
 The general registrar shall note on the voter's record, opposite the name of the voter, the fact that the ballot was returned unused and the date of the return and shall carefully preserve the ballot with all ballots returned unused. Such ballots shall be delivered, with other returned ballots, to the officers of election on election day. The voter shall then be entitled to vote a regular ballot in the office of the general registrar, or he may choose to vote at his proper polling place or at a central absentee voter precinct on the day of the election. On the day of the election, (a) if the general registrar or an officer of election is able to confirm the return of the unused ballot, the voter shall be entitled to vote a regular ballot and (b) if the general registrar or an officer of election is unable to confirm the return of the unused ballot, the voter shall be entitled to cast a provisional ballot pursuant to §
@@ -8848,9 +11301,11 @@ Code 1950, §§ 24-336, 24-340.1; 1954, c. 511; 1970, c. 462, § 24.1-233; 1974,
 
 ## Virginia § 24.2-709
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-709. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-709/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-709. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-709/*
 
-§ 24.2-709. Ballot to be returned in manner prescribed by law
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-709
+. (Effective until January 1, 2027) Ballot to be returned in manner prescribed by law.
 A. Any ballot returned to the office of the general registrar or to a drop-off location in any manner except as prescribed by law shall be void. Absentee ballots shall be returned to the general registrar or to a drop-off location before the closing of the polls. Any voter who is in line to return an absentee ballot at a drop-off location by 7:00 p.m. on the day of the election shall be permitted to deposit his absentee ballot. The registrar receiving the ballot shall (i) seal the ballot in an envelope with the statement or declaration of the voter, or both, attached to the outside and (ii) mark on each envelope the date, time, and manner of delivery. No returned absentee ballot shall be deemed void because (a) the inner envelope containing the voted ballot is imperfectly sealed so long as the outside envelope containing the ballot envelope is sealed or (b) it is not returned sealed in the outside envelope so long as it is returned sealed in the inner envelope.
 B. Notwithstanding the provisions of subsection A, any absentee ballot (i) returned to the general registrar after the closing of the polls on election day but before noon on the third day after the election and (ii) postmarked on or before the date of the election shall be counted pursuant to the procedures set forth in this chapter if the voter is found entitled to vote. For purposes of this subsection, a postmark shall include any other official indicia of confirmation of mailing by the United States Postal Service or other postal or delivery service.
 C. Notwithstanding the provisions of subsection A, any absentee ballot (i) received after the close of the polls on any election day, (ii) received before 5:00 p.m. on the second business day before the State Board meets to ascertain the results of the election pursuant to this title, (iii) requested on or before but not sent by the deadline for making absentee ballots available under §
@@ -8902,12 +11357,132 @@ Code 1950, § 24-328; 1956, c. 525; 1970, c. 462, § 24.1-230; 1971, Ex. Sess., 
 ,
 522
 .
+§
+24.2-709
+. (Effective January 1, 2027, until July 1, 2027) Ballot to be returned in manner prescribed by law.
+A. Any ballot returned to the office of the general registrar or to a drop-off location in any manner except as prescribed by law shall be void. Absentee ballots shall be returned to the general registrar or to a drop-off location before the closing of the polls. Any voter who is in line to return an absentee ballot at a drop-off location by 7:00 p.m. on the day of the election shall be permitted to deposit his absentee ballot. The registrar receiving the ballot shall (i) seal the ballot in an envelope with the statement or declaration of the voter, or both, attached to the outside and (ii) mark on each envelope the date, time, and manner of delivery. No returned absentee ballot shall be deemed void because (a) the inner envelope containing the voted ballot is imperfectly sealed so long as the outside envelope containing the ballot envelope is sealed or (b) it is not returned sealed in the outside envelope so long as it is returned sealed in the inner envelope.
+B. Notwithstanding the provisions of subsection A, any absentee ballot (i) returned to the general registrar after the closing of the polls on election day but before 5:00 p.m. on the third day after the election and (ii) postmarked on or before the date of the election shall be counted pursuant to the procedures set forth in this chapter if the voter is found entitled to vote. For purposes of this subsection, a postmark shall include any other official indicia of confirmation of mailing by the United States Postal Service or other postal or delivery service.
+C. Notwithstanding the provisions of subsection A, any absentee ballot (i) received after the close of the polls on any election day, (ii) received before 5:00 p.m. on the second business day before the State Board meets to ascertain the results of the election pursuant to this title, (iii) requested on or before but not sent by the deadline for making absentee ballots available under §
+24.2-612
+, and (iv) cast by a covered voter, as defined in §
+24.2-452
+, shall be counted pursuant to the procedures set forth in this chapter if the voter is found entitled to vote. The electoral board shall prepare an amended certified abstract, which shall include the results of such ballots, and shall deliver such abstract to the State Board by the business day prior to its meeting pursuant to this title, and shall deliver a copy of such abstract to the general registrar to be available for inspection when his office is open for business.
+D. Notwithstanding the provisions of clause (i) of subsection B of §
+24.2-427
+, an absentee ballot returned by a voter in compliance with §
+24.2-707
+and this section who dies prior to the counting of absentee ballots on election day shall be counted pursuant to the procedures set forth in this chapter if the voter is found to have been entitled to vote at the time that he returned the ballot.
+Code 1950, § 24-328; 1956, c. 525; 1970, c. 462, § 24.1-230; 1971, Ex. Sess., c. 119; 1975, c. 515; 1993, c. 641; 2002, cc.
+785
+,
+819
+; 2006, c.
+297
+; 2010, cc.
+449
+,
+645
+; 2011, c.
+654
+; 2012, c.
+353
+; 2014, c.
+580
+; 2015, cc.
+644
+,
+645
+; 2019, cc.
+668
+,
+669
+; 2020, cc.
+288
+,
+933
+,
+1149
+,
+1151
+,
+1201
+; 2021, Sp. Sess. I, cc.
+471
+,
+522
+; 2026, cc.
+61
+,
+62
+.
+§
+24.2-709
+. (Effective July 1, 2027) Ballot to be returned in manner prescribed by law.
+A. Any ballot returned to the office of the general registrar or to a drop-off location in any manner except as prescribed by law shall be void. Absentee ballots shall be returned to the general registrar or to a drop-off location before the closing of the polls. Any voter who is in line to return an absentee ballot at a drop-off location by 7:00 p.m. on the day of the election shall be permitted to deposit his absentee ballot. The registrar receiving the ballot shall (i) seal the ballot in an envelope with the statement or declaration of the voter, or both, attached to the outside and (ii) mark on each envelope the date, time, and manner of delivery. No returned absentee ballot shall be deemed void because (a) the inner envelope containing the voted ballot is imperfectly sealed so long as the outside envelope containing the ballot envelope is sealed or (b) it is not returned sealed in the outside envelope so long as it is returned sealed in the inner envelope.
+B. Notwithstanding the provisions of subsection A, any absentee ballot (i) returned to the general registrar after the closing of the polls on election day but before 5:00 p.m.on the third day after the election and (ii) postmarked on or before the date of the election shall be counted pursuant to the procedures set forth in this chapter if the voter is found entitled to vote. For purposes of this subsection, a postmark shall include any other official indicia of confirmation of mailing by the United States Postal Service or other postal or delivery service.
+C. Notwithstanding the provisions of subsection A, any absentee ballot (i) received after the close of the polls on any election day, (ii) received before 5:00 p.m. on the second business day before the State Board meets to ascertain the results of the election pursuant to this title, (iii) requested on or before but not sent by the deadline for making absentee ballots available under §
+24.2-612
+, and (iv) cast by a covered voter, as defined in §
+24.2-452
+, shall be counted pursuant to the procedures set forth in this chapter if the voter is found entitled to vote. The electoral board shall prepare an amended certified abstract, which shall include the results of such ballots, and shall deliver such abstract to the State Board by the business day prior to its meeting pursuant to this title, and shall deliver a copy of such abstract to the general registrar to be available for inspection when his office is open for business.
+D. Notwithstanding the provisions of subsection A of §
+24.2-427
+requiring the prompt cancellation of the registration of a deceased voter, an absentee ballot returned by a voter in compliance with §
+24.2-707
+and this section who dies prior to the counting of absentee ballots on election day shall be counted pursuant to the procedures set forth in this chapter if the voter is found to have been entitled to vote at the time that he returned the ballot.
+Code 1950, § 24-328; 1956, c. 525; 1970, c. 462, § 24.1-230; 1971, Ex. Sess., c. 119; 1975, c. 515; 1993, c. 641; 2002, cc.
+785
+,
+819
+; 2006, c.
+297
+; 2010, cc.
+449
+,
+645
+; 2011, c.
+654
+; 2012, c.
+353
+; 2014, c.
+580
+; 2015, cc.
+644
+,
+645
+; 2019, cc.
+668
+,
+669
+; 2020, cc.
+288
+,
+933
+,
+1149
+,
+1151
+,
+1201
+; 2021, Sp. Sess. I, cc.
+471
+,
+522
+; 2026, cc.
+61
+,
+62
+,
+1120
+.
 
 ## Virginia § 24.2-709.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-709.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-709.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-709.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-709.1/*
 
-§ 24.2-709.1. Processing returned absentee ballots before election day; cure process
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-709.1
+. (Effective until January 1, 2027) Processing returned absentee ballots before election day; cure process.
 A. On receipt of an absentee ballot returned in person or by mail to the office of the general registrar or to a drop-off location before election day, the general registrar shall mark the date of receipt in the voter's record and shall examine the ballot envelope to verify completion of the required voter affirmation. A voter affirmation statement shall not be deemed to be incomplete on the sole basis of the voter's failure to provide (i) his full name or his middle initial, as long as the voter provided his full first and last name, or (ii) the date, or any part of the date, including the year, on which he signed the statement.
 B. If the voter affirmation has been completed as required, the general registrar may open the sealed ballot envelope and insert the ballot in optical scan counting equipment or other secure ballot container without initiating any ballot count totals. If a general registrar does not choose to do so, the sealed ballot envelope shall be deposited into a secure container provided for such purpose, in which it shall remain until the general registrar initiates the process of opening the sealed ballot envelopes deposited into the secure container and inserting such ballots into optical scan counting equipment without initiating any ballot count totals. Such process shall be at the general registrar's discretion at any time prior to the seventh day immediately preceding the election but shall be mandatory beginning on the seventh day immediately preceding the election.
 At least two officers of election, one representing each political party, shall be present during all hours when sealed ballot envelopes are opened as authorized in or required by this subsection. No person present while sealed ballot envelopes are opened and ballots are inserted into counting equipment shall disclose any information concerning the ballots.
@@ -8936,12 +11511,65 @@ The general registrar may issue a new absentee ballot to the voter if necessary 
 ,
 522
 .
+§
+24.2-709.1
+. (Effective January 1, 2027) Processing returned absentee ballots before election day; cure process.
+A. On receipt of an absentee ballot returned in person or by mail to the office of the general registrar or to a drop-off location before election day, the general registrar shall mark the date of receipt in the voter's record and shall examine the ballot envelope to verify completion of the required voter affirmation. A voter affirmation statement shall not be deemed to be incomplete on the sole basis of the voter's failure to provide (i) his full name or his middle initial, as long as the voter provided his full first and last name, or (ii) the date, or any part of the date, including the year, on which he signed the statement.
+B. If the voter affirmation has been completed as required, the general registrar may open the sealed ballot envelope and insert the ballot in optical scan counting equipment or other secure ballot container without initiating any ballot count totals. If a general registrar does not choose to do so, the sealed ballot envelope shall be deposited into a secure container provided for such purpose, in which it shall remain until the general registrar initiates the process of opening the sealed ballot envelopes deposited into the secure container and inserting such ballots into optical scan counting equipment without initiating any ballot count totals. Such process shall be at the general registrar's discretion at any time prior to the seventh day immediately preceding the election but shall be mandatory beginning on the seventh day immediately preceding the election.
+At least two officers of election, one representing each political party, shall be present during all hours when sealed ballot envelopes are opened as authorized in or required by this subsection. No person present while sealed ballot envelopes are opened and ballots are inserted into counting equipment shall disclose any information concerning the ballots.
+In the event that circumstances prevent a general registrar from complying with the provisions of this subsection, such failure shall not be grounds for contesting the election pursuant to Article 2 (§
+24.2-803
+et seq.) of Chapter 8 and shall not invalidate the absentee ballots.
+C. If the general registrar finds during the examination of the ballot envelope that the required voter affirmation was not correctly or completely filled out or that a procedure required by §
+24.2-707
+was not properly followed, and such error or failure would render the ballot void by law, the general registrar shall enter into the voter's record in the voter registration system that the absentee ballot has an issue requiring correction in order for it to be counted. This information shall be included on any absentee voter applicant list provided pursuant to subsection C of §
+24.2-710
+.
+The registrar shall promptly notify the voter in writing or by email of the error or failure and shall provide information to the voter on how to correct the issue so his ballot may be counted. The voter shall be entitled to make such necessary corrections before 5:00 p.m. on the Monday after the election, and his ballot shall then be counted pursuant to the procedures set forth in this chapter if he is found to be entitled to vote. No absentee ballot needing correction shall be delivered to the officers of election at the appropriate precinct until the voter is provided the opportunity to make the necessary corrections pursuant to this subsection.
+The general registrar may issue a new absentee ballot to the voter if necessary and shall preserve the first ballot with other spoiled ballots.
+2007, cc.
+171
+,
+281
+; 2012, cc.
+328
+,
+486
+; 2013, c.
+501
+; 2021, Sp. Sess. I, cc.
+471
+,
+522
+; 2026, cc.
+61
+,
+62
+,
+1018
+,
+1069
+,
+1070
+.
+
+## Virginia § 24.2-709.2
+
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-709.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-709.2/*
+
+§ 24.2-709.2
+. (Effective September 1, 2026) Processing absentee ballots; duplication of damaged or defective ballots.
+If, in the processing and counting of absentee ballots, any machine-readable ballot is damaged or defective such that it cannot properly be counted by the electronic voting systems, a true duplicate copy shall be made of the damaged or defective ballot by a team of election officials representing both parties. The duplicate ballot shall be substituted for the damaged ballot. Every duplicate ballot shall be clearly labeled as such and shall bear an identifier that shall be recorded on the damaged ballot.
+2026, c.
+718
+.
 
 ## Virginia § 24.2-710
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-710. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-710/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-710. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-710/*
 
-§ 24.2-710. Absentee voter applicant lists
+§ 24.2-710
+. Absentee voter applicant lists.
 A. The provisions of this subsection shall apply only to those localities not using an electronic pollbook. On the day before the election, the general registrar shall (i) make out in triplicate on a form prescribed by the State Board the absentee voter applicant list containing the names of all persons who applied for an absentee ballot through the third day before the election and (ii) by noon on the day before the election, deliver two copies of the list to the electoral board. The general registrar shall make out a supplementary list containing the names of all persons voting absentee in person or applying to vote absentee pursuant to §
 24.2-705
 for delivery by 5:00 p.m. on the day before the election. The supplementary list shall be deemed part of the absentee voter applicant list and shall be prepared and delivered in accordance with the instructions of the State Board. The general registrar shall maintain one copy of the list in his office for two years as a public record open for inspection upon request during regular office hours.
@@ -8976,9 +11604,10 @@ Code 1950, §§ 24-327, 24-330, 24-332, 24-333, 24-338, 24-338.1, 24-339, 24-340
 
 ## Virginia § 24.2-711
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-711. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-711/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-711. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-711/*
 
-§ 24.2-711. Duties of electoral board, general registrar, and officers of election
+§ 24.2-711
+. Duties of electoral board, general registrar, and officers of election.
 A. Before the polls open, the officers of election at each precinct shall mark, for each person on the absentee voter applicant list, the letters "AB" (meaning absentee ballot) in the voting record column on the pollbook. The pollbook may be so marked prior to election day by the general registrar, the secretary of the electoral board, or staff under the direction of the general registrar or the secretary, or when the pollbook is produced by the State Board pursuant to §
 24.2-404
 . If the pollbook has been marked prior to election day, before the polls open the officers of election at each precinct shall check the marks for accuracy and make any additions or corrections required.
@@ -9017,9 +11646,11 @@ Code 1950, §§ 24-330, 24-338, 24-338.1, 24-339, 24-340, 24-341, 24-342, 24-345
 
 ## Virginia § 24.2-711.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-711.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-711.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-711.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-711.1/*
 
-§ 24.2-711.1. Absentee ballots; confirmation of receipt; notice of reason for rejection
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-711.1
+. (Effective until January 1, 2027) Absentee ballots; confirmation of receipt; notice of reason for rejection.
 A. The Secretary, in coordination with local election officials, shall implement a free-access system by which a voter may determine:
 1. Whether the voter's application for an absentee ballot has been received and accepted; and
 2. Whether the voter's absentee ballot has been received and the current status of the absentee ballot.
@@ -9029,12 +11660,29 @@ B. The electoral board of each county and city shall send a written explanation 
 ; 2013, c.
 537
 .
+§
+24.2-711.1
+. (Effective January 1, 2027) Absentee ballots; confirmation of receipt; notice of reason for rejection.
+A. The Department, in coordination with local election officials, shall implement a free-access system by which a voter may determine:
+1. Whether the voter's application for an absentee ballot has been received and accepted;
+2. If the voter's application has been rejected, that it has been rejected and the reason for rejection; and
+3. Whether the voter's absentee ballot has been received and the current status of the absentee ballot.
+Such system shall be updated daily.
+B. The electoral board of each county and city shall send a written explanation of the reason for rejection of an absentee ballot to the voter whose absentee ballot is rejected within 90 days of the date on which the ballot is rejected. The State Board of Elections shall promulgate instructions to implement the provisions of this section.
+2002, c.
+252
+; 2013, c.
+537
+; 2026, c.
+1018
+.
 
 ## Virginia § 24.2-712
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-712. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-712/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-712. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-712/*
 
-§ 24.2-712. Central absentee voter precincts; counting ballots
+§ 24.2-712
+. Central absentee voter precincts; counting ballots.
 A. Notwithstanding any other provision of law, the governing body of each county or city shall establish one or more central absentee voter precincts in the courthouse or other public buildings for the purpose of receiving, counting, and recording absentee ballots cast in the county or city. A central absentee voter precinct shall be made by the governing body by ordinance; the ordinance shall state for which elections the precinct shall be used. The decision to abolish any absentee voter precinct shall be made by the governing body by ordinance. Immediate notification of either decision shall be sent to the Department of Elections and the electoral board.
 B. Each central absentee voter precinct shall have at least three officers of election as provided for other precincts. The number of officers shall be determined by the electoral board and general registrar.
 C. If any voter brings an unmarked ballot to the central absentee voter precinct on the day of the election, he shall be allowed to vote it. If any voter brings an unmarked ballot to the general registrar on or before the day of the election, he shall be allowed to vote it, and his ballot shall be delivered to the absentee voter precinct.
@@ -9052,6 +11700,13 @@ F. The electoral board or general registrar may provide that the officers of ele
 to represent the two political parties, are on duty at all times; and
 2. No officer, political party representative, or other candidate representative shall leave the precinct after any ballots have been counted until the polls are closed and the count for the precinct is completed and reported.
 G. The general registrar may provide that the central absentee voter precinct will open after 6:00 a.m. on the day of the election provided that the office of the general registrar will be open for the receipt of absentee ballots until the central absentee voter precinct is open and that the officers of election for the central absentee voter precinct obtain the absentee ballots returned to the general registrar's office for the purpose of counting the absentee ballots at the central absentee voter precinct and provided further that the central absentee voter precinct is the same location as the office of the general registrar.
+H. It is unlawful for any person (i) to knowingly carry on or about his person any firearm as defined in §
+18.2-308.2:2
+and (ii) to knowingly do so within 100 feet of any building, or part thereof, used as a central absentee precinct, unless such person is (a) a law-enforcement officer or a retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (b) occupying his own private property that falls within 100 feet of the building used as a meeting place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+9.1-138
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any central absentee voter precinct.
 1974, c. 428, § 24.1-233.1; 1978, c. 778; 1991, c. 3; 1993, c. 641; 1994, cc.
 287
 ,
@@ -9090,13 +11745,16 @@ G. The general registrar may provide that the central absentee voter precinct wi
 471
 ,
 522
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-713
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-713. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-713/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-713. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter7/section24.2-713/*
 
-§ 24.2-713. Emergency authority of the Commissioner of Elections
+§ 24.2-713
+. Emergency authority of the Commissioner of Elections.
 The provisions of this section shall apply in the case of an emergency that will not allow sufficient time for the distribution and handling of absentee ballot applications and absentee ballots, in accordance with the procedures of this title, for qualified voters who are unable to vote in person because of the emergency. The Commissioner of Elections shall have the authority to designate alternative methods and procedures to handle such applications and ballots. Nothing in this section shall authorize the counting of any absentee ballot returned after the polls have closed. For purposes of this section, "an emergency" shall mean (i) any emergency declared by the Governor pursuant to Chapter 3.2 (§
 44-146.13
 et seq.) of Title 44, (ii) any emergency declared by the President of the United States or the governor of another state pursuant to law and confirmed by the Governor by the executive order as an emergency for the purposes of this section, or (iii) any public emergency that interferes with the electoral process or the opportunity for qualified voters to exercise their right to vote as determined by the Commissioner of Elections.
@@ -9112,9 +11770,10 @@ et seq.) of Title 44, (ii) any emergency declared by the President of the United
 
 ## Virginia § 24.2-800
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-800. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-800/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-800. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-800/*
 
-§ 24.2-800. Recounts in all elections
+§ 24.2-800
+. Recounts in all elections.
 A. The provisions of this article apply to all elections held in the Commonwealth.
 B. When there is between any candidate apparently nominated or elected and any candidate apparently defeated a difference of not more than one percent of the total vote cast for the two such candidates as determined by the State Board or the electoral board, the defeated candidate may appeal from the determination of the State Board or the electoral board for a recount of the vote as set forth in this article. When there is between any write-in candidate apparently nominated or elected and any candidate apparently defeated, or between any candidate apparently nominated or elected and any write-in candidate apparently defeated, a difference of not more than five percent of the total vote cast for the two such candidates as determined by the State Board or the electoral board, the defeated candidate may appeal from the determination of the State Board or the electoral board for a recount of the vote as set forth in this article. In an election of electors for the President and Vice President of the United States, the presidential candidate shall represent the vice presidential candidate and slate of electors and be the party to the recount for purposes of this article.
 C. When there is between the vote for a question and the vote against a question a difference of not more than 50 votes or one percent of the total vote cast for and against the question as determined by the State Board or the electoral board, whichever is greater, 50 or more voters qualified to vote on the question, by signing and filing their petition, may appeal from the determination of the State Board or the electoral board for a recount of the vote as set forth in this article.
@@ -9128,9 +11787,10 @@ C. When there is between the vote for a question and the vote against a question
 
 ## Virginia § 24.2-801
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-801. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-801/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-801. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-801/*
 
-§ 24.2-801. Petition for recount; recount court
+§ 24.2-801
+. Petition for recount; recount court.
 A. The petition for a recount of an election, other than an election for presidential electors, shall be filed within 10 days from the day the State Board or the electoral board certifies the result of the election under §
 24.2-679
 or
@@ -9159,9 +11819,10 @@ and
 
 ## Virginia § 24.2-801.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-801.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-801.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-801.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-801.1/*
 
-§ 24.2-801.1. Petition for recount of election for presidential electors; recount court
+§ 24.2-801.1
+. Petition for recount of election for presidential electors; recount court.
 A. The petition for a recount of an election for presidential electors shall be filed no later than 5:00 p.m. on the second calendar day after the day the State Board certifies the result of the election under §
 24.2-679
 , but not thereafter. Presidential candidates who anticipate the possibility of asking for a recount are encouraged to so notify the State Board by letter as soon as possible after election day. The petition shall be filed in the Circuit Court of the City of Richmond. If any presidential candidate is eligible to seek a recount of the results of the election for presidential electors under §
@@ -9189,9 +11850,10 @@ E. Any recount of an election for presidential electors shall be held promptly a
 
 ## Virginia § 24.2-802
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-802/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-802/*
 
-§ 24.2-802. Recount standards
+§ 24.2-802
+. Recount standards.
 A. The State Board of Elections shall promulgate standards for (i) the proper handling and security of voting systems, ballots, and other materials required for a recount, (ii) accurate counting of votes based upon objective evidence and taking into account the voting system and form of ballots approved for use in the Commonwealth, and (iii) any other matters that will promote a timely and accurate resolution of the recount.
 B. The State Board shall promulgate additional standards and instructions for the conduct of simultaneous recounts of two or more elections in a single election district.
 C.  The State Board shall promulgate additional standards and instructions for the conduct of recounts in elections for any office to which more than one candidate can be elected. Such standards and instructions shall include which candidates apparently nominated or elected are required to be named in the petition for a recount or served a copy of the petition for a recount.
@@ -9244,17 +11906,18 @@ D. The chief judge of the circuit court or the full recount court may, consisten
 
 ## Virginia § 24.2-802.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-802.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-802.1/*
 
-§ 24.2-802.1. Preliminary hearing; court to fix procedure for recount, appoint officers, and supervise the recount
+§ 24.2-802.1
+. Preliminary hearing; court to fix procedure for recount, appoint officers, and supervise the recount.
 A. Within seven calendar days of the filing of the petition for a recount of any election other than an election for presidential electors, or within five calendar days of the filing of a petition for a recount of an election for presidential electors, the chief judge of the circuit court shall call a preliminary hearing at which (i) motions may be disposed of and (ii) the rules of procedure may be fixed, both subject to review by the full court. The petitioner and his counsel and each other party and their counsel under supervision of the electoral board and its agents shall have access to pollbooks and other materials used in the election for examination purposes, provided that individual ballots cast in the election shall not be examined at the preliminary hearing. The chief judge during the preliminary hearing shall review all security measures taken for all ballots and voting systems and direct, as he deems necessary, all appropriate measures to ensure proper security to conduct the recount.
-The chief judge, subject to review by the full court, may set the place for the recount and may order the delivery of election materials to a central location and the transportation of voting systems to a central location in each county or city under appropriate safeguards. These safeguards shall include prohibiting any person from knowingly possessing any firearm as defined in §
+The chief judge, subject to review by the full court, may set the place for the recount and may order the delivery of election materials to a central location and the transportation of voting systems to a central location in each county or city under appropriate safeguards. These safeguards shall include prohibiting any person from (a) knowingly carrying on or about his person any firearm as defined in §
 18.2-308.2:2
-within 40 feet of any building or part thereof used as the place for the recount, unless such person is (a) any law-enforcement officer or any retired law-enforcement officer qualified pursuant to subsection C of §
-18.2-308.016
-; (b) occupying his own private property that falls within 40 feet of a polling place; or (c) an armed security officer, licensed pursuant to Article 4 (§
+and (b) knowingly doing so within 100 feet of any building or part thereof used as the place for the recount, unless such person is (1) any law-enforcement officer or any retired law-enforcement officer qualified pursuant to subsection C of §
+18.2-308.01
+6; (2) occupying his own private property that falls within 100 feet of a polling place; or (3) an armed security officer, licensed pursuant to Article 4 (§
 9.1-138
-et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 40 feet of any building, or part thereof, used as a place for the recount.
+et seq.) of Chapter 1 of Title 9.1, whose employment or performance of his duties occurs within 100 feet of any building, or part thereof, used as a place for the recount.
 B. After the full court is appointed under §
 24.2-801
 or
@@ -9267,13 +11930,16 @@ D. The court (i) shall supervise the recount and (ii) may require delivery of an
 886
 ; 2021, Sp. Sess. I, c.
 459
+; 2026, c.
+1078
 .
 
 ## Virginia § 24.2-802.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-802.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-802.2/*
 
-§ 24.2-802.2. General recount procedures
+§ 24.2-802.2
+. General recount procedures.
 A. For the purposes of this section:
 "Overvote" means a ballot on which a voter casts a vote for a greater number of candidates or positions than the number for which he was lawfully entitled to vote and no vote shall be counted with respect to that office or issue.
 "Undervote" means a ballot on which a voter casts a vote for a lesser number of candidates or positions than the number for which he was lawfully entitled to vote.
@@ -9307,9 +11973,10 @@ H. Except in the case of a recount of an election for Governor, Lieutenant Gover
 
 ## Virginia § 24.2-802.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-802.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-802.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-802.3/*
 
-§ 24.2-802.3. Costs of the recount
+§ 24.2-802.3
+. Costs of the recount.
 A. Costs of the recount shall be assessed against the counties and cities comprising the election district when (i) the candidate petitioning for the recount is declared the winner; (ii) the petitioners in a recount of a referendum win the recount; or (iii) there was between the candidate apparently nominated or elected and the candidate petitioning for the recount a difference of not more than one-half of one percent of the total vote cast for the two such candidates as determined by the State Board or electoral board prior to the recount. Otherwise the costs of the recount shall be assessed against the candidate petitioning for the recount or the petitioners in a recount of a referendum. If more than one candidate petitions for a recount, the court may assess costs in an equitable manner between the counties and cities and any such candidate if both are liable for costs under this subsection. Costs incurred to date shall be assessed against any candidate or petitioner who defaults or withdraws his petition.
 B. The court shall appraise the costs of the recount subject to the following limitations: (i) no per diem payment shall be assessed for salaried election officials; (ii) no per diem payment to officers of election serving as recount officials shall exceed two-thirds of the per diem paid such officers by the county or city for service on election day; and (iii) per diem payments to alternates shall be allowed only if they serve.
 C. Any petitioner who may be assessed with costs under subsection A shall post a bond with surety with the court in the amount of $10 per precinct in the area subject to recount. If the petitioner wins the recount, the bond shall not be forfeit. If the petitioner loses the recount, the bond shall be forfeit only to the extent of the assessed costs. If the assessed costs exceed the bond, he shall be liable for such excess.
@@ -9319,9 +11986,10 @@ C. Any petitioner who may be assessed with costs under subsection A shall post a
 
 ## Virginia § 24.2-803
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-803. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-803/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-803. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-803/*
 
-§ 24.2-803. Contest of election to General Assembly
+§ 24.2-803
+. Contest of election to General Assembly.
 A. This section applies to any general or special election of members to the General Assembly.
 B. A contest of the election of any member to the General Assembly may be initiated by an unsuccessful candidate in the election, referred to hereafter as the contestant.
 To initiate a contest, the contestant shall give written notice, in the manner provided in subsection D, of his intent to contest the election to the person or persons apparently elected, referred to hereafter as the contestee, and to the Clerk of the House of Delegates if he is contesting a House election or of the Senate if he is contesting a Senate election, no later than thirty days following the date of the election or three days after the conclusion of a recount, whichever is later.
@@ -9353,9 +12021,10 @@ H. The house, in its judgment, may find for the contestant and declare him elect
 
 ## Virginia § 24.2-804
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-804. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-804/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-804. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-804/*
 
-§ 24.2-804. Contest of elections of Governor, Lieutenant Governor, and Attorney General
+§ 24.2-804
+. Contest of elections of Governor, Lieutenant Governor, and Attorney General.
 In any election for Governor, Lieutenant Governor, or Attorney General, notice of the intent to contest the election shall be filed with the Clerk of the House of Delegates as prescribed in §
 24.2-803
 . The provisions of §
@@ -9370,9 +12039,10 @@ Code 1950, §§ 24-427 through 24-429; 1970, c. 462, § 24.1-237; 1981, c. 570; 
 
 ## Virginia § 24.2-805
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-805. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-805/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-805. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-805/*
 
-§ 24.2-805. Contest of elections of electors for President and Vice President or primaries for United States Senate or statewide office
+§ 24.2-805
+. Contest of elections of electors for President and Vice President or primaries for United States Senate or statewide office.
 In an election of electors for the President and Vice President of the United States, or a primary for the United States Senate or any statewide office, the proceeding to contest shall be in the Circuit Court of the City of Richmond before a special court composed of the chief judge of such circuit court and two circuit court judges of circuits not contiguous to the City of Richmond appointed by the Chief Justice of the Supreme Court of Virginia, or, in the event of his inability to act, then by the next senior justice, who shall at the time of appointment set the date for trial.
 If the chief judge of the Circuit Court of the City of Richmond is absent, unable to sit in the proceeding, or recuses himself, the clerk of the court shall at once certify that fact to the Chief Justice. Then the Chief Justice or the associate justice acting in his stead shall appoint a third judge, who shall be, if possible, a judge of the Circuit Court of the City of Richmond or an adjoining circuit.
 Notwithstanding any provision of this chapter to the contrary: (i) notice of the intent to contest an election of electors for the President and Vice President of the United States shall be filed no later than 5:00 p.m. on the second calendar day after the day the State Board certifies the result of the election under §
@@ -9386,9 +12056,10 @@ Code 1950, § 24-393; 1952, c. 489; 1970, c. 462, § 24.1-238; 1981, c. 570; 199
 
 ## Virginia § 24.2-806
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-806. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-806/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-806. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-806/*
 
-§ 24.2-806. Contest of other primaries and elections
+§ 24.2-806
+. Contest of other primaries and elections.
 In a primary for the United States House of Representatives, the Virginia Senate, the House of Delegates, or any county, city, town, or district office, or an election to any county, city, town, or district office, the proceeding to contest shall be in the circuit court of the county or city that the challenged candidate listed as his residency on his certificate of candidate qualification. The proceeding shall be before a special court composed of the chief judge of such circuit court and two circuit court judges of circuits remote from the county or city that such candidate listed as his residency on his certificate of candidate qualification, appointed by the Chief Justice of the Supreme Court of Virginia, or, in the event of his inability to act, then by the next senior justice, who shall at the time of appointment set the date for trial.
 If the chief judge of the circuit court of the city or county that the candidate listed as his residency on his certificate of candidate qualification is absent, unable to sit in the proceeding, or recuses himself, the clerk of the court shall at once certify that fact to the Chief Justice. Then the Chief Justice or the associate justice acting in his stead shall appoint a third judge, who shall be, if possible, a judge of the same or an adjoining circuit.
 Code 1950, § 24-394; 1952, c. 489; 1970, c. 462, § 24.1-239; 1981, c. 570; 1987, c. 341; 1993, c. 641; 2019, c.
@@ -9397,9 +12068,10 @@ Code 1950, § 24-394; 1952, c. 489; 1970, c. 462, § 24.1-239; 1981, c. 570; 198
 
 ## Virginia § 24.2-807
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-807. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-807/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-807. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-807/*
 
-§ 24.2-807. Contest only on complaint of unsuccessful party; contents of complaint
+§ 24.2-807
+. Contest only on complaint of unsuccessful party; contents of complaint.
 The provisions of this section and §§
 24.2-808
 through
@@ -9414,9 +12086,10 @@ Code 1950, §§ 24-430, 24-432; 1970, c. 462, § 24.1-240; 1973, c. 30; 1981, c.
 
 ## Virginia § 24.2-808
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-808. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-808/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-808. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-808/*
 
-§ 24.2-808. Time of filing and service of complaint; enlargement or amendment of complaint
+§ 24.2-808
+. Time of filing and service of complaint; enlargement or amendment of complaint.
 The contestant shall file his complaint in the clerk's office of the circuit court within 30 days following the date of the election in the case of a general election, and within 10 days following the date of the election in case of a primary election or special election held on a date other than that of a general election. A copy of the complaint shall be served by the contestant as provided under §
 8.01-296
 on each contestee; otherwise the complaint shall not be valid. For a contest conducted pursuant to §
@@ -9431,34 +12104,38 @@ Code 1950, § 24-434; 1952, c. 489; 1970, c. 462, § 24.1-241; 1981, c. 570; 199
 
 ## Virginia § 24.2-809
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-809. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-809/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-809. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-809/*
 
-§ 24.2-809. Filing answer; contents; enlargement or amendment of answer
+§ 24.2-809
+. Filing answer; contents; enlargement or amendment of answer.
 The contestee shall, within ten days after the complaint is served on him, file in the clerk's office an answer, in which he shall admit or deny the allegations on which the contestant relies, or state that he has no knowledge or information concerning an allegation which shall be deemed denial, and state any other defenses, in law or fact, on which he relies. If no answer is filed within the time prescribed, the contestee shall not be heard to assert any claim or objection which is required by this section to be stated in the answer.
 No enlargement or amendment of the answer, except as to form, shall be permitted save by leave of court as provided in Rule 1:8 of the Rules of the Supreme Court of Virginia.
 Code 1950, § 24-435; 1952, c. 489; 1970, c. 462, § 24.1-242; 1981, c. 570; 1993, c. 641.
 
 ## Virginia § 24.2-810
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-810. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-810/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-810. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-810/*
 
-§ 24.2-810. Taking depositions and deciding contests
+§ 24.2-810
+. Taking depositions and deciding contests.
 After service of a copy of the complaint and after reasonable notice to the other party or parties, any party shall be authorized to take depositions to sustain or invalidate the election. The proceedings shall take precedence over all other business of the court or of any of the judges and shall be heard and determined as soon as possible. The contest shall be heard and determined without a jury, on the testimony thus taken and on any other legal testimony that may be adduced by any party. In judging the contest, the court shall proceed on the merits thereof and decide the same according to the Constitution and statutes of the Commonwealth.
 Code 1950, § 24-436; 1952, c. 489; 1970, c. 462, § 24.1-243; 1981, c. 570; 1993, c. 641.
 
 ## Virginia § 24.2-811
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-811. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-811/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-811. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-811/*
 
-§ 24.2-811. Costs and issuance of certificate of election
+§ 24.2-811
+. Costs and issuance of certificate of election.
 When the contest is decided, costs shall be taxed against the candidate filing the complaint if he is unsuccessful, or, if he is successful, against the counties and cities included in the area in which the election was held. A certificate of election shall be granted to the successful party, unless he has already received one.
 Code 1950, §§ 24-395.3, 24-437; 1952, c. 489; 1970, c. 462, § 24.1-244; 1993, c. 641.
 
 ## Virginia § 24.2-812
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-812. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-812/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-812. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-812/*
 
-§ 24.2-812. Proceedings when court decides no valid election has been held
+§ 24.2-812
+. Proceedings when court decides no valid election has been held.
 If the court decides that there has been no valid election of any person, it shall declare the election void and the vacancy shall be filled in conformity with §§
 24.2-226
 and
@@ -9468,9 +12145,10 @@ Code 1950, § 24-438; 1970, c. 462, § 24.1-245; 1993, c. 641.
 
 ## Virginia § 24.2-813
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-813. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-813/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-813. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-813/*
 
-§ 24.2-813. Proceedings in contest for nominee
+§ 24.2-813
+. Proceedings in contest for nominee.
 In deciding any contest of a primary election, if the court can determine the candidate who has received a plurality of valid votes in the primary, it shall certify the name of that candidate to the State Board and the proper electoral board or boards. The candidate so certified shall be the party nominee and his name shall be printed on the official ballot for the election for which the primary was held. The name of no other person who was a candidate for the contested office in the primary shall be printed on the official ballots as a candidate for that office.
 If the court is unable to determine which primary candidate received a plurality of valid votes or if the court decides that there has been no valid election, the party nominee shall be determined in accordance with the provisions of §
 24.2-539
@@ -9479,9 +12157,10 @@ Code 1950, § 24-395.1; 1952, c. 489; 1970, c. 462, § 24.1-246; 1993, c. 641.
 
 ## Virginia § 24.2-814
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-814. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-814/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-814. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter8/section24.2-814/*
 
-§ 24.2-814. Contest following recount
+§ 24.2-814
+. Contest following recount.
 A candidate in a primary or an election to office, who was originally declared a winner and subsequently loses as the result of a recount, may file either (i) notice of his intent to contest the result in accordance with §
 24.2-803
 or
@@ -9511,9 +12190,10 @@ This section shall not be applicable to a contest of an election for the Preside
 
 ## Virginia § 24.2-900
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-900. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-900/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-900. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9/section24.2-900/*
 
-§ 24.2-900. Repealed
+§§ 24.2-900 through 24.2-930
+. Repealed.
 Repealed by Acts 2006, cc.
 787
 and
@@ -9522,9 +12202,10 @@ and
 
 ## Virginia § 24.2-940
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-940. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-940/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-940. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.1/section24.2-940/*
 
-§ 24.2-940. Repealed
+§ 24.2-940
+. Repealed.
 Repealed by Acts 2006, cc.
 787
 and
@@ -9533,9 +12214,10 @@ and
 
 ## Virginia § 24.2-941
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-941. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-941/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-941. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.2/section24.2-941/*
 
-§ 24.2-941. Repealed
+§§ 24.2-941 through 24.2-944
+. Repealed.
 Repealed by Acts 2006, cc.
 787
 and
@@ -9544,9 +12226,10 @@ and
 
 ## Virginia § 24.2-945
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-945. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-945/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-945. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-945/*
 
-§ 24.2-945. Elections to which chapter applicable; chapter exclusive
+§ 24.2-945
+. Elections to which chapter applicable; chapter exclusive.
 A. The provisions of this chapter shall apply to all elections held in Virginia, including referenda, and to nominating conventions, mass meetings, and other methods to nominate a political party candidate for public office, except nominations and elections for (i) members of the United States Congress, (ii) President and Vice President of the United States, (iii) town office in a town with a population of less than 25,000, or (iv) political party committees.
 The provisions of this chapter shall be applicable to a candidate for a town office in a town with a population of less than 25,000 if (a) such candidate accepts contributions or makes expenditures in excess of $25,000 within the candidate's election cycle, as set forth in §
 24.2-947
@@ -9568,9 +12251,10 @@ B. This chapter shall constitute the exclusive and entire campaign finance discl
 
 ## Virginia § 24.2-945.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-945.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-945.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-945.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-945.1/*
 
-§ 24.2-945.1. Definitions
+§ 24.2-945.1
+. Definitions.
 A. As used in this chapter, unless the context requires a different meaning:
 "Authorization" means express approval or express consent by the candidate, the candidate's campaign committee, or an agent of the candidate or his campaign committee after coordination.
 "Campaign committee" means the committee designated by a candidate to receive all contributions and make all expenditures for him or on his behalf in connection with his nomination or election.
@@ -9635,9 +12319,10 @@ B. For the purpose of applying the filing and reporting requirements of this cha
 
 ## Virginia § 24.2-945.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-945.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-945.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-945.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-945.2/*
 
-§ 24.2-945.2. Persons required to file independent expenditure disclosure reports; filing deadline
+§ 24.2-945.2
+. Persons required to file independent expenditure disclosure reports; filing deadline.
 A. Any person, candidate campaign committee, or political committee that makes independent expenditures, in the aggregate during an election cycle, of $1,000 or more for a statewide election or $200 or more for any other election shall maintain records and report pursuant to this chapter all such independent expenditures made for the purpose of expressly advocating the election or defeat of a clearly identified candidate.
 B. Independent expenditure reports shall be due (i) within 24 hours of the time when the funds were expended or (ii) within 24 hours of the time when materials, as described in subsection A of this section, are published or broadcast to the public, whichever (i) or (ii) first occurs. The report filed by a political action committee or political party committee shall include the information required for a statement of organization as listed in subdivisions A 1 through A 8 of §
 24.2-949.2
@@ -9677,9 +12362,10 @@ C. Independent expenditure reports required by this section shall be filed elect
 
 ## Virginia § 24.2-946
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-946/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-946/*
 
-§ 24.2-946. (Effective July 1, 2026) Summary of election laws; forms; instructions
+§ 24.2-946
+. Summary of election laws; forms; instructions.
 A. The State Board shall summarize the provisions of the election laws relating to the Campaign Finance Disclosure Act of 2006 and provide for distribution of this summary and prescribed forms to each candidate, person, or committee on request or upon their first filing with the State Board pursuant to this chapter, whichever occurs first.
 B. The State Board shall designate the forms required for complying with this chapter which shall be the only such forms used in complying with the provisions of this chapter.
 C. The State Board shall provide, with the summary required by this section, instructions for persons filing reports pursuant to this chapter to assist them in completing the reports. The instructions shall include directions for the reporting of filing fees for any party nomination method. The instructions shall set out the requirements for retaining records and materials for implementing the review provisions of §
@@ -9705,9 +12391,10 @@ E. The State Board, in consultation with the Office of the Attorney General, sha
 
 ## Virginia § 24.2-946.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-946.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-946.1/*
 
-§ 24.2-946.1. Standards and requirements for electronic preparation and transmittal of campaign finance disclosure reports; database
+§ 24.2-946.1
+. Standards and requirements for electronic preparation and transmittal of campaign finance disclosure reports; database.
 A. The State Board shall review or cause to be developed and shall approve standards for the preparation, production, and transmittal by computer or electronic means of campaign finance reports required by this chapter. The State Board may prescribe the method of execution and certification of and the procedures for receiving electronically filed campaign finance reports required by this chapter in the office of the State Board or any local electoral board. The State Board may provide campaign finance report-creation software to filers without charge or at a reasonable cost.
 B. The State Board shall accept any campaign finance report filed by candidates for the General Assembly and statewide office by computer or electronic means in accordance with the standards approved by the Board and using software meeting standards approved by it. This information shall be made available to the public promptly by the Board through the Internet.
 C. The State Board of Elections shall develop and implement a centralized system to accept reports from candidates for local and constitutional offices. Such reports shall be filed in accordance with, and using software that meets, standards approved by the State Board. The State Board shall promptly notify the general registrar of the locality in which a candidate resides and make the information contained in the report available to the general registrar. In the case of a former candidate who is no longer seeking election but has not yet filed a final report as required by §
@@ -9751,9 +12438,10 @@ E. Other campaign finance reports required by this chapter to be filed by a comm
 
 ## Virginia § 24.2-946.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-946.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-946.2/*
 
-§ 24.2-946.2. Custody of reports; inspection and copying; exception for certain information
+§ 24.2-946.2
+. Custody of reports; inspection and copying; exception for certain information.
 A. All campaign finance reports required to be filed under this chapter shall be open to inspection by any person during the business hours of the office in which they are filed. Copies shall be produced for any person requesting them who shall pay the reasonable cost of the copies. Copies of such reports certified by the principal administrative officer in whose office they are kept shall be evidence in all courts to the same extent as the original report would be if produced and proved.
 Upon request from an individual granted protected voter status under the provisions of subsection B of §
 24.2-418
@@ -9791,9 +12479,10 @@ et seq.).
 
 ## Virginia § 24.2-946.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-946.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-946.3/*
 
-§ 24.2-946.3. Reporting of certain violations; penalties
+§ 24.2-946.3
+. Reporting of certain violations; penalties.
 A. It shall be the duty of the State Board to report any violation of the provisions of this chapter to the appropriate attorney for the Commonwealth. The State Board shall report to the attorney for the Commonwealth of the City of Richmond in the case of reporting requirements for campaign committees for statewide office and to the attorney for the Commonwealth of the county or city of the residence of a candidate for the General Assembly. For political committees, the State Board shall report the violation to the attorney for the Commonwealth of the City of Richmond. If all the officers of a political committee are residents of one county or city as shown on the statement of organization required by this chapter, the State Board shall report violations for that political committee to the attorney for the Commonwealth of that county or city.
 B. It shall be the duty of the general registrar of a county or city to report any violation of the provisions of this chapter relating to the filing of campaign finance reports required to be filed with the general registrar to the attorney for the Commonwealth for the county or city in which the general registrar has jurisdiction.
 C. In order to fulfill the duty to report violations pursuant to subsections A and B, the Board shall establish and implement a system for receiving, cataloging, and reviewing reports filed pursuant to the provisions of this chapter and for verifying that reports are complete and submitted on time. As part of the system referred to in this subsection, the general registrar for each county and city shall be required, in accordance with instructions provided by the Board, to receive, catalog, and review the reports filed with the general registrar and to verify that the reports are complete and submitted on time.
@@ -9855,9 +12544,10 @@ I. The State Board shall determine the schedule of civil penalties required to b
 
 ## Virginia § 24.2-946.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-946.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-946.4/*
 
-§ 24.2-946.4. Right to grant extensions in special circumstances
+§ 24.2-946.4
+. Right to grant extensions in special circumstances.
 A. The State Board shall provide instructions to filers for delivery of campaign finance reports within the time periods prescribed by law.
 B. Notwithstanding any other provision of law, any candidate or treasurer required to file a report pursuant to this chapter shall be entitled to a 72-hour extension of the filing deadline if his spouse, parent, grandparent, child, grandchild, or sibling died within the 72 hours before the deadline. The State Board or the general registrar shall be authorized to grant an extension of the filing deadline for a period not to exceed five days for good cause shown by the filer and found by the Board or registrar sufficient to justify the granting of the extension.
 C. The Commissioner of Elections shall have additional authority to extend a deadline established in this chapter for filing reports in emergency situations that interfere with the timely filing of reports. The extension shall be limited in scope to the areas and times affected by the emergency. The provisions of this subsection shall be applicable only in the case of an emergency declared by the Governor pursuant to Chapter 3.2 (§
@@ -9930,9 +12620,10 @@ and
 
 ## Virginia § 24.2-946.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-946.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-946.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-946.5/*
 
-§ 24.2-946.5. Dormant committees
+§ 24.2-946.5
+. Dormant committees.
 A. The State Board or the general registrar of any county or city may close the file of any candidate campaign committee or political committee required to file with it provided the committee has not filed a final report and the Board or registrar cannot locate either the candidate or his campaign treasurer, or in the case of any political committee, the Board or registrar cannot locate the treasurer or custodian of the books of the committee. A candidate campaign committee file shall not be closed if the candidate has filed a report with the Board or registrar for any campaign for any office within the prior five years. A political committee file shall not be closed if the committee has filed a report within the prior five years.
 B. Once the committee's file has been closed, no more reports will be due and no additional penalties for failure to file will accrue. However, if the whereabouts of the candidate or his campaign treasurer, or in the case of any political committee, the treasurer or custodian of the books of the committee, later becomes known to the Board or registrar, it may reopen the file and send notice to the candidate, or in the case of any political committee, the treasurer or custodian of the books of the committee, requesting that he file the appropriate reports and pay any penalties that were levied before the file was closed by it.
 1975, c. 515, § 24.1-262; 1984, c. 480, § 24.1-257.1; 1986, c. 558, § 24.1-257.2; 1988, c. 734; 1990, c. 976; 1991, c. 709; 1993, c. 641, § 24.2-929; 1994, c.
@@ -9975,9 +12666,10 @@ B. Once the committee's file has been closed, no more reports will be due and no
 
 ## Virginia § 24.2-947
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947/*
 
-§ 24.2-947. Candidate election cycle
+§ 24.2-947
+. Candidate election cycle.
 The candidate's election cycle shall be deemed to begin on January 1 of the year that the candidate first seeks election for the office through December 31 immediately following the election for such office. The next election cycle, and any subsequent election cycles, for the candidate who seeks election for successive terms in the same office shall begin on January 1 immediately following each election for the same office and continue through December 31 immediately following the next successive election for the same office. Solely for the purpose of filing reports pursuant to this article, a candidate with any activity to report in a new election cycle shall be presumed to be a candidate for election in the succeeding election.
 1970, c. 462, § 24.1-256; 1975, c. 515; 1990, c. 976; 1993, c. 641, § 24.2-906; 2003, c.
 248
@@ -9989,9 +12681,11 @@ The candidate's election cycle shall be deemed to begin on January 1 of the year
 
 ## Virginia § 24.2-947.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.1/*
 
-§ 24.2-947.1. Statement of organization
+This section has more than one version with varying effective dates. Scroll down to see all versions.
+§ 24.2-947.1
+. (Effective until January 1, 2027) Statement of organization.
 A. Any individual seeking or campaigning for an office of the Commonwealth or one of its governmental units in a party nomination process or general, primary, or special election shall file a statement of organization within 10 days of meeting any one of the following conditions:
 1. Acceptance of a contribution;
 2. Expenditure of any funds;
@@ -10013,7 +12707,7 @@ C. The statement of organization shall include the following information:
 6. The name of the financial institution for his campaign depository; and
 7. Such other information as shall be required by the State Board except that the account number for a designated depository account shall not be required.
 D. In the case of any candidate who seeks election for successive terms in the same office, the statement of organization filed by the candidate shall continue in effect for such successive elections, but the candidate shall file notice of any changes in the information provided on the form within 10 days of the change with the State Board, general registrar, or both, as appropriate.
-1970, c. 462, §§ 24.1-253, 24.1-254; 1971, Ex. Sess., c. 222; 1972, cc. 620, 622; 1975, c. 515; 1978, c. 778; 1983, c. 119; 1984, c. 480;  1993, c. 641, § 24.2-904; 1996, c.
+1970, c. 462, §§ 24.1-253, 24.1-254; 1971, Ex. Sess., c. 222; 1972, cc. 620, 622; 1975, c. 515; 1978, c. 778; 1983, c. 119; 1984, c. 480; 1993, c. 641, § 24.2-904; 1996, c.
 405
 ; 2003, c.
 248
@@ -10036,12 +12730,66 @@ D. In the case of any candidate who seeks election for successive terms in the s
 ; 2019, c.
 825
 .
+§
+24.2-947.1
+. (Effective January 1, 2027) Statement of organization.
+A. Any individual seeking or campaigning for an office of the Commonwealth or one of its governmental units in a party nomination process or general, primary, or special election shall file a statement of organization within 10 days of meeting any one of the following conditions:
+1. Acceptance of a contribution;
+2. Expenditure of any funds;
+3. The payment of a filing fee for any party nomination method;
+4. The filing of a candidate statement of qualification pursuant to §
+24.2-501
+;
+5. The appointment of a campaign treasurer, designation of a campaign committee, or designation of a campaign depository; or
+6. In the case of a candidate for a town office in a town with a population of less than 25,000 that has not otherwise adopted the provisions of this chapter by ordinance, acceptance of a contribution or expenditure of funds that brings the total amount of contributions accepted or funds expended to more than $25,000 within the candidate's election cycle, as set forth in §
+24.2-947
+.
+B. Candidates for statewide office shall file the statement with the State Board. Candidates for the General Assembly shall file the statement with the State Board and a copy of the statement with the general registrar of the locality of the candidate's residence. Candidates for local or constitutional office shall file the statement with the general registrar and, if the statement indicates that the candidate committee will be filing electronically, a copy with the State Board.
+C. The statement of organization shall include the following information:
+1. The full name and either the residence address of the candidate or the unique identifier assigned to the candidate in the voter registration system pursuant to subdivision A 1 of §
+24.2-404
+;
+2. The full name and mailing address for the campaign committee;
+3. The full name, residence address, and daytime phone number of the treasurer;
+4. The office being sought and district, if any, for the office;
+5. The recognized political party affiliation of the candidate for statewide office or the General Assembly. In the absence of any political party affiliation, independent shall be used;
+6. The name of the financial institution for his campaign depository; and
+7. Such other information as shall be required by the State Board except that the account number for a designated depository account shall not be required.
+D. In the case of any candidate who seeks election for successive terms in the same office, the statement of organization filed by the candidate shall continue in effect for such successive elections, but the candidate shall file notice of any changes in the information provided on the form within 10 days of the change with the State Board, general registrar, or both, as appropriate.
+1970, c. 462, §§ 24.1-253, 24.1-254; 1971, Ex. Sess., c. 222; 1972, cc. 620, 622; 1975, c. 515; 1978, c. 778; 1983, c. 119; 1984, c. 480; 1993, c. 641, § 24.2-904; 1996, c.
+405
+; 2003, c.
+248
+; 2004, cc.
+441
+,
+480
+; 2006, cc.
+787
+,
+892
+; 2007, cc.
+151
+,
+286
+; 2015, cc.
+644
+,
+645
+; 2019, c.
+825
+; 2026, cc.
+228
+,
+229
+.
 
 ## Virginia § 24.2-947.10
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.10. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.10/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.10. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.10/*
 
-§ 24.2-947.10. Filing requirements for persons with multiple campaign committees
+§ 24.2-947.10
+. Filing requirements for persons with multiple campaign committees.
 Any person who is named as the candidate on the statement of organization for more than one campaign committee required to file campaign finance reports under this article shall have separate campaign finance reports filed for all such campaign committees by the deadline for filing campaign finance reports for any such campaign committee. Such campaign finance reports shall be complete through the period prescribed for the associated deadline.
 2020, c.
 347
@@ -10049,9 +12797,10 @@ Any person who is named as the candidate on the statement of organization for mo
 
 ## Virginia § 24.2-947.11
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.11. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.11/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.11. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.11/*
 
-§ 24.2-947.11. Special report required of certain large pre-legislative session contributions
+§ 24.2-947.11
+. Special report required of certain large pre-legislative session contributions.
 A. Any candidate for a statewide office or the General Assembly shall, not later than January 15, file a report with the State Board of any single contribution in excess of $1,000, or any combination of contributions with an aggregate value in excess of $1,000 from a single person, that is knowingly received or reported by the candidate or his treasurer on behalf of his candidacy during the period beginning January 1 and ending on the day immediately before the first day of a regular session of the General Assembly. This report shall be filed as provided in §
 24.2-947.5
 , and the report shall be received by the State Board not later than January 15.
@@ -10064,9 +12813,10 @@ B. Any contribution reported pursuant to subsection A shall not be required to b
 
 ## Virginia § 24.2-947.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.2/*
 
-§ 24.2-947.2. Campaign depositories; reimbursements of expenses; petty cash fund
+§ 24.2-947.2
+. Campaign depositories; reimbursements of expenses; petty cash fund.
 A. Upon meeting any of the requirements of subsection A of §
 24.2-947.1
 , the candidate shall designate a campaign depository, which shall be maintained in a financial institution within the Commonwealth, in an account properly identifying the name of and the existence of the political candidacy.
@@ -10106,9 +12856,10 @@ D. 1. Notwithstanding the provisions of this section pertaining to campaign comm
 
 ## Virginia § 24.2-947.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.3/*
 
-§ 24.2-947.3. Campaign committee treasurer requirements and responsibilities
+§ 24.2-947.3
+. Campaign committee treasurer requirements and responsibilities.
 A. Upon meeting any of the requirements of subsection A of §
 24.2-947.1
 , the candidate shall appoint a single campaign treasurer who shall be a registered voter in Virginia. Every treasurer so appointed shall accept the appointment, in writing on the statement of organization, prior to the filing thereof. No individual shall act as treasurer unless the required statement of appointment has been filed. The same person may serve as campaign treasurer for more than one candidate.
@@ -10148,9 +12899,10 @@ G. It shall be unlawful for any candidate, his treasurer, or any person receivin
 
 ## Virginia § 24.2-947.3:1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.3:1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.3:1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.3:1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.3:1/*
 
-§ 24.2-947.3:1. Certain contributions received from federal political action and out-of-state political committees; campaign committee responsibilities
+§ 24.2-947.3:1
+. Certain contributions received from federal political action and out-of-state political committees; campaign committee responsibilities.
 Prior to accepting contributions of $10,000 or more in the aggregate in any calendar year from any one federal political action committee or out-of-state political committee, the candidate campaign committee shall (i) request the federal political action committee's or out-of-state political committee's State Board of Elections registration number from the committee and (ii) verify that number with the State Board.
 2006, cc.
 771
@@ -10160,9 +12912,10 @@ Prior to accepting contributions of $10,000 or more in the aggregate in any cale
 
 ## Virginia § 24.2-947.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.4/*
 
-§ 24.2-947.4. Information to be included on campaign finance reports for campaign committees
+§ 24.2-947.4
+. Information to be included on campaign finance reports for campaign committees.
 A. The reports required by this article shall be filed on a form prescribed by the State Board and shall include all financial activity of the campaign committee. All completed forms shall be submitted in typed, printed, or legibly hand printed format or electronically as provided in §
 24.2-946.1
 . Persons submitting the forms shall do so subject to felony penalties for making false statements pursuant to §
@@ -10231,9 +12984,10 @@ G. It is the joint responsibility of the candidate and his treasurer that the re
 
 ## Virginia § 24.2-947.4:1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.4:1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.4:1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.4:1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.4:1/*
 
-§ 24.2-947.4:1. Loans to candidate campaign committees; prohibited interest payments; civil penalty
+§ 24.2-947.4:1
+. Loans to candidate campaign committees; prohibited interest payments; civil penalty.
 This section shall apply to any loan made to a candidate campaign committee by the candidate or by a member of his immediate family as that term is defined in §
 30-101
 . There shall be no interest paid to the candidate or his immediate family member by the candidate campaign committee on the amount of the loan, and the committee shall repay no more than the face value of the loan.
@@ -10244,9 +12998,10 @@ Any person who accepts or makes an interest payment in violation of this section
 
 ## Virginia § 24.2-947.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.5/*
 
-§ 24.2-947.5. With whom candidates file reports; electronic filing requirement
+§ 24.2-947.5
+. With whom candidates file reports; electronic filing requirement.
 A. Candidates for statewide office and for the General Assembly shall file the reports required by this article by computer or electronic means in accordance with the standards approved by the State Board.
 B. Candidates for local or constitutional office in any locality shall file reports required by this article with the State Board by computer or electronic means in accordance with the standards approved by the State Board and shall not be required to file reports with the general registrar of the locality in which the candidate resides.
 C. Except as provided in §
@@ -10300,9 +13055,10 @@ E. Any report that may be filed with the State Board by mail shall be (i) receiv
 
 ## Virginia § 24.2-947.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.6/*
 
-§ 24.2-947.6. Filing schedule for candidates for office; November elections
+§ 24.2-947.6
+. Filing schedule for candidates for office; November elections.
 A. Any candidate for any office to be filled at a November general election shall file the prescribed campaign finance reports as follows:
 1. Not later than July 15 in a nonelection year for the period January 1 through June 30;
 2. Not later than January 15 following a nonelection year for the period July 1 through December 31;
@@ -10334,9 +13090,10 @@ C. Any candidate shall also file any report of certain large contributions requi
 
 ## Virginia § 24.2-947.7
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.7. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.7/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.7. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.7/*
 
-§ 24.2-947.7. Filing schedule for candidates for office; May elections
+§ 24.2-947.7
+. Filing schedule for candidates for office; May elections.
 A. Any candidate for election to a local office to be filled at a May general election shall file the prescribed campaign finance reports as follows:
 1. Not later than July 15 in a nonelection year for the period January 1 through June 30;
 2. Not later than January 15 following a nonelection year for the period July 1 through December 31;
@@ -10368,9 +13125,10 @@ C. Any candidate shall also file any report of certain large contributions requi
 
 ## Virginia § 24.2-947.8
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.8. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.8/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.8. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.8/*
 
-§ 24.2-947.8. Filing requirements for special elections
+§ 24.2-947.8
+. Filing requirements for special elections.
 A. Candidates for nomination or election to an office to be filled by a special election held on a regular election date shall file the prescribed reports of contributions and expenditures which apply to regularly scheduled elections for that office.
 B. In the case of a special election held on a date other than a regularly scheduled general election, the candidate shall file as follows:
 1. A report not later than the eighth day before the special election date complete through the twelfth day before that date;
@@ -10398,9 +13156,10 @@ D. Any candidate shall also file any report of certain large contributions requi
 
 ## Virginia § 24.2-947.9
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.9. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-947.9/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-947.9. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-947.9/*
 
-§ 24.2-947.9. Special report required of certain large pre-election contributions
+§ 24.2-947.9
+. Special report required of certain large pre-election contributions.
 A. Any contribution reported pursuant to this section shall also be reported on the first report required by this article after any election.
 B. Except as provided in subsection C, any single contribution of $5,000 or more for a statewide office, $1,000 or more for the General Assembly, or $500 or more for any other office, knowingly received or reported by the candidate or his treasurer on behalf of his candidacy on and after the eleventh day preceding (i) a primary and before the primary date, (ii) a general election and before the general election date, or (iii) any other election in which the individual is a candidate and before the election day, shall be reported in writing as provided in §§
 24.2-947.4
@@ -10444,18 +13203,20 @@ E. Any person who is named as the candidate on the statement of organization for
 
 ## Virginia § 24.2-948
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948/*
 
-§ 24.2-948. Repealed
+§ 24.2-948
+. Repealed.
 Repealed by Acts 2010, c.
 696
 , cl. 2.
 
 ## Virginia § 24.2-948.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.1/*
 
-§ 24.2-948.1. Exemption from reporting requirements for certain candidates for local office and for directors of soil and water conservation districts
+§ 24.2-948.1
+. Exemption from reporting requirements for certain candidates for local office and for directors of soil and water conservation districts.
 A. This section shall apply to candidates for local office and for director of soil and water conservation districts. A candidate for local office or for director of a soil and water conservation district may seek an exemption from the requirements for filing campaign finance disclosure reports set out in this chapter except for the filing requirements of §§
 24.2-945.2
 ,
@@ -10502,9 +13263,10 @@ with a check drawn on the candidate's personal account.
 
 ## Virginia § 24.2-948.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.2/*
 
-§ 24.2-948.2. Reports as condition to qualification for office
+§ 24.2-948.2
+. Reports as condition to qualification for office.
 A. No person shall be permitted to qualify for any office, enter upon the duties thereof, or receive any salary or emoluments therefrom until he has filed the campaign finance reports required in subdivisions A 3 through A 9 of §
 24.2-947.6
 ; subdivisions A 3 through A 6 of §
@@ -10547,9 +13309,10 @@ in the case of a May election, upon the filing of a postelection report complete
 
 ## Virginia § 24.2-948.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.3/*
 
-§ 24.2-948.3. Compliance with reporting requirements of campaign finance disclosure act as requirement of candidacy for certain offices
+§ 24.2-948.3
+. Compliance with reporting requirements of campaign finance disclosure act as requirement of candidacy for certain offices.
 A. It shall be a requirement of candidacy in any election for statewide office or the General Assembly that the candidate shall have filed the disclosure reports required by this chapter for any election in which he participated as a candidate for any such office and which was held within the five years preceding the date of the election in which he seeks to be a candidate. For the purposes of this section, the candidate shall be presumed to have complied with the candidate disclosure reporting requirements unless (i) the State Board or general registrar, whichever is appropriate, has notified the candidate, at least 60 days prior to the applicable deadline for him to file his written statement of qualification set out in §
 24.2-503
 , that he has failed to file a required report or reports and (ii) the candidate fails to file the specified report or reports by the applicable deadline for filing his written statement of qualification.
@@ -10570,9 +13333,10 @@ shall include the authority to grant such extension with respect to the requirem
 
 ## Virginia § 24.2-948.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.4/*
 
-§ 24.2-948.4. (Effective July 1, 2026) Final report requirement; disbursement of surplus funds
+§ 24.2-948.4
+. Final report requirement; disbursement of surplus funds.
 A. A final report shall be filed by every campaign committee that sets forth (i) all receipts and disbursements not previously reported, (ii) an accounting of the retirement of all debts, and (iii) the disposition of all surplus funds as provided in subsection D. The final report shall include a termination statement, signed by the candidate, that all reporting for the campaign committee is complete and final. Once a campaign committee's final report has been filed, no further report relating to that election shall be required.
 B. A final report shall be required when (i) a candidate no longer seeks election to the same office in a successive election, (ii) a candidate seeks election to a different office, or (iii) the candidate is deceased.
 C. If the candidate is deceased, the final report shall be filed and signed by the treasurer. If the candidate was serving as his own treasurer, his executor shall file and sign the final report. Any excess contributed funds shall be disposed of pursuant to the provisions of subsection D.
@@ -10597,9 +13361,10 @@ D. Amounts received by a candidate or his campaign committee as contributions th
 
 ## Virginia § 24.2-948.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.5/*
 
-§ 24.2-948.5. Reviews of campaign finance reports and records
+§ 24.2-948.5
+. Reviews of campaign finance reports and records.
 A. The Department shall have the authority to review the reports and records of the campaign committees. The purposes of the review shall be to (i) reconcile the balance in the campaign depository with the amounts reported in the candidate's reports of receipts and expenditures and (ii) review the reports for mathematical accuracy and facial completeness including the reporting of specific information required by law. In the performance of its review, the Department is authorized to request the production of monthly bank statements for, and copies of checks issued on, campaign depositories and itemized bills, invoices, and receipts for any expenditure of campaign funds in an amount greater than $500.
 B. The Department shall review the reports and records of the campaign committees within 180 days following the general election. The Department shall review the reports and records of all of the campaign committees for candidates, including losing primary candidates, for statewide office; 10 percent of the campaign committees for candidates, including losing primary candidates, for the Senate and House of Delegates; and one percent of candidates, including losing primary candidates, for all other offices in any year in which such offices are elected. The State Board shall meet publicly to select the campaign committees to be reviewed by a drawing that ensures selection on a random basis.
 C. No review shall be conducted of a campaign committee for any office that has received less than $25,000 in contributions during the campaign, including the transfer of surplus funds from a prior campaign. Campaign committees for candidates that are exempt from review pursuant to this subsection shall not be included in the drawing provided for in subsection B or counted in determining the number that equals the relevant percentage of the campaign committees to be reviewed.
@@ -10611,9 +13376,10 @@ E. The Department shall make a report of the results of its reviews available to
 
 ## Virginia § 24.2-948.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.6/*
 
-§ 24.2-948.6. (Effective July 1, 2026) Use of campaign funds
+§ 24.2-948.6
+. Use of campaign funds.
 A. A contribution accepted by a candidate or his campaign committee may be used for the following purposes:
 1. For otherwise authorized expenditures in connection with the candidate's campaign;
 2. For ordinary and necessary expenses incurred in connection with the duties of the individual as an officeholder;
@@ -10641,10 +13407,13 @@ B. Contributions to a candidate or his campaign committee shall not be converted
 
 ## Virginia § 24.2-948.7
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.7. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.7/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.7. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.7/*
 
-§ 24.2-948.7. (Effective July 1, 2026) Violations of the ban on personal use of campaign funds; complaint; notice; hearing; civil penalties
-A. A person who believes a violation of § 24.2-948.6 has occurred and (i) contributes to a candidate or his campaign committee that has allegedly committed the violation or (ii) is qualified to vote in the election for the office for which such candidate is running is qualified to file a complaint with the Department. Such complaint shall be filed electronically or in writing on a form provided by the Department, signed and sworn to by the person filing such complaint, notarized, and made under penalty of perjury and subject to the provisions of §
+§ 24.2-948.7
+. Violations of the ban on personal use of campaign funds; complaint; notice; hearing; civil penalties.
+A. A person who believes a violation of §
+24.2-948.6
+has occurred and (i) contributes to a candidate or his campaign committee that has allegedly committed the violation or (ii) is qualified to vote in the election for the office for which such candidate is running is qualified to file a complaint with the Department. Such complaint shall be filed electronically or in writing on a form provided by the Department, signed and sworn to by the person filing such complaint, notarized, and made under penalty of perjury and subject to the provisions of §
 24.2-1016
 . The complaint shall clearly identify the complainant and the person against whom the complaint is addressed (the respondent) and contain (a) a credible allegation of a violation of §
 24.2-948.6
@@ -10704,10 +13473,13 @@ F. The State Board may, by a vote of four members, make a finding that a complai
 
 ## Virginia § 24.2-948.8
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.8. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.8/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.8. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.8/*
 
-§ 24.2-948.8. (Effective July 1, 2026) Advisory opinions
-A. Any person subject to the provisions of § 24.2-948.6 may submit a complete written request for an advisory opinion concerning the application of that section to a specific transaction or activity on a form provided by the Department. The Department shall transmit any such complete written request for an advisory opinion to the State Board.
+§ 24.2-948.8
+. Advisory opinions.
+A. Any person subject to the provisions of §
+24.2-948.6
+may submit a complete written request for an advisory opinion concerning the application of that section to a specific transaction or activity on a form provided by the Department. The Department shall transmit any such complete written request for an advisory opinion to the State Board.
 B. The State Board shall, upon receipt, make public any request for an advisory opinion. Before rendering an advisory opinion, the State Board shall accept written comments submitted by any interested party within the 10-day period following the date the request is made public.
 C. The State Board shall issue a written advisory opinion within 60 days of receipt of the request for an advisory opinion. However, if an advisory opinion is requested by a candidate or his campaign committee during the 60-day period before any election involving the requesting party, the State Board shall render a written advisory opinion relating to such request no later than 20 days after the State Board receives a complete written request.
 D. Any advisory opinion rendered by the State Board under subsection C may be relied upon by (i) any person involved in the specific transaction or activity with respect to which such advisory opinion is rendered and (ii) any person involved in any specific transaction or activity that is indistinguishable in all its material aspects from the transaction or activity with respect to which such advisory opinion is rendered.
@@ -10722,10 +13494,13 @@ E. Notwithstanding any other provision of law, any person who relies upon any pr
 
 ## Virginia § 24.2-948.9
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.9. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-948.9/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-948.9. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-948.9/*
 
-§ 24.2-948.9. (Effective July 1, 2026) Prohibited Personal Use Enforcement Fund
-There is hereby created in the state treasury a special nonreverting fund to be known as the Prohibited Personal Use Enforcement Fund, referred to in this section as "the Fund." The Fund shall be established on the books of the Comptroller. All civil penalties levied pursuant to § 24.2-948.7 shall be paid into the state treasury and credited to the Fund. Interest earned on moneys in the Fund shall remain in the Fund and be credited to it. Any moneys remaining in the Fund, including interest thereon, at the end of each fiscal year shall not revert to the general fund but shall remain in the Fund. Moneys in the Fund shall be used solely for the purposes of administering the provisions of §§
+§ 24.2-948.9
+. Prohibited Personal Use Enforcement Fund.
+There is hereby created in the state treasury a special nonreverting fund to be known as the Prohibited Personal Use Enforcement Fund, referred to in this section as "the Fund." The Fund shall be established on the books of the Comptroller. All civil penalties levied pursuant to §
+24.2-948.7
+shall be paid into the state treasury and credited to the Fund. Interest earned on moneys in the Fund shall remain in the Fund and be credited to it. Any moneys remaining in the Fund, including interest thereon, at the end of each fiscal year shall not revert to the general fund but shall remain in the Fund. Moneys in the Fund shall be used solely for the purposes of administering the provisions of §§
 24.2-948.6
 ,
 24.2-948.7
@@ -10740,9 +13515,10 @@ There is hereby created in the state treasury a special nonreverting fund to be 
 
 ## Virginia § 24.2-949
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949/*
 
-§ 24.2-949. Political action committee election cycle
+§ 24.2-949
+. Political action committee election cycle.
 The political action committee's election cycle shall be deemed to begin on January 1 and continue through December 31 of each calendar year.
 2006, cc.
 787
@@ -10752,9 +13528,10 @@ The political action committee's election cycle shall be deemed to begin on Janu
 
 ## Virginia § 24.2-949.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.1/*
 
-§ 24.2-949.1. Establishment of political action committees by certain entities
+§ 24.2-949.1
+. Establishment of political action committees by certain entities.
 Any stock or nonstock corporation, labor organization, membership organization, cooperative, or other group of persons may establish and administer for political purposes, and solicit and expend contributions for, a political action committee, provided that:
 1. No political action committee shall make a contribution or expenditure by utilizing money or anything of value secured by physical force, job discrimination, financial reprisal, threat of force, or as a condition of employment.
 2. Any person soliciting a contribution to a political action committee shall, at the time of solicitation, inform the person being solicited of (i) his right to refuse to contribute without any reprisal and (ii) the political purposes of the committee.
@@ -10766,9 +13543,10 @@ Any stock or nonstock corporation, labor organization, membership organization, 
 
 ## Virginia § 24.2-949.10
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.10. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.10/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.10. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.10/*
 
-§ 24.2-949.10. Out-of-state political committees; statements of organization
+§ 24.2-949.10
+. Out-of-state political committees; statements of organization.
 A. Out-of-state political committees shall submit a statement of organization on or before the date on which the committee makes contributions of $10,000 or more in the aggregate in a calendar year to candidate campaign committees or political committees registered with the State Board of Elections.
 B. The statement of organization shall include information as required pursuant to subsection B of §
 24.2-949.2
@@ -10786,9 +13564,10 @@ E. Any political organization as defined in § 527 of the United States Internal
 
 ## Virginia § 24.2-949.11
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.11. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.11/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.11. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.11/*
 
-§ 24.2-949.11. Out-of-state political committees; reporting requirements
+§ 24.2-949.11
+. Out-of-state political committees; reporting requirements.
 A. The provisions of this section are applicable only to out-of-state political committees.
 B. After the committee has met the requirements of §
 24.2-949.10
@@ -10816,9 +13595,10 @@ E. The reporting requirements of this section shall continue in effect for each 
 
 ## Virginia § 24.2-949.12
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.12. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.12/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.12. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.12/*
 
-§ 24.2-949.12. Out-of-state political committees; additional requirements
+§ 24.2-949.12
+. Out-of-state political committees; additional requirements.
 Prior to accepting contributions of $10,000 or more in the aggregate in any calendar year from any other out-of-state political committee, an out-of-state political committee shall (i) request its State Board of Elections registration number from that other out-of-state political committee and (ii) verify that number with the State Board.
 2006, cc.
 771
@@ -10828,9 +13608,10 @@ Prior to accepting contributions of $10,000 or more in the aggregate in any cale
 
 ## Virginia § 24.2-949.13
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.13. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.13/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.13. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.13/*
 
-§ 24.2-949.13. Certain contributions received from federal political action and out-of-state political committees; political committee responsibilities
+§ 24.2-949.13
+. Certain contributions received from federal political action and out-of-state political committees; political committee responsibilities.
 Prior to accepting contributions of $10,000 or more in the aggregate in any calendar year from any one federal political action committee or out-of-state political committee, a political committee shall (i) request the federal political action committee's or out-of-state political committee's State Board of Elections registration number from the committee and (ii) verify that number with the State Board.
 2006, cc.
 771
@@ -10840,9 +13621,10 @@ Prior to accepting contributions of $10,000 or more in the aggregate in any cale
 
 ## Virginia § 24.2-949.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.2/*
 
-§ 24.2-949.2. Statement of organization for a political action committee
+§ 24.2-949.2
+. Statement of organization for a political action committee.
 A. Except as provided in subsection B or C, each political action committee that anticipates receiving contributions or making expenditures in excess of $200 in a calendar year shall file with the State Board a statement of organization within 10 days after its organization, or if later, within 10 days after the date on which it has information that causes the committee to anticipate it will receive contributions or make expenditures in excess of $200 or on which it otherwise becomes subject to the provisions of this chapter. Any change in information previously submitted in a statement of organization shall be reported to the State Board within 10 days following the change.
 The statement of organization shall include:
 1. The name of the political action committee and its address in the Commonwealth;
@@ -10888,9 +13670,10 @@ The State Board shall be required to provide a link from its Internet website to
 
 ## Virginia § 24.2-949.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.3/*
 
-§ 24.2-949.3. Use of candidate's name in name of political committee
+§ 24.2-949.3
+. Use of candidate's name in name of political committee.
 A. No political action committee required to file a statement of organization pursuant to §
 24.2-949.2
 shall include in any part of its name the name of a candidate unless the political action committee either (i) has obtained, prior to filing, the written authorization of the candidate to use the candidate's name as part of the name of the political action committee or (ii) has mailed by certified mail, 21 or more days prior to filing, written notice to the candidate of its intent to use his name as part of the name of the political action committee.
@@ -10909,9 +13692,10 @@ either (i) a copy of the written authorization of the candidate consenting to th
 
 ## Virginia § 24.2-949.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.4/*
 
-§ 24.2-949.4. Political action committee treasurer requirements and responsibilities
+§ 24.2-949.4
+. Political action committee treasurer requirements and responsibilities.
 A. The treasurer shall keep detailed and accurate accounts of all contributions turned over to and expenditures made by the committee, the treasurer, or other officer on behalf of the political action committee, or reported to the treasurer pursuant to this chapter. Such account shall set forth the date of the contribution or expenditure, its amount or value, the name and address of the person or committee making the contribution or to whom the expenditure was made, and the object or purpose of the contribution or expenditure.
 Such books and records may be destroyed or discarded at any time after (i) one year from the date of filing the final report required by §
 24.2-949.9
@@ -10932,9 +13716,10 @@ E. A treasurer of a political action committee (i) may establish a petty cash fu
 
 ## Virginia § 24.2-949.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.5/*
 
-§ 24.2-949.5. Information to be included on campaign finance reports for political action committees
+§ 24.2-949.5
+. Information to be included on campaign finance reports for political action committees.
 A. The reports required by this article shall be filed on a form prescribed by the State Board and shall include all financial activity of the political action committee. All completed forms shall be submitted in typed, printed, or legibly hand printed format or electronically as provided in §
 24.2-946.1
 . Persons submitting the forms shall do so subject to felony penalties for making false statements pursuant to §
@@ -11001,9 +13786,10 @@ H. It is the responsibility of the treasurer that the report for the political a
 
 ## Virginia § 24.2-949.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.6/*
 
-§ 24.2-949.6. Filing schedule for political action committees
+§ 24.2-949.6
+. Filing schedule for political action committees.
 A. Political action committees shall file the prescribed campaign finance reports with the State Board in accordance with the applicable provisions of this section. The first filed report shall be complete for the entire period from the time the committee was organized or contributions were received.
 B. The reporting requirements shall continue in effect for each committee until a final report is filed.
 C. Political action committees shall file the prescribed campaign finance reports as follows:
@@ -11046,9 +13832,10 @@ for that year, complete through the date that it files its statement of organiza
 
 ## Virginia § 24.2-949.7
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.7. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.7/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.7. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.7/*
 
-§ 24.2-949.7. Large dollar contribution reporting requirement for political action committees
+§ 24.2-949.7
+. Large dollar contribution reporting requirement for political action committees.
 In addition to the scheduled reports required by §
 24.2-949.6
 , political action committees shall report any single contribution or loan of $10,000 or more received at any time during the calendar year within three business days of receipt of the contribution or loan.
@@ -11079,9 +13866,10 @@ following receipt of the contribution or loan.
 
 ## Virginia § 24.2-949.7:1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.7:1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.7:1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.7:1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.7:1/*
 
-§ 24.2-949.7:1. Special report required of certain large pre-election expenditures
+§ 24.2-949.7:1
+. Special report required of certain large pre-election expenditures.
 A. Any contribution or expenditure reported pursuant to this section shall also be reported on the first report required by this article after any election.
 B. Political action committees shall report any single contribution received or expenditure made of $1,000 or more between May 26 and the third Tuesday in June in odd-numbered years. Such contribution or expenditure shall be reported electronically pursuant to §
 24.2-946.1
@@ -11095,9 +13883,10 @@ C. Political action committees shall report any single contribution received or 
 
 ## Virginia § 24.2-949.8
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.8. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.8/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.8. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.8/*
 
-§ 24.2-949.8. With whom political action committees file reports; electronic filing requirement
+§ 24.2-949.8
+. With whom political action committees file reports; electronic filing requirement.
 A. Political action committees required to file reports by this article shall file all statements and campaign finance reports with the State Board.
 B. A political action committee that is required by this chapter to file reports with the State Board, and that accepts contributions or makes expenditures in excess of $10,000 in any calendar year, or that accepted contributions or made expenditures in excess of $10,000 in the previous calendar year, shall file its reports with the State Board by computer or electronic means in accordance with the standards approved by the State Board until such time as the political action committee files a final report. Any political action committee that has been filing electronically, but does not anticipate accepting contributions or making expenditures in excess of $10,000 in the upcoming calendar year, may sign a waiver, on a form prescribed by the State Board, to exempt the committee from the electronic filing requirement for the calendar year. Such waiver form shall be submitted and received no later than the date the first report is due covering activity for that calendar year.
 C. For political action committees that are not subject to the provisions of subsection B, any report required to be filed with the State Board shall be deemed to be filed by the deadline for the report if it is mailed and postmarked not later than the deadline for filing the report.
@@ -11125,9 +13914,10 @@ C. For political action committees that are not subject to the provisions of sub
 
 ## Virginia § 24.2-949.9
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.9. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-949.9/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-949.9. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-949.9/*
 
-§ 24.2-949.9. Final report requirement; disbursement of surplus funds
+§ 24.2-949.9
+. Final report requirement; disbursement of surplus funds.
 A. Any political action committee that, after having filed a statement of organization, disbands or determines it will no longer receive contributions or make expenditures during the calendar year in an aggregate amount exceeding $200 shall so notify the State Board. A final report shall be filed by the committee that sets forth (i) all receipts and disbursements not previously reported, (ii) an accounting of the retirement of all debts, and (iii) the disposition of the committee's surplus funds. This final report shall include a termination statement, signed by the treasurer or other principal officer listed on the statement of organization, that all reporting for the committee is complete and final.
 B. Amounts received by a political action committee as contributions may be disposed of only by one or any combination of the following: (i) transferring the excess to an affiliated organization of the committee; (ii) returning the excess to a contributor in an amount not to exceed the contributor's original contribution; (iii) donating the excess to any organization described in § 170(c) of the Internal Revenue Code; (iv) contributing the excess to one or more candidates or to any political committee that has filed a statement of organization pursuant to this chapter; (v) contributing the excess to any political party committee; and (vi) defraying any ordinary, nonreimbursed expense related to the political action committee. It shall be unlawful for any person to convert any contributed moneys, securities, or like intangible personal property to his personal use or to the use of a member of the "immediate family," as that term is defined in §
 30-101
@@ -11144,9 +13934,10 @@ B. Amounts received by a political action committee as contributions may be disp
 
 ## Virginia § 24.2-950
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950/*
 
-§ 24.2-950. Political party committee election cycle
+§ 24.2-950
+. Political party committee election cycle.
 The political party committee's election cycle shall be deemed to begin on January 1 and continue through December 31 of each calendar year.
 2006, cc.
 787
@@ -11156,9 +13947,10 @@ The political party committee's election cycle shall be deemed to begin on Janua
 
 ## Virginia § 24.2-950.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.1/*
 
-§ 24.2-950.1. Certain political party committees exempt
+§ 24.2-950.1
+. Certain political party committees exempt.
 A. Except as provided in subsections B and C of this section and subsection D of §
 24.2-947.3
 , any local district, county, or city party committee shall be exempt from the reporting requirements of this chapter. Contributions made by such committee to any candidate, his campaign committee, or a political committee shall be reported by the recipient of the contribution in accordance with the provisions of this chapter.
@@ -11184,9 +13976,10 @@ C. Upon transfer of a designated contribution to a designated candidate's campai
 
 ## Virginia § 24.2-950.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.2/*
 
-§ 24.2-950.2. Statement of organization for a political party committee
+§ 24.2-950.2
+. Statement of organization for a political party committee.
 Except as provided in §
 24.2-950.1
 , each political party committee that anticipates receiving contributions or making expenditures in excess of $200 in a calendar year shall file with the State Board a statement of organization within 10 days after its organization, or if later, within 10 days after the date on which it has information that causes the committee to anticipate it will receive contributions or make expenditures in excess of $200 or on which it otherwise becomes subject to the provisions of this article. Any change in information previously submitted in a statement of organization shall be reported to the State Board within 10 days following the change.
@@ -11205,9 +13998,10 @@ The statement of organization shall include:
 
 ## Virginia § 24.2-950.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.3/*
 
-§ 24.2-950.3. Political party committee treasurer requirements and responsibilities
+§ 24.2-950.3
+. Political party committee treasurer requirements and responsibilities.
 A. The treasurer shall keep detailed and accurate accounts of all contributions turned over to and expenditures made by the political party committee, the treasurer, or other officer on behalf of the political party committee, or reported to the treasurer pursuant to this article. Such account shall set forth the date of the contribution or expenditure, its amount or value, the name and address of the person or committee making the contribution or to whom the expenditure was made, and the object or purpose of the contribution or expenditure.
 Such books and records may be destroyed or discarded at any time after (i) one year from the date of filing the final report required by §
 24.2-950.9
@@ -11228,9 +14022,10 @@ E. A treasurer of a political party committee (i) may establish a petty cash fun
 
 ## Virginia § 24.2-950.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.4/*
 
-§ 24.2-950.4. Information to be included on campaign finance reports for political party committees
+§ 24.2-950.4
+. Information to be included on campaign finance reports for political party committees.
 A. The reports required by this article shall be filed on a form prescribed by the State Board and shall include all financial activity of the political party committee. All completed forms shall be submitted in typed, printed, or legibly hand printed format or electronically as provided in §
 24.2-946.1
 . Persons submitting the forms shall do so subject to felony penalties for making false statements pursuant to §
@@ -11281,9 +14076,10 @@ H. It is the responsibility of the treasurer that the report for the political p
 
 ## Virginia § 24.2-950.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.5/*
 
-§ 24.2-950.5. Repealed
+§ 24.2-950.5
+. Repealed.
 Repealed by Acts 2008, cc.
 152
 and
@@ -11292,9 +14088,10 @@ and
 
 ## Virginia § 24.2-950.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.6/*
 
-§ 24.2-950.6. Filing schedule for political party committees
+§ 24.2-950.6
+. Filing schedule for political party committees.
 A. Political party committees shall file the prescribed campaign finance reports in accordance with the applicable provisions of this section. The first filed report shall be complete for the entire period from the time the committee was organized or contributions were received.
 B. The reporting requirements shall continue in effect for each committee until a final report is filed.
 C. Political party committees shall file the prescribed campaign finance reports as follows:
@@ -11322,9 +14119,10 @@ C. Political party committees shall file the prescribed campaign finance reports
 
 ## Virginia § 24.2-950.7
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.7. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.7/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.7. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.7/*
 
-§ 24.2-950.7. Large dollar reporting requirement for political party committees
+§ 24.2-950.7
+. Large dollar reporting requirement for political party committees.
 In addition to the quarterly reports required by §
 24.2-950.6
 , political party committees shall report any single contribution or loan of $10,000 or more received at any time during the calendar year within three business days of receipt of the contribution or loan.
@@ -11353,9 +14151,10 @@ following receipt of the contribution or loan.
 
 ## Virginia § 24.2-950.8
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.8. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.8/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.8. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.8/*
 
-§ 24.2-950.8. With whom political party committees file reports
+§ 24.2-950.8
+. With whom political party committees file reports.
 A. Except as provided in subsection B, a political party committee that is required by this chapter to file reports with the State Board, and that accepts contributions or makes expenditures in excess of $10,000 in any calendar year, or that accepted contributions or made expenditures in excess of $10,000 in the previous calendar year, shall file its reports with the State Board by computer or electronic means in accordance with the standards approved by the State Board until such time as the political party committee files a final report. Any political party committee that has been filing electronically, but does not anticipate accepting contributions or making expenditures in excess of $10,000 in the upcoming calendar year, may sign a waiver, on a form prescribed by the State Board, to exempt the committee from the electronic filing requirement for the calendar year. Such waiver form shall be submitted and received no later than the date the first report is due covering activity for that calendar year.
 B. A county, city, or local district political party committee shall not be required to file by computer or electronic means if it files its reports with the general registrar of that county or city.
 C. Other political party committees required to file reports by this article shall file all campaign finance reports with the State Board, if filing by electronic means, or with the State Board and the general registrar for its jurisdiction if filing campaign finance reports by nonelectronic means.
@@ -11387,9 +14186,10 @@ C. Other political party committees required to file reports by this article sha
 
 ## Virginia § 24.2-950.9
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.9. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-950.9/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-950.9. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-950.9/*
 
-§ 24.2-950.9. Final report requirement; transfer of surplus funds
+§ 24.2-950.9
+. Final report requirement; transfer of surplus funds.
 A. Any political party committee that, after having filed a statement of organization, disbands or determines it will no longer receive contributions or make expenditures during the calendar year in an aggregate amount exceeding $200 shall so notify the State Board. A final report shall be filed by the committee that sets forth (i) all receipts and disbursements not previously reported, (ii) an accounting of the retirement of all debts, and (iii) the disposition of the committee's surplus funds. This final report shall include a termination statement, signed by the treasurer or other principal officer listed on the statement of organization, that all reporting for the committee is complete and final.
 B. Amounts received by a political party committee as contributions may be disposed of only by one or any combination of the following: (i) transferring the excess to an affiliated organization of the committee; (ii) returning the excess to a contributor in an amount not to exceed the contributor's original contribution; (iii) donating the excess to any organization described in § 170(c) of the Internal Revenue Code; (iv) contributing the excess to one or more candidates or to any political committee that has filed a statement of organization pursuant to this chapter; (v) contributing the excess to any political party committee; and (vi) defraying any ordinary, nonreimbursed expense related to the political party committee. It shall be unlawful for any person to convert any contributed moneys, securities, or like intangible personal property to his personal use or to the use of a member of the "immediate family," as that term is defined in §
 30-101
@@ -11406,9 +14206,10 @@ B. Amounts received by a political party committee as contributions may be dispo
 
 ## Virginia § 24.2-951
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951/*
 
-§ 24.2-951. Referendum committee election cycle; political advertisement requirements
+§ 24.2-951
+. Referendum committee election cycle; political advertisement requirements.
 A. The referendum committee's election cycle shall be deemed to begin on the date that the referendum committee first organizes for the referendum through December 31 immediately following the referendum.
 B. The provisions of Chapter 9.5 (§
 24.2-955
@@ -11425,9 +14226,10 @@ et seq.) shall not be applicable to referendum committees subject to the provisi
 
 ## Virginia § 24.2-951.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.1/*
 
-§ 24.2-951.1. Statement of organization for a referendum committee
+§ 24.2-951.1
+. Statement of organization for a referendum committee.
 A. Any referendum committee subject to the provisions of this article shall file with the State Board a statement of organization within 10 days after its organization, or if later, within 10 days after the date on which it has information that causes the committee to anticipate it will receive contributions or make expenditures in excess of the pertinent amounts stated in the definition of referendum committee in §
 24.2-945.1
 . Any change in information previously submitted in a statement of organization shall be reported to the State Board within 10 days following the change.
@@ -11452,9 +14254,10 @@ B. The statement of organization for a referendum committee shall include:
 
 ## Virginia § 24.2-951.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.2/*
 
-§ 24.2-951.2. Referendum committee treasurer requirements and responsibilities
+§ 24.2-951.2
+. Referendum committee treasurer requirements and responsibilities.
 A. The treasurer shall keep detailed and accurate accounts of all contributions turned over to and expenditures made by the referendum committee, the treasurer, or other officer on behalf of the referendum committee, or reported to the treasurer pursuant to this article. Such account shall set forth the date of the contribution or expenditure, its amount or value, the name and address of the person or committee making the contribution or to whom the expenditure was made, and the object or purpose of the contribution or expenditure.
 Such books and records may be destroyed or discarded at any time after (i) one year from the date of filing the final report required by §
 24.2-951.9
@@ -11479,9 +14282,10 @@ E. A treasurer of a referendum committee (i) may establish a petty cash fund to 
 
 ## Virginia § 24.2-951.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.3/*
 
-§ 24.2-951.3. Information to be included on campaign finance reports for referendum committees
+§ 24.2-951.3
+. Information to be included on campaign finance reports for referendum committees.
 A. The reports required by this article shall be filed on a form prescribed by the State Board and shall include all financial activity of the referendum committee. All completed forms shall be submitted in typed, printed, or legibly hand printed format or electronically as provided in §
 24.2-946.1
 . Persons submitting the forms shall do so subject to felony penalties for making false statements pursuant to §
@@ -11545,9 +14349,10 @@ G. It is the responsibility of the treasurer that the report for the referendum 
 
 ## Virginia § 24.2-951.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.4/*
 
-§ 24.2-951.4. Filing schedule for referendum committees for referendums to be decided at November elections
+§ 24.2-951.4
+. Filing schedule for referendum committees for referendums to be decided at November elections.
 A. A referendum committee supporting or opposing a question on the ballot in a November election shall file the prescribed campaign finance reports as follows:
 1. Not later than July 15 in any year in which the referendum is not on the ballot for the period January 1 through June 30;
 2. Not later than January 15 in any year in which the referendum is not on the ballot for the period July 1 through December 31;
@@ -11574,9 +14379,10 @@ B. A referendum committee may either (i) file a final report within six months a
 
 ## Virginia § 24.2-951.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.5/*
 
-§ 24.2-951.5. Filing schedule for referendum committees for referendums to be decided at May general elections
+§ 24.2-951.5
+. Filing schedule for referendum committees for referendums to be decided at May general elections.
 A. A referendum committee supporting or opposing a question on the ballot at a May election shall file the prescribed campaign finance reports as follows:
 1. Not later than the eighth day before the election date complete through the eleventh day before the election date;
 2. Not later than June 15 of the election year complete through June 10; and
@@ -11596,9 +14402,10 @@ B. A referendum committee may either (i) file a final report within six months a
 
 ## Virginia § 24.2-951.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.6/*
 
-§ 24.2-951.6. Filing schedule for referendum committees for referendums to be decided at special elections
+§ 24.2-951.6
+. Filing schedule for referendum committees for referendums to be decided at special elections.
 A. A referendum committee supporting or opposing a question on the ballot at a special election shall file the prescribed campaign finance reports as follows:
 1. A report not later than the eighth day before the special election date complete through the eleventh day before that date; and
 2. A postelection report no later than the thirtieth day after the election.
@@ -11617,9 +14424,10 @@ B. A referendum committee may either (i) file a final report within six months a
 
 ## Virginia § 24.2-951.7
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.7. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.7/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.7. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.7/*
 
-§ 24.2-951.7. Large dollar contribution reporting requirement for referendum committees
+§ 24.2-951.7
+. Large dollar contribution reporting requirement for referendum committees.
 In addition to the reports required by §§
 24.2-951.4
 ,
@@ -11643,9 +14451,10 @@ and
 
 ## Virginia § 24.2-951.8
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.8. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.8/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.8. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.8/*
 
-§ 24.2-951.8. With whom referendum committees file reports; electronic filing requirement
+§ 24.2-951.8
+. With whom referendum committees file reports; electronic filing requirement.
 A. Referendum committees required to file statements or reports by this article shall file all reports with the State Board.
 B. A referendum committee that is required by this chapter to file reports with the State Board, and that accepts contributions or makes expenditures in excess of $10,000 in any calendar year, or that accepted contributions or made expenditures in excess of $10,000 in the previous calendar year, shall file its reports with the State Board by computer or electronic means in accordance with the standards approved by the State Board until such time as the referendum committee files a final report or until subject to the provisions of subsection B of §
 24.2-951.1
@@ -11679,9 +14488,10 @@ C. Any referendum committee that has been filing electronically, but does not an
 
 ## Virginia § 24.2-951.9
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.9. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-951.9/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-951.9. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-951.9/*
 
-§ 24.2-951.9. Final report requirement; disbursement of surplus funds
+§ 24.2-951.9
+. Final report requirement; disbursement of surplus funds.
 A. Any referendum committee that disbands after having filed a statement of organization shall so notify the State Board. A final report shall be filed by the committee that sets forth (i) all receipts and disbursements not previously reported, (ii) an accounting of the retirement of all debts, and (iii) the disposition of the committee's surplus funds. This final report shall include a termination statement, signed by the treasurer or other principal officer listed on the statement of organization, that all reporting for the committee is complete and final.
 B. Amounts received by a referendum committee as contributions may be disposed of only by one or any combination of the following: (i) transferring the excess to an affiliated organization of the committee; (ii) returning the excess to a contributor in an amount not to exceed the contributor's original contribution; (iii) donating the excess to any organization described in § 170(c) of the Internal Revenue Code; (iv) contributing the excess to one or more candidates or to any political committee that has filed a statement of organization pursuant to this chapter; (v) contributing the excess to any political committee; and (vi) defraying any ordinary, nonreimbursed expense related to the referendum committee. It shall be unlawful for any person to convert any contributed moneys, securities, or like intangible personal property to his personal use or to the use of a member of the "immediate family," as that term is defined in §
 30-101
@@ -11702,9 +14512,10 @@ B. Amounts received by a referendum committee as contributions may be disposed o
 
 ## Virginia § 24.2-952
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952/*
 
-§ 24.2-952. General provisions
+§ 24.2-952
+. General provisions.
 Any inaugural committee shall maintain all inaugural funds in a separate account and in such detail and form as to allow full compliance with this chapter. A candidate's campaign committee shall not serve as an inaugural fund committee.
 1991, cc. 474, 709, § 24.1-254.3; 1993, c. 641, § 24.2-913; 2006, cc.
 787
@@ -11714,9 +14525,10 @@ Any inaugural committee shall maintain all inaugural funds in a separate account
 
 ## Virginia § 24.2-952.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952.1/*
 
-§ 24.2-952.1. Statement of organization for an inaugural committee
+§ 24.2-952.1
+. Statement of organization for an inaugural committee.
 Each inaugural committee shall file with the State Board a statement of organization within 10 days after its organization. Any change in information previously submitted in a statement of organization shall be reported to the State Board within 10 days following the change.
 The statement of organization shall include:
 1. The name of the committee and its address in the Commonwealth;
@@ -11733,9 +14545,10 @@ The statement of organization shall include:
 
 ## Virginia § 24.2-952.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952.2/*
 
-§ 24.2-952.2. Inaugural committee treasurer requirements and responsibilities
+§ 24.2-952.2
+. Inaugural committee treasurer requirements and responsibilities.
 A. The treasurer shall keep detailed and accurate accounts of all contributions turned over to and expenditures made by the committee, the treasurer, or other officer on behalf of the inaugural committee, or reported to the treasurer pursuant to this article. Such account shall set forth the date of the contribution or expenditure, its amount or value, the name and address of the person or committee making the contribution or to whom the expenditure was made, and the object or purpose of the contribution or expenditure.
 Such books and records may be destroyed or discarded at any time after (i) one year from the date of filing the final report required by §
 24.2-952.7
@@ -11756,9 +14569,10 @@ E. A treasurer of an inaugural committee (i) may establish a petty cash fund to 
 
 ## Virginia § 24.2-952.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952.3/*
 
-§ 24.2-952.3. Information to be included on campaign finance reports for inaugural committees
+§ 24.2-952.3
+. Information to be included on campaign finance reports for inaugural committees.
 A. The reports required by this article shall be filed on a form prescribed by the State Board and shall include all financial activity of the inaugural committee. All completed forms shall be submitted in typed, printed, or legibly hand printed format or electronically as provided in §
 24.2-946.1
 . Persons submitting the forms shall do so subject to felony penalties for making false statements pursuant to §
@@ -11818,9 +14632,10 @@ G. It is the responsibility of the treasurer that the report for the inaugural c
 
 ## Virginia § 24.2-952.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952.4/*
 
-§ 24.2-952.4. Filing schedule for inaugural committees
+§ 24.2-952.4
+. Filing schedule for inaugural committees.
 An inaugural committee shall file the prescribed reports of contributions and expenditures as follows:
 1. Not later than March 15 immediately following the inauguration for all contributions and expenditures made prior to the preceding March 1;
 2. Not later than July 15 of the inauguration year complete through June 30;
@@ -11834,9 +14649,10 @@ An inaugural committee shall file the prescribed reports of contributions and ex
 
 ## Virginia § 24.2-952.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952.5/*
 
-§ 24.2-952.5. Large dollar contribution reporting requirement for inaugural committees
+§ 24.2-952.5
+. Large dollar contribution reporting requirement for inaugural committees.
 In addition to the reports required by §
 24.2-952.4
 , inaugural committees shall report any single contribution or loan of $10,000 or more received at any time during the calendar year within three business days of receipt of the contribution or loan.
@@ -11866,9 +14682,10 @@ following receipt of the contribution or loan.
 
 ## Virginia § 24.2-952.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952.6/*
 
-§ 24.2-952.6. With whom inaugural committees file reports; electronic filing requirement
+§ 24.2-952.6
+. With whom inaugural committees file reports; electronic filing requirement.
 A. Inaugural committees required to file reports by this chapter shall file all campaign finance reports with the State Board.
 B. An inaugural committee that is required by this chapter to file reports with the State Board, and that accepts contributions or makes expenditures in excess of $10,000 in any calendar year, or that accepted contributions or made expenditures in excess of $10,000 in the previous calendar year, shall file its reports with the State Board by computer or electronic means in accordance with the standards approved by the State Board until such time as the committee files a final report.
 C. Any inaugural committee that has been filing electronically, but does not anticipate accepting contributions or making expenditures in excess of $10,000 in the upcoming calendar year, may sign a waiver, on a form prescribed by the State Board, to exempt the committee from the electronic filing requirement for the calendar year. Such waiver form shall be submitted and received no later than the date the first report is due covering activity for that calendar year.
@@ -11908,9 +14725,10 @@ C. Any inaugural committee that has been filing electronically, but does not ant
 
 ## Virginia § 24.2-952.7
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.7. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-952.7/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-952.7. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-952.7/*
 
-§ 24.2-952.7. Final report requirement; disbursement of surplus funds
+§ 24.2-952.7
+. Final report requirement; disbursement of surplus funds.
 A. Any inaugural committee that, after having filed a statement of organization, disbands shall so notify the State Board. A final report shall be filed by the committee that sets forth (i) all receipts and disbursements not previously reported, (ii) an accounting of the retirement of all debts, and (iii) the disposition of the committee's surplus funds. This final report shall include a termination statement, signed by the treasurer or other principal officer listed on the statement of organization, that all reporting for the committee is complete and final.
 B. It shall be unlawful for any person to disburse any funds or receipts of an inaugural committee which are in excess of the amount necessary to defray expenditures for inaugural activities other than by one or any combination of the following: (i) returning the excess to a contributor in an amount not to exceed the contributor's original contribution or (ii) making one or more charitable contributions as defined in § 170(c) of the Internal Revenue Code. It shall be unlawful for any person to convert any contributed moneys, securities, or like intangible personal property to his personal use or to the use of a member of the "immediate family," as that term is defined in §
 30-101
@@ -11931,9 +14749,10 @@ B. It shall be unlawful for any person to disburse any funds or receipts of an i
 
 ## Virginia § 24.2-953
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-953/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-953/*
 
-§ 24.2-953. General provisions
+§ 24.2-953
+. General provisions.
 A. The procedures to enforce the provisions of this article are found in §
 24.2-946.3
 .
@@ -11985,9 +14804,10 @@ G. The requirements of this chapter for the filing of timely and complete statem
 
 ## Virginia § 24.2-953.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-953.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-953.1/*
 
-§ 24.2-953.1. Failure to file the required reports
+§ 24.2-953.1
+. Failure to file the required reports.
 A. In the case of a failure to file the statement of organization for a candidate campaign committee or political committee required by this chapter, there shall be a civil penalty not to exceed $500.
 B. In the case of the failure to file a required report, the candidate campaign committee or political committee shall be assessed a civil penalty not to exceed $500. In the case of the failure to file a report required pursuant to subsection D or E of §
 24.2-949.6
@@ -12011,9 +14831,10 @@ or 24.2-949.7:1 or a report required pursuant to subsection D or E of §
 
 ## Virginia § 24.2-953.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-953.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-953.2/*
 
-§ 24.2-953.2. Late filing of required reports
+§ 24.2-953.2
+. Late filing of required reports.
 A. In the case of the late filing of the statement of organization required by this chapter for a candidate campaign committee or political committee, there shall be a civil penalty not to exceed $500.
 B. In the case of a late filing of a required report, the candidate campaign committee or political committee shall be assessed a civil penalty not to exceed $500. In the case of a second or any subsequent such violation pertaining to one election cycle, the candidate campaign committee or political committee shall be assessed a civil penalty of $1,000 for each such late filing.
 2006, cc.
@@ -12024,9 +14845,10 @@ B. In the case of a late filing of a required report, the candidate campaign com
 
 ## Virginia § 24.2-953.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-953.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-953.3/*
 
-§ 24.2-953.3. Incomplete reports
+§ 24.2-953.3
+. Incomplete reports.
 A. In the case of a violation of this chapter that relates to the filing of an incomplete report, the violator shall be subject to a civil penalty not to exceed $500 unless a greater penalty is imposed pursuant to this section. However the civil penalty shall in no case exceed $500 unless the total of the filer's reportable contributions or the total of the filer's reportable expenditures is $10,000 or more.
 B. Prior to assessing a penalty pursuant to this section for the filing of an incomplete report, the Commissioner of Elections or the general registrar shall notify, by certified mail, the candidate and treasurer, or person or political committee required to file a report with that board, that a filed report has not been completed, citing the omissions from the report. No penalty shall be assessed if the information required to complete the report is filed within 10 days of the date of mailing the written notice.
 C. If the information required to complete the report is not filed within the 10-day period, the Commissioner of Elections or the general registrar shall then assess against the candidate and treasurer, who shall be jointly and severally liable, or person or political committee required to file a report, a civil penalty not to exceed $500. The Commissioner of Elections or the general registrar shall consider the following factors in determining the civil penalty assessed: the number of omissions, the amount of money involved, and the proportion of contributions or expenditures containing omissions.
@@ -12048,9 +14870,10 @@ G. The State Board shall notify the public through its official Internet website
 
 ## Virginia § 24.2-953.4
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.4. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-953.4/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.4. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-953.4/*
 
-§ 24.2-953.4. Additional civil penalties for late and incomplete filings for statewide campaigns
+§ 24.2-953.4
+. Additional civil penalties for late and incomplete filings for statewide campaigns.
 A. In addition to the penalties provided in §§
 24.2-953.1
 ,
@@ -12083,9 +14906,10 @@ F. Civil penalties collected pursuant to this section shall be payable to the St
 
 ## Virginia § 24.2-953.5
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.5. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-953.5/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.5. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-953.5/*
 
-§ 24.2-953.5. Additional penalties related to federal political action or out-of-state political committees
+§ 24.2-953.5
+. Additional penalties related to federal political action or out-of-state political committees.
 A. Acceptance of contributions of $10,000 or more in the aggregate in any calendar year from an unregistered federal political action committee or out-of-state political committee shall result in a civil penalty equal to the amount of the contributions made to a candidate campaign committee or political committee.
 B. The provisions of this subsection are applicable regardless of the assessment of a civil penalty pursuant to subsection A. The failure of any federal political action committee or out-of-state political committee to comply with the provisions of §
 24.2-949.2
@@ -12119,9 +14943,10 @@ and, after notice by the State Board, continues for more than five days to remai
 
 ## Virginia § 24.2-953.6
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.6. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-953.6/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-953.6. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.3/section24.2-953.6/*
 
-§ 24.2-953.6. Appeal of penalties
+§ 24.2-953.6
+. Appeal of penalties.
 A. Any person or committee shall have the right to appeal a civil penalty assessed to it pursuant to this chapter by filing a petition of appeal with the State Board, on a form prescribed by the State Board, within the 60 days following its actual receipt of written notice of such penalty. The petition shall state the grounds upon which the appeal is being made in addition to any additional information required by the State Board.
 B. The appeal shall be adjudicated by the State Board in a public hearing. The State Board shall develop procedures for the conduct of such hearing. At least 10 days prior to such hearing, the State Board shall send notice by certified mail to any person whose petitions of appeal will be reviewed at such hearing. Notice shall include the time, date, and place of the hearing.
 Consideration on appeal shall be limited to whether the petition and any supporting documents submitted by the petitioner establish (i) facts of circumstances present within a reasonable amount of time of the filing deadline that made filing or requesting an extension impracticable or (ii) an administrative error in the assessment of the penalty.
@@ -12136,9 +14961,10 @@ shall be tolled from the time the State Board receives a petition of appeal unti
 
 ## Virginia § 24.2-954
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-954. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-954/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-954. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.4/section24.2-954/*
 
-§ 24.2-954. Campaign fundraising; legislative sessions; penalties
+§ 24.2-954
+. Campaign fundraising; legislative sessions; penalties.
 A. No member of the General Assembly or statewide official and no campaign committee of a member of the General Assembly or statewide official shall solicit or accept a contribution for the campaign committee of any member of the General Assembly or statewide official, or for any political committee, from any person or political committee on and after the first day of a regular session of the General Assembly through adjournment sine die of that session.
 B. No person or political committee shall make or promise to make a contribution to a member of the General Assembly or statewide official or his campaign committee on and after the first day of a regular session of the General Assembly through adjournment sine die of that session.
 C. The restrictions of this section shall not apply to a contribution (i) made by a member of the General Assembly or statewide official from his personal funds or (ii) made to the campaign committee of a candidate in a special election.
@@ -12160,9 +14986,10 @@ E. Any person who violates, or aids, abets, or participates in the violation of,
 
 ## Virginia § 24.2-955
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-955/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-955/*
 
-§ 24.2-955. Scope of disclosure requirements
+§ 24.2-955
+. Scope of disclosure requirements.
 The disclosure requirements of this chapter apply to any sponsor of an advertisement in the print media, on radio or television, or placed or promoted for a fee on an online platform, the cost or value of which constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) except that the disclosure requirements of this chapter do not apply to (i) an individual who makes independent expenditures aggregating less than $1,000 in an election cycle for or against a candidate for statewide office or less than $200 in an election cycle for or against a candidate for any other office or (ii) an individual who incurs expenses only with respect to a referendum.
@@ -12180,9 +15007,10 @@ et seq.) except that the disclosure requirements of this chapter do not apply to
 
 ## Virginia § 24.2-955.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-955.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-955.1/*
 
-§ 24.2-955.1. Definitions
+§ 24.2-955.1
+. Definitions.
 As used in this chapter, unless the context requires a different meaning:
 "Advertisement" means any message appearing in the print media, on television, on radio, or on an online platform, that constitutes a contribution or expenditure under Chapter 9.3 (§
 24.2-945
@@ -12252,9 +15080,10 @@ and
 
 ## Virginia § 24.2-955.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-955.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-955.2/*
 
-§ 24.2-955.2. Publications not to receive compensation for advocating candidacy; penalties
+§ 24.2-955.2
+. Publications not to receive compensation for advocating candidacy; penalties.
 A. It shall be unlawful for any owner, proprietor, editor, manager, officer, clerk, agent, reporter, or employee of any newspaper, magazine, or periodical printed or published in this Commonwealth to accept or receive or agree to accept or receive, for himself or another, any money or other valuable consideration for such newspaper, magazine, or other periodical supporting or advocating the election or defeat of any candidate. But nothing in this section shall prevent any person, firm, or corporation engaged in the publication of any newspaper, magazine or periodical from receiving from any person compensation for printing and publishing any matter, article or articles advocating the election or defeat of any candidate, if a statement, "Paid Advertisement," appears in plain type in boldface Roman capitals in a conspicuous place at the beginning of the matter or article and the matter or article otherwise complies with the provisions of this chapter.
 B. The person accepting a "Paid Advertisement" for the newspaper, magazine or periodical shall require, and for one year shall retain a copy of, proof of the identity of the person who submits the advertisement for publication when the authorization statement on the advertisement is made pursuant to this chapter by an individual or entity other than a candidate, candidate campaign committee, political party committee, or political action committee. Proof of identity shall be submitted either (i) in person and include a valid Virginia driver's license, or any other identification card issued by a government agency of the Commonwealth, one of its political subdivisions, or the United States, or (ii) other than in person, in which case, the person submitting the advertisement shall provide a telephone number and the person accepting the advertisement may phone the person to verify the validity of the person's identifying information before publishing the advertisement. Any candidate clearly identified in the advertisement is entitled to the name of the person who submitted the advertisement after the publication of the advertisement in the newspaper, magazine, or periodical.
 C. Any such owner, proprietor, editor, manager, officer, clerk, agent, reporter, or employee violating the provisions of subsection A or B shall be subject to a civil penalty not to exceed $50; and, in the case of a willful violation, he shall be guilty of a Class 1 misdemeanor. The procedure to enforce the civil penalty provided in this section shall be as stated in Article 8 (§
@@ -12274,9 +15103,10 @@ Code 1950, § 24-406; 1952, c. 4; 1970, c. 462, § 24.1-276; 1991, c. 709; 1993,
 
 ## Virginia § 24.2-955.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-955.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-955.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-955.3/*
 
-§ 24.2-955.3. Penalties for violations of this chapter
+§ 24.2-955.3
+. Penalties for violations of this chapter.
 A. Any sponsor violating Article 2 (§
 24.2-956
 et seq.) shall be subject to a civil penalty not to exceed $25,000. In the case of a willful violation, he is guilty of a Class 1 misdemeanor.
@@ -12319,9 +15149,10 @@ F. Any civil penalties collected pursuant to an action under this section shall 
 
 ## Virginia § 24.2-956
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-956. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-956/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-956. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-956/*
 
-§ 24.2-956. Requirements for print media advertisements sponsored by a candidate campaign committee
+§ 24.2-956
+. Requirements for print media advertisements sponsored by a candidate campaign committee.
 It shall be unlawful for any candidate or candidate campaign committee to sponsor a print media advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless all of the following conditions are met:
@@ -12356,9 +15187,10 @@ et seq.) unless all of the following conditions are met:
 
 ## Virginia § 24.2-956.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-956.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-956.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-956.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-956.1/*
 
-§ 24.2-956.1. Requirements for print media advertisements sponsored by a person or political committee, other than a candidate campaign committee
+§ 24.2-956.1
+. Requirements for print media advertisements sponsored by a person or political committee, other than a candidate campaign committee.
 It shall be unlawful for any person or political committee to sponsor a print media advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless the following requirements are met:
@@ -12392,9 +15224,10 @@ et seq.) unless the following requirements are met:
 
 ## Virginia § 24.2-957
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-957/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-957/*
 
-§ 24.2-957. General provisions; applicability to advertisements in video format
+§ 24.2-957
+. General provisions; applicability to advertisements in video format.
 A. Television outlets and online platforms shall not be liable under this article for carriage of political advertisements that fail to include the disclosure requirements provided for in this article. This provision supersedes any contrary provisions of the Code of Virginia.
 B. If the sponsor does not have the option of controlling the audio, if any, heard during the television advertisement, the disclosure requirements shall be the same as for print media.
 C. The person accepting an advertisement for a television outlet shall require, and for one year shall retain a copy of, proof of identity of the person who submits the advertisement for broadcast. Proof of identity shall be submitted either (i) in person and include a valid Virginia driver's license, or any other identification card issued by a government agency of the Commonwealth, one of its political subdivisions, or the United States, or (ii) other than in person, in which case, the person submitting the advertisement shall provide a telephone number and the person accepting the advertisement may phone the person to verify the validity of the person's identifying information before broadcasting the advertisement.
@@ -12418,9 +15251,10 @@ E. An advertisement that is in video format and is placed or promoted for a fee 
 
 ## Virginia § 24.2-957.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-957.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-957.1/*
 
-§ 24.2-957.1. Requirements for television advertisements sponsored by a candidate or candidate campaign committee
+§ 24.2-957.1
+. Requirements for television advertisements sponsored by a candidate or candidate campaign committee.
 It shall be unlawful for any candidate or a candidate campaign committee to sponsor a television advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless the following requirements are met:
@@ -12450,9 +15284,10 @@ The candidate or the candidate campaign committee may provide the oral disclosur
 
 ## Virginia § 24.2-957.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-957.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-957.2/*
 
-§ 24.2-957.2. Requirements for television advertisements sponsored by a political committee
+§ 24.2-957.2
+. Requirements for television advertisements sponsored by a political committee.
 It shall be unlawful for a political committee to sponsor a television advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless the following requirements are met:
@@ -12484,9 +15319,10 @@ et seq.) unless the following requirements are met:
 
 ## Virginia § 24.2-957.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-957.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-957.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-957.3/*
 
-§ 24.2-957.3. Requirements for television advertisements sponsored by a person that is not a candidate campaign committee or political committee
+§ 24.2-957.3
+. Requirements for television advertisements sponsored by a person that is not a candidate campaign committee or political committee.
 A. It shall be unlawful for a person to sponsor a television advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless the following requirements are met:
@@ -12510,9 +15346,10 @@ C. If an advertisement is jointly sponsored, the disclosure statement shall incl
 
 ## Virginia § 24.2-958
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-958/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-958/*
 
-§ 24.2-958. General provisions; applicability to advertisements in audio format
+§ 24.2-958
+. General provisions; applicability to advertisements in audio format.
 A. Radio outlets and online platforms shall not be liable under this article for carriage of political advertisements that fail to include the disclosure requirements provided for in this article. This provision supersedes any contrary provisions of the Code of Virginia.
 B. The person accepting an advertisement for a radio outlet shall require, and for one year shall retain a copy of, proof of identity of the person who submits the advertisement for broadcast. Proof of identity shall be submitted either (i) in person and include a valid Virginia driver's license, or any other identification card issued by a government agency of the Commonwealth, one of its political subdivisions, or the United States, or (ii) other than in person, in which case, the person submitting the advertisement shall provide a telephone number and the person accepting the advertisement may phone the person to verify the validity of the person's identifying information before broadcasting the advertisement.
 C. Any disclosure statement required by this section shall be communicated in a conspicuous manner.
@@ -12535,9 +15372,10 @@ D. An advertisement that is in audio format and is placed or promoted for a fee 
 
 ## Virginia § 24.2-958.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-958.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-958.1/*
 
-§ 24.2-958.1. Requirements for radio advertisements sponsored by a candidate or candidate campaign committee
+§ 24.2-958.1
+. Requirements for radio advertisements sponsored by a candidate or candidate campaign committee.
 It shall be unlawful for a candidate or a candidate campaign committee to sponsor a radio advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless all of the following requirements are met:
@@ -12564,9 +15402,10 @@ et seq.) unless all of the following requirements are met:
 
 ## Virginia § 24.2-958.2
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958.2. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-958.2/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958.2. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-958.2/*
 
-§ 24.2-958.2. Requirements for radio advertisements sponsored by a political committee
+§ 24.2-958.2
+. Requirements for radio advertisements sponsored by a political committee.
 It shall be unlawful for a political committee to sponsor an advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless the following requirements are satisfied:
@@ -12589,9 +15428,10 @@ et seq.) unless the following requirements are satisfied:
 
 ## Virginia § 24.2-958.3
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958.3. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-958.3/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-958.3. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-958.3/*
 
-§ 24.2-958.3. Requirements for radio advertisements sponsored by a person that is not a candidate or political committee
+§ 24.2-958.3
+. Requirements for radio advertisements sponsored by a person that is not a candidate or political committee.
 A. It shall be unlawful for a person to sponsor an advertisement that constitutes an expenditure or contribution required to be disclosed under Chapter 9.3 (§
 24.2-945
 et seq.) unless the following requirements are met:
@@ -12615,9 +15455,10 @@ C. If an advertisement is jointly sponsored, the disclosure statement shall incl
 
 ## Virginia § 24.2-959
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-959. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-959/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-959. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-959/*
 
-§ 24.2-959. Requirements for campaign telephone calls sponsored by a candidate or candidate campaign committee
+§ 24.2-959
+. Requirements for campaign telephone calls sponsored by a candidate or candidate campaign committee.
 It shall be unlawful for any candidate or candidate campaign committee to make campaign telephone calls without disclosing, before the conclusion of each telephone call, information to identify the candidate or candidate campaign committee who has authorized and is paying for the calls unless such call is terminated prematurely by means beyond the maker's control.
 The person making the telephone call shall disclose the name of the candidate.
 It shall be unlawful for any candidate or candidate campaign committee making campaign telephone calls to intentionally modify the caller identification information of any campaign telephone call for the purpose of misleading the recipient as to the identity of the caller. If the call is made from an automatic dialing-announcing device and caller identification information includes a name associated with the telephone number, then the caller identification information shall include either the name of the candidate or candidate campaign committee as it appears on the statement of organization that has authorized and is paying for the calls, or the vendor conducting the calls on behalf of the candidate or candidate campaign committee. "Automatic dialing-announcing device" means the same as that term is defined in §
@@ -12638,9 +15479,10 @@ It shall also be unlawful (i) for any candidate or candidate campaign committee 
 
 ## Virginia § 24.2-959.1
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-959.1. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-959.1/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-959.1. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-959.1/*
 
-§ 24.2-959.1. Requirements for campaign telephone calls sponsored by a political committee or person other than a candidate or candidate campaign committee
+§ 24.2-959.1
+. Requirements for campaign telephone calls sponsored by a political committee or person other than a candidate or candidate campaign committee.
 It shall be unlawful for any person or political committee to make campaign telephone calls without disclosing, before the conclusion of each telephone call, information to identify the person or political committee who has authorized and is paying for the calls unless such call is terminated prematurely by means beyond the maker's control.
 The person making the telephone call shall disclose the following identifying information: the name of the political committee if the calls are authorized by that committee or an agent of that committee; and in the case of a committee that has filed a statement of organization under Chapter 9.3 (§
 24.2-945
@@ -12663,9 +15505,10 @@ It shall also be unlawful (i) for any person who contracts for campaign telephon
 
 ## Virginia § 24.2-960
 
-*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-960. Last changed: 2026-08-06. Source: https://law.lis.virginia.gov/vacode/24.2-960/*
+*Citation: Code of Virginia, Title 24.2 — Elections, § 24.2-960. Last changed: 2026-09-10. Source: https://law.lis.virginia.gov/vacode/title24.2/chapter9.5/section24.2-960/*
 
-§ 24.2-960. Identification and certification by online political advertisers
+§ 24.2-960
+. Identification and certification by online political advertisers.
 A. Prior to purchasing an online political advertisement from or promoting an online political advertisement on an online platform, a person shall identify himself to the online platform as an online political advertiser and certify to the online platform that he is permitted under state and local laws to lawfully purchase or promote for a fee online political advertisements.
 B. An online platform shall establish reasonable procedures to enable online political advertisers to comply with the identification and certification requirements of subsection A.
 C. An online platform may rely in good faith on the information provided by online political advertisers under this section when selling online political advertisements to online political advertisers.

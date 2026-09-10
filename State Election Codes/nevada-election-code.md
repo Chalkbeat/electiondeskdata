@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.leg.state.nv.us/NRS/NRS-293.html
 Sections: 7
+Currency: NRS reprint Rev. 9/9/2026 (2025R1 — 2025 regular and special sessions; biennial legislature) (checked 2026-09-10).
 
 ## Nevada § 293
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.sos.arkansas.gov/uploads/elections/Arkansas_Election_Laws_and_Constitution_2025_Edition.pdf
 Sections: 1
+Currency: SOS 'Election Laws of Arkansas' 2025 Edition (biennial; current through the 2025 session; next edition after the 2027 session) (checked 2026-09-10).
 
 ## Arkansas § Arkansas_Election_Laws_and_Constitution_2025_Edition.pdf
 

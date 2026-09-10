@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.oregonlegislature.gov/bills_laws/ors/ors246.html
 Sections: 13
+Currency: ORS 2025 Edition — by publisher design excludes the 2025 special session and 2026 regular session (2027 Edition due early 2028); see the Legislative Counsel's ORS Update tables for interim changes (checked 2026-09-10).
 
 ## Oregon § 246
 

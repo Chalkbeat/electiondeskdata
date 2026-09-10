@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://legislation.nysenate.gov/api/3/laws/ELN
 Sections: 457
+Currency: Live NY Senate OpenLegislation database; latest Election Law update published 2026-06-12 (checked 2026-09-10).
 
 ## New York § 1-100
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://gc.nh.gov/rsa/html/NHTOC/NHTOC-LXIII.htm
 Sections: 736
+Currency: RSAs current through the 2026 regular session (updated September 8 2026) (checked 2026-09-10).
 
 ## New Hampshire § 652-1
 

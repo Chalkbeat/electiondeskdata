@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://nebraskalegislature.gov/laws/browse-chapters.php?chapter=32
 Sections: 544
+Currency: Live official database, last updated May 27 2026 — 2026 session incorporated (checked 2026-09-10).
 
 ## Nebraska § 32-1001
 

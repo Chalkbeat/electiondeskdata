@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://revisor.mo.gov/main/OneChapter.aspx?chapter=115
 Sections: 365
+Currency: Live official Revisor site; 2026 session acts posted on their Aug 28 2026 effective date (site notes statutes are 'uncertified and unofficial' until certified) (checked 2026-09-10).
 
 ## Missouri § 115.003
 

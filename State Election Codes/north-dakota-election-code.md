@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://ndlegis.gov/cencode/t16-1c01.pdf
 Sections: 19
+Currency: Century Code reflecting the 69th Legislative Assembly (2025 regular session, posted July 2025); 2026 special sessions not confirmed incorporated (checked 2026-09-10).
 
 ## North Dakota § t16-1c01.pdf
 

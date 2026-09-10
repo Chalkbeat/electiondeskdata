@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.scstatehouse.gov/code/title7.php
 Sections: 13
+Currency: SC Code current through the 2025 session; 2026 session not yet incorporated (checked 2026-09-10).
 
 ## South Carolina § t07c001
 

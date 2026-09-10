@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://delcode.delaware.gov/title15/
 Sections: 303
+Currency: Delaware Code including all acts enacted as of August 25 2026 (through 85 Del. Laws c. 439) (checked 2026-09-10).
 
 ## Delaware § 100
 

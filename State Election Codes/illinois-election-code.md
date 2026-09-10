@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.ilga.gov/Legislation/ILCS/Acts?ChapterID=3&ChapterNumber=10&Chapter=ELECTIONS&MajorTopic=GOVERNMENT
 Sections: 49
+Currency: Live official ILGA database — current as maintained (checked 2026-09-10).
 
 ## Illinois § 10 ILCS 120/Art. 10 heading
 

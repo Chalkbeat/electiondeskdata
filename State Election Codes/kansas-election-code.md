@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.ksrevisor.gov/statutes/ksa_ch25.html
 Sections: 909
+Currency: Live official Revisor database; 2025 acts present; no publisher currency statement (checked 2026-09-10).
 
 ## Kansas § 25-1001
 

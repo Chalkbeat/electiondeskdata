@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://code.dccouncil.gov/us/dc/council/code/titles/1/chapters/10
 Sections: 56
+Currency: D.C. Code current through Aug 20 2026 (Law 26-175) (checked 2026-09-10).
 
 ## District of Columbia § 1-1001.01
 

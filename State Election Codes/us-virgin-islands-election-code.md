@@ -3,6 +3,7 @@
 Source: official text scraped from https://electionlawnavigator.org/state/virgin-islands/statutes/
 Sections: 222
 Attribution: Statute data via Election Law Navigator (electionlawnavigator.org) by The Election Law Program (William & Mary Law School / National Center for State Courts), CC BY-NC-SA 4.0. Used with attribution for nonprofit, noncommercial election helpdesk research.
+Currency: Election Law Navigator (W&M Election Law Program / NCSC) — data last updated November 20 2025; 2026 V.I. Legislature acts not yet reflected. Official V.I. Code is LexisNexis-only (checked 2026-09-10).
 
 ## U.S. Virgin Islands § 1
 

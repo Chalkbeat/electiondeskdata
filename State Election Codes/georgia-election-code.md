@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://archive.org/download/gov.ga.ocga.2024/T21%20%28V18%29%202023.txt
 Sections: 1
+Currency: WARNING — Public.Resource.Org copy of the 2023 replacement volume of OCGA Title 21 (acts through the 2023 session). The official OCGA is published only via LexisNexis; 2024, 2025 and 2026 session changes are NOT reflected here — verify against Georgia session laws (checked 2026-09-10).
 
 ## Georgia § OCGA-T21-V18-2023
 

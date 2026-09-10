@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://docs.legis.wisconsin.gov/document/statutes/5.pdf
 Sections: 8
+Currency: 2023-24 Wisconsin Statutes updated through 2025 Wis. Act 247 and Supreme Court Orders in effect September 4 2026 (published 9-4-26) (checked 2026-09-10).
 
 ## Wisconsin § 10.pdf
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://legislature.mi.gov/Laws/Index?ObjectName=mcl-Act-116-of-1954
 Sections: 1126
+Currency: Michigan Compiled Laws complete through PA 91 of 2026 (checked 2026-09-10).
 
 ## Michigan § 168.1
 

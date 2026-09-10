@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.mainelegislature.org/legis/statutes/21-A/title21-Ach0sec0.html
 Sections: 472
+Currency: Maine Revised Statutes current through October 1 2025 (First Special Session, 132nd Legislature); 2026 session not yet incorporated (checked 2026-09-10).
 
 ## Maine § 1
 

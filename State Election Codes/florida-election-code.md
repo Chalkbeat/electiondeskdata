@@ -2,6 +2,7 @@
 
 Source: official text scraped from http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0097/0097.html
 Sections: 11
+Currency: The 2026 Florida Statutes (Online Sunshine) (checked 2026-09-10).
 
 ## Florida § 0097
 

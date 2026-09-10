@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://webserver.rilegislature.gov/Statutes/TITLE17/INDEX.HTM
 Sections: 561
+Currency: General Laws updated through November 15 2025; 2026 session public laws not yet codified (checked 2026-09-10).
 
 ## Rhode Island § 17-1-1
 

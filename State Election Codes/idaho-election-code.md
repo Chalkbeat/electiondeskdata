@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://legislature.idaho.gov/statutesrules/idstat/title34/
 Sections: 384
+Currency: Idaho Statutes updated July 1 following each session — 2026 session incorporated (checked 2026-09-10).
 
 ## Idaho § 34-1001
 

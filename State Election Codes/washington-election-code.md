@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://app.leg.wa.gov/RCW/default.aspx?cite=29A
 Sections: 495
+Currency: RCW online master, last update July 15 2026 (updated twice yearly) (checked 2026-09-10).
 
 ## Washington § 29A.04.001
 

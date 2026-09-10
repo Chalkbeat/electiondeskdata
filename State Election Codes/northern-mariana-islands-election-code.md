@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://cnmilaw.gov/docs/cmc_section/T1/6001.pdf
 Sections: 162
+Currency: Commonwealth Code per-section PDFs (Law Revision Commission); update table last updated July 14 2026; latest Division 6 change P.L. 22-04 (checked 2026-09-10).
 
 ## Northern Mariana Islands § 6001.pdf
 

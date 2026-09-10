@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://legislature.vermont.gov/statutes/title/17
 Sections: 417
+Currency: Vermont Statutes including the 2025 session (publisher's unofficial online copy); 2026 adjourned session not yet incorporated (checked 2026-09-10).
 
 ## Vermont § 00001
 

@@ -1,6 +1,6 @@
 # Poll worker guides — index
 
-Compiled from 'Pollworker Guides.xlsx' on 2026-09-09. One file per jurisdiction; entries without a public statewide manual carry the research notes explaining the gap.
+Compiled from 'Pollworker Guides.xlsx' on 2026-09-10. One file per jurisdiction; entries without a public statewide manual carry the research notes explaining the gap.
 
 - **Alabama** — `pollworker-guide-alabama.md` — 1/1 documents captured
 - **Alaska** — `pollworker-guide-alaska.md` — 3/3 documents captured
@@ -8,39 +8,39 @@ Compiled from 'Pollworker Guides.xlsx' on 2026-09-09. One file per jurisdiction;
 - **Arkansas** — `pollworker-guide-arkansas.md` — 2/2 documents captured
 - **California** — `pollworker-guide-california.md` — 1/1 documents captured
 - **Colorado** — `pollworker-guide-colorado.md` — 1/1 documents captured
-- **Connecticut** — `pollworker-guide-connecticut.md` — 1/1 documents captured
+- **Connecticut** — `pollworker-guide-connecticut.md` — 4/4 documents captured
 - **Delaware** — `pollworker-guide-delaware.md` — 1/1 documents captured
-- **Florida** — `pollworker-guide-florida.md` — no public documents (notes only)
+- **Florida** — `pollworker-guide-florida.md` — 3/3 documents captured
 - **Georgia** — `pollworker-guide-georgia.md` — 1/1 documents captured
 - **Hawaii** — `pollworker-guide-hawaii.md` — 1/1 documents captured
-- **Idaho** — `pollworker-guide-idaho.md` — no public documents (notes only)
+- **Idaho** — `pollworker-guide-idaho.md` — 1/1 documents captured
 - **Illinois** — `pollworker-guide-illinois.md` — 1/1 documents captured
 - **Indiana** — `pollworker-guide-indiana.md` — 1/1 documents captured
 - **Iowa** — `pollworker-guide-iowa.md` — 1/1 documents captured
-- **Kansas** — `pollworker-guide-kansas.md` — no public documents (notes only)
+- **Kansas** — `pollworker-guide-kansas.md` — 1/1 documents captured
 - **Kentucky** — `pollworker-guide-kentucky.md` — 1/1 documents captured
-- **Louisiana** — `pollworker-guide-louisiana.md` — no public documents (notes only)
+- **Louisiana** — `pollworker-guide-louisiana.md` — 1/1 documents captured
 - **Maine** — `pollworker-guide-maine.md` — 1/1 documents captured
-- **Maryland** — `pollworker-guide-maryland.md` — no public documents (notes only)
+- **Maryland** — `pollworker-guide-maryland.md` — 2/2 documents captured
 - **Massachusetts** — `pollworker-guide-massachusetts.md` — no public documents (notes only)
-- **Michigan** — `pollworker-guide-michigan.md` — no public documents (notes only)
-- **Minnesota** — `pollworker-guide-minnesota.md` — no public documents (notes only)
+- **Michigan** — `pollworker-guide-michigan.md` — 3/3 documents captured
+- **Minnesota** — `pollworker-guide-minnesota.md` — 2/2 documents captured
 - **Mississippi** — `pollworker-guide-mississippi.md` — 1/1 documents captured
 - **Missouri** — `pollworker-guide-missouri.md` — 1/1 documents captured
 - **Montana** — `pollworker-guide-montana.md` — 3/3 documents captured
-- **Nebraska** — `pollworker-guide-nebraska.md` — no public documents (notes only)
+- **Nebraska** — `pollworker-guide-nebraska.md` — 1/1 documents captured
 - **Nevada** — `pollworker-guide-nevada.md` — 1/1 documents captured
 - **New Hampshire** — `pollworker-guide-new-hampshire.md` — 1/1 documents captured
 - **New Jersey** — `pollworker-guide-new-jersey.md` — 12/12 documents captured
-- **New Mexico** — `pollworker-guide-new-mexico.md` — no public documents (notes only)
-- **New York** — `pollworker-guide-new-york.md` — no public documents (notes only)
+- **New Mexico** — `pollworker-guide-new-mexico.md` — 1/1 documents captured
+- **New York** — `pollworker-guide-new-york.md` — 1/1 documents captured
 - **North Carolina** — `pollworker-guide-north-carolina.md` — no public documents (notes only)
 - **North Dakota** — `pollworker-guide-north-dakota.md` — 1/1 documents captured
 - **Ohio** — `pollworker-guide-ohio.md` — 1/1 documents captured
 - **Oklahoma** — `pollworker-guide-oklahoma.md` — 1/1 documents captured
 - **Oregon** — `pollworker-guide-oregon.md` — 2/2 documents captured
 - **Pennsylvania** — `pollworker-guide-pennsylvania.md` — 1/1 documents captured
-- **Rhode Island** — `pollworker-guide-rhode-island.md` — no public documents (notes only)
+- **Rhode Island** — `pollworker-guide-rhode-island.md` — 1/1 documents captured
 - **South Carolina** — `pollworker-guide-south-carolina.md` — 1/1 documents captured
 - **South Dakota** — `pollworker-guide-south-dakota.md` — 3/3 documents captured
 - **Tennessee** — `pollworker-guide-tennessee.md` — no public documents (notes only)
@@ -50,11 +50,11 @@ Compiled from 'Pollworker Guides.xlsx' on 2026-09-09. One file per jurisdiction;
 - **Virginia** — `pollworker-guide-virginia.md` — 2/2 documents captured
 - **Washington** — `pollworker-guide-washington.md` — 1/1 documents captured
 - **West Virginia** — `pollworker-guide-west-virginia.md` — 1/1 documents captured
-- **Wisconsin** — `pollworker-guide-wisconsin.md` — 2/2 documents captured
+- **Wisconsin** — `pollworker-guide-wisconsin.md` — 1/1 documents captured
 - **Wyoming** — `pollworker-guide-wyoming.md` — 1/1 documents captured
 - **District of Columbia** — `pollworker-guide-district-of-columbia.md` — no public documents (notes only)
 - **American Samoa** — `pollworker-guide-american-samoa.md` — no public documents (notes only)
 - **Guam** — `pollworker-guide-guam.md` — 1/1 documents captured
 - **Northern Mariana Islands** — `pollworker-guide-northern-mariana-islands.md` — no public documents (notes only)
 - **Puerto Rico** — `pollworker-guide-puerto-rico.md` — 1/1 documents captured
-- **U.S. Virgin Islands** — `pollworker-guide-u-s-virgin-islands.md` — no public documents (notes only)
+- **U.S. Virgin Islands** — `pollworker-guide-u-s-virgin-islands.md` — 1/1 documents captured

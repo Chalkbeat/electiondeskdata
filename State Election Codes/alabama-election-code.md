@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://alison.legislature.state.al.us/graphql?query=query%20%7B%20codesOfAlabama%28where%3A%20%7B%20type%3A%20%7B%20eq%3A%20Section%20%7D%2C%20displayId%3A%20%7B%20like%3A%20%2217-1-%25%22%20%7D%20%7D%2C%20limit%3A%201000%29%20%7B%20data%20%7B%20displayId%20title%20content%20history%20effectiveDate%20%7D%20%7D%20%7D
 Sections: 485
+Currency: Live official ALISON database; 2025 acts present; no publisher currency statement (checked 2026-09-10).
 
 ## Alabama § 17-1-1
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter50
 Sections: 620
+Currency: General Laws including all amendments passed before May 31 2026 (later 2026 acts: see 2026 Session Laws) (checked 2026-09-10).
 
 ## Massachusetts § Chapter50/Section1
 

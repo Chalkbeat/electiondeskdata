@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.legis.iowa.gov/docs/code/39.pdf
 Sections: 20
+Currency: Iowa Code 2026 (2025 acts codified; 2026 acts are codified in Iowa Code 2027, published Dec 2026) (checked 2026-09-10).
 
 ## Iowa § 39.pdf
 

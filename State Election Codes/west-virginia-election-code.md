@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://code.wvlegislature.gov/3/
 Sections: 374
+Currency: Live official WV Code — updated as legislation takes effect (checked 2026-09-10).
 
 ## West Virginia § 3-1-1
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from http://data.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0011/
 Sections: 304
+Currency: HRS current edition files posted January 2026 (2025 supplement); 2026 session acts not yet incorporated (checked 2026-09-10).
 
 ## Hawaii § 0011-
 

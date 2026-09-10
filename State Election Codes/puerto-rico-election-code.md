@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://bvirtualogp.pr.gov/ogp/Bvirtual/leyesreferencia/PDF/58-2020.pdf
 Sections: 1
+Currency: Código Electoral 2020 (Ley 58-2020) as amended through Ley 105 of June 10 2026 (OGP revision June 11 2026) (checked 2026-09-10).
 
 ## Puerto Rico § 58-2020.pdf
 

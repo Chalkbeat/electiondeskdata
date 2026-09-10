@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://wyoleg.gov/statutes/compress/title22.pdf
 Sections: 1
+Currency: Title 22 PDF generated May 2026 (after the 2026 Budget Session); no publisher currency statement (checked 2026-09-10).
 
 ## Wyoming § title22.pdf
 

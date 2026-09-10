@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://tcss.legis.texas.gov/resources/EL/htm/EL.1.htm
 Sections: 107
+Currency: Live official Texas Legislature statute host; cites through the 2025 89th Legislature regular session; no 2026 regular session (checked 2026-09-10).
 
 ## Texas § 1
 

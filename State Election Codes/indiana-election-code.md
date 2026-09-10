@@ -1,11 +1,12 @@
 # Indiana — Indiana Code, Title 3 — Elections
 
-Source: official text scraped from https://iga.in.gov/ic/2025/Title_3.html
+Source: official text scraped from https://iga.in.gov/ic/2026/Title_3.html
 Sections: 1
+Currency: Indiana Code 2026 edition (iga.in.gov/ic/2026, posted 2026-06-30) (checked 2026-09-10).
 
 ## Indiana § Title_3
 
-*Citation: Indiana Code, Title 3 — Elections, § Title_3. Last changed: 2026-08-06. Source: https://iga.in.gov/ic/2025/Title_3.html*
+*Citation: Indiana Code, Title 3 — Elections, § Title_3. Last changed: 2026-09-10. Source: https://iga.in.gov/ic/2026/Title_3.html*
 
 IC 3
 TITLE 3. ELECTIONS
@@ -978,8 +979,6 @@ ARTICLE 5. GENERAL PROVISIONS
 Ch. 1.
 Applicability; Types of Elections
 Ch. 2.
-Definitions
-Ch. 2.
 Repealed
 Ch. 2.1.
 Definitions
@@ -1092,33 +1091,7 @@ provided by law.
 [Pre-1986 Recodification Citation: 3-1-1-2 part.]
 As added by P.L.5-1986, SEC.1.
 IC 3-5-2
-Chapter 2. Definitions
-3-5-2-49.3
-"Uniformed services"
-3-5-2
-Repealed
-IC 3-5-2-49.3
-"Uniformed services"
-Note: This version of section amended by P.L.238-2025, SEC.2. See
-also following repeal of this chapter by P.L.186-2025, SEC.5.
-Sec. 49.3. "Uniformed services" means any of the
-following:
-(1) The United States Army.
-(2) The United States Navy.
-(3) The United States Air Force.
-(4) The United States Marine Corps.
-(5) The United States Coast Guard.
-(6) The United States Space Force.
-(7) The commissioned corps of the Public Health Service.
-(8) The commissioned corps of the National Oceanic and
-Atmospheric Administration.
-As added by P.L.3-1997, SEC.15. Amended by P.L.227-2023,
-SEC.3; P.L.238-2025, SEC.2.
-IC 3-5-2
-Repealed
-Note: This version of chapter repealed by P.L.186-2025, SEC.5. See
-also preceding version of this chapter amended by P.L.238-2025,
-SEC.2.
+Chapter 2. Repealed
 [Pre-1986 Recodification Citations:
 3-5-2-1
 formerly 3-1-1-1; 3-1-1-2 part
@@ -1228,7 +1201,8 @@ P.L.186-2025, SEC.261; P.L.186-2025, SEC.262; P.L.186-2025,
 SEC.263; P.L.186-2025, SEC.264; P.L.186-2025, SEC.265;
 P.L.186-2025, SEC.266; P.L.186-2025, SEC.267; P.L.186-2025,
 SEC.286; P.L.186-2025, SEC.288; P.L.186-2025, SEC.289;
-P.L.186-2025, SEC.290; P.L.186-2025, SEC.293.
+P.L.186-2025, SEC.290; P.L.186-2025, SEC.293; P.L.145-2026,
+SEC.2.
 IC 3-5-2.1
 Chapter 2.1. Definitions
 3-5-2.1-1
@@ -1413,6 +1387,8 @@ Application of definitions
 "Provisional voter"
 3-5-2.1-87
 "Public question"
+3-5-2.1-87.5
+"Ranked choice voting"
 3-5-2.1-88
 "Registration agency"
 3-5-2.1-89
@@ -1645,8 +1621,8 @@ IC 33-33-71-43
 As added by P.L.186-2025, SEC.6.
 IC 3-5-2.1-16
 "Candidate"
-Sec. 16. (a) Except as provided in subsections (b) and
-(c), "candidate" means an individual who:
+Sec. 16. (a) Except as provided in subsections (b), (c),
+and (d), "candidate" means an individual who:
 (1) has taken the action necessary to qualify under Indiana law for
 listing on the ballot at an election or to become a write-in
 candidate;
@@ -1703,7 +1679,8 @@ IC 3-14-3-18
 described in
 IC 3-14-3-18
 (a).
-As added by P.L.186-2025, SEC.6.
+As added by P.L.186-2025, SEC.6. Amended by P.L.23-2026,
+SEC.2.
 IC 3-5-2.1-17
 "Candidate's committee"
 Sec. 17. "Candidate's committee" means:
@@ -2457,6 +2434,16 @@ Sec. 87. "Public question" means a constitutional
 amendment, proposition, or other issue submitted to the electorate at
 an election.
 As added by P.L.186-2025, SEC.6.
+IC 3-5-2.1-87.5
+"Ranked choice voting"
+Sec. 87.5. "Ranked choice voting" refers to a system
+of voting that:
+(1) allows a voter to rank to each candidate on a ballot for a
+particular office in an order of preference; and
+(2) tabulates each ballot in multiple rounds following the
+elimination of a candidate;
+until a single candidate receives a majority of the votes cast.
+As added by P.L.5-2026, SEC.1.
 IC 3-5-2.1-88
 "Registration agency"
 Sec. 88. "Registration agency" refers to any of the
@@ -2575,16 +2562,17 @@ IC 3-5-2.1-100
 "Uniformed services"
 Sec. 100. "Uniformed services" means any of the
 following:
-(1) The Army.
-(2) The Navy.
-(3) The Air Force.
-(4) The Marine Corps.
-(5) The Coast Guard.
-(6) The Space Force.
+(1) The United States Army.
+(2) The United States Navy.
+(3) The United States Air Force.
+(4) The United States Marine Corps.
+(5) The United States Coast Guard.
+(6) The United States Space Force.
 (7) The commissioned corps of the Public Health Service.
 (8) The commissioned corps of the National Oceanic and
 Atmospheric Administration.
-As added by P.L.186-2025, SEC.6.
+As added by P.L.186-2025, SEC.6. Amended by P.L.145-2026,
+SEC.3.
 IC 3-5-2.1-101
 "United States"
 Sec. 101. "United States", as used in section 75 of
@@ -3049,6 +3037,8 @@ Election day duties of the circuit court clerk
 3-5-4-15
 Local government office; employee leave to serve
 on election day
+3-5-4-16
+Ranked choice voting; prohibitions
 IC 3-5-4-1
 Time for filing
 Sec. 1. Whenever this title specifies a final day for a
@@ -3419,6 +3409,14 @@ safety or election day operations.
 (d) An employee granted leave under subsection (b) is entitled to
 receive compensation for serving as a precinct election officer.
 As added by P.L.240-2025, SEC.4.
+IC 3-5-4-16
+Ranked choice voting; prohibitions
+Sec. 16. The following apply to an election conducted
+under this title:
+(1) An election may not be determined by ranked choice voting.
+(2) A candidate may not be nominated for or elected to an office
+by means of ranked choice voting.
+As added by P.L.5-2026, SEC.2.
 IC 3-5-4.5
 Chapter 4.5. Standards for Challenges to Voters
 3-5-4.5-1
@@ -3844,6 +3842,8 @@ Use of universally recognized pronunciation
 symbols in candidate names; exceptions
 3-5-7-6
 Candidacy documents
+3-5-7-6.3
+Address listed on notice of withdrawal
 3-5-7-6.5
 Candidacy document design; separate fields for
 each separate candidate name designation
@@ -3995,6 +3995,33 @@ a request filed under this section to the county voter registration office
 not later than seven (7) days after receiving the request.
 As added by P.L.202-1999, SEC.1. Amended by P.L.98-2004,
 SEC.25; P.L.227-2023, SEC.7.
+IC 3-5-7-6.3
+Address listed on notice of withdrawal
+Sec. 6.3. (a) For purposes of this section, "notice of
+withdrawal" means a document on which an individual:
+(1) withdraws as a candidate or nominee;
+(2) provides notice that the individual:
+(A) will not accept a nomination;
+(B) is no longer a candidate; or
+(C) does not wish the individual's name to appear on the ballot
+as a candidate;
+(3) provides a written statement under
+IC 3-8-7-20
+requesting that
+the individual's name be printed as nominated by petition,
+convention, subsequent petition, or subsequent convention; or
+(4) provides a written election under
+IC 3-8-7-21
+of which
+nomination the individual will accept.
+(b) Whenever an individual files a notice of withdrawal on which
+the individual lists an address that is different from the address set forth
+on the individual's voter registration record, the individual's signature
+on the notice of withdrawal constitutes a request to the county voter
+registration office that the address on the individual's voter registration
+record be the same as the address the individual uses on the notice of
+withdrawal.
+As added by P.L.12-2026, SEC.1.
 IC 3-5-7-6.5
 Candidacy document design; separate fields for each separate
 candidate name designation
@@ -4124,9 +4151,10 @@ SEC.6; P.L.230-2005, SEC.5; P.L.128-2015, SEC.8.
 IC 3-5-8-4
 Posting voter's bill of rights on the Internet
 Sec. 4. The secretary of state or other state agency
-posting election information on the state's Internet site shall include the
-voter's bill of rights on the site.
-As added by P.L.126-2002, SEC.11.
+posting election information on the state's website shall include the
+voter's bill of rights on the website.
+As added by P.L.126-2002, SEC.11. Amended by P.L.23-2026,
+SEC.3.
 IC 3-5-8-5
 Publication of voter's bill of rights in news media
 Sec. 5. Not later than twenty-nine (29) days before a
@@ -6347,7 +6375,8 @@ one county; duties of county election boards
 3-6-5-16
 Budget estimates
 3-6-5-17
-Reports to election division; contents
+Reports to election division; contents; publishing
+election results
 3-6-5-17.3
 Providing absentee reports
 3-6-5-17.5
@@ -6674,7 +6703,7 @@ estimates are required to be filed.
 [Pre-1986 Recodification Citation: 3-1-4-5(c).]
 As added by P.L.5-1986, SEC.2.
 IC 3-6-5-17
-Reports to election division; contents
+Reports to election division; contents; publishing election results
 Sec. 17. (a) Each county election board shall submit a
 report to the election division after each primary, special, municipal,
 and general election describing the activities of the board during the
@@ -6682,11 +6711,7 @@ previous year. The board shall include the following in the report:
 (1) Information relating to the expenses of office maintenance and
 elections within the county or political subdivisions within the
 county.
-(2) A copy of the statement of the county election board
-containing the votes cast for each candidate and on each public
-question in each precinct at the last election preceding the
-submission of the report.
-(3) Any additional information relating to elections that the
+(2) Any additional information relating to elections that the
 commission prescribes.
 (b) The report described in subsection (a) must be transmitted to the
 election division using the computerized list under
@@ -6695,11 +6720,34 @@ not later
 than fourteen (14) days after each election.
 (c) The election division shall send a copy of each report to the
 office not later than ten (10) days after receiving the report.
+(d) At the same time the county election board submits the report
+under subsection (a), the board shall provide to the election division
+through a module of the computerized list established under
+IC 3-7-26.3
+the votes cast for each candidate and on each public question
+in each precinct at the last election preceding the submission of the
+report.
+(e) This subsection applies if the official election results of an
+election are revised following a recount or election contest conducted
+under
+IC 3-12
+. Each county election board shall provide to the election
+division through a module of the computerized list established under
+IC 3-7-26.3
+the revised votes cast for each candidate and on each
+public question in each precinct not later than fourteen (14) days after
+the certification of the revised election results by a court or the state
+recount commission.
+(f) The election division shall promptly publish election results
+provided under subsection (d) or (e) on the website maintained by the
+election division. The election results published under this subsection
+must be downloadable in a format that can be imported into standard
+spreadsheet computer software.
 [Pre-1986 Recodification Citation: 3-1-4-5(f).]
 As added by P.L.5-1986, SEC.2. Amended by P.L.10-1988,
 SEC.8; P.L.3-1993, SEC.15; P.L.2-1996, SEC.6; P.L.3-1997, SEC.38;
-P.L.212-2001, SEC.9; P.L.209-2003, SEC.14; P.L.193-2021,
-SEC.7.
+P.L.212-2001, SEC.9; P.L.209-2003, SEC.14; P.L.193-2021, SEC.7;
+P.L.68-2026, SEC.1.
 IC 3-6-5-17.3
 Providing absentee reports
 Sec. 17.3. The county election board of a county that
@@ -8599,14 +8647,10 @@ IC 22-2-18
 2021) or
 IC 22-2-18.1
 .
-(d) The county election board is not required to register as an
-employer under
-IC 22-2-18.1
-.
 As added by P.L.126-2002, SEC.22. Amended by P.L.209-2003,
 SEC.19; P.L.230-2005, SEC.15; P.L.225-2011, SEC.7; P.L.194-2013,
 SEC.6; P.L.76-2014, SEC.4; P.L.147-2020, SEC.1; P.L.108-2021,
-SEC.2.
+SEC.2; P.L.91-2026, SEC.1.
 IC 3-6-6-40
 Training precinct election officers; content of training; training waiver
 Sec. 40. (a) The county election board shall conduct a
@@ -21194,7 +21238,7 @@ shall be indicated on the ballot as required by section 2.5(a)(5) of this
 chapter.
 (g) A candidate's:
 (1) claimed political party affiliation with a party other than a
-major political party; or
+major political party;
 (2) statement under section 2.5(a)(5)(B) of this chapter that the
 candidate is an independent candidate; or
 (3) statement under section 2.5(a)(5)(C) of this chapter that the
@@ -21204,7 +21248,7 @@ party or that the candidate:
 (B) does not identify as an independent candidate;
 is not subject to challenge under this section.
 As added by P.L.194-2013, SEC.19. Amended by P.L.34-2023,
-SEC.2; P.L.195-2025, SEC.3.
+SEC.2; P.L.195-2025, SEC.3; P.L.23-2026, SEC.4.
 IC 3-8-2.5-8
 Candidate moving from election district fails to withdraw; complaint;
 hearing; resulting candidate vacancy may not be filled
@@ -24414,7 +24458,11 @@ Report of change in information
 3-9-1-11
 Repealed
 3-9-1-12
-Dissolution of committee
+Dissolution of committee filed with county
+election board
+3-9-1-12.5
+Dissolution of committee filed with election
+division
 3-9-1-13
 Treasurer of committee; qualifications
 3-9-1-14
@@ -24636,22 +24684,14 @@ Repealed
 As added by P.L.5-1986, SEC.5. Repealed by P.L.4-1991,
 SEC.147.
 IC 3-9-1-12
-Dissolution of committee
-Sec. 12. (a) A committee may disband at any time in the
-manner prescribed by this section.
-(b) The commission or a county election board may administratively
-disband a committee in the manner prescribed by this section.
-(c) The commission has exclusive jurisdiction to disband any of the
-following:
-(1) A candidate's committee for state office.
-(2) A candidate's committee for legislative office.
-(3) A legislative caucus committee.
-(4) A political action committee that has filed a statement or
-report with the election division.
-(5) A regular party committee that has filed a statement or report
-with the election division.
-(d) A county election board has exclusive jurisdiction to disband
-any of the following:
+Dissolution of committee filed with county election board
+Sec. 12. (a) A committee whose statement of
+organization has been filed with a county election board may disband
+at any time in the manner prescribed by this section.
+(b) A county election board may administratively disband a
+committee in the manner prescribed by this section.
+(c) A county election board has exclusive jurisdiction to disband any
+of the following:
 (1) A candidate's committee for a local office.
 (2) A candidate's committee for a school board office.
 (3) A political action committee that has filed a statement or
@@ -24660,54 +24700,47 @@ committee has also filed a report with the election division.
 (4) A regular party committee that has filed a statement or report
 with the election board, unless the regular party committee has
 also filed a report with the election division.
-(e) The commission or a county election board may administratively
-disband a committee in the following manner:
+(d) A county election board may administratively disband a
+committee in the following manner:
 (1) Not later than the last Friday of January of each year, the
-election division or county election board shall review the list of
-committees that have filed statements of organization with the
-division or board under this article.
-(2) If the election division or county election board determines
-both of the following, the election division or county election
-board may begin a proceeding before the commission or board to
-administratively disband the committee:
+county election board shall review the list of committees that have
+filed statements of organization with the board under this article.
+(2) If the county election board determines both of the following,
+the county election board may begin a proceeding before the
+board to administratively disband the committee:
 (A) The committee has not filed any report of expenditures
 during the previous three (3) calendar years.
 (B) The committee last reported cash on hand in an amount that
 does not exceed one thousand dollars ($1,000), if the committee
 filed a report under this article.
-(3) The election division or county election board shall provide
-notice of the proceeding by certified mail to the last known
-address of the chairman and treasurer of the committee.
-(4) The commission or board may issue an order administratively
-dissolving the committee if the commission or board makes the
-following findings:
+(3) The county election board shall provide notice of the
+proceeding by certified mail to the last known address of the
+chairman and treasurer of the committee.
+(4) The board may issue an order administratively dissolving the
+committee if the board makes the following findings:
 (A) There is no evidence that the committee continues to
 receive contributions, make expenditures, or otherwise function
 as a committee.
-(B) According to the best evidence available to the commission
-or board, the dissolution of the committee will not impair any
-contract or impede the collection of a debt or judgment by any
-person.
-(5) If the commission or board:
+(B) According to the best evidence available to the board, the
+dissolution of the committee will not impair any contract or
+impede the collection of a debt or judgment by any person.
+(5) If the board:
 (A) administratively dissolves a committee under subdivision
 (4); and
 (B) finds that the prudent use of public resources makes further
 efforts to collect any outstanding civil penalty imposed against
 the committee wasteful or unjust;
-the commission or board may also waive the outstanding civil
-penalty previously imposed by the commission or board against
-the committee.
-(6) The election division shall arrange for the publication in the
-Indiana Register of an order administratively disbanding a
-committee. A county election board shall publish a notice under
+the board may also waive the outstanding civil penalty previously
+imposed by the board against the committee.
+(6) A county election board shall publish a notice under
 IC 5-3-1
-stating that the board has disbanded a committee under
-this subsection. The notice must state the date of the order and the
+stating that the board has disbanded a committee under this
+subsection. The notice must state the date of the order and the
 name of the committee, but the board is not required to publish
 the text of the order.
 (7) An order issued under this subsection takes effect immediately
 upon its adoption, unless otherwise specified in the order.
-(f) If the chairman or treasurer of a committee wishes to disband the
+(e) If the chairman or treasurer of a committee wishes to disband the
 committee, the committee must do either of the following:
 (1) Give written notification of the dissolution and transfer a
 surplus of contributions less expenditures to any one (1) or a
@@ -24721,7 +24754,7 @@ Section 501 of the Internal Revenue Code.
 (2) Use the surplus in any other manner permitted under
 IC 3-9-3-4
 .
-(g) Except as provided in subsection (e) concerning the waiver of
+(f) Except as provided in subsection (d) concerning the waiver of
 civil penalties, a dissolution or transfer of funds does not relieve the
 committee or the committee's members from any:
 (1) civil liability, including the liability of the committee's
@@ -24732,7 +24765,95 @@ on behalf of the committee; or
 As added by P.L.5-1986, SEC.5. Amended by P.L.13-1987,
 SEC.1; P.L.8-1992, SEC.7; P.L.3-1993, SEC.83; P.L.2-1996, SEC.94;
 P.L.3-1997, SEC.172; P.L.176-1999, SEC.38; P.L.126-2002, SEC.33;
-P.L.225-2011, SEC.41.
+P.L.225-2011, SEC.41; P.L.47-2026, SEC.1.
+IC 3-9-1-12.5
+Dissolution of committee filed with election division
+Sec. 12.5. (a) A committee whose statement of
+organization has been filed with the election division may disband at
+any time in the manner prescribed by this section.
+(b) The commission may administratively disband a committee in
+the manner prescribed by this section.
+(c) The commission has exclusive jurisdiction to disband any of the
+following:
+(1) A candidate's committee for state office.
+(2) A candidate's committee for legislative office.
+(3) A legislative caucus committee.
+(4) A political action committee that has filed a statement or
+report with the election division.
+(5) A regular party committee that has filed a statement or report
+with the election division.
+(d) The commission may administratively disband a committee in
+the following manner:
+(1) Not later than the last Friday of January of each year, the
+election division shall review the list of committees that have
+filed statements of organization with the division under this
+article.
+(2) If the election division determines the following, the election
+division may begin a proceeding before the commission to
+administratively disband the committee:
+(A) The committee has not filed a report of expenditures during
+the previous calendar year.
+(B) The committee has never filed a report of expenditures or
+the last report filed by the committee reported cash on hand in
+an amount that does not exceed one thousand dollars ($1,000).
+(C) The election division has attempted to contact the
+committee:
+(i) by United States mail during the previous calendar year to
+provide notice of upcoming deadlines to file a report of
+expenditures, but the communication has been returned by
+the United States Postal Service due to an unknown or
+insufficient address; or
+(ii) by electronic mail, if the committee provided an
+electronic mail address to the election division, but the
+electronic mail was returned as undeliverable.
+(3) The election division shall provide notice of the proceeding by
+certified mail to the last known address of the chairman and
+treasurer of the committee.
+(4) The commission may issue an order administratively
+dissolving the committee if the commission makes the following
+findings:
+(A) There is no evidence that the committee continues to
+receive contributions, make expenditures, or otherwise function
+as a committee.
+(B) According to the best evidence available to the commission,
+the dissolution of the committee will not impair any contract or
+impede the collection of a debt or judgment by any person or
+impair the prosecution of any violation of criminal law.
+(5) If the commission:
+(A) administratively dissolves a committee under subdivision
+(4); and
+(B) finds that the prudent use of public resources makes further
+efforts to collect any outstanding civil penalty imposed against
+the committee wasteful or unjust;
+the commission may also waive the outstanding civil penalty
+previously imposed by the commission against the committee.
+(6) The election division shall arrange for the publication in the
+Indiana Register of an order administratively disbanding a
+committee.
+(7) An order issued under this subsection takes effect immediately
+upon its adoption, unless otherwise specified in the order.
+(e) If the chairman or treasurer of a committee wishes to disband the
+committee, the committee must do either of the following:
+(1) Give written notification of the dissolution and transfer a
+surplus of contributions less expenditures to any one (1) or a
+combination of the following:
+(A) One (1) or more regular party committees.
+(B) One (1) or more candidate's committees.
+(C) The election division.
+(D) An organization exempt from federal income taxation under
+Section 501 of the Internal Revenue Code.
+(E) Contributors to the committee, on a pro rata basis.
+(2) Use the surplus in any other manner permitted under
+IC 3-9-3-4
+.
+(f) Except as provided in subsection (d) concerning the waiver of
+civil penalties, a dissolution or transfer of funds does not relieve the
+committee or the committee's members from any:
+(1) civil liability, including the liability of the committee's
+chairman or treasurer for the payment of any debts incurred by or
+on behalf of the committee; or
+(2) criminal liability.
+As added by P.L.47-2026, SEC.2.
 IC 3-9-1-13
 Treasurer of committee; qualifications
 Sec. 13. A treasurer of a committee:
@@ -25850,7 +25971,7 @@ penalty under subsection (a)(1) or (a)(2) for filing a defective report or
 statement. If the commission determines that a person failed to file the
 amended report or statement of organization not later than noon five (5)
 days after being given notice under section 14 of this chapter, the
-commission may assess a civil penalty. The penalty is ten dollars ($10)
+commission shall assess a civil penalty. The penalty is ten dollars ($10)
 for each day the report is late after the expiration of the five (5) day
 period, not to exceed one hundred dollars ($100) plus any investigative
 costs incurred and documented by the election division. The civil
@@ -25869,13 +25990,13 @@ limit under this subsection applies to each report separately.
 (d) This subsection applies to a person who is subject to a civil
 penalty under subsection (a)(3), (a)(4), (a)(6), (a)(7), (a)(8), (a)(9), or
 (a)(10). If the commission determines that a person is subject to a civil
-penalty under subsection (a), the commission may assess a civil penalty
-of not more than one thousand dollars ($1,000), plus any investigative
-costs incurred and documented by the election division.
+penalty under subsection (a), the commission shall assess a civil
+penalty of one thousand dollars ($1,000), plus any investigative costs
+incurred and documented by the election division.
 (e) This subsection applies to a person who is subject to a civil
 penalty under subsection (a)(5). If the commission determines that a
 person is subject to a civil penalty under subsection (a)(5), the
-commission may assess a civil penalty of not more than three (3) times
+commission shall assess a civil penalty of not more than three (3) times
 the amount of the contribution in excess of the limit prescribed by
 IC 3-9-2-4
 , plus any investigative costs incurred and documented by the
@@ -25905,27 +26026,25 @@ penalty under subsection (a)(13). If the commission determines, by
 unanimous vote of the entire membership of the commission, that a
 person has violated
 IC 3-9-3-5
-, the commission may assess a civil
-penalty of not more than five hundred dollars ($500), plus any
-investigative costs incurred and documented by the election division.
+, the commission shall assess a civil
+penalty of five hundred dollars ($500), plus any investigative costs
+incurred and documented by the election division.
 (i) This subsection applies to a person who is subject to a civil
 penalty under subsection (a)(14). If the commission determines, by
 unanimous vote of the entire membership of the commission, that a
 person has served as the treasurer of a committee in violation of any of
-the statutes listed in subsection (a)(14), the commission may assess a
-civil penalty of not more than five hundred dollars ($500), plus any
-investigative costs incurred and documented by the election division.
+the statutes listed in subsection (a)(14), the commission shall assess a
+civil penalty of five hundred dollars ($500), plus any investigative costs
+incurred and documented by the election division.
 (j) This subsection applies to a person who is subject to a civil
-penalty under subsection (a)(15). The commission may assess a civil
-penalty equal to the costs incurred by the election division for the
-manual entry of the data contained in the report or statement, plus any
-investigative costs incurred and documented by the election division.
+penalty under subsection (a)(15). The commission shall assess a civil
+penalty of five hundred dollars ($500).
 (k) This subsection applies to a person who is subject to a civil
 penalty under subsection (a)(16). If the commission determines that a
 person is subject to a civil penalty under subsection (a)(16), the
-commission may assess a civil penalty of not more than one thousand
-dollars ($1,000) for each communication circulated or published (but
-not for each of the copies of the communication actually circulated or
+commission shall assess a civil penalty of one thousand dollars
+($1,000) for each communication circulated or published (but not for
+each of the copies of the communication actually circulated or
 published), plus any investigative costs incurred and documented by
 the election division.
 (l) All civil penalties collected under this section shall be deposited
@@ -25937,7 +26056,7 @@ IC 4-21.5
 As added by P.L.3-1993, SEC.89. Amended by P.L.3-1995,
 SEC.74; P.L.2-1996, SEC.109; P.L.4-1996, SEC.35; P.L.3-1997,
 SEC.196; P.L.66-2003, SEC.23; P.L.14-2004, SEC.72; P.L.221-2005,
-SEC.20; P.L.225-2011, SEC.43.
+SEC.20; P.L.225-2011, SEC.43; P.L.47-2026, SEC.3.
 IC 3-9-4-17
 Civil penalties imposed by county election board; procedure;
 disposition of penalties collected
@@ -28224,11 +28343,10 @@ for copying and inspection under
 IC 5-14-3
 . The circuit court clerk
 shall carefully preserve the sealed ballots and other material for
-twenty-two (22) months, as required by 52 U.S.C. 20701, after which
-the sealed ballots and other material are subject to
+thirty-four (34) months, after which the sealed ballots and other
+material are subject to
 IC 5-15-6
-unless an
-order issued under:
+unless an order issued under:
 (1)
 IC 3-12-6-19
 or
@@ -28300,12 +28418,12 @@ circuit court clerk shall transfer the data contained in the unit or
 compartment to a disc or other recording medium. After transferring
 the data, the clerk may clear or erase the unit or compartment. The
 circuit court clerk shall carefully preserve the disc or medium used to
-record the data for twenty-two (22) months, as required by 52 U.S.C.
-20701, after which time the disc or medium may be erased or
-destroyed, subject to
+record the data for thirty-four (34) months, after which time the disc or
+medium may be erased or destroyed, subject to
 IC 5-15-6
-, unless an order requiring the continued
-preservation of the disc or medium is issued under the following:
+, unless an
+order requiring the continued preservation of the disc or medium is
+issued under the following:
 (1)
 IC 3-12-6-19
 .
@@ -28320,12 +28438,11 @@ private server required under
 IC 3-11-8-10.3
 (b)(4). The circuit court
 clerk shall carefully preserve the disc or medium used to record the
-data for twenty-two (22) months, as required by 52 U.S.C. 20701, after
-which time the data may be erased or destroyed, subject to
+data for thirty-four (34) months, after which time the data may be
+erased or destroyed, subject to
 IC 5-15-6
-,
-unless an order requiring the continued preservation of the data is
-issued under the following:
+, unless an order requiring the
+continued preservation of the data is issued under the following:
 (1)
 IC 3-12-6-19
 .
@@ -28343,7 +28460,8 @@ As added by P.L.14-2004, SEC.78. Amended by P.L.230-2005,
 SEC.35; P.L.141-2011, SEC.1; P.L.64-2014, SEC.37; P.L.128-2015,
 SEC.152; P.L.216-2015, SEC.11; P.L.169-2015, SEC.79; P.L.74-2017,
 SEC.33; P.L.116-2018, SEC.4; P.L.157-2019, SEC.10; P.L.193-2021,
-SEC.23; P.L.131-2022, SEC.2; P.L.153-2024, SEC.9.
+SEC.23; P.L.131-2022, SEC.2; P.L.153-2024, SEC.9; P.L.68-2026,
+SEC.2.
 IC 3-10-1-31.2
 Update of registration record; time
 Sec. 31.2. (a) This subsection does not apply if a
@@ -32174,6 +32292,10 @@ Review and examination of proposed order
 Election division authorization for adoption of
 proposed precinct establishment order; notice;
 objection; commission hearing
+3-11-1.5-18
+Election division authorization for adoption of
+proposed precinct establishment order; notice;
+objection; commission hearing
 3-11-1.5-19
 Proposed precinct establishment order;
 noncompliance
@@ -32648,6 +32770,8 @@ SEC.39; P.L.212-2001, SEC.14; P.L.1-2003, SEC.2.
 IC 3-11-1.5-18
 Election division authorization for adoption of proposed precinct
 establishment order; notice; objection; commission hearing
+Note: This version of section effective until 7-1-2027. See also
+following version of this section, effective 7-1-2027.
 Sec. 18. (a) If the election division determines that
 the proposed precinct establishment order would comply with this
 chapter, the election division shall issue an order authorizing the
@@ -32703,6 +32827,66 @@ and publication under subsection (c) is not required.
 As added by P.L.13-1988, SEC.1. Amended by P.L.8-1995,
 SEC.40; P.L.3-1997, SEC.244; P.L.221-2005, SEC.36; P.L.164-2006,
 SEC.83; P.L.278-2019, SEC.52.
+IC 3-11-1.5-18
+Election division authorization for adoption of proposed precinct
+establishment order; notice; objection; commission hearing
+Note: This version of section effective 7-1-2027. See also preceding
+version of this section, effective until 7-1-2027.
+Sec. 18. (a) If the election division determines that
+the proposed precinct establishment order would comply with this
+chapter, the election division shall issue an order authorizing the
+county executive to establish the proposed precincts.
+(b) The order issued by the election division under subsection (a)
+must state that the election division finds that the proposed precincts
+would comply with the standards set forth in this chapter. The election
+division shall promptly provide a copy of the order to the county
+executive.
+(c) The county executive must give notice of the proposed order to
+the voters of the county by one (1) publication under
+IC 5-3-1-1.5
+. The
+notice must state the following:
+(1) The name of each existing precinct whose boundaries would
+be changed by the adoption of the proposed order by the county.
+(2) That any registered voter of the county may object to the
+proposed order by filing a sworn statement with the election
+division setting forth the voter's specific objections to the
+proposed order and requesting that a hearing be conducted by the
+commission under
+IC 4-21.5
+.
+(3) The mailing address of the election division.
+(4) The deadline for filing the objection with the election division
+under this section.
+(d) Except as provided in subsection (g), an objection to a proposed
+precinct establishment order must be filed not later than noon ten (10)
+days after the publication of the notice by the county executive.
+(e) If an objection is not filed with the election division by the date
+and time specified under subsection (d), the election division shall
+promptly notify the county executive. The county executive may
+proceed immediately to adopt the proposed order.
+(f) If an objection is filed with the election division by the date and
+time specified under subsection (d), the election division shall
+promptly notify the county executive. The county executive may not
+adopt the proposed order until the commission conducts a hearing
+under
+IC 4-21.5
+and determines whether the proposed precincts would
+comply with the standards set forth in this chapter.
+(g) If the co-directors determine that the expiration of the ten (10)
+day period described in subsection (d) will occur:
+(1) after the next period specified under section 25 of this chapter
+begins; or
+(2) without sufficient time for a county or an objector to receive
+notice of a hearing before the commission concerning an
+objection before the next period specified under section 25 of this
+chapter begins;
+the co-directors may request a hearing before the commission under
+section 21 of this chapter, notify the county executive of the request,
+and publication under subsection (c) is not required.
+As added by P.L.13-1988, SEC.1. Amended by P.L.8-1995,
+SEC.40; P.L.3-1997, SEC.244; P.L.221-2005, SEC.36; P.L.164-2006,
+SEC.83; P.L.278-2019, SEC.52; P.L.157-2026, SEC.1.
 IC 3-11-1.5-19
 Proposed precinct establishment order; noncompliance
 Sec. 19. If the co-directors or designated employee
@@ -33053,6 +33237,10 @@ Instructions; form, location, and contents;
 exception
 3-11-2-9
 Political party devices
+3-11-2-9
+Political party devices
+3-11-2-10
+Arrangement of ballot
 3-11-2-10
 Arrangement of ballot
 3-11-2-10.1
@@ -33073,6 +33261,9 @@ screen
 3-11-2-12.4
 Election of more than one candidate to an office;
 placement of office on ballot; required instruction
+3-11-2-12.4
+Election of more than one candidate to an office;
+placement of office on ballot; required instruction
 3-11-2-12.5
 Ballot order; alternative order of county offices
 3-11-2-12.7
@@ -33080,6 +33271,8 @@ Ballot order; candidates for at-large seats on
 fiscal or legislative body of political subdivision
 3-11-2-12.8
 Repealed
+3-11-2-12.9
+Ballot order; school board offices
 3-11-2-12.9
 Ballot order; school board offices
 3-11-2-13
@@ -33218,11 +33411,46 @@ unless the first row, and all preceding rows, have been filled.
 if there are no declared write-in candidates for that office. However,
 procedures must be implemented to permit write-in voting for
 candidates for federal offices.
+(f) This subsection applies to candidates who appear on the ballot
+for a school board office. The names of the candidates for each office
+must be grouped together in the following order:
+(1) The major political party whose candidate received the highest
+number of votes in the county for secretary of state at the last
+election is listed first.
+(2) The major political party whose candidate received the second
+highest number of votes in the county for secretary of state is
+listed second.
+(3) All other political parties listed in the order that the parties'
+candidates for secretary of state finished in the last election are
+listed after the party listed in subdivision (2).
+(4) If a political party did not have a candidate for secretary of
+state in the last election or a nominee is an independent candidate,
+the party or candidate is listed after the parties described in
+subdivisions (1), (2), and (3).
+(5) If more than one (1) political party or independent candidate
+qualifies to be on the ballot, the parties, candidates, or tickets are
+listed in the order in which the party filed its petition of
+nomination under
+IC 3-8-6-12
+.
+(6) The name of a candidate described in
+IC 3-8-2.5-2.5
+(a)(5)(C)
+is placed after the candidates listed in subdivisions (1) through
+(5), if applicable.
+(7) A space for write-in voting is placed after the candidates listed
+in subdivisions (1) through (6), if required by law.
+(8) The name of a write-in candidate may not be listed on the
+ballot.
+If there is more than one (1) candidate for a grouping described in
+subdivisions (1) through (8) for a school board office, the candidates
+shall appear in the order established by this subsection and within the
+grouping, in alphabetical order according to surname.
 [Pre-1986 Recodification Citation: 3-1-23-1(a) part.]
 As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987,
 SEC.201; P.L.7-1991, SEC.4; P.L.4-1991, SEC.60; P.L.12-1992,
 SEC.7; P.L.3-1993, SEC.115; P.L.14-2004, SEC.95; P.L.11-2023,
-SEC.8.
+SEC.8; P.L.7-2026, SEC.1.
 IC 3-11-2-7
 Cautionary statement
 Sec. 7. The following statement shall be printed in
@@ -33255,6 +33483,8 @@ SEC.16; P.L.3-1987, SEC.203; P.L.221-2005, SEC.41; P.L.21-2016,
 SEC.3.
 IC 3-11-2-9
 Political party devices
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 9. (a) The device of each political party described
 in section 6 of this chapter shall be:
 (1) enclosed in a circle not less than three-fourths (3/4) of an inch
@@ -33280,8 +33510,37 @@ casts a straight party ticket.
 As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987,
 SEC.204; P.L.3-1993, SEC.116; P.L.14-2004, SEC.96; P.L.109-2021,
 SEC.13; P.L.227-2023, SEC.65; P.L.195-2025, SEC.4.
+IC 3-11-2-9
+Political party devices
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 9. (a) The device of each political party described
+in section 6 of this chapter shall be:
+(1) enclosed in a circle not less than three-fourths (3/4) of an inch
+in diameter; and
+(2) placed under the name of the party or independent ticket, as
+required by section 10 of this chapter.
+(b) A device of a political party must not be printed on a ballot if:
+(1) there are no candidates of that political party; or
+(2) the only candidates:
+(A) of the political party; or
+(B) that have stated an affiliation with the political party under
+IC 3-8-2.5-2.5
+(a)(5);
+are for election to school board offices which will not be credited
+with a vote under
+IC 3-12-1-7.1
+if a voter casts a straight party
+ticket.
+[Pre-1986 Recodification Citation: 3-1-23-1(b) part.]
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987,
+SEC.204; P.L.3-1993, SEC.116; P.L.14-2004, SEC.96; P.L.109-2021,
+SEC.13; P.L.227-2023, SEC.65; P.L.195-2025, SEC.4; P.L.99-2026,
+SEC.1.
 IC 3-11-2-10
 Arrangement of ballot
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 10. (a) Public questions shall be placed on the
 general election ballot in the following order after the statement
 described in section 7 of this chapter, and the instructions described in
@@ -33349,6 +33608,73 @@ SEC.258; P.L.14-2004, SEC.97; P.L.58-2005, SEC.15; P.L.190-2011,
 SEC.4; P.L.219-2013, SEC.30; P.L.21-2016, SEC.4; P.L.245-2017,
 SEC.2; P.L.278-2019, SEC.56; P.L.141-2020, SEC.11; P.L.32-2021,
 SEC.2; P.L.227-2023, SEC.66; P.L.195-2025, SEC.5.
+IC 3-11-2-10
+Arrangement of ballot
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 10. (a) Public questions shall be placed on the
+general election ballot in the following order after the statement
+described in section 7 of this chapter, and the instructions described in
+subsections (d) and (e) and section 8 of this chapter, if instructions are
+printed on the ballot:
+(1) Ratification of a state constitutional amendment.
+(2) Local public questions.
+Subject to section 10.1 of this chapter, each public question shall be
+placed in a separate column on the ballot.
+(b) The name or title of the political party shall be placed on the
+general election ballot after the public questions described in
+subsection (a). The device of the political party shall be placed
+immediately under the name of the political party. Notwithstanding
+section 8(b) of this chapter, the instructions for voting a straight party
+ticket shall be placed to the right of the device on the ballot.
+(c) The instructions for voting a straight party ticket must conform
+as nearly as possible to the following:
+"(1) You are not required to vote a straight party ticket. If you do
+not wish to vote a straight party ticket, do not make a mark in this
+section, and proceed to voting the ballot by office.
+(2) To vote a straight (insert political party name) ticket for all
+(insert political party name) candidates on this ballot, except for
+candidates described in (3) below, make a voting mark on or in
+this circle and do not make any other marks on this ballot.
+(3) To vote for any candidate for a school board office, you must
+make another voting mark for each candidate you wish to vote for.
+Your straight party vote will not count as a vote for any candidate
+for that office.
+(4) If you wish to vote for a candidate seeking a nonpartisan office
+or on a public question, you must make another voting mark on
+the appropriate place on this ballot.".
+(d) Except as permitted under section 8(b) of this chapter, if the
+ballot contains an independent ticket described in section 6 of this
+chapter and at least one (1) other independent candidate, the ballot
+must also contain a statement that reads substantially as follows: "A
+vote cast for an independent ticket will only be counted for the
+candidates for President and Vice President or governor and lieutenant
+governor comprising that independent ticket. This vote will NOT be
+counted for any OTHER independent candidate appearing on the
+ballot.".
+(e) Except as permitted under section 8(b) of this chapter, the ballot
+must also contain a statement that reads substantially as follows: "A
+write-in vote will NOT be counted unless the vote is for a DECLARED
+write-in candidate. To vote for a write-in candidate, you must make a
+voting mark on or in the square to the left of the name you have written
+in or your vote will not be counted.".
+(f) Subject to section 10.1 of this chapter, the list of candidates of
+the political party shall be placed immediately under the instructions
+for voting a straight party ticket. The names of the candidates shall be
+placed three-fourths (3/4) of an inch apart from center to center of the
+name. The name of each candidate must have, immediately on its left,
+a square three-eighths (3/8) of an inch on each side.
+(g) The circuit court clerk may authorize the printing of ballots
+containing a ballot variation code to ensure that the proper version of
+a ballot is used within a precinct.
+[Pre-1986 Recodification Citation: 3-1-23-1(b) part.]
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987,
+SEC.205; P.L.3-1993, SEC.117; P.L.4-1996, SEC.60; P.L.3-1997,
+SEC.258; P.L.14-2004, SEC.97; P.L.58-2005, SEC.15; P.L.190-2011,
+SEC.4; P.L.219-2013, SEC.30; P.L.21-2016, SEC.4; P.L.245-2017,
+SEC.2; P.L.278-2019, SEC.56; P.L.141-2020, SEC.11; P.L.32-2021,
+SEC.2; P.L.227-2023, SEC.66; P.L.195-2025, SEC.5; P.L.99-2026,
+SEC.2.
 IC 3-11-2-10.1
 Retention of Marion County superior court judges
 Sec. 10.1. (a) This section applies only to a public
@@ -33473,6 +33799,8 @@ SEC.10.
 IC 3-11-2-12.4
 Election of more than one candidate to an office; placement of office
 on ballot; required instruction
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 12.4. (a) This section applies whenever more
 than one (1) candidate may be elected to an office.
 (b) The office shall be placed on the general election ballot after the
@@ -33490,6 +33818,25 @@ candidate you wish to vote for. A straight party vote will not count as
 a vote for any candidate for this office.".
 As added by P.L.21-2016, SEC.7. Amended by P.L.109-2021,
 SEC.16.
+IC 3-11-2-12.4
+Election of more than one candidate to an office; placement of office
+on ballot; required instruction
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 12.4. (a) This section applies whenever more
+than one (1) candidate may be elected to an office. However, this
+section does not apply to a school board office.
+(b) Whenever candidates are to be elected to a county council, city
+common council, or town council that includes both an at-large
+member and a member representing a district, the candidates seeking
+election as an at-large member shall be placed on the ballot before
+candidates seeking to represent a district.
+(c) The ballot shall contain a statement reading substantially as
+follows above the name of the first candidate: "To vote for any
+candidate for this office, you must make a voting mark for each
+candidate you wish to vote for.".
+As added by P.L.21-2016, SEC.7. Amended by P.L.109-2021,
+SEC.16; P.L.99-2026, SEC.3.
 IC 3-11-2-12.5
 Ballot order; alternative order of county offices
 Sec. 12.5. Notwithstanding section 12 of this
@@ -33527,6 +33874,8 @@ As added by P.L.224-2007, SEC.2. Repealed by P.L.146-2008,
 SEC.801.
 IC 3-11-2-12.9
 Ballot order; school board offices
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 12.9. (a) School board offices to be elected at
 the general election shall be placed on the general election ballot after
 the offices described in section 12.4 of this chapter.
@@ -33542,6 +33891,33 @@ placed on the ballot before candidates seeking to represent a district.
 As added by P.L.83-1999, SEC.1. Amended by P.L.58-2005,
 SEC.16; P.L.190-2011, SEC.6; P.L.194-2013, SEC.44; P.L.21-2016,
 SEC.8; P.L.109-2021, SEC.17; P.L.195-2025, SEC.6.
+IC 3-11-2-12.9
+Ballot order; school board offices
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 12.9. (a) School board offices to be elected at
+the general election shall be placed on the general election ballot after
+the offices described in section 12 of this chapter.
+(b) If the ballot contains a candidate for a school board office, the
+ballot must also contain a statement that reads substantially as follows:
+(1) "To vote for a candidate for this office, make a voting mark on
+or in the square to the left of the candidate's name. A straight
+party vote will not count as a vote for any candidate for this
+office.", if only one (1) candidate is to be elected to a school
+board office.
+(2) "To vote for any candidate for this office, you must make a
+voting mark for each candidate you wish to vote for. A straight
+party vote will not count as a vote for any candidate for this
+office.", if more than one (1) candidate is to be elected to a school
+board office.
+(c) Whenever candidates are to be elected to a school board office
+that includes both an at-large member and a member representing a
+district, the candidates seeking election as an at-large member shall be
+placed on the ballot before candidates seeking to represent a district.
+As added by P.L.83-1999, SEC.1. Amended by P.L.58-2005,
+SEC.16; P.L.190-2011, SEC.6; P.L.194-2013, SEC.44; P.L.21-2016,
+SEC.8; P.L.109-2021, SEC.17; P.L.195-2025, SEC.6; P.L.99-2026,
+SEC.4.
 IC 3-11-2-13
 Ballot order; retention of justice or appellate judge
 Sec. 13. (a) The following offices shall be placed on
@@ -36617,6 +36993,10 @@ Face of ballot card
 Capability of system; voting straight or split
 ticket variations; candidates elected to school
 board or at-large offices
+3-11-7-4
+Capability of system; voting straight or split
+ticket variations; candidates elected to school
+board offices
 3-11-7-5
 Requisites of systems
 3-11-7-6
@@ -36700,6 +37080,8 @@ As added by P.L.176-1999, SEC.69.
 IC 3-11-7-4
 Capability of system; voting straight or split ticket variations;
 candidates elected to school board or at-large offices
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 4. (a) Except as provided in subsection (b), a ballot
 card voting system must permit a voter to vote:
 (1) except at a primary election, a straight party ticket for all of
@@ -36735,6 +37117,39 @@ As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987,
 SEC.238; P.L.3-1993, SEC.131; P.L.221-2005, SEC.49; P.L.219-2013,
 SEC.38; P.L.21-2016, SEC.9; P.L.201-2017, SEC.29; P.L.278-2019,
 SEC.65; P.L.195-2025, SEC.7.
+IC 3-11-7-4
+Capability of system; voting straight or split ticket variations;
+candidates elected to school board offices
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 4. (a) Except as provided in subsection (b), a ballot
+card voting system must permit a voter to vote:
+(1) except at a primary election, a straight party ticket for all of
+the candidates of one (1) political party by a single voting mark
+on each ballot card;
+(2) for one (1) or more candidates of each political party or
+independent candidates, or for one (1) or more school board
+candidates nominated by petition;
+(3) a split ticket for the candidates of different political parties
+and for independent candidates; or
+(4) a straight party ticket and then split that ticket by casting
+individual votes for candidates.
+(b) A ballot card voting system must require that a voter who wishes
+to cast a ballot for a candidate for election to a school board office
+make a voting mark for each individual candidate for whom the voter
+wishes to cast a vote. The ballot card voting system may not count any
+straight party ticket voting mark as a vote for any candidate for election
+to a school board office.
+(c) A ballot card voting system must permit a voter to vote:
+(1) for all candidates for presidential electors and alternate
+presidential electors of a political party or an independent ticket
+by making a single voting mark; and
+(2) for or against a public question on which the voter may vote.
+[Pre-1986 Recodification Citation: 3-2-4-3(a)(2).]
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987,
+SEC.238; P.L.3-1993, SEC.131; P.L.221-2005, SEC.49; P.L.219-2013,
+SEC.38; P.L.21-2016, SEC.9; P.L.201-2017, SEC.29; P.L.278-2019,
+SEC.65; P.L.195-2025, SEC.7; P.L.99-2026, SEC.5.
 IC 3-11-7-5
 Requisites of systems
 Sec. 5. A ballot card voting system must be:
@@ -37041,6 +37456,10 @@ public question
 Capability of system; voting straight or split
 ticket variations; candidates elected to school
 board or at-large offices
+3-11-7.5-10
+Capability of system; voting straight or split
+ticket variations; candidates elected to school
+board offices
 3-11-7.5-11
 Multiple vote prevention feature
 3-11-7.5-12
@@ -37224,6 +37643,8 @@ As added by P.L.3-1987, SEC.250.
 IC 3-11-7.5-10
 Capability of system; voting straight or split ticket variations;
 candidates elected to school board or at-large offices
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 10. (a) Except as provided in subsection (b), an
 electronic voting system must permit a voter to vote:
 (1) except at a primary election, a straight party ticket for all the
@@ -37260,6 +37681,41 @@ by making a single voting mark.
 As added by P.L.3-1987, SEC.250. Amended by P.L.3-1993,
 SEC.141; P.L.219-2013, SEC.39; P.L.21-2016, SEC.15; P.L.201-2017,
 SEC.30; P.L.278-2019, SEC.66; P.L.195-2025, SEC.9.
+IC 3-11-7.5-10
+Capability of system; voting straight or split ticket variations;
+candidates elected to school board offices
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 10. (a) Except as provided in subsection (b), an
+electronic voting system must permit a voter to vote:
+(1) except at a primary election, a straight party ticket for all the
+candidates of one (1) political party by touching the device of that
+party;
+(2) for one (1) or more candidates of each political party or
+independent candidates, or for one (1) or more school board
+candidates nominated by petition;
+(3) a split ticket for the candidates of different political parties
+and for independent candidates; or
+(4) a straight party ticket and then split that ticket by casting
+individual votes for candidates.
+(b) An electronic voting system must require that a voter who
+wishes to cast a ballot for a candidate for election to a school board
+office make a voting mark for each individual candidate for whom the
+voter wishes to cast a vote. The electronic voting system may not count
+any straight party ticket voting mark as a vote for any candidate for
+election to a school board office.
+(c) An electronic voting system must permit a voter to vote:
+(1) for as many candidates for an office as the voter may vote for,
+but no more;
+(2) for or against a public question on which the voter may vote,
+but no other; and
+(3) for all the candidates for presidential electors and alternate
+presidential electors of a political party or an independent ticket
+by making a single voting mark.
+As added by P.L.3-1987, SEC.250. Amended by P.L.3-1993,
+SEC.141; P.L.219-2013, SEC.39; P.L.21-2016, SEC.15; P.L.201-2017,
+SEC.30; P.L.278-2019, SEC.66; P.L.195-2025, SEC.9; P.L.99-2026,
+SEC.6.
 IC 3-11-7.5-11
 Multiple vote prevention feature
 Sec. 11. An electronic voting system must prevent
@@ -40552,6 +41008,8 @@ Voting to be private; rights of voter in casting
 vote
 3-11-11-10
 Voting straight ticket; mark; count
+3-11-11-10
+Voting straight ticket; mark; count
 3-11-11-10.5
 Voting booth occupancy; time limits; refusal to
 leave
@@ -40863,6 +41321,8 @@ SEC.280; P.L.209-2003, SEC.153; P.L.164-2006, SEC.112;
 P.L.128-2015, SEC.187.
 IC 3-11-11-10
 Voting straight ticket; mark; count
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 10. If an election is a general or municipal
 election and a voter desires to vote for all the candidates of one (1)
 political party or group of petitioners, the voter may make a voting
@@ -40873,6 +41333,22 @@ shall then be counted for all the candidates under that party name.
 As added by P.L.5-1986, SEC.7. Amended by P.L.6-1986,
 SEC.22; P.L.3-1987, SEC.281; P.L.3-1993, SEC.159; P.L.227-2023,
 SEC.91.
+IC 3-11-11-10
+Voting straight ticket; mark; count
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 10. If an election is a general or municipal
+election and a voter desires to vote for all the candidates of one (1)
+political party or group of petitioners, the voter may make a voting
+mark on or in a large circle enclosing the device and before the name
+under which the candidates of the party are printed. The voter's vote
+shall then be counted in accordance with
+IC 3-12-1
+.
+[Pre-1986 Recodification Citation: 3-1-23-21 part.]
+As added by P.L.5-1986, SEC.7. Amended by P.L.6-1986,
+SEC.22; P.L.3-1987, SEC.281; P.L.3-1993, SEC.159; P.L.227-2023,
+SEC.91; P.L.99-2026, SEC.7.
 IC 3-11-11-10.5
 Voting booth occupancy; time limits; refusal to leave
 Sec. 10.5. (a) At a primary election, a voter may not
@@ -41112,6 +41588,8 @@ Displaying sample ballots
 Use of electronic device to display sample ballots
 3-11-13-11
 Ballot information; arrangement
+3-11-13-11
+Ballot information; arrangement
 3-11-13-11.5
 No quotation marks in formatting public
 questions on ballot
@@ -41122,6 +41600,9 @@ candidates
 3-11-13-13
 Ballot labels; marking to indicate list of
 candidates continued on following page
+3-11-13-14
+Straight party ticket voting; provision for single
+mark designation on ballot
 3-11-13-14
 Straight party ticket voting; provision for single
 mark designation on ballot
@@ -41147,6 +41628,10 @@ Repealed
 Ballot cards to be used in primary election to be
 distinctively marked or be of different color to
 distinguish party
+3-11-13-22
+Automatic tabulating machines; testing;
+reprinting or correction of ballots requiring
+additional testing
 3-11-13-22
 Automatic tabulating machines; testing;
 reprinting or correction of ballots requiring
@@ -41226,6 +41711,8 @@ Petition for confirmation of vote cast
 Audit requirement
 3-11-13-40
 Certification of results of audit
+3-11-13-41
+Notice of audit
 3-11-13-41
 Notice of audit
 3-11-13-42
@@ -41452,6 +41939,8 @@ considered to be a voting system or part of a voting system.
 As added by P.L.227-2023, SEC.94.
 IC 3-11-13-11
 Ballot information; arrangement
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 11. (a) The ballot information, whether placed
 on the ballot card or on the marking device, must be in the order of
 arrangement provided for ballots under this section.
@@ -41478,9 +41967,9 @@ applies if the certification or petition does not include a name
 or device, or if the same device is selected by two (2) or more parties
 or petitioners. In the case of a candidate described in
 IC 3-8-2.5-2.5
-(a)(5)(C), a blank space after the candidate's name
-signifying that the candidate elects not to disclose any affiliation with
-a political party or that the candidate:
+(a)(5)(C), a blank space must be printed after the candidate's
+name signifying that the candidate elects not to disclose any affiliation
+with a political party or that the candidate:
 (1) is not affiliated with a political party; and
 (2) does not identify as an independent candidate.
 (e) The offices and public questions on the general election ballot
@@ -41558,6 +42047,10 @@ is placed after the candidates listed in subdivisions (1) through
 in subdivisions (1) through (6), if required by law.
 (8) The name of a write-in candidate may not be listed on the
 ballot.
+If there is more than one (1) candidate for a grouping described in
+subdivisions (1) through (8) for a school board office, the candidates
+shall appear in the order established by this subsection and within the
+grouping, in alphabetical order according to surname.
 (h) The names of the candidates grouped in the order established by
 subsection (g) must be printed in type with uniform capital letters and
 have a uniform space between each name. The name of the candidate's
@@ -41663,7 +42156,232 @@ SEC.307; P.L.58-2005, SEC.19; P.L.164-2006, SEC.114;
 P.L.190-2011, SEC.10; P.L.194-2013, SEC.67; P.L.21-2016, SEC.16;
 P.L.278-2019, SEC.104; P.L.141-2020, SEC.12; P.L.109-2021,
 SEC.45; P.L.193-2021, SEC.50; P.L.227-2023, SEC.95; P.L.9-2024,
-SEC.23; P.L.195-2025, SEC.10.
+SEC.23; P.L.195-2025, SEC.10; P.L.7-2026, SEC.2; P.L.23-2026,
+SEC.5.
+IC 3-11-13-11
+Ballot information; arrangement
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 11. (a) The ballot information, whether placed
+on the ballot card or on the marking device, must be in the order of
+arrangement provided for ballots under this section.
+(b) Each county election board shall have the names of all
+candidates for all elected offices, political party offices, and public
+questions printed on a ballot card as provided in this chapter. The
+county may:
+(1) print all offices and questions on a single ballot card; and
+(2) include a ballot variation code to ensure that the proper
+version of a ballot is used within a precinct.
+(c) Each type of ballot card must be of uniform size and of the same
+quality and color of paper (except as permitted under
+IC 3-10-1-17
+).
+(d) The nominees of a political party or an independent candidate
+or independent ticket (described in
+IC 3-11-2-6
+) nominated by
+petitioners shall be listed on the ballot with the name and device set
+forth on the certification or petition. The circle containing the device
+may be of any size that permits a voter to readily identify the device.
+IC 3-11-2-5
+applies if the certification or petition does not include a name
+or device, or if the same device is selected by two (2) or more parties
+or petitioners. In the case of a candidate described in
+IC 3-8-2.5-2.5
+(a)(5)(C), a blank space must be printed after the candidate's
+name signifying that the candidate elects not to disclose any affiliation
+with a political party or that the candidate:
+(1) is not affiliated with a political party; and
+(2) does not identify as an independent candidate.
+(e) The offices and public questions on the general election ballot
+must be placed on the ballot in the order listed in
+IC 3-11-2-12
+,
+IC 3-11-2-12.5
+,
+IC 3-11-2-12.7
+(b),
+IC 3-11-2-12.9
+(a),
+IC 3-11-2-12.9
+(c),
+IC 3-11-2-13
+(a) through
+IC 3-11-2-13
+(c),
+IC 3-11-2-14
+(a),
+IC 3-11-2-14
+(d), and
+IC 3-11-2-14
+(e). The offices and public questions
+may be listed in a continuous column either vertically or horizontally
+and on a number of separate pages.
+(f) The name of each office must be printed in a uniform size in bold
+type. A statement reading substantially as follows must be placed
+immediately below the name of the office and above the name of the
+first candidate:
+(1) "Vote for one (1) only.", if only one (1) candidate is to be
+elected to the office.
+(2) "Vote for not more than (insert the number of candidates to be
+elected) candidate(s) for this office. To vote for any candidate for
+this office, you must make a voting mark for each candidate you
+wish to vote for.", if more than one (1) candidate is to be elected
+to the office.
+(3) "Vote for not more than (insert the number of candidates to be
+elected) candidate(s) for this office. To vote for any candidate for
+this office, you must make a voting mark for each candidate you
+wish to vote for. A straight party vote will not count as a vote for
+any candidate for this office.", if more than one (1) candidate is to
+be elected to a school board office.
+(4) "Vote for one (1) only. A straight party vote will not count as
+a vote for any candidate for this office.", if only one (1) candidate
+is to be elected to a school board office.
+(g) Below the name of the office and the statement required by
+subsection (f), the names of the candidates for each office must be
+grouped together in the following order:
+(1) The major political party whose candidate received the highest
+number of votes in the county for secretary of state at the last
+election is listed first.
+(2) The major political party whose candidate received the second
+highest number of votes in the county for secretary of state is
+listed second.
+(3) All other political parties listed in the order that the parties'
+candidates for secretary of state finished in the last election are
+listed after the party listed in subdivision (2).
+(4) If a political party did not have a candidate for secretary of
+state in the last election or a nominee is an independent candidate
+or independent ticket (described in
+IC 3-11-2-6
+), the party or
+candidate is listed after the parties described in subdivisions (1),
+(2), and (3).
+(5) If more than one (1) political party or independent candidate
+or ticket described in subdivision (4) qualifies to be on the ballot,
+the parties, candidates, or tickets are listed in the order in which
+the party filed its petition of nomination under
+IC 3-8-6-12
+.
+(6) The name of a candidate described in
+IC 3-8-2.5-2.5
+(a)(5)(C)
+is placed after the candidates listed in subdivisions (1) through
+(5), if applicable.
+(7) A space for write-in voting is placed after the candidates listed
+in subdivisions (1) through (6), if required by law.
+(8) The name of a write-in candidate may not be listed on the
+ballot.
+If there is more than one (1) candidate for a grouping described in
+subdivisions (1) through (8) for a school board office, the candidates
+shall appear in the order established by this subsection and within the
+grouping, in alphabetical order according to surname.
+(h) The names of the candidates grouped in the order established by
+subsection (g) must be printed in type with uniform capital letters and
+have a uniform space between each name. The name of the candidate's
+political party, or the word "Independent" if the:
+(1) candidate; or
+(2) ticket of candidates for:
+(A) President and Vice President of the United States; or
+(B) governor and lieutenant governor;
+is independent, must be placed immediately below or beside the name
+of the candidate and must be printed in a uniform size and type. In the
+case of a candidate described in
+IC 3-8-2.5-2.5
+(a)(5)(C), the name of
+the candidate must be printed with a blank space after the candidate's
+name signifying that the candidate elects not to disclose any affiliation
+with a political party or that the candidate is not affiliated with a
+political party and does not identify as an independent candidate.
+(i) All the candidates of the same political party for election to
+at-large seats on the fiscal or legislative body of a political subdivision
+must be grouped together:
+(1) under the name of the office that the candidates are seeking;
+(2) in the order established by subsection (g); and
+(3) within the political party, in alphabetical order according to
+surname.
+A statement reading substantially as follows must be placed
+immediately below the name of the office and above the name of the
+first candidate: "Vote for not more than (insert the number of
+candidates to be elected) candidate(s) of ANY party for this office.".
+(j) Candidates for election to at-large seats on the governing body
+of a school corporation must be grouped:
+(1) under the name of the office that the candidates are seeking;
+and
+(2) in alphabetical order according to surname.
+A statement reading substantially as follows must be placed
+immediately below the name of the office and above the name of the
+first candidate: "Vote for not more than (insert the number of
+candidates to be elected) candidate(s) for this office. A straight party
+vote will not count as a vote for any candidate for this office.".
+(k) The following information must be placed at the top of the ballot
+before the first public question is listed:
+(1) The cautionary statement described in
+IC 3-11-2-7
+.
+(2) The instructions described in
+IC 3-11-2-8
+,
+IC 3-11-2-10
+(d),
+and
+IC 3-11-2-10
+(e).
+(l) The ballot must include a single connectable arrow, circle, oval,
+or square, or a voting position for voting a straight party ticket by one
+(1) mark as required by section 14 of this chapter, and the single
+connectable arrow, circle, oval, or square, or the voting position for
+casting a straight party ticket ballot must be identified by:
+(1) the name of the political party; and
+(2) immediately below or beside the political party's name, the
+device of that party (described in
+IC 3-11-2-5
+).
+The name and device of each political party must be of uniform size
+and type and arranged in the order established by subsection (g) for
+listing candidates under each office. The instructions described in
+IC 3-11-2-10
+(c) for voting a straight party ticket and the statement
+concerning presidential electors required under
+IC 3-10-4-3
+must be
+placed on the ballot label. The instructions for voting a straight party
+ticket must include the statement: "If you do not wish to vote a straight
+party ticket, do not make a mark in this section and proceed to voting
+the ballot by office.".
+(m) A public question must be in the form described in
+IC 3-11-2-15
+(a) and
+IC 3-11-2-15
+(b), except that a single connectable
+arrow, a circle, or an oval may be used instead of a square. Except as
+expressly authorized or required by statute, a county election board
+may not print a ballot card that contains language concerning the public
+question other than the language authorized by a statute.
+(n) The requirements in this section:
+(1) do not replace; and
+(2) are in addition to;
+any other requirements in this title that apply to optical scan ballots.
+(o) The procedure described in
+IC 3-11-2-16
+must be used when a
+ballot does not comply with the requirements imposed by this title or
+contains another error or omission that might result in confusion or
+mistakes by voters.
+(p) This subsection applies to an optical scan ballot that does not
+list:
+(1) the names of political parties or candidates; or
+(2) the text of public questions;
+on the face of the ballot. The ballot must be prepared in accordance
+with this section, except that the ballot must include a numbered circle
+or oval to refer to each political party, candidate, or public question.
+[Pre-1986 Recodification Citation: 3-2-4-4(c) part.]
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1987,
+SEC.307; P.L.58-2005, SEC.19; P.L.164-2006, SEC.114;
+P.L.190-2011, SEC.10; P.L.194-2013, SEC.67; P.L.21-2016, SEC.16;
+P.L.278-2019, SEC.104; P.L.141-2020, SEC.12; P.L.109-2021,
+SEC.45; P.L.193-2021, SEC.50; P.L.227-2023, SEC.95; P.L.9-2024,
+SEC.23; P.L.195-2025, SEC.10; P.L.7-2026, SEC.2; P.L.23-2026,
+SEC.5; P.L.99-2026, SEC.8.
 IC 3-11-13-11.5
 No quotation marks in formatting public questions on ballot
 Sec. 11.5. A public question printed on a ballot
@@ -41696,6 +42414,8 @@ As added by P.L.5-1986, SEC.7.
 IC 3-11-13-14
 Straight party ticket voting; provision for single mark designation on
 ballot
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 14. (a) In partisan elections, the ballot labels
 must include a voting square or position where a voter may by one (1)
 voting mark on each card record a straight party ticket vote for all the
@@ -41725,6 +42445,38 @@ casts a straight party ticket.
 As added by P.L.5-1986, SEC.7. Amended by P.L.3-1993,
 SEC.166; P.L.221-2005, SEC.77; P.L.21-2016, SEC.17; P.L.109-2021,
 SEC.47; P.L.227-2023, SEC.96; P.L.195-2025, SEC.11.
+IC 3-11-13-14
+Straight party ticket voting; provision for single mark designation on
+ballot
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 14. (a) In partisan elections, the ballot labels
+must include a voting square or position where a voter may by one (1)
+voting mark on each card record a straight party ticket vote for all the
+candidates of one (1) political party, except for offices for which the
+voter:
+(1) is required to cast an individual vote for a candidate under
+IC 3-11-7-4
+(b); or
+(2) has voted individually for a candidate for any other office.
+(b) A ballot label must not include a voting square or position to
+permit a voter to cast a straight party ticket for a political party if:
+(1) there are no candidates of that political party; or
+(2) the only candidates:
+(A) of the political party; or
+(B) that have stated an affiliation with the political party under
+IC 3-8-2.5-2.5
+(a)(5);
+are for election to school board offices which will not be credited
+with a vote under
+IC 3-12-1-7.1
+if a voter casts a straight party
+ticket.
+[Pre-1986 Recodification Citation: 3-2-4-4(c) part.]
+As added by P.L.5-1986, SEC.7. Amended by P.L.3-1993,
+SEC.166; P.L.221-2005, SEC.77; P.L.21-2016, SEC.17; P.L.109-2021,
+SEC.47; P.L.227-2023, SEC.96; P.L.195-2025, SEC.11; P.L.99-2026,
+SEC.9.
 IC 3-11-13-15
 Repealed
 [Pre-1986 Recodification Citation: 3-2-4-4.5 part.]
@@ -41829,6 +42581,8 @@ SEC.25.
 IC 3-11-13-22
 Automatic tabulating machines; testing; reprinting or correction of
 ballots requiring additional testing
+Note: This version of section effective until 7-1-2027. See also
+following version of this section, effective 7-1-2027.
 Sec. 22. (a) This section applies to:
 (1) a ballot card voting system; and
 (2) a voting system that includes features of a ballot card voting
@@ -41923,6 +42677,105 @@ SEC.24; P.L.176-1999, SEC.81; P.L.26-2000, SEC.16; P.L.169-2015,
 SEC.127; P.L.74-2017, SEC.52; P.L.100-2018, SEC.6; P.L.71-2019,
 SEC.14; P.L.278-2019, SEC.106; P.L.135-2020, SEC.4; P.L.227-2023,
 SEC.97; P.L.212-2025, SEC.3.
+IC 3-11-13-22
+Automatic tabulating machines; testing; reprinting or correction of
+ballots requiring additional testing
+Note: This version of section effective 7-1-2027. See also preceding
+version of this section, effective until 7-1-2027.
+Sec. 22. (a) This section applies to:
+(1) a ballot card voting system; and
+(2) a voting system that includes features of a ballot card voting
+system and a direct record electronic voting system.
+(b) Not later than seventy-four (74) days before election day, for
+each county planning to use automatic tabulating machines at the next
+election, VSTOP shall provide each county election board with a
+randomly sorted list of unique identification numbers for the inventory
+of machines in the county maintained under
+IC 3-11-16-4
+. Starting at
+the top of the list, the county election board shall select machines in the
+list in the order listed so that:
+(1) if a machine to be selected in the list is not scheduled to be
+used in the upcoming election, the selection process will move to
+the next machine in the order listed;
+(2) each selected machine is scheduled to be used in the
+upcoming election; and
+(3) the number of machines selected is not less than five percent
+(5%) of the machines in the county scheduled by the county
+election board to be used in the upcoming election.
+(c) The county election board shall test the machines as described
+in subsection (b) to ascertain that the machines will correctly do the
+following:
+(1) Count the votes cast for straight party tickets, for all
+candidates (including write-in candidates), and on all public
+questions.
+(2) Retract an absentee ballot card of a voter who is later found
+disqualified or whose ballot may not be counted, in accordance
+with
+IC 3-11.5-4-6
+, before the voter's ballot is tabulated.
+If an individual attending the public test requests that additional
+automatic tabulating machines be tested, then the county election board
+shall select and test additional machines from the list in the manner
+described in subsection (b).
+(d) If VSTOP does not provide the lists under subsection (b) not
+later than sixty (60) days before the election, the county election board
+shall establish and implement a procedure for random selection of not
+less than five percent (5%) of the machines in the county to be used in
+the upcoming election. The county election board shall then test the
+machines selected as described in subsection (c).
+(e) Not later than seven (7) days after conducting the test under
+subsection (c), the county election board shall certify to the election
+division that the test has been conducted in conformity with subsection
+(c). The testing under subsection (c) must begin before absentee voting
+begins in the office of the circuit court clerk under
+IC 3-11-10-26
+.
+(f) Public notice of the time and place shall be given at least
+forty-eight (48) hours before the test. The notice shall be published
+once in accordance with
+IC 5-3-1-1.5
+.
+(g) If a county election board determines that:
+(1) a ballot:
+(A) must be reprinted or corrected as provided by
+IC 3-11-2-16
+because of the omission of a candidate, political party, or public
+question from the ballot; or
+(B) is an absentee ballot that a voter is entitled to recast under
+IC 3-11.5-4-2
+because the absentee ballot includes a candidate
+for election to office who:
+(i) ceased to be a candidate; and
+(ii) has been succeeded by a candidate selected under
+IC 3-13-1
+or
+IC 3-13-2
+; and
+(2) ballots used in the test conducted under this section were not
+reprinted or corrected to remove the omission of a candidate,
+political party, or public question, or indicate the name of the
+successor candidate;
+the county election board shall conduct an additional public test
+described in subsection (c) using the reprinted or corrected ballots.
+Notice of the time and place of the additional test shall be given in
+accordance with
+IC 5-14-1.5
+, but publication of the notice in
+accordance with
+IC 5-3-1-1.5
+is not required.
+(h) Notwithstanding
+IC 3-5-4-1.7
+, a county election board may send
+a signed form from a public test to the election division by electronic
+mail or fax.
+[Pre-1986 Recodification Citation: 3-2-4-4(f) part.]
+As added by P.L.5-1986, SEC.7. Amended by P.L.6-1986,
+SEC.24; P.L.176-1999, SEC.81; P.L.26-2000, SEC.16; P.L.169-2015,
+SEC.127; P.L.74-2017, SEC.52; P.L.100-2018, SEC.6; P.L.71-2019,
+SEC.14; P.L.278-2019, SEC.106; P.L.135-2020, SEC.4; P.L.227-2023,
+SEC.97; P.L.212-2025, SEC.3; P.L.157-2026, SEC.2.
 IC 3-11-13-23
 Observation of machine tests; certification
 Sec. 23. (a) The two (2) appointed members of the
@@ -42520,6 +43373,8 @@ As added by P.L.6-1986, SEC.32. Amended by P.L.2-1996,
 SEC.195; P.L.3-1997, SEC.325; P.L.169-2015, SEC.129.
 IC 3-11-13-41
 Notice of audit
+Note: This version of section effective until 7-1-2027. See also
+following version of this section, effective 7-1-2027.
 Sec. 41. Public notice of the time and place of an
 audit under section 37 of this chapter shall be given at least forty-eight
 (48) hours before the audit. The notice shall be published once in
@@ -42534,6 +43389,25 @@ be given by posting it:
 (1) at or near the county courthouse; and
 (2) at the post office serving the county courthouse.
 As added by P.L.6-1986, SEC.33.
+IC 3-11-13-41
+Notice of audit
+Note: This version of section effective 7-1-2027. See also preceding
+version of this section, effective until 7-1-2027.
+Sec. 41. Public notice of the time and place of an
+audit under section 37 of this chapter shall be given at least forty-eight
+(48) hours before the audit. The notice shall be published once in
+accordance with
+IC 5-3-1-1.5
+. However, if publication in accordance
+with
+IC 5-3-1-1.5
+will not allow the county election board to certify the
+results of the audit within ten (10) days after the election, notice shall
+be given by posting it:
+(1) at or near the county courthouse; and
+(2) at the post office serving the county courthouse.
+As added by P.L.6-1986, SEC.33. Amended by P.L.157-2026,
+SEC.3.
 IC 3-11-13-42
 Municipal election use of ballot card voting system
 Sec. 42. If a county has procured ballot card voting
@@ -42597,6 +43471,8 @@ paper audit trail
 Ballot labels
 3-11-14-3.5
 Ballot information; arrangement
+3-11-14-3.5
+Ballot information; arrangement
 3-11-14-3.7
 No quotation marks in formatting public
 questions on ballot
@@ -42625,6 +43501,8 @@ Preparation and adjustment of system before
 delivery
 3-11-14-14
 Delivery of system to polls
+3-11-14-14.5
+Ballot label; casting straight party vote
 3-11-14-14.5
 Ballot label; casting straight party vote
 3-11-14-15
@@ -42769,6 +43647,8 @@ As added by P.L.3-1987, SEC.327. Amended by P.L.58-2005,
 SEC.21.
 IC 3-11-14-3.5
 Ballot information; arrangement
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 3.5. (a) Each county election board shall have
 the names of all candidates for all elected offices, political party
 offices, and public questions printed on ballot labels for use in an
@@ -42795,9 +43675,9 @@ applies if the certification or petition does not
 include a name or device, or if the same device is selected by two (2)
 or more parties or petitioners. In the case of a candidate described in
 IC 3-8-2.5-2.5
-(a)(5)(C), a blank space after the candidate's name
-signifying that the candidate elects not to disclose any affiliation with
-a political party or that the candidate:
+(a)(5)(C), a blank space must be printed after the candidate's
+name signifying that the candidate elects not to disclose any affiliation
+with a political party or that the candidate:
 (1) is not affiliated with a political party; and
 (2) does not identify as an independent candidate.
 (e) The ballot labels must list the offices and public questions on the
@@ -42880,6 +43760,10 @@ must be implemented to permit write-in voting for candidates for
 federal offices.
 (8) The name of a write-in candidate may not be listed on the
 ballot.
+If there is more than one (1) candidate for a grouping described in
+subdivisions (1) through (8) for a school board office, the candidates
+shall appear in the order established by this subsection and within the
+grouping, in alphabetical order according to surname.
 (h) The names of the candidates grouped in the order established by
 subsection (g) must be printed in type with uniform capital letters and
 have a uniform space between each name. The name of the candidate's
@@ -42979,7 +43863,230 @@ As added by P.L.58-2005, SEC.22. Amended by P.L.190-2011,
 SEC.11; P.L.225-2011, SEC.67; P.L.194-2013, SEC.68; P.L.76-2014,
 SEC.43; P.L.21-2016, SEC.19; P.L.141-2020, SEC.13; P.L.109-2021,
 SEC.49; P.L.193-2021, SEC.55; P.L.227-2023, SEC.100;
-P.L.195-2025, SEC.12.
+P.L.195-2025, SEC.12; P.L.7-2026, SEC.3; P.L.23-2026,
+SEC.6.
+IC 3-11-14-3.5
+Ballot information; arrangement
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 3.5. (a) Each county election board shall have
+the names of all candidates for all elected offices, political party
+offices, and public questions printed on ballot labels for use in an
+electronic voting system as provided in this chapter.
+(b) The county may:
+(1) print all offices and public questions on a single ballot label;
+and
+(2) include a ballot variation code to ensure that the proper
+version of a ballot label is used within a precinct.
+(c) Each type of ballot label must be of uniform size and of the same
+quality and color of paper (except as permitted under
+IC 3-10-1-17
+).
+(d) The nominees of a political party or an independent candidate
+or independent ticket (described in
+IC 3-11-2-6
+) nominated by
+petitioners must be listed on the ballot label with the name and device
+set forth on the certification or petition. The circle containing the
+device may be of any size that permits a voter to readily identify the
+device.
+IC 3-11-2-5
+applies if the certification or petition does not
+include a name or device, or if the same device is selected by two (2)
+or more parties or petitioners. In the case of a candidate described in
+IC 3-8-2.5-2.5
+(a)(5)(C), a blank space must be printed after the candidate's
+name signifying that the candidate elects not to disclose any affiliation
+with a political party or that the candidate:
+(1) is not affiliated with a political party; and
+(2) does not identify as an independent candidate.
+(e) The ballot labels must list the offices and public questions on the
+general election ballot in the order listed in
+IC 3-11-2-12
+,
+IC 3-11-2-12.5
+,
+IC 3-11-2-12.7
+(b),
+IC 3-11-2-12.9
+(a),
+IC 3-11-2-12.9
+(c),
+IC 3-11-2-13
+(a) through
+IC 3-11-2-13
+(c),
+IC 3-11-2-14
+(a),
+IC 3-11-2-14
+(d), and
+IC 3-11-2-14
+(e). Each office and public question
+may have a separate screen, or the offices and public questions may be
+listed in a continuous column either vertically or horizontally.
+(f) The name of each office must be printed in a uniform size in bold
+type. A statement reading substantially as follows must be placed
+immediately below the name of the office and above the name of the
+first candidate:
+(1) "Vote for one (1) only.", if only one (1) candidate is to be
+elected to the office.
+(2) "Vote for not more than (insert the number of candidates to be
+elected) candidate(s) for this office. To vote for any candidate for
+this office, you must make a voting mark for each candidate you
+wish to vote for.", if more than one (1) candidate is to be elected
+to the office.
+(3) "Vote for not more than (insert the number of candidates to be
+elected) candidate(s) for this office. To vote for any candidate for
+this office, you must make a voting mark for each candidate you
+wish to vote for. A straight party vote will not count as a vote for
+any candidate for this office.", if more than one (1) candidate is to
+be elected to a school board office.
+(4) "Vote for one (1) only. A straight party vote will not count as
+a vote for any candidate for this office.", if only one (1) candidate
+is to be elected to a school board office.
+(g) Below the name of the office and the statement required by
+subsection (f), the names of the candidates for each office must be
+grouped together in the following order:
+(1) The major political party whose candidate received the highest
+number of votes in the county for secretary of state at the last
+election is listed first.
+(2) The major political party whose candidate received the second
+highest number of votes in the county for secretary of state is
+listed second.
+(3) All other political parties listed in the order that the parties'
+candidates for secretary of state finished in the last election are
+listed after the party listed in subdivision (2).
+(4) If a political party did not have a candidate for secretary of
+state in the last election or a nominee is an independent candidate
+or independent ticket (described in
+IC 3-11-2-6
+), the party or
+candidate is listed after the parties described in subdivisions (1),
+(2), and (3).
+(5) If more than one (1) political party or independent candidate
+or ticket described in subdivision (4) qualifies to be on the ballot,
+the parties, candidates, or tickets are listed in the order in which
+the party filed its petition of nomination under
+IC 3-8-6-12
+.
+(6) The name of a candidate described in
+IC 3-8-2.5-2.5
+(a)(5)(C)
+is placed after the candidates listed in subdivisions (1) through
+(5), if applicable.
+(7) A space for write-in voting is placed after the candidates listed
+in subdivisions (1) through (6), if required by law. A space for
+write-in voting for an office is not required if there are no
+declared write-in candidates for that office. However, procedures
+must be implemented to permit write-in voting for candidates for
+federal offices.
+(8) The name of a write-in candidate may not be listed on the
+ballot.
+If there is more than one (1) candidate for a grouping described in
+subdivisions (1) through (8) for a school board office, the candidates
+shall appear in the order established by this subsection and within the
+grouping, in alphabetical order according to surname.
+(h) The names of the candidates grouped in the order established by
+subsection (g) must be printed in type with uniform capital letters and
+have a uniform space between each name. The name of the candidate's
+political party, or the word "Independent", if the:
+(1) candidate; or
+(2) ticket of candidates for:
+(A) President and Vice President of the United States; or
+(B) governor and lieutenant governor;
+is independent, must be placed immediately below or beside the name
+of the candidate and must be printed in uniform size and type. In the
+case of a candidate described in
+IC 3-8-2.5-2.5
+(a)(5)(C), the name of
+the candidate must be printed with a blank space after the candidate's
+name signifying that the candidate elects not to disclose any affiliation
+with a political party or that the candidate is not affiliated with a
+political party and does not identify as an independent candidate.
+(i) All the candidates of the same political party for election to
+at-large seats on the fiscal or legislative body of a political subdivision
+must be grouped together:
+(1) under the name of the office that the candidates are seeking;
+(2) in the party order established by subsection (g); and
+(3) within the political party, in alphabetical order according to
+surname.
+A statement reading substantially as follows must be placed
+immediately below the name of the office and above the name of the
+first candidate: "Vote for not more than (insert the number of
+candidates to be elected) candidate(s) of ANY party for this office.".
+(j) Candidates for election to at-large seats on the governing body
+of a school corporation must be grouped:
+(1) under the name of the office that the candidates are seeking;
+and
+(2) in alphabetical order according to surname.
+A statement reading substantially as follows must be placed
+immediately below the name of the office and above the name of the
+first candidate: "Vote for not more than (insert the number of
+candidates to be elected) candidate(s) for this office. A straight party
+vote will not count as a vote for any candidate for this office.".
+(k) The cautionary statement described in
+IC 3-11-2-7
+must be
+placed at the top or beginning of the ballot label before the first public
+question is listed.
+(l) The instructions described in
+IC 3-11-2-8
+,
+IC 3-11-2-10
+(d), and
+IC 3-11-2-10
+(e) may be:
+(1) placed on the ballot label; or
+(2) posted in a location within the voting booth that permits the
+voter to easily read the instructions.
+(m) Except as provided in section 14.5 of this chapter, the ballot
+label must include a touch sensitive point or button for voting a straight
+political party ticket by one (1) touch, and the touch sensitive point or
+button must be identified by:
+(1) the name of the political party; and
+(2) immediately below or beside the political party's name, the
+device of that party (described in
+IC 3-11-2-5
+).
+The name and device of each party must be of uniform size and type,
+and arranged in the order established by subsection (g) for listing
+candidates under each office. The instructions described in
+IC 3-11-2-10
+(c) for voting a straight party ticket and the statement
+concerning presidential electors required under
+IC 3-10-4-3
+must be
+placed on the ballot label. The instructions for voting a straight party
+ticket must include the statement: "If you do not wish to vote a straight
+party ticket, press "NEXT" (or replace "NEXT" with the term used by
+that voting system to permit a voter to skip a ballot screen) to continue
+voting.".
+(n) A public question must be in the form described in
+IC 3-11-2-15
+(a) and
+IC 3-11-2-15
+(b), except that a touch sensitive point
+or button must be used instead of a square. Except as expressly
+authorized or required by statute, a county election board may not print
+a ballot label that contains language concerning the public question
+other than the language authorized by a statute.
+(o) The requirements in this section:
+(1) do not replace; and
+(2) are in addition to;
+any other requirements in this title that apply to ballots for electronic
+voting systems.
+(p) The procedure described in
+IC 3-11-2-16
+must be used when a
+ballot label does not comply with the requirements imposed by this title
+or contains another error or omission that might result in confusion or
+mistakes by voters.
+As added by P.L.58-2005, SEC.22. Amended by P.L.190-2011,
+SEC.11; P.L.225-2011, SEC.67; P.L.194-2013, SEC.68; P.L.76-2014,
+SEC.43; P.L.21-2016, SEC.19; P.L.141-2020, SEC.13; P.L.109-2021,
+SEC.49; P.L.193-2021, SEC.55; P.L.227-2023, SEC.100;
+P.L.195-2025, SEC.12; P.L.7-2026, SEC.3; P.L.23-2026, SEC.6;
+P.L.99-2026, SEC.10.
 IC 3-11-14-3.7
 No quotation marks in formatting public questions on ballot
 Sec. 3.7. A public question printed on a ballot shall
@@ -43111,6 +44218,8 @@ requested to do so by the county election board.
 As added by P.L.3-1987, SEC.327.
 IC 3-11-14-14.5
 Ballot label; casting straight party vote
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 14.5. A ballot label must not include a touch
 sensitive point or button to permit a voter to cast a straight party ticket
 for a political party if:
@@ -43130,6 +44239,26 @@ if a voter
 casts a straight party ticket.
 As added by P.L.109-2021, SEC.51. Amended by P.L.227-2023,
 SEC.102; P.L.195-2025, SEC.13.
+IC 3-11-14-14.5
+Ballot label; casting straight party vote
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 14.5. A ballot label must not include a touch
+sensitive point or button to permit a voter to cast a straight party ticket
+for a political party if:
+(1) there are no candidates of that political party; or
+(2) the only candidates:
+(A) of the political party; or
+(B) that have stated an affiliation with the political party under
+IC 3-8-2.5-2.5
+(a)(5);
+are for election to school board offices which will not be credited
+with a vote under
+IC 3-12-1-7.1
+if a voter casts a straight party
+ticket.
+As added by P.L.109-2021, SEC.51. Amended by P.L.227-2023,
+SEC.102; P.L.195-2025, SEC.13; P.L.99-2026, SEC.11.
 IC 3-11-14-15
 Examination of system and sample ballots upon delivery
 Sec. 15. (a) This section applies to each precinct and
@@ -43476,6 +44605,8 @@ reprinting or correction of ballots requiring
 additional testing
 3-11-14.5-2
 Public notice of test
+3-11-14.5-2
+Public notice of test
 3-11-14.5-3
 Certification of test by election board
 3-11-14.5-4
@@ -43564,6 +44695,8 @@ SEC.130; P.L.100-2018, SEC.7; P.L.71-2019, SEC.18; P.L.278-2019,
 SEC.113; P.L.135-2020, SEC.5.
 IC 3-11-14.5-2
 Public notice of test
+Note: This version of section effective until 7-1-2027. See also
+following version of this section, effective 7-1-2027.
 Sec. 2. (a) Except as provided by subsection (b),
 public notice of the time and place shall be given at least forty-eight
 (48) hours before the test. The notice shall be published once in
@@ -43580,6 +44713,27 @@ IC 5-3-1-4
 is not required.
 As added by P.L.221-2005, SEC.91. Amended by P.L.169-2015,
 SEC.131; P.L.71-2019, SEC.19.
+IC 3-11-14.5-2
+Public notice of test
+Note: This version of section effective 7-1-2027. See also preceding
+version of this section, effective until 7-1-2027.
+Sec. 2. (a) Except as provided by subsection (b),
+public notice of the time and place shall be given at least forty-eight
+(48) hours before the test. The notice shall be published once in
+accordance with
+IC 5-3-1-1.5
+.
+(b) This subsection applies to an additional public test conducted
+under section 1(e) of this chapter. Notice of the time and place of the
+additional test shall be given in accordance with
+IC 5-14-1.5
+, but
+publication of the notice in accordance with
+IC 5-3-1-1.5
+is not
+required.
+As added by P.L.221-2005, SEC.91. Amended by P.L.169-2015,
+SEC.131; P.L.71-2019, SEC.19; P.L.157-2026, SEC.4.
 IC 3-11-14.5-3
 Certification of test by election board
 Sec. 3. The two (2) appointed members of the county
@@ -47145,17 +48299,13 @@ IC 22-2-18
 2021) or
 IC 22-2-18.1
 .
-(f) The county election board is not required to register as an
-employer under
-IC 22-2-18.1
-.
-(g) When the county election board makes an appointment under
+(f) When the county election board makes an appointment under
 this section and the individual accepts the appointment by swearing the
 oath of office required under this title, a contract is created between the
 county election board and the individual in which the county election
 board retains the services of the appointed individual as an independent
 contractor.
-(h) For purposes of Article 2, Section 9 of the Constitution of the
+(g) For purposes of Article 2, Section 9 of the Constitution of the
 State of Indiana, the position of:
 (1) member of an absentee voter board;
 (2) member of an absentee ballot counter team; or
@@ -47164,7 +48314,8 @@ is not a lucrative office.
 As added by P.L.3-1993, SEC.176 and P.L.19-1993, SEC.2.
 Amended by P.L.3-1995, SEC.118; P.L.38-1999, SEC.55; P.L.14-2004,
 SEC.142; P.L.74-2017, SEC.56; P.L.201-2017, SEC.33; P.L.147-2020,
-SEC.2; P.L.109-2021, SEC.65; P.L.153-2024, SEC.21.
+SEC.2; P.L.109-2021, SEC.65; P.L.153-2024, SEC.21; P.L.91-2026,
+SEC.2.
 IC 3-11.5-4-23.5
 Appointment of absentee ballot counters and couriers in Marion
 County
@@ -49479,9 +50630,14 @@ mutilation
 Ballot void for extrinsic act; erasures
 3-12-1-5
 Counting voting marks
+3-12-1-5
+Counting voting marks
 3-12-1-6
 Voting mark on or in voting square; public
 questions
+3-12-1-7
+Straight party ticket voting; counting multiple
+votes
 3-12-1-7
 Straight party ticket voting; counting multiple
 votes
@@ -49489,6 +50645,9 @@ votes
 Straight party vote for school board candidate
 3-12-1-7.5
 Counting write-in votes
+3-12-1-8
+Voting mark on political party device circle;
+individual votes required for certain candidates
 3-12-1-8
 Voting mark on political party device circle;
 individual votes required for certain candidates
@@ -49512,6 +50671,9 @@ Absentee ballots; necessary endorsements
 3-12-1-14
 Counting of vote cast for candidate who ceases to
 be candidate
+3-12-1-15
+Counting straight party vote for successor
+candidate; exceptions
 3-12-1-15
 Counting straight party vote for successor
 candidate; exceptions
@@ -49663,6 +50825,8 @@ As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
 SEC.34; P.L.3-1987, SEC.332.
 IC 3-12-1-5
 Counting voting marks
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 5. (a) This subsection does not apply to a ballot
 card voting system or an electronic voting system. Except as provided
 in subsection (d), a voting mark made by a voter on or in a voting
@@ -49697,6 +50861,38 @@ candidate for an office described by this subsection.
 As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
 SEC.35; P.L.219-2013, SEC.62; P.L.21-2016, SEC.22; P.L.278-2019,
 SEC.137; P.L.195-2025, SEC.14.
+IC 3-12-1-5
+Counting voting marks
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 5. (a) This subsection does not apply to a ballot
+card voting system or an electronic voting system. Except as provided
+in subsection (d), a voting mark made by a voter on or in a voting
+square at the left of a candidate's name or political party's name shall
+be counted as a vote for the candidate or candidates of the political
+party.
+(b) This subsection applies to a ballot card voting system. A voting
+mark made by a voter:
+(1) on or in a circle, oval, or square; or
+(2) to connect a connectable arrow;
+immediately below or beside a candidate's name or political party's
+name shall be counted as a vote for the candidate or candidates of the
+political party, except as provided in subsection (d).
+(c) This subsection applies to a direct record electronic voting
+system. A voting mark made by a voter touching a touch sensitive point
+or button below or beside a candidate's name or political party's name
+shall be counted as a vote for the candidate or candidates of the
+political party, except as provided in subsection (d).
+(d) A voter who wishes to cast a ballot for a candidate for election
+to a school board office must make a voting mark for each individual
+candidate for whom the voter wishes to cast a vote. A straight ticket
+voting mark on a paper ballot, ballot card voting system, or electronic
+voting system shall not be counted as a straight party ticket voting mark
+as a vote for any candidate for a school board office.
+[Pre-1986 Recodification Citation: 3-1-25-18(b).]
+As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
+SEC.35; P.L.219-2013, SEC.62; P.L.21-2016, SEC.22; P.L.278-2019,
+SEC.137; P.L.195-2025, SEC.14; P.L.99-2026, SEC.12.
 IC 3-12-1-6
 Voting mark on or in voting square; public questions
 Sec. 6. A voting mark made by a voter on or in a voting
@@ -49707,6 +50903,8 @@ As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
 SEC.36.
 IC 3-12-1-7
 Straight party ticket voting; counting multiple votes
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 7. (a) This subsection applies whenever a voter:
 (1) votes a straight party ticket; and
 (2) votes only for one (1) or more individual candidates who are
@@ -49795,6 +50993,76 @@ for that office, none of the votes concerning that office may be counted.
 As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
 SEC.37; P.L.3-1993, SEC.178; P.L.3-1997, SEC.339; P.L.164-2006,
 SEC.124; P.L.21-2016, SEC.23.
+IC 3-12-1-7
+Straight party ticket voting; counting multiple votes
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 7. (a) This subsection applies whenever a voter:
+(1) votes a straight party ticket; and
+(2) votes only for one (1) or more individual candidates who are
+all of the same political party as the straight ticket vote.
+Except as provided in subsection (d), the straight ticket vote shall be
+counted and the individual candidate votes may not be counted.
+(b) This subsection applies whenever:
+(1) a voter has voted a straight party ticket for the candidates of
+one (1) political party;
+(2) only one (1) person may be elected to an office; and
+(3) the voter has voted for one (1) individual candidate for the
+office described in subdivision (2) who is:
+(A) a candidate of a political party other than the party for
+which the voter voted a straight ticket; or
+(B) an independent candidate or declared write-in candidate for
+the office.
+If the voter has voted for one (1) individual candidate for the office
+described in subdivision (2), the individual candidate vote for that
+office shall be counted, the straight party ticket vote for that office may
+not be counted, and the straight party ticket votes for other offices on
+the ballot shall be counted.
+(c) This subsection applies whenever:
+(1) a voter has voted a straight party ticket for the candidates of
+one (1) political party; and
+(2) the voter has voted for more individual candidates for the
+office than the number of persons to be elected to that office.
+The individual candidate votes for that office may not be counted, the
+straight party ticket vote for that office may not be counted, and the
+straight party ticket votes for other offices on the ballot shall be
+counted.
+(d) This subsection applies whenever:
+(1) a voter has voted a straight party ticket for the candidates of
+one (1) political party;
+(2) more than one (1) person may be elected to an office; and
+(3) the voter has voted for one (1) or more individual candidates
+for the office described in subdivision (2) who are:
+(A) independent candidates or declared write-in candidates;
+(B) candidates of a political party other than the political party
+for which the voter cast a straight party ticket under subdivision
+(1);
+(C) candidates of the same political party for which the voter
+cast a straight party ticket under subdivision (1); or
+(D) a combination of candidates described in clauses (A), (B),
+and (C).
+The individual votes cast by the voter for the office shall be counted
+unless the total number of these individual votes is greater than the
+number of persons to be elected to the office. The straight party ticket
+votes for the office shall not be counted. The straight party ticket votes
+for other offices on the voter's ballot shall be counted.
+(e) If a voter votes a straight party ticket for more than one (1)
+political party, the whole ballot is void with regard to all candidates
+nominated by a political party, declared write-in candidates, or
+candidates designated as independent candidates on the ballot.
+However, the voter's vote for a school board candidate or on a public
+question shall be counted if otherwise valid under this chapter.
+(f) If a voter does not vote a straight party ticket and the number of
+votes cast by that voter for the candidates for an office are less than or
+equal to the number of openings for that office, the individual
+candidates votes shall be counted.
+(g) If a voter does not vote a straight party ticket and the number of
+votes cast by that voter for an office exceeds the number of openings
+for that office, none of the votes concerning that office may be counted.
+[Pre-1986 Recodification Citation: 3-1-25-18(d).]
+As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
+SEC.37; P.L.3-1993, SEC.178; P.L.3-1997, SEC.339; P.L.164-2006,
+SEC.124; P.L.21-2016, SEC.23; P.L.99-2026, SEC.13.
 IC 3-12-1-7.1
 Straight party vote for school board candidate
 Sec. 7.1. Notwithstanding section 7 of this chapter, a
@@ -49822,6 +51090,8 @@ SEC.24.
 IC 3-12-1-8
 Voting mark on political party device circle; individual votes required
 for certain candidates
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 8. (a) Except as provided in subsection (b), a
 voting mark made by a voter on or in a circle containing a political
 party device shall be counted as a vote for each candidate of that
@@ -49842,6 +51112,25 @@ subsection.
 As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
 SEC.38; P.L.3-1987, SEC.333; P.L.21-2016, SEC.25; P.L.278-2019,
 SEC.138; P.L.195-2025, SEC.16.
+IC 3-12-1-8
+Voting mark on political party device circle; individual votes required
+for certain candidates
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 8. (a) Except as provided in subsection (b), a
+voting mark made by a voter on or in a circle containing a political
+party device shall be counted as a vote for each candidate of that
+political party on that ballot.
+(b) A voter who wishes to cast a ballot for a candidate for election
+to a school board office must make a voting mark for each individual
+candidate for whom the voter wishes to cast a vote. A voting mark on
+or in a circle containing a political party device shall not be counted as
+a straight party ticket voting mark as a vote for any candidate for a
+school board office.
+[Pre-1986 Recodification Citation: 3-1-25-18(e).]
+As added by P.L.5-1986, SEC.8. Amended by P.L.6-1986,
+SEC.38; P.L.3-1987, SEC.333; P.L.21-2016, SEC.25; P.L.278-2019,
+SEC.138; P.L.195-2025, SEC.16; P.L.99-2026, SEC.14.
 IC 3-12-1-9
 Counting voting marks; voting marks not counted; certification of
 voting systems that can detect voting marks
@@ -49962,6 +51251,8 @@ IC 3-13-2
 As added by P.L.5-1989, SEC.63.
 IC 3-12-1-15
 Counting straight party vote for successor candidate; exceptions
+Note: This version of section effective until 1-1-2027. See also
+following version of this section, effective 1-1-2027.
 Sec. 15. (a) This section does not apply to a candidate
 for a school board office or an at-large office of a county council, city
 common council, town council, or township board, if those offices
@@ -49978,6 +51269,24 @@ IC 3-13-2
 a vote cast for the successor.
 As added by P.L.5-1989, SEC.64. Amended by P.L.74-2017,
 SEC.57; P.L.195-2025, SEC.17.
+IC 3-12-1-15
+Counting straight party vote for successor candidate; exceptions
+Note: This version of section effective 1-1-2027. See also preceding
+version of this section, effective until 1-1-2027.
+Sec. 15. (a) This section does not apply to a candidate
+for a school board office, if a school board office appears on a ballot.
+(b) This section applies to a vote cast for one (1) straight party ticket
+that includes a candidate for election to office who:
+(1) ceases to be a candidate; and
+(2) is succeeded by a candidate selected under
+IC 3-13-1
+or
+IC 3-13-2
+.
+(c) A vote cast in the election for the original nominee is considered
+a vote cast for the successor.
+As added by P.L.5-1989, SEC.64. Amended by P.L.74-2017,
+SEC.57; P.L.195-2025, SEC.17; P.L.99-2026, SEC.15.
 IC 3-12-1-16
 Vote cast for former candidate
 Sec. 16. (a) This section applies when:
@@ -50967,6 +52276,12 @@ of disparity between number of votes and number
 of voters; public meeting of county election
 board; audit and notice of audit; secretary of state
 report
+3-12-3.5-8
+"Audit threshold number"; "judge"; determination
+of disparity between number of votes and number
+of voters; public meeting of county election
+board; audit and notice of audit; secretary of state
+report
 IC 3-12-3.5-1
 Application of chapter; vote centers treated as precincts
 Sec. 1. (a) This chapter applies to each precinct where
@@ -51172,6 +52487,8 @@ IC 3-12-3.5-8
 "Audit threshold number"; "judge"; determination of disparity between
 number of votes and number of voters; public meeting of county
 election board; audit and notice of audit; secretary of state report
+Note: This version of section effective until 7-1-2027. See also
+following version of this section, effective 7-1-2027.
 Sec. 8. (a) As used in this section, "audit threshold
 number" refers to the following number:
 (1) One (1), if the total number of votes cast, as determined under
@@ -51282,6 +52599,123 @@ discrepancy was the result of human error, intentional violations of
 election laws, unknown causes, or a combination of these factors.
 As added by P.L.64-2014, SEC.71. Amended by P.L.76-2014,
 SEC.55; P.L.169-2015, SEC.148; P.L.210-2018, SEC.9.
+IC 3-12-3.5-8
+"Audit threshold number"; "judge"; determination of disparity between
+number of votes and number of voters; public meeting of county
+election board; audit and notice of audit; secretary of state report
+Note: This version of section effective 7-1-2027. See also preceding
+version of this section, effective until 7-1-2027.
+Sec. 8. (a) As used in this section, "audit threshold
+number" refers to the following number:
+(1) One (1), if the total number of votes cast, as determined under
+subsection (c), is not more than twenty (20).
+(2) Two (2), if the total number of votes cast, as determined under
+subsection (c), is:
+(A) more than twenty (20); but
+(B) not more than forty (40).
+(3) Three (3), if the total number of votes cast, as determined
+under subsection (c), is:
+(A) more than forty (40); but
+(B) not more than sixty (60).
+(4) Four (4), if the total number of votes cast, as determined under
+subsection (c), is:
+(A) more than sixty (60); but
+(B) not more than eighty (80).
+(5) Five percent (5%) of the total number of votes cast, rounded
+up to the nearest whole number, if the total number of votes cast,
+as determined under subsection (c), is:
+(A) more than eighty (80); but
+(B) not more than five hundred (500).
+(6) Twenty-five (25), if the total number of votes cast, as
+determined under subsection (c) is more than five hundred (500).
+(b) As used in this section, "judge" refers only to the judge who is
+a member of a political party other than the political party of the
+inspector.
+(c) After each electronic voting system has been secured and the
+paper vote total printouts obtained, the inspector and judge shall record
+the total number of:
+(1) votes cast on all electronic voting systems located within the
+precinct; and
+(2) voters who have received a ballot by signing in at the polls
+according to the poll lists for each precinct;
+to determine if the total number of votes cast on the electronic voting
+systems differs from the number of voters shown to have received a
+ballot at the polls according to the poll lists.
+(d) The inspector and judge shall record the information set forth in
+subsection (c) on a form prescribed under
+IC 3-5-4-8
+and provided to
+each precinct and vote center under
+IC 3-11-3-10
+by the county
+election board. The inspector and judge shall sign the form before
+delivering the certificates in accordance with section 4 of this chapter
+and return the form with the certificates.
+(e) If the number of ballots received at the polls differs from the
+total number of voters shown on the poll lists, the inspector and judge
+shall report this fact in writing to the county election board together
+with the reasons for the discrepancy, if known, at the time that the
+inspector and judge return the precinct poll list to the board on the form
+required under subsection (d).
+(f) The county election board shall compile the following
+information into a single document listing for each precinct:
+(1) The number of votes cast on the electronic voting systems in
+the precinct, as shown on the form required for the precinct under
+subsection (d).
+(2) The number of voters who cast ballots on the electronic voting
+systems as shown on the form required for the precinct under
+subsection (d).
+(3) The number of absentee ballots returned by voters of the
+precinct.
+(4) The number of absentee ballots described in subdivision (3)
+that were counted.
+(5) The difference between the number in subdivision (1) and the
+number in subdivision (2).
+Not later than noon on the second Friday following the election, the
+county election board shall discuss and
+publish the document described
+in this subsection at a public hearing and immediately make the
+document available for inspection and copying by any voter of the
+county.
+(g) If the number determined under subsection (f)(5) is greater than
+or equal to the audit threshold number, then the county election board
+or the secretary of state may order an audit of all the votes cast in that
+precinct under this section. Before ordering an audit, the county
+election board shall recheck the computations reported by the inspector
+and judge under subsection (c).
+(h) The county election board shall confirm that the votes cast in an
+election:
+(1) for each candidate and each public question; and
+(2) on a direct record electronic voting system in the precinct;
+were correctly counted.
+(i) The county election board shall conduct an audit by means of
+tests and procedures that are approved by the commission and
+independent of the provider of the direct record electronic voting
+system being audited.
+(j) The county election board shall certify the results of the audit not
+later than noon thirty (30) days after the election. The certification must
+be on the form prescribed by the election division. One (1) copy shall
+be filed with the election returns, and one (1) copy must be delivered
+to the election division.
+(k) Public notice of the time and place of an audit shall be given at
+least forty-eight (48) hours before the audit. The notice shall be
+published once in accordance with
+IC 5-3-1-1.5
+. However, if
+publication in accordance with
+IC 5-3-1-1.5
+will not allow the county
+election board to certify the results of the audit within thirty (30) days
+after the election, notice shall be given by posting at or near the office
+of the county election board.
+(l) Not later than ninety (90) days after each election in which an
+audit is conducted under this section, the secretary of state shall publish
+a report stating whether the results of each audit indicate that the
+discrepancy was the result of human error, intentional violations of
+election laws, unknown causes, or a combination of these factors.
+As added by P.L.64-2014, SEC.71. Amended by P.L.76-2014,
+SEC.55; P.L.169-2015, SEC.148; P.L.210-2018, SEC.9; P.L.157-2026,
+SEC.5.
 IC 3-12-4
 Chapter 4. Canvassing Returns by County Election Board
 3-12-4-1

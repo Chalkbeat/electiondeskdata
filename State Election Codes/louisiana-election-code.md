@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://legis.la.gov/Legis/Laws_Toc.aspx?folder=92&level=Parent
 Sections: 592
+Currency: Live official legis.la.gov database; no publisher currency statement (checked 2026-09-10).
 
 ## Louisiana § 18:1
 

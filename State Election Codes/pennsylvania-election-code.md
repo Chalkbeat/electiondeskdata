@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://www.palegis.us/statutes/unconsolidated/law-information/view-statute?iFrame=true&txtType=HTM&SessYr=1937&ActNum=0320.&SessInd=0
 Sections: 2
+Currency: Live official Legislative Reference Bureau database; latest Election Code amendment cites are 2022 (checked 2026-09-10).
 
 ## Pennsylvania § 0320.
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://mca.legmt.gov/bills/mca/title_0130/chapters_index.html
 Sections: 849
+Currency: Montana Code Annotated 2025, updated August 2026 (biennial legislature; no 2026 regular session) (checked 2026-09-10).
 
 ## Montana § 13-1-101
 

@@ -2,6 +2,7 @@
 
 Source: official text scraped from https://asbar.org/legal-resources/code-annotated/code-annotated-by-title-and-chapter/
 Sections: 111
+Currency: WARNING — asbar.org (American Samoa Bar Association) annotated code, believed ~2021 vintage; not the official publisher and no currency statement (checked 2026-09-10).
 
 ## American Samoa § 6-0101
 

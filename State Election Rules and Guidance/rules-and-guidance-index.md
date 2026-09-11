@@ -1,0 +1,60 @@
+# State Election Rules and Guidance — index
+
+Compiled 2026-09-10 from `supplemental_sources.json` (the approved registry). Two files per jurisdiction: `rules-<state>.md` (administrative code) and `guidance-<state>.md` (directives, guidance, procedure manuals). Jurisdictions with no verifiable official source for a category say so.
+
+- **Alabama** — `rules-alabama.md` — 1 source(s), 134 section(s); `guidance-alabama.md` — 3 source(s), 3 section(s)
+- **Alaska** — `rules-alaska.md` — 1 source(s), 108 section(s); `guidance-alaska.md` — 4 source(s), 4 section(s)
+- **American Samoa** — `rules-american-samoa.md` — 1 source(s), 8 section(s); no guidance sources registered
+- **Arizona** — `rules-arizona.md` — 1 source(s), 6 section(s); `guidance-arizona.md` — 6 source(s), 8 section(s)
+- **Arkansas** — `rules-arkansas.md` — 1 source(s), 190 section(s); `guidance-arkansas.md` — 3 source(s), 6 section(s)
+- **California** — `rules-california.md` — 1 source(s), 267 section(s); `guidance-california.md` — 6 source(s), 2980 section(s)
+- **Colorado** — `rules-colorado.md` — 1 source(s), 26 section(s); no guidance sources registered
+- **Connecticut** — `rules-connecticut.md` — 1 source(s), 149 section(s); `guidance-connecticut.md` — 8 source(s), 37 section(s)
+- **Delaware** — `rules-delaware.md` — 1 source(s), 2 section(s); no guidance sources registered
+- **District of Columbia** — `rules-district-of-columbia.md` — 2 source(s), 222 section(s); `guidance-district-of-columbia.md` — 3 source(s), 11 section(s); `orders-district-of-columbia.md` — 1 source(s), 514 section(s)
+- **Florida** — `rules-florida.md` — 2 source(s), 43 section(s); `guidance-florida.md` — 4 source(s), 899 section(s)
+- **Georgia** — `rules-georgia.md` — 1 source(s), 55 section(s); no guidance sources registered
+- **Guam** — `rules-guam.md` — 1 source(s), 58 section(s); `guidance-guam.md` — 3 source(s), 3 section(s)
+- **Hawaii** — `rules-hawaii.md` — 2 source(s), 131 section(s); no guidance sources registered
+- **Idaho** — `rules-idaho.md` — 2 source(s), 14 section(s); `guidance-idaho.md` — 2 source(s), 17 section(s)
+- **Illinois** — `rules-illinois.md` — 1 source(s), 258 section(s); `guidance-illinois.md` — 3 source(s), 4 section(s)
+- **Indiana** — no admin rules: Indiana has no operative election administrative rules. The Indiana Administrative Code title assigned to the election a; `guidance-indiana.md` — 4 source(s), 101 section(s)
+- **Iowa** — `rules-iowa.md` — 1 source(s), 224 section(s); `guidance-iowa.md` — 1 source(s), 4 section(s)
+- **Kansas** — `rules-kansas.md` — 1 source(s), 48 section(s); `guidance-kansas.md` — 1 source(s), 7 section(s)
+- **Kentucky** — `rules-kentucky.md` — 1 source(s), 35 section(s); `guidance-kentucky.md` — 1 source(s), 1 section(s)
+- **Louisiana** — `rules-louisiana.md` — 1 source(s), 92 section(s); `guidance-louisiana.md` — 5 source(s), 5 section(s)
+- **Maine** — `rules-maine.md` — 1 source(s), 7 section(s); `guidance-maine.md` — 1 source(s), 1 section(s)
+- **Maryland** — `rules-maryland.md` — 1 source(s), 548 section(s); `guidance-maryland.md` — 6 source(s), 8 section(s)
+- **Massachusetts** — `rules-massachusetts.md` — 1 source(s), 96 section(s); `guidance-massachusetts.md` — 2 source(s), 15 section(s)
+- **Michigan** — `rules-michigan.md` — 1 source(s), 119 section(s); `guidance-michigan.md` — 8 source(s), 41 section(s)
+- **Minnesota** — `rules-minnesota.md` — 1 source(s), 199 section(s); `guidance-minnesota.md` — 13 source(s), 13 section(s)
+- **Mississippi** — `rules-mississippi.md` — 1 source(s), 34 section(s); `guidance-mississippi.md` — 3 source(s), 3 section(s)
+- **Missouri** — `rules-missouri.md` — 1 source(s), 34 section(s); no guidance sources registered
+- **Montana** — `rules-montana.md` — 1 source(s), 102 section(s); `guidance-montana.md` — 10 source(s), 18 section(s)
+- **Nebraska** — `rules-nebraska.md` — 1 source(s), 10 section(s); `guidance-nebraska.md` — 3 source(s), 8 section(s)
+- **Nevada** — `rules-nevada.md` — 1 source(s), 246 section(s); `guidance-nevada.md` — 2 source(s), 2 section(s)
+- **New Hampshire** — `rules-new-hampshire.md` — 1 source(s), 8 section(s); `guidance-new-hampshire.md` — 1 source(s), 1 section(s)
+- **New Jersey** — `rules-new-jersey.md` — 1 source(s), 42 section(s); `guidance-new-jersey.md` — 2 source(s), 13 section(s)
+- **New Mexico** — `rules-new-mexico.md` — 1 source(s), 260 section(s); no guidance sources registered; 1 candidate(s) awaiting review
+- **New York** — `rules-new-york.md` — 2 source(s), 133 section(s); `guidance-new-york.md` — 2 source(s), 136 section(s)
+- **North Carolina** — `rules-north-carolina.md` — 1 source(s), 85 section(s); `guidance-north-carolina.md` — 2 source(s), 48 section(s)
+- **North Dakota** — `rules-north-dakota.md` — 1 source(s), 12 section(s); `guidance-north-dakota.md` — 4 source(s), 4 section(s)
+- **Northern Mariana Islands** — `rules-northern-mariana-islands.md` — 1 source(s), 77 section(s); no guidance sources registered
+- **Ohio** — `rules-ohio.md` — 1 source(s), 66 section(s); `guidance-ohio.md` — 4 source(s), 293 section(s)
+- **Oklahoma** — `rules-oklahoma.md` — 1 source(s), 554 section(s); no guidance sources registered
+- **Oregon** — `rules-oregon.md` — 1 source(s), 111 section(s); `guidance-oregon.md` — 2 source(s), 34 section(s)
+- **Pennsylvania** — `rules-pennsylvania.md` — 1 source(s), 37 section(s); `guidance-pennsylvania.md` — 2 source(s), 39 section(s)
+- **Puerto Rico** — `rules-puerto-rico.md` — 1 source(s), 10 section(s); `guidance-puerto-rico.md` — 1 source(s), 66 section(s)
+- **Rhode Island** — `rules-rhode-island.md` — 2 source(s), 31 section(s); `guidance-rhode-island.md` — 4 source(s), 8 section(s)
+- **South Carolina** — `rules-south-carolina.md` — 1 source(s), 10 section(s); no guidance sources registered
+- **South Dakota** — `rules-south-dakota.md` — 1 source(s), 283 section(s); `guidance-south-dakota.md` — 4 source(s), 4 section(s); 1 candidate(s) awaiting review
+- **Tennessee** — `rules-tennessee.md` — 1 source(s), 145 section(s); `guidance-tennessee.md` — 2 source(s), 2 section(s)
+- **Texas** — `rules-texas.md` — 1 source(s), 118 section(s); `guidance-texas.md` — 10 source(s), 230 section(s)
+- **U.S. Virgin Islands** — `rules-us-virgin-islands.md` — 1 source(s), 1 section(s); `guidance-us-virgin-islands.md` — 3 source(s), 3 section(s); 1 candidate(s) awaiting review
+- **Utah** — `rules-utah.md` — 1 source(s), 60 section(s); no guidance sources registered
+- **Vermont** — `rules-vermont.md` — 1 source(s), 2 section(s); `guidance-vermont.md` — 3 source(s), 6 section(s)
+- **Virginia** — `rules-virginia.md` — 1 source(s), 76 section(s); `guidance-virginia.md` — 7 source(s), 41 section(s)
+- **Washington** — `rules-washington.md` — 1 source(s), 323 section(s); `guidance-washington.md` — 5 source(s), 43 section(s)
+- **West Virginia** — `rules-west-virginia.md` — 1 source(s), 140 section(s); `guidance-west-virginia.md` — 10 source(s), 13 section(s)
+- **Wisconsin** — `rules-wisconsin.md` — 1 source(s), 62 section(s); `guidance-wisconsin.md` — 6 source(s), 62 section(s)
+- **Wyoming** — `rules-wyoming.md` — 1 source(s), 140 section(s); no guidance sources registered

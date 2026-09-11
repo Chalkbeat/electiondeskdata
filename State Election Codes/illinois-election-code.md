@@ -2,7 +2,7 @@
 
 Source: official text scraped from https://www.ilga.gov/Legislation/ILCS/Acts?ChapterID=3&ChapterNumber=10&Chapter=ELECTIONS&MajorTopic=GOVERNMENT
 Sections: 49
-Currency: Live official ILGA database — current as maintained (checked 2026-09-10).
+Currency: Live official ILGA database — current as maintained (checked 2026-09-10: 49/49 article pages served normally to the scraper's Mozilla/5.0-prefixed User-Agent). www.ilga.gov answers HTTP 403 'Automated Request Blocked' to non-browser User-Agents and points automated users to ftp.ilga.gov/ILCS/, but that mirror's aReadMe.txt states it is a static copy 'updated on 11/21/2025 with all Public Acts through Public Act 104-433', refreshed only each Fall — ~10 months behind the live site, so it is deliberately NOT used.
 
 ## Illinois § 10 ILCS 120/Art. 10 heading
 

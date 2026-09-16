@@ -3580,3 +3580,44 @@ petition signers to sign their own names.
 • No authority exists in the petition laws for alternative 
 forms of signatures or for any person to sign for 
 another.
+
+## Kansas Secretary of State — Poll Agent Guide
+
+- **Resource category:** Direct manual, guide, or training-resource page
+- **Availability / limitations:** Official guide for poll agents (party/candidate observers) at Kansas polling places; linked from the SOS Election Guides & Resources page. Added 2026-09-16.
+- **Source:** https://sos.ks.gov/Pubs/Elections/Guides/Poll-Agent-Guide.pdf (fetched 2026-09-16)
+
+### Full text
+
+POLL AGENT GUIDE
+Kansas elections are conducted in an open and transparent manner. Interested individuals and groups 
+are welcome to observe election proceedings at polling locations, at local election offices and at county 
+and state canvasses. State law recognizes the need for public observation of election proceedings 
+through authorized poll agents, commonly known as poll watchers.
+The following individuals are automatically considered a poll agent: 1.) state or county party chair; 2.) 
+chair of a committee formed to support or oppose a question-submitted election; 3.) candidate for 
+office, including a write-in candidate for statewide office who has filed an affidavit of write-in candidacy 
+with the Secretary of State; 4.) precinct committeeman or committeewoman. In addition, a person 
+may be appointed as a poll agent by any of the aforementioned individuals as long as they have not 
+previously appointed another individual to the same polling place.
+APPOINTMENT PROCESS
+Appointments must be made in writing on Form PA provided online by the Secretary of State’s office at 
+sos.ks.gov. Forms may be filed up to and on election day. Completed forms must be filed with the local 
+election office.
+POLL AGENT REQUIREMENTS
+Poll agents must carry the completed appointment form and produce it upon request by an election 
+officer. If a candidate or precinct committee person is acting as a poll agent, they must carry 
+identification verifying their position as supplied by the local election office. Poll agents must be a 
+registered Kansas voter or a member of a candidate’s family. All poll agents must act in accordance 
+with policies adopted by the county election officer and the polling place supervising judge. Poll agents 
+must comply with state laws and regulations and local rules. Poll agents are required to wear a badge 
+identifying them as an election observer by wearing a badge containing the word “observer” in 32-point 
+type or larger.
+Polling agents may observe the voting process at the polling place they are appointed to and can also 
+observe county and state canvasses. They may request to be shown a ballot at the original canvass on 
+election day. Appointed poll agents must be at least 14 years old.
+Polling agents may not be within three feet of a voting booth or a table used by an election board. They 
+may not touch or handle a ballot or participate in the administration of ballots or ballot counting. Polling 
+agents are prohibited from deterring or obstructing any voter entering or exiting a polling place, any 
+voter while voting or an election board worker performing their official duties.
+Questions: call 1-800-8683 or visit sos.ks.gov.

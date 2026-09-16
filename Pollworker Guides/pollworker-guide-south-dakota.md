@@ -2297,3 +2297,91 @@ choose to vote a provisional ballot.  It is a crime to vote an absentee ballot a
 vote a provisional ballot.  The provisional ballot will be kept separate from the 
 regular ballots and will only be counted if the auditor can later verify that you have 
 not voted an absentee ballot.  Your provisional ballot may not be secret.”
+
+## South Dakota Secretary of State — Poll Watcher and Observer Guidelines
+
+- **Resource category:** Direct manual, guide, or training-resource page
+- **Availability / limitations:** Statewide guidelines for poll watchers and observers; filed under the SOS 'Archive' path but linked as current from the election-workers page (no 2026 successor). Added 2026-09-16.
+- **Source:** https://sdsos.gov/elections-voting/assets/Archive/Prior%20to%202026/PollWatcherObserverGuidelines.pdf (fetched 2026-09-16)
+- **Capture note:** Text recovered via OCR (macOS Vision) because the official PDF's embedded text layer is missing or unusable — expect occasional OCR artifacts.
+
+### Full text
+
+South Dakota Poll Watcher and Observer Guidelines
+South Dakota Secretary of State's Office, Monae L. Johnson
+South Dakota law allows poll watchers and observers to be present to observe the voting and counting
+activity at polling places and provides guidelines for poll watchers and observers. SDCL 12-18-8.1, 9, 9.1
+Any person at a polling place, to observe, who does not
+declare themselves to represent one of the categories below
+is not a poll watcher but is an observer. ARSD 05:02:12
+establishes the number of poll watchers allowed at each
+Those NOT allowed as Poll Watchers:
+• Election Board Workers
+• Candidates on the ballot (cannot be an Observer
+either)
+polling place for the following elections:
+• Primary*- ONE for each candidate, ONE for each slate of
+national convention delegates, ONE for each side of any
+ballot issue
+•General*- ONE for each party, ONE for each independent
+candidate, ONE for each slate of presidential electors, ONE
+for each side of any ballot issue
+*additional poll watchers are allowed if "adequate space" permits
+No person may publicize an official ballot
+after it is marked to any person in such a way
+as to reveal the contents of the official ballot,
+or the name of any candidate for whom the
+person has marked a vote. SDCL 12-18-27
+Within 100 feet of a polling place (includes absentee voting polling places), poll watchers and
+observers MAY NOT do any of the following: SDCL 12-18-3, 12-18-9.1, 12-26-21, 12-26-22
+• Campaign or wear buttons or clothing containing
+• Look into voting booths, read identifying numbers
+campaign information
+on photo identification cards or interfere with voters
+• Solicit votes for or against any person, political party
+in the act of voting or with the official action of the
+or ballot question
+election board
+• Maintain an "office or public-address system"
+• Disobey a lawful command by any election worker
+• Interfere with a voter's free access to the polling
+• Cause a disturbance or breach of peace
+place
+• Engage in disorderly conduct such as threatening
+• Interfere with the official actions of the election
+behavior or making unreasonable noise
+board
+• Gather petition signatures
+• Disrupt the administration of the polling place
+• Use the polling place telephone designated for the
+• Use any communication or photographic device in
+election board
+any manner which repeatedly distracts, interrupts or
+• Take any unilateral steps to change any action,
+intimidates any voter or election worker
+inaction or activity occurring at the polling place
+• Use any communication, photographic or video
+• Advocate for or against a voter as the voter
+device to take video or pictures of the pollbook
+interacts with the election board
+The process of sorting, validating, and counting
+absentee ballots must be open to poll watchers
+for the purpose of observing the process. A poll
+watcher shall keep a reasonable distance from
+ballots and identification information to protect
+the privacy of absentee voters. No record
+associating an individual voter with a ballot may
+be created. A violation of this section is a Class 2
+misdemeanor. SDCL 12-19-44
+Poll watchers must be positioned in a
+location where they can plainly see and hear
+what is done within the polling place but
+may not interfere in any way SDCL 12-18-
+9. Poll watchers and observers may
+converse with the election board and look at
+the pollbook only if it doesn't interfere with
+the voting process.
+If a poll watcher or observer has a concern or question about any action occurring in the polling
+place, that person should bring this concern to the attention of the precinct superintendent. It is
+then the superintendent's responsibility to respond to that question or concern.
+Last updated 08/25/2023

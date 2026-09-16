@@ -1,6 +1,6 @@
 # Poll worker guides — index
 
-Compiled from 'Pollworker Guides.xlsx' on 2026-09-10. One file per jurisdiction; entries without a public statewide manual carry the research notes explaining the gap.
+Compiled from 'Pollworker Guides.xlsx' on 2026-09-16. One file per jurisdiction; entries without a public statewide manual carry the research notes explaining the gap.
 
 - **Alabama** — `pollworker-guide-alabama.md` — 1/1 documents captured
 - **Alaska** — `pollworker-guide-alaska.md` — 3/3 documents captured
@@ -17,7 +17,7 @@ Compiled from 'Pollworker Guides.xlsx' on 2026-09-10. One file per jurisdiction;
 - **Illinois** — `pollworker-guide-illinois.md` — 1/1 documents captured
 - **Indiana** — `pollworker-guide-indiana.md` — 1/1 documents captured
 - **Iowa** — `pollworker-guide-iowa.md` — 1/1 documents captured
-- **Kansas** — `pollworker-guide-kansas.md` — 1/1 documents captured
+- **Kansas** — `pollworker-guide-kansas.md` — 2/2 documents captured
 - **Kentucky** — `pollworker-guide-kentucky.md` — 1/1 documents captured
 - **Louisiana** — `pollworker-guide-louisiana.md` — 1/1 documents captured
 - **Maine** — `pollworker-guide-maine.md` — 1/1 documents captured
@@ -42,7 +42,7 @@ Compiled from 'Pollworker Guides.xlsx' on 2026-09-10. One file per jurisdiction;
 - **Pennsylvania** — `pollworker-guide-pennsylvania.md` — 1/1 documents captured
 - **Rhode Island** — `pollworker-guide-rhode-island.md` — 1/1 documents captured
 - **South Carolina** — `pollworker-guide-south-carolina.md` — 1/1 documents captured
-- **South Dakota** — `pollworker-guide-south-dakota.md` — 3/3 documents captured
+- **South Dakota** — `pollworker-guide-south-dakota.md` — 4/4 documents captured
 - **Tennessee** — `pollworker-guide-tennessee.md` — no public documents (notes only)
 - **Texas** — `pollworker-guide-texas.md` — 1/1 documents captured
 - **Utah** — `pollworker-guide-utah.md` — no public documents (notes only)

@@ -3652,3 +3652,171 @@ Front not to scale
 Appendix 24 (cont.) 
 Sample Voter Confirmation Card (cont.) 
 Back not to scale
+
+## Oregon Secretary of State — Voter Assistance Quick Guide (SEL 620)
+
+- **Resource category:** Direct manual, guide, or training-resource page
+- **Availability / limitations:** Two-page official quick guide on assisting voters (rules for anyone helping a voter mark a ballot); listed in the SOS Elections manuals catalog under 'Voter Assistance'. Added 2026-09-16.
+- **Source:** https://sos.oregon.gov/elections/Documents/SEL620.pdf (fetched 2026-09-16)
+
+### Full text
+
+g Do not summarize, edit, or make  
+comments that are meant to coerce  
+or persuade the voter when reading  
+materials to the voter.
+g Do not try to influence the person  
+you are assisting to choose or not  
+choose a particular political party.
+g Do not try to influence the person  
+you are assisting to vote their ballot  
+in a particular way.
+g Do not display things that suggest a  
+political preference or party allegiance.
+g Do not wear anything that would  
+reasonably be understood to be  
+associated with a past, present or  
+future political party or political  
+preference.
+general guidelines
+I want to assist a voter
+I need assistance to vote
+Any Oregon voter can get assistance to 
+g	register to vote
+gvote their ballot
+greturn their ballot
+You can also get help from a care provider, family member  
+or someone else you choose.
+Voter assistance
+Call your County Elections Office or 1 866 673 8683 to get 
+assistance.
+g A County Voter Assistance Team
+g	A Facility Voter Assistance Team
+g Someone chosen by the voter with some exceptions (see below)
+who can provide assistance?
+g	The voter’s employer
+g	An agent of the voter’s employer
+g	A union officer or agent of a union of which the voter is a member
+who cannot provide assistance?
+I want to assist a voter
+Your County Elections Office can suggest resources  
+that you can use to help inform voters. 
+Resources must be non-partisan and unbiased.
+Call your County Elections Office to learn about resources.
+A congregate living facility may form a Facility Assistance Team  
+to assist voters living in their facility. 
+Teams must be made up of two registered voters that are not  
+of the same political party.
+what is a facility voter assistance team?
+All congregate living facilities should let their residents 
+know that assistance is available to them. 
+Assistance quick guide
+www.oregonvotes.gov
+1 866 673 8683 
+se habla español
+1 800 735 2900 
+for the hearing impaired
+www.oregonvotes.gov
+1 866 673 8683 
+se habla español
+1 800 735 2900 
+for the hearing impaired
+Check for errors
+g Make sure the voter has 
+accurately completed their 
+ballot.
+g Do not make any marks outside 
+of the ovals or boxes. 
+g Offer to correct any stray marks 
+made by the voter to indicate the 
+voter’s true intent.
+g Do not change the vote unless  
+the voter you are assisting asks  
+you to do so.
+g Do not coerce or pressure the  
+voter to vote in a certain way  
+or for a certain candidate.
+Assist the voter to request a replacement ballot if:
+g	the voter makes a mistake 
+g	the ballot is damaged or spoiled
+g	the voter loses their ballot
+g	for any other reason 
+Call your County Elections Office or 1 866 673 8683 to request a 
+replacement ballot.
+Assist a voter to register
+The voter can register to vote at:  
+g	oregonvotes.gov
+g	any County Elections Office
+g	the Secretary of State’s Office
+g	any Department of Motor Vehicles (DMV)
+Assist a voter
+Assist a voter to vote their ballot
+Respect the voter’s right to privacy. 
+Do not share how the voter voted with 
+anyone. 
+Carefully read all instructions  on the ballot to the voter.
+Check the back of the ballot for additional election contests. 
+Explain to the voter that if they vote for more  
+candidates than allowed, or if they vote both  
+Yes and No on a measure, it will not count for  
+that candidate or measure. 
+The voter is not required to vote on every  
+contest. Do not force the voter to vote on all  
+candidate contests or measures on the ballot.  
+Those they vote on will still count.  
+Assist the voter to complete a Signature Stamp Attestation form if:
+g	the voter is unable to sign their registration
+g	the voter is unable to sign their return identification envelope
+Contact the voter’s County Elections Official to get a Signature Stamp 
+Attestation form. 
+Do not try to influence the person you are assisting to choose or  
+not choose a particular political party.
+to register
+to vote their ballot
+to return their ballot
+1 Read all instructions to the voter
+2 Check the back of the ballot
+3 Explain 
+g Do not vote for more options than  
+allowed per contest. 
+g	You do not have to vote on every  
+contest. Those contests you vote  
+on will still count.
+1 Insert the ballot in the secrecy sleeve 
+if one was provided in the ballot packet. 
+Otherwise, simply place the ballot in the 
+return identification envelope and seal it.
+2 Have the voter sign the return the return 
+identification envelope.
+3 Return the ballot within 2 days or by 
+election day, whichever is sooner.
+The voter can register to vote at:  
+g	oregonvotes.gov
+g	any County Elections Office
+g	the Secretary of State’s Office
+g	any Department of Motor Vehicles (DMV)
+Call your County Elections Office  
+or 1 866 673 8683 to request a 
+replacement ballot.
+Assist a voter
+Assist a voter to return their ballot
+Insert the ballot in 
+the secrecy sleeve 
+if one was provided 
+in the ballot packet. 
+Otherwise, simply 
+place the ballot in the 
+return identification 
+envelope and seal it.
+Have the voter sign the 
+return identification 
+envelope. 
+Return the ballot within 
+2 days or by election day, 
+whichever is sooner. Mail 
+the ballot by election day 
+and with a valid postmark, 
+drop it off at a County 
+Elections Office, or deposit 
+it at an official dropsite by
+8 p.m. on election day.

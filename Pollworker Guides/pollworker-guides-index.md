@@ -38,7 +38,7 @@ Compiled from 'Pollworker Guides.xlsx' on 2026-09-16. One file per jurisdiction;
 - **North Dakota** — `pollworker-guide-north-dakota.md` — 1/1 documents captured
 - **Ohio** — `pollworker-guide-ohio.md` — 1/1 documents captured
 - **Oklahoma** — `pollworker-guide-oklahoma.md` — 1/1 documents captured
-- **Oregon** — `pollworker-guide-oregon.md` — 2/2 documents captured
+- **Oregon** — `pollworker-guide-oregon.md` — 3/3 documents captured
 - **Pennsylvania** — `pollworker-guide-pennsylvania.md` — 1/1 documents captured
 - **Rhode Island** — `pollworker-guide-rhode-island.md` — 1/1 documents captured
 - **South Carolina** — `pollworker-guide-south-carolina.md` — 1/1 documents captured
